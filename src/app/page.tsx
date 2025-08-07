@@ -71,8 +71,6 @@ export default function Home() {
         </div>
       </section>
 
-      </main>
-
       {/* Footer */}
       <footer className="bg-gray-50 py-12">
         <div className="max-w-6xl mx-auto px-4 text-center">
