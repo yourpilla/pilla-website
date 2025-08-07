@@ -33,7 +33,7 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
     notFound();
   }
 
-  const synonyms = term.frontmatter.synonyms;
+  const synonyms = Array.isArray(term.frontmatter.synonyms) ? term.frontmatter.synonyms as string[] : [];
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
