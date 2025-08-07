@@ -10,7 +10,7 @@ export interface ContentItem {
   meta?: string;
   uniqueId?: string;
   content: string;
-  frontmatter: Record<string, any>;
+  frontmatter: Record<string, unknown>;
   category: string;
 }
 
@@ -44,11 +44,10 @@ export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'l
 
 export function getContentBySlug(category: string, slug: string): ContentItem | null {
   try {
-    const filePath = path.join(contentDirectory, category, `${slug}.md`);
+    let filePath = path.join(contentDirectory, category, `${slug}.md`);
     
     if (!fs.existsSync(filePath)) {
       // Try nested structure for jobs
-      const nestedPath = path.join(contentDirectory, category, slug + '.md');
       const files = getAllMarkdownFiles(path.join(contentDirectory, category));
       const matchingFile = files.find(file => {
         const relativePath = path.relative(path.join(contentDirectory, category), file);
