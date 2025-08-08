@@ -38,30 +38,39 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Breadcrumb */}
-      <div className="bg-white border-b border-gray-200">
-        <div className="max-w-4xl mx-auto px-4 py-4">
-          <nav className="flex items-center space-x-2 text-sm">
-            <Link href="/" className="text-blue-600 hover:text-blue-800">
-              Home
-            </Link>
-            <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-              <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-            </svg>
-            <Link href="/glossary" className="text-blue-600 hover:text-blue-800">
-              Glossary
-            </Link>
-            <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-              <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-            </svg>
-            <span className="text-gray-600">{term.title}</span>
-          </nav>
-        </div>
-      </div>
-
       {/* Main Content */}
       <div className="max-w-4xl mx-auto px-4 py-12">
         <div className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
+          {/* Breadcrumb */}
+          <div className="px-8 pt-6 pb-2">
+            <nav aria-label="Breadcrumb">
+              <ol className="flex items-center space-x-2 text-sm">
+                <li>
+                  <Link href="/" className="text-blue-600 hover:text-blue-800">
+                    Home
+                  </Link>
+                </li>
+                <li>
+                  <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+                  </svg>
+                </li>
+                <li>
+                  <Link href="/glossary" className="text-blue-600 hover:text-blue-800">
+                    Glossary
+                  </Link>
+                </li>
+                <li>
+                  <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+                  </svg>
+                </li>
+                <li aria-current="page" className="text-gray-600">
+                  {term.title}
+                </li>
+              </ol>
+            </nav>
+          </div>
           {/* Header */}
           <div className="bg-gradient-to-r from-blue-50 to-indigo-50 px-8 py-12 text-center">
             <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-100 rounded-full mb-6">
@@ -70,7 +79,7 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
               </svg>
             </div>
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4 leading-tight">
-              {term.title}
+              {term.title} meaning in hospitality
             </h1>
             {term.meta && (
               <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
@@ -97,6 +106,9 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
           
           {/* Content */}
           <div className="px-8 py-12">
+            <h2 className="text-3xl font-bold text-gray-900 text-center mb-8">
+              {term.frontmatter.seo_title || `What is ${term.title} in the hospitality industry?`}
+            </h2>
             <article className="prose prose-lg prose-blue max-w-none mx-auto text-center">
               <div className="text-gray-700 leading-relaxed space-y-6 text-lg">
                 <div className="whitespace-pre-line text-left max-w-3xl mx-auto">
