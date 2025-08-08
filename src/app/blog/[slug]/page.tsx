@@ -2,6 +2,7 @@ import { getContentBySlug, getAllSlugs } from '@/lib/content';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Image from 'next/image';
+import MarkdownContent from '@/components/MarkdownContent';
 
 interface BlogPageProps {
   params: Promise<{ slug: string }>;
@@ -111,11 +112,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="max-w-xl text-base/7 text-gray-600 lg:max-w-lg">
-              <article className="prose prose-lg max-w-none text-gray-600 [&>h2]:text-gray-900 [&>h3]:text-gray-900 [&>h4]:text-gray-900 [&>strong]:text-gray-900">
-                <div className="whitespace-pre-line">
-                  {post.content}
-                </div>
-              </article>
+              <MarkdownContent content={post.content} />
               
               <ul role="list" className="mt-8 space-y-8 text-gray-600">
                 <li className="flex gap-x-3">

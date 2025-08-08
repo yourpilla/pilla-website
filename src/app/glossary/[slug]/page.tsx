@@ -2,7 +2,7 @@ import { getContentBySlug, getAllSlugs } from '@/lib/content';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Link from 'next/link';
-import ReactMarkdown from 'react-markdown';
+import MarkdownContent from '@/components/MarkdownContent';
 
 interface GlossaryPageProps {
   params: Promise<{ slug: string }>;
@@ -110,41 +110,9 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
             <h2 className="text-3xl font-bold text-gray-900 text-center mb-8">
               {(term.frontmatter.seo_title as string) || `What is ${term.title} in the hospitality industry?`}
             </h2>
-            <article className="prose prose-lg prose-blue max-w-none mx-auto">
-              <div className="text-gray-700 leading-relaxed text-left max-w-3xl mx-auto">
-                <ReactMarkdown
-                  components={{
-                    h2: ({ children }) => (
-                      <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">{children}</h3>
-                    ),
-                    p: ({ children }) => (
-                      <p className="mb-4 text-lg leading-relaxed">{children}</p>
-                    ),
-                    a: ({ href, children }) => (
-                      <a
-                        href={href}
-                        className="text-blue-600 hover:text-blue-800 underline"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        {children}
-                      </a>
-                    ),
-                    ul: ({ children }) => (
-                      <ul className="list-none space-y-3 mt-6">{children}</ul>
-                    ),
-                    li: ({ children }) => (
-                      <li className="flex items-start">
-                        <span className="text-blue-600 mr-2">•</span>
-                        <span>{children}</span>
-                      </li>
-                    )
-                  }}
-                >
-                  {term.content}
-                </ReactMarkdown>
-              </div>
-            </article>
+            <div className="text-left max-w-3xl mx-auto">
+              <MarkdownContent content={term.content} />
+            </div>
             
             {/* Call to Action */}
             <div className="mt-12 text-center">
