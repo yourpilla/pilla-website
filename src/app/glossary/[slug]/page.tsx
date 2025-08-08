@@ -107,9 +107,6 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
           
           {/* Content */}
           <div className="px-8 py-12">
-            <h2 className="text-3xl font-bold text-gray-900 text-center mb-8">
-              {(term.frontmatter.seo_title as string) || `What is ${term.title} in the hospitality industry?`}
-            </h2>
             <div className="text-left max-w-3xl mx-auto">
               <MarkdownContent content={term.content} />
             </div>
