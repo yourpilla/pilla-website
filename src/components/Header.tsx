@@ -40,9 +40,11 @@ export default function Header() {
           <Link href="/" className="-m-1.5 p-1.5">
             <span className="sr-only">Pilla</span>
             <div className="flex items-center">
-              <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">P</span>
-              </div>
+              <img 
+                src="/logo full white 512x512.png" 
+                alt="Pilla Logo" 
+                className="w-8 h-8"
+              />
               <span className="ml-2 text-xl font-bold text-gray-900">Pilla</span>
             </div>
           </Link>
@@ -113,9 +115,11 @@ export default function Header() {
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Pilla</span>
               <div className="flex items-center">
-                <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">P</span>
-                </div>
+                <img 
+                  src="/logo full white 512x512.png" 
+                  alt="Pilla Logo" 
+                  className="w-8 h-8"
+                />
                 <span className="ml-2 text-xl font-bold text-gray-900">Pilla</span>
               </div>
             </Link>
