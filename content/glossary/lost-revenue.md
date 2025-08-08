@@ -1,0 +1,22 @@
+---
+title: "Lost Revenue"
+slug: "lost-revenue"
+meta: >-
+  Lost revenue refers to potential income that a hotel, restaurant, cafe, or bar misses out on due to cancellations, no-shows, or unoccupied rooms and tables.
+seo_title: "What are Lost Revenues in the hospitality industry?"
+unique_id: "1726569751883x389488426275563140"
+---
+
+Lost revenue is the revenue a business misses out on due to various reasons. This can be unsold rooms, unbooked tables, cancellations or missed upsell opportunities. It's the difference between what a business could have earned and what it actually earned.
+
+In hospitality, lost revenue is a key metric that impacts profitability and overall business performance. By tracking and analysing lost revenue, managers can identify areas to improve, optimise pricing and implement measures to maximise occupancy and sales. Knowing lost revenue helps businesses make informed decisions on resource allocation, marketing and operational efficiency.
+
+Let’s say you're a restaurant manager and you notice your restaurant is only half full on weeknights. You calculate if all tables were full you'd earn an extra £1,000 per night. That £1,000 is your lost revenue. To fix this, you might introduce a weekday happy hour to attract more customers or partner with local businesses to offer dinner promotions. By focusing on reducing lost revenue, you can increase your restaurant’s profitability and make the most of your resources.'
+
+## External Reading
+
+- [A comprehensive glossary of hotel revenue management terms, providing detailed explanations and insights into industry jargon.](https://www.mylighthouse.com/resources/blog/hotel-revenue-management-glossary)
+- [Offers definitions and phrases used in the hospitality industry, essential for understanding revenue management concepts.](https://ideas.com/tools-resources/hotel-glossary-terms/)
+- [An ultimate guide to revenue management, explaining the art and science of predicting demand and maximizing revenue.](https://www.netsuite.com/portal/resource/articles/financial-management/revenue-management.shtml)
+- [Defines hotel revenue management and discusses effective strategies for increasing revenue in the hospitality sector.](https://www.altexsoft.com/blog/hotel-revenue-management-solutions-best-practices-revenue-managers-role/)
+- [An in-depth guide to hotel revenue management, covering strategic distribution and pricing tactics for optimizing revenue.](https://www.hotelnewsresource.com/article119366.html)
