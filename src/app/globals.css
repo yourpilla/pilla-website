@@ -2,7 +2,7 @@
 
 :root {
   /* Brand Colors */
-  --background: #F9FCFF;          /* Main background - more blue-tinted */
+  --background: #FAF9FB;          /* Main background - softer on eyes */
   --card-background: #FFFFFF;     /* Cards - pure white to match headers/footers */
   --foreground: #374151;          /* Main text */
   --muted: #9CA3AF;               /* Secondary text, placeholders */
@@ -87,4 +87,9 @@ h6 { font-size: var(--text-lg); }
 /* Subtitle text that should use main text color instead of muted */
 .text-subtitle {
   color: var(--foreground);
+}
+
+/* Header group background */
+.bg-header-group {
+  background-color: #f8fbfe;
 }

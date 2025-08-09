@@ -103,12 +103,7 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
             </nav>
           </div>
           {/* Header */}
-          <div className="bg-card px-8 py-12 text-center">
-            <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-100 rounded-full mb-6">
-              <svg className="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V21C3 22.11 3.89 23 5 23H19C20.11 23 21 22.11 21 21V9M19 9H14V4H19V9Z"/>
-              </svg>
-            </div>
+          <div className="bg-header-group px-8 py-12 text-center">
             <h1 className="mb-4 leading-tight">
               {term.title} meaning in hospitality
             </h1>
