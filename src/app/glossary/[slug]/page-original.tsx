@@ -68,10 +68,10 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <div className="min-h-screen" style={{backgroundColor: 'var(--background)'}}>
+      <div className="min-h-screen bg-gray-50">
       {/* Main Content */}
       <div className="max-w-4xl mx-auto px-4 py-12">
-        <div className="bg-card border-default rounded-default shadow-sm overflow-hidden">
+        <div className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
           {/* Breadcrumb */}
           <div className="px-8 pt-6 pb-2">
             <nav aria-label="Breadcrumb">
@@ -103,29 +103,29 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
             </nav>
           </div>
           {/* Header */}
-          <div className="bg-card px-8 py-12 text-center border-b border-default">
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 px-8 py-12 text-center">
             <div className="inline-flex items-center justify-center w-16 h-16 bg-blue-100 rounded-full mb-6">
               <svg className="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V21C3 22.11 3.89 23 5 23H19C20.11 23 21 22.11 21 21V9M19 9H14V4H19V9Z"/>
               </svg>
             </div>
-            <h1 className="mb-4 leading-tight">
+            <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4 leading-tight">
               {term.title} meaning in hospitality
             </h1>
             {term.meta && (
-              <p className="text-muted max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
+              <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
                 {term.meta}
               </p>
             )}
             
             {synonyms && synonyms.length > 0 && (
               <div className="mt-8">
-                <p className="text-muted mb-3 font-semibold" style={{fontSize: 'var(--text-sm)'}}>Also known as:</p>
+                <p className="text-sm font-semibold text-gray-700 mb-3">Also known as:</p>
                 <div className="flex flex-wrap justify-center gap-2">
                   {synonyms.map((synonym: string, index: number) => (
                     <span 
                       key={index}
-                      className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium"
+                      className="bg-blue-100 text-blue-800 text-sm px-4 py-2 rounded-full font-medium"
                     >
                       {synonym}
                     </span>
@@ -143,17 +143,17 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
             
             {/* Call to Action */}
             <div className="mt-12 text-center">
-              <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                <h3 className="mb-3 font-semibold" style={{fontSize: 'var(--text-xl)'}}>
+              <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-8 max-w-2xl mx-auto">
+                <h3 className="text-xl font-semibold text-gray-900 mb-3">
                   Learn More About Hospitality
                 </h3>
-                <p className="text-muted mb-6">
+                <p className="text-gray-600 mb-6">
                   Explore our comprehensive glossary of hospitality terms and boost your industry knowledge.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link
                     href="/glossary"
-                    className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-default hover:bg-blue-700 transition-colors"
+                    className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors"
                   >
                     <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
@@ -162,7 +162,7 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
                   </Link>
                   <Link
                     href="/blog"
-                    className="inline-flex items-center px-6 py-3 bg-card text-blue-600 font-medium rounded-default border-default hover:bg-blue-50 transition-colors"
+                    className="inline-flex items-center px-6 py-3 bg-white text-blue-600 font-medium rounded-lg border border-blue-200 hover:bg-blue-50 transition-colors"
                   >
                     <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
