@@ -2,8 +2,8 @@
 
 :root {
   /* Brand Colors */
-  --background: #F8FAFC;          /* Main background - blue-tinted off-white */
-  --card-background: #FCFDFE;     /* Cards - closer to white, same hue */
+  --background: #F9FCFF;          /* Main background - more blue-tinted */
+  --card-background: #FFFFFF;     /* Cards - pure white to match headers/footers */
   --foreground: #374151;          /* Main text */
   --muted: #9CA3AF;               /* Secondary text, placeholders */
   --border: #D0D5DD;              /* Borders */
@@ -56,7 +56,7 @@ body {
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
   color: var(--foreground);
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.25;
 }
 
@@ -82,4 +82,9 @@ h6 { font-size: var(--text-lg); }
 
 .text-muted {
   color: var(--muted);
+}
+
+/* Subtitle text that should use main text color instead of muted */
+.text-subtitle {
+  color: var(--foreground);
 }
