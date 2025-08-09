@@ -353,7 +353,7 @@ export default function Example() {
           <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
             <div className="flex">
               <div className="relative flex items-center gap-x-4 rounded-full bg-white px-4 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-                <span className="font-semibold text-indigo-600">We're hiring</span>
+                <span className="font-semibold text-indigo-600">We&rsquo;re hiring</span>
                 <span aria-hidden="true" className="h-4 w-px bg-gray-900/10" />
                 <a href="#" className="flex items-center gap-x-1">
                   <span aria-hidden="true" className="absolute inset-0" />
