@@ -11,6 +11,7 @@ import {
   GlobeAltIcon,
   ScaleIcon,
 } from '@heroicons/react/24/outline'
+import Link from 'next/link'
 
 const navigation = [
   { name: 'Resources', href: '/blog' },
@@ -223,10 +224,10 @@ export default function Homepage() {
       <header className="absolute inset-x-0 top-0 z-50">
         <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
           <div className="flex lg:flex-1">
-            <a href="/" className="-m-1.5 p-1.5">
+            <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Pilla</span>
               <img alt="Pilla" src="/logo full white 512x512.png" className="h-8 w-auto" />
-            </a>
+            </Link>
           </div>
           <div className="flex lg:hidden">
             <button
@@ -255,10 +256,10 @@ export default function Homepage() {
           <div className="fixed inset-0 z-50" />
           <DialogPanel className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-card p-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
             <div className="flex items-center justify-between">
-              <a href="/" className="-m-1.5 p-1.5">
+              <Link href="/" className="-m-1.5 p-1.5">
                 <span className="sr-only">Pilla</span>
                 <img alt="Pilla" src="/logo full white 512x512.png" className="h-8 w-auto" />
-              </a>
+              </Link>
               <button
                 type="button"
                 onClick={() => setMobileMenuOpen(false)}
@@ -329,11 +330,11 @@ export default function Homepage() {
               <div className="relative flex items-center gap-x-4 rounded-full bg-card px-4 py-1 text-sm/6 text-muted ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                 <span className="font-semibold text-blue-600">New glossary terms added</span>
                 <span aria-hidden="true" className="h-4 w-px bg-gray-900/10" />
-                <a href="/glossary" className="flex items-center gap-x-1">
+                <Link href="/glossary" className="flex items-center gap-x-1">
                   <span aria-hidden="true" className="absolute inset-0" />
                   See latest terms
                   <ChevronRightIcon aria-hidden="true" className="-mr-2 size-5 text-gray-400" />
-                </a>
+                </Link>
               </div>
             </div>
             <h1 className="mt-10 text-5xl font-semibold tracking-tight text-pretty sm:text-7xl" style={{color: 'var(--foreground)'}}>
@@ -343,15 +344,15 @@ export default function Homepage() {
               Comprehensive glossary, expert insights, and practical guides to excel in the hospitality industry. From restaurant management to guest services.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
-              <a
+              <Link
                 href="/glossary"
                 className="rounded-default bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-blue-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
               >
                 Explore Glossary
-              </a>
-              <a href="/blog" className="text-sm/6 font-semibold" style={{color: 'var(--foreground)'}}>
+              </Link>
+              <Link href="/blog" className="text-sm/6 font-semibold" style={{color: 'var(--foreground)'}}>
                 Read Articles <span aria-hidden="true">→</span>
-              </a>
+              </Link>
             </div>
           </div>
           <div className="mt-16 sm:mt-24 lg:mt-0 lg:shrink-0 lg:grow">
@@ -392,7 +393,7 @@ export default function Homepage() {
           <figure className="mt-10">
             <blockquote className="text-center text-xl/8 font-semibold sm:text-2xl/9" style={{color: 'var(--foreground)'}}>
               <p>
-                "Pilla has transformed how we train our hospitality staff. The comprehensive glossary and practical guides have become essential resources for our team."
+                &ldquo;Pilla has transformed how we train our hospitality staff. The comprehensive glossary and practical guides have become essential resources for our team.&rdquo;
               </p>
             </blockquote>
             <figcaption className="mt-10">
@@ -701,7 +702,7 @@ export default function Homepage() {
             <a href="mailto:hello@yourpilla.com" className="font-semibold text-blue-600 hover:text-blue-500">
               hello@yourpilla.com
             </a>{' '}
-            and we'll get back to you quickly.
+            and we&rsquo;ll get back to you quickly.
           </p>
           <div className="mt-20">
             <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:space-y-0 sm:gap-x-6 sm:gap-y-16 lg:grid-cols-3 lg:gap-x-10">
@@ -727,15 +728,15 @@ export default function Homepage() {
               Join thousands of hospitality professionals who rely on Pilla for accurate terminology and expert insights.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
+              <Link
                 href="/glossary"
                 className="rounded-default bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-blue-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
               >
                 Browse Glossary
-              </a>
-              <a href="/blog" className="text-sm/6 font-semibold" style={{color: 'var(--foreground)'}}>
+              </Link>
+              <Link href="/blog" className="text-sm/6 font-semibold" style={{color: 'var(--foreground)'}}>
                 Read Articles <span aria-hidden="true">→</span>
-              </a>
+              </Link>
             </div>
           </div>
         </div>
