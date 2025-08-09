@@ -353,7 +353,7 @@ export default function Example() {
           <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
             <div className="flex">
               <div className="relative flex items-center gap-x-4 rounded-full bg-white px-4 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-                <span className="font-semibold text-indigo-600">We're hiring</span>
+                <span className="font-semibold text-indigo-600">We&rsquo;re hiring</span>
                 <span aria-hidden="true" className="h-4 w-px bg-gray-900/10" />
                 <a href="#" className="flex items-center gap-x-1">
                   <span aria-hidden="true" className="absolute inset-0" />
@@ -422,8 +422,8 @@ export default function Example() {
           <figure className="mt-10">
             <blockquote className="text-center text-xl/8 font-semibold text-gray-900 sm:text-2xl/9">
               <p>
-                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias
-                molestiae. Numquam corrupti in laborum sed rerum et corporis."
+                &ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias
+                molestiae. Numquam corrupti in laborum sed rerum et corporis.&rdquo;
               </p>
             </blockquote>
             <figcaption className="mt-10">
@@ -848,11 +848,11 @@ export default function Example() {
         <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
           <h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Frequently asked questions</h2>
           <p className="mt-6 max-w-2xl text-base/7 text-gray-600">
-            Have a different question and can't find the answer you're looking for? Reach out to our support team by{' '}
+            Have a different question and can&rsquo;t find the answer you&rsquo;re looking for? Reach out to our support team by{' '}
             <a href="#" className="font-semibold text-indigo-600 hover:text-indigo-500">
               sending us an email
             </a>{' '}
-            and we'll get back to you as soon as we can.
+            and we&rsquo;ll get back to you as soon as we can.
           </p>
           <div className="mt-20">
             <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:space-y-0 sm:gap-x-6 sm:gap-y-16 lg:grid-cols-3 lg:gap-x-10">
