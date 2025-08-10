@@ -240,7 +240,7 @@ export default function Example() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <div className="bg-white">
+    <div className="bg-main">
       <header className="absolute inset-x-0 top-0 z-50">
         <nav aria-label="Global" className="flex items-center justify-between p-6 lg:px-8">
           <div className="flex lg:flex-1">
@@ -325,30 +325,6 @@ export default function Example() {
       </header>
 
       <div className="relative isolate pt-14">
-        <svg
-          aria-hidden="true"
-          className="absolute inset-0 -z-10 size-full mask-[radial-gradient(100%_100%_at_top_right,white,transparent)] stroke-gray-200"
-        >
-          <defs>
-            <pattern
-              x="50%"
-              y={-1}
-              id="83fd4e5a-9d52-42fc-97b6-718e5d7ee527"
-              width={200}
-              height={200}
-              patternUnits="userSpaceOnUse"
-            >
-              <path d="M100 200V.5M.5 .5H200" fill="none" />
-            </pattern>
-          </defs>
-          <svg x="50%" y={-1} className="overflow-visible fill-gray-50">
-            <path
-              d="M-100.5 0h201v201h-201Z M699.5 0h201v201h-201Z M499.5 400h201v201h-201Z M-300.5 600h201v201h-201Z"
-              strokeWidth={0}
-            />
-          </svg>
-          <rect fill="url(#83fd4e5a-9d52-42fc-97b6-718e5d7ee527)" width="100%" height="100%" strokeWidth={0} />
-        </svg>
         <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:py-40">
           <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
             <div className="flex">
@@ -362,10 +338,10 @@ export default function Example() {
                 </a>
               </div>
             </div>
-            <h1 className="mt-10 text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl">
+            <h1 className="mt-10 display-1">
               A better way to ship your projects
             </h1>
-            <p className="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8">
+            <p className="mt-8 subtitle-lg">
               Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
               fugiat veniam occaecat fugiat aliqua. Anim aute id magna aliqua ad ad non deserunt sunt.
             </p>
@@ -410,9 +386,7 @@ export default function Example() {
         </div>
       </div>
 
-      <section className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:px-8">
-        <div className="absolute inset-0 -z-10 bg-[radial-gradient(45rem_50rem_at_top,var(--color-indigo-100),white)] opacity-20" />
-        <div className="absolute inset-y-0 right-1/2 -z-10 mr-16 w-[200%] origin-bottom-left skew-x-[-30deg] bg-white shadow-xl ring-1 shadow-indigo-600/10 ring-indigo-50 sm:mr-28 lg:mr-0 xl:mr-16 xl:origin-center" />
+      <section className="bg-main px-6 py-24 sm:py-32 lg:px-8">
         <div className="mx-auto max-w-2xl lg:max-w-4xl">
           <img
             alt=""
@@ -420,7 +394,7 @@ export default function Example() {
             className="mx-auto h-12"
           />
           <figure className="mt-10">
-            <blockquote className="text-center text-xl/8 font-semibold text-gray-900 sm:text-2xl/9">
+            <blockquote className="text-center lead">
               <p>
                 &ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias
                 molestiae. Numquam corrupti in laborum sed rerum et corporis.&rdquo;
@@ -444,16 +418,16 @@ export default function Example() {
         </div>
       </section>
 
-      <div className="overflow-hidden bg-white py-24 sm:py-32">
+      <div className="overflow-hidden bg-main py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
             <div className="lg:pt-4 lg:pr-8">
               <div className="lg:max-w-lg">
-                <h2 className="text-base/7 font-semibold text-indigo-600">Deploy faster</h2>
-                <p className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+                <h2 className="eyebrow">Deploy faster</h2>
+                <p className="mt-2">
                   A better workflow
                 </p>
-                <p className="mt-6 text-lg/8 text-gray-700">
+                <p className="mt-6 lead">
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque,
                   iste dolor cupiditate blanditiis ratione.
                 </p>
@@ -481,10 +455,10 @@ export default function Example() {
         </div>
       </div>
 
-      <div className="bg-white py-24 sm:py-32">
+      <div className="bg-main py-24 sm:py-32">
         <div className="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
-          <h2 className="text-base/7 font-semibold text-indigo-600">Deploy faster</h2>
-          <p className="mt-2 max-w-lg text-4xl font-semibold tracking-tight text-pretty text-gray-950 sm:text-5xl">
+          <h2 className="eyebrow">Deploy faster</h2>
+          <p className="mt-2 max-w-lg">
             Everything you need to deploy your app
           </p>
           <div className="mt-10 grid grid-cols-1 gap-4 sm:mt-16 lg:grid-cols-6 lg:grid-rows-2">
@@ -497,9 +471,9 @@ export default function Example() {
                   className="h-80 object-cover object-left"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="text-sm/4 font-semibold text-indigo-600">Performance</h3>
+                  <h3 className="eyebrow">Performance</h3>
                   <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Lightning-fast builds</p>
-                  <p className="mt-2 max-w-lg text-sm/6 text-gray-600">
+                  <p className="mt-2 max-w-lg text-sm text-muted">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. In gravida justo et nulla efficitur, maximus
                     egestas sem pellentesque.
                   </p>
@@ -516,9 +490,9 @@ export default function Example() {
                   className="h-80 object-cover object-left lg:object-right"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="text-sm/4 font-semibold text-indigo-600">Releases</h3>
+                  <h3 className="eyebrow">Releases</h3>
                   <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Push to deploy</p>
-                  <p className="mt-2 max-w-lg text-sm/6 text-gray-600">
+                  <p className="mt-2 max-w-lg text-sm text-muted">
                     Curabitur auctor, ex quis auctor venenatis, eros arcu rhoncus massa, laoreet dapibus ex elit vitae
                     odio.
                   </p>
@@ -535,9 +509,9 @@ export default function Example() {
                   className="h-80 object-cover object-left"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="text-sm/4 font-semibold text-indigo-600">Speed</h3>
+                  <h3 className="eyebrow">Speed</h3>
                   <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Built for power users</p>
-                  <p className="mt-2 max-w-lg text-sm/6 text-gray-600">
+                  <p className="mt-2 max-w-lg text-sm text-muted">
                     Sed congue eros non finibus molestie. Vestibulum euismod augue.
                   </p>
                 </div>
@@ -553,9 +527,9 @@ export default function Example() {
                   className="h-80 object-cover"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="text-sm/4 font-semibold text-indigo-600">Integrations</h3>
+                  <h3 className="eyebrow">Integrations</h3>
                   <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Connect your favorite tools</p>
-                  <p className="mt-2 max-w-lg text-sm/6 text-gray-600">
+                  <p className="mt-2 max-w-lg text-sm text-muted">
                     Maecenas at augue sed elit dictum vulputate, in nisi aliquam maximus arcu.
                   </p>
                 </div>
@@ -571,9 +545,9 @@ export default function Example() {
                   className="h-80 object-cover"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="text-sm/4 font-semibold text-indigo-600">Network</h3>
+                  <h3 className="eyebrow">Network</h3>
                   <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Globally distributed CDN</p>
-                  <p className="mt-2 max-w-lg text-sm/6 text-gray-600">
+                  <p className="mt-2 max-w-lg text-sm text-muted">
                     Aenean vulputate justo commodo auctor vehicula in malesuada semper.
                   </p>
                 </div>
@@ -584,7 +558,7 @@ export default function Example() {
         </div>
       </div>
 
-      <div className="overflow-hidden bg-gray-50 py-16 lg:py-24">
+      <div className="overflow-hidden bg-main py-16 lg:py-24">
         <div className="relative mx-auto max-w-xl px-6 lg:max-w-7xl lg:px-8">
           <svg
             fill="none"
@@ -756,7 +730,7 @@ export default function Example() {
         </div>
       </div>
 
-      <div className="relative isolate bg-white pt-24 pb-32 sm:pt-32">
+      <div className="relative isolate bg-main pt-24 pb-32 sm:pt-32">
         <div
           aria-hidden="true"
           className="absolute inset-x-0 top-1/2 -z-10 -translate-y-1/2 transform-gpu overflow-hidden opacity-30 blur-3xl"
@@ -783,14 +757,14 @@ export default function Example() {
         </div>
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl text-center">
-            <h2 className="text-base/7 font-semibold text-indigo-600">Testimonials</h2>
-            <p className="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl">
+            <h2 className="eyebrow">Testimonials</h2>
+            <p className="mt-2">
               We have worked with thousands of amazing people
             </p>
           </div>
           <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 grid-rows-1 gap-8 text-sm/6 text-gray-900 sm:mt-20 sm:grid-cols-2 xl:mx-0 xl:max-w-none xl:grid-flow-col xl:grid-cols-4">
             <figure className="rounded-2xl bg-white shadow-lg ring-1 ring-gray-900/5 sm:col-span-2 xl:col-start-2 xl:row-end-1">
-              <blockquote className="p-6 text-lg font-semibold tracking-tight text-gray-900 sm:p-12 sm:text-xl/8">
+              <blockquote className="p-6 lead sm:p-12">
                 <p>{`"${featuredTestimonial.body}"`}</p>
               </blockquote>
               <figcaption className="flex flex-wrap items-center gap-x-4 gap-y-4 border-t border-gray-900/10 px-6 py-4 sm:flex-nowrap">
@@ -844,10 +818,10 @@ export default function Example() {
         </div>
       </div>
 
-      <div className="bg-white">
+      <div className="bg-main">
         <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
-          <h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Frequently asked questions</h2>
-          <p className="mt-6 max-w-2xl text-base/7 text-gray-600">
+          <h2>Frequently asked questions</h2>
+          <p className="mt-6 max-w-2xl text-muted">
             Have a different question and can&rsquo;t find the answer you&rsquo;re looking for? Reach out to our support team by{' '}
             <a href="#" className="font-semibold text-indigo-600 hover:text-indigo-500">
               sending us an email
@@ -867,10 +841,10 @@ export default function Example() {
         </div>
       </div>
 
-      <div className="bg-white">
+      <div className="bg-main">
         <div className="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
           <div className="mx-auto max-w-2xl text-center">
-            <h2 className="text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl">
+            <h2>
               Boost your productivity. Start using our app today.
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600">
