@@ -1,109 +1,160 @@
 # Blog Post Page Template
 
-## Raw React Code from Tailwind
-*Paste your Tailwind Plus blog post/article sections here*
+## Raw React Code from Existing Page
+*Current blog [slug] page code - working as-is*
 
-export default function Example() {
+```tsx
+import { getContentBySlug, getAllSlugs } from '@/lib/content';
+import { notFound } from 'next/navigation';
+import { Metadata } from 'next';
+import Image from 'next/image';
+import MarkdownContent from '@/components/MarkdownContent';
+
+interface BlogPageProps {
+  params: Promise<{ slug: string }>;
+}
+
+export async function generateMetadata({ params }: BlogPageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const post = getContentBySlug('blog', slug);
+  
+  if (!post) {
+    return {};
+  }
+
+  return {
+    title: post.title,
+    description: post.meta || post.content.slice(0, 160),
+  };
+}
+
+export async function generateStaticParams() {
+  const slugs = getAllSlugs('blog');
+  return slugs.map((slug) => ({ slug }));
+}
+
+export default async function BlogPage({ params }: BlogPageProps) {
+  const { slug } = await params;
+  const post = getContentBySlug('blog', slug);
+
+  if (!post) {
+    notFound();
+  }
+
   return (
-    <div className="bg-white px-6 py-32 lg:px-8">
-      <div className="mx-auto max-w-3xl text-base/7 text-gray-700">
-        <p className="text-base/7 font-semibold text-indigo-600">Introducing</p>
-        <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
-          JavaScript for Beginners
-        </h1>
-        <p className="mt-6 text-xl/8">
-          Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
-          aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend
-          egestas fringilla sapien.
-        </p>
-      </div>
-      <div className="mx-auto mt-10 max-w-2xl">
-        <p>
-          Faucibus commodo massa rhoncus, volutpat. <strong>Dignissim</strong> sed <strong>eget risus enim</strong>.
-          Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra
-          tellus varius sit neque erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim.{' '}
-          <a href="#">Mattis mauris semper</a> sed amet vitae sed turpis id.
-        </p>
-        <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
-          <li className="flex gap-x-3">
-            <CheckCircleIcon aria-hidden="true" className="mt-1 size-5 flex-none text-indigo-600" />
-            <span>
-              <strong className="font-semibold text-gray-900">Data types.</strong> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate
-              blanditiis ratione.
-            </span>
-          </li>
-          <li className="flex gap-x-3">
-            <CheckCircleIcon aria-hidden="true" className="mt-1 size-5 flex-none text-indigo-600" />
-            <span>
-              <strong className="font-semibold text-gray-900">Loops.</strong> Anim aute id magna aliqua ad ad non
-              deserunt sunt. Qui irure qui lorem cupidatat commodo.
-            </span>
-          </li>
-          <li className="flex gap-x-3">
-            <CheckCircleIcon aria-hidden="true" className="mt-1 size-5 flex-none text-indigo-600" />
-            <span>
-              <strong className="font-semibold text-gray-900">Functions.</strong> Ac tincidunt sapien vehicula erat
-              auctor pellentesque rhoncus.
-            </span>
-          </li>
-        </ul>
-        <p className="mt-8">
-          Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestiae auctor
-          fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac auctor
-          sit tellus. Cursus sapien, velit volutpat cursus sed sit et ut. Mauris cursus magna eu urna cursus cursus arcu
-          quis systique.
-        </p>
-        <figure className="mt-10 border-l border-indigo-600 pl-9">
-          <blockquote className="font-semibold text-gray-900">
-            <p>
-              "Vel ultricies morbi odio facilisi ultrices accumsan donec lacus purus. Lectus nibh ullamcorper ac dictum
-              justo in euismod. Risus aenean ut elit massa. In amet aliquet eget cras. Sem volutpat enim tristique."
-            </p>
-          </blockquote>
-          <figcaption className="mt-6 flex gap-x-4">
-            <img
-              alt=""
-              src="https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-              className="size-6 flex-none rounded-full bg-gray-50"
+    <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
+      <div className="absolute inset-0 -z-10 overflow-hidden">
+        <svg
+          aria-hidden="true"
+          className="absolute top-0 left-[max(50%,25rem)] h-256 w-512 -translate-x-1/2 mask-[radial-gradient(64rem_64rem_at_top,white,transparent)] stroke-gray-200"
+        >
+          <defs>
+            <pattern
+              x="50%"
+              y={-1}
+              id="e813992c-7d03-4cc4-a2bd-151760b470a0"
+              width={200}
+              height={200}
+              patternUnits="userSpaceOnUse"
+            >
+              <path d="M100 200V.5M.5 .5H200" fill="none" />
+            </pattern>
+          </defs>
+          <svg x="50%" y={-1} className="overflow-visible fill-gray-50">
+            <path
+              d="M-100.5 0h201v201h-201Z M699.5 0h201v201h-201Z M499.5 400h201v201h-201Z M-300.5 600h201v201h-201Z"
+              strokeWidth={0}
             />
-            <div className="text-sm/6">
-              <strong className="font-semibold text-gray-900">Maria Hill</strong> – Marketing Manager
-            </div>
-          </figcaption>
-        </figure>
-        <p className="mt-10">
-          Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
-          sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
-        </p>
+          </svg>
+          <rect fill="url(#e813992c-7d03-4cc4-a2bd-151760b470a0)" width="100%" height="100%" strokeWidth={0} />
+        </svg>
       </div>
-      <figure className="mt-16">
-        <img
-          alt=""
-          src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1587&q=80"
-          className="aspect-video rounded-xl bg-gray-50 object-cover"
-        />
-        <figcaption className="mt-4 flex gap-x-2 text-sm/6 text-gray-500">
-          <InformationCircleIcon aria-hidden="true" className="mt-0.5 size-5 flex-none text-gray-300" />
-          Faucibus commodo massa rhoncus, volutpat.
-        </figcaption>
-      </figure>
-      <div className="mx-auto mt-16 max-w-2xl">
-        <h2 className="text-2xl/8 font-semibold tracking-tight text-gray-900">Everything you need to get up and running</h2>
-        <p className="mt-6">
-          Purus morbi dignissim senectus mattis <a href="#">adipiscing</a>. Amet, massa quam varius orci dapibus
-          volutpat cras. In amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus
-          non molestiae. Gravida quis fringilla amet eget dui tempor dignissim. Facilisis auctor venenatis varius nunc,
-          congue erat ac. Cras fermentum convallis quam.
-        </p>
-        <p className="mt-8">
-          Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
-          sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
-        </p>
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="lg:max-w-lg">
+              <p className="text-base/7 font-semibold text-blue-600">Hospitality Guide</p>
+              <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+                {post.title}
+              </h1>
+              {post.meta && (
+                <p className="mt-6 text-xl/8 text-gray-700">
+                  {post.meta}
+                </p>
+              )}
+            </div>
+          </div>
+        </div>
+        <div className="-mt-12 -ml-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+          <div className="w-full max-w-md rounded-xl bg-white shadow-xl ring-1 ring-gray-200 overflow-hidden">
+            <div className="bg-gradient-to-br from-blue-500 to-blue-700 p-6 text-center text-white">
+              <svg className="w-12 h-12 mx-auto mb-3 opacity-90" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
+                <polyline points="14,2 14,8 20,8"/>
+                <line x1="16" y1="13" x2="8" y2="13"/>
+                <line x1="16" y1="17" x2="8" y2="17"/>
+                <polyline points="10,9 9,9 8,9"/>
+              </svg>
+              <h3 className="text-lg font-semibold mb-1">Pilla App Demo</h3>
+              <p className="text-blue-100 text-sm">See our hospitality management platform in action</p>
+            </div>
+            <div className="p-4">
+              <Image
+                src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format" 
+                alt="Restaurant management dashboard demo" 
+                width={400}
+                height={192}
+                className="w-full h-48 object-cover rounded-lg mb-4"
+              />
+              <div className="text-center">
+                <button className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors">
+                  Try Free Demo
+                </button>
+                <p className="text-gray-500 text-xs mt-2">No credit card required</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="max-w-xl text-base/7 text-gray-600 lg:max-w-lg">
+              <MarkdownContent content={post.content} />
+              
+              <ul role="list" className="mt-8 space-y-8 text-gray-600">
+                <li className="flex gap-x-3">
+                  <svg className="w-5 h-5 mt-1 flex-none text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/>
+                  </svg>
+                  <span>
+                    <strong className="font-semibold text-gray-900">Data-driven insights.</strong> Our content is backed by industry research and real-world hospitality experience.
+                  </span>
+                </li>
+                <li className="flex gap-x-3">
+                  <svg className="w-5 h-5 mt-1 flex-none text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
+                  </svg>
+                  <span>
+                    <strong className="font-semibold text-gray-900">Team focused.</strong> Practical advice for managing hospitality teams and operations effectively.
+                  </span>
+                </li>
+                <li className="flex gap-x-3">
+                  <svg className="w-5 h-5 mt-1 flex-none text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/>
+                    <polyline points="14,2 14,8 20,8"/>
+                  </svg>
+                  <span>
+                    <strong className="font-semibold text-gray-900">Ready-to-use templates.</strong> Download and customize our templates for immediate implementation.
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  )
+  );
 }
+```
 
 ---
 
@@ -128,61 +179,57 @@ export default function Example() {
 
 ## Content & Typography Forms
 
-### Header Section
-- **category_label**: "Restaurant Operations" | **typography**: `eyebrow` *[Options: eyebrow, text-base font-semibold]*
-- **post_title**: "Restaurant Kitchen Management: Essential Systems for Success" | **typography**: `h1 + text-4xl font-semibold` *[Options: h1 + text-4xl, h1 + display-2, text-5xl]*
-- **post_subtitle**: "Streamline your kitchen operations with proven management systems that reduce waste, improve efficiency, and maintain consistent food quality during busy service periods." | **typography**: `text-xl` *[Options: text-xl, lead, subtitle-lg]*
+*Note: This page uses dynamic content from markdown files via the content management system. The forms below show the customizable elements of the layout and sidebar.*
 
-### Article Content
-- **intro_paragraph**: "Running a successful restaurant kitchen requires more than just great recipes and skilled cooks. It demands systematic approaches to inventory management, staff coordination, quality control, and operational efficiency that work together seamlessly during the busiest service periods." | **typography**: `p`
-- **intro_paragraph_enhanced**: "Strong operational systems" and "systematic efficiency" | **typography**: `strong`
-- **reference_link**: "/glossary/kitchen-operations" | **link_text**: "kitchen operations management"
+### Header Section (Fixed Layout)
+- **category_label**: "Hospitality Guide" | **typography**: `text-base font-semibold text-blue-600` *[Options: text-blue-600, text-indigo-600, text-gray-600]*
+- **title_source**: `{post.title}` | **typography**: `h1 + text-4xl font-semibold` *(Dynamic from content system)*
+- **subtitle_source**: `{post.meta}` | **typography**: `text-xl text-gray-700` *(Dynamic from content system)*
 
-### Key Points List
-- **list_intro**: "Essential kitchen management systems that every restaurant should implement:" | **typography**: `text-gray-600`
-- **point_1_title**: "Inventory Management Systems" | **typography**: `font-semibold text-gray-900`
-- **point_1_description**: "Track ingredients, reduce waste, and optimize ordering with digital inventory systems that integrate with your POS and suppliers." | **typography**: `span`
-- **point_2_title**: "Staff Scheduling & Communication" | **typography**: `font-semibold text-gray-900`
-- **point_2_description**: "Coordinate shifts, manage prep assignments, and maintain clear communication channels between front and back of house." | **typography**: `span`
-- **point_3_title**: "Quality Control Protocols" | **typography**: `font-semibold text-gray-900`
-- **point_3_description**: "Implement consistent standards for food preparation, plating, and temperature control to ensure guest satisfaction." | **typography**: `span`
+### Background Pattern (SVG)
+- **background_style**: "Grid pattern with radial gradient mask" | **color**: `stroke-gray-200 fill-gray-50`
+- **pattern_id**: "e813992c-7d03-4cc4-a2bd-151760b470a0" *(Keep unique)*
+- **enable_background**: `true` *[Options: true, false]*
 
-### Middle Content
-- **middle_paragraph**: "These systems work together to create a kitchen environment where staff can focus on what they do best - preparing excellent food - while operational excellence happens automatically in the background." | **typography**: `p`
+### Sidebar Card (Pilla App Demo)
+- **card_title**: "Pilla App Demo" | **typography**: `text-lg font-semibold text-white`
+- **card_subtitle**: "See our hospitality management platform in action" | **typography**: `text-blue-100 text-sm`
+- **card_background**: `bg-gradient-to-br from-blue-500 to-blue-700` *[Options: from-blue-500 to-blue-700, from-indigo-500 to-indigo-700]*
+- **demo_image**: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format"
+- **demo_image_alt**: "Restaurant management dashboard demo"
+- **cta_button_text**: "Try Free Demo" | **typography**: `text-sm font-medium`
+- **cta_button_style**: `bg-blue-600 hover:bg-blue-700` *[Options: bg-blue-600, bg-indigo-600]*
+- **disclaimer_text**: "No credit card required" | **typography**: `text-gray-500 text-xs`
 
-### Quote Section
-- **quote_text**: "Implementing proper kitchen management systems transformed our operation. We reduced food waste by 30% and improved our ticket times significantly, which directly improved our guest experience and profitability." | **typography**: `blockquote font-semibold text-gray-900`
-- **quote_author_name**: "Sarah Chen" | **typography**: `font-semibold text-gray-900`
-- **quote_author_title**: "Executive Chef, The Metropolitan" | **typography**: `text-sm`
-- **quote_author_image**: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+### Main Content Area
+- **content_source**: `<MarkdownContent content={post.content} />` *(Dynamic from markdown files)*
+- **content_width**: `max-w-xl lg:max-w-lg` *[Options: max-w-lg, max-w-xl, max-w-2xl]*
+- **text_color**: `text-base text-gray-600` *[Options: text-gray-600, text-gray-700, text-gray-800]*
 
-### Continuation Content
-- **after_quote_paragraph**: "The key to successful implementation is starting with one system at a time, training your team thoroughly, and measuring results consistently. Most restaurants see improvements within the first month of implementation." | **typography**: `p`
+### Key Features List (Fixed Content)
+- **list_title**: "Why Choose Our Content" *(Implied by context)*
+- **feature_1_icon**: "Dashboard/Analytics Icon" | **color**: `text-blue-600`
+- **feature_1_title**: "Data-driven insights." | **typography**: `font-semibold text-gray-900`
+- **feature_1_description**: "Our content is backed by industry research and real-world hospitality experience." | **typography**: `span`
 
-### Featured Image
-- **featured_image**: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
-- **image_caption**: "Modern restaurant kitchen with organized stations and digital inventory systems" | **typography**: `text-sm text-gray-500`
+- **feature_2_icon**: "User/Team Icon" | **color**: `text-blue-600`
+- **feature_2_title**: "Team focused." | **typography**: `font-semibold text-gray-900`
+- **feature_2_description**: "Practical advice for managing hospitality teams and operations effectively." | **typography**: `span`
 
-### Second Section
-- **section_2_title**: "Implementation Strategy for Kitchen Systems" | **typography**: `h2 + text-2xl font-semibold`
-- **section_2_intro**: "Successfully implementing kitchen management systems requires a phased approach that minimizes disruption while maximizing adoption rates among your team." | **typography**: `p`
-- **section_2_content**: "Start with your biggest pain point - whether that's inventory waste, scheduling conflicts, or inconsistent food quality. Choose one system to implement fully before moving to the next. This approach allows your team to master each system and see immediate benefits, building confidence for the next implementation phase." | **typography**: `p`
+- **feature_3_icon**: "Document/Template Icon" | **color**: `text-blue-600`
+- **feature_3_title**: "Ready-to-use templates." | **typography**: `font-semibold text-gray-900`
+- **feature_3_description**: "Download and customize our templates for immediate implementation." | **typography**: `span`
 
-### Article Metadata
-- **author_name**: "Marcus Rodriguez" | **typography**: `font-semibold`
-- **author_title**: "Restaurant Operations Consultant" | **typography**: `text-muted`
-- **author_image**: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-- **publish_date**: "November 15, 2024" | **typography**: `text-sm text-muted`
-- **read_time**: "8 min read" | **typography**: `text-sm text-muted`
-- **category**: "Restaurant Operations" | **category_href**: "/blog/operations"
+### Technical Configuration
+- **content_function**: `getContentBySlug('blog', slug)` *(Content management integration)*
+- **metadata_generation**: `generateMetadata()` *(SEO optimization)*
+- **static_generation**: `generateStaticParams()` *(Performance optimization)*
+- **error_handling**: `notFound()` *(404 handling for invalid slugs)*
 
-### SEO & Navigation
-- **meta_description**: "Learn essential restaurant kitchen management systems that reduce waste, improve efficiency, and maintain food quality during busy service periods."
-- **breadcrumbs**: "Blog > Restaurant Operations > Kitchen Management Systems"
-- **related_articles**: 
-  - "Staff Training Programs for New Restaurant Workers"
-  - "Food Safety Management Systems Implementation"
-  - "Restaurant Inventory Management Best Practices"
+### Layout Structure
+- **grid_system**: "2-column responsive grid with sidebar" | **breakpoint**: `lg:grid-cols-2`
+- **sidebar_position**: "Sticky on large screens" | **behavior**: `lg:sticky lg:top-4`
+- **content_flow**: "Header spans full width, sidebar and content in columns"
 
 ### Styling Options
 - **background**: `bg-main` *[Options: bg-main, bg-white, bg-gray-50]*
