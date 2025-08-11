@@ -157,7 +157,7 @@ export default async function LegalPage({ params }: LegalPageProps) {
                   Questions About Our Policies?
                 </h3>
                 <p className="text-muted mb-6">
-                  If you have any questions about this document or our legal policies, please don't hesitate to contact us.
+                  If you have any questions about this document or our legal policies, please don&rsquo;t hesitate to contact us.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link
