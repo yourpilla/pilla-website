@@ -51,7 +51,7 @@ export default function Example() {
           </p>
         </div>
         <p className="mx-auto mt-6 max-w-2xl text-center lead">
-          Choose an affordable plan that's packed with the best features for engaging your audience, creating customer
+          Choose an affordable plan that&rsquo;s packed with the best features for engaging your audience, creating customer
           loyalty, and driving sales.
         </p>
 
