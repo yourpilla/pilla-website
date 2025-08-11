@@ -53,8 +53,8 @@ export default async function LegalPage({ params }: LegalPageProps) {
     notFound();
   }
 
-  const lastUpdated = legal.frontmatter.lastUpdated || legal.frontmatter.date;
-  const effectiveDate = legal.frontmatter.effectiveDate;
+  const lastUpdated = (legal.frontmatter.lastUpdated || legal.frontmatter.date) as string | undefined;
+  const effectiveDate = legal.frontmatter.effectiveDate as string | undefined;
 
   // Create JSON-LD structured data
   const jsonLd = {
