@@ -195,6 +195,35 @@ export default function TypographyReference() {
           </div>
         </section>
 
+        {/* Button Styles */}
+        <section className="mb-16">
+          <h2 className="text-2xl font-bold text-gray-900 mb-8 pb-4 border-b border-gray-200">Button Styles</h2>
+          
+          <div className="space-y-8">
+            <div className="p-6 border border-gray-200 rounded-lg bg-white">
+              <code className="text-sm font-mono text-blue-600 mb-3 block">btn</code>
+              <div className="space-y-4">
+                <button className="btn">Button Example</button>
+                <button className="btn">
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                  </svg>
+                  Button with Icon
+                </button>
+                <div className="text-sm text-gray-600 mt-4">
+                  <strong>Properties:</strong><br />
+                  • Background: #374151<br />
+                  • Text Color: #ffffff<br />
+                  • Padding: 10px all around<br />
+                  • Border Radius: 5px<br />
+                  • Font Size: 24px<br />
+                  • Hover: Darker background (#1F2937)
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
       </div>
     </div>
   );

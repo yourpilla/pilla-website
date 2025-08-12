@@ -97,7 +97,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
               <div className="text-center">
-                <button className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors">
+                <button className="btn">
                   View All FAQs
                 </button>
                 <p className="text-gray-500 text-xs mt-2">Expert hospitality answers</p>

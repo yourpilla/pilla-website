@@ -14,6 +14,7 @@ The user has Tailwind Plus access for pre-built React components. Our refined wo
    - Applying `bg-main` background color (#FAF9FB) to sections
    - Updating text classes to our typography system (eyebrow, display-1, subtitle-lg, lead, etc.)
    - Creating mini-forms for content AND typography class customization
+   - **IMPORTANT**: Mini-forms must preserve the original content from the raw Tailwind Plus code as default values (not placeholder content) so user can identify which form controls which section
 3. **User**: Customizes content and fine-tunes typography classes using the forms
 4. **Claude**: Generates the final React component and pushes to GitHub for Vercel deployment
 
@@ -29,17 +30,25 @@ New SaaS Typography Kit applied globally:
 - **Classes**: display-1, display-2, eyebrow, subtitle-lg, lead, text-muted, etc.
 - **Headings**: Bold weights (700-800) with proper spacing and responsive sizing
 - **Font**: Arial with enhanced readability features
+- **HTML vs CSS**: Always use semantic HTML tags (h1, h2, etc.) for SEO, then apply visual CSS classes for styling
+- **Typography Reference**: Temporary page at `/typography-reference` shows all available classes (delete before going live)
 
 ## Components Status
 - ✅ Header with Resources dropdown
-- ✅ Blog pillar page with categories
-- ✅ Glossary pillar page with A-Z navigation
+- ✅ Blog pillar page with dynamic content loading (3 posts)
+- ✅ Tools pillar page with dynamic content loading (9 calculators)
+- ✅ Legal pillar page with dynamic content loading (3 documents)
+- ✅ Glossary pillar page with A-Z navigation (240+ terms)
 - ✅ Individual glossary pages with JSON-LD schema
+- ✅ All pillar pages now use content management system
 
 ## Content Structure
-- Blog posts in `/content/blog/`
+- Blog posts in `/content/blog/` (3 posts)
+- Tools/calculators in `/content/tools/` (9 tools)
+- Legal documents in `/content/legal/` (3 documents)
 - Glossary terms in `/content/glossary/` (240+ terms)
 - Uses gray-matter for YAML frontmatter parsing
 - Uses react-markdown for content rendering
+- All content categories integrated with pillar pages
 
 White background with top border (#D0D5DD)

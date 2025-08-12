@@ -104,7 +104,7 @@ export default function Header() {
           </Link>
         </PopoverGroup>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <Link href="/demo" className="bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-blue-700 transition-colors">
+          <Link href="/demo" className="btn">
             Book Demo
           </Link>
         </div>
@@ -176,7 +176,7 @@ export default function Header() {
               <div className="py-6">
                 <Link
                   href="/demo"
-                  className="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold bg-blue-600 text-white text-center"
+                  className="btn"
                 >
                   Book Demo
                 </Link>
