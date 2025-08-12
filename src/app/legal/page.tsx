@@ -1,57 +1,43 @@
-const legalPages = [
-  {
-    id: 1,
-    title: 'Privacy Policy',
-    href: '/legal/privacy-policy',
-    description:
-      'Learn how we collect, use, and protect your personal information when you use our hospitality resources and services.',
-    date: 'Nov 15, 2024',
-    datetime: '2024-11-15',
-    category: { title: 'Privacy', href: '/legal?category=privacy' },
-    author: {
-      name: 'Legal Team',
-      role: 'Pilla Legal Department',
-      href: '/legal?author=legal-team',
-      imageUrl:
-        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    },
-  },
-  {
-    id: 2,
-    title: 'Terms of Service',
-    href: '/legal/terms-of-service',
-    description: 'Understand the terms and conditions that govern your use of our hospitality platform, resources, and community features.',
-    date: 'Nov 12, 2024',
-    datetime: '2024-11-12',
-    category: { title: 'Terms', href: '/legal?category=terms' },
-    author: {
-      name: 'Legal Team',
-      role: 'Pilla Legal Department',
-      href: '/legal?author=legal-team',
-      imageUrl:
-        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    },
-  },
-  {
-    id: 3,
-    title: 'Cookie Policy',
-    href: '/legal/cookie-policy',
-    description:
-      'Information about how we use cookies and similar technologies to improve your experience on our hospitality platform.',
-    date: 'Nov 10, 2024',
-    datetime: '2024-11-10',
-    category: { title: 'Privacy', href: '/legal?category=privacy' },
-    author: {
-      name: 'Legal Team',
-      role: 'Pilla Legal Department',
-      href: '/legal?author=legal-team',
-      imageUrl:
-        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    },
-  },
-]
+import { getContentByCategory } from '@/lib/content';
+import Link from 'next/link';
+
+// Function to extract description from content
+function extractDescription(content: string): string {
+  // Look for the first paragraph after the title and date info
+  const lines = content.split('\n').filter(line => line.trim());
+  
+  // Skip title lines, date lines, and find first substantial paragraph
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+    
+    // Skip markdown headers, date lines, and short lines
+    if (line.startsWith('#') || 
+        line.includes('Last Updated') || 
+        line.includes('Version') || 
+        line.length < 50 ||
+        line.startsWith('**')) {
+      continue;
+    }
+    
+    // Return first substantial paragraph, truncated
+    return line.length > 150 ? line.substring(0, 150) + '...' : line;
+  }
+  
+  return 'Important legal information and policies.';
+}
+
+// Function to get category from filename
+function getCategory(slug: string): string {
+  if (slug.includes('privacy')) return 'Privacy';
+  if (slug.includes('terms')) return 'Terms';
+  if (slug.includes('cookie')) return 'Privacy';
+  if (slug.includes('erasure')) return 'Privacy';
+  return 'Legal';
+}
 
 export default function LegalPage() {
+  const legalPages = getContentByCategory('legal');
+
   return (
     <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -61,37 +47,34 @@ export default function LegalPage() {
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {legalPages.map((page) => (
-            <article key={page.id} className="flex max-w-xl flex-col items-start justify-between">
+            <article key={page.slug} className="flex max-w-xl flex-col items-start justify-between">
               <div className="flex items-center gap-x-4 text-xs">
-                <time dateTime={page.datetime} className="text-muted">
-                  {page.date}
+                <time className="text-muted">
+                  Recent
                 </time>
-                <a
-                  href={page.category.href}
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
-                >
-                  {page.category.title}
-                </a>
+                <span className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600">
+                  {getCategory(page.slug)}
+                </span>
               </div>
               <div className="group relative grow">
                 <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
-                  <a href={page.href}>
+                  <Link href={`/legal/${page.slug}`}>
                     <span className="absolute inset-0" />
                     {page.title}
-                  </a>
+                  </Link>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-muted">{page.description}</p>
+                <p className="mt-5 line-clamp-3 text-sm/6 text-muted">
+                  {page.meta || extractDescription(page.content)}
+                </p>
               </div>
               <div className="relative mt-8 flex items-center gap-x-4 justify-self-end">
-                <img alt="" src={page.author.imageUrl} className="size-10 rounded-full bg-gray-50" />
+                <img alt="" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" className="size-10 rounded-full bg-gray-50" />
                 <div className="text-sm/6">
                   <p className="font-semibold text-gray-900">
-                    <a href={page.author.href}>
-                      <span className="absolute inset-0" />
-                      {page.author.name}
-                    </a>
+                    <span className="absolute inset-0" />
+                    Legal Team
                   </p>
-                  <p className="text-muted">{page.author.role}</p>
+                  <p className="text-muted">Pilla Legal Department</p>
                 </div>
               </div>
             </article>
