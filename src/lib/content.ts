@@ -14,7 +14,7 @@ export interface ContentItem {
   category: string;
 }
 
-export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal'): ContentItem[] {
+export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools'): ContentItem[] {
   const categoryPath = path.join(contentDirectory, category);
   
   if (!fs.existsSync(categoryPath)) {
