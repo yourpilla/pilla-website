@@ -41,6 +41,9 @@ export async function generateStaticParams() {
   return slugs.map((slug) => ({ slug }));
 }
 
+// ISR: Revalidate glossary terms every 12 hours
+export const revalidate = 43200;
+
 export default async function GlossaryPage({ params }: GlossaryPageProps) {
   const { slug } = await params;
   const term = getContentBySlug('glossary', slug);

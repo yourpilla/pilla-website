@@ -43,6 +43,9 @@ export async function generateStaticParams() {
   return slugs.map((slug) => ({ slug }));
 }
 
+// ISR: Revalidate tools every 6 hours
+export const revalidate = 21600;
+
 export default async function ToolPage({ params }: ToolPageProps) {
   const { slug } = await params;
   

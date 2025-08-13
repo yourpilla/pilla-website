@@ -45,6 +45,9 @@ export async function generateStaticParams() {
   return slugs.map((slug) => ({ slug }));
 }
 
+// ISR: Revalidate legal documents every 24 hours
+export const revalidate = 86400;
+
 export default async function LegalPage({ params }: LegalPageProps) {
   const { slug } = await params;
   const legal = getContentBySlug('legal', slug);

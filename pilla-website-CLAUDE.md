@@ -51,4 +51,25 @@ New SaaS Typography Kit applied globally:
 - Uses react-markdown for content rendering
 - All content categories integrated with pillar pages
 
+## ISR (Incremental Static Regeneration) Configuration
+Content pages use ISR to avoid full site rebuilds when content changes:
+- **Blog posts**: Revalidate every 1 hour (3600 seconds)
+- **Tools**: Revalidate every 6 hours (21600 seconds)  
+- **Glossary**: Revalidate every 12 hours (43200 seconds)
+- **Legal**: Revalidate every 24 hours (86400 seconds)
+
+### On-Demand Revalidation
+- API endpoint: `/api/revalidate` handles GitHub webhooks
+- Automatically revalidates affected pages when content changes in GitHub
+- Webhook URL: `https://yourpilla.com/api/revalidate`
+- Security: Uses GITHUB_WEBHOOK_SECRET for signature verification
+- Manual testing: `/api/revalidate?path=/blog&secret=MANUAL_SECRET`
+
+### GitHub Webhook Setup
+1. Go to GitHub repo Settings > Webhooks
+2. Add webhook: `https://yourpilla.com/api/revalidate`
+3. Content type: `application/json`
+4. Events: Select "Push" events only
+5. Add secret token (set as GITHUB_WEBHOOK_SECRET in Vercel environment)
+
 White background with top border (#D0D5DD)
