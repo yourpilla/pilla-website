@@ -5,7 +5,11 @@ import matter from 'gray-matter';
 const contentDirectory = path.join(process.cwd(), 'content');
 
 // Map blog frontmatter categories to your category pages
-const BLOG_CATEGORY_MAPPING = {
+const BLOG_CATEGORY_MAPPING: Record<string, {
+  slug: string;
+  title: string;
+  href: string;
+}> = {
   'Food Hygiene': {
     slug: 'food-safety-management-system',
     title: 'Food Safety Management System',
@@ -66,7 +70,6 @@ export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'l
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(fileContents);
     
-    const relativePath = path.relative(categoryPath, filePath);
     // Use only the filename for the slug, ignoring folder structure
     const slug = path.basename(filePath, '.md');
     
