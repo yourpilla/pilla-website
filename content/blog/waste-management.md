@@ -11,7 +11,7 @@ Slug: "waste-management"
 unique id: "1730202816339x408924470139027500"
 ---
 
-# How to manage food waste in your hospitality business.
+# How to manage food waste in your hospitality business
 
  This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 
