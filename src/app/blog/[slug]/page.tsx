@@ -70,7 +70,20 @@ export default async function BlogPage({ params }: BlogPageProps) {
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="lg:max-w-lg">
-              <p className="text-base/7 font-semibold text-blue-600">Hospitality Guide</p>
+              {post.blogCategory ? (
+                <div className="flex items-center gap-x-2">
+                  <p className="text-base/7 font-semibold text-blue-600">Hospitality Guide</p>
+                  <span className="text-gray-400">•</span>
+                  <a 
+                    href={post.blogCategory.href}
+                    className="text-base/7 font-medium text-blue-600 hover:text-blue-700 underline"
+                  >
+                    {post.blogCategory.title}
+                  </a>
+                </div>
+              ) : (
+                <p className="text-base/7 font-semibold text-blue-600">Hospitality Guide</p>
+              )}
               <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
                 {post.title}
               </h1>

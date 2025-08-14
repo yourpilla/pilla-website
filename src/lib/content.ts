@@ -4,6 +4,40 @@ import matter from 'gray-matter';
 
 const contentDirectory = path.join(process.cwd(), 'content');
 
+// Map blog frontmatter categories to your category pages
+const BLOG_CATEGORY_MAPPING = {
+  'Food Hygiene': {
+    slug: 'food-safety-management-system',
+    title: 'Food Safety Management System',
+    href: '/blog/food-safety-management-system'
+  },
+  'Health & Safety': {
+    slug: 'hospitality-risks',
+    title: 'Hospitality Risk Management',
+    href: '/blog/hospitality-risks'
+  },
+  'Operations': {
+    slug: 'operations',
+    title: 'Operations Management',
+    href: '/blog/operations'
+  },
+  'Interviews': {
+    slug: 'interviews',
+    title: 'Interview Techniques',
+    href: '/blog/interviews'
+  },
+  'Job Roles': {
+    slug: 'hospitality-job-roles',
+    title: 'Hospitality Job Roles',
+    href: '/blog/hospitality-job-roles'
+  },
+  'Staff Onboarding': {
+    slug: 'restaurant-staff-onboarding',
+    title: 'Staff Onboarding',
+    href: '/blog/restaurant-staff-onboarding'
+  }
+};
+
 export interface ContentItem {
   slug: string;
   title: string;
@@ -12,6 +46,11 @@ export interface ContentItem {
   content: string;
   frontmatter: Record<string, unknown>;
   category: string;
+  blogCategory?: {
+    slug: string;
+    title: string;
+    href: string;
+  };
 }
 
 export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools'): ContentItem[] {
@@ -31,6 +70,12 @@ export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'l
     // Use only the filename for the slug, ignoring folder structure
     const slug = path.basename(filePath, '.md');
     
+    // For blog posts, map secondary tag to blog category
+    let blogCategory;
+    if (category === 'blog' && data['secondary tag']) {
+      blogCategory = BLOG_CATEGORY_MAPPING[data['secondary tag'] as string];
+    }
+    
     return {
       slug,
       title: data.Title || data.title || slug,
@@ -39,6 +84,7 @@ export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'l
       content,
       frontmatter: data,
       category,
+      blogCategory,
     };
   });
 }
@@ -62,6 +108,12 @@ export function getContentBySlug(category: string, slug: string): ContentItem | 
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(fileContents);
     
+    // For blog posts, map secondary tag to blog category
+    let blogCategory;
+    if (category === 'blog' && data['secondary tag']) {
+      blogCategory = BLOG_CATEGORY_MAPPING[data['secondary tag'] as string];
+    }
+    
     return {
       slug,
       title: data.Title || data.title || slug,
@@ -70,6 +122,7 @@ export function getContentBySlug(category: string, slug: string): ContentItem | 
       content,
       frontmatter: data,
       category,
+      blogCategory,
     };
   } catch (error) {
     console.error(`Error loading content for ${category}/${slug}:`, error);
@@ -108,4 +161,13 @@ export function getAllSlugs(category: string): string[] {
     // Use only the filename for the slug, ignoring folder structure
     return path.basename(filePath, '.md');
   });
+}
+
+// Get all blog posts for a specific blog category
+export function getBlogsByCategory(categorySlug: string): ContentItem[] {
+  const allBlogs = getContentByCategory('blog');
+  
+  return allBlogs.filter(blog => 
+    blog.blogCategory?.slug === categorySlug
+  );
 }
