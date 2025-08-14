@@ -28,7 +28,8 @@ export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'l
     const { data, content } = matter(fileContents);
     
     const relativePath = path.relative(categoryPath, filePath);
-    const slug = relativePath.replace(/\.md$/, '').replace(/\\/g, '/');
+    // Use only the filename for the slug, ignoring folder structure
+    const slug = path.basename(filePath, '.md');
     
     return {
       slug,
@@ -104,7 +105,7 @@ export function getAllSlugs(category: string): string[] {
   const files = getAllMarkdownFiles(categoryPath);
   
   return files.map((filePath) => {
-    const relativePath = path.relative(categoryPath, filePath);
-    return relativePath.replace(/\.md$/, '').replace(/\\/g, '/');
+    // Use only the filename for the slug, ignoring folder structure
+    return path.basename(filePath, '.md');
   });
 }
