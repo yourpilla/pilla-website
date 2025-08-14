@@ -9,6 +9,7 @@ template actual: ""
 Title: "HACCP Meaning: What exactly is it?"
 Slug: "haccp-meaning"
 unique id: "1684271083988x689984049769970600"
+featured: true
 ---
 
 # HACCP Meaning: What exactly is it?

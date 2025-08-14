@@ -13,12 +13,17 @@ export default function FoodSafetyManagementSystemPage() {
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {posts.map((post) => (
-            <article key={post.slug} className="flex max-w-xl flex-col items-start justify-between">
+            <article key={post.slug} className={`flex max-w-xl flex-col items-start justify-between ${post.featured ? 'ring-2 ring-blue-500 rounded-lg p-6 bg-blue-50/50' : ''}`}>
               <div className="flex items-center gap-x-4 text-xs">
+                {post.featured && (
+                  <span className="relative z-10 rounded-full bg-blue-600 px-3 py-1.5 text-xs font-medium text-white">
+                    ⭐ Featured
+                  </span>
+                )}
                 <span className="text-muted">
                   Food Safety Guide
                 </span>
-                {post.blogCategory && (
+                {post.blogCategory && !post.featured && (
                   <>
                     <span className="text-gray-400">•</span>
                     <span className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600">

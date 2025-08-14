@@ -50,6 +50,7 @@ export interface ContentItem {
   content: string;
   frontmatter: Record<string, unknown>;
   category: string;
+  featured?: boolean;
   blogCategory?: {
     slug: string;
     title: string;
@@ -87,6 +88,7 @@ export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'l
       content,
       frontmatter: data,
       category,
+      featured: data.featured === true,
       blogCategory,
     };
   });
@@ -125,6 +127,7 @@ export function getContentBySlug(category: string, slug: string): ContentItem | 
       content,
       frontmatter: data,
       category,
+      featured: data.featured === true,
       blogCategory,
     };
   } catch (error) {
@@ -170,7 +173,17 @@ export function getAllSlugs(category: string): string[] {
 export function getBlogsByCategory(categorySlug: string): ContentItem[] {
   const allBlogs = getContentByCategory('blog');
   
-  return allBlogs.filter(blog => 
+  const categoryBlogs = allBlogs.filter(blog => 
     blog.blogCategory?.slug === categorySlug
   );
+  
+  // Sort by featured status (featured first), then alphabetically by title
+  return categoryBlogs.sort((a, b) => {
+    // Featured posts come first
+    if (a.featured && !b.featured) return -1;
+    if (!a.featured && b.featured) return 1;
+    
+    // If both are featured or both are not featured, sort alphabetically
+    return a.title.localeCompare(b.title);
+  });
 }

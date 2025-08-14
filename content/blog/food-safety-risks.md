@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to identify food safety risks in your business."
 Slug: "food-safety-risks"
 unique id: "1698833121842x987893081451157500"
+featured: true
 ---
 
 # How to identify food safety risks in your business.

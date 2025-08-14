@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to create an allergen matrix in your food business."
 Slug: "14-major-allergens"
 unique id: "1684271579711x356224579010841600"
+featured: true
 ---
 
 # How to create an allergen matrix in your food business.
