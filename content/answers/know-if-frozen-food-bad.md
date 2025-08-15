@@ -1,9 +1,10 @@
 ---
 title: "How do I know if frozen food has gone bad?"
-meta: "Learn how to spot signs of spoilage in frozen food, such as freezer burn, and what to do if food starts to defrost. Discover best practices for storing and labelling frozen items."
+meta: |
+  Learn how to spot signs of spoilage in frozen food, such as freezer burn, and what to do if food starts to defrost. Discover best practices for storing and labelling frozen items.
 slug: "know-if-frozen-food-bad"
 unique id: "1733824585510x742075809892704000"
-featured: "false"
+featured: false
 breadcrumb short: "Gone Bad"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "Can we put hot food straight into the fridge?"
-meta: "Learn how to safely store cooked food in the fridge and what to do if you accidentally put hot food in the fridge, which can affect the temperature and spoil other foods."
+meta: |
+  Learn how to safely store cooked food in the fridge and what to do if you accidentally put hot food in the fridge, which can affect the temperature and spoil other foods.
 slug: "hot-food-straight-into-fridge"
 unique id: "1732637351714x891096092718798100"
-featured: "false"
+featured: false
 breadcrumb short: "Hot Food in Fridge"
 pillar text: "Food Safety System"
 pillar link: |

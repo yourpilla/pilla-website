@@ -1,9 +1,10 @@
 ---
 title: "How do I know if fish is fresh when it arrives from a supplier?"
-meta: "Learn how to check fish deliveries for freshness, including key indicators like eyes, flesh, gills, scales, and smell. Discover what to do if fish doesn't meet standards and how quickly to refrigerate after delivery."
+meta: |
+  Learn how to check fish deliveries for freshness, including key indicators like eyes, flesh, gills, scales, and smell. Discover what to do if fish doesn't meet standards and how quickly to refrigerate after delivery.
 slug: "know-fish-fresh-from-supplier"
 unique id: "1734097889738x740397009018233900"
-featured: "false"
+featured: false
 breadcrumb short: "Fish"
 pillar text: "Food Safety System"
 pillar link: |

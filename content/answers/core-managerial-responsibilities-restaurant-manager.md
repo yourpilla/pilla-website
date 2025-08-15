@@ -1,9 +1,10 @@
 ---
 title: "What core managerial responsibilities should I include in a Restaurant Manager job description?"
-meta: "Discover how to craft a Restaurant Manager job description that includes essential responsibilities for daily operations, staff management, and financial tasks."
+meta: |
+  Discover how to craft a Restaurant Manager job description that includes essential responsibilities for daily operations, staff management, and financial tasks.
 slug: "core-managerial-responsibilities-restaurant-manager"
 unique id: "1750065039549x158625156020830200"
-featured: "false"
+featured: false
 breadcrumb short: "Managerial"
 pillar text: "Job Descriptions"
 pillar link: |

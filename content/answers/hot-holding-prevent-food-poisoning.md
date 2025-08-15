@@ -1,9 +1,10 @@
 ---
 title: "What is hot holding and why is it important?"
-meta: "Discover the importance of hot holding in food safety, maintaining temperatures above 63°C to prevent bacterial growth and foodborne illnesses."
+meta: |
+  Discover the importance of hot holding in food safety, maintaining temperatures above 63°C to prevent bacterial growth and foodborne illnesses.
 slug: "hot-holding-prevent-food-poisoning"
 unique id: "1744190546777x570394005889917760"
-featured: "false"
+featured: false
 breadcrumb short: "Why"
 pillar text: "Food Safety System"
 pillar link: |

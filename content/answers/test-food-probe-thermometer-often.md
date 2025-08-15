@@ -1,9 +1,10 @@
 ---
 title: "How often should I test my food probe thermometer?"
-meta: "Learn how often to test your food probe thermometers and why it's important to check them regularly, even if they seem to be working fine."
+meta: |
+  Learn how often to test your food probe thermometers and why it's important to check them regularly, even if they seem to be working fine.
 slug: "test-food-probe-thermometer-often"
 unique id: "1734019658778x115786853590387420"
-featured: "false"
+featured: false
 breadcrumb short: "Testing Frequency"
 pillar text: "Food Safety System"
 pillar link: |

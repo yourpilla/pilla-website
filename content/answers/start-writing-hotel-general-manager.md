@@ -1,9 +1,10 @@
 ---
 title: "How do I start writing a Hotel General Manager job description?"
-meta: "Learn how to craft an effective Hotel General Manager job description, including outlining hotel vibe, responsibilities, and candidate qualifications."
+meta: |
+  Learn how to craft an effective Hotel General Manager job description, including outlining hotel vibe, responsibilities, and candidate qualifications.
 slug: "start-writing-hotel-general-manager"
 unique id: "1750239615143x897384005860589600"
-featured: "false"
+featured: false
 breadcrumb short: "Format"
 pillar text: "Job Descriptions"
 pillar link: |

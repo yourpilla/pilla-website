@@ -1,9 +1,10 @@
 ---
 title: "What corrective actions should be taken if reheated food does not reach the safe temperature?"
-meta: "Explore the specific reheating temperatures required for food safety, and learn about the procedures and records needed for compliance."
+meta: |
+  Explore the specific reheating temperatures required for food safety, and learn about the procedures and records needed for compliance.
 slug: "corrective-actions-reheated-food-safe-temperature"
 unique id: "1744115592500x295689536309998100"
-featured: "false"
+featured: false
 breadcrumb short: "Corrective Action"
 pillar text: "Food Safety System"
 pillar link: |

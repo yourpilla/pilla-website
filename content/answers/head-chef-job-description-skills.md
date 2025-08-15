@@ -1,9 +1,10 @@
 ---
 title: "What skills should I detail in a Head Chef job description?"
-meta: "Discover how to craft an effective Head Chef job description, focusing on essential skills, differentiating key abilities, and tailoring to your venue's needs."
+meta: |
+  Discover how to craft an effective Head Chef job description, focusing on essential skills, differentiating key abilities, and tailoring to your venue's needs.
 slug: "head-chef-job-description-skills"
 unique id: "1750063326134x734481385447227400"
-featured: "false"
+featured: false
 breadcrumb short: "Skills"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How should a food safety policy describe risk management?"
-meta: "Discover how a food safety policy should effectively manage risks, detailing proactive measures, hazard control, and consistent monitoring practices."
+meta: |
+  Discover how a food safety policy should effectively manage risks, detailing proactive measures, hazard control, and consistent monitoring practices.
 slug: "food-safety-policy-risk-management"
 unique id: "1746538990380x641385930821802600"
-featured: "false"
+featured: false
 breadcrumb short: "Risk Management"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,11 @@
 ---
-title: "What should I include when describing my restaurant's atmosphere in a Restaurant Manager job description?"
-meta: "Discover how to effectively describe your restaurant's atmosphere, service style, and unique features in a Restaurant Manager job description to attract ideal candidates."
+title: |
+  What should I include when describing my restaurant's atmosphere in a Restaurant Manager job description?
+meta: |
+  Discover how to effectively describe your restaurant's atmosphere, service style, and unique features in a Restaurant Manager job description to attract ideal candidates.
 slug: "restaurant-atmosphere-include-job-description"
 unique id: "1750065020816x237804308583415800"
-featured: "false"
+featured: false
 breadcrumb short: "Atmosphere"
 pillar text: "Job Descriptions"
 pillar link: |

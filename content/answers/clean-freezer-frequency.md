@@ -1,9 +1,10 @@
 ---
 title: "How often should I clean the freezer?"
-meta: "Learn how to clean your freezer properly to maintain optimal temperature and prevent high energy bills. Regular cleaning is key to extending appliance life."
+meta: |
+  Learn how to clean your freezer properly to maintain optimal temperature and prevent high energy bills. Regular cleaning is key to extending appliance life.
 slug: "clean-freezer-frequency"
 unique id: "1733824589748x839729736182750700"
-featured: "false"
+featured: false
 breadcrumb short: "Cleaning"
 pillar text: "Food Safety System"
 pillar link: |

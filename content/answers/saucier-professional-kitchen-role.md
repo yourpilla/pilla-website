@@ -1,9 +1,10 @@
 ---
 title: "What does a Saucier do in a professional kitchen?"
-meta: "Discover the vital role of a Saucier in professional kitchens, including their responsibilities in crafting complex sauces and the skills required for this prestigious position."
+meta: |
+  Discover the vital role of a Saucier in professional kitchens, including their responsibilities in crafting complex sauces and the skills required for this prestigious position.
 slug: "saucier-professional-kitchen-role"
 unique id: "1745420497012x119732122485185500"
-featured: "false"
+featured: false
 breadcrumb short: "Saucier (Sauce Chef)"
 pillar text: "Job Descriptions"
 pillar link: |

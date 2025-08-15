@@ -1,9 +1,10 @@
 ---
 title: "How should I mention teamwork in a Catering Assistant job description?"
-meta: "Explore the importance of teamwork, collaboration, and adaptability in a Catering Assistant job description, clarifying common misunderstandings."
+meta: |
+  Explore the importance of teamwork, collaboration, and adaptability in a Catering Assistant job description, clarifying common misunderstandings.
 slug: "teamwork-catering-assistant-job-description"
 unique id: "1748596461538x583837609902868100"
-featured: "false"
+featured: false
 breadcrumb short: "Teamwork"
 pillar text: "Job Descriptions"
 pillar link: |

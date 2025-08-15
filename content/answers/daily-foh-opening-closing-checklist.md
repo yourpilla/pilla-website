@@ -1,9 +1,10 @@
 ---
 title: "What should be included in a daily FOH opening and closing cleaning checklist?"
-meta: "Explore essential daily FOH cleaning tasks to maintain hygiene and guest confidence, including wiping, polishing, and restocking, as outlined by Pilla Founder Liam Jones."
+meta: |
+  Explore essential daily FOH cleaning tasks to maintain hygiene and guest confidence, including wiping, polishing, and restocking, as outlined by Pilla Founder Liam Jones.
 slug: "daily-foh-opening-closing-checklist"
 unique id: "1746627231147x965929779254142800"
-featured: "false"
+featured: false
 breadcrumb short: "Daily"
 pillar text: "Daily Operations"
 pillar link: |

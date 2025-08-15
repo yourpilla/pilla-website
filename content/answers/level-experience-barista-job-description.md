@@ -1,9 +1,10 @@
 ---
 title: "How can I explain the level of experience needed in a Barista job description?"
-meta: "Learn how to specify the right level of experience in a barista job description, balancing time-based experience with situational familiarity."
+meta: |
+  Learn how to specify the right level of experience in a barista job description, balancing time-based experience with situational familiarity.
 slug: "level-experience-barista-job-description"
 unique id: "1748534800136x658449311563220600"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

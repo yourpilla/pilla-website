@@ -1,9 +1,10 @@
 ---
 title: "How should I carry out manual dishwashing when the dishwasher is broken?"
-meta: "Discover how to maintain correct dishwasher temperatures for optimal hygiene and food safety, including essential maintenance tips and corrective actions."
+meta: |
+  Discover how to maintain correct dishwasher temperatures for optimal hygiene and food safety, including essential maintenance tips and corrective actions.
 slug: "manual-washing"
 unique id: "1743586900090x350183526055095000"
-featured: "false"
+featured: false
 breadcrumb short: "Manual Washing"
 pillar text: "Food Safety System"
 pillar link: |

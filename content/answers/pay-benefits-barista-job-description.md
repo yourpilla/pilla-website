@@ -1,9 +1,10 @@
 ---
 title: "What should I include about pay and benefits in a Barista job description?"
-meta: "Discover how to effectively detail pay, benefits, and non-monetary perks in a barista job description to attract the right candidates and improve hiring outcomes."
+meta: |
+  Discover how to effectively detail pay, benefits, and non-monetary perks in a barista job description to attract the right candidates and improve hiring outcomes.
 slug: "pay-benefits-barista-job-description"
 unique id: "1748534800136x464518747360158660"
-featured: "false"
+featured: false
 breadcrumb short: "Pay & Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

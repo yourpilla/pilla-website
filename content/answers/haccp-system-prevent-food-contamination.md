@@ -1,9 +1,10 @@
 ---
 title: "How does a HACCP system help prevent food contamination?"
-meta: "Discover how a HACCP system proactively prevents food contamination, ensuring food safety and regulatory compliance in all types of food businesses."
+meta: |
+  Discover how a HACCP system proactively prevents food contamination, ensuring food safety and regulatory compliance in all types of food businesses.
 slug: "haccp-system-prevent-food-contamination"
 unique id: "1745929282547x104848707706481920"
-featured: "false"
+featured: false
 breadcrumb short: "Steps"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should every Barista have before applying?"
-meta: "Discover the essential skills every barista needs before applying, including basic espresso making and milk steaming, and learn how to differentiate between necessary and nice-to-have skills."
+meta: |
+  Discover the essential skills every barista needs before applying, including basic espresso making and milk steaming, and learn how to differentiate between necessary and nice-to-have skills.
 slug: "essential-skills-every-barista-have"
 unique id: "1748534800135x986894816421477200"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,11 @@
 ---
-title: "How should staff management responsibilities be outlined in a Restaurant Assistant Manager job description?"
-meta: "Discover how to accurately define a Restaurant Assistant Manager's role in staff management, team development, and motivation in a job description."
+title: |
+  How should staff management responsibilities be outlined in a Restaurant Assistant Manager job description?
+meta: |
+  Discover how to accurately define a Restaurant Assistant Manager's role in staff management, team development, and motivation in a job description.
 slug: "staff-management-assistant-manager-responsibilities"
 unique id: "1750236038367x439081992568176640"
-featured: "false"
+featured: false
 breadcrumb short: "Management"
 pillar text: "Job Descriptions"
 pillar link: |

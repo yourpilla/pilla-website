@@ -1,9 +1,10 @@
 ---
 title: "What should I include about my kitchen environment in a Commis Chef job description?"
-meta: "Discover how to craft a compelling Commis Chef job description by detailing your kitchen's environment, dining style, and unique aspects to attract the right candidates."
+meta: |
+  Discover how to craft a compelling Commis Chef job description by detailing your kitchen's environment, dining style, and unique aspects to attract the right candidates.
 slug: "kitchen-environment-commis-chef-job-description"
 unique id: "1749803042243x986596658006196200"
-featured: "false"
+featured: false
 breadcrumb short: "Environment"
 pillar text: "Job Descriptions"
 pillar link: |

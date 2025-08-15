@@ -1,9 +1,10 @@
 ---
 title: "How do I describe the necessary experience in a Hotel General Manager job description?"
-meta: "Learn how to specify necessary experience in a Hotel General Manager job description, focusing on practical and relevant industry experience."
+meta: |
+  Learn how to specify necessary experience in a Hotel General Manager job description, focusing on practical and relevant industry experience.
 slug: "hotel-general-manager-experience-description"
 unique id: "1750239688368x295021156923080700"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

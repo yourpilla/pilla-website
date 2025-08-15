@@ -1,9 +1,10 @@
 ---
 title: "Why are opening and closing checks important for front of house staff?"
-meta: "Explore why opening and closing checks are vital for front of house staff, ensuring high standards in cleanliness, safety, and service for a better guest experience."
+meta: |
+  Explore why opening and closing checks are vital for front of house staff, ensuring high standards in cleanliness, safety, and service for a better guest experience.
 slug: "opening-closing-checks-important-house"
 unique id: "1746611300643x918670112148310900"
-featured: "false"
+featured: false
 breadcrumb short: "Importance"
 pillar text: "Daily Operations"
 pillar link: |

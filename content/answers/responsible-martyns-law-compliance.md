@@ -1,17 +1,21 @@
 ---
-title: "Who should be responsible for Martyn's Law compliance?"
-meta: "Explore who should ensure compliance with Martyn's Law, detailing the responsibilities of the Responsible Person and the Designated Senior Officer."
+title: |
+  Who should be responsible for Martyn's Law compliance?
+meta: |
+  Explore who should ensure compliance with Martyn's Law, detailing the responsibilities of the Responsible Person and the Designated Senior Officer.
 slug: "responsible-martyns-law-compliance"
 unique id: "1744633430850x228585098900108580"
-featured: "false"
+featured: false
 breadcrumb short: "Responsible Person"
 pillar text: "Health & Safety System"
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Martyn's Law"
+subpage text: |
+  Martyn's Law
 subpage link: |
   https://yourpilla.com/blog/martyns-law-hospitality
-blog: "How to Comply with Martyn's Law in Hospitality in the UK."
+blog: |
+  How to Comply with Martyn's Law in Hospitality in the UK.
 schema: |
   {
     "@context": "https://schema.org",

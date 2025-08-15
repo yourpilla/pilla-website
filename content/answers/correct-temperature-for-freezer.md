@@ -1,9 +1,11 @@
 ---
-title: "What's the correct temperature for a freezer?"
-meta: "Maintain optimal freezer temperature at -18C (0F) for food safety. Regularly check temperature, avoid overloading, and keep seals clean to ensure efficiency."
+title: |
+  What's the correct temperature for a freezer?
+meta: |
+  Maintain optimal freezer temperature at -18C (0F) for food safety. Regularly check temperature, avoid overloading, and keep seals clean to ensure efficiency.
 slug: "correct-temperature-for-freezer"
 unique id: "1733824505493x334721320070916500"
-featured: "false"
+featured: false
 breadcrumb short: "Temperature"
 pillar text: "Food Safety System"
 pillar link: |

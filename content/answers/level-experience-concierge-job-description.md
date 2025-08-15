@@ -1,9 +1,10 @@
 ---
 title: "What level of experience should be specified in a Concierge job description?"
-meta: "Discover how to specify experience levels in Concierge job descriptions to attract suitable candidates and address common misconceptions about experience requirements."
+meta: |
+  Discover how to specify experience levels in Concierge job descriptions to attract suitable candidates and address common misconceptions about experience requirements.
 slug: "level-experience-concierge-job-description"
 unique id: "1748867452272x911701580752355300"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

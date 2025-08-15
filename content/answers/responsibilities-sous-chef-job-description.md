@@ -1,9 +1,10 @@
 ---
 title: "How do I effectively list key responsibilities in a Sous Chef job description?"
-meta: "Discover how to craft an effective Sous Chef job description, focusing on specific pre-service, active service, and post-service responsibilities."
+meta: |
+  Discover how to craft an effective Sous Chef job description, focusing on specific pre-service, active service, and post-service responsibilities.
 slug: "responsibilities-sous-chef-job-description"
 unique id: "1749805178830x493034065963253760"
-featured: "false"
+featured: false
 breadcrumb short: "Key Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

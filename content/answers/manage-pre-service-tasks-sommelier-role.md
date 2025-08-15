@@ -1,9 +1,10 @@
 ---
 title: "How do I manage pre-service tasks for a sommelier role effectively?"
-meta: "Discover effective strategies for managing pre-service tasks in a sommelier role, including creating checklists and understanding common misconceptions."
+meta: |
+  Discover effective strategies for managing pre-service tasks in a sommelier role, including creating checklists and understanding common misconceptions.
 slug: "manage-pre-service-tasks-sommelier-role"
 unique id: "1749719724737x419783720721449000"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-Service"
 pillar text: "Job Interviews"
 pillar link: |

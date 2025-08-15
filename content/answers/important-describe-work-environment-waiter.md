@@ -1,9 +1,10 @@
 ---
 title: "Why is it important to clearly describe the work environment in a Waiter/Waitress job description?"
-meta: "Discover the importance of accurately describing the work environment in a Waiter/Waitress job description to attract suitable candidates."
+meta: |
+  Discover the importance of accurately describing the work environment in a Waiter/Waitress job description to attract suitable candidates.
 slug: "important-describe-work-environment-waiter"
 unique id: "1748867975471x988681475016622000"
-featured: "false"
+featured: false
 breadcrumb short: "Environment"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How should front of house cleaning tasks be assigned to specific roles?"
-meta: "Discover how assigning specific cleaning roles enhances efficiency in front of house operations, and learn key training tips for new staff."
+meta: |
+  Discover how assigning specific cleaning roles enhances efficiency in front of house operations, and learn key training tips for new staff.
 slug: "front-house-cleaning-tasks-assigned"
 unique id: "1746627231148x287584775996622140"
-featured: "false"
+featured: false
 breadcrumb short: "Assigning"
 pillar text: "Daily Operations"
 pillar link: |

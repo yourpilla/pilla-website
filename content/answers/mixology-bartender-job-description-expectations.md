@@ -1,9 +1,10 @@
 ---
 title: "Should I include expectations around drink knowledge or mixology in a Bartender job description?"
-meta: "Explore the importance of including drink knowledge and mixology skills in bartender job descriptions to attract suitable candidates and encourage professional growth."
+meta: |
+  Explore the importance of including drink knowledge and mixology skills in bartender job descriptions to attract suitable candidates and encourage professional growth.
 slug: "mixology-bartender-job-description-expectations"
 unique id: "1748429917195x160150143004737630"
-featured: "false"
+featured: false
 breadcrumb short: "Mixology"
 pillar text: "Job Descriptions"
 pillar link: |

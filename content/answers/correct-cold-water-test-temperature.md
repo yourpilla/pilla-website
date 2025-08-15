@@ -1,9 +1,11 @@
 ---
-title: "What's the correct temperature reading for cold water test when testing a food probe thermometer?"
-meta: "Learn how to test your food probe thermometer in cold water for accuracy. Discover what a failed test means and how to record it in Pilla."
+title: |
+  What's the correct temperature reading for cold water test when testing a food probe thermometer?
+meta: |
+  Learn how to test your food probe thermometer in cold water for accuracy. Discover what a failed test means and how to record it in Pilla.
 slug: "correct-cold-water-test-temperature"
 unique id: "1734019668802x878299645490529000"
-featured: "false"
+featured: false
 breadcrumb short: "Cold Temperature"
 pillar text: "Food Safety System"
 pillar link: |

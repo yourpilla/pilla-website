@@ -1,9 +1,10 @@
 ---
 title: "What is the correct wash temperature for a commercial dishwasher?"
-meta: "Discover how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and safety, including essential maintenance tips."
+meta: |
+  Discover how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and safety, including essential maintenance tips.
 slug: "correct-wash-temperature"
 unique id: "1743583658471x126922145977166780"
-featured: "false"
+featured: false
 breadcrumb short: "Correct Wash Temperature"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What should I do after scoring Barista interviews?"
-meta: "Explore effective strategies for evaluating Barista candidates post-interview, focusing on team fit and potential beyond just technical skills."
+meta: |
+  Explore effective strategies for evaluating Barista candidates post-interview, focusing on team fit and potential beyond just technical skills.
 slug: "scoring-barista-interviews-what-do"
 unique id: "1747318595790x665315263792522400"
-featured: "false"
+featured: false
 breadcrumb short: "Reviewing"
 pillar text: "Job Interviews"
 pillar link: |

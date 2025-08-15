@@ -1,9 +1,10 @@
 ---
 title: "What are food safety management procedures under the Food Safety Act 1990?"
-meta: "Explore the essential food safety management procedures under the Food Safety Act 1990, focusing on HACCP principles for businesses of all sizes."
+meta: |
+  Explore the essential food safety management procedures under the Food Safety Act 1990, focusing on HACCP principles for businesses of all sizes.
 slug: "food-safety-management-procedures-act"
 unique id: "1745921768614x859694439656708600"
-featured: "false"
+featured: false
 breadcrumb short: "Procedures"
 pillar text: "Food Safety System"
 pillar link: |

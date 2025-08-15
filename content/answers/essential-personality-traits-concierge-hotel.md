@@ -1,9 +1,10 @@
 ---
 title: "What personality traits are essential for a Concierge in our hotel setting?"
-meta: "Discover essential personality traits for hotel concierges, including adaptability and resourcefulness, and learn effective hiring practices to ensure candidates align with these qualities."
+meta: |
+  Discover essential personality traits for hotel concierges, including adaptability and resourcefulness, and learn effective hiring practices to ensure candidates align with these qualities.
 slug: "essential-personality-traits-concierge-hotel"
 unique id: "1748867485202x292625764736565250"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

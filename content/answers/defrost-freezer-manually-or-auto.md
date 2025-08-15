@@ -1,9 +1,10 @@
 ---
 title: "Should I defrost the freezer manually or wait for auto-defrost?"
-meta: "Learn the importance of defrosting your freezer, whether manually or using auto-defrost, and how to handle food safely during the process."
+meta: |
+  Learn the importance of defrosting your freezer, whether manually or using auto-defrost, and how to handle food safely during the process.
 slug: "defrost-freezer-manually-or-auto"
 unique id: "1733824585513x242241504544921540"
-featured: "false"
+featured: false
 breadcrumb short: "Defrosting"
 pillar text: "Food Safety System"
 pillar link: |

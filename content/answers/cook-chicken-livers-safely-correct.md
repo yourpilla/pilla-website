@@ -1,9 +1,10 @@
 ---
 title: "What is the correct way to cook chicken livers safely?"
-meta: "Learn about scientifically proven time-temperature combinations to ensure food safety and how to implement effective food handling practices."
+meta: |
+  Learn about scientifically proven time-temperature combinations to ensure food safety and how to implement effective food handling practices.
 slug: "cook-chicken-livers-safely-correct"
 unique id: "1743670469428x830881597009896000"
-featured: "false"
+featured: false
 breadcrumb short: "Chicken Livers"
 pillar text: "Food Safety System"
 pillar link: |

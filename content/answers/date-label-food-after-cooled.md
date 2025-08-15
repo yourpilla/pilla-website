@@ -1,9 +1,10 @@
 ---
 title: "How should I date label food after it has cooled?"
-meta: "Learn the correct methods for date labelling and storing cooled food, including the importance of covering food before refrigeration."
+meta: |
+  Learn the correct methods for date labelling and storing cooled food, including the importance of covering food before refrigeration.
 slug: "date-label-food-after-cooled"
 unique id: "1748966521629x484014754913845250"
-featured: "false"
+featured: false
 breadcrumb short: "Date Labelling"
 pillar text: "Food Safety System"
 pillar link: |

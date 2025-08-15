@@ -1,9 +1,10 @@
 ---
 title: "How should checklist tasks be written to make them effective?"
-meta: "Discover why specific checklist tasks are crucial for effectiveness, the issues with vague items like 'Check fridges', and the three essential elements every task should include."
+meta: |
+  Discover why specific checklist tasks are crucial for effectiveness, the issues with vague items like 'Check fridges', and the three essential elements every task should include.
 slug: "checklist-tasks-written-effective-make"
 unique id: "1746609287201x558008362329757100"
-featured: "false"
+featured: false
 breadcrumb short: "Writing"
 pillar text: "Food Safety System"
 pillar link: |

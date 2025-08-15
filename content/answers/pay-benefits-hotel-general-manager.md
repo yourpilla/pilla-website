@@ -1,9 +1,10 @@
 ---
 title: "What pay and benefits details should I include in a Hotel General Manager job description?"
-meta: "Discover how to effectively detail pay, benefits, and work-life balance perks in a Hotel General Manager job description to attract top candidates."
+meta: |
+  Discover how to effectively detail pay, benefits, and work-life balance perks in a Hotel General Manager job description to attract top candidates.
 slug: "pay-benefits-hotel-general-manager"
 unique id: "1750240366376x442582030956625900"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

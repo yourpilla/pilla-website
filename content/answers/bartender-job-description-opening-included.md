@@ -1,9 +1,10 @@
 ---
 title: "What should be included in the opening of a Bartender job description?"
-meta: "Discover how to craft an engaging opening for a Bartender job description to attract the right candidates, highlighting your venue's unique characteristics."
+meta: |
+  Discover how to craft an engaging opening for a Bartender job description to attract the right candidates, highlighting your venue's unique characteristics.
 slug: "bartender-job-description-opening-included"
 unique id: "1748429917192x897008482111556200"
-featured: "false"
+featured: false
 breadcrumb short: "Opening Section"
 pillar text: "Job Descriptions"
 pillar link: |

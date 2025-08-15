@@ -1,9 +1,10 @@
 ---
 title: "How do local authorities enforce the Food Safety Act 1990?"
-meta: "Explore how local authorities enforce the Food Safety Act 1990, the role of the Food Hygiene Rating Scheme, and the support provided by environmental health services."
+meta: |
+  Explore how local authorities enforce the Food Safety Act 1990, the role of the Food Hygiene Rating Scheme, and the support provided by environmental health services.
 slug: "local-authorities-enforce-food-safety"
 unique id: "1745921768614x612680802943813500"
-featured: "false"
+featured: false
 breadcrumb short: "Enforcement"
 pillar text: "Food Safety System"
 pillar link: |

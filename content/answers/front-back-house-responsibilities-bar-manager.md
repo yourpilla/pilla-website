@@ -1,9 +1,10 @@
 ---
 title: "What is the difference between front-of-house and back-of-house responsibilities for a Bar Manager?"
-meta: "Explore the distinct roles of front-of-house and back-of-house responsibilities for a Bar Manager, including common misconceptions and key operational tasks."
+meta: |
+  Explore the distinct roles of front-of-house and back-of-house responsibilities for a Bar Manager, including common misconceptions and key operational tasks.
 slug: "front-back-house-responsibilities-bar-manager"
 unique id: "1748626151254x920338426003752300"
-featured: "false"
+featured: false
 breadcrumb short: "FOH vs BOH"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What other food hygiene laws work alongside the Food Safety Act 1990?"
-meta: "Explore key UK food safety laws that work with the Food Safety Act 1990, including the General Food Law Regulation and Food Safety and Hygiene Regulations."
+meta: |
+  Explore key UK food safety laws that work with the Food Safety Act 1990, including the General Food Law Regulation and Food Safety and Hygiene Regulations.
 slug: "food-hygiene-laws-safety-1990"
 unique id: "1745921768614x264000046958463580"
-featured: "false"
+featured: false
 breadcrumb short: "Accompanying Laws"
 pillar text: "Food Safety System"
 pillar link: |

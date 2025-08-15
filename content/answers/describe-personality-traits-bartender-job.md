@@ -1,9 +1,10 @@
 ---
 title: "How do I describe personality traits in a Bartender job description?"
-meta: "Discover how to effectively describe essential personality traits in a bartender job description to enhance team dynamics and customer service."
+meta: |
+  Discover how to effectively describe essential personality traits in a bartender job description to enhance team dynamics and customer service.
 slug: "describe-personality-traits-bartender-job"
 unique id: "1748429917193x613723466588959200"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

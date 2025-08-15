@@ -1,9 +1,10 @@
 ---
 title: "How can I clearly communicate the service style of my bar in a Bar Manager job description?"
-meta: "Explore why detailing your bar's service style, culture, and pace in a Bar Manager job description attracts the right candidates."
+meta: |
+  Explore why detailing your bar's service style, culture, and pace in a Bar Manager job description attracts the right candidates.
 slug: "service-style-bar-manager-description"
 unique id: "1748626151253x392977159970564030"
-featured: "false"
+featured: false
 breadcrumb short: "Service Style"
 pillar text: "Job Descriptions"
 pillar link: |

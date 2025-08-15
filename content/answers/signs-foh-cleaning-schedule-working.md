@@ -1,9 +1,10 @@
 ---
 title: "What are the signs that your FOH cleaning schedule isn’t working?"
-meta: "Discover the signs your front of house cleaning schedule might be failing, including unnoticed dirt and unvoiced customer complaints, and learn effective corrective actions."
+meta: |
+  Discover the signs your front of house cleaning schedule might be failing, including unnoticed dirt and unvoiced customer complaints, and learn effective corrective actions.
 slug: "signs-foh-cleaning-schedule-working"
 unique id: "1746627231148x203527217666757950"
-featured: "false"
+featured: false
 breadcrumb short: "Corrections"
 pillar text: "Daily Operations"
 pillar link: |

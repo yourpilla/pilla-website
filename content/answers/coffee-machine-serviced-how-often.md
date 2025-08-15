@@ -1,9 +1,10 @@
 ---
 title: "How often should a commercial coffee machine be serviced?"
-meta: "Explore the importance of regular servicing for commercial coffee machines, recommended every 3 to 6 months, and the necessity of using qualified technicians."
+meta: |
+  Explore the importance of regular servicing for commercial coffee machines, recommended every 3 to 6 months, and the necessity of using qualified technicians.
 slug: "coffee-machine-serviced-how-often"
 unique id: "1745226754640x248159394973823230"
-featured: "false"
+featured: false
 breadcrumb short: "Maintainence"
 pillar text: "Health & Safety System"
 pillar link: |

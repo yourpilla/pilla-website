@@ -1,9 +1,10 @@
 ---
 title: "What closing and cleaning duties should be included in a Chef de Partie job description?"
-meta: "Discover the essential closing and cleaning duties for a Chef de Partie, including sanitation responsibilities and setting expectations for end-of-day routines."
+meta: |
+  Discover the essential closing and cleaning duties for a Chef de Partie, including sanitation responsibilities and setting expectations for end-of-day routines.
 slug: "closing-cleaning-duties-chef-partie"
 unique id: "1749803830633x877283984642932700"
-featured: "false"
+featured: false
 breadcrumb short: "Closing and Cleaning"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What hygiene standards must food businesses meet under the Food Safety Act 1990?"
-meta: "Discover the hygiene standards UK food businesses must meet under the Food Safety Act 1990, including continuous compliance and temperature control."
+meta: |
+  Discover the hygiene standards UK food businesses must meet under the Food Safety Act 1990, including continuous compliance and temperature control.
 slug: "food-hygiene-standards-safety-act"
 unique id: "1745921768614x905212563531775100"
-featured: "false"
+featured: false
 breadcrumb short: "Hygiene"
 pillar text: "Food Safety System"
 pillar link: |

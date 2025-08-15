@@ -1,9 +1,10 @@
 ---
 title: "How should staff be managed to ensure hot holding safety?"
-meta: "Discover effective strategies for managing staff to ensure hot holding safety, including the importance of training, supervision, and regular retraining."
+meta: |
+  Discover effective strategies for managing staff to ensure hot holding safety, including the importance of training, supervision, and regular retraining.
 slug: "managed-staff-hot-holding-safety"
 unique id: "1744190546780x792391837919545900"
-featured: "false"
+featured: false
 breadcrumb short: "Staff Training"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What is involved in monitoring critical control points?"
-meta: "Explore the essentials of monitoring critical control points (CCPs) in food safety, including common misconceptions and the importance of verification and record-keeping."
+meta: |
+  Explore the essentials of monitoring critical control points (CCPs) in food safety, including common misconceptions and the importance of verification and record-keeping.
 slug: "monitoring-critical-control-points-involved"
 unique id: "1745929282548x990653794253991300"
-featured: "false"
+featured: false
 breadcrumb short: "Monitoring"
 pillar text: "Food Safety System"
 pillar link: |

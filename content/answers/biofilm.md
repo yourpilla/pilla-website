@@ -1,9 +1,10 @@
 ---
 title: "Why is biofilm a problem in commercial dishwashers?"
-meta: "Learn the correct temperatures for commercial dishwashers to ensure food safety, and find out what to do if your dishwasher malfunctions."
+meta: |
+  Learn the correct temperatures for commercial dishwashers to ensure food safety, and find out what to do if your dishwasher malfunctions.
 slug: "biofilm"
 unique id: "1743586900087x266605154170695070"
-featured: "false"
+featured: false
 breadcrumb short: "Biofilm"
 pillar text: "Food Safety System"
 pillar link: |

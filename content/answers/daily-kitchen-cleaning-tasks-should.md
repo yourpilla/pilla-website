@@ -1,9 +1,10 @@
 ---
 title: "What should be included in daily kitchen cleaning tasks?"
-meta: "Discover essential daily kitchen cleaning tasks including sanitising food contact surfaces and overlooked areas, with a focus on maintaining hygiene."
+meta: |
+  Discover essential daily kitchen cleaning tasks including sanitising food contact surfaces and overlooked areas, with a focus on maintaining hygiene.
 slug: "daily-kitchen-cleaning-tasks-should"
 unique id: "1746622446226x221323682591265000"
-featured: "false"
+featured: false
 breadcrumb short: "Daily"
 pillar text: "Food Safety System"
 pillar link: |

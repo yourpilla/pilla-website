@@ -1,9 +1,10 @@
 ---
 title: "Can I use regular cleaning wipes on my food probe thermometer?"
-meta: "Learn how to properly clean and sanitise your food probe thermometer to prevent cross-contamination and ensure accurate temperature readings. Regular maintenance is key."
+meta: |
+  Learn how to properly clean and sanitise your food probe thermometer to prevent cross-contamination and ensure accurate temperature readings. Regular maintenance is key.
 slug: "cleaning-wipes-food-probe-thermometer"
 unique id: "1734019668719x809232086135337100"
-featured: "false"
+featured: false
 breadcrumb short: "Cleaning Wipes"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What Barback duties happen during active service?"
-meta: "Explore the vital role of barbacks during active bar service, highlighting their responsibilities in restocking, cleaning, and supporting bartenders to enhance service efficiency."
+meta: |
+  Explore the vital role of barbacks during active bar service, highlighting their responsibilities in restocking, cleaning, and supporting bartenders to enhance service efficiency.
 slug: "barback-duties-active-service-during"
 unique id: "1747841008446x651878571093156100"
-featured: "false"
+featured: false
 breadcrumb short: "Service Key Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

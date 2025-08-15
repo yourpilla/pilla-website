@@ -1,9 +1,11 @@
 ---
-title: "Who should I tell if my food probe thermometer isn't working properly?"
-meta: "Learn what to do if your food probe thermometer is faulty, including who to tell, signs to look for, and why you shouldn't keep using it. Always record issues in Pilla for a complete record."
+title: |
+  Who should I tell if my food probe thermometer isn't working properly?
+meta: |
+  Learn what to do if your food probe thermometer is faulty, including who to tell, signs to look for, and why you shouldn't keep using it. Always record issues in Pilla for a complete record.
 slug: "food-probe-thermometer-not-working"
 unique id: "1734019673649x351827975716650050"
-featured: "false"
+featured: false
 breadcrumb short: "Reporting Errors"
 pillar text: "Food Safety System"
 pillar link: |

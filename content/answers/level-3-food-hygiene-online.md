@@ -1,9 +1,10 @@
 ---
 title: "Can I do my Level 3 food hygiene certificate online or does it have to be in person?"
-meta: "Can Level 3 food hygiene certificates be done online? Learn about the differences between online and in-person training for Level 1, 2 and 3 food safety courses."
+meta: |
+  Can Level 3 food hygiene certificates be done online? Learn about the differences between online and in-person training for Level 1, 2 and 3 food safety courses.
 slug: "level-3-food-hygiene-online"
 unique id: "1734014563411x713383460524359200"
-featured: "false"
+featured: false
 breadcrumb short: "Level 3 Online"
 pillar text: "Food Safety System"
 pillar link: |

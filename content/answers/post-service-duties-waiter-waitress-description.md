@@ -1,9 +1,10 @@
 ---
 title: "What post-service duties should I include in a Waiter/Waitress job description?"
-meta: "Discover the essential post-service duties for waitstaff, including table clearing and cash-out procedures, to ensure restaurant readiness and efficiency."
+meta: |
+  Discover the essential post-service duties for waitstaff, including table clearing and cash-out procedures, to ensure restaurant readiness and efficiency.
 slug: "post-service-duties-waiter-waitress-description"
 unique id: "1748867817148x812751918403420200"
-featured: "false"
+featured: false
 breadcrumb short: "Post-Service Responsibilities "
 pillar text: "Job Descriptions"
 pillar link: |

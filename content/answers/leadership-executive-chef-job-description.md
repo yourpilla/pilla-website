@@ -1,9 +1,10 @@
 ---
 title: "How do I describe leadership expectations in an Executive Chef job description?"
-meta: "Explore how to effectively outline leadership expectations in an Executive Chef job description, emphasizing key qualities and mentoring responsibilities."
+meta: |
+  Explore how to effectively outline leadership expectations in an Executive Chef job description, emphasizing key qualities and mentoring responsibilities.
 slug: "leadership-executive-chef-job-description"
 unique id: "1750064236120x198289973874524160"
-featured: "false"
+featured: false
 breadcrumb short: "Leadership"
 pillar text: "Job Descriptions"
 pillar link: |

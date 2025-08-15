@@ -1,9 +1,10 @@
 ---
 title: "What support or career progression should I include Hotel Receptionist job description?"
-meta: "Explore how to enrich a Hotel Receptionist job description with support, career progression, training programmes, and internal promotions to attract top talent."
+meta: |
+  Explore how to enrich a Hotel Receptionist job description with support, career progression, training programmes, and internal promotions to attract top talent.
 slug: "support-career-progression-hotel-receptionist"
 unique id: "1748768543070x169373822312967700"
-featured: "false"
+featured: false
 breadcrumb short: "Career"
 pillar text: "Job Descriptions"
 pillar link: |

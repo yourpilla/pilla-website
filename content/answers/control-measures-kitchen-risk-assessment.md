@@ -1,9 +1,10 @@
 ---
 title: "What control measures should I include in a kitchen risk assessment?"
-meta: "Discover essential control measures for kitchen risk assessments, including the differentiation between existing and additional controls, and the importance of detailed, tailored safety measures."
+meta: |
+  Discover essential control measures for kitchen risk assessments, including the differentiation between existing and additional controls, and the importance of detailed, tailored safety measures.
 slug: "control-measures-kitchen-risk-assessment"
 unique id: "1744799372654x139294100003905400"
-featured: "false"
+featured: false
 breadcrumb short: "Control Measures"
 pillar text: "Health & Safety System"
 pillar link: |

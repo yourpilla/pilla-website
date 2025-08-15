@@ -1,9 +1,11 @@
 ---
-title: "If I'm a waiter who doesn't handle food directly, do I still need a food safety certificate?"
-meta: "Learn if waiters need a food hygiene certificate, what Level 1 training covers, and additional in-house sessions required to maintain food safety standards in the workplace."
+title: |
+  If I'm a waiter who doesn't handle food directly, do I still need a food safety certificate?
+meta: |
+  Learn if waiters need a food hygiene certificate, what Level 1 training covers, and additional in-house sessions required to maintain food safety standards in the workplace.
 slug: "waiter-food-safety-certificate-need"
 unique id: "1734014558527x974351955775917000"
-featured: "false"
+featured: false
 breadcrumb short: "Waiter"
 pillar text: "Food Safety System"
 pillar link: |

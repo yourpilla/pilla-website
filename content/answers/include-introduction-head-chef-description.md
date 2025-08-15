@@ -1,9 +1,10 @@
 ---
 title: "What should I include in the introduction of a Head Chef job description?"
-meta: "Discover how to craft an engaging Head Chef job description, highlighting your venue's culinary style, team culture, and unique dining experience."
+meta: |
+  Discover how to craft an engaging Head Chef job description, highlighting your venue's culinary style, team culture, and unique dining experience.
 slug: "include-introduction-head-chef-description"
 unique id: "1750063267061x898925152765476900"
-featured: "false"
+featured: false
 breadcrumb short: "Introduction"
 pillar text: "Job Descriptions"
 pillar link: |

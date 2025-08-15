@@ -1,9 +1,10 @@
 ---
 title: "How can I describe my venue atmosphere in a Restaurant Assistant Manager job description?"
-meta: "Explore how to effectively describe your restaurant's atmosphere, culinary theme, and cultural traits in a Restaurant Assistant Manager job description."
+meta: |
+  Explore how to effectively describe your restaurant's atmosphere, culinary theme, and cultural traits in a Restaurant Assistant Manager job description.
 slug: "venue-atmosphere-restaurant-assistant-manager"
 unique id: "1750235986854x442983654482509800"
-featured: "false"
+featured: false
 breadcrumb short: "Venue"
 pillar text: "Job Descriptions"
 pillar link: |

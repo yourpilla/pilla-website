@@ -1,9 +1,10 @@
 ---
 title: "How can I explain the reporting and accountability structure in a Bar Manager job description?"
-meta: "Learn how to define the reporting structure and accountability for a Bar Manager in a job description to ensure clear communication and effective management."
+meta: |
+  Learn how to define the reporting structure and accountability for a Bar Manager in a job description to ensure clear communication and effective management.
 slug: "reporting-accountability-structure-bar-manager"
 unique id: "1748626151254x178576303895569440"
-featured: "false"
+featured: false
 breadcrumb short: "Accountability"
 pillar text: "Job Descriptions"
 pillar link: |

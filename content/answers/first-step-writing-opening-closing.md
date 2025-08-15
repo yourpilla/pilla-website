@@ -1,9 +1,10 @@
 ---
 title: "What is the first step in writing effective opening and closing checklists?"
-meta: "Discover the importance of conducting regular kitchen walkthroughs before creating opening and closing checklists to ensure safety and efficiency."
+meta: |
+  Discover the importance of conducting regular kitchen walkthroughs before creating opening and closing checklists to ensure safety and efficiency.
 slug: "first-step-writing-opening-closing"
 unique id: "1746609287200x618846711493837600"
-featured: "false"
+featured: false
 breadcrumb short: "Walkthrough"
 pillar text: "Food Safety System"
 pillar link: |

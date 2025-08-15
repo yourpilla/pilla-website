@@ -1,9 +1,10 @@
 ---
 title: "What hours and scheduling information should I include in a Catering Assistant job description?"
-meta: "Explore what scheduling details to include in a Catering Assistant job description, covering shift lengths, weekend work, and handling role flexibility."
+meta: |
+  Explore what scheduling details to include in a Catering Assistant job description, covering shift lengths, weekend work, and handling role flexibility.
 slug: "hours-scheduling-catering-assistant-job"
 unique id: "1748596461538x965001942469238400"
-featured: "false"
+featured: false
 breadcrumb short: "Hours"
 pillar text: "Job Descriptions"
 pillar link: |

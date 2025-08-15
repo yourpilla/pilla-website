@@ -1,9 +1,10 @@
 ---
 title: "Why should I use a scoring system for Barista interviews?"
-meta: "Discover how using a scoring system in Barista interviews enhances fairness and consistency, and learn to adjust weights for different skills as per your café's needs."
+meta: |
+  Discover how using a scoring system in Barista interviews enhances fairness and consistency, and learn to adjust weights for different skills as per your café's needs.
 slug: "scoring-system-barista-interviews-use"
 unique id: "1747318595790x670457546373969300"
-featured: "false"
+featured: false
 breadcrumb short: "Interview Scoring"
 pillar text: "Job Interviews"
 pillar link: |

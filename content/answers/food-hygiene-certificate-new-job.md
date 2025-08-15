@@ -1,9 +1,10 @@
 ---
 title: "If I already have a food hygiene certificate from another job, do I need a new one?"
-meta: "Do you need a new food hygiene certificate when starting a new job? Find out if your existing qualification is valid and what to do if you can't get your certificate from your previous employer."
+meta: |
+  Do you need a new food hygiene certificate when starting a new job? Find out if your existing qualification is valid and what to do if you can't get your certificate from your previous employer.
 slug: "food-hygiene-certificate-new-job"
 unique id: "1734014568333x898829622637475100"
-featured: "false"
+featured: false
 breadcrumb short: "Current"
 pillar text: "Food Safety System"
 pillar link: |

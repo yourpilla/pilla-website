@@ -2,10 +2,11 @@
 title: |
   What training and progression opportunities should be highlighted in a Concierge job description?
   
-meta: "Discover how to effectively highlight training and progression opportunities in a Concierge job description to attract and retain top talent."
+meta: |
+  Discover how to effectively highlight training and progression opportunities in a Concierge job description to attract and retain top talent.
 slug: "training-progression-opportunities-concierge-description"
 unique id: "1748867535061x901898880030605300"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

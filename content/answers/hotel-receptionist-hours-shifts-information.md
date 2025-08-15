@@ -1,9 +1,10 @@
 ---
 title: "What hours and shifts information should I include Hotel Receptionist job description?"
-meta: "Discover essential tips for including detailed shift and scheduling information in a Hotel Receptionist job description to attract suitable candidates."
+meta: |
+  Discover essential tips for including detailed shift and scheduling information in a Hotel Receptionist job description to attract suitable candidates.
 slug: "hotel-receptionist-hours-shifts-information"
 unique id: "1748768543070x908034388698178600"
-featured: "false"
+featured: false
 breadcrumb short: "Shifts"
 pillar text: "Job Descriptions"
 pillar link: |

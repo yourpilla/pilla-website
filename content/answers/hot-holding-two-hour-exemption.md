@@ -1,9 +1,10 @@
 ---
 title: "What is the hot holding two-hour exemption?"
-meta: "Understand the hot holding two-hour exemption, which allows food to be kept below 63°C for up to two hours during events, and learn the correct procedures to follow once the exemption period ends."
+meta: |
+  Understand the hot holding two-hour exemption, which allows food to be kept below 63°C for up to two hours during events, and learn the correct procedures to follow once the exemption period ends.
 slug: "hot-holding-two-hour-exemption"
 unique id: "1744190546778x602602803625264900"
-featured: "false"
+featured: false
 breadcrumb short: "Hot Holding Two Hour Exception"
 pillar text: "Food Safety System"
 pillar link: |

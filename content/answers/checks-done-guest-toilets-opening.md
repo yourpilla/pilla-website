@@ -1,9 +1,10 @@
 ---
 title: "What checks should be done in guest toilets before opening?"
-meta: "Discover essential pre-opening checks for restaurant guest toilets, including cleanliness, functionality, and stock levels, to enhance guest experience and hygiene ratings."
+meta: |
+  Discover essential pre-opening checks for restaurant guest toilets, including cleanliness, functionality, and stock levels, to enhance guest experience and hygiene ratings.
 slug: "checks-done-guest-toilets-opening"
 unique id: "1746611300644x904138321398177000"
-featured: "false"
+featured: false
 breadcrumb short: "Toilets"
 pillar text: "Daily Operations"
 pillar link: |

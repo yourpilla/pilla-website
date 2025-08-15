@@ -1,9 +1,10 @@
 ---
 title: "How do I assess who might be harmed in a kitchen risk assessment?"
-meta: "Learn how to identify who might be harmed in a kitchen risk assessment, including staff and visitors, and the importance of specific injury descriptions."
+meta: |
+  Learn how to identify who might be harmed in a kitchen risk assessment, including staff and visitors, and the importance of specific injury descriptions.
 slug: "assess-harmed-kitchen-risk-assessment"
 unique id: "1744799372654x372478131209774900"
-featured: "false"
+featured: false
 breadcrumb short: "Who Could be Harmed"
 pillar text: "Health & Safety System"
 pillar link: |

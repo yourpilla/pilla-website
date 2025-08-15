@@ -1,9 +1,11 @@
 ---
-title: "Why can't reheated food be cooled a second time?"
-meta: "Discover why reheating and cooling food multiple times is risky, increasing the likelihood of bacterial growth and foodborne illnesses."
+title: |
+  Why can't reheated food be cooled a second time?
+meta: |
+  Discover why reheating and cooling food multiple times is risky, increasing the likelihood of bacterial growth and foodborne illnesses.
 slug: "reheated-food-cooled-second-time"
 unique id: "1748966621762x663274942230691800"
-featured: "false"
+featured: false
 breadcrumb short: "Reheated Cooling"
 pillar text: "Food Safety System"
 pillar link: |

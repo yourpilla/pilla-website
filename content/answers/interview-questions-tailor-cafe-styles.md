@@ -1,9 +1,10 @@
 ---
 title: "How do I tailor interview questions for different café styles?"
-meta: "Discover how to tailor barista interview questions for different café styles, including fast-paced environments and artisan coffee shops, to assess key skills and fit."
+meta: |
+  Discover how to tailor barista interview questions for different café styles, including fast-paced environments and artisan coffee shops, to assess key skills and fit.
 slug: "interview-questions-tailor-cafe-styles"
 unique id: "1747318595790x641997523054240800"
-featured: "false"
+featured: false
 breadcrumb short: "Tailoring Questions"
 pillar text: "Job Interviews"
 pillar link: |

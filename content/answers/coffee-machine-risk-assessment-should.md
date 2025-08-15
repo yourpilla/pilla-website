@@ -1,9 +1,10 @@
 ---
 title: "What should be included in a coffee machine risk assessment?"
-meta: "Discover essential daily safety and performance checks for coffee machines, including common misconceptions and the importance of using a checklist."
+meta: |
+  Discover essential daily safety and performance checks for coffee machines, including common misconceptions and the importance of using a checklist.
 slug: "coffee-machine-risk-assessment-should"
 unique id: "1745226754641x644433002790528500"
-featured: "false"
+featured: false
 breadcrumb short: "Safety Checks"
 pillar text: "Health & Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What core responsibilities should be listed in a sommelier job description?"
-meta: "Explore the essential responsibilities for a sommelier, including wine knowledge, inventory management, and guest interaction, plus common misconceptions about the role."
+meta: |
+  Explore the essential responsibilities for a sommelier, including wine knowledge, inventory management, and guest interaction, plus common misconceptions about the role.
 slug: "core-responsibilities-sommelier-job-description"
 unique id: "1749719503894x494095970293514240"
-featured: "false"
+featured: false
 breadcrumb short: "Core Responsibilities"
 pillar text: "Job Interviews"
 pillar link: |

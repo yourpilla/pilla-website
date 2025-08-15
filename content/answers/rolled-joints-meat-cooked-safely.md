@@ -1,9 +1,10 @@
 ---
 title: "How should rolled joints of meat be cooked safely?"
-meta: "Discover essential cooking temperatures and practices to ensure food safety, including scientifically proven time-temperature combinations and hygiene tips."
+meta: |
+  Discover essential cooking temperatures and practices to ensure food safety, including scientifically proven time-temperature combinations and hygiene tips.
 slug: "rolled-joints-meat-cooked-safely"
 unique id: "1743670469424x583753380037317800"
-featured: "false"
+featured: false
 breadcrumb short: "Rolled Joints"
 pillar text: "Food Safety System"
 pillar link: |

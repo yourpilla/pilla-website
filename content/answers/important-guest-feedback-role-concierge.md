@@ -1,9 +1,10 @@
 ---
 title: "How important is guest feedback in writing a role description for a Concierge?"
-meta: "Learn how guest feedback is essential in crafting a Concierge's job description, influencing responsibilities and skills highlighted."
+meta: |
+  Learn how guest feedback is essential in crafting a Concierge's job description, influencing responsibilities and skills highlighted.
 slug: "important-guest-feedback-role-concierge"
 unique id: "1748867588768x652192695506436100"
-featured: "false"
+featured: false
 breadcrumb short: "Guest Feedback"
 pillar text: "Job Descriptions"
 pillar link: |

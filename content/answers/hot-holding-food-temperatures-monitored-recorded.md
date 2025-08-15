@@ -1,9 +1,10 @@
 ---
 title: "How should hot holding food temperatures be monitored and recorded?"
-meta: "Learn the correct practices for monitoring and recording temperatures of hot held foods, and the importance of using a calibrated food-grade thermometer."
+meta: |
+  Learn the correct practices for monitoring and recording temperatures of hot held foods, and the importance of using a calibrated food-grade thermometer.
 slug: "hot-holding-food-temperatures-monitored-recorded"
 unique id: "1744190546777x664087287418557700"
-featured: "false"
+featured: false
 breadcrumb short: "Monitoring"
 pillar text: "Food Safety System"
 pillar link: |

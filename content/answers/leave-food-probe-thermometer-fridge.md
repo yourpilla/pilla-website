@@ -1,9 +1,10 @@
 ---
 title: "Can I leave my food probe thermometer in the fridge overnight?"
-meta: "Learn how to store your food probe thermometer correctly to maintain accuracy and avoid damage. Never leave it in the fridge overnight."
+meta: |
+  Learn how to store your food probe thermometer correctly to maintain accuracy and avoid damage. Never leave it in the fridge overnight.
 slug: "leave-food-probe-thermometer-fridge"
 unique id: "1734019663810x673205654116870300"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Storage"
 pillar text: "Food Safety System"
 pillar link: |

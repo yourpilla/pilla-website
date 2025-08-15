@@ -1,9 +1,10 @@
 ---
 title: "What should I include under pay and benefits in a Commis Chef job description?"
-meta: "Discover how to effectively detail pay and benefits in a Commis Chef job description to attract qualified candidates and avoid common pitfalls."
+meta: |
+  Discover how to effectively detail pay and benefits in a Commis Chef job description to attract qualified candidates and avoid common pitfalls.
 slug: "pay-benefits-commis-chef-job-description"
 unique id: "1749803162486x781959530633232400"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

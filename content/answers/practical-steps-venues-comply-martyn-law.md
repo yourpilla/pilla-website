@@ -1,17 +1,21 @@
 ---
-title: "What practical steps can venues take to comply with Martyn's Law?"
-meta: "Discover practical steps for venues to comply with Martyn's Law, focusing on procedural readiness, staff training, and appropriate security measures."
+title: |
+  What practical steps can venues take to comply with Martyn's Law?
+meta: |
+  Discover practical steps for venues to comply with Martyn's Law, focusing on procedural readiness, staff training, and appropriate security measures.
 slug: "practical-steps-venues-comply-martyn-law"
 unique id: "1744633430850x726729964499918700"
-featured: "false"
+featured: false
 breadcrumb short: "Practical Steps"
 pillar text: "Health & Safety System"
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Martyn's Law"
+subpage text: |
+  Martyn's Law
 subpage link: |
   https://yourpilla.com/blog/martyns-law-hospitality
-blog: "How to Comply with Martyn's Law in Hospitality in the UK."
+blog: |
+  How to Comply with Martyn's Law in Hospitality in the UK.
 schema: |
   {
     "@context": "https://schema.org",

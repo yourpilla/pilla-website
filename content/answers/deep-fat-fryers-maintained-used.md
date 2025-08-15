@@ -1,9 +1,10 @@
 ---
 title: "How should deep fat fryers be maintained and used?"
-meta: "Explore essential cooking temperatures and safety practices to prevent foodborne illnesses, ensuring all food is cooked to safe, bacteria-reducing levels."
+meta: |
+  Explore essential cooking temperatures and safety practices to prevent foodborne illnesses, ensuring all food is cooked to safe, bacteria-reducing levels.
 slug: "deep-fat-fryers-maintained-used"
 unique id: "1743670469423x569383949652702900"
-featured: "false"
+featured: false
 breadcrumb short: "Fat Fryers"
 pillar text: "Food Safety System"
 pillar link: |

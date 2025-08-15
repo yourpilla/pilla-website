@@ -1,9 +1,10 @@
 ---
 title: "What is the best way to define the responsibilities in a Bar Manager job description?"
-meta: "Discover how to craft a precise Bar Manager job description, focusing on clear responsibilities and tailoring it to your venue's specific needs to attract suitable candidates."
+meta: |
+  Discover how to craft a precise Bar Manager job description, focusing on clear responsibilities and tailoring it to your venue's specific needs to attract suitable candidates.
 slug: "best-way-define-responsibilities-bar-manager"
 unique id: "1748626151253x779192196900537700"
-featured: "false"
+featured: false
 breadcrumb short: "Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

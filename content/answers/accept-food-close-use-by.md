@@ -1,9 +1,11 @@
 ---
-title: "Can I accept food from a supplier that's close to its use-by date?"
-meta: "Discover why accepting food deliveries close to their use-by dates is not recommended, even with discounts, and learn what to do if you receive short-dated items."
+title: |
+  Can I accept food from a supplier that's close to its use-by date?
+meta: |
+  Discover why accepting food deliveries close to their use-by dates is not recommended, even with discounts, and learn what to do if you receive short-dated items.
 slug: "accept-food-close-use-by"
 unique id: "1734097894567x512710053027572540"
-featured: "false"
+featured: false
 breadcrumb short: "Accepting"
 pillar text: "Food Safety System"
 pillar link: |

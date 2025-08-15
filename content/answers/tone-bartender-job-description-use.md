@@ -1,9 +1,10 @@
 ---
 title: "What tone should I use in a Bartender job description?"
-meta: "Explore how to craft a Bartender job description that aligns with your bar's atmosphere, balancing professionalism with the unique personality of your venue."
+meta: |
+  Explore how to craft a Bartender job description that aligns with your bar's atmosphere, balancing professionalism with the unique personality of your venue.
 slug: "tone-bartender-job-description-use"
 unique id: "1748429917195x299749602540364540"
-featured: "false"
+featured: false
 breadcrumb short: "Tone"
 pillar text: "Job Descriptions"
 pillar link: |

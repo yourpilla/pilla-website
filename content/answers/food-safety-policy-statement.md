@@ -1,9 +1,10 @@
 ---
 title: "What is a food safety policy statement?"
-meta: "Explore the importance of a food safety policy statement in hospitality, outlining staff responsibilities and the need for regular updates."
+meta: |
+  Explore the importance of a food safety policy statement in hospitality, outlining staff responsibilities and the need for regular updates.
 slug: "food-safety-policy-statement"
 unique id: "1746538990379x219765694240846800"
-featured: "false"
+featured: false
 breadcrumb short: "Why Needed"
 pillar text: "Food Safety System"
 pillar link: |

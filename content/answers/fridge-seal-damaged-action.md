@@ -1,9 +1,10 @@
 ---
 title: "What should I do if I notice the fridge seal is damaged?"
-meta: "Learn what to do if you notice a damaged fridge seal, including monitoring temperatures, moving food if necessary, and preventing future damage through regular inspections."
+meta: |
+  Learn what to do if you notice a damaged fridge seal, including monitoring temperatures, moving food if necessary, and preventing future damage through regular inspections.
 slug: "fridge-seal-damaged-action"
 unique id: "1732637351822x474101319672824300"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Seals Damaged"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What are the most critical FOH cleaning tasks to complete after every guest?"
-meta: "Discover essential FOH cleaning tasks to perform after each guest, including sanitising touchpoints and ensuring high chairs meet hygiene standards."
+meta: |
+  Discover essential FOH cleaning tasks to perform after each guest, including sanitising touchpoints and ensuring high chairs meet hygiene standards.
 slug: "critical-front-house-cleaning-tasks"
 unique id: "1746627231147x598791415147686900"
-featured: "false"
+featured: false
 breadcrumb short: "After Each Guest"
 pillar text: "Daily Operations"
 pillar link: |

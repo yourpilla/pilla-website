@@ -1,9 +1,11 @@
 ---
-title: "What should I do if food isn't adequately cooled after 90 minutes?"
-meta: "Discover essential actions if food fails to cool within 90 minutes, including safe disposal and revising cooling methods, plus tips for optimizing your cooling setup."
+title: |
+  What should I do if food isn't adequately cooled after 90 minutes?
+meta: |
+  Discover essential actions if food fails to cool within 90 minutes, including safe disposal and revising cooling methods, plus tips for optimizing your cooling setup.
 slug: "food-cooled-adequately-90-minutes"
 unique id: "1748966649645x906846244359372800"
-featured: "false"
+featured: false
 breadcrumb short: "After 90 Minuts"
 pillar text: "Food Safety System"
 pillar link: |

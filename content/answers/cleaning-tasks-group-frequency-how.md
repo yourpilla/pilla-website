@@ -1,9 +1,10 @@
 ---
 title: "How should you group kitchen cleaning tasks by frequency?"
-meta: "Discover how to effectively group kitchen cleaning tasks by frequency—daily, weekly, monthly, and less frequent—to enhance safety and efficiency."
+meta: |
+  Discover how to effectively group kitchen cleaning tasks by frequency—daily, weekly, monthly, and less frequent—to enhance safety and efficiency.
 slug: "cleaning-tasks-group-frequency-how"
 unique id: "1746622446225x661874423128558100"
-featured: "false"
+featured: false
 breadcrumb short: "Grouping"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How do I specify the required experience for an Executive Chef in a job description?"
-meta: "Discover how to effectively specify experience requirements for an Executive Chef in your job descriptions, including common misconceptions."
+meta: |
+  Discover how to effectively specify experience requirements for an Executive Chef in your job descriptions, including common misconceptions.
 slug: "required-experience-executive-chef-job"
 unique id: "1750064136169x233578463104598000"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "Can I still serve food with freezer burn?"
-meta: "Freezer burn can impact food quality, but slightly affected areas can be cut away. Prevent it by properly packaging food and maintaining your freezer."
+meta: |
+  Freezer burn can impact food quality, but slightly affected areas can be cut away. Prevent it by properly packaging food and maintaining your freezer.
 slug: "what-causes-freezer-burn"
 unique id: "1733824585513x939551638442519500"
-featured: "false"
+featured: false
 breadcrumb short: "Freezer Burn"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What should I include in the service responsibilities section of a Kitchen Porter job description?"
-meta: "Discover how to craft a detailed Kitchen Porter job description, including essential tasks and common misconceptions about the role."
+meta: |
+  Discover how to craft a detailed Kitchen Porter job description, including essential tasks and common misconceptions about the role.
 slug: "kitchen-porter-service-responsibilities-include"
 unique id: "1749723243178x455325843728891900"
-featured: "false"
+featured: false
 breadcrumb short: "Service"
 pillar text: "Job Interviews"
 pillar link: |

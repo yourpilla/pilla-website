@@ -1,9 +1,10 @@
 ---
 title: "What must-have skills should I include in a Chef de Partie job description for my kitchen?"
-meta: "Discover essential skills to include in a Chef de Partie job description, differentiating between must-have and bonus skills for optimal kitchen performance."
+meta: |
+  Discover essential skills to include in a Chef de Partie job description, differentiating between must-have and bonus skills for optimal kitchen performance.
 slug: "must-have-skills-chef-partie"
 unique id: "1749803856022x858056465221681200"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

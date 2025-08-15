@@ -1,9 +1,10 @@
 ---
 title: "What do I do if my food probe thermometer gets wet?"
-meta: "Learn what to do if your food probe thermometer gets wet and how to prevent moisture damage for accurate temperature readings."
+meta: |
+  Learn what to do if your food probe thermometer gets wet and how to prevent moisture damage for accurate temperature readings.
 slug: "food-probe-thermometer-got-wet"
 unique id: "1734019659041x170404359994106980"
-featured: "false"
+featured: false
 breadcrumb short: "Wet"
 pillar text: "Food Safety System"
 pillar link: |

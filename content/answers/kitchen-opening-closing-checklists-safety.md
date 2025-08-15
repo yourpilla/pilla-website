@@ -1,9 +1,10 @@
 ---
 title: "Why are kitchen opening and closing checklists important for food safety?"
-meta: "Explore the significance of kitchen opening and closing checklists for ensuring food safety, hygiene, and operational consistency in busy service times."
+meta: |
+  Explore the significance of kitchen opening and closing checklists for ensuring food safety, hygiene, and operational consistency in busy service times.
 slug: "kitchen-opening-closing-checklists-safety"
 unique id: "1746609287200x298046459956782000"
-featured: "false"
+featured: false
 breadcrumb short: "Food Safety"
 pillar text: "Food Safety System"
 pillar link: |

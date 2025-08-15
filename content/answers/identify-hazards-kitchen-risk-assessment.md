@@ -1,9 +1,10 @@
 ---
 title: "How do I identify hazards for a kitchen risk assessment?"
-meta: "Discover how to identify and assess kitchen hazards effectively, including common risks and misconceptions about kitchen safety evaluations."
+meta: |
+  Discover how to identify and assess kitchen hazards effectively, including common risks and misconceptions about kitchen safety evaluations.
 slug: "identify-hazards-kitchen-risk-assessment"
 unique id: "1744799372653x600777353914366000"
-featured: "false"
+featured: false
 breadcrumb short: "How To"
 pillar text: "Health & Safety System"
 pillar link: |

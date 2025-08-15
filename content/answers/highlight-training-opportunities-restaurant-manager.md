@@ -1,9 +1,10 @@
 ---
 title: "How can I highlight training opportunities in a Restaurant Manager job description?"
-meta: "Discover how to enhance a Restaurant Manager job description by clearly detailing training and career development opportunities to attract skilled candidates."
+meta: |
+  Discover how to enhance a Restaurant Manager job description by clearly detailing training and career development opportunities to attract skilled candidates.
 slug: "highlight-training-opportunities-restaurant-manager"
 unique id: "1750065152882x929623954302435300"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

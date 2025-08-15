@@ -1,9 +1,10 @@
 ---
 title: "How do I define the personality and cultural fit for a Sous Chef in our job description?"
-meta: "Discover how to define the ideal personality traits and cultural fit for a Sous Chef in your job description to enhance team integration and kitchen success."
+meta: |
+  Discover how to define the ideal personality traits and cultural fit for a Sous Chef in your job description to enhance team integration and kitchen success.
 slug: "define-personality-cultural-fit-sous-chef"
 unique id: "1749805239744x155426051169452030"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

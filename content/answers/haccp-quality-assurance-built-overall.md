@@ -1,9 +1,10 @@
 ---
 title: "How can HACCP be built into overall quality assurance?"
-meta: "Discover how integrating HACCP into quality assurance enhances food safety and overall service quality, and learn effective staff engagement strategies."
+meta: |
+  Discover how integrating HACCP into quality assurance enhances food safety and overall service quality, and learn effective staff engagement strategies.
 slug: "haccp-quality-assurance-built-overall"
 unique id: "1745929282550x876492787312397000"
-featured: "false"
+featured: false
 breadcrumb short: "Quality "
 pillar text: "Food Safety System"
 pillar link: |

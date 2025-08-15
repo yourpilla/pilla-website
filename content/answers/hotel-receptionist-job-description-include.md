@@ -1,9 +1,10 @@
 ---
 title: "What should I include in a Hotel Receptionist job description?"
-meta: "Discover the key elements to include in a Hotel Receptionist job description, such as responsibilities, skills, benefits, and how to tailor it to your hotel's unique environment."
+meta: |
+  Discover the key elements to include in a Hotel Receptionist job description, such as responsibilities, skills, benefits, and how to tailor it to your hotel's unique environment.
 slug: "hotel-receptionist-job-description-include"
 unique id: "1748768543068x101659564975127740"
-featured: "false"
+featured: false
 breadcrumb short: "Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

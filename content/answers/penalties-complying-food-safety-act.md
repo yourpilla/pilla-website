@@ -1,9 +1,10 @@
 ---
 title: "What are the penalties for not complying with the Food Safety Act 1990?"
-meta: "Explore the penalties for non-compliance with the Food Safety Act 1990, including fines, prison time, and the use of Emergency Prohibition Notices."
+meta: |
+  Explore the penalties for non-compliance with the Food Safety Act 1990, including fines, prison time, and the use of Emergency Prohibition Notices.
 slug: "penalties-complying-food-safety-act"
 unique id: "1745921768614x470384743368947840"
-featured: "false"
+featured: false
 breadcrumb short: "Penalties"
 pillar text: "Food Safety System"
 pillar link: |

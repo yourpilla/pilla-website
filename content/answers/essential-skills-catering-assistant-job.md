@@ -1,9 +1,10 @@
 ---
 title: "What are the essential skills I should include in a Catering Assistant job description?"
-meta: "Discover the essential skills for a Catering Assistant, including basic food preparation, time management, and a focus on hygiene and safety."
+meta: |
+  Discover the essential skills for a Catering Assistant, including basic food preparation, time management, and a focus on hygiene and safety.
 slug: "essential-skills-catering-assistant-job"
 unique id: "1748596461531x342099211844020500"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

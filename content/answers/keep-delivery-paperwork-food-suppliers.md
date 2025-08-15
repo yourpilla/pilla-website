@@ -1,9 +1,10 @@
 ---
 title: "Do I need to keep delivery paperwork from food suppliers?"
-meta: "Keep delivery notes and invoices from food suppliers for traceability, to prove quality checks, and show product substitutions that may affect allergens."
+meta: |
+  Keep delivery notes and invoices from food suppliers for traceability, to prove quality checks, and show product substitutions that may affect allergens.
 slug: "keep-delivery-paperwork-food-suppliers"
 unique id: "1734097889803x636215270123301400"
-featured: "false"
+featured: false
 breadcrumb short: "Delivery Paperwork"
 pillar text: "Food Safety System"
 pillar link: |

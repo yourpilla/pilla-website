@@ -1,9 +1,10 @@
 ---
 title: "Should I include long-term professional growth opportunities in a Sous Chef job description?"
-meta: "Explore the importance of including long-term professional growth opportunities in a Sous Chef job description to attract and retain top talent."
+meta: |
+  Explore the importance of including long-term professional growth opportunities in a Sous Chef job description to attract and retain top talent.
 slug: "professional-growth-sous-chef-description"
 unique id: "1749805274073x940662795820073000"
-featured: "false"
+featured: false
 breadcrumb short: "Career Growth"
 pillar text: "Job Descriptions"
 pillar link: |

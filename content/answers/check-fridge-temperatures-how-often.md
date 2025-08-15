@@ -1,9 +1,10 @@
 ---
 title: "How often do we need to check fridge temperatures?"
-meta: "Learn how to maintain optimal fridge temperatures for food safety, including checking temperatures twice daily, keeping fridges at 3-5C, and what corrective actions to take if temperatures exceed safe limits."
+meta: |
+  Learn how to maintain optimal fridge temperatures for food safety, including checking temperatures twice daily, keeping fridges at 3-5C, and what corrective actions to take if temperatures exceed safe limits.
 slug: "check-fridge-temperatures-how-often"
 unique id: "1732635921356x466724231967795600"
-featured: "false"
+featured: false
 breadcrumb short: "Frequency"
 pillar text: "Food Safety System"
 pillar link: |

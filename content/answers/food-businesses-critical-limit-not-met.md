@@ -1,9 +1,10 @@
 ---
 title: "What should food businesses do when a critical limit is not met?"
-meta: "Learn how food businesses should respond when HACCP critical limits are breached, the importance of immediate corrective actions, and the role of documentation."
+meta: |
+  Learn how food businesses should respond when HACCP critical limits are breached, the importance of immediate corrective actions, and the role of documentation.
 slug: "food-businesses-critical-limit-not-met"
 unique id: "1745929282548x473003517705980600"
-featured: "false"
+featured: false
 breadcrumb short: "Corrective Action"
 pillar text: "Food Safety System"
 pillar link: |

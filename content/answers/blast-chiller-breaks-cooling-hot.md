@@ -1,9 +1,10 @@
 ---
 title: "What should I do if the blast chiller breaks down when cooling hot food?"
-meta: "Discover effective methods to cool hot food safely without a blast chiller and learn about the risks of improper cooling techniques."
+meta: |
+  Discover effective methods to cool hot food safely without a blast chiller and learn about the risks of improper cooling techniques.
 slug: "blast-chiller-breaks-cooling-hot"
 unique id: "1748966241404x977904067141697500"
-featured: "false"
+featured: false
 breadcrumb short: "Blast Chiller"
 pillar text: "Food Safety System"
 pillar link: |

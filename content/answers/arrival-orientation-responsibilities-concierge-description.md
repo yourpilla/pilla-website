@@ -1,9 +1,10 @@
 ---
 title: "What arrival and orientation responsibilities should I include in a Concierge job description?"
-meta: "Explore key responsibilities for concierges in hotel settings, including guest arrival, orientation, and the differences in roles between boutique and large hotels."
+meta: |
+  Explore key responsibilities for concierges in hotel settings, including guest arrival, orientation, and the differences in roles between boutique and large hotels.
 slug: "arrival-orientation-responsibilities-concierge-description"
 unique id: "1748867313414x733654197393162200"
-featured: "false"
+featured: false
 breadcrumb short: "Arrival Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

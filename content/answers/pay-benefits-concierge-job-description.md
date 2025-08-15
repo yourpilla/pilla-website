@@ -1,9 +1,10 @@
 ---
 title: "What should I explicitly state about pay and benefits in a Concierge job description?"
-meta: "Discover essential tips on including salary and benefits in a Concierge job description to attract the right candidates effectively."
+meta: |
+  Discover essential tips on including salary and benefits in a Concierge job description to attract the right candidates effectively.
 slug: "pay-benefits-concierge-job-description"
 unique id: "1748867508419x473997470678908900"
-featured: "false"
+featured: false
 breadcrumb short: "Pay and Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

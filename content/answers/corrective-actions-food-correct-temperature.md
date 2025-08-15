@@ -1,9 +1,11 @@
 ---
-title: "What corrective actions should be taken if food doesn't reach the correct temperature?"
-meta: "Discover the essential time and temperature combinations for safely cooking foods to prevent foodborne illnesses, and learn best practices for food handling."
+title: |
+  What corrective actions should be taken if food doesn't reach the correct temperature?
+meta: |
+  Discover the essential time and temperature combinations for safely cooking foods to prevent foodborne illnesses, and learn best practices for food handling.
 slug: "corrective-actions-food-correct-temperature"
 unique id: "1743670469430x216709060494547420"
-featured: "false"
+featured: false
 breadcrumb short: "Corrective Action"
 pillar text: "Food Safety System"
 pillar link: |

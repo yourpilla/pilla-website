@@ -1,9 +1,11 @@
 ---
-title: "How should I define the level of experience needed in a Restaurant Assistant Manager job description?"
-meta: "Explore how to effectively define experience levels in a Restaurant Assistant Manager job description to attract suitable candidates."
+title: |
+  How should I define the level of experience needed in a Restaurant Assistant Manager job description?
+meta: |
+  Explore how to effectively define experience levels in a Restaurant Assistant Manager job description to attract suitable candidates.
 slug: "experience-restaurant-assistant-manager-level"
 unique id: "1750236100689x524585826895265800"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

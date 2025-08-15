@@ -1,9 +1,10 @@
 ---
 title: "How do you identify what needs cleaning in your kitchen?"
-meta: "Discover how to effectively identify areas in your kitchen that need cleaning, including common hygiene blind spots and the importance of involving your cleaning team in schedule planning."
+meta: |
+  Discover how to effectively identify areas in your kitchen that need cleaning, including common hygiene blind spots and the importance of involving your cleaning team in schedule planning.
 slug: "identify-needs-cleaning-your-kitchen"
 unique id: "1746622446225x692835903000159200"
-featured: "false"
+featured: false
 breadcrumb short: "Requirements"
 pillar text: "Food Safety System"
 pillar link: |

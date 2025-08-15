@@ -1,9 +1,10 @@
 ---
 title: "What service responsibilities should be included in a Catering Assistant job description?"
-meta: "Explore the key service responsibilities of a Catering Assistant, including setting up, managing food displays, guest interaction, and maintaining cleanliness during events."
+meta: |
+  Explore the key service responsibilities of a Catering Assistant, including setting up, managing food displays, guest interaction, and maintaining cleanliness during events.
 slug: "catering-assistant-job-service-responsibilities"
 unique id: "1748596461531x647207981020881000"
-featured: "false"
+featured: false
 breadcrumb short: "Service"
 pillar text: "Job Descriptions"
 pillar link: |

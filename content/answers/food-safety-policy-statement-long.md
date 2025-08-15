@@ -1,9 +1,10 @@
 ---
 title: "How long should a food safety policy statement be?"
-meta: "Discover the ideal length for a food safety policy statement, the importance of using simple language, and best practices for its accessibility and integration into training."
+meta: |
+  Discover the ideal length for a food safety policy statement, the importance of using simple language, and best practices for its accessibility and integration into training.
 slug: "food-safety-policy-statement-long"
 unique id: "1746538990381x195972340005070560"
-featured: "false"
+featured: false
 breadcrumb short: "Length"
 pillar text: "Food Safety System"
 pillar link: |

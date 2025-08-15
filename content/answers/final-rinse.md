@@ -1,9 +1,10 @@
 ---
 title: "What should the final rinse temperature be in a commercial dishwasher?"
-meta: "Discover how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and food safety, and what actions to take if issues arise."
+meta: |
+  Discover how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and food safety, and what actions to take if issues arise.
 slug: "final-rinse"
 unique id: "1743586900088x570833471235829400"
-featured: "false"
+featured: false
 breadcrumb short: "Final Rinse Temperature"
 pillar text: "Food Safety System"
 pillar link: |

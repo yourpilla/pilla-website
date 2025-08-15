@@ -1,9 +1,10 @@
 ---
 title: "How should I mention advancement opportunities in a Waiter/Waitress job description?"
-meta: "Discover how to effectively incorporate advancement opportunities in waiter/waitress job descriptions to attract and retain dedicated staff."
+meta: |
+  Discover how to effectively incorporate advancement opportunities in waiter/waitress job descriptions to attract and retain dedicated staff.
 slug: "mention-advancement-opportunities-waiter-job"
 unique id: "1748867951267x183425639151304700"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

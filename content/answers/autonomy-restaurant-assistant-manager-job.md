@@ -1,9 +1,10 @@
 ---
 title: "How much autonomy should I include in a Restaurant Assistant Manager job description?"
-meta: "Explore how to define autonomy in a Restaurant Assistant Manager job description, balancing leadership with team collaboration and decision-making responsibilities."
+meta: |
+  Explore how to define autonomy in a Restaurant Assistant Manager job description, balancing leadership with team collaboration and decision-making responsibilities.
 slug: "autonomy-restaurant-assistant-manager-job"
 unique id: "1750236244540x477666755959324700"
-featured: "false"
+featured: false
 breadcrumb short: "Autonomy"
 pillar text: "Job Descriptions"
 pillar link: |

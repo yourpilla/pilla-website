@@ -1,9 +1,10 @@
 ---
 title: "What is the role of a HACCP team in food businesses?"
-meta: "Explore the essential role of a HACCP team in food businesses, the importance of employee involvement in the HACCP process, and how regular training enhances food safety culture."
+meta: |
+  Explore the essential role of a HACCP team in food businesses, the importance of employee involvement in the HACCP process, and how regular training enhances food safety culture.
 slug: "role-haccp-team-food-businesses"
 unique id: "1745929282550x287681953996014720"
-featured: "false"
+featured: false
 breadcrumb short: "Team"
 pillar text: "Food Safety System"
 pillar link: |

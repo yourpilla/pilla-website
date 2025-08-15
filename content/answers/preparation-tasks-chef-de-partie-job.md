@@ -1,9 +1,10 @@
 ---
 title: "What are the main preparation tasks to include in a Chef de Partie job description?"
-meta: "Discover essential preparation tasks for a Chef de Partie, including ingredient prep, kitchen setup, and segmenting duties to streamline workflow."
+meta: |
+  Discover essential preparation tasks for a Chef de Partie, including ingredient prep, kitchen setup, and segmenting duties to streamline workflow.
 slug: "preparation-tasks-chef-de-partie-job"
 unique id: "1749803794116x235204527943843840"
-featured: "false"
+featured: false
 breadcrumb short: "Preparation"
 pillar text: "Job Descriptions"
 pillar link: |

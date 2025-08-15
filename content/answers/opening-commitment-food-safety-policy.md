@@ -1,9 +1,10 @@
 ---
 title: "What should the opening commitment of a food safety policy include?"
-meta: "Explore the essential elements of a food safety policy's opening commitment, the role of leadership, and the importance of a clear statement of intent."
+meta: |
+  Explore the essential elements of a food safety policy's opening commitment, the role of leadership, and the importance of a clear statement of intent.
 slug: "opening-commitment-food-safety-policy"
 unique id: "1746538990380x872869935840738600"
-featured: "false"
+featured: false
 breadcrumb short: "Opening Comittment"
 pillar text: "Food Safety System"
 pillar link: |

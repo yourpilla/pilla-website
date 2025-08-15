@@ -1,9 +1,10 @@
 ---
 title: "What kind of training should I mention in a Bartender job description?"
-meta: "Explore the benefits of including training in bartender job descriptions, from mixology to customer service, to attract and develop skilled staff."
+meta: |
+  Explore the benefits of including training in bartender job descriptions, from mixology to customer service, to attract and develop skilled staff.
 slug: "training-bartender-job-description-mention"
 unique id: "1748429917194x830600240725013500"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Job Descriptions"
 pillar link: |

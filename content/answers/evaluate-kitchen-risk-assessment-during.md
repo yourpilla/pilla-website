@@ -1,9 +1,10 @@
 ---
 title: "How do I evaluate risks during a kitchen risk assessment?"
-meta: "Discover how to conduct a thorough kitchen risk assessment, focusing on evaluating and prioritizing potential hazards to enhance safety."
+meta: |
+  Discover how to conduct a thorough kitchen risk assessment, focusing on evaluating and prioritizing potential hazards to enhance safety.
 slug: "evaluate-kitchen-risk-assessment-during"
 unique id: "1744799372654x902211204347639600"
-featured: "false"
+featured: false
 breadcrumb short: "Evaluating Risk"
 pillar text: "Health & Safety System"
 pillar link: |

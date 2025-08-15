@@ -1,9 +1,10 @@
 ---
 title: "How do I ensure the Barista job description fits our style of coffee service?"
-meta: "Learn how to craft a barista job description that aligns with your café's specific service style and coffee service demands."
+meta: |
+  Learn how to craft a barista job description that aligns with your café's specific service style and coffee service demands.
 slug: "barista-job-description-style-coffee"
 unique id: "1748534800136x748028982391587700"
-featured: "false"
+featured: false
 breadcrumb short: "Service"
 pillar text: "Job Descriptions"
 pillar link: |

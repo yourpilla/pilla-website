@@ -1,9 +1,11 @@
 ---
-title: "Do I need to record fridge temperatures even if they're normal?"
-meta: "Learn why it's crucial to record fridge temperatures, even when they're normal, and what to do if you miss a check."
+title: |
+  Do I need to record fridge temperatures even if they're normal?
+meta: |
+  Learn why it's crucial to record fridge temperatures, even when they're normal, and what to do if you miss a check.
 slug: "record-temperatures-if-normal"
 unique id: "1732637342231x315006620495212200"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Temperatures When Normal"
 pillar text: "Food Safety System"
 pillar link: |

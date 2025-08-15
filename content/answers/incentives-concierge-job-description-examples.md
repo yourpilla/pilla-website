@@ -2,10 +2,11 @@
 title: |
   What are examples of incentives that I could include in a Concierge job description?
   
-meta: "Discover effective incentives for Concierge job descriptions, including non-financial perks and flexible work conditions, to attract and retain top talent."
+meta: |
+  Discover effective incentives for Concierge job descriptions, including non-financial perks and flexible work conditions, to attract and retain top talent.
 slug: "incentives-concierge-job-description-examples"
 unique id: "1748867559768x697368315816575000"
-featured: "false"
+featured: false
 breadcrumb short: "Incentives"
 pillar text: "Job Descriptions"
 pillar link: |

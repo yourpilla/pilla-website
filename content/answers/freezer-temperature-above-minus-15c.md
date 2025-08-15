@@ -1,9 +1,10 @@
 ---
 title: "What do I do if the freezer temperature goes above -15°C?"
-meta: "Learn what to do if your freezer temperature rises above -15C, including moving food to another freezer or fridge and preventing future issues."
+meta: |
+  Learn what to do if your freezer temperature rises above -15C, including moving food to another freezer or fridge and preventing future issues.
 slug: "freezer-temperature-above-minus-15c"
 unique id: "1733824580391x967473568044575400"
-featured: "false"
+featured: false
 breadcrumb short: "Above 15C"
 pillar text: "Food Safety System"
 pillar link: |

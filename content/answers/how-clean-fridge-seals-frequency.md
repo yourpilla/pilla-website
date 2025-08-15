@@ -1,9 +1,10 @@
 ---
 title: "How often should we clean the fridge seals?"
-meta: "Learn how to maintain fridge seals to ensure optimal performance and food safety. Discover what to do if a seal is damaged."
+meta: |
+  Learn how to maintain fridge seals to ensure optimal performance and food safety. Discover what to do if a seal is damaged.
 slug: "how-clean-fridge-seals-frequency"
 unique id: "1732637347127x800526189600308000"
-featured: "false"
+featured: false
 breadcrumb short: "Cleaning Fridge Seals"
 pillar text: "Food Safety System"
 pillar link: |

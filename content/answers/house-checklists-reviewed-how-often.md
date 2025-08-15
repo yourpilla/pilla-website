@@ -1,9 +1,10 @@
 ---
 title: "How often should front of house checklists be reviewed?"
-meta: "Learn the recommended frequency for reviewing front of house checklists and the importance of staff feedback in maintaining their effectiveness."
+meta: |
+  Learn the recommended frequency for reviewing front of house checklists and the importance of staff feedback in maintaining their effectiveness.
 slug: "house-checklists-reviewed-how-often"
 unique id: "1746611300644x866019154624950000"
-featured: "false"
+featured: false
 breadcrumb short: "Reviewed"
 pillar text: "Daily Operations"
 pillar link: |

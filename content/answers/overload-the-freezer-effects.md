@@ -1,9 +1,10 @@
 ---
 title: "How can I tell if my freezer is overloaded?"
-meta: "Discover how to identify an overloaded freezer and the risks it poses to your food and appliance. Learn what steps to take if you realise your freezer is overloaded."
+meta: |
+  Discover how to identify an overloaded freezer and the risks it poses to your food and appliance. Learn what steps to take if you realise your freezer is overloaded.
 slug: "overload-the-freezer-effects"
 unique id: "1733824589813x390235375968313700"
-featured: "false"
+featured: false
 breadcrumb short: "Overloading"
 pillar text: "Food Safety System"
 pillar link: |

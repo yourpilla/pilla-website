@@ -1,9 +1,10 @@
 ---
 title: "What core responsibilities should be listed in a Head Chef job description?"
-meta: "Learn essential elements to include in a Head Chef job description, covering culinary innovation, team management, and operational duties."
+meta: |
+  Learn essential elements to include in a Head Chef job description, covering culinary innovation, team management, and operational duties.
 slug: "core-responsibilities-head-chef-job"
 unique id: "1750063288126x538503817845014500"
-featured: "false"
+featured: false
 breadcrumb short: "Responsibilities "
 pillar text: "Job Descriptions"
 pillar link: |

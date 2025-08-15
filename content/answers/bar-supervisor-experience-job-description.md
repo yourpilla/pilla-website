@@ -1,9 +1,10 @@
 ---
 title: "What experience should I ask for in a Bar Supervisor Bar Supervisor job description?"
-meta: "Discover how to effectively specify experience requirements in a Bar Supervisor job description to attract suitable candidates."
+meta: |
+  Discover how to effectively specify experience requirements in a Bar Supervisor job description to attract suitable candidates.
 slug: "bar-supervisor-experience-job-description"
 unique id: "1748855959138x503531384328683500"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,11 @@
 ---
-title: "How do I check if an agency worker's food hygiene certificate is valid?"
-meta: "Ensure agency workers have valid food hygiene certificates before handling food. Learn about the required training levels for different roles."
+title: |
+  How do I check if an agency worker's food hygiene certificate is valid?
+meta: |
+  Ensure agency workers have valid food hygiene certificates before handling food. Learn about the required training levels for different roles.
 slug: "check-agency-worker-food-certificate-valid"
 unique id: "1734014558515x978917562177728000"
-featured: "false"
+featured: false
 breadcrumb short: "Agency Staff"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What personality traits should I add to a Restaurant Assistant Manager job description?"
-meta: "Discover how to effectively define personality traits for a Restaurant Assistant Manager to match your restaurant's culture and operational style."
+meta: |
+  Discover how to effectively define personality traits for a Restaurant Assistant Manager to match your restaurant's culture and operational style.
 slug: "restaurant-assistant-manager-personality-traits"
 unique id: "1750236126791x375979477492564000"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

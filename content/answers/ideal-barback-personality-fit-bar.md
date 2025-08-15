@@ -1,9 +1,10 @@
 ---
 title: "How can we describe the ideal Barback personality fit for our Bar?"
-meta: "Discover how to identify the ideal Barback personality for your bar, focusing on specific traits and behaviours that match your venue's atmosphere and team dynamics."
+meta: |
+  Discover how to identify the ideal Barback personality for your bar, focusing on specific traits and behaviours that match your venue's atmosphere and team dynamics.
 slug: "ideal-barback-personality-fit-bar"
 unique id: "1747841008447x870518750833937800"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

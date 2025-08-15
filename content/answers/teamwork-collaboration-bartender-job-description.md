@@ -1,9 +1,10 @@
 ---
 title: "How should I phrase teamwork and collaboration expectations in a Bartender job description?"
-meta: "Discover how to effectively outline teamwork and collaboration in a bartender job description, including team size and interaction with floor staff."
+meta: |
+  Discover how to effectively outline teamwork and collaboration in a bartender job description, including team size and interaction with floor staff.
 slug: "teamwork-collaboration-bartender-job-description"
 unique id: "1748429917194x911815410489825900"
-featured: "false"
+featured: false
 breadcrumb short: "Teamwork"
 pillar text: "Job Descriptions"
 pillar link: |

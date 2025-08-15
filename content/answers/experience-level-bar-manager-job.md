@@ -1,9 +1,10 @@
 ---
 title: "How do I decide what experience level to include in a Bar Manager job description?"
-meta: "Discover how to tailor a Bar Manager job description by considering the required experience level, venue type, and common misunderstandings in hiring."
+meta: |
+  Discover how to tailor a Bar Manager job description by considering the required experience level, venue type, and common misunderstandings in hiring.
 slug: "experience-level-bar-manager-job"
 unique id: "1748626151254x737380308400034800"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

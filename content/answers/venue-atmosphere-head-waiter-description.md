@@ -1,17 +1,20 @@
 ---
 title: "What should I include about the venue atmosphere in a Head Waiter job description?"
-meta: "Discover how to effectively describe the venue atmosphere, service style, and unique aspects in a Head Waiter job description to attract the right candidates."
+meta: |
+  Discover how to effectively describe the venue atmosphere, service style, and unique aspects in a Head Waiter job description to attract the right candidates.
 slug: "venue-atmosphere-head-waiter-description"
 unique id: "1749721669180x826967139140239400"
-featured: "false"
+featured: false
 breadcrumb short: "Business"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

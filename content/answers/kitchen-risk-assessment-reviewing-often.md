@@ -1,9 +1,10 @@
 ---
 title: "How often does my kitchen risk assessment need reviewing?"
-meta: "Discover the importance of regularly reviewing kitchen risk assessments every 12 months and learn what triggers require an immediate reassessment."
+meta: |
+  Discover the importance of regularly reviewing kitchen risk assessments every 12 months and learn what triggers require an immediate reassessment.
 slug: "kitchen-risk-assessment-reviewing-often"
 unique id: "1744799372654x942496062395041500"
-featured: "false"
+featured: false
 breadcrumb short: "Reviewing"
 pillar text: "Health & Safety System"
 pillar link: |

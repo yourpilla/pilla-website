@@ -1,9 +1,10 @@
 ---
 title: "What training should staff receive to use a coffee machine safely?"
-meta: "Discover essential safety training for staff using coffee machines, including operation procedures, emergency protocols, and compliance with regulations."
+meta: |
+  Discover essential safety training for staff using coffee machines, including operation procedures, emergency protocols, and compliance with regulations.
 slug: "training-staff-coffee-machine-safely"
 unique id: "1745226754640x299919890793163260"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Health & Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How should I describe opportunities for career growth in a Bartender job description?"
-meta: "Learn how to effectively outline career growth opportunities in bartender job descriptions to attract ambitious candidates and enhance job appeal."
+meta: |
+  Learn how to effectively outline career growth opportunities in bartender job descriptions to attract ambitious candidates and enhance job appeal.
 slug: "opportunities-career-growth-bartender-job"
 unique id: "1748429917195x859918937984166500"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

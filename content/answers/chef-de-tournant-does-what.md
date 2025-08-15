@@ -1,9 +1,10 @@
 ---
 title: "What does a Chef de Tournant do?"
-meta: "Explore the versatile role of a Chef de Tournant, a key figure in the kitchen who adapts to various culinary stations, ensuring smooth operations and high-quality food preparation."
+meta: |
+  Explore the versatile role of a Chef de Tournant, a key figure in the kitchen who adapts to various culinary stations, ensuring smooth operations and high-quality food preparation.
 slug: "chef-de-tournant-does-what"
 unique id: "1745420497012x539050201066304560"
-featured: "false"
+featured: false
 breadcrumb short: "Chef de Tournant"
 pillar text: "Job Descriptions"
 pillar link: |

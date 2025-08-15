@@ -1,9 +1,10 @@
 ---
 title: "Why is cooking food to the correct temperature important?"
-meta: "Discover essential food safety tips including correct cooking temperatures, handling practices, and equipment usage to prevent foodborne illnesses."
+meta: |
+  Discover essential food safety tips including correct cooking temperatures, handling practices, and equipment usage to prevent foodborne illnesses.
 slug: "cooking-food-correct-temperature-important"
 unique id: "1743670469422x174054640936756030"
-featured: "false"
+featured: false
 breadcrumb short: "Why"
 pillar text: "Food Safety System"
 pillar link: |

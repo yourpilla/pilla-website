@@ -1,9 +1,10 @@
 ---
 title: "What should be the maximum size and weight for joints of meat to cool them safely?"
-meta: "Discover the ideal size and weight for cooling meat joints safely to prevent bacterial growth, and learn why breaking down large poultry enhances cooling efficiency."
+meta: |
+  Discover the ideal size and weight for cooling meat joints safely to prevent bacterial growth, and learn why breaking down large poultry enhances cooling efficiency.
 slug: "maximum-size-weight-joints-meat"
 unique id: "1748966402608x391820263203799040"
-featured: "false"
+featured: false
 breadcrumb short: "Size and Weight"
 pillar text: "Food Safety System"
 pillar link: |

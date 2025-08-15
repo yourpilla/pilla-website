@@ -1,9 +1,10 @@
 ---
 title: "Should I store fresh fish in a separate fridge from other items?"
-meta: "Learn the ideal fridge temperature for storing fresh fish and what to do if the temperature rises above safe limits."
+meta: |
+  Learn the ideal fridge temperature for storing fresh fish and what to do if the temperature rises above safe limits.
 slug: "difference-storage-temp-regular-fish"
 unique id: "1732637347096x883483631755626500"
-featured: "false"
+featured: false
 breadcrumb short: "Storing Fresh Fish"
 pillar text: "Food Safety System"
 pillar link: |

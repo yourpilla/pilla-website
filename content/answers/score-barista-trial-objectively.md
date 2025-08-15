@@ -1,9 +1,10 @@
 ---
 title: "How do I score a Barista trial objectively?"
-meta: "Discover how to objectively score a Barista trial using a structured scorecard, focusing on key skills like espresso making and customer service."
+meta: |
+  Discover how to objectively score a Barista trial using a structured scorecard, focusing on key skills like espresso making and customer service.
 slug: "score-barista-trial-objectively"
 unique id: "1747318595790x938284936591902000"
-featured: "false"
+featured: false
 breadcrumb short: "Trial Scoring"
 pillar text: "Job Interviews"
 pillar link: |

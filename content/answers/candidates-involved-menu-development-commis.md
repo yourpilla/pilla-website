@@ -1,9 +1,11 @@
 ---
-title: "If candidates will be involved in menu development, how should I write this in a Commis Chef job description?"
-meta: "Discover how to accurately include menu development roles in a Commis Chef job description, highlighting creativity and collaboration with senior chefs."
+title: |
+  If candidates will be involved in menu development, how should I write this in a Commis Chef job description?
+meta: |
+  Discover how to accurately include menu development roles in a Commis Chef job description, highlighting creativity and collaboration with senior chefs.
 slug: "candidates-involved-menu-development-commis"
 unique id: "1749803242557x497721846079160300"
-featured: "false"
+featured: false
 breadcrumb short: "Menu Development"
 pillar text: "Job Descriptions"
 pillar link: |

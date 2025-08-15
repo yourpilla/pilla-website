@@ -1,9 +1,10 @@
 ---
 title: "What should be done if reheating equipment is faulty?"
-meta: "Discover key reheating temperatures for food safety, including regional variations, and how to properly document reheating processes."
+meta: |
+  Discover key reheating temperatures for food safety, including regional variations, and how to properly document reheating processes.
 slug: "equipment-faulty-reheating-temporary-measures"
 unique id: "1744115592500x118402639481692380"
-featured: "false"
+featured: false
 breadcrumb short: "Faulty Equipment"
 pillar text: "Food Safety System"
 pillar link: |

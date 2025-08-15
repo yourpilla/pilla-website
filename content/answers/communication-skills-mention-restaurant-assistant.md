@@ -1,9 +1,10 @@
 ---
 title: "What communication skills should I mention in a Restaurant Assistant Manager job description?"
-meta: "Explore the essential communication skills for a Restaurant Assistant Manager, including verbal, written, and non-verbal abilities, and common misconceptions."
+meta: |
+  Explore the essential communication skills for a Restaurant Assistant Manager, including verbal, written, and non-verbal abilities, and common misconceptions.
 slug: "communication-skills-mention-restaurant-assistant"
 unique id: "1750236190913x670111675597193200"
-featured: "false"
+featured: false
 breadcrumb short: "Communication Skills"
 pillar text: "Job Descriptions"
 pillar link: |

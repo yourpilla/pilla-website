@@ -1,9 +1,10 @@
 ---
 title: "What pay and benefits information should I include Hotel Receptionist job description?"
-meta: "Discover essential details to include in a Hotel Receptionist job description, such as salary, benefits, tips handling, shift perks, and team culture to attract suitable candidates."
+meta: |
+  Discover essential details to include in a Hotel Receptionist job description, such as salary, benefits, tips handling, shift perks, and team culture to attract suitable candidates.
 slug: "pay-benefits-hotel-receptionist-job"
 unique id: "1748768543069x355350608832941900"
-featured: "false"
+featured: false
 breadcrumb short: "Pay and Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

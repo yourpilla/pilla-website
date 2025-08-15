@@ -1,9 +1,10 @@
 ---
 title: "Where should I store my food probe thermometer?"
-meta: "Learn the best practices for storing your food probe thermometer to maintain accuracy and prevent damage or contamination. Proper cleaning and regular checks are key."
+meta: |
+  Learn the best practices for storing your food probe thermometer to maintain accuracy and prevent damage or contamination. Proper cleaning and regular checks are key.
 slug: "store-food-probe-thermometer"
 unique id: "1734019668720x264208347797424200"
-featured: "false"
+featured: false
 breadcrumb short: "Storage"
 pillar text: "Food Safety System"
 pillar link: |

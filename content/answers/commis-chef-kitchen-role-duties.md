@@ -1,9 +1,10 @@
 ---
 title: "What does a Commis Chef do in a kitchen?"
-meta: "Explore the role of a Commis Chef, their essential tasks in the kitchen, the importance of their foundational work, and career progression opportunities."
+meta: |
+  Explore the role of a Commis Chef, their essential tasks in the kitchen, the importance of their foundational work, and career progression opportunities.
 slug: "commis-chef-kitchen-role-duties"
 unique id: "1745420497014x233964608208584670"
-featured: "false"
+featured: false
 breadcrumb short: "Commis Chef"
 pillar text: "Job Descriptions"
 pillar link: |

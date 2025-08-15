@@ -1,9 +1,10 @@
 ---
 title: "How should I describe my business in a Restaurant Duty Manager job description?"
-meta: "Discover how to craft an effective Restaurant Duty Manager job description by specifying your restaurant's type, service style, and unique workplace qualities."
+meta: |
+  Discover how to craft an effective Restaurant Duty Manager job description by specifying your restaurant's type, service style, and unique workplace qualities.
 slug: "restaurant-duty-manager-business-describe"
 unique id: "1750237114147x461745657679970300"
-featured: "false"
+featured: false
 breadcrumb short: "Business"
 pillar text: "Job Descriptions"
 pillar link: |

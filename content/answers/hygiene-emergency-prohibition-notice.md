@@ -1,9 +1,10 @@
 ---
 title: "What is a Hygiene Emergency Prohibition Notice? "
-meta: "Understand what a Hygiene Emergency Prohibition Notice is, when it is issued, and the process for reopening a food business post-notice."
+meta: |
+  Understand what a Hygiene Emergency Prohibition Notice is, when it is issued, and the process for reopening a food business post-notice.
 slug: "hygiene-emergency-prohibition-notice"
 unique id: "1746109267529x546813865682600260"
-featured: "false"
+featured: false
 breadcrumb short: "Prohibition Notice"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "Why must food be thoroughly cooked before hot holding?"
-meta: "Learn why food must be thoroughly cooked before hot holding, the misconceptions about using bain-maries and soup kettles for cooking, and the correct hot holding procedures."
+meta: |
+  Learn why food must be thoroughly cooked before hot holding, the misconceptions about using bain-maries and soup kettles for cooking, and the correct hot holding procedures.
 slug: "food-thoroughly-cooked-before-holding"
 unique id: "1744190546779x874081889722588800"
-featured: "false"
+featured: false
 breadcrumb short: "Prior Cooking"
 pillar text: "Food Safety System"
 pillar link: |

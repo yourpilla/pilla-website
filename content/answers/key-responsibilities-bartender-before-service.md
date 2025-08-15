@@ -1,9 +1,10 @@
 ---
 title: "What are the key responsibilities of a Bartender before service begins?"
-meta: "Discover the diverse roles of a bartender during active service, including drink preparation, customer engagement, and multitasking skills."
+meta: |
+  Discover the diverse roles of a bartender during active service, including drink preparation, customer engagement, and multitasking skills.
 slug: "key-responsibilities-bartender-before-service"
 unique id: "1748429917192x451854764551192300"
-featured: "false"
+featured: false
 breadcrumb short: "Service Tasks"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How do I provide insights into career progression in a sommelier job description?"
-meta: "Discover how to enhance a sommelier job description by outlining clear career progression paths, including leadership roles and professional development opportunities."
+meta: |
+  Discover how to enhance a sommelier job description by outlining clear career progression paths, including leadership roles and professional development opportunities.
 slug: "career-progression-sommelier-job-insights"
 unique id: "1749719691484x296454155417944060"
-featured: "false"
+featured: false
 breadcrumb short: "Career"
 pillar text: "Job Interviews"
 pillar link: |

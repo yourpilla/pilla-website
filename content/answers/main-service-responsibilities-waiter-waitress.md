@@ -1,9 +1,10 @@
 ---
 title: "What are the main service responsibilities to include in a Waiter/Waitress job description?"
-meta: "Discover how to craft a comprehensive waiter/waitress job description, highlighting key service responsibilities and guest-related duties to attract skilled candidates."
+meta: |
+  Discover how to craft a comprehensive waiter/waitress job description, highlighting key service responsibilities and guest-related duties to attract skilled candidates.
 slug: "main-service-responsibilities-waiter-waitress"
 unique id: "1748867792314x934087475467386900"
-featured: "false"
+featured: false
 breadcrumb short: "Service Responsibilities "
 pillar text: "Job Descriptions"
 pillar link: |

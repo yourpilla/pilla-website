@@ -1,9 +1,10 @@
 ---
 title: "How do I describe my kitchen environment in a Kitchen Porter job description?"
-meta: "Discover how to effectively describe your kitchen environment in a Kitchen Porter job description to attract the right candidates."
+meta: |
+  Discover how to effectively describe your kitchen environment in a Kitchen Porter job description to attract the right candidates.
 slug: "kitchen-porter-job-description-environment"
 unique id: "1749723166321x353742359152295940"
-featured: "false"
+featured: false
 breadcrumb short: "Kitchen"
 pillar text: "Job Interviews"
 pillar link: |

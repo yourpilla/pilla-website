@@ -1,9 +1,10 @@
 ---
 title: "What do the grey spots on frozen food mean?"
-meta: "Learn what those grey spots on your frozen food mean and how to prevent freezer burn from affecting your food's quality and taste."
+meta: |
+  Learn what those grey spots on your frozen food mean and how to prevent freezer burn from affecting your food's quality and taste.
 slug: "grey-spots-on-frozen-food"
 unique id: "1733824589775x996939196316007700"
-featured: "false"
+featured: false
 breadcrumb short: "Grey Spots"
 pillar text: "Food Safety System"
 pillar link: |

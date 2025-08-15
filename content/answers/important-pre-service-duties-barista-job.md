@@ -1,9 +1,10 @@
 ---
 title: "What are the most important pre-service duties to include in a Barista job description?"
-meta: "Discover essential pre-service, in-service, and end-of-shift duties for baristas to ensure efficient café operations and high standards of hygiene and customer service."
+meta: |
+  Discover essential pre-service, in-service, and end-of-shift duties for baristas to ensure efficient café operations and high standards of hygiene and customer service.
 slug: "important-pre-service-duties-barista-job"
 unique id: "1748534800135x502480851516437200"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-Service"
 pillar text: "Job Descriptions"
 pillar link: |

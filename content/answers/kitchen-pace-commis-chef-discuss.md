@@ -1,9 +1,10 @@
 ---
 title: "How do I discuss my kitchen’s pace in a Commis Chef job description?"
-meta: "Learn how to effectively describe the pace and pressure of your kitchen in a Commis Chef job description to attract suitable candidates."
+meta: |
+  Learn how to effectively describe the pace and pressure of your kitchen in a Commis Chef job description to attract suitable candidates.
 slug: "kitchen-pace-commis-chef-discuss"
 unique id: "1749803200128x487745897617162200"
-featured: "false"
+featured: false
 breadcrumb short: "Kitchen Pace"
 pillar text: "Job Descriptions"
 pillar link: |

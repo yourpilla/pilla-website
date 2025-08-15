@@ -1,9 +1,10 @@
 ---
 title: "What is the origin of HACCP and how is it used today?"
-meta: "Explore the origins of HACCP, developed in the 1960s for NASA, and its evolution into a global standard for food safety management across all industries."
+meta: |
+  Explore the origins of HACCP, developed in the 1960s for NASA, and its evolution into a global standard for food safety management across all industries.
 slug: "origin-haccp-used-today"
 unique id: "1745929282547x306323945811737300"
-featured: "false"
+featured: false
 breadcrumb short: "History"
 pillar text: "Food Safety System"
 pillar link: |

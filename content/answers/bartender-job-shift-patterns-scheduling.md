@@ -1,9 +1,10 @@
 ---
 title: "What should I say about shift patterns and scheduling in a Bartender job description?"
-meta: "Explore how to effectively communicate shift patterns and scheduling in a bartender job description to attract suitable candidates."
+meta: |
+  Explore how to effectively communicate shift patterns and scheduling in a bartender job description to attract suitable candidates.
 slug: "bartender-job-shift-patterns-scheduling"
 unique id: "1748429917195x658944085329674400"
-featured: "false"
+featured: false
 breadcrumb short: "Shifts"
 pillar text: "Job Descriptions"
 pillar link: |

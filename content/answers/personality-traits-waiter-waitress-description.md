@@ -1,9 +1,10 @@
 ---
 title: "What personality traits should I seek in a Waiter/Waitress job description?"
-meta: "Discover the key personality traits to include in a waiter/waitress job description for optimal performance and cultural fit in your restaurant."
+meta: |
+  Discover the key personality traits to include in a waiter/waitress job description for optimal performance and cultural fit in your restaurant.
 slug: "personality-traits-waiter-waitress-description"
 unique id: "1748867881793x719854363127578600"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,11 @@
 ---
-title: "What are the essential opening and prep responsibilities in a Restaurant Duty Manager job description?"
-meta: "Discover the essential opening, service, and closing duties for a Restaurant Duty Manager, including common misconceptions about each role."
+title: |
+  What are the essential opening and prep responsibilities in a Restaurant Duty Manager job description?
+meta: |
+  Discover the essential opening, service, and closing duties for a Restaurant Duty Manager, including common misconceptions about each role.
 slug: "essential-opening-prep-restaurant-duties"
 unique id: "1750237130838x841925184358449200"
-featured: "false"
+featured: false
 breadcrumb short: "Opening and Prep"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What is the best way to describe my venue in a Barback job description?"
-meta: "Discover how to craft an effective Barback job description by detailing your venue's unique characteristics, service style, and work environment to attract suitable candidates."
+meta: |
+  Discover how to craft an effective Barback job description by detailing your venue's unique characteristics, service style, and work environment to attract suitable candidates.
 slug: "best-way-describe-venue-barback"
 unique id: "1747841008446x865764338855116700"
-featured: "false"
+featured: false
 breadcrumb short: "Business Description"
 pillar text: "Job Descriptions"
 pillar link: |

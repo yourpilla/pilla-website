@@ -1,9 +1,10 @@
 ---
 title: "What does a typical week look like for an EHO? "
-meta: "Discover the varied responsibilities of Environmental Health Officers (EHOs) in the UK, including inspections, complaint investigations, and more."
+meta: |
+  Discover the varied responsibilities of Environmental Health Officers (EHOs) in the UK, including inspections, complaint investigations, and more.
 slug: "typical-week-look-eho"
 unique id: "1746109267528x468533643303242560"
-featured: "false"
+featured: false
 breadcrumb short: "Typical Weel"
 pillar text: "Food Safety System"
 pillar link: |

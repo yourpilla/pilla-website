@@ -1,9 +1,10 @@
 ---
 title: "How often should a front of house risk assessment be reviewed?"
-meta: "Discover the importance of reviewing front of house risk assessments annually and what triggers an early review in hospitality venues."
+meta: |
+  Discover the importance of reviewing front of house risk assessments annually and what triggers an early review in hospitality venues.
 slug: "front-house-risk-assessment-reviewed"
 unique id: "1744896519240x906794690537488600"
-featured: "false"
+featured: false
 breadcrumb short: "Reviewing"
 pillar text: "Health & Safety System"
 pillar link: |

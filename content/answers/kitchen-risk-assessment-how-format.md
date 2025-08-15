@@ -1,9 +1,10 @@
 ---
 title: "How should I format my kitchen risk assessment?"
-meta: "Learn the best practices for formatting a kitchen risk assessment, including choosing between list and table formats and customizing templates."
+meta: |
+  Learn the best practices for formatting a kitchen risk assessment, including choosing between list and table formats and customizing templates.
 slug: "kitchen-risk-assessment-how-format"
 unique id: "1744799372654x815001140341564400"
-featured: "false"
+featured: false
 breadcrumb short: "Format"
 pillar text: "Health & Safety System"
 pillar link: |

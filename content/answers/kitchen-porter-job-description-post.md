@@ -1,9 +1,10 @@
 ---
 title: "What post-service responsibilities should I include in a Kitchen Porter job description?"
-meta: "Discover essential post-service responsibilities for Kitchen Porters, including detailed clean-up processes and how to organise closing duties efficiently."
+meta: |
+  Discover essential post-service responsibilities for Kitchen Porters, including detailed clean-up processes and how to organise closing duties efficiently.
 slug: "kitchen-porter-job-description-post"
 unique id: "1749723295240x902743476277870600"
-featured: "false"
+featured: false
 breadcrumb short: "Post-Service"
 pillar text: "Job Interviews"
 pillar link: |

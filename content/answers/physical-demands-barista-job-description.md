@@ -1,9 +1,10 @@
 ---
 title: "What physical demands of the job should I include in a Barista job description?"
-meta: "Discover key insights on including physical demands in a barista job description, ensuring candidates understand the stamina and strength required for the role."
+meta: |
+  Discover key insights on including physical demands in a barista job description, ensuring candidates understand the stamina and strength required for the role.
 slug: "physical-demands-barista-job-description"
 unique id: "1748534800136x955240058498393700"
-featured: "false"
+featured: false
 breadcrumb short: "Physical Demans"
 pillar text: "Job Descriptions"
 pillar link: |

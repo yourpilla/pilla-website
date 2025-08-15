@@ -1,9 +1,10 @@
 ---
 title: "What is the role of a Sous Chef in a kitchen hierarchy?"
-meta: "Discover the multifaceted role of a Sous Chef in restaurant kitchens, encompassing management, creative input, and culinary expertise."
+meta: |
+  Discover the multifaceted role of a Sous Chef in restaurant kitchens, encompassing management, creative input, and culinary expertise.
 slug: "role-sous-chef-kitchen-hierarchy"
 unique id: "1745420497011x699978092953500700"
-featured: "false"
+featured: false
 breadcrumb short: "Sous Chef"
 pillar text: "Job Descriptions"
 pillar link: |

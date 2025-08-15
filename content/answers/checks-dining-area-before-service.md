@@ -1,9 +1,10 @@
 ---
 title: "What checks should be done in the dining area before service begins?"
-meta: "Explore essential pre-service checks for dining areas, including table setup, cutlery polishing, and adjusting lighting and music for optimal guest experience."
+meta: |
+  Explore essential pre-service checks for dining areas, including table setup, cutlery polishing, and adjusting lighting and music for optimal guest experience.
 slug: "checks-dining-area-before-service"
 unique id: "1746611300644x110869047513533890"
-featured: "false"
+featured: false
 breadcrumb short: "Dining Area"
 pillar text: "Daily Operations"
 pillar link: |

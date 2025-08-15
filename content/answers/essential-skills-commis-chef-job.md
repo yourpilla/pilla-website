@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should I look for in a Commis Chef job description?"
-meta: "Discover essential skills for Commis Chefs, including basic culinary techniques and food safety, and learn how to differentiate must-have skills from nice-to-haves."
+meta: |
+  Discover essential skills for Commis Chefs, including basic culinary techniques and food safety, and learn how to differentiate must-have skills from nice-to-haves.
 slug: "essential-skills-commis-chef-job"
 unique id: "1749803106217x531974433559543800"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

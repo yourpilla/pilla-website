@@ -1,9 +1,10 @@
 ---
 title: "What type of experience should I specify in a Kitchen Porter job description?"
-meta: "Explore how to effectively specify experience in Kitchen Porter job descriptions, decide between entry-level or experienced candidates, and the benefits of offering training."
+meta: |
+  Explore how to effectively specify experience in Kitchen Porter job descriptions, decide between entry-level or experienced candidates, and the benefits of offering training.
 slug: "experience-kitchen-porter-job-description"
 unique id: "1749723355302x812080062985928700"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Interviews"
 pillar link: |

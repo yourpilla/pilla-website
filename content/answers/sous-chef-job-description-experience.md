@@ -1,9 +1,10 @@
 ---
 title: "What type of experience should I specify in a Sous Chef job description?"
-meta: "Discover how to specify the right experience for Sous Chef roles, including expectations for senior and mid-level positions, and common misconceptions."
+meta: |
+  Discover how to specify the right experience for Sous Chef roles, including expectations for senior and mid-level positions, and common misconceptions.
 slug: "sous-chef-job-description-experience"
 unique id: "1749805218914x487159342150451200"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

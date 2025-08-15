@@ -1,9 +1,10 @@
 ---
 title: "What skills should I include in a Waiter/Waitress job description for my restaurant?"
-meta: "Discover essential skills to include in a Waiter/Waitress job description, and learn to differentiate must-have and nice-to-have skills for effective hiring."
+meta: |
+  Discover essential skills to include in a Waiter/Waitress job description, and learn to differentiate must-have and nice-to-have skills for effective hiring.
 slug: "skills-waiter-waitress-job-description"
 unique id: "1748867838218x860885753798328300"
-featured: "false"
+featured: false
 breadcrumb short: "Skills"
 pillar text: "Job Descriptions"
 pillar link: |

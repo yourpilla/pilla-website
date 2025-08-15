@@ -1,9 +1,10 @@
 ---
 title: "What training or progression opportunities should I include in a Catering Assistant job description?"
-meta: "Discover how to enhance a Catering Assistant job description by including specific training and progression opportunities to attract and retain talent."
+meta: |
+  Discover how to enhance a Catering Assistant job description by including specific training and progression opportunities to attract and retain talent.
 slug: "training-progression-opportunities-catering-assistant"
 unique id: "1748596461532x134883059014583740"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Job Descriptions"
 pillar link: |

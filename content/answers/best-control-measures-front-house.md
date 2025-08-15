@@ -1,9 +1,10 @@
 ---
 title: "How do I choose the best control measures for front of house risks?"
-meta: "Discover effective control measures for managing front of house risks in hospitality, including simple, cost-effective strategies and regular review practices."
+meta: |
+  Discover effective control measures for managing front of house risks in hospitality, including simple, cost-effective strategies and regular review practices.
 slug: "best-control-measures-front-house"
 unique id: "1744896519240x895898534733455600"
-featured: "false"
+featured: false
 breadcrumb short: "Control Measures"
 pillar text: "Health & Safety System"
 pillar link: |

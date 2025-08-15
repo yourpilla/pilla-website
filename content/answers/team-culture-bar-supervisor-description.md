@@ -1,9 +1,10 @@
 ---
 title: "How can I describe team culture in a Bar Supervisor job description?"
-meta: "Learn how to effectively describe team culture, unique bar elements, and sustainability practices in a Bar Supervisor job description."
+meta: |
+  Learn how to effectively describe team culture, unique bar elements, and sustainability practices in a Bar Supervisor job description.
 slug: "team-culture-bar-supervisor-description"
 unique id: "1748855760790x596115121689067500"
-featured: "false"
+featured: false
 breadcrumb short: "Culture"
 pillar text: "Job Descriptions"
 pillar link: |

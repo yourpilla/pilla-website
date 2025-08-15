@@ -1,9 +1,10 @@
 ---
 title: "What personality traits should I include in a sommelier job description?"
-meta: "Discover key personality traits to include in a sommelier job description to match your restaurant's culture and enhance guest experiences."
+meta: |
+  Discover key personality traits to include in a sommelier job description to match your restaurant's culture and enhance guest experiences.
 slug: "personality-traits-sommelier-job-description"
 unique id: "1749719634786x455447499894685700"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Interviews"
 pillar link: |

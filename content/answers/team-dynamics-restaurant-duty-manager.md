@@ -1,9 +1,10 @@
 ---
 title: "How do I describe team dynamics in a Restaurant Duty Manager job description?"
-meta: "Discover how to effectively describe team dynamics in a Restaurant Duty Manager job description to attract suitable candidates."
+meta: |
+  Discover how to effectively describe team dynamics in a Restaurant Duty Manager job description to attract suitable candidates.
 slug: "team-dynamics-restaurant-duty-manager"
 unique id: "1750237230253x601983734172090400"
-featured: "false"
+featured: false
 breadcrumb short: "Team"
 pillar text: "Job Descriptions"
 pillar link: |

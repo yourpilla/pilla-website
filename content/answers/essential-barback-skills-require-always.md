@@ -1,9 +1,10 @@
 ---
 title: "What are essential Barback skills we should always require?"
-meta: "Discover essential and nice-to-have Barback skills to enhance team efficiency and avoid over-specifying in job descriptions, as explained by Pilla Founder Liam Jones."
+meta: |
+  Discover essential and nice-to-have Barback skills to enhance team efficiency and avoid over-specifying in job descriptions, as explained by Pilla Founder Liam Jones.
 slug: "essential-barback-skills-require-always"
 unique id: "1747841008447x440119719127937800"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

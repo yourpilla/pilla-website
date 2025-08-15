@@ -1,9 +1,10 @@
 ---
 title: "Does a coffee machine need to be fixed in place?"
-meta: "Discover the importance of securing commercial coffee machines in place for safety, and learn the correct setup to prevent accidents and ensure stability."
+meta: |
+  Discover the importance of securing commercial coffee machines in place for safety, and learn the correct setup to prevent accidents and ensure stability.
 slug: "coffee-machine-need-fixed-place"
 unique id: "1745226754641x819695357803466900"
-featured: "false"
+featured: false
 breadcrumb short: "Installation"
 pillar text: "Health & Safety System"
 pillar link: |

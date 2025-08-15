@@ -1,9 +1,10 @@
 ---
 title: "How do I update my kitchen risk assessment when things change?"
-meta: "Discover how to update your kitchen risk assessment with any changes, including new equipment or layout modifications, to maintain safety standards."
+meta: |
+  Discover how to update your kitchen risk assessment with any changes, including new equipment or layout modifications, to maintain safety standards.
 slug: "update-kitchen-risk-assessment-change"
 unique id: "1744799372654x904677169391059400"
-featured: "false"
+featured: false
 breadcrumb short: "Updating"
 pillar text: "Health & Safety System"
 pillar link: |

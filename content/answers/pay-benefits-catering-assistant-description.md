@@ -1,9 +1,10 @@
 ---
 title: "What pay and benefits information should I include in a Catering Assistant job description?"
-meta: "Learn how to effectively detail pay rates and benefits in a Catering Assistant job description to attract suitable candidates."
+meta: |
+  Learn how to effectively detail pay rates and benefits in a Catering Assistant job description to attract suitable candidates.
 slug: "pay-benefits-catering-assistant-description"
 unique id: "1748596461532x502022584271356350"
-featured: "false"
+featured: false
 breadcrumb short: "Pay & Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

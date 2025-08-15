@@ -1,9 +1,10 @@
 ---
 title: "How should I explain required experience in a Bartender job description?"
-meta: "Learn how to effectively specify experience requirements in bartender job descriptions to attract suitable candidates for your bar's unique environment."
+meta: |
+  Learn how to effectively specify experience requirements in bartender job descriptions to attract suitable candidates for your bar's unique environment.
 slug: "explain-required-experience-bartender-job"
 unique id: "1748429917193x424039539995080700"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

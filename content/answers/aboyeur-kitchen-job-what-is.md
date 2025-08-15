@@ -1,9 +1,10 @@
 ---
 title: "What is the job of an Aboyeur in a kitchen?"
-meta: "Discover the role of an Aboyeur (Expediter) in a kitchen, focusing on their duties in coordinating orders and ensuring quality control in dish presentation."
+meta: |
+  Discover the role of an Aboyeur (Expediter) in a kitchen, focusing on their duties in coordinating orders and ensuring quality control in dish presentation.
 slug: "aboyeur-kitchen-job-what-is"
 unique id: "1745420497015x491348842857156400"
-featured: "false"
+featured: false
 breadcrumb short: "Aboyeur (Expediter)"
 pillar text: "Job Descriptions"
 pillar link: |

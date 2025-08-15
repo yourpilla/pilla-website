@@ -1,9 +1,10 @@
 ---
 title: "What should I write about training opportunities in a Barista job description?"
-meta: "Discover how to effectively include training and growth opportunities in a barista job description to attract and retain skilled candidates."
+meta: |
+  Discover how to effectively include training and growth opportunities in a barista job description to attract and retain skilled candidates.
 slug: "training-opportunities-barista-job-description"
 unique id: "1748534800136x181613154942179100"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Job Descriptions"
 pillar link: |

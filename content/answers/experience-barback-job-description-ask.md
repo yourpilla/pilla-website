@@ -1,9 +1,10 @@
 ---
 title: "How much experience should we ask for in a Barback job description?"
-meta: "Discover how to tailor the experience requirements in a Barback job description to match your bar's specific needs and avoid common hiring mistakes."
+meta: |
+  Discover how to tailor the experience requirements in a Barback job description to match your bar's specific needs and avoid common hiring mistakes.
 slug: "experience-barback-job-description-ask"
 unique id: "1747841008447x127939981492534380"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

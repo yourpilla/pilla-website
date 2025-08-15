@@ -1,9 +1,10 @@
 ---
 title: "Why must a HACCP plan be validated and reviewed regularly?"
-meta: "Explore why regular validation and review of a HACCP plan are crucial for maintaining effective food safety measures."
+meta: |
+  Explore why regular validation and review of a HACCP plan are crucial for maintaining effective food safety measures.
 slug: "haccp-plan-validated-reviewed-regularly"
 unique id: "1745929282548x690585982830684400"
-featured: "false"
+featured: false
 breadcrumb short: "Review"
 pillar text: "Food Safety System"
 pillar link: |

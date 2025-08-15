@@ -1,9 +1,10 @@
 ---
 title: "What are common end-of-shift responsibilities for Barbacks?"
-meta: "Explore the essential end-of-shift responsibilities for Barbacks, including deep cleaning, restocking, and securing the bar, and how to effectively communicate these tasks in job descriptions."
+meta: |
+  Explore the essential end-of-shift responsibilities for Barbacks, including deep cleaning, restocking, and securing the bar, and how to effectively communicate these tasks in job descriptions.
 slug: "common-end-shift-responsibilities-barbacks"
 unique id: "1747841008447x691705965412709500"
-featured: "false"
+featured: false
 breadcrumb short: "End of Shift Key Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "Can I refreeze food that has started to defrost?"
-meta: "Learn why you should never refreeze food that has started to defrost and what to do with partially or fully defrosted food to ensure food safety."
+meta: |
+  Learn why you should never refreeze food that has started to defrost and what to do with partially or fully defrosted food to ensure food safety.
 slug: "refreeze-food-started-defrost"
 unique id: "1733824580231x611909568983350000"
-featured: "false"
+featured: false
 breadcrumb short: "Refreezing"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How do I decide who might be harmed in a front of house risk assessment?"
-meta: "Explore how to identify potential risks for staff, customers, and visitors in front of house operations, and the common misconceptions in risk assessments."
+meta: |
+  Explore how to identify potential risks for staff, customers, and visitors in front of house operations, and the common misconceptions in risk assessments.
 slug: "decide-harmed-front-house-risk"
 unique id: "1744896519240x702940806814908200"
-featured: "false"
+featured: false
 breadcrumb short: "Who Harmed"
 pillar text: "Health & Safety System"
 pillar link: |

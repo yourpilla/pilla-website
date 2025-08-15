@@ -1,9 +1,10 @@
 ---
 title: "What is the purpose of a kitchen cleaning schedule?"
-meta: "Discover the importance of a kitchen cleaning schedule to maintain hygiene, ensure food safety, and comply with health standards in both commercial and small kitchens."
+meta: |
+  Discover the importance of a kitchen cleaning schedule to maintain hygiene, ensure food safety, and comply with health standards in both commercial and small kitchens.
 slug: "purpose-kitchen-cleaning-schedule"
 unique id: "1746622446224x399964018560991600"
-featured: "false"
+featured: false
 breadcrumb short: "Purpose"
 pillar text: "Food Safety System"
 pillar link: |

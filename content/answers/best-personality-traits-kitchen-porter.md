@@ -1,9 +1,10 @@
 ---
 title: "What personality traits are best in a Kitchen Porter job description?"
-meta: "Discover the essential personality traits for a Kitchen Porter, including stamina and efficiency, and why specific traits are crucial over vague terms like "team player.""
+meta: |
+  Discover the essential personality traits for a Kitchen Porter, including stamina and efficiency, and why specific traits are crucial over vague terms like "team player."
 slug: "best-personality-traits-kitchen-porter"
 unique id: "1749723394246x263688113098588160"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Interviews"
 pillar link: |

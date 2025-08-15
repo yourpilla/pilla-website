@@ -1,9 +1,10 @@
 ---
 title: "How can I detail customer service expectations in a Restaurant Assistant Manager job description?"
-meta: "Discover how to detail customer service expectations in a Restaurant Assistant Manager job description to enhance guest experiences and manage feedback effectively."
+meta: |
+  Discover how to detail customer service expectations in a Restaurant Assistant Manager job description to enhance guest experiences and manage feedback effectively.
 slug: "detail-customer-service-restaurant-assistant-manager"
 unique id: "1750236060036x692343991353999400"
-featured: "false"
+featured: false
 breadcrumb short: "Customer Service"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How should I list the core responsibilities in a Commis Chef job description?"
-meta: "Discover how to effectively list core responsibilities for a Commis Chef, focusing on preparation, service, and closing tasks for clear job expectations."
+meta: |
+  Discover how to effectively list core responsibilities for a Commis Chef, focusing on preparation, service, and closing tasks for clear job expectations.
 slug: "core-responsibilities-commis-chef-job"
 unique id: "1749803066636x753923318236053500"
-featured: "false"
+featured: false
 breadcrumb short: "Core Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

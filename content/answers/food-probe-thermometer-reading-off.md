@@ -1,9 +1,10 @@
 ---
 title: "What do I do if the food probe thermometer reading is off by more than 1 degree?"
-meta: "Learn what to do if your food probe thermometer is off by more than 1C during calibration testing, including taking it out of service and replacing it immediately."
+meta: |
+  Learn what to do if your food probe thermometer is off by more than 1C during calibration testing, including taking it out of service and replacing it immediately.
 slug: "food-probe-thermometer-reading-off"
 unique id: "1734019668737x716752198749315300"
-featured: "false"
+featured: false
 breadcrumb short: "Incorrect 1C"
 pillar text: "Food Safety System"
 pillar link: |

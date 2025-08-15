@@ -1,17 +1,20 @@
 ---
 title: "What pre-service responsibilities should I include in a Head Waiter job description?"
-meta: "Explore the essential pre-service responsibilities for a Head Waiter, including dining area setup, staff briefings, and kitchen coordination for optimal guest service."
+meta: |
+  Explore the essential pre-service responsibilities for a Head Waiter, including dining area setup, staff briefings, and kitchen coordination for optimal guest service.
 slug: "head-waiter-job-description-responsibilities"
 unique id: "1749721692041x732806499225567200"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-Service"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

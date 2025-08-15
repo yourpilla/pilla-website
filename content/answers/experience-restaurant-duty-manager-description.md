@@ -1,9 +1,10 @@
 ---
 title: "What level of experience should I include in a Restaurant Duty Manager job description?"
-meta: "Discover how to effectively define experience requirements in a Restaurant Duty Manager job description, emphasising industry-specific skills over mere tenure."
+meta: |
+  Discover how to effectively define experience requirements in a Restaurant Duty Manager job description, emphasising industry-specific skills over mere tenure.
 slug: "experience-restaurant-duty-manager-description"
 unique id: "1750237169526x677619072852033500"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

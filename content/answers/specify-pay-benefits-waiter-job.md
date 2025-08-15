@@ -1,9 +1,10 @@
 ---
 title: "How should I specify pay and benefits in a Waiter/Waitress job description?"
-meta: "Explore effective strategies for specifying pay and benefits in waiter/waitress job descriptions to attract qualified candidates and maintain transparency."
+meta: |
+  Explore effective strategies for specifying pay and benefits in waiter/waitress job descriptions to attract qualified candidates and maintain transparency.
 slug: "specify-pay-benefits-waiter-job"
 unique id: "1748867902742x664461213294919700"
-featured: "false"
+featured: false
 breadcrumb short: "Pay and Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

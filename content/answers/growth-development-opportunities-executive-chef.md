@@ -1,9 +1,10 @@
 ---
 title: "What growth and development opportunities should I include in an Executive Chef job description?"
-meta: "Discover essential growth and development opportunities to include in an Executive Chef job description, such as training, mentorship, and career progression paths."
+meta: |
+  Discover essential growth and development opportunities to include in an Executive Chef job description, such as training, mentorship, and career progression paths.
 slug: "growth-development-opportunities-executive-chef"
 unique id: "1750064197378x264125108144832500"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

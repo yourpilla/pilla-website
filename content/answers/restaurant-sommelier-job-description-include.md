@@ -1,9 +1,10 @@
 ---
 title: "What should I include about my restaurant when writing a sommelier job description?"
-meta: "Discover how to craft an effective sommelier job description for your restaurant, including details on atmosphere, wine program, and unique venue features."
+meta: |
+  Discover how to craft an effective sommelier job description for your restaurant, including details on atmosphere, wine program, and unique venue features.
 slug: "restaurant-sommelier-job-description-include"
 unique id: "1749719388029x629574019060334600"
-featured: "false"
+featured: false
 breadcrumb short: "Business"
 pillar text: "Job Interviews"
 pillar link: |

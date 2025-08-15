@@ -1,9 +1,10 @@
 ---
 title: "How should you train new team members on completing checklists?"
-meta: "Discover effective strategies for training new team members on checklist completion, including the importance of visual aids and addressing common misconceptions."
+meta: |
+  Discover effective strategies for training new team members on checklist completion, including the importance of visual aids and addressing common misconceptions.
 slug: "train-new-team-members-checklists"
 unique id: "1746609287201x102283044486965340"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "Who needs to have Level 4 food hygiene certification in the kitchen?"
-meta: "Learn who needs Level 4 food hygiene certification in the kitchen, including executive head chefs and HACCP team members responsible for overall food safety compliance."
+meta: |
+  Learn who needs Level 4 food hygiene certification in the kitchen, including executive head chefs and HACCP team members responsible for overall food safety compliance.
 slug: "level-4-food-hygiene-certification"
 unique id: "1734014563820x406900807440497840"
-featured: "false"
+featured: false
 breadcrumb short: "Level 4"
 pillar text: "Food Safety System"
 pillar link: |

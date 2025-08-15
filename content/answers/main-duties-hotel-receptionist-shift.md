@@ -1,9 +1,10 @@
 ---
 title: "What are the main duties a Hotel Receptionist handles during a typical shift?"
-meta: "Discover the key responsibilities of a hotel receptionist, including task division across guest interaction stages and the importance of specific job descriptions."
+meta: |
+  Discover the key responsibilities of a hotel receptionist, including task division across guest interaction stages and the importance of specific job descriptions.
 slug: "main-duties-hotel-receptionist-shift"
 unique id: "1748768543069x455539792863663740"
-featured: "false"
+featured: false
 breadcrumb short: "Duties"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What personality traits should I include in a Chef de Partie job description?"
-meta: "Discover the importance of specifying personality traits in a Chef de Partie job description to ensure a good fit with your kitchen's culture and dynamics."
+meta: |
+  Discover the importance of specifying personality traits in a Chef de Partie job description to ensure a good fit with your kitchen's culture and dynamics.
 slug: "personality-traits-chef-de-partie-job-description"
 unique id: "1749803889399x532552727919329300"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How should salary and benefits be included in a Restaurant Assistant Manager job description?"
-meta: "Discover how to effectively include salary and benefits in a Restaurant Assistant Manager job description to attract top candidates."
+meta: |
+  Discover how to effectively include salary and benefits in a Restaurant Assistant Manager job description to attract top candidates.
 slug: "salary-benefits-restaurant-assistant-manager"
 unique id: "1750236144908x205602511063613440"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

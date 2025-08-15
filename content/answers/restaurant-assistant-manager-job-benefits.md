@@ -1,9 +1,10 @@
 ---
 title: "What benefits can I include in a Restaurant Assistant Manager job description?"
-meta: "Discover how to craft an attractive Restaurant Assistant Manager job description by including both monetary and non-monetary benefits, team events, and social aspects."
+meta: |
+  Discover how to craft an attractive Restaurant Assistant Manager job description by including both monetary and non-monetary benefits, team events, and social aspects.
 slug: "restaurant-assistant-manager-job-benefits"
 unique id: "1750236208498x593293033289285600"
-featured: "false"
+featured: false
 breadcrumb short: "Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

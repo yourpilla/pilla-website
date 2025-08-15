@@ -1,9 +1,10 @@
 ---
 title: "How do you clean high-risk kitchen equipment properly?"
-meta: "Discover the correct methods for cleaning high-risk kitchen equipment like slicers, mixers, and dishwashers to prevent food contamination and ensure hygiene."
+meta: |
+  Discover the correct methods for cleaning high-risk kitchen equipment like slicers, mixers, and dishwashers to prevent food contamination and ensure hygiene.
 slug: "clean-high-risk-equipment-properly"
 unique id: "1746622446226x270821313458209820"
-featured: "false"
+featured: false
 breadcrumb short: "Equipment"
 pillar text: "Food Safety System"
 pillar link: |

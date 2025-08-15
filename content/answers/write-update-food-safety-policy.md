@@ -1,9 +1,10 @@
 ---
 title: "When should you write or update a food safety policy?"
-meta: "Learn when and why to update your food safety policy, including common misconceptions about its necessity and frequency of review."
+meta: |
+  Learn when and why to update your food safety policy, including common misconceptions about its necessity and frequency of review.
 slug: "write-update-food-safety-policy"
 unique id: "1746538990379x364177257047291650"
-featured: "false"
+featured: false
 breadcrumb short: "When Write"
 pillar text: "Food Safety System"
 pillar link: |

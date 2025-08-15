@@ -1,9 +1,10 @@
 ---
 title: "How quickly do I need to put food deliveries away?"
-meta: "Learn how to efficiently put away food deliveries while maintaining food safety standards. Prioritize chilled and frozen goods to ensure the cold chain is not broken."
+meta: |
+  Learn how to efficiently put away food deliveries while maintaining food safety standards. Prioritize chilled and frozen goods to ensure the cold chain is not broken.
 slug: "put-food-deliveries-away-quickly"
 unique id: "1734097889783x215787934436226100"
-featured: "false"
+featured: false
 breadcrumb short: "Speed"
 pillar text: "Food Safety System"
 pillar link: |

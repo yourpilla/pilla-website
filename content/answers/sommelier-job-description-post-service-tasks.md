@@ -1,9 +1,10 @@
 ---
 title: "What post-service tasks should I include in a sommelier job description?"
-meta: "Unfortunately, you have provided the word "null" as the content for the article, which means there is no information to create a meta description from. Please provide the actual content or details of the article for me to assist you effectively."
+meta: |
+  Unfortunately, you have provided the word "null" as the content for the article, which means there is no information to create a meta description from. Please provide the actual content or details of the article for me to assist you effectively.
 slug: "sommelier-job-description-post-service-tasks"
 unique id: "1749721044134x804894032927916000"
-featured: "false"
+featured: false
 breadcrumb short: "Post-Service"
 pillar text: "Job Interviews"
 pillar link: |

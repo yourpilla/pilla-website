@@ -1,9 +1,10 @@
 ---
 title: "What skills are essential when writing a sommelier job description?"
-meta: "Discover essential skills for a sommelier job description, including wine knowledge, customer service, and effective communication, plus tips on categorising skills."
+meta: |
+  Discover essential skills for a sommelier job description, including wine knowledge, customer service, and effective communication, plus tips on categorising skills.
 slug: "essential-skills-writing-sommelier-job"
 unique id: "1749719532992x588833524781154300"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Interviews"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What should an EHO do during a visit? "
-meta: "Discover what to expect during an Environmental Health Officer visit, including inspection areas, post-visit reports, and your rights if you disagree with findings."
+meta: |
+  Discover what to expect during an Environmental Health Officer visit, including inspection areas, post-visit reports, and your rights if you disagree with findings.
 slug: "eho-visit-should-do-during"
 unique id: "1746109267529x155087920633725220"
-featured: "false"
+featured: false
 breadcrumb short: "Visits"
 pillar text: "Food Safety System"
 pillar link: |

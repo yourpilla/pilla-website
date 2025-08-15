@@ -1,9 +1,11 @@
 ---
-title: "Why can't hot holding equipment be used for cooking?"
-meta: "Discover essential guidelines for cooking food safely, including proper temperatures to eliminate harmful bacteria and practices to prevent contamination."
+title: |
+  Why can't hot holding equipment be used for cooking?
+meta: |
+  Discover essential guidelines for cooking food safely, including proper temperatures to eliminate harmful bacteria and practices to prevent contamination.
 slug: "hot-holding-equipment-used-cooking"
 unique id: "1743670469424x381802113107883460"
-featured: "false"
+featured: false
 breadcrumb short: "Hot Hold "
 pillar text: "Food Safety System"
 pillar link: |

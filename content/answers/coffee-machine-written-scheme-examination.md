@@ -1,9 +1,10 @@
 ---
 title: "Does my coffee machine need a Written Scheme of Examination (WSE)?"
-meta: "Discover if your commercial coffee machine requires a Written Scheme of Examination under the Pressure Systems Safety Regulations 2000."
+meta: |
+  Discover if your commercial coffee machine requires a Written Scheme of Examination under the Pressure Systems Safety Regulations 2000.
 slug: "coffee-machine-written-scheme-examination"
 unique id: "1745226754640x793854548562066300"
-featured: "false"
+featured: false
 breadcrumb short: "Pressure Safety Regulations"
 pillar text: "Health & Safety System"
 pillar link: |

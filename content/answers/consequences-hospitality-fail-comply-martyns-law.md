@@ -1,17 +1,21 @@
 ---
-title: "What are the potential consequences for hospitality businesses that fail to comply with Martyn's Law?"
-meta: "Discover the legal and operational consequences for hospitality businesses failing to comply with Martyn's Law, including fines, notices, and potential closure."
+title: |
+  What are the potential consequences for hospitality businesses that fail to comply with Martyn's Law?
+meta: |
+  Discover the legal and operational consequences for hospitality businesses failing to comply with Martyn's Law, including fines, notices, and potential closure.
 slug: "consequences-hospitality-fail-comply-martyns-law"
 unique id: "1744633430857x216535927510210340"
-featured: "false"
+featured: false
 breadcrumb short: "Consequences"
 pillar text: "Health & Safety System"
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Martyn's Law"
+subpage text: |
+  Martyn's Law
 subpage link: |
   https://yourpilla.com/blog/martyns-law-hospitality
-blog: "How to Comply with Martyn's Law in Hospitality in the UK."
+blog: |
+  How to Comply with Martyn's Law in Hospitality in the UK.
 schema: |
   {
     "@context": "https://schema.org",

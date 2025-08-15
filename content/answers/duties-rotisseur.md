@@ -1,9 +1,10 @@
 ---
 title: "What are the duties of a Rotisseur?"
-meta: "Discover the multifaceted role of a Rotisseur, including their techniques in roasting meats and vegetables, and their crucial contributions to menu development."
+meta: |
+  Discover the multifaceted role of a Rotisseur, including their techniques in roasting meats and vegetables, and their crucial contributions to menu development.
 slug: "duties-rotisseur"
 unique id: "1745420497012x737906980340375700"
-featured: "false"
+featured: false
 breadcrumb short: "Rotisseur (Roast Chef)"
 pillar text: "Job Descriptions"
 pillar link: |

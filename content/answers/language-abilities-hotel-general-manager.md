@@ -1,9 +1,10 @@
 ---
 title: "What language abilities can be beneficial in a Hotel General Manager job description?"
-meta: "Discover how multilingual abilities can enhance a Hotel General Manager's role, improving guest relations and staff management."
+meta: |
+  Discover how multilingual abilities can enhance a Hotel General Manager's role, improving guest relations and staff management.
 slug: "language-abilities-hotel-general-manager"
 unique id: "1750240419612x326837427379896300"
-featured: "false"
+featured: false
 breadcrumb short: "Language"
 pillar text: "Job Descriptions"
 pillar link: |

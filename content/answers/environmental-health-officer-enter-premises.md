@@ -1,9 +1,10 @@
 ---
 title: "When can an Environmental Health Officer enter my premises? "
-meta: "Explore the rights of Environmental Health Officers (EHOs) to enter business premises without prior notice to ensure compliance with food safety laws."
+meta: |
+  Explore the rights of Environmental Health Officers (EHOs) to enter business premises without prior notice to ensure compliance with food safety laws.
 slug: "environmental-health-officer-enter-premises"
 unique id: "1746109267528x883747986205720300"
-featured: "false"
+featured: false
 breadcrumb short: "Entry"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What kind of service style information should I include in a Sous Chef job description?"
-meta: "Discover key elements to include in a Sous Chef job description, focusing on service style, cuisine type, and kitchen-front house dynamics."
+meta: |
+  Discover key elements to include in a Sous Chef job description, focusing on service style, cuisine type, and kitchen-front house dynamics.
 slug: "service-style-sous-chef-job-description"
 unique id: "1749805308049x172463480472862720"
-featured: "false"
+featured: false
 breadcrumb short: "Service Style"
 pillar text: "Job Descriptions"
 pillar link: |

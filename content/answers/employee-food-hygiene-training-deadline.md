@@ -1,9 +1,10 @@
 ---
 title: "How soon after starting does a new employee need to complete food hygiene training?"
-meta: "Ensure new staff complete food hygiene training before handling food. Agency and part-time workers need the same certification as full-time staff, depending on their role."
+meta: |
+  Ensure new staff complete food hygiene training before handling food. Agency and part-time workers need the same certification as full-time staff, depending on their role.
 slug: "employee-food-hygiene-training-deadline"
 unique id: "1734014558525x609916315682662400"
-featured: "false"
+featured: false
 breadcrumb short: "New Starter"
 pillar text: "Food Safety System"
 pillar link: |

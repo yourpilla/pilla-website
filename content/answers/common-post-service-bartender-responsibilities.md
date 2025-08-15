@@ -1,9 +1,10 @@
 ---
 title: "What are common post-service responsibilities for a Bartender?"
-meta: "Explore the key post-service responsibilities of a bartender, including cleaning, restocking, and preparing for the next day, and why detailing these in job descriptions is crucial."
+meta: |
+  Explore the key post-service responsibilities of a bartender, including cleaning, restocking, and preparing for the next day, and why detailing these in job descriptions is crucial.
 slug: "common-post-service-bartender-responsibilities"
 unique id: "1748429917192x509149682622044540"
-featured: "false"
+featured: false
 breadcrumb short: "Post Service Tasks"
 pillar text: "Job Descriptions"
 pillar link: |

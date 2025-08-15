@@ -1,9 +1,10 @@
 ---
 title: "How do I isolate a coffee machine from power and water?"
-meta: "Discover how to safely isolate a coffee machine from power and water for maintenance and the importance of an emergency stop feature."
+meta: |
+  Discover how to safely isolate a coffee machine from power and water for maintenance and the importance of an emergency stop feature.
 slug: "isolate-coffee-machine-power-water"
 unique id: "1745226754641x508462129203332030"
-featured: "false"
+featured: false
 breadcrumb short: "Shutdown"
 pillar text: "Health & Safety System"
 pillar link: |

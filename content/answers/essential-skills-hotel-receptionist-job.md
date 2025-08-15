@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should I include Hotel Receptionist job description?"
-meta: "Discover essential skills for a Hotel Receptionist job description, including key distinctions between must-have and nice-to-have skills, and why communication often trumps tech abilities."
+meta: |
+  Discover essential skills for a Hotel Receptionist job description, including key distinctions between must-have and nice-to-have skills, and why communication often trumps tech abilities.
 slug: "essential-skills-hotel-receptionist-job"
 unique id: "1748768543069x632553502264299200"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

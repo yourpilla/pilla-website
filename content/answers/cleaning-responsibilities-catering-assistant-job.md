@@ -1,9 +1,10 @@
 ---
 title: "How should I mention cleaning responsibilities in a Catering Assistant job description?"
-meta: "Learn how to effectively detail cleaning responsibilities in a Catering Assistant job description to attract suitable candidates and set clear expectations."
+meta: |
+  Learn how to effectively detail cleaning responsibilities in a Catering Assistant job description to attract suitable candidates and set clear expectations.
 slug: "cleaning-responsibilities-catering-assistant-job"
 unique id: "1748596461538x722407785314396200"
-featured: "false"
+featured: false
 breadcrumb short: "Cleaning"
 pillar text: "Job Descriptions"
 pillar link: |

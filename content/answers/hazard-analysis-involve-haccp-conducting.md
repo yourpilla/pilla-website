@@ -1,9 +1,10 @@
 ---
 title: "What does conducting a hazard analysis involve in HACCP?"
-meta: "Explore the essential steps of conducting a hazard analysis in HACCP, including identifying and evaluating food safety risks throughout the production process."
+meta: |
+  Explore the essential steps of conducting a hazard analysis in HACCP, including identifying and evaluating food safety risks throughout the production process.
 slug: "hazard-analysis-involve-haccp-conducting"
 unique id: "1745929282547x608087143954090200"
-featured: "false"
+featured: false
 breadcrumb short: "Hazard Analysis"
 pillar text: "Food Safety System"
 pillar link: |

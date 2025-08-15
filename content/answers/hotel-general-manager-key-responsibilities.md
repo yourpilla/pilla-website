@@ -2,10 +2,11 @@
 title: |
   What key responsibilities should I include in a Hotel General Manager job description?
   
-meta: "Discover the essential responsibilities for a Hotel General Manager, including operational management, strategic planning, and leadership duties."
+meta: |
+  Discover the essential responsibilities for a Hotel General Manager, including operational management, strategic planning, and leadership duties.
 slug: "hotel-general-manager-key-responsibilities"
 unique id: "1750239638166x720132358409551900"
-featured: "false"
+featured: false
 breadcrumb short: "Key Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

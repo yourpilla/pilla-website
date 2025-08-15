@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should I list in a Bartender job description?"
-meta: "Discover essential and desirable skills to include in a bartender job description, focusing on both hard and soft skills crucial for effective bar operations."
+meta: |
+  Discover essential and desirable skills to include in a bartender job description, focusing on both hard and soft skills crucial for effective bar operations.
 slug: "essential-skills-bartender-job-description"
 unique id: "1748429917193x545648274165620800"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

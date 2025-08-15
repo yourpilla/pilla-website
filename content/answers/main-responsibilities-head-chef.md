@@ -1,9 +1,10 @@
 ---
 title: "What are the main responsibilities of a Head Chef?"
-meta: "Discover the multifaceted role of a Head Chef, encompassing kitchen management, menu setting, and ensuring high culinary standards in a restaurant."
+meta: |
+  Discover the multifaceted role of a Head Chef, encompassing kitchen management, menu setting, and ensuring high culinary standards in a restaurant.
 slug: "main-responsibilities-head-chef"
 unique id: "1745420497011x670961943492159900"
-featured: "false"
+featured: false
 breadcrumb short: "Head Chef (Chef de Cuisine)"
 pillar text: "Job Descriptions"
 pillar link: |

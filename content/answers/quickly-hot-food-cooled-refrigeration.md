@@ -1,9 +1,10 @@
 ---
 title: "How quickly should hot food be cooled to be suitable for refrigeration?"
-meta: "Learn the correct procedures for cooling hot food to refrigeration-safe temperatures within 90 minutes to ensure food safety."
+meta: |
+  Learn the correct procedures for cooling hot food to refrigeration-safe temperatures within 90 minutes to ensure food safety.
 slug: "quickly-hot-food-cooled-refrigeration"
 unique id: "1748966319447x839022518015098900"
-featured: "false"
+featured: false
 breadcrumb short: "How Quickly"
 pillar text: "Food Safety System"
 pillar link: |

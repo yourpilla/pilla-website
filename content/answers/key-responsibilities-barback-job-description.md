@@ -1,9 +1,10 @@
 ---
 title: "How should I structure the key responsibilities in a Barback job description?"
-meta: "Discover how to effectively structure a Barback job description by categorizing responsibilities into pre-service, active service, and end-of-shift tasks."
+meta: |
+  Discover how to effectively structure a Barback job description by categorizing responsibilities into pre-service, active service, and end-of-shift tasks.
 slug: "key-responsibilities-barback-job-description"
 unique id: "1747841008446x293060449907907900"
-featured: "false"
+featured: false
 breadcrumb short: "Key Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

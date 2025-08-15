@@ -1,9 +1,10 @@
 ---
 title: "What personality traits should I include in a Catering Assistant job description?"
-meta: "Explore key personality traits for a Catering Assistant, the importance of team spirit in catering, and examples of suitable traits for the role."
+meta: |
+  Explore key personality traits for a Catering Assistant, the importance of team spirit in catering, and examples of suitable traits for the role.
 slug: "personality-traits-catering-assistant-job"
 unique id: "1748596461532x725149621334087600"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

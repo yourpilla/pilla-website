@@ -1,9 +1,10 @@
 ---
 title: "How should I present technical skills required in a Commis Chef job description?"
-meta: "Discover how to effectively detail the necessary technical skills in a Commis Chef job description, prioritising essential culinary and hygiene skills."
+meta: |
+  Discover how to effectively detail the necessary technical skills in a Commis Chef job description, prioritising essential culinary and hygiene skills.
 slug: "technical-skills-commis-chef-job-description"
 unique id: "1749803259752x361561565381263360"
-featured: "false"
+featured: false
 breadcrumb short: "Technical Skills"
 pillar text: "Job Descriptions"
 pillar link: |

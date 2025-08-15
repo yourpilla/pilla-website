@@ -1,9 +1,10 @@
 ---
 title: "What are the key risks that opening checks should aim to prevent?"
-meta: "Discover the critical risks that kitchen opening checks address, including unsafe food use, cross-contamination, and equipment failure, to enhance food safety and efficiency."
+meta: |
+  Discover the critical risks that kitchen opening checks address, including unsafe food use, cross-contamination, and equipment failure, to enhance food safety and efficiency.
 slug: "key-risks-opening-checks-prevent"
 unique id: "1746609287201x201936514794996300"
-featured: "false"
+featured: false
 breadcrumb short: "Opening Risks"
 pillar text: "Food Safety System"
 pillar link: |

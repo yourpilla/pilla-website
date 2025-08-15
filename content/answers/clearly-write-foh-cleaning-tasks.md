@@ -1,9 +1,10 @@
 ---
 title: "How can I clearly write FOH cleaning tasks to avoid confusion?"
-meta: "Discover how to write clear and specific FOH cleaning tasks to eliminate confusion and ensure consistent cleaning standards in your restaurant."
+meta: |
+  Discover how to write clear and specific FOH cleaning tasks to eliminate confusion and ensure consistent cleaning standards in your restaurant.
 slug: "clearly-write-foh-cleaning-tasks"
 unique id: "1746627231148x462308625714568300"
-featured: "false"
+featured: false
 breadcrumb short: "Instructions"
 pillar text: "Daily Operations"
 pillar link: |

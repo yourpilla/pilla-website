@@ -1,9 +1,10 @@
 ---
 title: "How deep should the food probe thermometer go in water when testing?"
-meta: "Learn how to accurately test your food probe thermometer in water. Ensure the probe is submerged at least 2 inches without touching the sides or bottom. Stir cold water gently and wait for a stable reading."
+meta: |
+  Learn how to accurately test your food probe thermometer in water. Ensure the probe is submerged at least 2 inches without touching the sides or bottom. Stir cold water gently and wait for a stable reading.
 slug: "food-probe-thermometer-depth-testing"
 unique id: "1734019663896x902012637296258000"
-featured: "false"
+featured: false
 breadcrumb short: "Water Depth"
 pillar text: "Food Safety System"
 pillar link: |

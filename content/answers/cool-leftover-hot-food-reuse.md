@@ -1,9 +1,10 @@
 ---
 title: "Should I cool leftover hot held food for reuse?"
-meta: "Understand why you should not cool and reuse leftover hot held food due to safety risks and potential bacterial growth."
+meta: |
+  Understand why you should not cool and reuse leftover hot held food due to safety risks and potential bacterial growth.
 slug: "cool-leftover-hot-food-reuse"
 unique id: "1748966550626x846034681501843500"
-featured: "false"
+featured: false
 breadcrumb short: "Hot Held Reuse"
 pillar text: "Food Safety System"
 pillar link: |

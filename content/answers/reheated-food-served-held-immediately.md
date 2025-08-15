@@ -1,9 +1,10 @@
 ---
 title: "When should reheated food be served?"
-meta: "Learn about the specific reheating temperatures, proper reheating techniques, and how to document compliance using a digital task template."
+meta: |
+  Learn about the specific reheating temperatures, proper reheating techniques, and how to document compliance using a digital task template.
 slug: "reheated-food-served-held-immediately"
 unique id: "1744115592499x513747905619680500"
-featured: "false"
+featured: false
 breadcrumb short: "Serving"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What is a front of house risk assessment in hospitality?"
-meta: "Discover the importance of a front of house risk assessment in hospitality, focusing on safety and compliance in customer-facing areas."
+meta: |
+  Discover the importance of a front of house risk assessment in hospitality, focusing on safety and compliance in customer-facing areas.
 slug: "front-house-risk-assessment-hospitality"
 unique id: "1744896519239x907897255878200300"
-featured: "false"
+featured: false
 breadcrumb short: "What Is It"
 pillar text: "Health & Safety System"
 pillar link: |

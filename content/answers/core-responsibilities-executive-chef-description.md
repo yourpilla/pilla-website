@@ -1,9 +1,10 @@
 ---
 title: "What are the core responsibilities to highlight in an Executive Chef job description?"
-meta: "Explore the key responsibilities for an Executive Chef, including overseeing kitchen operations, menu development, and staff management, to enhance job descriptions."
+meta: |
+  Explore the key responsibilities for an Executive Chef, including overseeing kitchen operations, menu development, and staff management, to enhance job descriptions.
 slug: "core-responsibilities-executive-chef-description"
 unique id: "1750064065133x990837530579959800"
-featured: "false"
+featured: false
 breadcrumb short: "Core Responsibilities "
 pillar text: "Job Descriptions"
 pillar link: |

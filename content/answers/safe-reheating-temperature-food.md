@@ -1,9 +1,10 @@
 ---
 title: "What is the safe reheating temperature for food?"
-meta: "Learn the required reheating temperatures for foods, including the differences between regions, and how to document compliance using a digital task template."
+meta: |
+  Learn the required reheating temperatures for foods, including the differences between regions, and how to document compliance using a digital task template.
 slug: "safe-reheating-temperature-food"
 unique id: "1744115592499x477796629261481300"
-featured: "false"
+featured: false
 breadcrumb short: "Temperature"
 pillar text: "Food Safety System"
 pillar link: |

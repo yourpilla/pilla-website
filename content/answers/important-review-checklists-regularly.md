@@ -1,9 +1,10 @@
 ---
 title: "Why is it important to review your checklists regularly?"
-meta: "Discover why regularly reviewing your kitchen checklists is crucial for maintaining safety and efficiency, and learn what triggers a checklist review."
+meta: |
+  Discover why regularly reviewing your kitchen checklists is crucial for maintaining safety and efficiency, and learn what triggers a checklist review.
 slug: "important-review-checklists-regularly"
 unique id: "1746609287201x318849071836565060"
-featured: "false"
+featured: false
 breadcrumb short: "Review"
 pillar text: "Food Safety System"
 pillar link: |

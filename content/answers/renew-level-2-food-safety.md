@@ -1,9 +1,10 @@
 ---
 title: "How often do I need to renew my Level 2 food safety certificate?"
-meta: "Discover how often Level 2 food hygiene certificates need renewing and how to track renewal dates using Pilla's Training activity. Stay compliant with food safety standards."
+meta: |
+  Discover how often Level 2 food hygiene certificates need renewing and how to track renewal dates using Pilla's Training activity. Stay compliant with food safety standards.
 slug: "renew-level-2-food-safety"
 unique id: "1734014563476x801136951025706200"
-featured: "false"
+featured: false
 breadcrumb short: "Level 2"
 pillar text: "Food Safety System"
 pillar link: |

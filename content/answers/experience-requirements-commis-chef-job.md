@@ -2,10 +2,11 @@
 title: |
   How can I set appropriate experience requirements for a Commis Chef job description?
   
-meta: "Learn how to set appropriate experience requirements for a Commis Chef, including prioritising relevant culinary experience over duration."
+meta: |
+  Learn how to set appropriate experience requirements for a Commis Chef, including prioritising relevant culinary experience over duration.
 slug: "experience-requirements-commis-chef-job"
 unique id: "1749803125788x785699920599842800"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

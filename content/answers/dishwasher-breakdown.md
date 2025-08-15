@@ -1,9 +1,10 @@
 ---
 title: "What should I do if the dishwasher breaks down during service?"
-meta: "Discover how to maintain the correct temperature in commercial dishwashers for optimal sanitation and food safety, and learn the necessary corrective actions."
+meta: |
+  Discover how to maintain the correct temperature in commercial dishwashers for optimal sanitation and food safety, and learn the necessary corrective actions.
 slug: "dishwasher-breakdown"
 unique id: "1743586900090x979073898934277400"
-featured: "false"
+featured: false
 breadcrumb short: "Breakdown"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What is a kitchen risk assessment in hospitality?"
-meta: "Explore the importance of conducting a kitchen risk assessment in hospitality to identify and manage unique hazards effectively."
+meta: |
+  Explore the importance of conducting a kitchen risk assessment in hospitality to identify and manage unique hazards effectively.
 slug: "kitchen-risk-assessment-hospitality"
 unique id: "1744799372653x806956111805522800"
-featured: "false"
+featured: false
 breadcrumb short: "What Is It"
 pillar text: "Health & Safety System"
 pillar link: |

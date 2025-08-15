@@ -1,9 +1,10 @@
 ---
 title: "What happens if I drop my food probe thermometer?"
-meta: "Learn what to do if you drop your food probe thermometer, how to test its accuracy, and the importance of cleaning it before testing."
+meta: |
+  Learn what to do if you drop your food probe thermometer, how to test its accuracy, and the importance of cleaning it before testing.
 slug: "drop-food-probe-thermometer-impact"
 unique id: "1734019668712x605693406275106000"
-featured: "false"
+featured: false
 breadcrumb short: "Dropped Probe"
 pillar text: "Food Safety System"
 pillar link: |

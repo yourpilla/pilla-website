@@ -1,9 +1,10 @@
 ---
 title: "What preferred skills should I mention in a Bar Supervisor job description?"
-meta: "Explore essential and preferred skills for a Bar Supervisor, including POS system expertise and knowledge of wines and spirits, to enhance job descriptions."
+meta: |
+  Explore essential and preferred skills for a Bar Supervisor, including POS system expertise and knowledge of wines and spirits, to enhance job descriptions.
 slug: "preferred-skills-bar-supervisor-job"
 unique id: "1748855896163x852660052150976500"
-featured: "false"
+featured: false
 breadcrumb short: "Preferred Skills"
 pillar text: "Job Descriptions"
 pillar link: |

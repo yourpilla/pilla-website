@@ -1,9 +1,10 @@
 ---
 title: "How do I know if meat is fresh when it arrives from a supplier?"
-meta: "Learn how to check meat deliveries for freshness, including key signs to look for and what to do if you notice any issues with the quality or temperature."
+meta: |
+  Learn how to check meat deliveries for freshness, including key signs to look for and what to do if you notice any issues with the quality or temperature.
 slug: "ensure-meat-freshness-upon-arrival"
 unique id: "1734097884257x711019932362801500"
-featured: "false"
+featured: false
 breadcrumb short: "Meat Fresh"
 pillar text: "Food Safety System"
 pillar link: |

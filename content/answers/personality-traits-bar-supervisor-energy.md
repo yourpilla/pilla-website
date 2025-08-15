@@ -1,9 +1,10 @@
 ---
 title: "What personality traits work well for a Bar Supervisor in a high-energy bar?"
-meta: "Explore the essential personality traits, energy levels, and communication skills needed for a Bar Supervisor to excel in a high-energy bar environment."
+meta: |
+  Explore the essential personality traits, energy levels, and communication skills needed for a Bar Supervisor to excel in a high-energy bar environment.
 slug: "personality-traits-bar-supervisor-energy"
 unique id: "1748855978095x983075776847675400"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

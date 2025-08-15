@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should I list in a Restaurant Manager in a job description?"
-meta: "Discover essential skills for a Restaurant Manager, including how to differentiate must-have from nice-to-have skills and align them with your restaurant's operational needs."
+meta: |
+  Discover essential skills for a Restaurant Manager, including how to differentiate must-have from nice-to-have skills and align them with your restaurant's operational needs.
 slug: "essential-skills-restaurant-manager-job"
 unique id: "1750065073388x395787675743289340"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What should I check on tins when they arrive from a food supplier?"
-meta: "Learn how to check tins during food deliveries, including what to look for and how long you can leave them out before storing them away. Use our free template to record your checks."
+meta: |
+  Learn how to check tins during food deliveries, including what to look for and how long you can leave them out before storing them away. Use our free template to record your checks.
 slug: "check-tins-from-supplier"
 unique id: "1734097894473x513678285198096800"
-featured: "false"
+featured: false
 breadcrumb short: "Tins"
 pillar text: "Food Safety System"
 pillar link: |

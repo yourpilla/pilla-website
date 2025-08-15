@@ -1,9 +1,10 @@
 ---
 title: "What are examples of typical Barback pre-service tasks?"
-meta: "Discover the essential pre-service tasks for Barbacks, including restocking, preparation, and setting up bar stations, to ensure efficient bar operations."
+meta: |
+  Discover the essential pre-service tasks for Barbacks, including restocking, preparation, and setting up bar stations, to ensure efficient bar operations.
 slug: "barback-pre-service-typical-tasks"
 unique id: "1747841008446x148449037077972500"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-Service Key Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

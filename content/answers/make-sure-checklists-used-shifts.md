@@ -1,9 +1,10 @@
 ---
 title: "How can you make sure checklists are actually used during shifts?"
-meta: "Discover how to effectively integrate checklists into daily shift routines to ensure their usage and improve operational consistency and accountability."
+meta: |
+  Discover how to effectively integrate checklists into daily shift routines to ensure their usage and improve operational consistency and accountability.
 slug: "make-sure-checklists-used-shifts"
 unique id: "1746609287201x580041502351895700"
-featured: "false"
+featured: false
 breadcrumb short: "Use"
 pillar text: "Food Safety System"
 pillar link: |

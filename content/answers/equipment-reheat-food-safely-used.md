@@ -1,9 +1,10 @@
 ---
 title: "What equipment should be used to reheat food safely?"
-meta: "Understand the required reheating temperatures for foods, how to use the Reheated Food Temperature Task Template, and corrective actions for non-compliance."
+meta: |
+  Understand the required reheating temperatures for foods, how to use the Reheated Food Temperature Task Template, and corrective actions for non-compliance.
 slug: "equipment-reheat-food-safely-used"
 unique id: "1744115592499x200547080460388380"
-featured: "false"
+featured: false
 breadcrumb short: "Equipment"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What pay and benefits should I detail in a Kitchen Porter job description?"
-meta: "Discover key insights on detailing pay, benefits, and perks in a Kitchen Porter job description to attract the right candidates."
+meta: |
+  Discover key insights on detailing pay, benefits, and perks in a Kitchen Porter job description to attract the right candidates.
 slug: "pay-benefits-kitchen-porter-job-detail"
 unique id: "1749723434206x112715377419223040"
-featured: "false"
+featured: false
 breadcrumb short: "Pay and Benefits"
 pillar text: "Job Interviews"
 pillar link: |

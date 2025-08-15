@@ -1,9 +1,10 @@
 ---
 title: "What are the main pre-service tasks I should include for a Kitchen Porter job description?"
-meta: "Discover the essential pre-service tasks for a Kitchen Porter, including setup responsibilities and the importance of detailed job descriptions."
+meta: |
+  Discover the essential pre-service tasks for a Kitchen Porter, including setup responsibilities and the importance of detailed job descriptions.
 slug: "main-pre-service-tasks-kitchen-porter"
 unique id: "1749723193735x911317543602880500"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-Service"
 pillar text: "Job Interviews"
 pillar link: |

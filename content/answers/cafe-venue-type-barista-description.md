@@ -1,9 +1,10 @@
 ---
 title: "How can I explain the type of cafe or venue we operate in a Barista job description?"
-meta: "Discover how to craft a compelling barista job description by clearly defining your cafe's type, service style, and unique role aspects to attract suitable candidates."
+meta: |
+  Discover how to craft a compelling barista job description by clearly defining your cafe's type, service style, and unique role aspects to attract suitable candidates.
 slug: "cafe-venue-type-barista-description"
 unique id: "1748534800135x601800190045206500"
-featured: "false"
+featured: false
 breadcrumb short: "Our Venue"
 pillar text: "Job Descriptions"
 pillar link: |

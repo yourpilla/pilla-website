@@ -1,9 +1,10 @@
 ---
 title: "How can I describe required personality traits in a Restaurant Duty Manager job description?"
-meta: "Discover how to effectively describe essential personality traits for a Restaurant Duty Manager, ensuring a perfect fit for your team and service style."
+meta: |
+  Discover how to effectively describe essential personality traits for a Restaurant Duty Manager, ensuring a perfect fit for your team and service style.
 slug: "required-personality-traits-restaurant-manager"
 unique id: "1750237190568x675362201261310000"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

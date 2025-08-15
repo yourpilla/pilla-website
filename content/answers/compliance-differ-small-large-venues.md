@@ -1,17 +1,21 @@
 ---
-title: "How does compliance differ between small and large venues under Martyn's Law?"
-meta: "Explore how Martyn's Law compliance requirements differ for small and large hospitality venues, focusing on security measures and emergency procedures."
+title: |
+  How does compliance differ between small and large venues under Martyn's Law?
+meta: |
+  Explore how Martyn's Law compliance requirements differ for small and large hospitality venues, focusing on security measures and emergency procedures.
 slug: "compliance-differ-small-large-venues"
 unique id: "1744633430857x653185527146895000"
-featured: "false"
+featured: false
 breadcrumb short: "Small vs large Venues"
 pillar text: "Health & Safety System"
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Martyn's Law"
+subpage text: |
+  Martyn's Law
 subpage link: |
   https://yourpilla.com/blog/martyns-law-hospitality
-blog: "How to Comply with Martyn's Law in Hospitality in the UK."
+blog: |
+  How to Comply with Martyn's Law in Hospitality in the UK.
 schema: |
   {
     "@context": "https://schema.org",

@@ -1,9 +1,10 @@
 ---
 title: "What kind of personality traits work well for a Hotel Receptionist?"
-meta: "Discover essential personality traits for hotel receptionists, how to define them clearly in job descriptions, and the key guest-facing behaviours to look for."
+meta: |
+  Discover essential personality traits for hotel receptionists, how to define them clearly in job descriptions, and the key guest-facing behaviours to look for.
 slug: "personality-traits-hotel-receptionist-work"
 unique id: "1748768543069x230492553965381470"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How much space should I leave between items in the fridge for good air circulation?"
-meta: "Learn how to properly store items in your fridge for optimal air circulation and food safety. Discover the ideal spacing between shelves and individual items."
+meta: |
+  Learn how to properly store items in your fridge for optimal air circulation and food safety. Discover the ideal spacing between shelves and individual items.
 slug: "space-between-items-air-circulation"
 unique id: "1732637351747x214171610234261020"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Item Space"
 pillar text: "Food Safety System"
 pillar link: |

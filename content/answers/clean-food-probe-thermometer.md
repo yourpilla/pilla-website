@@ -1,9 +1,11 @@
 ---
-title: "What's the proper way to clean a food probe thermometer?"
-meta: "Learn the proper way to clean and sanitise a food probe thermometer to prevent cross-contamination and ensure accurate temperature readings. Inspect for damage during cleaning."
+title: |
+  What's the proper way to clean a food probe thermometer?
+meta: |
+  Learn the proper way to clean and sanitise a food probe thermometer to prevent cross-contamination and ensure accurate temperature readings. Inspect for damage during cleaning.
 slug: "clean-food-probe-thermometer"
 unique id: "1734019663898x731775003404538500"
-featured: "false"
+featured: false
 breadcrumb short: "Cleaning Properly"
 pillar text: "Food Safety System"
 pillar link: |

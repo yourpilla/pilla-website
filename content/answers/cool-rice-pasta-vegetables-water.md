@@ -1,9 +1,10 @@
 ---
 title: "Can I use running cold water to cool rice, pasta, and vegetables?"
-meta: "Discover effective methods for cooling rice, pasta, and vegetables using cold water, including the importance of water temperature and agitation."
+meta: |
+  Discover effective methods for cooling rice, pasta, and vegetables using cold water, including the importance of water temperature and agitation.
 slug: "cool-rice-pasta-vegetables-water"
 unique id: "1748966431772x337378188580618240"
-featured: "false"
+featured: false
 breadcrumb short: "Col Water Flushing"
 pillar text: "Food Safety System"
 pillar link: |

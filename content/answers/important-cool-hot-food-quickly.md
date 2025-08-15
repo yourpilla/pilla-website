@@ -1,9 +1,10 @@
 ---
 title: "Is it important to cool hot food quickly to avoid bacterial growth?"
-meta: "Discover why rapid cooling of hot food is essential to prevent bacterial growth and toxin production, ensuring food safety and preventing illness."
+meta: |
+  Discover why rapid cooling of hot food is essential to prevent bacterial growth and toxin production, ensuring food safety and preventing illness.
 slug: "important-cool-hot-food-quickly"
 unique id: "1748966275344x598783752565424100"
-featured: "false"
+featured: false
 breadcrumb short: "Cooling Quickly"
 pillar text: "Food Safety System"
 pillar link: |

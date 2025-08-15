@@ -1,17 +1,20 @@
 ---
 title: "What post-service responsibilities should I include in a Head Waiter job description?"
-meta: "Discover the essential post-service responsibilities for a Head Waiter, including cleaning, inventory management, and staff debriefing to enhance restaurant operations."
+meta: |
+  Discover the essential post-service responsibilities for a Head Waiter, including cleaning, inventory management, and staff debriefing to enhance restaurant operations.
 slug: "head-waiter-job-description-responsibilities-1"
 unique id: "1749721747849x938147670001975300"
-featured: "false"
+featured: false
 breadcrumb short: "Post-Service"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

@@ -1,9 +1,10 @@
 ---
 title: "How do I identify hazards in my front of house risk assessment?"
-meta: "Discover effective strategies for identifying hazards in front-of-house areas during various service times, and learn about common misunderstandings in risk assessments."
+meta: |
+  Discover effective strategies for identifying hazards in front-of-house areas during various service times, and learn about common misunderstandings in risk assessments.
 slug: "identify-hazards-front-house-risk"
 unique id: "1744896519240x733363053796624600"
-featured: "false"
+featured: false
 breadcrumb short: "Hazards"
 pillar text: "Health & Safety System"
 pillar link: |

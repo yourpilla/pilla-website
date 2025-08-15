@@ -1,9 +1,11 @@
 ---
-title: "What should I include about training opportunities in a Restaurant Assistant Manager job description?"
-meta: "Explore key elements to include in a Restaurant Assistant Manager job description, focusing on training opportunities, growth potential, and professional development."
+title: |
+  What should I include about training opportunities in a Restaurant Assistant Manager job description?
+meta: |
+  Explore key elements to include in a Restaurant Assistant Manager job description, focusing on training opportunities, growth potential, and professional development.
 slug: "training-opportunities-restaurant-assistant-manager"
 unique id: "1750236164430x548895282580422660"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How should shellfish be cooled safely?"
-meta: "Learn effective cooling techniques for shellfish and other foods like pasta, rice, and vegetables to ensure food safety and prevent bacterial growth."
+meta: |
+  Learn effective cooling techniques for shellfish and other foods like pasta, rice, and vegetables to ensure food safety and prevent bacterial growth.
 slug: "shellfish-cooled-safely-how-should"
 unique id: "1748966372196x451547200308379650"
-featured: "false"
+featured: false
 breadcrumb short: "Shellfish"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How do I reflect my company culture in a Catering Assistant job description?"
-meta: "Discover how to effectively incorporate your company culture into a Catering Assistant job description to attract the right candidates."
+meta: |
+  Discover how to effectively incorporate your company culture into a Catering Assistant job description to attract the right candidates.
 slug: "company-culture-catering-assistant-job-description"
 unique id: "1748596461537x518064166572679740"
-featured: "false"
+featured: false
 breadcrumb short: "Culture"
 pillar text: "Job Descriptions"
 pillar link: |

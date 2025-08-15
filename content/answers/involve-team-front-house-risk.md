@@ -1,9 +1,10 @@
 ---
 title: "How can I involve my team in the front of house risk assessment?"
-meta: "Discover effective strategies for involving your front of house team in risk assessments to enhance safety and operational efficiency in hospitality."
+meta: |
+  Discover effective strategies for involving your front of house team in risk assessments to enhance safety and operational efficiency in hospitality.
 slug: "involve-team-front-house-risk"
 unique id: "1744896519240x145631689669596160"
-featured: "false"
+featured: false
 breadcrumb short: "Involvement"
 pillar text: "Health & Safety System"
 pillar link: |

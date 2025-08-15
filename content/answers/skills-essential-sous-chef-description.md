@@ -1,9 +1,10 @@
 ---
 title: "What skills are essential to include for a Sous Chef in our job description?"
-meta: "Discover essential skills for a Sous Chef job description, including leadership, culinary techniques, and how to differentiate must-have and nice-to-have skills."
+meta: |
+  Discover essential skills for a Sous Chef job description, including leadership, culinary techniques, and how to differentiate must-have and nice-to-have skills.
 slug: "skills-essential-sous-chef-description"
 unique id: "1749805199230x771144955004715000"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

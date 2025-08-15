@@ -1,9 +1,10 @@
 ---
 title: "What interview structure should I use for hiring a Barista?"
-meta: "Explore how to structure Barista interviews, decide on the interview length, and factors influencing the interview format."
+meta: |
+  Explore how to structure Barista interviews, decide on the interview length, and factors influencing the interview format.
 slug: "interview-structure-hiring-barista-use"
 unique id: "1747318595789x881401793080378600"
-featured: "false"
+featured: false
 breadcrumb short: "Structure"
 pillar text: "Job Interviews"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should I include in a Bar Supervisor job description?"
-meta: "Discover essential skills for a Bar Supervisor, including leadership, inventory control, and regulatory compliance, to enhance job descriptions effectively."
+meta: |
+  Discover essential skills for a Bar Supervisor, including leadership, inventory control, and regulatory compliance, to enhance job descriptions effectively.
 slug: "essential-skills-bar-supervisor-job"
 unique id: "1748855872930x219225351958298620"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

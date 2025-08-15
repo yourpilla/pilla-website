@@ -1,9 +1,10 @@
 ---
 title: "What tasks are handled by the Poissonier?"
-meta: "Discover the comprehensive role of a Poissonier, encompassing fish selection, butchering, cooking techniques, and perfecting sauces for exquisite fish dishes."
+meta: |
+  Discover the comprehensive role of a Poissonier, encompassing fish selection, butchering, cooking techniques, and perfecting sauces for exquisite fish dishes.
 slug: "tasks-handled-by-poissonier"
 unique id: "1745420497012x101022211655597220"
-featured: "false"
+featured: false
 breadcrumb short: "Poissonier (Fish Chef)"
 pillar text: "Job Descriptions"
 pillar link: |

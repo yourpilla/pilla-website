@@ -1,9 +1,10 @@
 ---
 title: "What does the Garde Manger prepare?"
-meta: "Explore the role of a Garde Manger, the importance of a Pantry Chef in a restaurant, and the essential skills required for this culinary position."
+meta: |
+  Explore the role of a Garde Manger, the importance of a Pantry Chef in a restaurant, and the essential skills required for this culinary position.
 slug: "garde-manger-prepare-what-does"
 unique id: "1745420497015x107534357964819800"
-featured: "false"
+featured: false
 breadcrumb short: "Garde Manger (Pantry Chef)"
 pillar text: "Job Descriptions"
 pillar link: |

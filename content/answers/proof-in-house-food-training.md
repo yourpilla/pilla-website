@@ -1,9 +1,11 @@
 ---
-title: "What proof do I need to show I've completed in-house food hygiene training?"
-meta: "Learn what proof you need to show for in-house food hygiene training, including digital records, certificates, and training matrices. Pilla helps track renewal dates."
+title: |
+  What proof do I need to show I've completed in-house food hygiene training?
+meta: |
+  Learn what proof you need to show for in-house food hygiene training, including digital records, certificates, and training matrices. Pilla helps track renewal dates.
 slug: "proof-in-house-food-training"
 unique id: "1734014568513x913951379432603500"
-featured: "false"
+featured: false
 breadcrumb short: "In-House Certificate"
 pillar text: "Food Safety System"
 pillar link: |

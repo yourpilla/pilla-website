@@ -1,9 +1,11 @@
 ---
-title: "What happens if we don't have another fridge to move food to during a breakdown?"
-meta: "Learn what to do if your fridge breaks down and you can't move food to another unit. Find out which foods are affected and how to document the incident correctly in Pilla."
+title: |
+  What happens if we don't have another fridge to move food to during a breakdown?
+meta: |
+  Learn what to do if your fridge breaks down and you can't move food to another unit. Find out which foods are affected and how to document the incident correctly in Pilla.
 slug: "no-fridge-food-breakdown-options"
 unique id: "1732637351762x839386587469218600"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Breakdown Move"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How do I encourage a culture of pride in FOH cleaning, not just compliance?"
-meta: "Discover effective strategies to foster a culture of pride in front-of-house cleaning among staff, ensuring high standards and positive guest experiences."
+meta: |
+  Discover effective strategies to foster a culture of pride in front-of-house cleaning among staff, ensuring high standards and positive guest experiences.
 slug: "encourage-culture-pride-foh-cleaning"
 unique id: "1746627231148x119612501518829860"
-featured: "false"
+featured: false
 breadcrumb short: "Culture"
 pillar text: "Daily Operations"
 pillar link: |

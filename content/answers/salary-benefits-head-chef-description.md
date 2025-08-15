@@ -1,9 +1,10 @@
 ---
 title: "What salary and benefits information should I make transparent in a Head Chef job description?"
-meta: "Discover key insights on crafting an effective Head Chef job description, including salary transparency, benefits, and the importance of mentioning bonuses."
+meta: |
+  Discover key insights on crafting an effective Head Chef job description, including salary transparency, benefits, and the importance of mentioning bonuses.
 slug: "salary-benefits-head-chef-description"
 unique id: "1750063388024x178602809909051400"
-featured: "false"
+featured: false
 breadcrumb short: "Pay and Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

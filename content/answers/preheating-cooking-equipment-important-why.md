@@ -1,9 +1,10 @@
 ---
 title: "Why is preheating cooking equipment important?"
-meta: "Discover the essential time and temperature combinations for safely cooking foods, and learn how to monitor and record temperatures to ensure food safety."
+meta: |
+  Discover the essential time and temperature combinations for safely cooking foods, and learn how to monitor and record temperatures to ensure food safety.
 slug: "preheating-cooking-equipment-important-why"
 unique id: "1743670469423x698565767579134600"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-heating"
 pillar text: "Food Safety System"
 pillar link: |

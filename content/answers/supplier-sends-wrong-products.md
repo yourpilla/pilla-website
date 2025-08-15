@@ -1,9 +1,10 @@
 ---
 title: "What if the food supplier sends different products than what we ordered?"
-meta: "Discover what to do when suppliers send incorrect products, including rejecting items, contacting suppliers, and maintaining proper documentation."
+meta: |
+  Discover what to do when suppliers send incorrect products, including rejecting items, contacting suppliers, and maintaining proper documentation.
 slug: "supplier-sends-wrong-products"
 unique id: "1734097894502x771565794490292500"
-featured: "false"
+featured: false
 breadcrumb short: "Difference"
 pillar text: "Food Safety System"
 pillar link: |

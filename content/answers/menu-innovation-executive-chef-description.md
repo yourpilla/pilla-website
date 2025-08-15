@@ -1,9 +1,10 @@
 ---
 title: "Should I include menu innovation play in an Executive Chef job description?"
-meta: "Explore why including menu innovation in an Executive Chef's job description is essential for fostering culinary creativity and aligning with dining trends."
+meta: |
+  Explore why including menu innovation in an Executive Chef's job description is essential for fostering culinary creativity and aligning with dining trends.
 slug: "menu-innovation-executive-chef-description"
 unique id: "1750064219496x220167820821659650"
-featured: "false"
+featured: false
 breadcrumb short: "Menu Innovation"
 pillar text: "Job Descriptions"
 pillar link: |

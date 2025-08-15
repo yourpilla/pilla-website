@@ -1,9 +1,10 @@
 ---
 title: "What post-service responsibilities should I include in a Bar Supervisor job description?"
-meta: "Learn about the essential post-service responsibilities for a Bar Supervisor, including closing procedures, reporting, and preparing the bar for the next day."
+meta: |
+  Learn about the essential post-service responsibilities for a Bar Supervisor, including closing procedures, reporting, and preparing the bar for the next day.
 slug: "bar-supervisor-job-post-service-responsibilities"
 unique id: "1748855853577x794263432030322700"
-featured: "false"
+featured: false
 breadcrumb short: "Post-Service"
 pillar text: "Job Descriptions"
 pillar link: |

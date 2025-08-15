@@ -1,9 +1,10 @@
 ---
 title: "How can I describe customer service expectations in a Catering Assistant job description?"
-meta: "Discover how to effectively outline customer service expectations in a Catering Assistant job description, ensuring candidates understand both kitchen and front-of-house roles."
+meta: |
+  Discover how to effectively outline customer service expectations in a Catering Assistant job description, ensuring candidates understand both kitchen and front-of-house roles.
 slug: "customer-service-catering-assistant-description"
 unique id: "1748596461538x960012617679002500"
-featured: "false"
+featured: false
 breadcrumb short: "Customer Service"
 pillar text: "Job Descriptions"
 pillar link: |

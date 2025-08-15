@@ -1,9 +1,11 @@
 ---
-title: "What's the procedure if the freezer breaks down?"
-meta: "Learn the proper procedure for handling food during a freezer breakdown, including what to discard, what can be saved, and how to document it all in Pilla."
+title: |
+  What's the procedure if the freezer breaks down?
+meta: |
+  Learn the proper procedure for handling food during a freezer breakdown, including what to discard, what can be saved, and how to document it all in Pilla.
 slug: "procedure-if-freezer-breaks-down"
 unique id: "1733824585672x403949758299094700"
-featured: "false"
+featured: false
 breadcrumb short: "Break Down"
 pillar text: "Food Safety System"
 pillar link: |

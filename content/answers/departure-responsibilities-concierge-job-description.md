@@ -1,9 +1,10 @@
 ---
 title: "What departure responsibilities should I incorporate into a Concierge job description?"
-meta: "Explore the key departure responsibilities for a concierge, including managing check-outs, handling feedback, and ensuring a memorable guest experience."
+meta: |
+  Explore the key departure responsibilities for a concierge, including managing check-outs, handling feedback, and ensuring a memorable guest experience.
 slug: "departure-responsibilities-concierge-job-description"
 unique id: "1748867376106x237790088222736400"
-featured: "false"
+featured: false
 breadcrumb short: "Departure Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

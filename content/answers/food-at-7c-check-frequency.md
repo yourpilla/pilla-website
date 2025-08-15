@@ -1,9 +1,10 @@
 ---
 title: "If food in the fridge is at 7°C, how often should we check it?"
-meta: "Learn what to do if your fridge temperature rises above 8C, including hourly monitoring, corrective actions, and documentation in Pilla for audit purposes."
+meta: |
+  Learn what to do if your fridge temperature rises above 8C, including hourly monitoring, corrective actions, and documentation in Pilla for audit purposes.
 slug: "food-at-7c-check-frequency"
 unique id: "1732637351602x123387502766928670"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Food 7°C"
 pillar text: "Food Safety System"
 pillar link: |

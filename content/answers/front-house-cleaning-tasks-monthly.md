@@ -1,9 +1,10 @@
 ---
 title: "Which FOH cleaning tasks should be done monthly?"
-meta: "Discover essential monthly FOH cleaning tasks for restaurants, debunking common myths about their necessity and impact on hygiene and aesthetics."
+meta: |
+  Discover essential monthly FOH cleaning tasks for restaurants, debunking common myths about their necessity and impact on hygiene and aesthetics.
 slug: "front-house-cleaning-tasks-monthly"
 unique id: "1746627231147x423093750645270340"
-featured: "false"
+featured: false
 breadcrumb short: "Monthly"
 pillar text: "Daily Operations"
 pillar link: |

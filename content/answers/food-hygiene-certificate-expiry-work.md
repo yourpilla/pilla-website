@@ -1,9 +1,11 @@
 ---
-title: "What happens if someone's food hygiene certificate expires - can they still work?"
-meta: "What happens if a food hygiene certificate expires? Staff can still work but must renew training ASAP. Online courses available for quick renewal."
+title: |
+  What happens if someone's food hygiene certificate expires - can they still work?
+meta: |
+  What happens if a food hygiene certificate expires? Staff can still work but must renew training ASAP. Online courses available for quick renewal.
 slug: "food-hygiene-certificate-expiry-work"
 unique id: "1734014563603x595631935925293000"
-featured: "false"
+featured: false
 breadcrumb short: "Expiration"
 pillar text: "Food Safety System"
 pillar link: |

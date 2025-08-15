@@ -1,9 +1,11 @@
 ---
-title: "What's the maximum time food can be above 8°C before we have to throw it away?"
-meta: "Learn about the 4-hour rule for food safety and what to do if food temperature exceeds 8C. Discover the stricter requirements for fresh fish and how to handle food between 6-8C."
+title: |
+  What's the maximum time food can be above 8°C before we have to throw it away?
+meta: |
+  Learn about the 4-hour rule for food safety and what to do if food temperature exceeds 8C. Discover the stricter requirements for fresh fish and how to handle food between 6-8C.
 slug: "food-above-8c-time-limit"
 unique id: "1732637336844x845767717807085300"
-featured: "false"
+featured: false
 breadcrumb short: "Food Over 8°C"
 pillar text: "Food Safety System"
 pillar link: |

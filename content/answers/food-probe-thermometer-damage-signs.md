@@ -1,9 +1,10 @@
 ---
 title: "How do I know if my food probe thermometer is damaged?"
-meta: "Learn how to spot signs of damage in your food probe thermometer and what steps to take if you suspect it's faulty. Includes tips on proper maintenance."
+meta: |
+  Learn how to spot signs of damage in your food probe thermometer and what steps to take if you suspect it's faulty. Includes tips on proper maintenance.
 slug: "food-probe-thermometer-damage-signs"
 unique id: "1734019664111x807757715247392500"
-featured: "false"
+featured: false
 breadcrumb short: "Damaged"
 pillar text: "Food Safety System"
 pillar link: |

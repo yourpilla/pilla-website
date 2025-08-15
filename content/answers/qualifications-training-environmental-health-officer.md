@@ -1,9 +1,10 @@
 ---
 title: "What qualifications and training does an Environmental Health Officer need? "
-meta: "Discover the specific qualifications and training required to become an Environmental Health Officer, including degree requirements and professional development."
+meta: |
+  Discover the specific qualifications and training required to become an Environmental Health Officer, including degree requirements and professional development.
 slug: "qualifications-training-environmental-health-officer"
 unique id: "1746109267528x443371652793182140"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,17 +1,20 @@
 ---
 title: "What benefits should I outline in a Head Waiter job description?"
-meta: "Discover how to craft a compelling Head Waiter job description by effectively outlining both monetary and non-monetary benefits to attract the right candidates."
+meta: |
+  Discover how to craft a compelling Head Waiter job description by effectively outlining both monetary and non-monetary benefits to attract the right candidates.
 slug: "benefits-head-waiter-job-description"
 unique id: "1749721883279x908423376760995800"
-featured: "false"
+featured: false
 breadcrumb short: "Benefits"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

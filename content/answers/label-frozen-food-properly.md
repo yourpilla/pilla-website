@@ -1,9 +1,10 @@
 ---
 title: "How do I label frozen food properly?"
-meta: "Learn how to properly label frozen food with production date, use-by date, and allergens. Discover tips for handling unlabelled items and freezing raw meat safely."
+meta: |
+  Learn how to properly label frozen food with production date, use-by date, and allergens. Discover tips for handling unlabelled items and freezing raw meat safely.
 slug: "label-frozen-food-properly"
 unique id: "1733824595108x181798287287402660"
-featured: "false"
+featured: false
 breadcrumb short: "Labelling"
 pillar text: "Food Safety System"
 pillar link: |

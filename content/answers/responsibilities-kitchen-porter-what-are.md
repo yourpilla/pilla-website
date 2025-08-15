@@ -1,9 +1,10 @@
 ---
 title: "What are the responsibilities of a Kitchen Porter?"
-meta: "Explore the key responsibilities of a Kitchen Porter, how they assist the chef team, and the differences between a Kitchen Porter and a Commis Chef."
+meta: |
+  Explore the key responsibilities of a Kitchen Porter, how they assist the chef team, and the differences between a Kitchen Porter and a Commis Chef.
 slug: "responsibilities-kitchen-porter-what-are"
 unique id: "1745420497014x699979671103381900"
-featured: "false"
+featured: false
 breadcrumb short: "Kitchen Porter"
 pillar text: "Job Descriptions"
 pillar link: |

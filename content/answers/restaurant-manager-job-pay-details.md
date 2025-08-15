@@ -1,9 +1,10 @@
 ---
 title: "What pay details need to be included in a Restaurant Manager job description?"
-meta: "Discover the importance of specifying salary details in a Restaurant Manager job description to attract the right candidates and ensure transparency."
+meta: |
+  Discover the importance of specifying salary details in a Restaurant Manager job description to attract the right candidates and ensure transparency.
 slug: "restaurant-manager-job-pay-details"
 unique id: "1750065128625x555394943575621600"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

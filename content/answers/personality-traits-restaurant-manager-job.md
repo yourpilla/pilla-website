@@ -1,9 +1,10 @@
 ---
 title: "How do I define the personality traits needed for a Restaurant Manager job description?"
-meta: "Learn how to define essential personality traits for a Restaurant Manager, ensuring they align with your restaurant's culture and operational style."
+meta: |
+  Learn how to define essential personality traits for a Restaurant Manager, ensuring they align with your restaurant's culture and operational style.
 slug: "personality-traits-restaurant-manager-job"
 unique id: "1750065111186x882531305502277600"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

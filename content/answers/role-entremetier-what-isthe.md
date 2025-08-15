@@ -1,9 +1,10 @@
 ---
 title: "What is the role of the Entremétier?"
-meta: "Explore the multifaceted role of the Entremétier, or Vegetable Chef, in professional kitchens, focusing on vegetables, soups, and egg dishes."
+meta: |
+  Explore the multifaceted role of the Entremétier, or Vegetable Chef, in professional kitchens, focusing on vegetables, soups, and egg dishes.
 slug: "role-entremetier-what-isthe"
 unique id: "1745420497013x674399499604641000"
-featured: "false"
+featured: false
 breadcrumb short: "Entremétier (Vegetable Chef)"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What preparation tasks should I include in a Commis Chef job description?"
-meta: "Discover essential tasks for Commis Chefs in preparation, service, and post-service cleaning to ensure efficient kitchen operations and hygiene standards."
+meta: |
+  Discover essential tasks for Commis Chefs in preparation, service, and post-service cleaning to ensure efficient kitchen operations and hygiene standards.
 slug: "commis-chef-job-preparation-tasks"
 unique id: "1749803087073x834340507823898600"
-featured: "false"
+featured: false
 breadcrumb short: "Preparation "
 pillar text: "Job Descriptions"
 pillar link: |

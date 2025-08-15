@@ -1,9 +1,10 @@
 ---
 title: "What venue-specific details can make Bartender job description stand out?"
-meta: "Discover how to create a standout bartender job description by incorporating unique venue-specific details, cocktail lists, and themes to attract the right candidates."
+meta: |
+  Discover how to create a standout bartender job description by incorporating unique venue-specific details, cocktail lists, and themes to attract the right candidates.
 slug: "bartender-job-description-venue-details"
 unique id: "1748429917193x255280554561505120"
-featured: "false"
+featured: false
 breadcrumb short: "Venue"
 pillar text: "Job Descriptions"
 pillar link: |

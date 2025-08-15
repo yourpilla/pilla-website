@@ -1,9 +1,10 @@
 ---
 title: "How do I include professional growth and training opportunities in a Bar Manager job description?"
-meta: "Learn how to effectively include training and professional growth opportunities in a Bar Manager job description to attract a broad range of candidates."
+meta: |
+  Learn how to effectively include training and professional growth opportunities in a Bar Manager job description to attract a broad range of candidates.
 slug: "professional-growth-training-bar-manager"
 unique id: "1748626151257x743306030893681000"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Job Descriptions"
 pillar link: |

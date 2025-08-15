@@ -1,9 +1,10 @@
 ---
 title: "What desirable or nice-to-have skills should I include in a Bar Manager job description?"
-meta: "Discover key desirable skills for a Bar Manager, including craft beer knowledge and event planning, to enhance your job description and attract top talent."
+meta: |
+  Discover key desirable skills for a Bar Manager, including craft beer knowledge and event planning, to enhance your job description and attract top talent.
 slug: "desirable-skills-bar-manager-description"
 unique id: "1748626151254x532975160895702500"
-featured: "false"
+featured: false
 breadcrumb short: "Desirable Skills"
 pillar text: "Job Descriptions"
 pillar link: |

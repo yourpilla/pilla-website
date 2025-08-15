@@ -1,9 +1,10 @@
 ---
 title: "How transparent should I be about pay and benefits for the Bar Manager role?"
-meta: "Discover the importance of transparency in disclosing salary and benefits for a Bar Manager role to attract the right candidates and set clear expectations."
+meta: |
+  Discover the importance of transparency in disclosing salary and benefits for a Bar Manager role to attract the right candidates and set clear expectations.
 slug: "transparent-pay-benefits-bar-manager"
 unique id: "1748626151254x516535833203674500"
-featured: "false"
+featured: false
 breadcrumb short: "Pay & Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

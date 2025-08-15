@@ -1,9 +1,10 @@
 ---
 title: "What are examples of benefits I can include in a Waiter/Waitress job description?"
-meta: "Explore effective benefits to include in waiter/waitress job descriptions to attract quality candidates, enhance job satisfaction, and improve retention."
+meta: |
+  Explore effective benefits to include in waiter/waitress job descriptions to attract quality candidates, enhance job satisfaction, and improve retention.
 slug: "benefits-waiter-waitress-job-description"
 unique id: "1748867927908x852258663019839500"
-featured: "false"
+featured: false
 breadcrumb short: "Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

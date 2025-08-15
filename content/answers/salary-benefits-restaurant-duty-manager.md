@@ -1,9 +1,10 @@
 ---
 title: "What salary and benefits should I state in a Restaurant Duty Manager job description?"
-meta: "Discover how to effectively specify salary, benefits, and bonus structures in a Restaurant Duty Manager job description to attract top candidates."
+meta: |
+  Discover how to effectively specify salary, benefits, and bonus structures in a Restaurant Duty Manager job description to attract top candidates.
 slug: "salary-benefits-restaurant-duty-manager"
 unique id: "1750237209802x225087924334231550"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What types of benefits should we include a Barback job description?"
-meta: "Explore effective benefits for Barbacks, including both monetary and non-monetary perks, and learn how these can attract and retain staff."
+meta: |
+  Explore effective benefits for Barbacks, including both monetary and non-monetary perks, and learn how these can attract and retain staff.
 slug: "benefits-include-barback-job-description"
 unique id: "1747841008450x519561364158294800"
-featured: "false"
+featured: false
 breadcrumb short: "Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What are examples of weekly and monthly kitchen cleaning tasks?"
-meta: "Discover essential weekly and monthly cleaning tasks for restaurants, including deep cleaning floors and sanitising less accessible areas to maintain hygiene."
+meta: |
+  Discover essential weekly and monthly cleaning tasks for restaurants, including deep cleaning floors and sanitising less accessible areas to maintain hygiene.
 slug: "examples-weekly-monthly-cleaning-tasks"
 unique id: "1746622446226x671173480358444200"
-featured: "false"
+featured: false
 breadcrumb short: "Weekly"
 pillar text: "Food Safety System"
 pillar link: |

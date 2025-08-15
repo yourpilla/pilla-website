@@ -1,9 +1,10 @@
 ---
 title: "What is a coffee machine risk assessment and why is it important?"
-meta: "Discover the importance of conducting a coffee machine risk assessment in hospitality to ensure safety, legal compliance, and prevent potential hazards."
+meta: |
+  Discover the importance of conducting a coffee machine risk assessment in hospitality to ensure safety, legal compliance, and prevent potential hazards.
 slug: "coffee-machine-risk-assessment-important"
 unique id: "1745226754640x164622301956232060"
-featured: "false"
+featured: false
 breadcrumb short: "Legality"
 pillar text: "Health & Safety System"
 pillar link: |

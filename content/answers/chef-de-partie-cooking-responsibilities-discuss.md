@@ -1,9 +1,10 @@
 ---
 title: "What should I discuss in the cooking responsibilities in a Chef de Partie job description?"
-meta: "Explore key responsibilities of a Chef de Partie, including dish preparation, kitchen team coordination, and maintaining high service standards."
+meta: |
+  Explore key responsibilities of a Chef de Partie, including dish preparation, kitchen team coordination, and maintaining high service standards.
 slug: "chef-de-partie-cooking-responsibilities-discuss"
 unique id: "1749803811121x311964499986612200"
-featured: "false"
+featured: false
 breadcrumb short: "Cooking"
 pillar text: "Job Descriptions"
 pillar link: |

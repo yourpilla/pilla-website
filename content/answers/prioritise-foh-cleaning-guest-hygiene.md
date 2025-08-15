@@ -1,9 +1,10 @@
 ---
 title: "How do I prioritise FOH cleaning tasks by guest visibility and hygiene risk?"
-meta: "Learn how to prioritise FOH cleaning tasks in a restaurant by guest visibility and hygiene risk, ensuring optimal cleanliness and safety."
+meta: |
+  Learn how to prioritise FOH cleaning tasks in a restaurant by guest visibility and hygiene risk, ensuring optimal cleanliness and safety.
 slug: "prioritise-foh-cleaning-guest-hygiene"
 unique id: "1746627231148x797293858735376400"
-featured: "false"
+featured: false
 breadcrumb short: "Priorities"
 pillar text: "Daily Operations"
 pillar link: |

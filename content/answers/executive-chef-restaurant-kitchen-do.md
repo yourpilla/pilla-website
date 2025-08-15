@@ -1,9 +1,10 @@
 ---
 title: "What does an Executive Chef do in a restaurant kitchen?"
-meta: "Explore the role of an Executive Chef, focusing on their managerial responsibilities, necessary skills, and distinctions from a Head Chef."
+meta: |
+  Explore the role of an Executive Chef, focusing on their managerial responsibilities, necessary skills, and distinctions from a Head Chef.
 slug: "executive-chef-restaurant-kitchen-do"
 unique id: "1745420497011x798442193345038100"
-featured: "false"
+featured: false
 breadcrumb short: "Executive Chef"
 pillar text: "Job Descriptions"
 pillar link: |

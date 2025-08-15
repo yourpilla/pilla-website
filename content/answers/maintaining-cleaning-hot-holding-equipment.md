@@ -1,9 +1,10 @@
 ---
 title: "How should hot holding equipment be maintained and cleaned?"
-meta: "Discover essential tips for maintaining and cleaning hot holding equipment to ensure food safety, including common misconceptions and necessary deep cleaning practices."
+meta: |
+  Discover essential tips for maintaining and cleaning hot holding equipment to ensure food safety, including common misconceptions and necessary deep cleaning practices.
 slug: "maintaining-cleaning-hot-holding-equipment"
 unique id: "1744190546780x592352550857575000"
-featured: "false"
+featured: false
 breadcrumb short: "Equipment Maintenance"
 pillar text: "Food Safety System"
 pillar link: |

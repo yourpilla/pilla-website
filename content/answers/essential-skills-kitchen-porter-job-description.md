@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should I include in a Kitchen Porter job description?"
-meta: "Discover essential skills for a Kitchen Porter job description, including physical stamina and teamwork, and learn to differentiate essential from preferred skills."
+meta: |
+  Discover essential skills for a Kitchen Porter job description, including physical stamina and teamwork, and learn to differentiate essential from preferred skills.
 slug: "essential-skills-kitchen-porter-job-description"
 unique id: "1749723324174x666452306762661900"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Interviews"
 pillar link: |

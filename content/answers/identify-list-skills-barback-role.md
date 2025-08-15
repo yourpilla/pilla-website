@@ -1,9 +1,10 @@
 ---
 title: "How do I identify and list the right skills for our Barback role?"
-meta: "Learn how to accurately identify and list essential skills for a Barback role, addressing common misconceptions about skills versus traits."
+meta: |
+  Learn how to accurately identify and list essential skills for a Barback role, addressing common misconceptions about skills versus traits.
 slug: "identify-list-skills-barback-role"
 unique id: "1747841008447x401153702826782000"
-featured: "false"
+featured: false
 breadcrumb short: "Right Skills"
 pillar text: "Job Descriptions"
 pillar link: |

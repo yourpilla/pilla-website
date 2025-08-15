@@ -1,9 +1,10 @@
 ---
 title: "What legal or compliance information belongs in a Bartender job description?"
-meta: "Explore essential legal and compliance details to include in a bartender job description, such as age limits, licensing, and mandatory safety training."
+meta: |
+  Explore essential legal and compliance details to include in a bartender job description, such as age limits, licensing, and mandatory safety training.
 slug: "legal-compliance-bartender-job-description"
 unique id: "1748429917193x851450468369604500"
-featured: "false"
+featured: false
 breadcrumb short: "Compliance"
 pillar text: "Job Descriptions"
 pillar link: |

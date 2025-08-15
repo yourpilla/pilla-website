@@ -1,9 +1,10 @@
 ---
 title: "What pay information should I include pay in a Barback job description?"
-meta: "Discover how to effectively include pay details in a Barback job description to attract suitable candidates and establish clear expectations."
+meta: |
+  Discover how to effectively include pay details in a Barback job description to attract suitable candidates and establish clear expectations.
 slug: "pay-information-include-barback-job"
 unique id: "1747841008450x660958195985391400"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

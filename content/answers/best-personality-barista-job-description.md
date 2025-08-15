@@ -1,9 +1,11 @@
 ---
-title: "What's the best way to describe our ideal personality in a Barista job description?"
-meta: "Discover how to effectively describe the ideal barista personality traits in a job description, ensuring a great fit with your café's team and service style."
+title: |
+  What's the best way to describe our ideal personality in a Barista job description?
+meta: |
+  Discover how to effectively describe the ideal barista personality traits in a job description, ensuring a great fit with your café's team and service style.
 slug: "best-personality-barista-job-description"
 unique id: "1748534800136x781568424970354600"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

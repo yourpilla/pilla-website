@@ -1,9 +1,10 @@
 ---
 title: "What does your food safety policy need to say about HACCP?"
-meta: "Explore the essential components of a food safety policy focused on HACCP, including commitment to principles, identification of CCPs, and compliance requirements."
+meta: |
+  Explore the essential components of a food safety policy focused on HACCP, including commitment to principles, identification of CCPs, and compliance requirements.
 slug: "food-safety-policy-haccp-need"
 unique id: "1746538990380x643425238674208100"
-featured: "false"
+featured: false
 breadcrumb short: "HACCP"
 pillar text: "Food Safety System"
 pillar link: |

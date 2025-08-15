@@ -1,9 +1,10 @@
 ---
 title: "How long can I keep meat in the freezer?"
-meta: "Learn how to properly freeze meat to maintain quality and what to do if your freezer breaks down, to ensure food safety."
+meta: |
+  Learn how to properly freeze meat to maintain quality and what to do if your freezer breaks down, to ensure food safety.
 slug: "keep-meat-in-freezer"
 unique id: "1733824585521x241157800054817570"
-featured: "false"
+featured: false
 breadcrumb short: "Meat"
 pillar text: "Food Safety System"
 pillar link: |

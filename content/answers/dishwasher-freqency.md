@@ -1,9 +1,10 @@
 ---
 title: "How often should dishwasher temperatures be checked and recorded?"
-meta: "Discover how to maintain the correct temperature in commercial dishwashers for optimal cleanliness and food safety, and learn the steps to take if issues arise."
+meta: |
+  Discover how to maintain the correct temperature in commercial dishwashers for optimal cleanliness and food safety, and learn the steps to take if issues arise.
 slug: "dishwasher-freqency"
 unique id: "1743586900089x524360296916559300"
-featured: "false"
+featured: false
 breadcrumb short: "Checking Frequency"
 pillar text: "Food Safety System"
 pillar link: |

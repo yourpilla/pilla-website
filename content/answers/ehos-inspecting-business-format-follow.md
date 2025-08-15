@@ -1,9 +1,10 @@
 ---
 title: "What format do EHOs follow when inspecting a business? "
-meta: "Understand how EHOs conduct inspections in hospitality businesses, focusing on food safety, premises' structure, and management systems."
+meta: |
+  Understand how EHOs conduct inspections in hospitality businesses, focusing on food safety, premises' structure, and management systems.
 slug: "ehos-inspecting-business-format-follow"
 unique id: "1746109267528x265493544528897280"
-featured: "false"
+featured: false
 breadcrumb short: "Inspecting"
 pillar text: "Food Safety System"
 pillar link: |

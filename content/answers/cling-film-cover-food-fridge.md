@@ -1,9 +1,10 @@
 ---
 title: "Can I use cling film to cover food in the display fridge?"
-meta: "Learn the do's and don'ts of covering food in display fridges to maintain food safety and prevent contamination."
+meta: |
+  Learn the do's and don'ts of covering food in display fridges to maintain food safety and prevent contamination.
 slug: "cling-film-cover-food-fridge"
 unique id: "1732637347042x724098642896342000"
-featured: "false"
+featured: false
 breadcrumb short: "Using Cling Film"
 pillar text: "Food Safety System"
 pillar link: |

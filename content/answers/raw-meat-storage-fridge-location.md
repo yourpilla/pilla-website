@@ -1,9 +1,10 @@
 ---
 title: "Where exactly should raw meat be stored in the fridge?"
-meta: "Learn where to store raw meat in the fridge to prevent contamination and ensure food safety. Discover best practices for defrosting and covering raw meat."
+meta: |
+  Learn where to store raw meat in the fridge to prevent contamination and ensure food safety. Discover best practices for defrosting and covering raw meat.
 slug: "raw-meat-storage-fridge-location"
 unique id: "1732637342185x121885788605962560"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Raw Meat"
 pillar text: "Food Safety System"
 pillar link: |

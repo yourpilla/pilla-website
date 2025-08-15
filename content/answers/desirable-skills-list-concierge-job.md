@@ -1,9 +1,10 @@
 ---
 title: "What desirable skills should I list for a Concierge job description?"
-meta: "Discover essential skills for a Concierge role, including strong communication, technical proficiency, multilingual capabilities, and local area knowledge."
+meta: |
+  Discover essential skills for a Concierge role, including strong communication, technical proficiency, multilingual capabilities, and local area knowledge.
 slug: "desirable-skills-list-concierge-job"
 unique id: "1748867428755x813229583446310900"
-featured: "false"
+featured: false
 breadcrumb short: "Desirable Skills"
 pillar text: "Job Descriptions"
 pillar link: |

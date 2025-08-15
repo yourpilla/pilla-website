@@ -1,9 +1,10 @@
 ---
 title: "What weekly FOH cleaning tasks should be scheduled to maintain hygiene standards?"
-meta: "Discover essential weekly FOH cleaning tasks for restaurants, including deep cleaning areas often overlooked, and best practices for scheduling and assigning these tasks."
+meta: |
+  Discover essential weekly FOH cleaning tasks for restaurants, including deep cleaning areas often overlooked, and best practices for scheduling and assigning these tasks.
 slug: "weekly-foh-cleaning-tasks-hygiene"
 unique id: "1746627231147x160580175308917540"
-featured: "false"
+featured: false
 breadcrumb short: "Weekly"
 pillar text: "Daily Operations"
 pillar link: |

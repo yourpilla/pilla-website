@@ -1,9 +1,10 @@
 ---
 title: "Does my coffee machine area need task lighting?"
-meta: "Discover the importance of task lighting for coffee machines, essential safety signage, and the recommended frequency for checks to ensure a safe working environment."
+meta: |
+  Discover the importance of task lighting for coffee machines, essential safety signage, and the recommended frequency for checks to ensure a safe working environment.
 slug: "coffee-machine-task-lighting-area"
 unique id: "1745226754641x272325406917240060"
-featured: "false"
+featured: false
 breadcrumb short: "Lighting and Signage"
 pillar text: "Health & Safety System"
 pillar link: |

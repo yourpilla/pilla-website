@@ -1,9 +1,10 @@
 ---
 title: "What equipment helps control front of house risks in hospitality?"
-meta: "Discover essential equipment for managing front of house risks in hospitality, including slip-resistant gear and sturdy trays, to enhance safety and efficiency."
+meta: |
+  Discover essential equipment for managing front of house risks in hospitality, including slip-resistant gear and sturdy trays, to enhance safety and efficiency.
 slug: "equipment-control-front-house-risks"
 unique id: "1744896519240x292106532504849100"
-featured: "false"
+featured: false
 breadcrumb short: "Equiment"
 pillar text: "Health & Safety System"
 pillar link: |

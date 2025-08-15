@@ -1,9 +1,10 @@
 ---
 title: "How should burgers be cooked to ensure food safety?"
-meta: "Discover essential food safety cooking temperatures and practices to prevent foodborne illnesses, including correct handling and equipment use."
+meta: |
+  Discover essential food safety cooking temperatures and practices to prevent foodborne illnesses, including correct handling and equipment use.
 slug: "burgers-cooked-ensure-food-safety"
 unique id: "1743670469428x216650976795877540"
-featured: "false"
+featured: false
 breadcrumb short: "Burgers"
 pillar text: "Food Safety System"
 pillar link: |

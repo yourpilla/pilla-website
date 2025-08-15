@@ -1,9 +1,10 @@
 ---
 title: "What essential skills are required for a Concierge job description in my venue?"
-meta: "Discover essential skills for a concierge role, including interpersonal abilities and technical proficiency with reservation systems, tailored to your venue's needs."
+meta: |
+  Discover essential skills for a concierge role, including interpersonal abilities and technical proficiency with reservation systems, tailored to your venue's needs.
 slug: "essential-skills-concierge-job-description"
 unique id: "1748867398775x936503673137659900"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

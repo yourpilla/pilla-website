@@ -1,9 +1,11 @@
 ---
-title: "What's the minimum use-by date we should accept on a food delivery?"
-meta: "Ensure food safety by checking use-by and best before dates on deliveries. Reject items with less than 5 days (use-by) or 1 month (best before) remaining."
+title: |
+  What's the minimum use-by date we should accept on a food delivery?
+meta: |
+  Ensure food safety by checking use-by and best before dates on deliveries. Reject items with less than 5 days (use-by) or 1 month (best before) remaining.
 slug: "minimum-use-by-date-food-delivery"
 unique id: "1734097900719x487462979394438500"
-featured: "false"
+featured: false
 breadcrumb short: "Use-By-Date"
 pillar text: "Food Safety System"
 pillar link: |

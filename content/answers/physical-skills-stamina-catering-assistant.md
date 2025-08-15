@@ -1,9 +1,10 @@
 ---
 title: "What physical skills or stamina should I include in a Catering Assistant job description?"
-meta: "Discover how to accurately outline the physical demands in a Catering Assistant job description to attract suitable candidates and comply with legal standards."
+meta: |
+  Discover how to accurately outline the physical demands in a Catering Assistant job description to attract suitable candidates and comply with legal standards.
 slug: "physical-skills-stamina-catering-assistant"
 unique id: "1748596461532x750151192207774200"
-featured: "false"
+featured: false
 breadcrumb short: "Physical Skills"
 pillar text: "Job Descriptions"
 pillar link: |

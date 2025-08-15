@@ -1,9 +1,10 @@
 ---
 title: "What should I include in the introduction of a Chef de Partie job description?"
-meta: "Discover how to craft an effective Chef de Partie job description, focusing on your restaurant's unique environment, culinary style, and core values to attract the right candidates."
+meta: |
+  Discover how to craft an effective Chef de Partie job description, focusing on your restaurant's unique environment, culinary style, and core values to attract the right candidates.
 slug: "include-chef-de-partie-introduction-job"
 unique id: "1749803773661x652492657855823900"
-featured: "false"
+featured: false
 breadcrumb short: "Introduction"
 pillar text: "Job Descriptions"
 pillar link: |

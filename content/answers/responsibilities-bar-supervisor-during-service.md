@@ -1,9 +1,10 @@
 ---
 title: "What responsibilities should I list for a Bar Supervisor during service?"
-meta: "Explore the diverse responsibilities of a Bar Supervisor during service, including staff management, customer satisfaction, and regulatory compliance."
+meta: |
+  Explore the diverse responsibilities of a Bar Supervisor during service, including staff management, customer satisfaction, and regulatory compliance.
 slug: "responsibilities-bar-supervisor-during-service"
 unique id: "1748855829376x690577681652121600"
-featured: "false"
+featured: false
 breadcrumb short: "Service"
 pillar text: "Job Descriptions"
 pillar link: |

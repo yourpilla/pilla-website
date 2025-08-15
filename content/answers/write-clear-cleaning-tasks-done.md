@@ -1,9 +1,10 @@
 ---
 title: "How do you write clear kitchen cleaning tasks that get done properly?"
-meta: "Discover how to write clear and effective cleaning tasks using the "What–How–When–Who" model to ensure tasks are completed accurately and efficiently."
+meta: |
+  Discover how to write clear and effective cleaning tasks using the "What–How–When–Who" model to ensure tasks are completed accurately and efficiently.
 slug: "write-clear-cleaning-tasks-done"
 unique id: "1746622446226x145249938435676260"
-featured: "false"
+featured: false
 breadcrumb short: "Instructions"
 pillar text: "Food Safety System"
 pillar link: |

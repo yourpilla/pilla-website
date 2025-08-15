@@ -1,9 +1,11 @@
 ---
-title: "What financial responsibilities should I include when writing a Hotel General Manager job description?"
-meta: "Explore the critical financial responsibilities to include in a Hotel General Manager job description, such as budgeting, cost control, and strategic financial planning."
+title: |
+  What financial responsibilities should I include when writing a Hotel General Manager job description?
+meta: |
+  Explore the critical financial responsibilities to include in a Hotel General Manager job description, such as budgeting, cost control, and strategic financial planning.
 slug: "financial-responsibilities-hotel-general-manager"
 unique id: "1750239658476x672521890140520400"
-featured: "false"
+featured: false
 breadcrumb short: "Financial Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

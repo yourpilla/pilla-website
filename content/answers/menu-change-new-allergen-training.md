@@ -1,9 +1,10 @@
 ---
 title: "If we change the menu, do we need to do new allergen training?"
-meta: "Ensure your staff are up to date with allergen training whenever your menu changes. Learn how to document these quick training sessions using Pilla."
+meta: |
+  Ensure your staff are up to date with allergen training whenever your menu changes. Learn how to document these quick training sessions using Pilla.
 slug: "menu-change-new-allergen-training"
 unique id: "1734014563443x696112809154422100"
-featured: "false"
+featured: false
 breadcrumb short: "Menu Change"
 pillar text: "Food Safety System"
 pillar link: |

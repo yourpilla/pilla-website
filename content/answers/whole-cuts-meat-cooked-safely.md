@@ -1,9 +1,10 @@
 ---
 title: "How should whole cuts of meat be cooked safely?"
-meta: "Ensure proper food safety by cooking foods to specific temperatures and times to eliminate bacteria, with guidelines on handling and equipment use."
+meta: |
+  Ensure proper food safety by cooking foods to specific temperatures and times to eliminate bacteria, with guidelines on handling and equipment use.
 slug: "whole-cuts-meat-cooked-safely"
 unique id: "1743670469427x877961128936662300"
-featured: "false"
+featured: false
 breadcrumb short: "Whole Cuts"
 pillar text: "Food Safety System"
 pillar link: |

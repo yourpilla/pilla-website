@@ -1,17 +1,21 @@
 ---
-title: "How should hospitality businesses train staff under Martyn's Law?"
-meta: "Explore training guidelines for hospitality staff under Martyn's Law, focusing on suspicious behaviour awareness and emergency procedures."
+title: |
+  How should hospitality businesses train staff under Martyn's Law?
+meta: |
+  Explore training guidelines for hospitality staff under Martyn's Law, focusing on suspicious behaviour awareness and emergency procedures.
 slug: "hospitality-businesses-train-staff-law"
 unique id: "1744633430850x291480292688021300"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Health & Safety System"
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Martyn's Law"
+subpage text: |
+  Martyn's Law
 subpage link: |
   https://yourpilla.com/blog/martyns-law-hospitality
-blog: "How to Comply with Martyn's Law in Hospitality in the UK."
+blog: |
+  How to Comply with Martyn's Law in Hospitality in the UK.
 schema: |
   {
     "@context": "https://schema.org",

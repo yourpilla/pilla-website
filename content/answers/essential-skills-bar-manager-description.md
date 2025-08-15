@@ -1,9 +1,10 @@
 ---
 title: "What essential skills should should I include in a Bar Manager job description?"
-meta: "Discover essential skills for a Bar Manager, including leadership, customer service, and inventory management, and how to effectively identify and describe them in a job description."
+meta: |
+  Discover essential skills for a Bar Manager, including leadership, customer service, and inventory management, and how to effectively identify and describe them in a job description.
 slug: "essential-skills-bar-manager-description"
 unique id: "1748626151254x901861816635132200"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

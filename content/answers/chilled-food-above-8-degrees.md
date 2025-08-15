@@ -1,9 +1,10 @@
 ---
 title: "What should I do if chilled food arrives above 8°C from a supplier?"
-meta: "Learn what to do if chilled food arrives above 8¬∞C from a supplier, including rejecting the delivery and documenting the issue in Pilla."
+meta: |
+  Learn what to do if chilled food arrives above 8¬∞C from a supplier, including rejecting the delivery and documenting the issue in Pilla.
 slug: "chilled-food-above-8-degrees"
 unique id: "1734097889794x634726057917574400"
-featured: "false"
+featured: false
 breadcrumb short: "Above 8C"
 pillar text: "Food Safety System"
 pillar link: |

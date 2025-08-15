@@ -1,9 +1,10 @@
 ---
 title: "How do you update and improve your kitchen cleaning schedule?"
-meta: "Discover how to effectively update and improve your hospitality business's cleaning schedule by involving team feedback and regularly reviewing cleaning practices."
+meta: |
+  Discover how to effectively update and improve your hospitality business's cleaning schedule by involving team feedback and regularly reviewing cleaning practices.
 slug: "cleaning-tasks-tools-improved-time"
 unique id: "1746622446228x959386829012037500"
-featured: "false"
+featured: false
 breadcrumb short: "Updating"
 pillar text: "Food Safety System"
 pillar link: |

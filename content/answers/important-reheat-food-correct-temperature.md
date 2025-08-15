@@ -1,9 +1,10 @@
 ---
 title: "Why is it important to reheat food to the correct temperature?"
-meta: "Learn about the required reheating temperatures for foods, how to monitor and record them, and corrective actions for non-compliance."
+meta: |
+  Learn about the required reheating temperatures for foods, how to monitor and record them, and corrective actions for non-compliance.
 slug: "important-reheat-food-correct-temperature"
 unique id: "1744115592500x788601097276885100"
-featured: "false"
+featured: false
 breadcrumb short: "Why"
 pillar text: "Food Safety System"
 pillar link: |

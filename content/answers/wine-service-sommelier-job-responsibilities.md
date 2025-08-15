@@ -1,9 +1,10 @@
 ---
 title: "What are typical wine service responsibilities in a sommelier job description?"
-meta: "Since the article content is marked as "null," there is no specific information provided to create a meta description. Please provide the article content for an accurate summary."
+meta: |
+  Since the article content is marked as "null," there is no specific information provided to create a meta description. Please provide the article content for an accurate summary.
 slug: "wine-service-sommelier-job-responsibilities"
 unique id: "1749719753891x159538137104908300"
-featured: "false"
+featured: false
 breadcrumb short: "Wine Service"
 pillar text: "Job Interviews"
 pillar link: |

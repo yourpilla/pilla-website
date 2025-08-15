@@ -1,9 +1,10 @@
 ---
 title: "What opportunities for advancement should be highlighted in a Chef de Partie job description?"
-meta: "Discover how to effectively outline career progression opportunities in a Chef de Partie job description, including promotions, skill development, and special projects."
+meta: |
+  Discover how to effectively outline career progression opportunities in a Chef de Partie job description, including promotions, skill development, and special projects.
 slug: "advancement-opportunities-chef-de-partie"
 unique id: "1749803928713x187532142489370620"
-featured: "false"
+featured: false
 breadcrumb short: "Career Growth"
 pillar text: "Job Descriptions"
 pillar link: |

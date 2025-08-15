@@ -1,9 +1,10 @@
 ---
 title: "How should your food safety policy address reviews and updates?"
-meta: "Discover the importance of regularly reviewing and updating your food safety policy to ensure compliance with new regulations and operational changes."
+meta: |
+  Discover the importance of regularly reviewing and updating your food safety policy to ensure compliance with new regulations and operational changes.
 slug: "food-safety-policy-reviews-updates"
 unique id: "1746538990380x677800790516276200"
-featured: "false"
+featured: false
 breadcrumb short: "Reviews"
 pillar text: "Food Safety System"
 pillar link: |

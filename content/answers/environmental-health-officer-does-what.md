@@ -1,9 +1,10 @@
 ---
 title: "What does an Environmental Health Officer do?"
-meta: "Discover the role of Environmental Health Officers in ensuring public health within the hospitality sector, including their inspection duties and powers."
+meta: |
+  Discover the role of Environmental Health Officers in ensuring public health within the hospitality sector, including their inspection duties and powers.
 slug: "environmental-health-officer-does-what"
 unique id: "1746109267527x936466138928877600"
-featured: "false"
+featured: false
 breadcrumb short: "Duties"
 pillar text: "Food Safety System"
 pillar link: |

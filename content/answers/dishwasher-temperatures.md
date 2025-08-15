@@ -1,9 +1,10 @@
 ---
 title: "How does hard water affect commercial dishwashers?"
-meta: "Learn how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and food safety, and what steps to take if issues arise."
+meta: |
+  Learn how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and food safety, and what steps to take if issues arise.
 slug: "dishwasher-temperatures"
 unique id: "1743586900087x934929461321076000"
-featured: "false"
+featured: false
 breadcrumb short: "Hard Water"
 pillar text: "Food Safety System"
 pillar link: |

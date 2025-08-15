@@ -1,9 +1,10 @@
 ---
 title: "What required experience should I include in a Catering Assistant job description?"
-meta: "Discover what experience to include in a Catering Assistant job description to ensure candidates match your service's specific needs."
+meta: |
+  Discover what experience to include in a Catering Assistant job description to ensure candidates match your service's specific needs.
 slug: "required-experience-include-catering-assistant"
 unique id: "1748596461532x576198460584785860"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

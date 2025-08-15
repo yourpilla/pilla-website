@@ -1,9 +1,10 @@
 ---
 title: "How should I communicate pay and benefits in a Executive Chef job description?"
-meta: "Explore effective strategies for communicating pay and benefits in an Executive Chef job description to attract top talent."
+meta: |
+  Explore effective strategies for communicating pay and benefits in an Executive Chef job description to attract top talent.
 slug: "communicate-pay-benefits-executive-chef"
 unique id: "1750064173045x370064115920011260"
-featured: "false"
+featured: false
 breadcrumb short: "Pay and Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

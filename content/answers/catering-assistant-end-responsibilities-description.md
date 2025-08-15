@@ -1,9 +1,10 @@
 ---
 title: "What end-of-shift responsibilities should be included in a Catering Assistant job description?"
-meta: "Explore essential end-of-shift responsibilities for Catering Assistants, including cleaning, restocking, and the importance of training for efficient operations."
+meta: |
+  Explore essential end-of-shift responsibilities for Catering Assistants, including cleaning, restocking, and the importance of training for efficient operations.
 slug: "catering-assistant-end-responsibilities-description"
 unique id: "1748596461531x864521069016295700"
-featured: "false"
+featured: false
 breadcrumb short: "End of Shift"
 pillar text: "Job Descriptions"
 pillar link: |

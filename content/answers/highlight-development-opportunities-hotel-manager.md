@@ -1,9 +1,10 @@
 ---
 title: "How can I highlight development opportunities in a Hotel General Manager job description?"
-meta: "Discover how to enhance a Hotel General Manager job description by highlighting development opportunities, appealing to candidates at all career stages."
+meta: |
+  Discover how to enhance a Hotel General Manager job description by highlighting development opportunities, appealing to candidates at all career stages.
 slug: "highlight-development-opportunities-hotel-manager"
 unique id: "1750240387480x739553016243028000"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

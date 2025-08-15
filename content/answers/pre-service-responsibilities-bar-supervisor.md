@@ -1,9 +1,10 @@
 ---
 title: "What pre-service responsibilities should I list in a Bar Supervisor job description?"
-meta: "Explore key pre-service responsibilities for Bar Supervisors, including inventory management and essential setup tasks, to ensure efficient bar operations."
+meta: |
+  Explore key pre-service responsibilities for Bar Supervisors, including inventory management and essential setup tasks, to ensure efficient bar operations.
 slug: "pre-service-responsibilities-bar-supervisor"
 unique id: "1748855806375x273138595990339600"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-Service"
 pillar text: "Job Descriptions"
 pillar link: |

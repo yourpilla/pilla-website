@@ -1,9 +1,10 @@
 ---
 title: "What specific experience level should be stated in a Chef de Partie job description?"
-meta: "Discover how to accurately specify experience levels and kitchen environment requirements in a Chef de Partie job description to attract suitable candidates."
+meta: |
+  Discover how to accurately specify experience levels and kitchen environment requirements in a Chef de Partie job description to attract suitable candidates.
 slug: "experience-level-chef-de-partie-job"
 unique id: "1749803871309x654304944364978200"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

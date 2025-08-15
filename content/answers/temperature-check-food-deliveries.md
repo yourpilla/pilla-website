@@ -1,9 +1,10 @@
 ---
 title: "Do I need to take temperatures between packages in food deliveries or can I pierce them?"
-meta: "Learn how to check food delivery temperatures correctly without compromising food safety, and what to do if temperatures are too high."
+meta: |
+  Learn how to check food delivery temperatures correctly without compromising food safety, and what to do if temperatures are too high.
 slug: "temperature-check-food-deliveries"
 unique id: "1734097894740x410093577687807000"
-featured: "false"
+featured: false
 breadcrumb short: "Delivery Temp"
 pillar text: "Food Safety System"
 pillar link: |

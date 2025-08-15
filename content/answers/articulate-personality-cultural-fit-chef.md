@@ -1,9 +1,10 @@
 ---
 title: "How can I articulate personality and cultural fit in a Head Chef job description?"
-meta: "Discover how to effectively describe personality and cultural fit in a Head Chef job description, avoiding vague terms and focusing on specific traits."
+meta: |
+  Discover how to effectively describe personality and cultural fit in a Head Chef job description, avoiding vague terms and focusing on specific traits.
 slug: "articulate-personality-cultural-fit-chef"
 unique id: "1750063366922x581800917267120100"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What experience levels should I specify in a Head Chef job description?"
-meta: "Discover how to effectively specify experience levels in a Head Chef job description, focusing on the relevance and quality of experience over duration."
+meta: |
+  Discover how to effectively specify experience levels in a Head Chef job description, focusing on the relevance and quality of experience over duration.
 slug: "experience-levels-head-chef-job"
 unique id: "1750063342989x345864424235466750"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

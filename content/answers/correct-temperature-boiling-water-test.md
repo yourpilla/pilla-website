@@ -1,9 +1,11 @@
 ---
-title: "What's the correct temperature reading for boiling water when testing a food probe thermometer?"
-meta: "Learn how to properly test your food probe thermometer in boiling water. The correct temperature reading should be between 99°C and 101°C. Follow these steps for accurate results."
+title: |
+  What's the correct temperature reading for boiling water when testing a food probe thermometer?
+meta: |
+  Learn how to properly test your food probe thermometer in boiling water. The correct temperature reading should be between 99°C and 101°C. Follow these steps for accurate results.
 slug: "correct-temperature-boiling-water-test"
 unique id: "1734019663903x942661327946382100"
-featured: "false"
+featured: false
 breadcrumb short: "Hot Temperature"
 pillar text: "Food Safety System"
 pillar link: |

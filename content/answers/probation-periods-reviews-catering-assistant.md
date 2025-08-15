@@ -1,9 +1,11 @@
 ---
-title: "Should I include information about probation periods or reviews in a Catering Assistant job description?"
-meta: "Discover the importance of including probation periods and performance reviews in a Catering Assistant job description for transparency and attracting growth-focused candidates."
+title: |
+  Should I include information about probation periods or reviews in a Catering Assistant job description?
+meta: |
+  Discover the importance of including probation periods and performance reviews in a Catering Assistant job description for transparency and attracting growth-focused candidates.
 slug: "probation-periods-reviews-catering-assistant"
 unique id: "1748596461538x639505333353321200"
-featured: "false"
+featured: false
 breadcrumb short: "Probation"
 pillar text: "Job Descriptions"
 pillar link: |

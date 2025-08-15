@@ -1,9 +1,10 @@
 ---
 title: "How can I cool food quicker using the surface area?"
-meta: "Discover how increasing the surface area of food can accelerate cooling, enhancing food safety by reducing the risk of bacterial growth."
+meta: |
+  Discover how increasing the surface area of food can accelerate cooling, enhancing food safety by reducing the risk of bacterial growth.
 slug: "cool-food-quicker-surface-area"
 unique id: "1748966341931x817031299671785500"
-featured: "false"
+featured: false
 breadcrumb short: "Surface Area"
 pillar text: "Food Safety System"
 pillar link: |

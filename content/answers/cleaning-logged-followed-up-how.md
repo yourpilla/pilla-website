@@ -1,9 +1,10 @@
 ---
 title: "How should kitchen cleaning be logged and followed up?"
-meta: "Discover how to effectively log and follow up on kitchen cleaning tasks in hospitality, ensuring high standards and accountability."
+meta: |
+  Discover how to effectively log and follow up on kitchen cleaning tasks in hospitality, ensuring high standards and accountability.
 slug: "cleaning-logged-followed-up-how"
 unique id: "1746622446226x356978925897472700"
-featured: "false"
+featured: false
 breadcrumb short: "Recording"
 pillar text: "Food Safety System"
 pillar link: |

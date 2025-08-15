@@ -1,9 +1,10 @@
 ---
 title: "How should I start writing a bartender job description?"
-meta: "Discover how to craft an effective bartender job description, focusing on setting the right tone with your bar's atmosphere and detailing specific responsibilities and skills."
+meta: |
+  Discover how to craft an effective bartender job description, focusing on setting the right tone with your bar's atmosphere and detailing specific responsibilities and skills.
 slug: "start-writing-bartender-job-description"
 unique id: "1748429917192x906915539657525600"
-featured: "false"
+featured: false
 breadcrumb short: "Pre Service Tasks"
 pillar text: "Job Descriptions"
 pillar link: |

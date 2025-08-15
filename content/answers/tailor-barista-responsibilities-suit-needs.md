@@ -1,9 +1,11 @@
 ---
-title: "How can I tailor Barista responsibilities to suit our venue's actual needs?"
-meta: "Discover how to tailor barista job descriptions to match the specific needs of your venue, ensuring operational efficiency and customer satisfaction."
+title: |
+  How can I tailor Barista responsibilities to suit our venue's actual needs?
+meta: |
+  Discover how to tailor barista job descriptions to match the specific needs of your venue, ensuring operational efficiency and customer satisfaction.
 slug: "tailor-barista-responsibilities-suit-needs"
 unique id: "1748534800135x736450868726025300"
-featured: "false"
+featured: false
 breadcrumb short: "Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

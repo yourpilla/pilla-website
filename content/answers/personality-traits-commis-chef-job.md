@@ -1,9 +1,10 @@
 ---
 title: "What personality traits are important in a Commis Chef job description?"
-meta: "Discover essential personality traits for Commis Chefs and how to effectively communicate these in your job descriptions to attract suitable candidates."
+meta: |
+  Discover essential personality traits for Commis Chefs and how to effectively communicate these in your job descriptions to attract suitable candidates.
 slug: "personality-traits-commis-chef-job"
 unique id: "1749803142135x877011738395410400"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

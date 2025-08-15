@@ -1,9 +1,10 @@
 ---
 title: "What pay and benefits information should I include in a Chef de Partie job description?"
-meta: "Explore essential guidance on including precise pay and benefits in a Chef de Partie job description to attract well-suited candidates."
+meta: |
+  Explore essential guidance on including precise pay and benefits in a Chef de Partie job description to attract well-suited candidates.
 slug: "chef-de-partie-job-pay-benefits"
 unique id: "1749803905595x170276529538072580"
-featured: "false"
+featured: false
 breadcrumb short: "Pay and Benefits"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What core responsibilities should I include in a Catering Assistant job description?"
-meta: "Explore the key responsibilities for a Catering Assistant, differences in pre-service duties in various settings, and the importance of clear task definitions."
+meta: |
+  Explore the key responsibilities for a Catering Assistant, differences in pre-service duties in various settings, and the importance of clear task definitions.
 slug: "core-responsibilities-catering-assistant-description"
 unique id: "1748596461531x140351235891051700"
-featured: "false"
+featured: false
 breadcrumb short: "Core Responsibilities"
 pillar text: "Job Descriptions"
 pillar link: |

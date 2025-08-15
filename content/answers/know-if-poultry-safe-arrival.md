@@ -1,9 +1,10 @@
 ---
 title: "How do I know if poultry is fresh when it arrives from a supplier?"
-meta: "Learn how to check poultry deliveries for freshness, including key characteristics to look for, what to do if unsure about quality, and the importance of temperature checks."
+meta: |
+  Learn how to check poultry deliveries for freshness, including key characteristics to look for, what to do if unsure about quality, and the importance of temperature checks.
 slug: "know-if-poultry-safe-arrival"
 unique id: "1734097884190x387360126385357440"
-featured: "false"
+featured: false
 breadcrumb short: "Poultry"
 pillar text: "Food Safety System"
 pillar link: |

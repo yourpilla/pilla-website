@@ -1,9 +1,10 @@
 ---
 title: "What are the safe cooking guidelines for poultry?"
-meta: "Discover the essential time and temperature combinations for safe cooking, and how to handle and monitor food to prevent contamination and ensure safety."
+meta: |
+  Discover the essential time and temperature combinations for safe cooking, and how to handle and monitor food to prevent contamination and ensure safety.
 slug: "safe-cooking-guidelines-poultry"
 unique id: "1743670469428x810977360405784200"
-featured: "false"
+featured: false
 breadcrumb short: "Poultry"
 pillar text: "Food Safety System"
 pillar link: |

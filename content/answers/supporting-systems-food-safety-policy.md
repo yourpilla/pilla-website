@@ -1,9 +1,10 @@
 ---
 title: "What supporting systems should be included in a food safety policy?"
-meta: "Explore the essential components of a food safety policy, including cleaning, pest control, and supplier checks, and their integration with HACCP plans."
+meta: |
+  Explore the essential components of a food safety policy, including cleaning, pest control, and supplier checks, and their integration with HACCP plans.
 slug: "supporting-systems-food-safety-policy"
 unique id: "1746538990380x168207953678749300"
-featured: "false"
+featured: false
 breadcrumb short: "Systems"
 pillar text: "Food Safety System"
 pillar link: |

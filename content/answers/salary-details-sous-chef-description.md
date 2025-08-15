@@ -1,9 +1,10 @@
 ---
 title: "What salary details should I provide in a Sous Chef job description?"
-meta: "Discover how to effectively detail salary, perks, and benefits in a Sous Chef job description to attract the right candidates."
+meta: |
+  Discover how to effectively detail salary, perks, and benefits in a Sous Chef job description to attract the right candidates.
 slug: "salary-details-sous-chef-description"
 unique id: "1749805258116x102172600471650300"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

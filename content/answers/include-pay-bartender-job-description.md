@@ -1,9 +1,10 @@
 ---
 title: "What should I include about pay in a Bartender job description?"
-meta: "Discover how to craft an effective bartender job description, including clear pay details, tipping structures, and perks to attract the right candidates."
+meta: |
+  Discover how to craft an effective bartender job description, including clear pay details, tipping structures, and perks to attract the right candidates.
 slug: "include-pay-bartender-job-description"
 unique id: "1748429917193x676835460974528000"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

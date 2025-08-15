@@ -1,17 +1,20 @@
 ---
 title: "What details should I include about pay in a Head Waiter job description?"
-meta: "Explore how to effectively outline salary, bonuses, and tips in a Head Waiter job description to attract suitable candidates."
+meta: |
+  Explore how to effectively outline salary, bonuses, and tips in a Head Waiter job description to attract suitable candidates.
 slug: "details-include-pay-head-waiter-job"
 unique id: "1749721865495x221041664947650560"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

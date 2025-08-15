@@ -1,9 +1,10 @@
 ---
 title: "What cooling records should I maintain in the kitchen?"
-meta: "Learn the importance of maintaining detailed cooling records in the kitchen for all food types, documenting blast chiller faults, and recording corrective actions."
+meta: |
+  Learn the importance of maintaining detailed cooling records in the kitchen for all food types, documenting blast chiller faults, and recording corrective actions.
 slug: "cooling-records-maintain-kitchen-should"
 unique id: "1748966667484x784312431839543300"
-featured: "false"
+featured: false
 breadcrumb short: "Records"
 pillar text: "Food Safety System"
 pillar link: |

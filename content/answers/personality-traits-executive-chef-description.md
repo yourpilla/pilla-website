@@ -1,9 +1,10 @@
 ---
 title: "What personality traits should I include in a Executive Chef job description?"
-meta: "Discover key personality traits and interpersonal skills to include in an Executive Chef job description to ensure a good fit with your kitchen's culture."
+meta: |
+  Discover key personality traits and interpersonal skills to include in an Executive Chef job description to ensure a good fit with your kitchen's culture.
 slug: "personality-traits-executive-chef-description"
 unique id: "1750064156838x662153553227808800"
-featured: "false"
+featured: false
 breadcrumb short: "Personality"
 pillar text: "Job Descriptions"
 pillar link: |

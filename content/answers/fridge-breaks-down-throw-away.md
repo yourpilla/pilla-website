@@ -1,9 +1,10 @@
 ---
 title: "If the fridge breaks down overnight, do we have to throw everything away?"
-meta: "Learn what to do if your fridge breaks down overnight, including how to properly document the incident using Pilla software to ensure food safety compliance."
+meta: |
+  Learn what to do if your fridge breaks down overnight, including how to properly document the incident using Pilla software to ensure food safety compliance.
 slug: "fridge-breaks-down-throw-away"
 unique id: "1732637347145x654181966716193400"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Broken Overnight"
 pillar text: "Food Safety System"
 pillar link: |

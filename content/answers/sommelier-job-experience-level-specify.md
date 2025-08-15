@@ -1,9 +1,10 @@
 ---
 title: "What experience level should I specify in a sommelier job description?"
-meta: "Discover how to specify the right experience level for a sommelier role, including common misconceptions about qualifications and the value of diverse experience."
+meta: |
+  Discover how to specify the right experience level for a sommelier role, including common misconceptions about qualifications and the value of diverse experience.
 slug: "sommelier-job-experience-level-specify"
 unique id: "1749719609289x831309636806901800"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Interviews"
 pillar link: |

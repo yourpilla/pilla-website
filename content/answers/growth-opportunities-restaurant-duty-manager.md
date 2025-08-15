@@ -1,9 +1,10 @@
 ---
 title: "What should I say about growth opportunities in a Restaurant Duty Manager job description?"
-meta: "Discover how to effectively highlight growth opportunities in a Restaurant Duty Manager job description to attract ambitious candidates."
+meta: |
+  Discover how to effectively highlight growth opportunities in a Restaurant Duty Manager job description to attract ambitious candidates.
 slug: "growth-opportunities-restaurant-duty-manager"
 unique id: "1750237262325x625132443044675600"
-featured: "false"
+featured: false
 breadcrumb short: "Growth Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

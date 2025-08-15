@@ -1,9 +1,10 @@
 ---
 title: "What opportunities for growth should I highlight in a Kitchen Porter job description?"
-meta: "Discover how to effectively outline growth opportunities in a Kitchen Porter job description to attract and retain motivated staff."
+meta: |
+  Discover how to effectively outline growth opportunities in a Kitchen Porter job description to attract and retain motivated staff.
 slug: "opportunities-growth-kitchen-porter-highlight"
 unique id: "1749723459616x919769409609793500"
-featured: "false"
+featured: false
 breadcrumb short: "Career Growth"
 pillar text: "Job Interviews"
 pillar link: |

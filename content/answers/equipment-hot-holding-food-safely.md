@@ -1,9 +1,10 @@
 ---
 title: "What equipment should be used for hot holding food safely?"
-meta: "Discover the right equipment for hot holding food safely, including bain-maries and hot holding cabinets, and learn why ovens and hobs aren't suitable for this purpose."
+meta: |
+  Discover the right equipment for hot holding food safely, including bain-maries and hot holding cabinets, and learn why ovens and hobs aren't suitable for this purpose.
 slug: "equipment-hot-holding-food-safely"
 unique id: "1744190546778x159930955189319780"
-featured: "false"
+featured: false
 breadcrumb short: "Hot Holding Equipment"
 pillar text: "Food Safety System"
 pillar link: |

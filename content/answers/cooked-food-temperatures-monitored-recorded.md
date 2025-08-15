@@ -1,9 +1,10 @@
 ---
 title: "How should cooked food temperatures be monitored and recorded?"
-meta: "Discover essential food safety practices, including correct cooking temperatures and handling guidelines to prevent contamination and ensure meals are safe to consume."
+meta: |
+  Discover essential food safety practices, including correct cooking temperatures and handling guidelines to prevent contamination and ensure meals are safe to consume.
 slug: "cooked-food-temperatures-monitored-recorded"
 unique id: "1743670469423x257747307593127800"
-featured: "false"
+featured: false
 breadcrumb short: "How"
 pillar text: "Food Safety System"
 pillar link: |

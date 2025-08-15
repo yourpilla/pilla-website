@@ -1,9 +1,10 @@
 ---
 title: "What level of experience should be required in a Waiter/Waitress job description?"
-meta: "Explore how to accurately define experience levels in waiter/waitress job descriptions to attract qualified candidates and enhance staff training."
+meta: |
+  Explore how to accurately define experience levels in waiter/waitress job descriptions to attract qualified candidates and enhance staff training.
 slug: "experience-required-waiter-waitress-job"
 unique id: "1748867860886x929276461518159900"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How long can we keep batch-cooked food in the fridge?"
-meta: "Discover how long batch-cooked food can be safely stored in the fridge or freezer, and learn the proper procedures for covering and labelling to prevent contamination."
+meta: |
+  Discover how long batch-cooked food can be safely stored in the fridge or freezer, and learn the proper procedures for covering and labelling to prevent contamination.
 slug: "keep-batch-cooked-food-fridge"
 unique id: "1732637347060x156236054758772220"
-featured: "false"
+featured: false
 breadcrumb short: "Batch-Cook Cooling"
 pillar text: "Food Safety System"
 pillar link: |

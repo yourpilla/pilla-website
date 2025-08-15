@@ -1,9 +1,10 @@
 ---
 title: "What pay details should I include in a Bar Supervisor job description?"
-meta: "Discover key elements to include in a Bar Supervisor job description, such as specific salary ranges, benefits, and the importance of transparency in compensation."
+meta: |
+  Discover key elements to include in a Bar Supervisor job description, such as specific salary ranges, benefits, and the importance of transparency in compensation.
 slug: "pay-details-bar-supervisor-job"
 unique id: "1748856015700x724523260129050600"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Descriptions"
 pillar link: |

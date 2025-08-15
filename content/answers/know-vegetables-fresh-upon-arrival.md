@@ -1,9 +1,10 @@
 ---
 title: "How do I know if vegetables are fresh when it arrives from a supplier?"
-meta: "Learn how to check the freshness of vegetables when they arrive from suppliers and what to do if they aren't fresh. Ensure proper storage and record any issues in Pilla."
+meta: |
+  Learn how to check the freshness of vegetables when they arrive from suppliers and what to do if they aren't fresh. Ensure proper storage and record any issues in Pilla.
 slug: "know-vegetables-fresh-upon-arrival"
 unique id: "1734097889754x138645912222288060"
-featured: "false"
+featured: false
 breadcrumb short: "Vegetables"
 pillar text: "Food Safety System"
 pillar link: |

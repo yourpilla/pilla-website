@@ -1,9 +1,10 @@
 ---
 title: "How can I use a convection oven for cooling hot food?"
-meta: "Discover how to use a convection oven for cooling hot food, including the importance of further reducing food temperature in a fridge to ensure safety."
+meta: |
+  Discover how to use a convection oven for cooling hot food, including the importance of further reducing food temperature in a fridge to ensure safety.
 slug: "use-convection-oven-cooling-food"
 unique id: "1748966461286x703688125488300000"
-featured: "false"
+featured: false
 breadcrumb short: "Convection Oven"
 pillar text: "Food Safety System"
 pillar link: |

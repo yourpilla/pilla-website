@@ -1,9 +1,10 @@
 ---
 title: "What details should I include about my kitchen environment in a Sous Chef job description?"
-meta: "Discover how to craft an effective Sous Chef job description, highlighting your kitchen's unique environment, pace, and cuisine to attract the right candidates."
+meta: |
+  Discover how to craft an effective Sous Chef job description, highlighting your kitchen's unique environment, pace, and cuisine to attract the right candidates.
 slug: "details-kitchen-environment-sous-chef"
 unique id: "1749805151833x429611302573834200"
-featured: "false"
+featured: false
 breadcrumb short: "Environment"
 pillar text: "Job Descriptions"
 pillar link: |

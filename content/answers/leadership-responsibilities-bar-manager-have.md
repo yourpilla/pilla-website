@@ -1,9 +1,10 @@
 ---
 title: "What kind of leadership responsibilities should a Bar Manager have?"
-meta: "Explore the key leadership responsibilities of a Bar Manager, including team motivation, staff development, and maintaining high service standards."
+meta: |
+  Explore the key leadership responsibilities of a Bar Manager, including team motivation, staff development, and maintaining high service standards.
 slug: "leadership-responsibilities-bar-manager-have"
 unique id: "1748626151254x546069755138531800"
-featured: "false"
+featured: false
 breadcrumb short: "Leadership"
 pillar text: "Job Descriptions"
 pillar link: |

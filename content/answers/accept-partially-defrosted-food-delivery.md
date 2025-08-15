@@ -1,9 +1,10 @@
 ---
 title: "If frozen food looks partially defrosted, can I still accept the food delivery?"
-meta: "Learn what to do if frozen food deliveries show signs of defrosting. Reject items above -15¬įC and contact your supplier. Use Pilla to record delivery checks."
+meta: |
+  Learn what to do if frozen food deliveries show signs of defrosting. Reject items above -15¬įC and contact your supplier. Use Pilla to record delivery checks.
 slug: "accept-partially-defrosted-food-delivery"
 unique id: "1734097899958x689286754551883300"
-featured: "false"
+featured: false
 breadcrumb short: "Partially Defrost"
 pillar text: "Food Safety System"
 pillar link: |

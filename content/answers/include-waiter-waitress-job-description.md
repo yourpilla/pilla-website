@@ -1,9 +1,10 @@
 ---
 title: "What should I include in the introduction section of a Waiter/Waitress job description?"
-meta: "Discover essential tips for crafting an engaging Waiter/Waitress job description, focusing on restaurant atmosphere, team culture, and dining experience."
+meta: |
+  Discover essential tips for crafting an engaging Waiter/Waitress job description, focusing on restaurant atmosphere, team culture, and dining experience.
 slug: "include-waiter-waitress-job-description"
 unique id: "1748867739082x104999133667393540"
-featured: "false"
+featured: false
 breadcrumb short: "Introduction"
 pillar text: "Job Descriptions"
 pillar link: |

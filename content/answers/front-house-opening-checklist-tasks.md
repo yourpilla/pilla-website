@@ -1,9 +1,10 @@
 ---
 title: "What tasks should be included in a front of house opening checklist?"
-meta: "Discover essential tasks for a front of house opening checklist, including preparing outdoor areas, entrance, dining spaces, and maintaining cleanliness and functionality throughout the day."
+meta: |
+  Discover essential tasks for a front of house opening checklist, including preparing outdoor areas, entrance, dining spaces, and maintaining cleanliness and functionality throughout the day.
 slug: "front-house-opening-checklist-tasks"
 unique id: "1746611300643x540565330740909800"
-featured: "false"
+featured: false
 breadcrumb short: "Tasks"
 pillar text: "Daily Operations"
 pillar link: |

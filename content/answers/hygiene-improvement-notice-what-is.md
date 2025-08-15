@@ -1,9 +1,10 @@
 ---
 title: "What is a Hygiene Improvement Notice? "
-meta: "Understand what a Hygiene Improvement Notice is, when it's issued, and the legal requirements for food businesses to comply."
+meta: |
+  Understand what a Hygiene Improvement Notice is, when it's issued, and the legal requirements for food businesses to comply.
 slug: "hygiene-improvement-notice-what-is"
 unique id: "1746109267529x636937649358549600"
-featured: "false"
+featured: false
 breadcrumb short: "Improvement Notice"
 pillar text: "Food Safety System"
 pillar link: |

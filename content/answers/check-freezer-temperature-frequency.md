@@ -1,9 +1,10 @@
 ---
 title: "How often should I check the freezer temperature?"
-meta: "Check and record freezer temperatures twice daily to maintain the ideal -18C (0F) or below. Use Pilla's pre-built task for proper record-keeping."
+meta: |
+  Check and record freezer temperatures twice daily to maintain the ideal -18C (0F) or below. Use Pilla's pre-built task for proper record-keeping.
 slug: "check-freezer-temperature-frequency"
 unique id: "1733824580203x111952485805647540"
-featured: "false"
+featured: false
 breadcrumb short: "Checks"
 pillar text: "Food Safety System"
 pillar link: |

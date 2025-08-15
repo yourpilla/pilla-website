@@ -1,9 +1,10 @@
 ---
 title: "What should your food safety policy say about staff training?"
-meta: "Explore the importance of continuous staff training and supervision in your food safety policy, including key topics and common misconceptions."
+meta: |
+  Explore the importance of continuous staff training and supervision in your food safety policy, including key topics and common misconceptions.
 slug: "food-safety-policy-staff-training"
 unique id: "1746538990380x102621958127048450"
-featured: "false"
+featured: false
 breadcrumb short: "Training"
 pillar text: "Food Safety System"
 pillar link: |

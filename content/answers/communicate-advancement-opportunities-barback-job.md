@@ -1,9 +1,10 @@
 ---
 title: "How should we communicate opportunities for advancement in a Barback job description?"
-meta: "Discover how to effectively communicate career advancement opportunities in a Barback job description, including training and realistic growth pathways."
+meta: |
+  Discover how to effectively communicate career advancement opportunities in a Barback job description, including training and realistic growth pathways.
 slug: "communicate-advancement-opportunities-barback-job"
 unique id: "1747841008450x105643894170690100"
-featured: "false"
+featured: false
 breadcrumb short: "Opportunities"
 pillar text: "Job Descriptions"
 pillar link: |

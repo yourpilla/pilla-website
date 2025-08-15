@@ -1,9 +1,10 @@
 ---
 title: "If the power goes out, how long will food stay frozen?"
-meta: "Learn what to do with frozen food during a power outage. Find out how long it stays safe and when to discard it for quality and safety reasons."
+meta: |
+  Learn what to do with frozen food during a power outage. Find out how long it stays safe and when to discard it for quality and safety reasons.
 slug: "power-outage-food-stay-frozen"
 unique id: "1733824589762x466432242225067700"
-featured: "false"
+featured: false
 breadcrumb short: "Power Outage"
 pillar text: "Food Safety System"
 pillar link: |

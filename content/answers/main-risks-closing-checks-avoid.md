@@ -1,9 +1,10 @@
 ---
 title: "What are the main risks closing checks should help you avoid?"
-meta: "Explore the importance of kitchen closing checks to prevent food spoilage, pest infestations, and fire hazards, and learn why thorough bin cleaning is crucial."
+meta: |
+  Explore the importance of kitchen closing checks to prevent food spoilage, pest infestations, and fire hazards, and learn why thorough bin cleaning is crucial.
 slug: "main-risks-closing-checks-avoid"
 unique id: "1746609287201x831652288323456900"
-featured: "false"
+featured: false
 breadcrumb short: "Closing Risks"
 pillar text: "Food Safety System"
 pillar link: |

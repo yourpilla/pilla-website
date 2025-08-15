@@ -1,9 +1,11 @@
 ---
-title: "How do I define what I'm looking for in a Barista?"
-meta: "Learn how to define essential and desirable traits for a Barista, and why using a requirements table can streamline your hiring process."
+title: |
+  How do I define what I'm looking for in a Barista?
+meta: |
+  Learn how to define essential and desirable traits for a Barista, and why using a requirements table can streamline your hiring process.
 slug: "define-looking-for-barista"
 unique id: "1747318595789x923834122477418200"
-featured: "false"
+featured: false
 breadcrumb short: "Candidate "
 pillar text: "Job Interviews"
 pillar link: |

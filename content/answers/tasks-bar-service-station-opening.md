@@ -1,9 +1,10 @@
 ---
 title: "What specific tasks should be completed at the bar or service station before opening?"
-meta: "Learn essential pre-opening tasks for bars to ensure smooth operations, including cleaning, stocking, and checking electronic systems."
+meta: |
+  Learn essential pre-opening tasks for bars to ensure smooth operations, including cleaning, stocking, and checking electronic systems.
 slug: "tasks-bar-service-station-opening"
 unique id: "1746611300644x612782380060905600"
-featured: "false"
+featured: false
 breadcrumb short: "Bar"
 pillar text: "Daily Operations"
 pillar link: |

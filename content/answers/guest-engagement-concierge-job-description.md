@@ -2,10 +2,11 @@
 title: |
   What daily guest engagement responsibilities should be included in a Concierge job description?
   
-meta: "Explore the essential daily guest engagement duties for a Concierge, including organising transportation, making reservations, and handling queries to enhance guest experiences."
+meta: |
+  Explore the essential daily guest engagement duties for a Concierge, including organising transportation, making reservations, and handling queries to enhance guest experiences.
 slug: "guest-engagement-concierge-job-description"
 unique id: "1748867343044x243861950407114750"
-featured: "false"
+featured: false
 breadcrumb short: "Guest Responsibilities "
 pillar text: "Job Descriptions"
 pillar link: |

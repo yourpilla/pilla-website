@@ -1,9 +1,10 @@
 ---
 title: "What skills are essential to include in an Executive Chef a job description?"
-meta: "Discover the essential and desirable skills to include in an Executive Chef job description to ensure operational success and innovation in your kitchen."
+meta: |
+  Discover the essential and desirable skills to include in an Executive Chef job description to ensure operational success and innovation in your kitchen.
 slug: "essential-skills-executive-chef-description"
 unique id: "1750064118782x535027310861746200"
-featured: "false"
+featured: false
 breadcrumb short: "Essential Skills"
 pillar text: "Job Descriptions"
 pillar link: |

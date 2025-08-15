@@ -1,9 +1,10 @@
 ---
 title: "What operational management skills should I include in a Hotel General Manager job description?"
-meta: "Explore essential operational management skills for a Hotel General Manager, including crisis handling, facility oversight, and ensuring guest satisfaction."
+meta: |
+  Explore essential operational management skills for a Hotel General Manager, including crisis handling, facility oversight, and ensuring guest satisfaction.
 slug: "operational-management-skills-hotel-manager"
 unique id: "1750240405741x299756802590638100"
-featured: "false"
+featured: false
 breadcrumb short: "Management Skills"
 pillar text: "Job Descriptions"
 pillar link: |

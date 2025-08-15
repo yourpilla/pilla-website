@@ -1,9 +1,10 @@
 ---
 title: "What opportunities for growth should I mention in a Bar Supervisor job description?"
-meta: "Explore how to craft a Bar Supervisor job description that highlights career progression, training opportunities, and common misconceptions to attract top talent."
+meta: |
+  Explore how to craft a Bar Supervisor job description that highlights career progression, training opportunities, and common misconceptions to attract top talent.
 slug: "opportunities-growth-bar-supervisor-job"
 unique id: "1748856048378x357424617772285950"
-featured: "false"
+featured: false
 breadcrumb short: "Career"
 pillar text: "Job Descriptions"
 pillar link: |

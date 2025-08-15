@@ -1,9 +1,10 @@
 ---
 title: "How should opening checks be structured for best results?"
-meta: "Discover how to structure effective opening checks in kitchens by aligning them with the natural workflow, tailoring to specific needs, and organising by zone for efficiency."
+meta: |
+  Discover how to structure effective opening checks in kitchens by aligning them with the natural workflow, tailoring to specific needs, and organising by zone for efficiency.
 slug: "opening-checks-structured-best-results"
 unique id: "1746609287200x932286052284982300"
-featured: "false"
+featured: false
 breadcrumb short: "Structured"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What kind of soft skills are most helpful in barista roles?"
-meta: "Discover essential soft skills for baristas, including communication and teamwork, and learn how they enhance customer service and cafe operations."
+meta: |
+  Discover essential soft skills for baristas, including communication and teamwork, and learn how they enhance customer service and cafe operations.
 slug: "soft-skills-helpful-barista-roles"
 unique id: "1748534800138x322813281798778560"
-featured: "false"
+featured: false
 breadcrumb short: "Soft Skills"
 pillar text: "Job Descriptions"
 pillar link: |

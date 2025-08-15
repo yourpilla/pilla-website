@@ -1,9 +1,10 @@
 ---
 title: "What financial duties should a Restaurant Manager job description include?"
-meta: "Discover the essential financial responsibilities for a Restaurant Manager, including budget management, profitability monitoring, and strategic financial planning."
+meta: |
+  Discover the essential financial responsibilities for a Restaurant Manager, including budget management, profitability monitoring, and strategic financial planning.
 slug: "financial-duties-restaurant-manager-description"
 unique id: "1750065054073x159481881243418620"
-featured: "false"
+featured: false
 breadcrumb short: "Financial"
 pillar text: "Job Descriptions"
 pillar link: |

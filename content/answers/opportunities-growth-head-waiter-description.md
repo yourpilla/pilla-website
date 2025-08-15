@@ -1,17 +1,20 @@
 ---
 title: "What opportunities for growth should I mention in a Head Waiter job description?"
-meta: "Discover how to effectively outline growth opportunities in a Head Waiter job description to attract and retain ambitious candidates."
+meta: |
+  Discover how to effectively outline growth opportunities in a Head Waiter job description to attract and retain ambitious candidates.
 slug: "opportunities-growth-head-waiter-description"
 unique id: "1749721903626x966548572712730600"
-featured: "false"
+featured: false
 breadcrumb short: "Career Growth"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

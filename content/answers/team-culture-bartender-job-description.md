@@ -1,9 +1,10 @@
 ---
 title: "How can I describe my team culture in a Bartender job description?"
-meta: "Discover how to accurately describe your team culture in a bartender job description to attract the right candidates, including the importance of team activities."
+meta: |
+  Discover how to accurately describe your team culture in a bartender job description to attract the right candidates, including the importance of team activities.
 slug: "team-culture-bartender-job-description"
 unique id: "1748429917195x546808808221617100"
-featured: "false"
+featured: false
 breadcrumb short: "Culture"
 pillar text: "Job Descriptions"
 pillar link: |

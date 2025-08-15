@@ -1,9 +1,10 @@
 ---
 title: "What is the Food Safety Act 1990?"
-meta: "Explore the essentials of the UK's Food Safety Act 1990, its impact on consumer protection, and the role of the Food Standards Agency in enforcing food safety."
+meta: |
+  Explore the essentials of the UK's Food Safety Act 1990, its impact on consumer protection, and the role of the Food Standards Agency in enforcing food safety.
 slug: "food-safety-act-1990"
 unique id: "1745921768613x825155043066166000"
-featured: "false"
+featured: false
 breadcrumb short: "Law"
 pillar text: "Food Safety System"
 pillar link: |

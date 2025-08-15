@@ -1,9 +1,10 @@
 ---
 title: "What are critical limits and how are they set?"
-meta: "Understand the importance of critical limits in food safety, how they are set based on scientific research, and their role in HACCP compliance."
+meta: |
+  Understand the importance of critical limits in food safety, how they are set based on scientific research, and their role in HACCP compliance.
 slug: "critical-limits-how-set"
 unique id: "1745929282548x575040775335399900"
-featured: "false"
+featured: false
 breadcrumb short: "Critical Limits"
 pillar text: "Food Safety System"
 pillar link: |

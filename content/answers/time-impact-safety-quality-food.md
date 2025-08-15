@@ -1,9 +1,10 @@
 ---
 title: "How does time impact the safety and quality of hot held food?"
-meta: "Explore the impact of time on the safety and quality of hot held food, including common misconceptions and risks of extended hot holding."
+meta: |
+  Explore the impact of time on the safety and quality of hot held food, including common misconceptions and risks of extended hot holding.
 slug: "time-impact-safety-quality-food"
 unique id: "1744190546778x652856389129357040"
-featured: "false"
+featured: false
 breadcrumb short: "Time and Quality"
 pillar text: "Food Safety System"
 pillar link: |

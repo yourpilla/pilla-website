@@ -1,9 +1,10 @@
 ---
 title: "What should be done if hot held food falls below 63°C?"
-meta: "Learn how to manage hot held food that falls below 63°C, including safe reheating practices and the maximum time food can stay below this temperature."
+meta: |
+  Learn how to manage hot held food that falls below 63°C, including safe reheating practices and the maximum time food can stay below this temperature.
 slug: "hot-held-food-below-63-discarded"
 unique id: "1744190546777x243437403646275650"
-featured: "false"
+featured: false
 breadcrumb short: "Correct Action"
 pillar text: "Food Safety System"
 pillar link: |

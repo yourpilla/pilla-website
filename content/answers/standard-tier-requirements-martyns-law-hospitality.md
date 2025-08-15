@@ -1,17 +1,21 @@
 ---
-title: "What are the Standard Tier requirements for hospitality venues under Martyn's Law?"
-meta: "Understand the Standard Tier requirements of Martyn's Law for hospitality venues with capacities of 200-799, focusing on procedural readiness and staff training."
+title: |
+  What are the Standard Tier requirements for hospitality venues under Martyn's Law?
+meta: |
+  Understand the Standard Tier requirements of Martyn's Law for hospitality venues with capacities of 200-799, focusing on procedural readiness and staff training.
 slug: "standard-tier-requirements-martyns-law-hospitality"
 unique id: "1744633430850x446718386573180100"
-featured: "false"
+featured: false
 breadcrumb short: "Standard Tier"
 pillar text: "Health & Safety System"
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Martyn's Law"
+subpage text: |
+  Martyn's Law
 subpage link: |
   https://yourpilla.com/blog/martyns-law-hospitality
-blog: "How to Comply with Martyn's Law in Hospitality in the UK."
+blog: |
+  How to Comply with Martyn's Law in Hospitality in the UK.
 schema: |
   {
     "@context": "https://schema.org",

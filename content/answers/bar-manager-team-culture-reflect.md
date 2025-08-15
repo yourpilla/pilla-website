@@ -1,9 +1,10 @@
 ---
 title: "How do I reflect our bars team culture in a Bar Manager job description?"
-meta: "Explore how to craft a Bar Manager job description that reflects your bar's unique team culture, highlighting the importance of personality alongside professional experience."
+meta: |
+  Explore how to craft a Bar Manager job description that reflects your bar's unique team culture, highlighting the importance of personality alongside professional experience.
 slug: "bar-manager-team-culture-reflect"
 unique id: "1748626151254x574760442724609340"
-featured: "false"
+featured: false
 breadcrumb short: "Culture"
 pillar text: "Job Descriptions"
 pillar link: |

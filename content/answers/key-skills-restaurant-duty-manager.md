@@ -1,9 +1,10 @@
 ---
 title: "What key skills should I include in a Restaurant Duty Manager job description?"
-meta: "Discover the essential skills for a Restaurant Duty Manager, including leadership, customer service, and specific capabilities for high-end dining."
+meta: |
+  Discover the essential skills for a Restaurant Duty Manager, including leadership, customer service, and specific capabilities for high-end dining.
 slug: "key-skills-restaurant-duty-manager"
 unique id: "1750237151511x797999432630272000"
-featured: "false"
+featured: false
 breadcrumb short: "Key Skills"
 pillar text: "Job Descriptions"
 pillar link: |

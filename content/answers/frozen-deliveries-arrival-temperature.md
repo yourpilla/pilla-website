@@ -1,9 +1,10 @@
 ---
 title: "What temperature should frozen deliveries be when they arrive?"
-meta: "Ensure frozen deliveries arrive at -18C or colder. Check temperatures between packs and reject anything warmer than -15C. Transfer to storage within 15 minutes."
+meta: |
+  Ensure frozen deliveries arrive at -18C or colder. Check temperatures between packs and reject anything warmer than -15C. Transfer to storage within 15 minutes.
 slug: "frozen-deliveries-arrival-temperature"
 unique id: "1734097884413x987369042459971700"
-featured: "false"
+featured: false
 breadcrumb short: "Frozen Delivery"
 pillar text: "Food Safety System"
 pillar link: |

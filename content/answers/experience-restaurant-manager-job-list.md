@@ -1,9 +1,10 @@
 ---
 title: "What levels of experience are appropriate to list in a Restaurant Manager job description?"
-meta: "Discover how to define experience levels in a Restaurant Manager job description, focusing on relevance and quality over mere years of service."
+meta: |
+  Discover how to define experience levels in a Restaurant Manager job description, focusing on relevance and quality over mere years of service.
 slug: "experience-restaurant-manager-job-list"
 unique id: "1750065092333x667923879082590200"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

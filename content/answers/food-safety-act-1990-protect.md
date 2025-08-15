@@ -1,9 +1,10 @@
 ---
 title: "How does the Food Safety Act 1990 protect consumers?"
-meta: "Explore how the Food Safety Act 1990 ensures consumer protection in the UK through strict food safety standards, regular inspections, and legal obligations for food businesses."
+meta: |
+  Explore how the Food Safety Act 1990 ensures consumer protection in the UK through strict food safety standards, regular inspections, and legal obligations for food businesses.
 slug: "food-safety-act-1990-protect"
 unique id: "1745921768615x844097993585679700"
-featured: "false"
+featured: false
 breadcrumb short: "Consumers"
 pillar text: "Food Safety System"
 pillar link: |

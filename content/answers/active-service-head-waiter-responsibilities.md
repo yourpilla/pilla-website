@@ -1,17 +1,20 @@
 ---
 title: "What are the active service responsibilities of a Head Waiter in a job description?"
-meta: "Discover the key responsibilities of a Head Waiter, including guest interaction, service management, and team supervision, to enhance your job descriptions."
+meta: |
+  Discover the key responsibilities of a Head Waiter, including guest interaction, service management, and team supervision, to enhance your job descriptions.
 slug: "active-service-head-waiter-responsibilities"
 unique id: "1749721711081x644638082420441100"
-featured: "false"
+featured: false
 breadcrumb short: "Service"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

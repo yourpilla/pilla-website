@@ -1,9 +1,10 @@
 ---
 title: "How many times can food be reheated safely?"
-meta: "Discover the specific reheating temperatures required for food safety, the importance of using the correct equipment, and steps to document compliance."
+meta: |
+  Discover the specific reheating temperatures required for food safety, the importance of using the correct equipment, and steps to document compliance.
 slug: "reheated-food-safety-dangers-times"
 unique id: "1744115592498x268781220942310370"
-featured: "false"
+featured: false
 breadcrumb short: "Frequency"
 pillar text: "Food Safety System"
 pillar link: |

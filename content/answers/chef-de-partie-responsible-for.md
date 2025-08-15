@@ -1,9 +1,10 @@
 ---
 title: "What is a Chef de Partie responsible for?"
-meta: "Explore the role of a Chef de Partie, including their responsibilities, the variety of Station Chef types, and the career progression opportunities in the culinary field."
+meta: |
+  Explore the role of a Chef de Partie, including their responsibilities, the variety of Station Chef types, and the career progression opportunities in the culinary field.
 slug: "chef-de-partie-responsible-for"
 unique id: "1745420497012x766715941358327900"
-featured: "false"
+featured: false
 breadcrumb short: "Station Chefs (Chefs de Partie)"
 pillar text: "Job Descriptions"
 pillar link: |

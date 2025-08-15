@@ -1,9 +1,10 @@
 ---
 title: "What are the key obligations for food businesses under the Food Safety Act 1990?"
-meta: "Discover the key responsibilities for food businesses under the UK's Food Safety Act 1990, including safe food handling, accurate labelling, and hygiene."
+meta: |
+  Discover the key responsibilities for food businesses under the UK's Food Safety Act 1990, including safe food handling, accurate labelling, and hygiene.
 slug: "key-obligations-food-businesses-safety"
 unique id: "1745921768614x432236542620712900"
-featured: "false"
+featured: false
 breadcrumb short: "Obligations"
 pillar text: "Food Safety System"
 pillar link: |

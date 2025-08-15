@@ -1,9 +1,10 @@
 ---
 title: "What actions should be taken if staff do not follow reheating procedures?"
-meta: "Understand the legal reheating temperatures for foods, how to monitor compliance using a digital task template, and corrective actions for reheating errors."
+meta: |
+  Understand the legal reheating temperatures for foods, how to monitor compliance using a digital task template, and corrective actions for reheating errors.
 slug: "staff-reheating-procedures-actions-taken"
 unique id: "1744115592502x271865920951998000"
-featured: "false"
+featured: false
 breadcrumb short: "Staff Training"
 pillar text: "Food Safety System"
 pillar link: |

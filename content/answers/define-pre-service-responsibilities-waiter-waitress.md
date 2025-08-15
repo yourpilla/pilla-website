@@ -1,9 +1,10 @@
 ---
 title: "How do I define the pre-service responsibilities in a Waiter/Waitress job description?"
-meta: "Explore the key pre-service responsibilities for waitstaff and why detailing them in job descriptions is crucial for restaurant success."
+meta: |
+  Explore the key pre-service responsibilities for waitstaff and why detailing them in job descriptions is crucial for restaurant success.
 slug: "define-pre-service-responsibilities-waiter-waitress"
 unique id: "1748867762950x602335568364830700"
-featured: "false"
+featured: false
 breadcrumb short: "Pre-Service"
 pillar text: "Job Descriptions"
 pillar link: |

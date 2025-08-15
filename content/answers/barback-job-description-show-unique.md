@@ -1,9 +1,10 @@
 ---
 title: "How do I show what makes our bar unique in a Barback job description?"
-meta: "Discover how to craft a compelling Barback job description that highlights your bar's unique qualities, culture, and values to attract the right candidates."
+meta: |
+  Discover how to craft a compelling Barback job description that highlights your bar's unique qualities, culture, and values to attract the right candidates.
 slug: "barback-job-description-show-unique"
 unique id: "1747841008446x666641466969210600"
-featured: "false"
+featured: false
 breadcrumb short: "Team Culture"
 pillar text: "Job Descriptions"
 pillar link: |

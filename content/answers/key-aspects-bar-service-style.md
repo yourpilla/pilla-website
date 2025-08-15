@@ -1,9 +1,10 @@
 ---
 title: "What should I include in the venue overview for a Bar Supervisor job description?"
-meta: "Learn how to effectively describe your bar in a Bar Supervisor job description, including the venue's unique aspects, type, and service style."
+meta: |
+  Learn how to effectively describe your bar in a Bar Supervisor job description, including the venue's unique aspects, type, and service style.
 slug: "key-aspects-bar-service-style"
 unique id: "1748855589055x710030416160751600"
-featured: "false"
+featured: false
 breadcrumb short: "Bar Style"
 pillar text: "Job Descriptions"
 pillar link: |

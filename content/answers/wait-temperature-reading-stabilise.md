@@ -1,9 +1,10 @@
 ---
 title: "How long should I wait for the temperature reading on my food probe thermometer to stabilise?"
-meta: "Learn how long to wait for your food probe thermometer reading to stabilise and what to do if it won't stop fluctuating. Always test probes in boiling water and ice baths."
+meta: |
+  Learn how long to wait for your food probe thermometer reading to stabilise and what to do if it won't stop fluctuating. Always test probes in boiling water and ice baths.
 slug: "wait-temperature-reading-stabilise"
 unique id: "1734019673646x814126759514640600"
-featured: "false"
+featured: false
 breadcrumb short: "Stabilising"
 pillar text: "Food Safety System"
 pillar link: |

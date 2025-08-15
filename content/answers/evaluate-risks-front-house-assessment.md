@@ -1,9 +1,10 @@
 ---
 title: "How do I evaluate risks in a front of house risk assessment?"
-meta: "Learn how to conduct a front of house risk assessment, evaluate existing safety controls, and decide on new safety measures effectively."
+meta: |
+  Learn how to conduct a front of house risk assessment, evaluate existing safety controls, and decide on new safety measures effectively.
 slug: "evaluate-risks-front-house-assessment"
 unique id: "1744896519240x793756218390371200"
-featured: "false"
+featured: false
 breadcrumb short: "Risk"
 pillar text: "Health & Safety System"
 pillar link: |

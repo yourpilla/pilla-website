@@ -1,9 +1,10 @@
 ---
 title: "How should I discuss pay in a sommelier job description?"
-meta: "Explore how to effectively include salary and benefits in a sommelier job description to attract the right candidates and maintain transparency."
+meta: |
+  Explore how to effectively include salary and benefits in a sommelier job description to attract the right candidates and maintain transparency.
 slug: "discuss-pay-sommelier-job-description"
 unique id: "1749719668778x726706731044307000"
-featured: "false"
+featured: false
 breadcrumb short: "Pay"
 pillar text: "Job Interviews"
 pillar link: |

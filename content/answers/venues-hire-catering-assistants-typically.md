@@ -1,9 +1,10 @@
 ---
 title: "What kind of venues typically hire Catering Assistants?"
-meta: "Explore the diverse roles of Catering Assistants across different venues, including schools and events, and learn how to tailor job descriptions effectively."
+meta: |
+  Explore the diverse roles of Catering Assistants across different venues, including schools and events, and learn how to tailor job descriptions effectively.
 slug: "venues-hire-catering-assistants-typically"
 unique id: "1748596461531x540432353035441800"
-featured: "false"
+featured: false
 breadcrumb short: "Venues"
 pillar text: "Job Descriptions"
 pillar link: |

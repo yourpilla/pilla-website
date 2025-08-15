@@ -1,17 +1,20 @@
 ---
 title: "What experience level should I put in a Head Waiter job description?"
-meta: "Discover how to define the experience level for a Head Waiter position, including common misconceptions and the impact of different dining environments."
+meta: |
+  Discover how to define the experience level for a Head Waiter position, including common misconceptions and the impact of different dining environments.
 slug: "experience-level-head-waiter-description"
 unique id: "1749721814092x350991536136912900"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Interviews"
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Maître d' Interviews"
+subpage text: |
+  Maître d' Interviews
 subpage link: |
   https://yourpilla.com/blog/maitre-d-interviews
-blog: "How to Decide on Head Waiter / Maître d' Interview Questions."
+blog: |
+  How to Decide on Head Waiter / Maître d' Interview Questions.
 schema: |
   {
     "@context": "https://schema.org",

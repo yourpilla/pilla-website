@@ -1,9 +1,10 @@
 ---
 title: "What are some mistakes to avoid when writing a Bartender job description?"
-meta: "Discover key insights on crafting effective Bartender job descriptions to attract qualified candidates by avoiding common mistakes and embracing specificity."
+meta: |
+  Discover key insights on crafting effective Bartender job descriptions to attract qualified candidates by avoiding common mistakes and embracing specificity.
 slug: "mistakes-avoid-writing-bartender-description"
 unique id: "1748429917195x629155501875220000"
-featured: "false"
+featured: false
 breadcrumb short: "Mistakes"
 pillar text: "Job Descriptions"
 pillar link: |

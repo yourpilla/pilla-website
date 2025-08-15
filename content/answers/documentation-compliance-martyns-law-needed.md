@@ -1,17 +1,21 @@
 ---
-title: "What documentation is needed to demonstrate compliance under Martyn's Law?"
-meta: "Explore the documentation required under Martyn's Law, including security plans and training records, to ensure venue compliance and safety."
+title: |
+  What documentation is needed to demonstrate compliance under Martyn's Law?
+meta: |
+  Explore the documentation required under Martyn's Law, including security plans and training records, to ensure venue compliance and safety.
 slug: "documentation-compliance-martyns-law-needed"
 unique id: "1744633430856x426114294548744400"
-featured: "false"
+featured: false
 breadcrumb short: "Documentation"
 pillar text: "Health & Safety System"
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Martyn's Law"
+subpage text: |
+  Martyn's Law
 subpage link: |
   https://yourpilla.com/blog/martyns-law-hospitality
-blog: "How to Comply with Martyn's Law in Hospitality in the UK."
+blog: |
+  How to Comply with Martyn's Law in Hospitality in the UK.
 schema: |
   {
     "@context": "https://schema.org",

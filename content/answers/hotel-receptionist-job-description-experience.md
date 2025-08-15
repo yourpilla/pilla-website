@@ -1,9 +1,10 @@
 ---
 title: "How experience should I ask for in a Hotel Receptionist job description?"
-meta: "Discover how to determine the right experience level for hotel receptionist roles and the importance of personality fit in the hospitality industry."
+meta: |
+  Discover how to determine the right experience level for hotel receptionist roles and the importance of personality fit in the hospitality industry.
 slug: "hotel-receptionist-job-description-experience"
 unique id: "1748768543069x579087600693825500"
-featured: "false"
+featured: false
 breadcrumb short: "Experience"
 pillar text: "Job Descriptions"
 pillar link: |

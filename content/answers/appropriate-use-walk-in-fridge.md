@@ -1,9 +1,10 @@
 ---
 title: "When is it appropriate to use a walk-in fridge to finish cooling hot food?"
-meta: "Discover when and how to use a walk-in fridge for cooling hot food safely, including common misconceptions and necessary precautions."
+meta: |
+  Discover when and how to use a walk-in fridge for cooling hot food safely, including common misconceptions and necessary precautions.
 slug: "appropriate-use-walk-in-fridge"
 unique id: "1748966485837x630375608500092900"
-featured: "false"
+featured: false
 breadcrumb short: "Walk-in Fridges"
 pillar text: "Food Safety System"
 pillar link: |

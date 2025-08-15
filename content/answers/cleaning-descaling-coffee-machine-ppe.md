@@ -1,9 +1,10 @@
 ---
 title: "What PPE is needed when cleaning or descaling a coffee machine?"
-meta: "Discover essential PPE for safely cleaning coffee machines, including heat-resistant gloves and goggles, and learn why COSHH training is crucial."
+meta: |
+  Discover essential PPE for safely cleaning coffee machines, including heat-resistant gloves and goggles, and learn why COSHH training is crucial.
 slug: "cleaning-descaling-coffee-machine-ppe"
 unique id: "1745226754641x354553544418096960"
-featured: "false"
+featured: false
 breadcrumb short: "PPE"
 pillar text: "Health & Safety System"
 pillar link: |

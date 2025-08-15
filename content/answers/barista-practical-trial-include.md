@@ -1,9 +1,10 @@
 ---
 title: "What should a Barista practical trial include?"
-meta: "Explore what to include in a barista practical trial, the ideal duration for the trial, and key tasks to assess, debunking common misconceptions."
+meta: |
+  Explore what to include in a barista practical trial, the ideal duration for the trial, and key tasks to assess, debunking common misconceptions.
 slug: "barista-practical-trial-include"
 unique id: "1747318595790x820622889978455300"
-featured: "false"
+featured: false
 breadcrumb short: "Trial Activities"
 pillar text: "Job Interviews"
 pillar link: |

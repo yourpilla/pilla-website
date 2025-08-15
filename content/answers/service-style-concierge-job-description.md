@@ -1,9 +1,10 @@
 ---
 title: "How do I describe the service style when writing a Concierge job description?"
-meta: "Explore how to effectively describe service styles in Concierge job descriptions and highlight unique aspects of your venue to attract suitable candidates."
+meta: |
+  Explore how to effectively describe service styles in Concierge job descriptions and highlight unique aspects of your venue to attract suitable candidates.
 slug: "service-style-concierge-job-description"
 unique id: "1748867281985x454293709510148100"
-featured: "false"
+featured: false
 breadcrumb short: "Service Style"
 pillar text: "Job Descriptions"
 pillar link: |

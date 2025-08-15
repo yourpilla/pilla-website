@@ -1,9 +1,10 @@
 ---
 title: "What should I do if I find the fridge temperature is over 8°C?"
-meta: "Learn what to do if your fridge temperature rises above 8C, including checking food temperature, moving food, and discarding unsafe items."
+meta: |
+  Learn what to do if your fridge temperature rises above 8C, including checking food temperature, moving food, and discarding unsafe items.
 slug: "fridge-temperature-over-8c"
 unique id: "1732637342148x234387460589972960"
-featured: "false"
+featured: false
 breadcrumb short: "Fridge Over 8°C"
 pillar text: "Food Safety System"
 pillar link: |

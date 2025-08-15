@@ -1,9 +1,10 @@
 ---
 title: "How do you assign responsibility and make kitchen cleaning routine?"
-meta: "Learn effective strategies for assigning kitchen cleaning tasks in hospitality, including role-based task distribution and integrating cleaning into daily routines."
+meta: |
+  Learn effective strategies for assigning kitchen cleaning tasks in hospitality, including role-based task distribution and integrating cleaning into daily routines.
 slug: "assign-responsibility-make-cleaning-routine"
 unique id: "1746622446226x219822805487501120"
-featured: "false"
+featured: false
 breadcrumb short: "Responsibility"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What are must have skills in a Restaurant Assistant Manager job description?"
-meta: "Discover essential skills for a Restaurant Assistant Manager, including organisational abilities, leadership, and financial management."
+meta: |
+  Discover essential skills for a Restaurant Assistant Manager, including organisational abilities, leadership, and financial management.
 slug: "must-have-skills-restaurant-assistant"
 unique id: "1750236081169x307310910053285900"
-featured: "false"
+featured: false
 breadcrumb short: "Must-have Skills"
 pillar text: "Job Descriptions"
 pillar link: |

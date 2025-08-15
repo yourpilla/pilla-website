@@ -1,9 +1,10 @@
 ---
 title: "What are good Barista interview questions to ask?"
-meta: "Discover effective interview questions for baristas that assess real-world skills in customer service, teamwork, and coffee making, along with tips on using behavioural questions."
+meta: |
+  Discover effective interview questions for baristas that assess real-world skills in customer service, teamwork, and coffee making, along with tips on using behavioural questions.
 slug: "barista-interview-questions-to-ask"
 unique id: "1747318595790x793619724938764400"
-featured: "false"
+featured: false
 breadcrumb short: "Behavioural Questions"
 pillar text: "Job Interviews"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "What kind of language makes checklists easier to follow?"
-meta: "Discover how using clear, direct language with strong action verbs can make checklists more effective and easier to follow in the workplace."
+meta: |
+  Discover how using clear, direct language with strong action verbs can make checklists more effective and easier to follow in the workplace.
 slug: "language-checklists-easier-follow-makes"
 unique id: "1746609287201x827428643557090800"
-featured: "false"
+featured: false
 breadcrumb short: "Language"
 pillar text: "Food Safety System"
 pillar link: |

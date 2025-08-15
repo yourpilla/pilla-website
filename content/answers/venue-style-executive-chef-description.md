@@ -1,9 +1,10 @@
 ---
 title: "What should I include about my venue style section of an Executive Chef job description?"
-meta: "Discover how to craft the venue style section of an Executive Chef job description, effectively conveying culinary style and kitchen culture to attract ideal candidates."
+meta: |
+  Discover how to craft the venue style section of an Executive Chef job description, effectively conveying culinary style and kitchen culture to attract ideal candidates.
 slug: "venue-style-executive-chef-description"
 unique id: "1750064046647x963651044972167200"
-featured: "false"
+featured: false
 breadcrumb short: "Venue Style"
 pillar text: "Job Descriptions"
 pillar link: |

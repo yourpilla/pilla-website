@@ -1,9 +1,11 @@
 ---
-title: "Why can't I place hot food in the refrigerator before it's thoroughly cooled?"
-meta: "Discover why cooling hot food before refrigeration is crucial to prevent temperature fluctuations that can lead to food spoilage and increased bacteria growth."
+title: |
+  Why can't I place hot food in the refrigerator before it's thoroughly cooled?
+meta: |
+  Discover why cooling hot food before refrigeration is crucial to prevent temperature fluctuations that can lead to food spoilage and increased bacteria growth.
 slug: "hot-food-refrigerator-before-cooled"
 unique id: "1748966587385x609844322742829000"
-featured: "false"
+featured: false
 breadcrumb short: "Hot Food Fridge"
 pillar text: "Food Safety System"
 pillar link: |

@@ -1,9 +1,10 @@
 ---
 title: "How should I describe the teamwork dynamics in a Commis Chef job description?"
-meta: "Explore how to effectively describe teamwork dynamics in a Commis Chef job description, emphasizing collaboration, communication, and support within the kitchen environment."
+meta: |
+  Explore how to effectively describe teamwork dynamics in a Commis Chef job description, emphasizing collaboration, communication, and support within the kitchen environment.
 slug: "teamwork-dynamics-commis-chef-description"
 unique id: "1749803219647x293738628267114500"
-featured: "false"
+featured: false
 breadcrumb short: "Teamwork"
 pillar text: "Job Descriptions"
 pillar link: |

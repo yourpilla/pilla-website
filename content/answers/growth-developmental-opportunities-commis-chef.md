@@ -1,9 +1,10 @@
 ---
 title: "How can I highlight growth and developmental opportunities in a Commis Chef job description?"
-meta: "Discover how to craft a Commis Chef job description that highlights growth and career advancement opportunities, attracting skilled candidates eager to develop."
+meta: |
+  Discover how to craft a Commis Chef job description that highlights growth and career advancement opportunities, attracting skilled candidates eager to develop.
 slug: "growth-developmental-opportunities-commis-chef"
 unique id: "1749803181434x310443538377605100"
-featured: "false"
+featured: false
 breadcrumb short: "Career Growth"
 pillar text: "Job Descriptions"
 pillar link: |

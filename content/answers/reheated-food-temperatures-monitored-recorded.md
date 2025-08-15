@@ -1,9 +1,10 @@
 ---
 title: "How should reheated food temperatures be monitored and recorded?"
-meta: "Explore the specific reheating temperatures required for food safety, the importance of proper equipment, and procedures for recording compliance."
+meta: |
+  Explore the specific reheating temperatures required for food safety, the importance of proper equipment, and procedures for recording compliance.
 slug: "reheated-food-temperatures-monitored-recorded"
 unique id: "1744115592498x620952744076484600"
-featured: "false"
+featured: false
 breadcrumb short: "Monitoring"
 pillar text: "Food Safety System"
 pillar link: |

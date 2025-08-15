@@ -1,9 +1,10 @@
 ---
 title: "What regular maintenance should be done on a commercial dishwasher?"
-meta: "Discover how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and food safety, and what steps to take if issues arise."
+meta: |
+  Discover how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and food safety, and what steps to take if issues arise.
 slug: "dishwasher-maintenance"
 unique id: "1743586900090x964868942786760100"
-featured: "false"
+featured: false
 breadcrumb short: "Maintenance"
 pillar text: "Food Safety System"
 pillar link: |

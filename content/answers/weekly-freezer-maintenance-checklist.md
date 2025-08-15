@@ -1,9 +1,10 @@
 ---
 title: "What should I check during weekly freezer maintenance?"
-meta: "Learn the key areas to check during weekly freezer maintenance, including condensers, vents, and door seals, to ensure optimal performance and prevent breakdowns."
+meta: |
+  Learn the key areas to check during weekly freezer maintenance, including condensers, vents, and door seals, to ensure optimal performance and prevent breakdowns.
 slug: "weekly-freezer-maintenance-checklist"
 unique id: "1733824589751x115769178800925630"
-featured: "false"
+featured: false
 breadcrumb short: "Weekly Maintenance"
 pillar text: "Food Safety System"
 pillar link: |

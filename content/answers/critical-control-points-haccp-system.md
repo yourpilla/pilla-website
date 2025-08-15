@@ -1,9 +1,10 @@
 ---
 title: "What are critical control points (CCPs) in a HACCP system?"
-meta: "Understand what Critical Control Points (CCPs) are in a HACCP system, how they are determined, and why they are essential for food safety management."
+meta: |
+  Understand what Critical Control Points (CCPs) are in a HACCP system, how they are determined, and why they are essential for food safety management.
 slug: "critical-control-points-haccp-system"
 unique id: "1745929282547x223932290649236930"
-featured: "false"
+featured: false
 breadcrumb short: "Critical Control Points"
 pillar text: "Food Safety System"
 pillar link: |
