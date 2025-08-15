@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to use 'clean as you go' in your hospitality business. "
 Slug: "clean-as-you-go"
 unique id: "1691665518636x964000336595494300"
+featured: false
 ---
 
 # How to use 'clean as you go' in your hospitality business. 

@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to safely reheat foods in your hospitality business."
 Slug: "reheating-food-safely"
 unique id: "1698924323308x600254303556636300"
+featured: false
 ---
 
 # How to safely reheat foods in your hospitality business.

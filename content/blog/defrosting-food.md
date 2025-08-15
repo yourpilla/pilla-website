@@ -9,5 +9,6 @@ template actual: ""
 Title: "Defrosting frozen foods properly and safely."
 Slug: "defrosting-food"
 unique id: "1692453263208x444946182227111500"
+featured: false
 ---
 

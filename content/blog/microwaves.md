@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to use microwaves safely in your food business."
 Slug: "microwaves"
 unique id: "1730204281666x810204572531351800"
+featured: false
 ---
 
 # How to use microwaves safely in your food business.

@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Legionella Temperature Testing Checks"
 Slug: "legionella-temperature-testing"
 unique id: "1684264507799x113778164510013330"
+featured: false
 ---
 
 # How to Set Up Legionella Temperature Testing Checks

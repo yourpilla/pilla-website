@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to serve raw egg cocktails safely."
 Slug: "raw-egg-cocktails"
 unique id: "1730202276530x814184738199104100"
+featured: false
 ---
 
 # How to serve raw egg cocktails safely.

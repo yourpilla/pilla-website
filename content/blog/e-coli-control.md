@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage E coli in food businesses."
 Slug: "e-coli-control"
 unique id: "1691659962617x292857067431301400"
+featured: false
 ---
 
 # How to manage E coli in food businesses.

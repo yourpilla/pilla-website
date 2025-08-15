@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to get to grips with the 4cs of food safety."
 Slug: "4-cs-food-safety"
 unique id: "1693835675562x508856302994496100"
+featured: false
 ---
 
 # How to get to grips with the 4cs of food safety.

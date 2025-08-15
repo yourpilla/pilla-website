@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to maintain food staff fitness for work."
 Slug: "fitness-for-work"
 unique id: "1718804505118x359778031112244900"
+featured: false
 ---
 
 # How to maintain food staff fitness for work.

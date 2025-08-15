@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage hot buffets and functions safely in your business."
 Slug: "hot-buffets-functions"
 unique id: "1730204691892x660814762965930200"
+featured: false
 ---
 
 # How to manage hot buffets and functions safely in your business.

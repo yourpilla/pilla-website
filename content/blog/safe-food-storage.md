@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to store food safely in your hospitality business."
 Slug: "safe-food-storage"
 unique id: "1691420612640x563857266107330400"
+featured: false
 ---
 
 # How to store food safely in your hospitality business.

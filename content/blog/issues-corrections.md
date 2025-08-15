@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to deal with issues in hospitality."
 Slug: "issues-corrections"
 unique id: "1726753667267x910212376181665700"
+featured: false
 ---
 
 # How to deal with issues in hospitality.

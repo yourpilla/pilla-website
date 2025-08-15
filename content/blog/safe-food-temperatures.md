@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Cooked Food Temperature Checks"
 Slug: "safe-food-temperatures"
 unique id: "1698923910841x732249339157353000"
+featured: false
 ---
 
 # How to Set Up Cooked Food Temperature Checks 

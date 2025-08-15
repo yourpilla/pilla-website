@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to cook sous vide safely in your food business."
 Slug: "sous-vide-cooking"
 unique id: "1692898388412x805021623125376600"
+featured: false
 ---
 
 # How to cook sous vide safely in your food business.

@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage pests in your food business."
 Slug: "integrated-pest-management"
 unique id: "1691495337672x353394566361128640"
+featured: false
 ---
 
 # How to managed pests in your food business.

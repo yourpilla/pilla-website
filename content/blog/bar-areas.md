@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage cross contamination in bar areas."
 Slug: "bar-areas"
 unique id: "1730202084686x292269973843620540"
+featured: false
 ---
 
 # How to manage cross contamination in bar areas.

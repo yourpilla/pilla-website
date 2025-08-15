@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to properly manage food stock rotation and date labelling."
 Slug: "stock-rotation"
 unique id: "1691336339303x591345699161962500"
+featured: false
 ---
 
 # How to properly manage food stock rotation and date labelling.

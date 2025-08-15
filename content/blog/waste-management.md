@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage food waste in your hospitality business."
 Slug: "waste-management"
 unique id: "1730202816339x408924470139027500"
+featured: false
 ---
 
 # How to manage food waste in your hospitality business

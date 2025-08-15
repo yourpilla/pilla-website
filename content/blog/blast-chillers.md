@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to use blast chillers properly in your food business."
 Slug: "blast-chillers"
 unique id: "1730203078493x987547533231519700"
+featured: false
 ---
 
 # How to use blast chillers properly in your food business.

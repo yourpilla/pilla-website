@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Write a Food Safety Policy Statement"
 Slug: "food-safety-policy-example"
 unique id: "1698764695613x234647692361935600"
+featured: false
 ---
 
 # How to Write a Food Safety Policy Statement

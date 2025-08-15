@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to use barbecues to improve food safety."
 Slug: "barbecues"
 unique id: "1730204528319x422170763874783800"
+featured: false
 ---
 
 # How to use barbecues to improve food safety.&nbsp;

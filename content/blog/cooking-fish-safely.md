@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to cook fish safely in your food business"
 Slug: "cooking-fish-safely"
 unique id: "1698925527273x614799075838464900"
+featured: false
 ---
 
 # How to cook fish safely in your food business.

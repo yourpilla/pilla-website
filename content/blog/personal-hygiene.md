@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage personal hygiene in the kitchen."
 Slug: "personal-hygiene"
 unique id: "1691417679345x707441380535189400"
+featured: false
 ---
 
 # How to manage personal hygiene in the kitchen.

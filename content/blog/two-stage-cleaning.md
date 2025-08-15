@@ -9,6 +9,7 @@ template actual: ""
 Title: "Using a two stage cleaning process in hospitality and retail."
 Slug: "two-stage-cleaning"
 unique id: "1691666447137x619678429130672900"
+featured: false
 ---
 
 # Using a two stage cleaning process in hospitality and retail.

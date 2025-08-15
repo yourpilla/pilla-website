@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to show food hygiene compliance using Pilla."
 Slug: "show-compliance-pilla"
 unique id: "1729242261740x647865842016027600"
+featured: false
 ---
 
 # How to show food hygiene compliance to inspectors.

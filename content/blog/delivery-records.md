@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Food Delivery Checks"
 Slug: "delivery-records"
 unique id: "1729506597192x803534175291258400"
+featured: false
 ---
 
 # How to Set Up Food Delivery Checks

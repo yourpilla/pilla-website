@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Freezer Temperature Checks"
 Slug: "freezer-temperature"
 unique id: "1684263827239x683024625258850000"
+featured: false
 ---
 
 # How to Set Up Freezer Temperature Checks 

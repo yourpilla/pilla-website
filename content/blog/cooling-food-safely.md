@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Cooled Food Temperature Checks"
 Slug: "cooling-food-safely"
 unique id: "1698849503991x962417631500093200"
+featured: false
 ---
 
 # How to Set Up Cooled Food Temperature Checks

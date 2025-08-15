@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to cook sushi rice safely."
 Slug: "sushi"
 unique id: "1730204903909x805422187979870000"
+featured: false
 ---
 
 # How to cook sushi rice safely.

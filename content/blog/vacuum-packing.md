@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to vacuum pack food properly."
 Slug: "vacuum-packing"
 unique id: "1730198162672x970734385047621400"
+featured: false
 ---
 
 # How to vacuum pack food properly.

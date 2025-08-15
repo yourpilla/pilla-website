@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage allergens in your food business."
 Slug: "allergen-management"
 unique id: "1691585604159x874630581478520200"
+featured: false
 ---
 
 # How to manage allergens in your food business.

@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Hot Holding Temperature Checks"
 Slug: "hot-holding"
 unique id: "1692802099405x952492833605481000"
+featured: false
 ---
 
 # How to Set Up Hot Holding Temperature Checks

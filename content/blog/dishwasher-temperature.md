@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Dishwasher Temperature Checks"
 Slug: "dishwasher-temperature"
 unique id: "1684503059205x992415611097850100"
+featured: false
 ---
 
 # How to Set Up Dishwasher Temperature Checks

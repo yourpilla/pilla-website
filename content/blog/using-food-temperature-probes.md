@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Food Probe Thermometer Checks"
 Slug: "using-food-temperature-probes"
 unique id: "1698835102565x558072845569151500"
+featured: false
 ---
 
 # How to Set Up Food Probe Thermometer Checks

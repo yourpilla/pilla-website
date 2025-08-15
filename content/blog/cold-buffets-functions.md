@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to manage cold buffets and functions safely in your business."
 Slug: "cold-buffets-functions"
 unique id: "1730203753062x464404736844718600"
+featured: false
 ---
 
 # How to manage cold buffets and functions safely in your business.

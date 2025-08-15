@@ -9,6 +9,7 @@ template actual: ""
 Title: "How to Set Up Fridge Temperature Checks"
 Slug: "fridge-temperature-checks"
 unique id: "1684265187505x541498757896149200"
+featured: false
 ---
 
 # How to Set Up Fridge Temperature Checks
