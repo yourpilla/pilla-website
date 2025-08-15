@@ -36,7 +36,28 @@ export default async function FAQPage({ params }: FAQPageProps) {
   }
 
   return (
-    <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
+    <>
+      {/* Render exact schema from YAML frontmatter */}
+      {faq.frontmatter.schema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(faq.frontmatter.schema),
+          }}
+        />
+      )}
+      
+      {/* Render exact breadcrumb schema from YAML frontmatter */}
+      {faq.frontmatter.breadcrumb_schema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(faq.frontmatter.breadcrumb_schema),
+          }}
+        />
+      )}
+      
+      <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
       <div className="absolute inset-0 -z-10 overflow-hidden">
         <svg
           aria-hidden="true"
@@ -140,6 +161,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
           </div>
         </div>
       </div>
-    </div>
+      </div>
+    </>
   );
 }
