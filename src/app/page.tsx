@@ -13,19 +13,19 @@ import {
 
 const features = [
   {
-    name: 'Push to deploy.',
+    name: 'Complete Glossary',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      '240+ hospitality terms with clear definitions, pronunciation guides, and real-world context.',
     icon: CloudArrowUpIcon,
   },
   {
-    name: 'SSL certificates.',
-    description: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
+    name: 'Expert Articles',
+    description: 'In-depth guides covering operations, management, customer service, and industry best practices.',
     icon: LockClosedIcon,
   },
   {
-    name: 'Database backups.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.',
+    name: 'Quick Reference',
+    description: 'Fast, searchable access to the information you need during busy service periods.',
     icon: ServerIcon,
   },
 ]
@@ -33,51 +33,51 @@ const features = [
 const transferFeatures = [
   {
     id: 1,
-    name: 'Competitive exchange rates',
+    name: 'Complete definitions',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Clear, concise definitions written in plain English with industry context and usage examples.',
     icon: GlobeAltIcon,
   },
   {
     id: 2,
-    name: 'No hidden fees',
+    name: 'Pronunciation guides',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Learn how to properly pronounce technical terms and foreign culinary expressions.',
     icon: ScaleIcon,
   },
   {
     id: 3,
-    name: 'Transfers are instant',
+    name: 'Instant search',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Find any term quickly with smart search that understands synonyms and related concepts.',
     icon: BoltIcon,
   },
 ]
 const communicationFeatures = [
   {
     id: 1,
-    name: 'Mobile notifications',
+    name: 'Weekly articles',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Fresh insights on operations, management, trends, and best practices delivered regularly.',
     icon: ChatBubbleBottomCenterTextIcon,
   },
   {
     id: 2,
-    name: 'Reminder emails',
+    name: 'Expert authors',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Content written by experienced hospitality professionals, chefs, and industry consultants.',
     icon: EnvelopeIcon,
   },
 ]
 
 const featuredTestimonial = {
-  body: 'Integer id nunc sit semper purus. Bibendum at lacus ut arcu blandit montes vitae auctor libero. Hac condimentum dignissim nibh vulputate ut nunc. Amet nibh orci mi venenatis blandit vel et proin. Non hendrerit in vel ac diam.',
+  body: 'Pilla has become an essential part of our training program. New staff members can quickly look up unfamiliar terms, and the articles help our managers stay current with industry best practices.',
   author: {
-    name: 'Brenna Goyette',
-    handle: 'brennagoyette',
+    name: 'Marcus Chen',
+    handle: 'marcuschen',
     imageUrl:
-      'https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80',
-    logoUrl: 'https://tailwindcss.com/plus-assets/img/logos/savvycal-logo-gray-900.svg',
+      'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80',
+    logoUrl: '/logo full white 512x512.png',
   },
 }
 const testimonials = [
@@ -188,38 +188,33 @@ const testimonials = [
 const faqs = [
   {
     id: 1,
-    question: "What's the best thing about Switzerland?",
-    answer:
-      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+    question: 'Is Pilla free to use?',
+    answer: 'Yes, all our glossary terms and articles are completely free to access. No registration required.',
   },
   {
     id: 2,
-    question: 'How do you make holy water?',
-    answer:
-      'You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
+    question: 'How often is content updated?',
+    answer: 'We add new glossary terms and articles weekly, keeping pace with industry trends and terminology.',
   },
   {
     id: 3,
-    question: 'Why do you never see elephants hiding in trees?',
-    answer:
-      "Because they're so good at it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+    question: 'Can I suggest new terms or topics?',
+    answer: 'Absolutely! We welcome suggestions from hospitality professionals. Contact us with your ideas.',
   },
   {
     id: 4,
-    question: 'What do you call someone with no body and no nose?',
-    answer: 'Nobody knows. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
+    question: 'Is the content suitable for training staff?',
+    answer: 'Yes, our resources are designed for both self-learning and team training in hospitality environments.',
   },
   {
     id: 5,
-    question: "Why can't you hear a pterodactyl go to the bathroom?",
-    answer:
-      'Because the pee is silent. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
+    question: 'Do you cover all areas of hospitality?',
+    answer: 'We cover restaurants, hotels, bars, events, and all major hospitality sectors with specialized terminology.',
   },
   {
     id: 6,
-    question: 'Why did the invisible man turn down the job offer?',
-    answer:
-      "He couldn't see himself doing it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+    question: 'Can I access Pilla on mobile devices?',
+    answer: 'Yes, Pilla is fully responsive and optimized for smartphones and tablets for quick reference during service.',
   },
 ]
 
@@ -236,11 +231,11 @@ export default function Example() {
           <div className="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
             <div className="flex">
               <div className="relative flex items-center gap-x-4 rounded-full bg-white px-4 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-                <span className="font-semibold text-indigo-600">We&rsquo;re hiring</span>
+                <span className="font-semibold text-indigo-600">New glossary terms added</span>
                 <span aria-hidden="true" className="h-4 w-px bg-gray-900/10" />
-                <a href="#" className="flex items-center gap-x-1">
+                <a href="/glossary" className="flex items-center gap-x-1">
                   <span aria-hidden="true" className="absolute inset-0" />
-                  See open positions
+                  See latest terms
                   <ChevronRightIcon aria-hidden="true" className="-mr-2 size-5 text-gray-400" />
                 </a>
               </div>
@@ -248,19 +243,18 @@ export default function Example() {
             <h1 className="mt-10 display-1">
               Gamify your operation so that staff turn up on time and do the right things.
             </h1>
-            <p className="mt-8 subtitle-lg">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua. Anim aute id magna aliqua ad ad non deserunt sunt.
+            <p className="mt-8 lead">
+              Schedule shifts, work and communicate in the same app. Company leaderboards and automated feedback will keep your teams motivated to clock in and finish work on time.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
               <a
-                href="#"
+                href="/glossary"
                 className="btn"
               >
-                Get started
+                Explore Glossary
               </a>
-              <a href="#" className="text-sm/6 font-semibold text-gray-900">
-                Learn more <span aria-hidden="true">→</span>
+              <a href="/blog" className="text-sm/6 font-semibold text-gray-900">
+                Read Articles <span aria-hidden="true">→</span>
               </a>
             </div>
           </div>
@@ -297,7 +291,7 @@ export default function Example() {
         <div className="mx-auto max-w-2xl lg:max-w-4xl">
           <img
             alt=""
-            src="https://tailwindcss.com/plus-assets/img/logos/workcation-logo-indigo-600.svg"
+            src="/logo full white 512x512.png"
             className="mx-auto h-12"
           />
           <figure className="mt-10">
@@ -329,13 +323,12 @@ export default function Example() {
           <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
             <div className="lg:pt-4 lg:pr-8">
               <div className="lg:max-w-lg">
-                <h2 className="eyebrow">Deploy faster</h2>
+                <h2 className="eyebrow">Everything You Need</h2>
                 <p className="mt-2">
-                  A better workflow
+                  Comprehensive Hospitality Resources
                 </p>
                 <p className="mt-6 lead">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque,
-                  iste dolor cupiditate blanditiis ratione.
+                  Access industry-leading content designed for hospitality professionals at every level.
                 </p>
                 <dl className="mt-10 max-w-xl space-y-8 text-base/7 text-gray-600 lg:max-w-none">
                   {features.map((feature) => (
@@ -352,7 +345,7 @@ export default function Example() {
             </div>
             <img
               alt="Product screenshot"
-              src="https://tailwindcss.com/plus-assets/img/component-images/project-app-screenshot.png"
+              src="https://images.unsplash.com/photo-1559329007-40df8a9345d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
               width={2432}
               height={1442}
               className="w-3xl max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-228 md:-ml-4 lg:-ml-0"
@@ -363,9 +356,9 @@ export default function Example() {
 
       <div className="bg-main py-24 sm:py-32">
         <div className="mx-auto max-w-2xl px-6 lg:max-w-7xl lg:px-8">
-          <h2 className="eyebrow">Deploy faster</h2>
+          <h2 className="eyebrow">Complete Solution</h2>
           <p className="mt-2 max-w-lg">
-            Everything you need to deploy your app
+            Everything hospitality professionals need to excel
           </p>
           <div className="mt-10 grid grid-cols-1 gap-4 sm:mt-16 lg:grid-cols-6 lg:grid-rows-2">
             <div className="relative lg:col-span-3">
@@ -373,15 +366,14 @@ export default function Example() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] max-lg:rounded-t-[calc(2rem+1px)] lg:rounded-tl-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/component-images/bento-01-performance.png"
+                  src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
                   className="h-80 object-cover object-left"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="eyebrow">Performance</h3>
-                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Lightning-fast builds</p>
+                  <h3 className="eyebrow">Fast Search</h3>
+                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Lightning-fast glossary search</p>
                   <p className="mt-2 max-w-lg text-sm text-muted">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In gravida justo et nulla efficitur, maximus
-                    egestas sem pellentesque.
+                    Find any hospitality term instantly with our optimized search that understands industry context and synonyms.
                   </p>
                 </div>
               </div>
@@ -392,15 +384,14 @@ export default function Example() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-tr-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/component-images/bento-01-releases.png"
+                  src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
                   className="h-80 object-cover object-left lg:object-right"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="eyebrow">Releases</h3>
-                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Push to deploy</p>
+                  <h3 className="eyebrow">Regular Updates</h3>
+                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Fresh content weekly</p>
                   <p className="mt-2 max-w-lg text-sm text-muted">
-                    Curabitur auctor, ex quis auctor venenatis, eros arcu rhoncus massa, laoreet dapibus ex elit vitae
-                    odio.
+                    Stay current with new hospitality trends, terminology, and best practices added regularly.
                   </p>
                 </div>
               </div>
@@ -411,14 +402,14 @@ export default function Example() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] lg:rounded-bl-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/component-images/bento-01-speed.png"
+                  src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
                   className="h-80 object-cover object-left"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="eyebrow">Speed</h3>
-                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Built for power users</p>
+                  <h3 className="eyebrow">Mobile Ready</h3>
+                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Perfect for busy service</p>
                   <p className="mt-2 max-w-lg text-sm text-muted">
-                    Sed congue eros non finibus molestie. Vestibulum euismod augue.
+                    Access resources quickly on any device during service hours.
                   </p>
                 </div>
               </div>
@@ -429,14 +420,14 @@ export default function Example() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)]">
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/component-images/bento-01-integrations.png"
+                  src="https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
                   className="h-80 object-cover"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="eyebrow">Integrations</h3>
-                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Connect your favorite tools</p>
+                  <h3 className="eyebrow">Comprehensive</h3>
+                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">All-in-one platform</p>
                   <p className="mt-2 max-w-lg text-sm text-muted">
-                    Maecenas at augue sed elit dictum vulputate, in nisi aliquam maximus arcu.
+                    Glossary, articles, guides, and resources all in one easy-to-use platform.
                   </p>
                 </div>
               </div>
@@ -447,14 +438,14 @@ export default function Example() {
               <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(var(--radius-lg)+1px)] max-lg:rounded-b-[calc(2rem+1px)] lg:rounded-br-[calc(2rem+1px)]">
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/component-images/bento-01-network.png"
+                  src="https://images.unsplash.com/photo-1556761175-4b46a572b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
                   className="h-80 object-cover"
                 />
                 <div className="p-10 pt-4">
-                  <h3 className="eyebrow">Network</h3>
-                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Globally distributed CDN</p>
+                  <h3 className="eyebrow">Expert Knowledge</h3>
+                  <p className="mt-2 text-lg font-medium tracking-tight text-gray-950">Industry-verified content</p>
                   <p className="mt-2 max-w-lg text-sm text-muted">
-                    Aenean vulputate justo commodo auctor vehicula in malesuada semper.
+                    All content reviewed and verified by hospitality industry experts and professionals.
                   </p>
                 </div>
               </div>
@@ -491,21 +482,18 @@ export default function Example() {
 
           <div className="relative">
             <h2 className="text-center text-3xl/8 font-bold tracking-tight text-gray-900 sm:text-4xl">
-              A better way to send money
+              Professional hospitality resources you can trust
             </h2>
             <p className="mx-auto mt-4 max-w-3xl text-center text-xl text-gray-500">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in,
-              accusamus quisquam.
+              Designed by industry professionals for hospitality teams who demand accuracy and practical application.
             </p>
           </div>
 
           <div className="relative mt-12 lg:mt-24 lg:grid lg:grid-cols-2 lg:items-center lg:gap-8">
             <div className="relative">
-              <h3 className="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">Transfer funds world-wide</h3>
+              <h3 className="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">Learn industry terminology</h3>
               <p className="mt-3 text-lg text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur minima sequi recusandae, porro maiores
-                officia assumenda aliquam laborum ab aliquid veritatis impedit odit adipisci optio iste blanditiis facere.
-                Totam, velit.
+                Master the language of hospitality with our comprehensive glossary and contextual examples.
               </p>
 
               <dl className="mt-10 space-y-10">
@@ -547,7 +535,7 @@ export default function Example() {
               </svg>
               <img
                 alt=""
-                src="https://tailwindcss.com/plus-assets/img/features/feature-example-1.png"
+                src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
                 width={490}
                 className="relative mx-auto"
               />
@@ -580,10 +568,9 @@ export default function Example() {
           <div className="relative mt-12 sm:mt-16 lg:mt-24">
             <div className="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:items-center lg:gap-8">
               <div className="lg:col-start-2">
-                <h3 className="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">Always in the loop</h3>
+                <h3 className="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">Stay informed with expert insights</h3>
                 <p className="mt-3 text-lg text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit ex obcaecati natus eligendi delectus,
-                  cum deleniti sunt in labore nihil quod quibusdam expedita nemo.
+                  Get practical guidance from industry professionals who understand real-world hospitality challenges.
                 </p>
 
                 <dl className="mt-10 space-y-10">
@@ -626,7 +613,7 @@ export default function Example() {
                 </svg>
                 <img
                   alt=""
-                  src="https://tailwindcss.com/plus-assets/img/features/feature-example-2.png"
+                  src="https://images.unsplash.com/photo-1559329007-40df8a9345d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
                   width={490}
                   className="relative mx-auto"
                 />
@@ -665,7 +652,7 @@ export default function Example() {
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="eyebrow">Testimonials</h2>
             <p className="mt-2">
-              We have worked with thousands of amazing people
+              Trusted by hospitality professionals worldwide
             </p>
           </div>
           <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 grid-rows-1 gap-8 text-sm/6 text-gray-900 sm:mt-20 sm:grid-cols-2 xl:mx-0 xl:max-w-none xl:grid-flow-col xl:grid-cols-4">
@@ -728,11 +715,10 @@ export default function Example() {
         <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
           <h2>Frequently asked questions</h2>
           <p className="mt-6 max-w-2xl text-muted">
-            Have a different question and can&rsquo;t find the answer you&rsquo;re looking for? Reach out to our support team by{' '}
-            <a href="#" className="font-semibold text-indigo-600 hover:text-indigo-500">
-              sending us an email
-            </a>{' '}
-            and we&rsquo;ll get back to you as soon as we can.
+            Have a different question? Contact us at hello@yourpilla.com and we&rsquo;ll get back to you quickly.{' '}
+            <a href="mailto:hello@yourpilla.com" className="font-semibold text-indigo-600 hover:text-indigo-500">
+              Send us an email
+            </a>
           </p>
           <div className="mt-20">
             <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:space-y-0 sm:gap-x-6 sm:gap-y-16 lg:grid-cols-3 lg:gap-x-10">
@@ -751,21 +737,20 @@ export default function Example() {
         <div className="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
           <div className="mx-auto max-w-2xl text-center">
             <h2>
-              Boost your productivity. Start using our app today.
+              Start exploring hospitality resources today
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600">
-              Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur
-              commodo do ea.
+              Join thousands of hospitality professionals who rely on Pilla for accurate terminology and expert insights.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
-                href="#"
+                href="/glossary"
                 className="btn"
               >
-                Get started
+                Browse Glossary
               </a>
-              <a href="#" className="text-sm/6 font-semibold text-gray-900">
-                Learn more <span aria-hidden="true">→</span>
+              <a href="/blog" className="text-sm/6 font-semibold text-gray-900">
+                Read Articles <span aria-hidden="true">→</span>
               </a>
             </div>
           </div>
