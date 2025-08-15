@@ -39,7 +39,28 @@ export default async function BlogPage({ params }: BlogPageProps) {
   }
 
   return (
-    <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
+    <>
+      {/* Render exact schema from YAML frontmatter */}
+      {post.frontmatter.schema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(post.frontmatter.schema),
+          }}
+        />
+      )}
+      
+      {/* Render exact breadcrumb schema from YAML frontmatter */}
+      {post.frontmatter.breadcrumb_schema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(post.frontmatter.breadcrumb_schema),
+          }}
+        />
+      )}
+      
+      <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
       <div className="absolute inset-0 -z-10 overflow-hidden">
         <svg
           aria-hidden="true"
@@ -161,6 +182,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
           </div>
         </div>
       </div>
-    </div>
+      </div>
+    </>
   );
 }
