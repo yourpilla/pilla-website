@@ -58,7 +58,7 @@ export interface ContentItem {
   };
 }
 
-export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools'): ContentItem[] {
+export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools' | 'answers'): ContentItem[] {
   const categoryPath = path.join(contentDirectory, category);
   
   if (!fs.existsSync(categoryPath)) {
