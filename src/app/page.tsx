@@ -246,7 +246,7 @@ export default function Example() {
               </div>
             </div>
             <h1 className="mt-10 display-1">
-              A better way to ship your projects
+              Gamify your operation so that staff turn up on time and do the right things.
             </h1>
             <p className="mt-8 subtitle-lg">
               Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
@@ -301,10 +301,9 @@ export default function Example() {
             className="mx-auto h-12"
           />
           <figure className="mt-10">
-            <blockquote className="text-center lead">
+            <blockquote className="text-center h2">
               <p>
-                &ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias
-                molestiae. Numquam corrupti in laborum sed rerum et corporis.&rdquo;
+                &ldquo;Pilla helps me have a day off knowing that procedures will be followed&rdquo;
               </p>
             </blockquote>
             <figcaption className="mt-10">
@@ -314,11 +313,11 @@ export default function Example() {
                 className="mx-auto size-10 rounded-full"
               />
               <div className="mt-4 flex items-center justify-center space-x-3 text-base">
-                <div className="font-semibold text-gray-900">Judith Black</div>
+                <div className="font-semibold text-gray-900 lead">Charles</div>
                 <svg width={3} height={3} viewBox="0 0 2 2" aria-hidden="true" className="fill-gray-900">
                   <circle r={1} cx={1} cy={1} />
                 </svg>
-                <div className="text-gray-600">CEO of Workcation</div>
+                <div className="text-gray-600 lead">Owner of Roots and Berries (11 Sites)</div>
               </div>
             </figcaption>
           </figure>

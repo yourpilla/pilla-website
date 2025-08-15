@@ -24,6 +24,23 @@ Template structure:
 - Template files are reference documents only (NOT the final code)
 - Final processed code goes directly to the appropriate page path (.tsx files)
 
+## Template Editing Workflow
+For making changes to existing pages:
+
+1. **User edits template**: Modifies content in the mini-forms section at the bottom of template files (e.g., `/src/templates/homepage.md`)
+   - Raw React code at the top remains unchanged as reference
+   - Only the content forms section is edited for customization
+   
+2. **User saves file**: Must save template file after making changes
+
+3. **User notifies Claude**: Simply says "I've made changes to [template name]"
+
+4. **Claude automatically detects changes**: Reads the updated template file and compares the content forms with the live code to identify differences
+
+5. **Claude implements changes**: Updates the live React component files (`.tsx`) with the new content from the template forms
+
+This allows efficient content updates without needing to specify individual changes - Claude automatically finds and implements all differences between the template forms and live code.
+
 ## Typography System
 New SaaS Typography Kit applied globally:
 - **Colors**: #374151 (main text), #9CA3AF (muted text)  
