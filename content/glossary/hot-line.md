@@ -1,10 +1,44 @@
 ---
 title: "Hot Line"
 slug: "hot-line"
-meta: >-
+meta: |
   The hot line in a restaurant or hotel's kitchen is the area where chefs prepare and plate hot dishes. Efficient hot lines ensure quick service and high food quality.
 seo_title: "What is a Hot Line in the hospitality industry?"
 unique_id: "1725994969092x874409029128239400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Hot line",
+    "description": "The hot line, also known as the hot side or hot kitchen, is the area where all cooking occurs. It houses appliances like stoves, ovens, grills, and fryers, and serves as the station where chefs prepare and finish hot dishes before service.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/hot-line"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Hot Line",
+        "item": "https://yourpilla.com/glossary/hot-line"
+      }
+    ]
+  }
 ---
 
 The hot line, also known as the hot side or hot kitchen, is where all the cooking happens. Stoves, ovens, grills and fryers live here. Chefs and cooks prepare hot dishes, sauté ingredients and finish plates before they go out to the customers. This is the busiest and most intense part of the kitchen and requires staff who can work fast and efficiently.
@@ -15,8 +49,12 @@ Imagine yourself as the head chef at a popular bistro on a Friday night. The hot
 
 ## External Reading
 
-- [Comprehensive guide from SiteMinder explaining the hospitality industry, including definitions relevant to hot line operations.](https://www.siteminder.com/r/hospitality-industry/)
-- [Extensive dictionary from Social Tables covering over 230 hotel industry terms, providing detailed definitions including hot line.](https://www.socialtables.com/blog/hospitality/hotel-terms-dictionary/)
-- [Asksuite blog post detailing various types of services in the hotel industry, emphasizing communication and guest experience, which are key to hot line operations.](https://asksuite.com/blog/service-in-hotel-industry/)
-- [Zendesk resource on hotel customer service, offering insights into service practices that include hot line management.](https://www.zendesk.com/service/ticketing-system/hotel-customer-service/)
-- [EHL Insights article discussing current trends in the hospitality industry, including the implementation of service cultures that involve hot line use.](https://hospitalityinsights.ehl.edu/hospitality-industry-trends)
+
+
+## External Reading
+
+*   [Comprehensive guide from SiteMinder explaining the hospitality industry, including definitions relevant to hot line operations.](https://www.siteminder.com/r/hospitality-industry/)
+*   [Extensive dictionary from Social Tables covering over 230 hotel industry terms, providing detailed definitions including hot line.](https://www.socialtables.com/blog/hospitality/hotel-terms-dictionary/)
+*   [Asksuite blog post detailing various types of services in the hotel industry, emphasizing communication and guest experience, which are key to hot line operations.](https://asksuite.com/blog/service-in-hotel-industry/)
+*   [Zendesk resource on hotel customer service, offering insights into service practices that include hot line management.](https://www.zendesk.com/service/ticketing-system/hotel-customer-service/)
+*   [EHL Insights article discussing current trends in the hospitality industry, including the implementation of service cultures that involve hot line use.](https://hospitalityinsights.ehl.edu/hospitality-industry-trends)

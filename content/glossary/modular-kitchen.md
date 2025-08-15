@@ -1,10 +1,45 @@
 ---
 title: "Modular kitchen"
 slug: "modular-kitchen"
-meta: >-
+meta: |
   A modular kitchen consists of pre-made cabinet parts that fit together to create a functional and efficient kitchen layout, ideal for restaurants and cafes.
 seo_title: "What is a Modular kitchen in the hospitality industry?"
 unique_id: "1724413023849x572388865903917600"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Modular kitchen",
+    "description": "A modular kitchen is a flexible and efficient kitchen design concept that uses pre-made units or modules to build a custom kitchen. These units, which include cabinets, countertops, and appliances, can be moved, rearranged, or replaced to suit your needs. Modular kitchens have standardised dimensions and components making installation and maintenance easier and more cost-effective.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/modular-kitchen",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Modular kitchen",
+        "item": "https://yourpilla.com/glossary/modular-kitchen"
+      }
+    ]
+  }
 ---
 
 A modular kitchen is a flexible and efficient kitchen design concept that uses pre-made units or modules to build a custom kitchen. These units, which include cabinets, countertops, and appliances, can be moved, rearranged, or replaced to suit your needs. Modular kitchens have standardised dimensions and components making installation and maintenance easier and more cost-effective.
@@ -15,8 +50,12 @@ Imagine you are the head chef of a busy hotel restaurant. You have noticed that 
 
 ## External Reading
 
-- [This article from ContekPro discusses how factory-built modular kitchens benefit the hospitality industry by using fewer materials and offering efficient construction solutions.](https://www.contekpro.com/blog/hospitality-construction-modular-kitchen)
-- [Published by the National Health Systems Resource Centre, this document provides guidelines on modern kitchen and dietary services, including modular kitchen setups.](https://nhsrcindia.org/sites/default/files/Guidelines%20for%20Modern%20Kitchen%20and%20Diatery%20Services.pdf)
-- [SilverChef explains why modular designs are preferred in commercial kitchens, emphasizing flexibility and adaptability in the hospitality industry.](https://www.silverchef.com.au/blogs/resources/why-modular-designs-are-the-future-of-commercial-kitchens)
-- [FHA-HoReCa provides a glossary entry on kitchen layouts, highlighting the modular approach with pre-made units for efficient design in hospitality settings.](https://fhahoreca.com/glossary/kitchen-layout/)
-- [This guide from Modular and Wood offers a comprehensive overview of modular kitchens, detailing their construction and assembly process.](https://www.modularandwood.com/post/a-guide-to-modular-kitchens)
+
+
+## External Reading
+
+*   [This article from ContekPro discusses how factory-built modular kitchens benefit the hospitality industry by using fewer materials and offering efficient construction solutions.](https://www.contekpro.com/blog/hospitality-construction-modular-kitchen)
+*   [Published by the National Health Systems Resource Centre, this document provides guidelines on modern kitchen and dietary services, including modular kitchen setups.](https://nhsrcindia.org/sites/default/files/Guidelines%20for%20Modern%20Kitchen%20and%20Diatery%20Services.pdf)
+*   [SilverChef explains why modular designs are preferred in commercial kitchens, emphasizing flexibility and adaptability in the hospitality industry.](https://www.silverchef.com.au/blogs/resources/why-modular-designs-are-the-future-of-commercial-kitchens)
+*   [FHA-HoReCa provides a glossary entry on kitchen layouts, highlighting the modular approach with pre-made units for efficient design in hospitality settings.](https://fhahoreca.com/glossary/kitchen-layout/)
+*   [This guide from Modular and Wood offers a comprehensive overview of modular kitchens, detailing their construction and assembly process.](https://www.modularandwood.com/post/a-guide-to-modular-kitchens)

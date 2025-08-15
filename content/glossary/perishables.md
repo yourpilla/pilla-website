@@ -1,10 +1,44 @@
 ---
 title: "Perishables"
 slug: "perishables"
-meta: >-
+meta: |
   Perishables are food and beverage items that spoil quickly, like fresh produce, dairy, and meats. Managing them well reduces waste and ensures quality service.
 seo_title: "What are Perishables in the hospitality industry?"
 unique_id: "1724412869104x761139370844407700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Perishables",
+    "description": "Perishables are food items with a short life span that will spoil or go off if not stored or used properly. These include fresh fruit, vegetables, dairy, meats and some baked goods. In hospitality, perishables are a key part of food service operations that need careful management to maintain quality and reduce waste.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/perishables"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Perishables",
+        "item": "https://yourpilla.com/glossary/perishables"
+      }
+    ]
+  }
 ---
 
 Perishables are food items with a short life span that will spoil or go off if not stored or used properly. These include fresh fruit, vegetables, dairy, meats and some baked goods. In hospitality perishables are a key part of food service operations and need to be managed carefully to maintain quality and reduce waste.
@@ -15,8 +49,12 @@ Imagine you’re a chef in a busy restaurant. You’ve just received a big deliv
 
 ## External Reading
 
-- [Detailed explanation of perishability in hospitality, focusing on the concept of unsold services like hotel rooms.](https://www.hotelpricereporter.com/term/perishable/)
-- [Educational resource explaining perishable foods, their characteristics, and examples, relevant for understanding perishables in hospitality.](https://study.com/academy/lesson/what-is-perishable-food-definition-examples.html)
-- [Comprehensive guide on managing perishable inventory, including strategies and tracking, applicable to hospitality settings.](https://www.netsuite.com/portal/resource/articles/inventory-management/perishable-inventory.shtml)
-- [Overview of perishability and its implications across various industries, including hospitality.](https://www.indeed.com/career-advice/career-development/perishability)
-- [In-depth analysis of perishability, its importance, and examples, providing a macroeconomic perspective relevant to hospitality.](https://www.financestrategists.com/wealth-management/macroeconomics/perishability/)
+
+
+## External Reading
+
+*   [Detailed explanation of perishability in hospitality, focusing on the concept of unsold services like hotel rooms.](https://www.hotelpricereporter.com/term/perishable/)
+*   [Educational resource explaining perishable foods, their characteristics, and examples, relevant for understanding perishables in hospitality.](https://study.com/academy/lesson/what-is-perishable-food-definition-examples.html)
+*   [Comprehensive guide on managing perishable inventory, including strategies and tracking, applicable to hospitality settings.](https://www.netsuite.com/portal/resource/articles/inventory-management/perishable-inventory.shtml)
+*   [Overview of perishability and its implications across various industries, including hospitality.](https://www.indeed.com/career-advice/career-development/perishability)
+*   [In-depth analysis of perishability, its importance, and examples, providing a macroeconomic perspective relevant to hospitality.](https://www.financestrategists.com/wealth-management/macroeconomics/perishability/)

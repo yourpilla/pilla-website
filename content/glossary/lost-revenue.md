@@ -1,10 +1,44 @@
 ---
 title: "Lost Revenue"
 slug: "lost-revenue"
-meta: >-
+meta: |
   Lost revenue refers to potential income that a hotel, restaurant, cafe, or bar misses out on due to cancellations, no-shows, or unoccupied rooms and tables.
 seo_title: "What are Lost Revenues in the hospitality industry?"
 unique_id: "1726569751883x389488426275563140"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Lost revenue",
+    "description": "Lost revenue is the revenue a business misses out on due to unsold rooms, unbooked tables, cancellations, or missed upsell opportunities, representing the difference between potential earnings and actual earnings.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/lost-revenue"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Lost Revenue",
+        "item": "https://yourpilla.com/glossary/lost-revenue"
+      }
+    ]
+  }
 ---
 
 Lost revenue is the revenue a business misses out on due to various reasons. This can be unsold rooms, unbooked tables, cancellations or missed upsell opportunities. It's the difference between what a business could have earned and what it actually earned.
@@ -15,8 +49,12 @@ Let’s say you're a restaurant manager and you notice your restaurant is only h
 
 ## External Reading
 
-- [A comprehensive glossary of hotel revenue management terms, providing detailed explanations and insights into industry jargon.](https://www.mylighthouse.com/resources/blog/hotel-revenue-management-glossary)
-- [Offers definitions and phrases used in the hospitality industry, essential for understanding revenue management concepts.](https://ideas.com/tools-resources/hotel-glossary-terms/)
-- [An ultimate guide to revenue management, explaining the art and science of predicting demand and maximizing revenue.](https://www.netsuite.com/portal/resource/articles/financial-management/revenue-management.shtml)
-- [Defines hotel revenue management and discusses effective strategies for increasing revenue in the hospitality sector.](https://www.altexsoft.com/blog/hotel-revenue-management-solutions-best-practices-revenue-managers-role/)
-- [An in-depth guide to hotel revenue management, covering strategic distribution and pricing tactics for optimizing revenue.](https://www.hotelnewsresource.com/article119366.html)
+
+
+## External Reading
+
+*   [A comprehensive glossary of hotel revenue management terms, providing detailed explanations and insights into industry jargon.](https://www.mylighthouse.com/resources/blog/hotel-revenue-management-glossary)
+*   [Offers definitions and phrases used in the hospitality industry, essential for understanding revenue management concepts.](https://ideas.com/tools-resources/hotel-glossary-terms/)
+*   [An ultimate guide to revenue management, explaining the art and science of predicting demand and maximizing revenue.](https://www.netsuite.com/portal/resource/articles/financial-management/revenue-management.shtml)
+*   [Defines hotel revenue management and discusses effective strategies for increasing revenue in the hospitality sector.](https://www.altexsoft.com/blog/hotel-revenue-management-solutions-best-practices-revenue-managers-role/)
+*   [An in-depth guide to hotel revenue management, covering strategic distribution and pricing tactics for optimizing revenue.](https://www.hotelnewsresource.com/article119366.html)

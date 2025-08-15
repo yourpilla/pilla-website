@@ -1,10 +1,45 @@
 ---
 title: "Dégustation"
 slug: "dégustation"
-meta: >-
+meta: |
   Dégustation is a tasting menu offering small, curated dishes to showcase a chef's skills and creativity. It enhances guests' dining experience with diverse flavours.
 seo_title: "What is Dégustation in the hospitality industry?"
 unique_id: "1725917066386x919681459858923800"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Dégustation",
+    "description": "Dégustation means a carefully selected tasting menu with small portions of many dishes, offering a culinary journey through diverse flavours and textures that showcase the chef’s skills and creativity.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/degustation",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Dégustation",
+        "item": "https://yourpilla.com/glossary/dégustation"
+      }
+    ]
+  }
 ---
 
 Dégustation means a carefully selected tasting menu, with small portions of many dishes. This is a culinary journey to taste many flavours and textures, to see the chef’s skills and creativity. Dégustation menus often have innovative combinations and cooking techniques, to show you the full scope of the restaurant’s cuisine.
@@ -15,8 +50,12 @@ Let’s say you’re a sommelier at a fine dining restaurant and the chef has ju
 
 ## External Reading
 
-- [Provides a clear definition of 'Dégustation', focusing on the action of tasting, which is essential for understanding its application in hospitality.](https://www.merriam-webster.com/dictionary/degustation)
-- [Offers a comprehensive definition of 'Dégustation', including examples and pronunciation, useful for hospitality professionals.](https://www.collinsdictionary.com/us/dictionary/english/degustation)
-- [Explores the role of gastronomy and wine tourism, highlighting the importance of dégustation in promoting local economic development.](http://www.unwto.org/gastronomy-wine-tourism)
-- [Details the Certified Sommelier Examination, emphasizing the significance of tasting skills, which are central to dégustation practices.](https://www.mastersommeliers.org/certification/certification-levels/certified-sommelier-examination/)
-- [Discusses the guest experience in hotels, where dégustation can enhance the overall satisfaction of guests through curated tasting events.](https://www.littlehotelier.com/blog/running-your-property/hotel-guest-experience/)
+
+
+## External Reading
+
+*   [Provides a clear definition of 'Dégustation', focusing on the action of tasting, which is essential for understanding its application in hospitality.](https://www.merriam-webster.com/dictionary/degustation)
+*   [Offers a comprehensive definition of 'Dégustation', including examples and pronunciation, useful for hospitality professionals.](https://www.collinsdictionary.com/us/dictionary/english/degustation)
+*   [Explores the role of gastronomy and wine tourism, highlighting the importance of dégustation in promoting local economic development.](http://www.unwto.org/gastronomy-wine-tourism)
+*   [Details the Certified Sommelier Examination, emphasizing the significance of tasting skills, which are central to dégustation practices.](https://www.mastersommeliers.org/certification/certification-levels/certified-sommelier-examination/)
+*   [Discusses the guest experience in hotels, where dégustation can enhance the overall satisfaction of guests through curated tasting events.](https://www.littlehotelier.com/blog/running-your-property/hotel-guest-experience/)

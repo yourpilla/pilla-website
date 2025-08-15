@@ -1,10 +1,44 @@
 ---
 title: "Curbside Pickup"
 slug: "curbside-pickup"
-meta: >-
+meta: |
   Curbside Pickup allows customers to order food online or by phone and collect it from a designated area outside the restaurant, cafe, or bar, enhancing convenience.
 seo_title: "What is Curbside Pickup in the hospitality industry?"
 unique_id: "1723823463772x309093852806213250"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Curbside pickup",
+    "description": "Curbside pickup is where customers order in advance and pick up from a designated area outside the business without getting out of their car. This contactless service allows businesses to operate quickly and efficiently, typically for food, beverages, and other products or services.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/curbside-pickup"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Curbside Pickup",
+        "item": "https://yourpilla.com/glossary/curbside-pickup"
+      }
+    ]
+  }
 ---
 
 Curbside pickup is where customers order in advance and pick up from a designated area outside the business without getting out of their car. This contactless way of serving allows businesses to serve fast and efficiently, with minimal face-to-face interaction. For hospitality businesses curbside pickup usually means food and beverage orders but can also be for other products or services as well.
@@ -15,8 +49,12 @@ Let’s say you run a busy city centre café. You notice a drop in foot traffic 
 
 ## External Reading
 
-- [Provides a practical guide to implementing curbside pickup in restaurants, detailing strategies and tips for success.](https://restaurant.eatapp.co/blog/a-practical-guide-to-restaurant-curbside-pickup-strategies-and-tips)
-- [Explains the method of serving takeout via curbside pickup, focusing on restaurant operations.](https://www.touchbistro.com/blog/guide-to-restaurant-curbside-pickup/)
-- [Discusses the design and implementation of curbside pickup services, combining in-store pickup and delivery benefits.](https://www.usa-shade.com/blog/guide-to-designing-curbside-pickup-shopping/)
-- [Offers a comprehensive guide on curbside pickup, including tips for implementation and pros and cons.](https://detroitsmallbusiness.umich.edu/research/curbside-pickup-guide/)
-- [Defines curbside delivery and explains its benefits, focusing on minimal in-person contact.](https://simpletexting.com/blog/what-is-curbside-delivery/)
+
+
+## External Reading
+
+*   [Provides a practical guide to implementing curbside pickup in restaurants, detailing strategies and tips for success.](https://restaurant.eatapp.co/blog/a-practical-guide-to-restaurant-curbside-pickup-strategies-and-tips)
+*   [Explains the method of serving takeout via curbside pickup, focusing on restaurant operations.](https://www.touchbistro.com/blog/guide-to-restaurant-curbside-pickup/)
+*   [Discusses the design and implementation of curbside pickup services, combining in-store pickup and delivery benefits.](https://www.usa-shade.com/blog/guide-to-designing-curbside-pickup-shopping/)
+*   [Offers a comprehensive guide on curbside pickup, including tips for implementation and pros and cons.](https://detroitsmallbusiness.umich.edu/research/curbside-pickup-guide/)
+*   [Defines curbside delivery and explains its benefits, focusing on minimal in-person contact.](https://simpletexting.com/blog/what-is-curbside-delivery/)

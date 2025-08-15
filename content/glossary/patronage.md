@@ -1,10 +1,45 @@
 ---
 title: "Patronage"
 slug: "patronage"
-meta: >-
+meta: |
   Patronage refers to the regular support and business that customers give to a hospitality establishment, such as a hotel, restaurant, café, or bar.
 seo_title: "What is Patronage in the hospitality industry?"
 unique_id: "1722792370727x617841924793647300"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Patronage",
+    "description": "Patronage is the regular custom or support given to a business, especially in the hospitality industry. It's the ongoing relationship between a venue and its customers, where customers keep coming back and spending money at the same place. This goes beyond transactions; it's about loyalty, preference and a connection between the business and its patrons.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/patronage",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Patronage",
+        "item": "https://yourpilla.com/glossary/patronage"
+      }
+    ]
+  }
 ---
 
 Patronage is the regular custom or support given to a business, especially in the hospitality industry. It's the ongoing relationship between a venue and its customers, where customers keep coming back and spending money at the same place. This goes beyond transactions; it's about loyalty, preference and a connection between the business and its patrons.
@@ -15,8 +50,12 @@ Let’s say you're a bartender at a local pub. You see a group of friends come i
 
 ## External Reading
 
-- [Provides a clear definition of patronage, including its application in hospitality contexts.](https://www.collinsdictionary.com/us/dictionary/english/patronage)
-- [Research study examining the relationship between innovation and customer patronage in the hospitality industry.](https://www.researchgate.net/publication/368881987_Innovation_and_Customers_Patronage_in_the_Hospitality_Industry_A_Study_of_Selected_Hotels_in_Anambra_State_of_the_Creative_Commons_Attribution_License_CC_BY_40)
-- [Offers a definition of patronage with specific reference to its role in the hospitality industry.](https://www.dictionary.com/browse/patronage)
-- [Explores the impact of sustainability on customer patronage intentions within the hospitality sector.](https://www.frontiersin.org/journals/sustainable-tourism/articles/10.3389/frsut.2024.1429472/full)
-- [Study analyzing how business location affects customer patronage in the hotel industry.](https://www.researchgate.net/publication/371464364_Business_Location_and_Customer_Patronage_in_the_Hotel_Industry_in_Benue_State_Nigeria)
+
+
+## External Reading
+
+*   [Provides a clear definition of patronage, including its application in hospitality contexts.](https://www.collinsdictionary.com/us/dictionary/english/patronage)
+*   [Research study examining the relationship between innovation and customer patronage in the hospitality industry.](https://www.researchgate.net/publication/368881987_Innovation_and_Customers_Patronage_in_the_Hospitality_Industry_A_Study_of_Selected_Hotels_in_Anambra_State_of_the_Creative_Commons_Attribution_License_CC_BY_40)
+*   [Offers a definition of patronage with specific reference to its role in the hospitality industry.](https://www.dictionary.com/browse/patronage)
+*   [Explores the impact of sustainability on customer patronage intentions within the hospitality sector.](https://www.frontiersin.org/journals/sustainable-tourism/articles/10.3389/frsut.2024.1429472/full)
+*   [Study analyzing how business location affects customer patronage in the hotel industry.](https://www.researchgate.net/publication/371464364_Business_Location_and_Customer_Patronage_in_the_Hotel_Industry_in_Benue_State_Nigeria)

@@ -1,10 +1,45 @@
 ---
 title: "Bain-Marie"
 slug: "bain-marie"
-meta: >-
+meta: |
   A Bain-Marie is a water bath used in kitchens to gently heat food, keeping it warm without burning. It’s ideal for sauces, soups, and delicate dishes.
 seo_title: "What is a Bain-Marie in the hospitality industry?"
 unique_id: "1725199991132x262107866735398880"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Bain-marie",
+    "description": "A bain-marie, also known as a water bath or double boiler, is a piece of kitchen equipment used for gentle heating and keeping food warm. It consists of two vessels: a larger one filled with hot water and a smaller one placed inside it containing the food or ingredients to be heated, with the outer water bath transferring heat evenly to prevent direct contact with the heat source.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/bain-marie",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Bain-Marie",
+        "item": "https://yourpilla.com/glossary/bain-marie"
+      }
+    ]
+  }
 ---
 
 A bain-marie, also known as a water bath or double boiler, is a piece of kitchen equipment used for gentle heating and keeping food warm. It consists of two vessels: a larger one filled with hot water and a smaller one placed inside it containing the food or ingredients to be heated. The water in the outer container transfers heat evenly to the inner vessel, preventing direct contact with the heat source.
@@ -15,8 +50,12 @@ Picture this: You're a chef at a busy restaurant, preparing for the dinner rush.
 
 ## External Reading
 
-- [Detailed buying guide from Nisbets explaining the use and purpose of a bain-marie in hospitality settings.](https://www.nisbets.co.uk/bain-marie-buying-guide)
-- [Wasserstrom's blog provides an in-depth explanation of bain-marie, its uses in cooking and food warming.](https://www.wasserstrom.com/blog/2018/10/05/bain-marie-explained/)
-- [Chef's Deal blog discusses the types, uses, and benefits of bain-marie as a buffet food warmer.](https://www.chefsdeal.com/blog/bain-marie-buffet-food-warmer)
-- [Lark's glossary entry provides a clear definition and explanation of the bain-marie's function in food service.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/bain-marie)
-- [CaterWare's guide offers practical insights into using bain-maries to maintain food temperature in hospitality.](https://www.caterware.com.au/the-ultimate-guide-to-bain-maries-how-to-keep-food-warm/)
+
+
+## External Reading
+
+*   [Detailed buying guide from Nisbets explaining the use and purpose of a bain-marie in hospitality settings.](https://www.nisbets.co.uk/bain-marie-buying-guide)
+*   [Wasserstrom's blog provides an in-depth explanation of bain-marie, its uses in cooking and food warming.](https://www.wasserstrom.com/blog/2018/10/05/bain-marie-explained/)
+*   [Chef's Deal blog discusses the types, uses, and benefits of bain-marie as a buffet food warmer.](https://www.chefsdeal.com/blog/bain-marie-buffet-food-warmer)
+*   [Lark's glossary entry provides a clear definition and explanation of the bain-marie's function in food service.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/bain-marie)
+*   [CaterWare's guide offers practical insights into using bain-maries to maintain food temperature in hospitality.](https://www.caterware.com.au/the-ultimate-guide-to-bain-maries-how-to-keep-food-warm/)

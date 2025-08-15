@@ -1,10 +1,44 @@
 ---
 title: "Room turnover"
 slug: "room-turnover"
-meta: >-
+meta: |
   Room turnover refers to the process of cleaning and preparing a hotel room for the next guest after the previous guest checks out, ensuring quick readiness.
 seo_title: "What is Room turnover in the hospitality industry?"
 unique_id: "1722588031893x704522656003304000"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Room turnover",
+    "description": "Room turnover is the process of cleaning and preparing a room for the next guest after checkout, including cleaning, restocking supplies, and ensuring high quality and cleanliness standards.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/room-turnover"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Room turnover",
+        "item": "https://yourpilla.com/glossary/room-turnover"
+      }
+    ]
+  }
 ---
 
 Room turnover (or room turn around) is the process of getting a room or accommodation ready for the next guest after the previous guest has checked out. This includes cleaning, restocking supplies and making sure everything is perfect for the next guest. The turn around process involves changing bed linen, sanitising surfaces, restocking amenities and a full inspection to maintain the room's quality and cleanliness standards.
@@ -15,8 +49,12 @@ Imagine you're the head housekeeper at a busy beach hotel during peak season. A 
 
 ## External Reading
 
-- [Detailed explanation of hotel room turnover, covering the process and tasks involved in preparing a room for the next guest.](https://www.sabcleaning.com/glossario/what-is-hotel-room-turnover/)
-- [Discusses causes of high hotel turnover rates and provides solutions, offering insights into improving operational efficiency.](https://www.canarytechnologies.com/post/how-to-fix-high-hotel-turnover-rates)
-- [Explores reasons for employee turnover in the hospitality industry and suggests strategies to mitigate it.](https://www.roostedhr.com/8-reasons-for-employee-turnover-in-hospitality/)
-- [Explains lodging turnover, focusing on revenue generation through room rentals, and provides a simple calculation method.](https://www.happyhotel.io/en/lexicon/lodging-turnover)
-- [Offers guidance on operating metrics for the Rooms Department, including revenue mix and room inventory management.](https://www.hotstats.com/hotel-industry-resources/rooms-department-and-operating-metrics)
+
+
+## External Reading
+
+*   [Detailed explanation of hotel room turnover, covering the process and tasks involved in preparing a room for the next guest.](https://www.sabcleaning.com/glossario/what-is-hotel-room-turnover/)
+*   [Discusses causes of high hotel turnover rates and provides solutions, offering insights into improving operational efficiency.](https://www.canarytechnologies.com/post/how-to-fix-high-hotel-turnover-rates)
+*   [Explores reasons for employee turnover in the hospitality industry and suggests strategies to mitigate it.](https://www.roostedhr.com/8-reasons-for-employee-turnover-in-hospitality/)
+*   [Explains lodging turnover, focusing on revenue generation through room rentals, and provides a simple calculation method.](https://www.happyhotel.io/en/lexicon/lodging-turnover)
+*   [Offers guidance on operating metrics for the Rooms Department, including revenue mix and room inventory management.](https://www.hotstats.com/hotel-industry-resources/rooms-department-and-operating-metrics)

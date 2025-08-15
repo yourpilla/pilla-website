@@ -1,10 +1,44 @@
 ---
 title: "Market share"
 slug: "marketshare"
-meta: >-
+meta: |
   Market share shows the percentage of total sales a hotel, restaurant, cafe, or bar captures within its market. Higher market share means better competitive performance.
 seo_title: "What is Market share in the hospitality industry?"
 unique_id: "1726569903233x606200953454914000"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Market share",
+    "description": "Market share is the percentage of the market a business or product holds, representing the proportion of total sales or customers a hospitality business captures compared to its competitors.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/market-share"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Market share",
+        "item": "https://yourpilla.com/glossary/marketshare"
+      }
+    ]
+  }
 ---
 
 Market share is the percentage of the market a business or product has. In hospitality, it’s the percentage of total sales or customers a hotel, restaurant or other hospitality business has compared to its competitors in an area or market segment. For example, if a hotel chain has 30% of all bookings in a city, that’s its market share in that location.
@@ -15,8 +49,12 @@ Let’s say you’re the manager of a beachfront resort. You notice your market 
 
 ## External Reading
 
-- [Detailed lesson on calculating market share in the hotel industry, explaining the concept and its application.](https://study.com/academy/lesson/how-to-calculate-hotel-market-share.html)
-- [Comprehensive glossary entry from Xotels defining market share within the hotel market.](https://www.xotels.com/en/glossary/market-share)
-- [Investopedia article explaining how to determine a company's market share, offering a broad perspective applicable to hospitality.](https://www.investopedia.com/ask/answers/033015/how-do-i-determine-particular-companys-market-share.asp)
-- [Resource explaining the concept of actual market share in the hospitality sector, focusing on room sales.](https://roompricegenie.com/actual-market-share-ams/)
-- [Xotels glossary entry defining fair market share, relevant for understanding competitive performance in hospitality.](https://www.xotels.com/en/glossary/fair-market-share)
+
+
+## External Reading
+
+*   [Detailed lesson on calculating market share in the hotel industry, explaining the concept and its application.](https://study.com/academy/lesson/how-to-calculate-hotel-market-share.html)
+*   [Comprehensive glossary entry from Xotels defining market share within the hotel market.](https://www.xotels.com/en/glossary/market-share)
+*   [Investopedia article explaining how to determine a company's market share, offering a broad perspective applicable to hospitality.](https://www.investopedia.com/ask/answers/033015/how-do-i-determine-particular-companys-market-share.asp)
+*   [Resource explaining the concept of actual market share in the hospitality sector, focusing on room sales.](https://roompricegenie.com/actual-market-share-ams/)
+*   [Xotels glossary entry defining fair market share, relevant for understanding competitive performance in hospitality.](https://www.xotels.com/en/glossary/fair-market-share)

@@ -1,10 +1,44 @@
 ---
 title: "Event Manager"
 slug: "event-manager"
-meta: >-
+meta: |
   An Event Manager plans, coordinates, and oversees events in hotels, restaurants, cafes, and bars, ensuring they run smoothly and meet client expectations.
 seo_title: "What is an Event Manager in the hospitality industry?"
 unique_id: "1722781939968x668157724990333700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Event Manager",
+    "description": "An Event Manager is a hospitality professional who plans, coordinates and manages events from small meetings to large conferences. They oversee everything from venue selection to catering to entertainment to logistics. Event Managers work with clients to understand their needs and ensure every detail meets expectations.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/event-manager"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Event Manager",
+        "item": "https://yourpilla.com/glossary/event-manager"
+      }
+    ]
+  }
 ---
 
 An Event Manager is a hospitality professional who plans, coordinates and manages events from small meetings to large conferences. They oversee everything from venue selection to catering to entertainment to logistics. Event Managers work with clients to understand their needs and make sure every detail meets their expectations.
@@ -15,8 +49,12 @@ Imagine you’re the Event Manager at a city centre hotel. A local company conta
 
 ## External Reading
 
-- [This resource provides a detailed explanation of what an event manager does, including responsibilities and skills required, making it highly relevant for understanding the role in hospitality.](https://www.perfectvenue.com/post/what-is-an-event-manager)
-- [Offers a comprehensive job description for event managers, detailing key responsibilities and required skills, which is crucial for understanding the role in the hospitality industry.](https://resources.workable.com/event-manager-job-description)
-- [Explains the critical responsibilities of an event manager, focusing on the design, set-up, and execution of events, providing practical insights into the role.](https://www.socialtables.com/blog/event-planning/what-an-event-manager-does/)
-- [Provides an ultimate guide to event management, covering the entire process from planning to execution, which is essential for understanding the broader context of an event manager's role.](https://www.cvent.com/en/blog/events/what-is-event-management)
-- [This job description template outlines the key duties and responsibilities of an event manager, offering valuable insights into the expectations and scope of the role.](https://hiring.monster.com/resources/job-descriptions/business-operations/event-manager/)
+
+
+## External Reading
+
+*   [This resource provides a detailed explanation of what an event manager does, including responsibilities and skills required, making it highly relevant for understanding the role in hospitality.](https://www.perfectvenue.com/post/what-is-an-event-manager)
+*   [Offers a comprehensive job description for event managers, detailing key responsibilities and required skills, which is crucial for understanding the role in the hospitality industry.](https://resources.workable.com/event-manager-job-description)
+*   [Explains the critical responsibilities of an event manager, focusing on the design, set-up, and execution of events, providing practical insights into the role.](https://www.socialtables.com/blog/event-planning/what-an-event-manager-does/)
+*   [Provides an ultimate guide to event management, covering the entire process from planning to execution, which is essential for understanding the broader context of an event manager's role.](https://www.cvent.com/en/blog/events/what-is-event-management)
+*   [This job description template outlines the key duties and responsibilities of an event manager, offering valuable insights into the expectations and scope of the role.](https://hiring.monster.com/resources/job-descriptions/business-operations/event-manager/)

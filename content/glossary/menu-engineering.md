@@ -1,10 +1,44 @@
 ---
 title: "Menu engineering"
 slug: "menu-engineering"
-meta: >-
+meta: |
   Menu engineering analyses the profitability and popularity of menu items in restaurants, cafes, and bars. It helps optimise the menu to increase revenue and customer satisfaction.
 seo_title: "What is Menu engineering in the hospitality industry?"
 unique_id: "1722589191188x320149412178780700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Menu engineering",
+    "description": "Menu engineering is a strategy to design and price menus to maximise profit in hospitality. It involves analysing sales data, food cost and customer preferences to create a menu that encourages customers to order high profit items, categorising dishes to assist informed decisions on pricing, placement and promotion.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/menu-engineering"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Menu engineering",
+        "item": "https://yourpilla.com/glossary/menu-engineering"
+      }
+    ]
+  }
 ---
 
 Menu engineering is a strategy to design and price menus to maximise profit in hospitality. It involves looking at sales data, food cost and customer preferences to create a menu that encourages customers to order high profit items. This method categorises menu items by popularity and profit to enable managers to make informed decisions on pricing, placement and promotion of dishes.
@@ -15,8 +49,12 @@ Let’s say you’re a chef at a busy café. You notice your avocado toast is po
 
 ## External Reading
 
-- [A comprehensive guide from The Fork Manager that explains menu engineering by analyzing menu data to optimize profitability and popularity.](https://www.theforkmanager.com/en-gb/blog/restaurant-management/comprehensive-guide-restaurant-menu-engineering)
-- [Lightspeed provides a detailed explanation of menu engineering, focusing on evaluating restaurant menu pricing using sales data and food costs.](https://www.lightspeedhq.com/blog/menu-engineering/)
-- [BC Open Textbooks offers an educational resource on the principles of menu engineering, discussing how to balance food cost items strategically.](https://opentextbc.ca/basickitchenandfoodservicemanagement/chapter/describe-the-principles-of-menu-engineering/)
-- [NetSuite provides strategies for creating a profitable menu using a data-driven approach to adjust menus based on dish popularity and profitability.](https://www.netsuite.com/portal/resource/articles/business-strategy/menu-engineering-your-way-to-restaurant-profitability.shtml)
-- [Toast offers a glossary of menu engineering terms, focusing on the visual science and appeal of a restaurant's menu design.](https://pos.toasttab.com/blog/on-the-line/menu-engineering-a-glossary-of-terms)
+
+
+## External Reading
+
+*   [A comprehensive guide from The Fork Manager that explains menu engineering by analyzing menu data to optimize profitability and popularity.](https://www.theforkmanager.com/en-gb/blog/restaurant-management/comprehensive-guide-restaurant-menu-engineering)
+*   [Lightspeed provides a detailed explanation of menu engineering, focusing on evaluating restaurant menu pricing using sales data and food costs.](https://www.lightspeedhq.com/blog/menu-engineering/)
+*   [BC Open Textbooks offers an educational resource on the principles of menu engineering, discussing how to balance food cost items strategically.](https://opentextbc.ca/basickitchenandfoodservicemanagement/chapter/describe-the-principles-of-menu-engineering/)
+*   [NetSuite provides strategies for creating a profitable menu using a data-driven approach to adjust menus based on dish popularity and profitability.](https://www.netsuite.com/portal/resource/articles/business-strategy/menu-engineering-your-way-to-restaurant-profitability.shtml)
+*   [Toast offers a glossary of menu engineering terms, focusing on the visual science and appeal of a restaurant's menu design.](https://pos.toasttab.com/blog/on-the-line/menu-engineering-a-glossary-of-terms)

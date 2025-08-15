@@ -1,10 +1,44 @@
 ---
 title: "Function Room"
 slug: "function-room"
-meta: >-
+meta: |
   A function room is a versatile space in hotels, restaurants, or bars used for events like meetings, weddings, or parties, accommodating various setups and needs.
 seo_title: "What is a Function Room in the hospitality industry?"
 unique_id: "1725633643735x289786370148235970"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Function room",
+    "description": "A function room is a multi-purpose space within a hotel or hospitality venue to host various events and get-togethers. It is larger than a standard guest room and can be arranged for conferences, weddings, business meetings, or private parties, featuring amenities such as audio-visual equipment, adjustable lighting, and flexible seating.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/function-room"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Function Room",
+        "item": "https://yourpilla.com/glossary/function-room"
+      }
+    ]
+  }
 ---
 
 A function room is a multi-purpose space within a hotel or hospitality venue to host various events and get-togethers. These rooms are bigger than standard guest rooms and can be set up to suit different purposes, such as conferences, weddings, business meetings or private parties. Function rooms often have audio-visual equipment, adjustable lighting and flexible seating to cater for all needs.
@@ -15,8 +49,12 @@ Let’s say you’re the events manager of a city centre hotel. A local tech com
 
 ## External Reading
 
-- [Provides a clear definition of a function room in the context of hospitality, explaining its use for events and gatherings.](https://www.collinsdictionary.com/us/dictionary/english/function-room)
-- [Offers a glossary of hospitality terms, including a detailed explanation of function rooms and their role in event management.](https://support.cvent.com/s/communityarticle/Hospitality-Glossary)
-- [Explains the concept of function room occupancy, detailing how hotels can optimize space usage for events.](https://www.xotels.com/en/glossary/function-room-occupancy)
-- [Provides guidance on setting up function spaces in hospitality settings, offering practical insights into room management.](https://docs.oracle.com/cd/F14158_11/books/Hospitality/setting-up-function-spaces-sleeping-rooms-and-suites.html)
-- [A comprehensive guide to hotel departments, including the function room's role and its importance in hotel operations.](https://www.siteminder.com/r/hotel-departments-building-functions/)
+
+
+## External Reading
+
+*   [Provides a clear definition of a function room in the context of hospitality, explaining its use for events and gatherings.](https://www.collinsdictionary.com/us/dictionary/english/function-room)
+*   [Offers a glossary of hospitality terms, including a detailed explanation of function rooms and their role in event management.](https://support.cvent.com/s/communityarticle/Hospitality-Glossary)
+*   [Explains the concept of function room occupancy, detailing how hotels can optimize space usage for events.](https://www.xotels.com/en/glossary/function-room-occupancy)
+*   [Provides guidance on setting up function spaces in hospitality settings, offering practical insights into room management.](https://docs.oracle.com/cd/F14158_11/books/Hospitality/setting-up-function-spaces-sleeping-rooms-and-suites.html)
+*   [A comprehensive guide to hotel departments, including the function room's role and its importance in hotel operations.](https://www.siteminder.com/r/hotel-departments-building-functions/)

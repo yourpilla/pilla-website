@@ -1,10 +1,45 @@
 ---
 title: "Rôtisseur"
 slug: "rôtisseur"
-meta: >-
+meta: |
   A rôtisseur, or roast chef, specialises in roasting meats and managing the rotisserie in restaurants. They ensure meats are cooked to perfection, enhancing guest satisfaction.
 seo_title: "What is a Rôtisseur in the hospitality industry?"
 unique_id: "1726570457765x769673756196070700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Rôtisseur",
+    "description": "A Rôtisseur is a chef who roasts meats. This chef is an expert in roasting all types of meat to achieve the perfect balance of flavour, texture and presentation. The term originates from the French word 'rôtir', meaning 'to roast', and encompasses knowledge of different cuts, seasoning methods, and precise cooking times and temperatures.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/rôtisseur",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Rôtisseur",
+        "item": "https://yourpilla.com/glossary/rôtisseur"
+      }
+    ]
+  }
 ---
 
 A Rôtisseur is a chef who roasts meats. This chef is an expert in roasting all types of meat to get the perfect balance of flavour, texture and presentation. The word comes from the French word 'rôtir' which means 'to roast'. A Rôtisseur's expertise goes beyond cooking; they know the ins and outs of different cuts of meat, seasoning methods and the perfect cooking time and temperature for each type of protein.
@@ -15,8 +50,12 @@ So you're the head chef of a busy steakhouse and you've just employed a new Rôt
 
 ## External Reading
 
-- [This manual from the Confrérie de la Chaîne des Rôtisseurs provides detailed insights into the role of a Maître Rôtisseur, including responsibilities and historical context.](https://www.chaineus.org/forms/Bailli-Manual.pdf)
-- [This article from Toast explains the role of a Rôtisseur in the kitchen, focusing on meat preparation and the skills required for this position.](https://pos.toasttab.com/blog/on-the-line/how-to-hire-all-types-of-chefs?srsltid=AfmBOopB8NdH0rwrvhaNWH0vjGIH9jlvcjETgCumgM-Okbeb1R66gKtJ)
-- [Chef Sac's blog post decodes the Rôtisseur station, detailing the responsibilities and techniques involved in roasting and braising.](https://www.chefsac.com/blogs/news/decoding-professional-kitchens-the-rotisseur-station)
-- [The Library of Congress guide provides historical context and operational insights into the hospitality industry, including roles like the Rôtisseur.](https://guides.loc.gov/hospitality-restaurants-hotels/history/manuals)
-- [SiteMinder's guide offers a comprehensive overview of the hospitality industry, touching on various roles including the Rôtisseur, and their impact on guest experience.](https://www.siteminder.com/r/hospitality-industry/)
+
+
+## External Reading
+
+*   [This manual from the Confrérie de la Chaîne des Rôtisseurs provides detailed insights into the role of a Maître Rôtisseur, including responsibilities and historical context.](https://www.chaineus.org/forms/Bailli-Manual.pdf)
+*   [This article from Toast explains the role of a Rôtisseur in the kitchen, focusing on meat preparation and the skills required for this position.](https://pos.toasttab.com/blog/on-the-line/how-to-hire-all-types-of-chefs?srsltid=AfmBOopB8NdH0rwrvhaNWH0vjGIH9jlvcjETgCumgM-Okbeb1R66gKtJ)
+*   [Chef Sac's blog post decodes the Rôtisseur station, detailing the responsibilities and techniques involved in roasting and braising.](https://www.chefsac.com/blogs/news/decoding-professional-kitchens-the-rotisseur-station)
+*   [The Library of Congress guide provides historical context and operational insights into the hospitality industry, including roles like the Rôtisseur.](https://guides.loc.gov/hospitality-restaurants-hotels/history/manuals)
+*   [SiteMinder's guide offers a comprehensive overview of the hospitality industry, touching on various roles including the Rôtisseur, and their impact on guest experience.](https://www.siteminder.com/r/hospitality-industry/)

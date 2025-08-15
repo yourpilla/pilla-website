@@ -1,10 +1,45 @@
 ---
 title: "Kitchen Pass"
 slug: "kitchen-pass"
-meta: >-
+meta: |
   The kitchen pass is the counter where chefs place finished dishes for servers to pick up and deliver to guests. It ensures smooth communication and service flow.
 seo_title: "What is a Kitchen Pass in the hospitality industry?"
 unique_id: "1726569591993x744440770040368800"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Kitchen pass",
+    "description": "The kitchen pass is a counter or window that separates the kitchen from the dining area in a restaurant or food service business. It is where finished dishes are placed for servers to collect and deliver, and may feature a heated surface and overhead lights.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/kitchen-pass",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Kitchen Pass",
+        "item": "https://yourpilla.com/glossary/kitchen-pass"
+      }
+    ]
+  }
 ---
 
 The kitchen pass, also known as the pass-through or just the pass, is the counter or window that separates the kitchen from the dining area in a restaurant or food service business. It's where finished dishes are put for servers to pick up and deliver to the customers. The pass may have a heated surface to keep food warm and overhead lights to illuminate the dishes.
@@ -15,8 +50,12 @@ Imagine this: You're a sous chef in an Italian restaurant on a Friday night. Ord
 
 ## External Reading
 
-- [This article from KRG Hospitality explains the concept of the 'pass' in a kitchen, detailing its role as the area where completed orders are placed for server pick-up.](https://krghospitality.com/2023/06/30/kitchen-parlance-part-one/)
-- [This guide from Toast provides an overview of kitchen slang, including the term 'pass,' helping readers understand back-of-house vocabulary.](https://pos.toasttab.com/blog/on-the-line/popular-kitchen-slang-terms?srsltid=AfmBOorvmJw6t3efQT-4vQiTYHSCFM2JvqrW1SgPdjjdF8vyU2aYwX7_)
-- [Cuboh's blog offers a comprehensive guide to restaurant lingo, including a definition of 'pass' as the area where food is plated and inspected before service.](https://www.cuboh.com/blog/restaurant-terms)
-- [Revolution Ordering's blog post explains kitchen slang, including the 'pass,' which is where dishes are assembled and checked before being picked up by servers.](https://www.revolutionordering.com/blog/kitchen-slang-and-kitchen-terms)
-- [WebstaurantStore provides a glossary of kitchen slang, including the 'pass,' described as the area in front of the cooking line for order placement.](https://www.webstaurantstore.com/article/511/kitchen-slang-phrases.html?srsltid=AfmBOooE0A9jF6Vg-bdGhscPk0bl2n2qbGYkRHoi2C4k-q_xNaKDR4wX)
+
+
+## External Reading
+
+*   [This article from KRG Hospitality explains the concept of the 'pass' in a kitchen, detailing its role as the area where completed orders are placed for server pick-up.](https://krghospitality.com/2023/06/30/kitchen-parlance-part-one/)
+*   [This guide from Toast provides an overview of kitchen slang, including the term 'pass,' helping readers understand back-of-house vocabulary.](https://pos.toasttab.com/blog/on-the-line/popular-kitchen-slang-terms?srsltid=AfmBOorvmJw6t3efQT-4vQiTYHSCFM2JvqrW1SgPdjjdF8vyU2aYwX7_)
+*   [Cuboh's blog offers a comprehensive guide to restaurant lingo, including a definition of 'pass' as the area where food is plated and inspected before service.](https://www.cuboh.com/blog/restaurant-terms)
+*   [Revolution Ordering's blog post explains kitchen slang, including the 'pass,' which is where dishes are assembled and checked before being picked up by servers.](https://www.revolutionordering.com/blog/kitchen-slang-and-kitchen-terms)
+*   [WebstaurantStore provides a glossary of kitchen slang, including the 'pass,' described as the area in front of the cooking line for order placement.](https://www.webstaurantstore.com/article/511/kitchen-slang-phrases.html?srsltid=AfmBOooE0A9jF6Vg-bdGhscPk0bl2n2qbGYkRHoi2C4k-q_xNaKDR4wX)

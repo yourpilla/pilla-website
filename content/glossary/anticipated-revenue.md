@@ -1,10 +1,44 @@
 ---
 title: "Anticipated Revenue"
 slug: "anticipated-revenue"
-meta: >-
+meta: |
   Anticipated Revenue refers to the projected income a hotel, restaurant, café, or bar expects to earn over a specific period, helping with budgeting and planning.
 seo_title: "What is Anticipated Revenue in the hospitality industry?"
 unique_id: "1723805955569x937734779315784400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Expected revenue",
+    "description": "Expected revenue is the money a hospitality business expects to make over a period of time based on historical data, current bookings, and market trends.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/expected-revenue"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Anticipated Revenue",
+        "item": "https://yourpilla.com/glossary/anticipated-revenue"
+      }
+    ]
+  }
 ---
 
 Expected revenue is the money a hospitality business expects to make over a period of time. This is based on historical data, current bookings and market trends. For hotels, it might be room rates, food and beverage sales, and other services. For restaurants, it might be covers, average spend per customer, and special events.
@@ -15,8 +49,12 @@ Let's say you're the manager of a beachfront restaurant. It's winter, but you're
 
 ## External Reading
 
-- [An 8-step guide from OTA Insight that provides a detailed process for forecasting hotel revenue, helping to turn data into actionable decisions.](https://www.mylighthouse.com/resources/blog/how-to-forecast-hotel-revenue)
-- [A comprehensive article by NetSuite explaining the importance of hotel forecasting, including expected revenue, expenses, and profits.](https://www.netsuite.com/portal/resource/articles/financial-management/hotel-forecasting.shtml)
-- [A glossary from IDeaS that defines key hotel revenue management terms, offering insights into expected revenue and other financial metrics.](https://ideas.com/tools-resources/hotel-glossary-terms/)
-- [An article by Smith Travel Research explaining hotel revenue management, focusing on data and analytics to predict future revenue.](https://str.com/data-insights-blog/what-is-revenue-management)
-- [A guide from the Glion Institute of Higher Education that explores various aspects of hotel revenue management, including expected revenue strategies.](https://www.glion.edu/magazine/revenue-management-in-hotels/)
+
+
+## External Reading
+
+*   [An 8-step guide from OTA Insight that provides a detailed process for forecasting hotel revenue, helping to turn data into actionable decisions.](https://www.mylighthouse.com/resources/blog/how-to-forecast-hotel-revenue)
+*   [A comprehensive article by NetSuite explaining the importance of hotel forecasting, including expected revenue, expenses, and profits.](https://www.netsuite.com/portal/resource/articles/financial-management/hotel-forecasting.shtml)
+*   [A glossary from IDeaS that defines key hotel revenue management terms, offering insights into expected revenue and other financial metrics.](https://ideas.com/tools-resources/hotel-glossary-terms/)
+*   [An article by Smith Travel Research explaining hotel revenue management, focusing on data and analytics to predict future revenue.](https://str.com/data-insights-blog/what-is-revenue-management)
+*   [A guide from the Glion Institute of Higher Education that explores various aspects of hotel revenue management, including expected revenue strategies.](https://www.glion.edu/magazine/revenue-management-in-hotels/)

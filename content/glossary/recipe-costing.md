@@ -1,10 +1,44 @@
 ---
 title: "Recipe Costing"
 slug: "recipe-costing"
-meta: >-
+meta: |
   Recipe costing calculates the total cost of ingredients for a dish, helping restaurants, cafes, and bars set menu prices and maintain profitability.
 seo_title: "What is Recipe Costing in the hospitality industry?"
 unique_id: "1726570381834x797020690104892400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Recipe costing",
+    "description": "Recipe costing is the process of determining the exact cost of each ingredient in a dish by measuring and pricing every component to calculate the total cost, ensuring menu items are correctly priced and margins maintained.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/recipe-costing"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Recipe Costing",
+        "item": "https://yourpilla.com/glossary/recipe-costing"
+      }
+    ]
+  }
 ---
 
 Recipe costing is the process of working out the exact cost of each ingredient in a dish to calculate the total cost. This means measuring and pricing every component, from main ingredients to spices and garnishes. This way you can price your menu items correctly and maintain your margins. Recipe costing helps you understand the financial impact of every dish you serve.
@@ -15,8 +49,12 @@ Let’s say you are a chef at a busy café. You have just created a new avocado 
 
 ## External Reading
 
-- [A comprehensive guide on recipe costing, explaining the process of calculating the total cost to prepare a single serving of a dish.](https://bepbackoffice.com/blog/recipe-costing-101/)
-- [An ultimate guide detailing the process used to figure out the total cost of a recipe, essential for restaurant cost management.](https://www.chefcollective.com.au/blog/ultimate-guide-recipe-costing/)
-- [Explains the difference between recipe costing and food costing, providing insights into cost management for restaurants.](https://www.restaurant365.com/blog/recipe-costing-vs-food-costing/)
-- [A detailed explanation of recipe costing, focusing on calculating the individual cost of each ingredient for a dish.](https://www.lightspeedhq.com/blog/recipe-costing/)
-- [An educational resource from Penn State Pressbooks, covering recipe and menu costing, including standard portion costs.](https://psu.pb.unizin.org/hmd329/chapter/ch7/)
+
+
+## External Reading
+
+*   [A comprehensive guide on recipe costing, explaining the process of calculating the total cost to prepare a single serving of a dish.](https://bepbackoffice.com/blog/recipe-costing-101/)
+*   [An ultimate guide detailing the process used to figure out the total cost of a recipe, essential for restaurant cost management.](https://www.chefcollective.com.au/blog/ultimate-guide-recipe-costing/)
+*   [Explains the difference between recipe costing and food costing, providing insights into cost management for restaurants.](https://www.restaurant365.com/blog/recipe-costing-vs-food-costing/)
+*   [A detailed explanation of recipe costing, focusing on calculating the individual cost of each ingredient for a dish.](https://www.lightspeedhq.com/blog/recipe-costing/)
+*   [An educational resource from Penn State Pressbooks, covering recipe and menu costing, including standard portion costs.](https://psu.pb.unizin.org/hmd329/chapter/ch7/)

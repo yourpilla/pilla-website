@@ -1,10 +1,44 @@
 ---
 title: "Average Rate Index"
 slug: "average-rate-index"
-meta: >-
+meta: |
   The Average Rate Index (ARI) compares a property's average daily rate (ADR) to its competitive set. An ARI above 100 indicates a higher ADR than competitors.
 seo_title: "What is the Average Rate Index in the hospitality industry?"
 unique_id: "1722522526486x566186761578259840"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "ARI",
+    "description": "ARI is a key performance metric in the hospitality industry that compares your average daily rate to your competitors by dividing your ADR by their ADR and multiplying by 100, indicating whether you are outperforming or need improvement.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/ari"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Average Rate Index",
+        "item": "https://yourpilla.com/glossary/average-rate-index"
+      }
+    ]
+  }
 ---
 
 ARI is a key performance metric in the hospitality industry to compare your average daily rate (ADR) to your competitors. It’s calculated by dividing your ADR by your competitors' ADR and then multiplying by 100. If ARI is above 100 you are outperforming, below 100 you need to improve.
@@ -15,8 +49,12 @@ Let’s say you’re the revenue manager of a boutique hotel in London. Your hot
 
 ## External Reading
 
-- [Comprehensive article from Cloudbeds explaining the Average Rate Index (ARI) as a key metric in hotel management, detailing how it evaluates room rate performance.](https://www.cloudbeds.com/articles/average-rate-index/)
-- [Glossary entry from Xotels defining ARI and explaining its role as a hotel KPI for measuring ADR performance against competitors.](https://www.xotels.com/en/glossary/ari-average-rate-index)
-- [Resource from Smith Travel Research providing a detailed explanation of ARI and its application in comparing hotel ADR performance within competitive sets.](https://str.com/resourcesglossary/average-rate-index-ari)
-- [Explanation from Canary Technologies on the Average Rate Index, focusing on its use in comparing hotel rates within a market.](https://www.canarytechnologies.com/hotel-terminology/ari)
-- [Blog post from Demand Calendar offering practical tips for maximizing ARI, RGI, and MPI, including a clear definition of ARI and its relevance in hotel benchmarking.](https://www.demandcalendar.com/blog/hotel-benchmarking-practical-tips-for-maximizing-rgi-ari-and-mpi)
+
+
+## External Reading
+
+*   [Comprehensive article from Cloudbeds explaining the Average Rate Index (ARI) as a key metric in hotel management, detailing how it evaluates room rate performance.](https://www.cloudbeds.com/articles/average-rate-index/)
+*   [Glossary entry from Xotels defining ARI and explaining its role as a hotel KPI for measuring ADR performance against competitors.](https://www.xotels.com/en/glossary/ari-average-rate-index)
+*   [Resource from Smith Travel Research providing a detailed explanation of ARI and its application in comparing hotel ADR performance within competitive sets.](https://str.com/resourcesglossary/average-rate-index-ari)
+*   [Explanation from Canary Technologies on the Average Rate Index, focusing on its use in comparing hotel rates within a market.](https://www.canarytechnologies.com/hotel-terminology/ari)
+*   [Blog post from Demand Calendar offering practical tips for maximizing ARI, RGI, and MPI, including a clear definition of ARI and its relevance in hotel benchmarking.](https://www.demandcalendar.com/blog/hotel-benchmarking-practical-tips-for-maximizing-rgi-ari-and-mpi)

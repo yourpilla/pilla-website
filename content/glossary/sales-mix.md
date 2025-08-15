@@ -1,10 +1,45 @@
 ---
 title: "Sales Mix"
 slug: "sales-mix"
-meta: >-
+meta: |
   Sales Mix refers to the variety and proportion of different products or services sold. It helps optimise offerings to maximise revenue and meet customer preferences.
 seo_title: "What is Sales Mix in the hospitality industry?"
 unique_id: "1726570457775x975057316889764500"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Sales mix",
+    "description": "Sales mix is the proportion of different products or services a hospitality business sells, representing the split of total sales across menu items, room types, or additional services.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/sales-mix",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Sales Mix",
+        "item": "https://yourpilla.com/glossary/sales-mix"
+      }
+    ]
+  }
 ---
 
 Sales mix is the proportion of different products or services a hospitality business sells. It's the split of total sales across different menu items, room types or additional services. For a restaurant it might be the percentage of starters, main courses, desserts and drinks. For a hotel it could be the split between standard rooms, suites and add-on services like spa treatments or room service. Knowing your sales mix helps you see which products are working and which need to be improved or removed.
@@ -15,8 +50,12 @@ Let’s say you're the manager of a boutique hotel with a rooftop restaurant. Yo
 
 ## External Reading
 
-- [Detailed explanation of sales mix, including definition, formula, and variance analysis, providing a comprehensive understanding of the concept.](https://study.com/academy/lesson/sales-mix-definition-formula-variance-analysis.html)
-- [Explains the sales mix in the F&B industry, highlighting its importance in understanding product contributions to total sales.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/sales-mix)
-- [Comprehensive guide on sales mix, discussing its significance in strategic decision-making and pricing strategies.](https://goodmeetings.ai/blog/sales-mix/)
-- [Resource focused on sales mix and menu mix for chefs, offering insights into food cost management and profitability.](https://www.chefs-resources.com/kitchen-management-tools/food-cost-tools/sales-mix-and-menu-mix-for-the-chef/)
-- [Discusses the role of sales mix in the hospitality industry, emphasizing its impact on revenue and profit optimization.](https://www.hotelexecutive.com/feature_focus/3763/sales-mix-your-ticket-to-incremental-revenues-and-profits)
+
+
+## External Reading
+
+*   [Detailed explanation of sales mix, including definition, formula, and variance analysis, providing a comprehensive understanding of the concept.](https://study.com/academy/lesson/sales-mix-definition-formula-variance-analysis.html)
+*   [Explains the sales mix in the F&B industry, highlighting its importance in understanding product contributions to total sales.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/sales-mix)
+*   [Comprehensive guide on sales mix, discussing its significance in strategic decision-making and pricing strategies.](https://goodmeetings.ai/blog/sales-mix/)
+*   [Resource focused on sales mix and menu mix for chefs, offering insights into food cost management and profitability.](https://www.chefs-resources.com/kitchen-management-tools/food-cost-tools/sales-mix-and-menu-mix-for-the-chef/)
+*   [Discusses the role of sales mix in the hospitality industry, emphasizing its impact on revenue and profit optimization.](https://www.hotelexecutive.com/feature_focus/3763/sales-mix-your-ticket-to-incremental-revenues-and-profits)

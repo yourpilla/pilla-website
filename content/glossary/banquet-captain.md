@@ -1,10 +1,45 @@
 ---
 title: "Banquet Captain"
 slug: "banquet-captain"
-meta: >-
+meta: |
   A Banquet Captain oversees the setup, service, and breakdown of banquet events. They ensure smooth operations, coordinate staff, and maintain high service standards.
 seo_title: "What is a Banquet Captain in the hospitality industry?"
 unique_id: "1723226734930x740153730947728100"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Banquet Captain",
+    "description": "A Banquet Captain is a senior team member who oversees the running of banquets and large events in hotels, restaurants and other hospitality venues. They manage the banquet team, liaise with the kitchen and ensure everything runs to plan. Banquet Captains are responsible for maintaining high standards of service, solving any problems that arise and being the link between the guest and the venue management.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/banquet-captain",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Banquet Captain",
+        "item": "https://yourpilla.com/glossary/banquet-captain"
+      }
+    ]
+  }
 ---
 
 A Banquet Captain is a senior team member who oversees the running of banquets and large events in hotels, restaurants and other hospitality venues. They manage the banquet team, liaise with the kitchen and ensure everything runs to plan. Banquet Captains are responsible for maintaining high standards of service, solving any problems that arise and being the link between the guest and the venue management.
@@ -15,8 +50,12 @@ Imagine this: You’re a Banquet Captain at a 5 star hotel in London. A wedding 
 
 ## External Reading
 
-- [Provides a comprehensive overview of the responsibilities and tips for becoming a banquet captain, highlighting the role's importance in hospitality.](https://www.qwick.com/blog/banquet-captain-jobs)
-- [Offers a detailed job description for a banquet captain, emphasizing their supervisory role in hospitality settings.](https://www.betterteam.com/banquet-captain-job-description)
-- [Describes the key responsibilities of a banquet captain in ensuring smooth event operations within the hospitality industry.](https://setupmyhotel.com/job-description-for-hotels/food-beverage-job-description/banquet-captain-job-description/)
-- [Explains the duties of a banquet captain, focusing on directing staff and managing meal services in hospitality environments.](https://www.zippia.com/banquet-captain-jobs/what-does-a-banquet-captain-do/)
-- [Details the role of a banquet and event captain, highlighting their liaison duties between staff and clients to ensure high-quality event execution.](https://www.smsu.edu/resources/webspaces/academics/programs/hospitality/banquet_and_event_captain.pdf)
+
+
+## External Reading
+
+*   [Provides a comprehensive overview of the responsibilities and tips for becoming a banquet captain, highlighting the role's importance in hospitality.](https://www.qwick.com/blog/banquet-captain-jobs)
+*   [Offers a detailed job description for a banquet captain, emphasizing their supervisory role in hospitality settings.](https://www.betterteam.com/banquet-captain-job-description)
+*   [Describes the key responsibilities of a banquet captain in ensuring smooth event operations within the hospitality industry.](https://setupmyhotel.com/job-description-for-hotels/food-beverage-job-description/banquet-captain-job-description/)
+*   [Explains the duties of a banquet captain, focusing on directing staff and managing meal services in hospitality environments.](https://www.zippia.com/banquet-captain-jobs/what-does-a-banquet-captain-do/)
+*   [Details the role of a banquet and event captain, highlighting their liaison duties between staff and clients to ensure high-quality event execution.](https://www.smsu.edu/resources/webspaces/academics/programs/hospitality/banquet_and_event_captain.pdf)

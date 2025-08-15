@@ -1,10 +1,45 @@
 ---
 title: "Scullery"
 slug: "scullery"
-meta: >-
+meta: |
   A scullery is a small kitchen area in restaurants, cafes, or bars where staff wash dishes, pots, and pans, keeping the main kitchen clean and efficient.
 seo_title: "What is a Scullery in the hospitality industry?"
 unique_id: "1726570481837x220330139812144220"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "scullery",
+    "description": "A scullery is a small room or area in a kitchen where you wash dishes, utensils and other kitchen equipment. It's separate from the main cooking area and usually has sinks, dishwashers and storage for cleaning products. The word comes from the Latin 'scutella' meaning tray or platter.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/scullery",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Scullery",
+        "item": "https://yourpilla.com/glossary/scullery"
+      }
+    ]
+  }
 ---
 
 A scullery is a small room or area in a kitchen where you wash dishes, utensils and other kitchen equipment. It's separate from the main cooking area and usually has sinks, dishwashers and storage for cleaning products. The word comes from the Latin 'scutella' meaning tray or platter.
@@ -15,8 +50,12 @@ You're the head chef at a busy beachside restaurant in peak season. The kitchen 
 
 ## External Reading
 
-- [Wikipedia provides a detailed overview of the scullery, explaining its traditional use in homes for washing dishes and laundering clothes, which is relevant to understanding its role in hospitality.](https://en.wikipedia.org/wiki/Scullery)
-- [ThoughtCo offers a historical perspective on the scullery, describing its function as a room adjoining the kitchen for cleaning and storing pots and pans.](https://www.thoughtco.com/what-is-a-scullery-177326)
-- [Merriam-Webster provides a concise definition of a scullery, emphasizing its role as a room for cleaning and storing dishes and cooking utensils.](https://www.merriam-webster.com/dictionary/scullery)
-- [Oxford Learner's Dictionaries defines a scullery as a small room next to the kitchen used for washing dishes, offering a straightforward explanation of its purpose.](https://www.oxfordlearnersdictionaries.com/definition/english/scullery)
-- [This PDF from the Internet Archive includes historical insights and definitions related to hospitality roles, including scullery men and maids, providing a comprehensive resource.](https://archive.org/download/b20391523/b20391523.pdf)
+
+
+## External Reading
+
+*   [Wikipedia provides a detailed overview of the scullery, explaining its traditional use in homes for washing dishes and laundering clothes, which is relevant to understanding its role in hospitality.](https://en.wikipedia.org/wiki/Scullery)
+*   [ThoughtCo offers a historical perspective on the scullery, describing its function as a room adjoining the kitchen for cleaning and storing pots and pans.](https://www.thoughtco.com/what-is-a-scullery-177326)
+*   [Merriam-Webster provides a concise definition of a scullery, emphasizing its role as a room for cleaning and storing dishes and cooking utensils.](https://www.merriam-webster.com/dictionary/scullery)
+*   [Oxford Learner's Dictionaries defines a scullery as a small room next to the kitchen used for washing dishes, offering a straightforward explanation of its purpose.](https://www.oxfordlearnersdictionaries.com/definition/english/scullery)
+*   [This PDF from the Internet Archive includes historical insights and definitions related to hospitality roles, including scullery men and maids, providing a comprehensive resource.](https://archive.org/download/b20391523/b20391523.pdf)

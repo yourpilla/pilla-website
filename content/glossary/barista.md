@@ -1,10 +1,44 @@
 ---
 title: "Barista"
 slug: "barista"
-meta: >-
+meta: |
   A barista is a skilled professional who prepares and serves coffee drinks, such as espresso, cappuccino, and latte, in cafes, restaurants, and bars.
 seo_title: "What is a Barista in the hospitality industry?"
 unique_id: "1723226675992x943701748952621400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Barista",
+    "description": "A barista is a trained professional who can make and serve great coffee. They know the art of coffee from bean to latte art and work in cafes, coffee shops, restaurants and hotels making a variety of espresso based drinks and other hot and cold drinks.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/barista"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Barista",
+        "item": "https://yourpilla.com/glossary/barista"
+      }
+    ]
+  }
 ---
 
 A barista is a trained professional who can make and serve great coffee. They know the art of coffee from bean to latte art. Baristas work in cafes, coffee shops, restaurants and hotels where they make a variety of espresso based drinks and other hot and cold drinks.
@@ -15,8 +49,12 @@ Imagine this: You’re the head chef of a busy hotel restaurant. You’ve just l
 
 ## External Reading
 
-- [Comprehensive guide from EHL Insights detailing the role of a barista and various coffee types, providing a thorough understanding of the profession.](https://hospitalityinsights.ehl.edu/barista)
-- [Detailed job description from Workable outlining the responsibilities and skills required for a barista, essential for understanding the role in hospitality.](https://resources.workable.com/barista-job-description)
-- [JURA's resource explaining the term 'barista' and its origins, offering insights into the skills and artistry involved in the profession.](https://www.jura.com/en/about-coffee/barista-overview/what-is-a-barista)
-- [Wonderopolis provides a clear definition of 'barista' and its cultural significance, enhancing understanding of the term in different contexts.](https://www.wonderopolis.org/wonder/what-is-a-barista)
-- [A comprehensive handbook offering in-depth knowledge and skills for baristas, serving as a practical guide to achieving excellence in the field.](https://ftp.goathouserefuge.org/HomePages/Resources/3350043/ProfessionalBaristaHandbook.pdf)
+
+
+## External Reading
+
+*   [Comprehensive guide from EHL Insights detailing the role of a barista and various coffee types, providing a thorough understanding of the profession.](https://hospitalityinsights.ehl.edu/barista)
+*   [Detailed job description from Workable outlining the responsibilities and skills required for a barista, essential for understanding the role in hospitality.](https://resources.workable.com/barista-job-description)
+*   [JURA's resource explaining the term 'barista' and its origins, offering insights into the skills and artistry involved in the profession.](https://www.jura.com/en/about-coffee/barista-overview/what-is-a-barista)
+*   [Wonderopolis provides a clear definition of 'barista' and its cultural significance, enhancing understanding of the term in different contexts.](https://www.wonderopolis.org/wonder/what-is-a-barista)
+*   [A comprehensive handbook offering in-depth knowledge and skills for baristas, serving as a practical guide to achieving excellence in the field.](https://ftp.goathouserefuge.org/HomePages/Resources/3350043/ProfessionalBaristaHandbook.pdf)

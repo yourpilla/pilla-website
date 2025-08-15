@@ -1,10 +1,45 @@
 ---
 title: "Rota"
 slug: "rota-rota"
-meta: >-
+meta: |
   A rota is a schedule that outlines the working hours and shifts for staff in hotels, restaurants, cafes, and bars, ensuring coverage and efficient operation.
 seo_title: "What is a rota in the hospitality industry?"
 unique_id: "1725199866048x386065476618194100"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Rota",
+    "description": "A rota, also known as a roster or schedule, is a timetable that outlines when staff members are expected to work, including employee names, shift times, and assigned duties for a specific period. It helps managers organise staff shifts efficiently to ensure adequate coverage during all operational hours.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/rota",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Rota",
+        "item": "https://yourpilla.com/glossary/rota-rota"
+      }
+    ]
+  }
 ---
 
 A rota, also known as a roster or schedule, is a timetable that outlines when staff members are expected to work. It typically includes the names of employees, their shift times, and assigned duties for a specific period, usually a week or a month. Rotas help managers organise staff shifts efficiently, ensuring adequate coverage during all operational hours.
@@ -15,8 +50,12 @@ Let's say you're the head chef at a popular bistro. You've just hired two new ki
 
 ## External Reading
 
-- [RotaCloud provides a glossary entry explaining what a rota is, including its use in scheduling work shifts.](https://rotacloud.com/glossary/rota/)
-- [When I Work offers a comprehensive guide on rota management, detailing how to use rotas for scheduling shifts effectively.](https://wheniwork.com/blog/rota-management)
-- [Employment Hero's glossary explains the concept of a rota in HR, focusing on its role in communicating work schedules.](https://employmenthero.com/uk/glossary/rota/)
-- [Papershift discusses the differences between a schedule and a rota, providing insights into their functions in workforce management.](https://www.papershift.com/en/lexicon/weekly-work-schedule)
-- [RotaCloud's blog entry serves as a guide for managers on rota management, offering strategies for effective staff scheduling.](https://rotacloud.com/blog/rota-management-guide-for-managers/)
+
+
+## External Reading
+
+*   [RotaCloud provides a glossary entry explaining what a rota is, including its use in scheduling work shifts.](https://rotacloud.com/glossary/rota/)
+*   [When I Work offers a comprehensive guide on rota management, detailing how to use rotas for scheduling shifts effectively.](https://wheniwork.com/blog/rota-management)
+*   [Employment Hero's glossary explains the concept of a rota in HR, focusing on its role in communicating work schedules.](https://employmenthero.com/uk/glossary/rota/)
+*   [Papershift discusses the differences between a schedule and a rota, providing insights into their functions in workforce management.](https://www.papershift.com/en/lexicon/weekly-work-schedule)
+*   [RotaCloud's blog entry serves as a guide for managers on rota management, offering strategies for effective staff scheduling.](https://rotacloud.com/blog/rota-management-guide-for-managers/)

@@ -1,10 +1,44 @@
 ---
 title: "Lunch Shift"
 slug: "lunch-shift"
-meta: >-
+meta: |
   Lunch shift refers to the work period during lunchtime, typically from late morning to early afternoon, when staff serve customers in restaurants, cafes, and bars.
 seo_title: "What are Lunch Shifts in the hospitality industry?"
 unique_id: "1726569836995x967192659085307800"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "lunch shift",
+    "description": "The lunch shift is a busy period for restaurants, cafes, and food service venues, typically between 11:30am and 2:30pm, during which staff deliver quick and efficient service to customers with limited time.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/lunch-shift"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Lunch Shift",
+        "item": "https://yourpilla.com/glossary/lunch-shift"
+      }
+    ]
+  }
 ---
 
 The lunch shift is the time of day when restaurants, cafes and other food service businesses get busy. This is usually between 11:30am – 2:30pm but can vary depending on the venue and location. During the lunch shift, hospitality staff focus on serving quick and efficient meals to customers who have limited time due to work or other commitments.
@@ -15,8 +49,12 @@ Let’s say you’re a chef at a busy bistro in the CBD. As 11:00am hits, you st
 
 ## External Reading
 
-- [This article from Paycor discusses various work shifts, including lunch shifts, and their relevance in the hospitality industry.](https://www.paycor.com/resource-center/articles/common-types-of-work-shifts/)
-- [LinkedIn article by Jordan Boesch detailing different types of restaurant work schedules, including lunch shifts.](https://www.linkedin.com/pulse/7-major-types-restaurant-work-schedules-jordan-boesch)
-- [A comprehensive guide from Truein on employee scheduling in restaurants, focusing on operational efficiency and lunch shift management.](https://truein.com/employee-scheduling-guide-for-restaurants/)
-- [Indeed provides an overview of different work shift types, including lunch shifts, and their application in various industries.](https://www.indeed.com/hire/c/info/work-shift-types)
-- [Qwick's guide on restaurant staffing, which includes insights on managing lunch shifts effectively.](https://www.qwick.com/blog/restaurant-staffing-guide)
+
+
+## External Reading
+
+*   [This article from Paycor discusses various work shifts, including lunch shifts, and their relevance in the hospitality industry.](https://www.paycor.com/resource-center/articles/common-types-of-work-shifts/)
+*   [LinkedIn article by Jordan Boesch detailing different types of restaurant work schedules, including lunch shifts.](https://www.linkedin.com/pulse/7-major-types-restaurant-work-schedules-jordan-boesch)
+*   [A comprehensive guide from Truein on employee scheduling in restaurants, focusing on operational efficiency and lunch shift management.](https://truein.com/employee-scheduling-guide-for-restaurants/)
+*   [Indeed provides an overview of different work shift types, including lunch shifts, and their application in various industries.](https://www.indeed.com/hire/c/info/work-shift-types)
+*   [Qwick's guide on restaurant staffing, which includes insights on managing lunch shifts effectively.](https://www.qwick.com/blog/restaurant-staffing-guide)

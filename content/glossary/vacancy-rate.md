@@ -1,10 +1,44 @@
 ---
 title: "Vacancy Rate"
 slug: "vacancy-rate"
-meta: >-
+meta: |
   Vacancy Rate is the percentage of unoccupied rooms in a hotel during a specific period. It helps gauge how well the hotel is filling its available rooms.
 seo_title: "What is Vacancy Rate in the hospitality industry?"
 unique_id: "1722586753261x369978870272208640"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Vacancy rate",
+    "description": "Vacancy rate is a key performance indicator in hospitality that measures the percentage of rooms not sold in a hotel or accommodation over a period. It is calculated by dividing the number of unsold rooms by the total number of rooms and multiplying by 100.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/vacancy-rate"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Vacancy Rate",
+        "item": "https://yourpilla.com/glossary/vacancy-rate"
+      }
+    ]
+  }
 ---
 
 Vacancy rate is a key performance indicator in hospitality that measures the percentage of rooms not sold in a hotel or accommodation over a period of time. It’s calculated by dividing the number of unsold rooms by the total number of rooms and multiplying by 100. For example if a 100 room hotel has 20 unsold rooms one night, the vacancy rate would be 20%.
@@ -15,8 +49,12 @@ Let’s say you’re the manager of a boutique hotel in London. At your weekly t
 
 ## External Reading
 
-- [Comprehensive lesson from Study.com explaining the concepts of occupancy and vacancy rates, including definitions and formulas.](https://study.com/academy/lesson/occupancy-vacancy-analysis-definition-process.html)
-- [Detailed blog post from Stessa explaining how to calculate vacancy rates and their impact on real estate investments.](https://www.stessa.com/blog/vacancy-rate/)
-- [Informative article by TransUnion SmartMove on calculating vacancy rates and understanding their implications in property management.](https://www.mysmartmove.com/blog/calculating-vacancy-rate)
-- [Glossary entry from SyndicationPro providing a definition of vacancy rate and its relevance in real estate.](https://syndicationpro.com/glossary-definitions/vacancy-rate)
-- [Resource from Rocket Mortgage explaining vacancy rate calculations and their significance in rental property management.](https://www.rocketmortgage.com/learn/vacancy-rate)
+
+
+## External Reading
+
+*   [Comprehensive lesson from Study.com explaining the concepts of occupancy and vacancy rates, including definitions and formulas.](https://study.com/academy/lesson/occupancy-vacancy-analysis-definition-process.html)
+*   [Detailed blog post from Stessa explaining how to calculate vacancy rates and their impact on real estate investments.](https://www.stessa.com/blog/vacancy-rate/)
+*   [Informative article by TransUnion SmartMove on calculating vacancy rates and understanding their implications in property management.](https://www.mysmartmove.com/blog/calculating-vacancy-rate)
+*   [Glossary entry from SyndicationPro providing a definition of vacancy rate and its relevance in real estate.](https://syndicationpro.com/glossary-definitions/vacancy-rate)
+*   [Resource from Rocket Mortgage explaining vacancy rate calculations and their significance in rental property management.](https://www.rocketmortgage.com/learn/vacancy-rate)

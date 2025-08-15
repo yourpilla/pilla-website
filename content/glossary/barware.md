@@ -1,10 +1,44 @@
 ---
 title: "Barware"
 slug: "barware"
-meta: >-
+meta: |
   Barware refers to the tools and equipment used in bars, cafes, and restaurants for preparing and serving drinks. It includes items like shakers, jiggers, and glassware.
 seo_title: "What is Barware in the hospitality industry?"
 unique_id: "1725916546404x322451174664655000"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Barware",
+    "description": "Barware comprises the tools, equipment and utensils used in bars, pubs and restaurants to prepare, serve and consume drinks, including shakers, strainers, jiggers, muddlers, bar spoons, glassware, ice buckets, bottle openers, and decorative cocktail tools.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/barware"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Barware",
+        "item": "https://yourpilla.com/glossary/barware"
+      }
+    ]
+  }
 ---
 
 Barware is the tools, equipment and utensils used in bars, pubs and restaurants to prepare, serve and consume drinks. This includes things like shakers, strainers, jiggers, muddlers, bar spoons, glassware, ice buckets and bottle openers. Barware also includes decorative items like cocktail picks, stirrers and garnish tools that add to the presentation of drinks.
@@ -15,8 +49,12 @@ Say you're a bar manager at a cocktail bar. You notice your bartenders are strug
 
 ## External Reading
 
-- [Comprehensive guide by Araven on different types of glassware used in catering, relevant for understanding barware in hospitality.](https://araven.com/en/actualidad/blog/complete-guide-to-the-different-types-of-glassware-used-in-food-and-beverage-service/)
-- [WebstaurantStore's buying guide covers bar essentials including equipment and glassware, offering insights into barware needs.](https://www.webstaurantstore.com/guide/546/bar-essentials-buying-guide.html?srsltid=AfmBOopUkNZ7r0sP7RPSWd-lRDDUb84tVr49hkQgIQywmcDeIOiy627A)
-- [Gentleman's Gazette provides a detailed guide on cocktail glasses and bar tools, essential for understanding barware usage.](https://www.gentlemansgazette.com/cocktail-glasses-shakers-tools-guide/)
-- [Serving Alcohol explains the importance of glassware in bars, offering insights into barware's role in enhancing the drinking experience.](https://servingalcohol.com/behind-the-bar-rail-glassware/?srsltid=AfmBOoqsnBXK4zKBsTG2gGffffNCJ3FbkmYJKPEvwfbg6fsdN7oDjru2)
-- [BinWise discusses the significance of glassware in hotel beverage service, highlighting its importance in hospitality settings.](https://home.binwise.com/blog/glassware-in-hotel-beverage-service)
+
+
+## External Reading
+
+*   [Comprehensive guide by Araven on different types of glassware used in catering, relevant for understanding barware in hospitality.](https://araven.com/en/actualidad/blog/complete-guide-to-the-different-types-of-glassware-used-in-food-and-beverage-service/)
+*   [WebstaurantStore's buying guide covers bar essentials including equipment and glassware, offering insights into barware needs.](https://www.webstaurantstore.com/guide/546/bar-essentials-buying-guide.html?srsltid=AfmBOopUkNZ7r0sP7RPSWd-lRDDUb84tVr49hkQgIQywmcDeIOiy627A)
+*   [Gentleman's Gazette provides a detailed guide on cocktail glasses and bar tools, essential for understanding barware usage.](https://www.gentlemansgazette.com/cocktail-glasses-shakers-tools-guide/)
+*   [Serving Alcohol explains the importance of glassware in bars, offering insights into barware's role in enhancing the drinking experience.](https://servingalcohol.com/behind-the-bar-rail-glassware/?srsltid=AfmBOoqsnBXK4zKBsTG2gGffffNCJ3FbkmYJKPEvwfbg6fsdN7oDjru2)
+*   [BinWise discusses the significance of glassware in hotel beverage service, highlighting its importance in hospitality settings.](https://home.binwise.com/blog/glassware-in-hotel-beverage-service)

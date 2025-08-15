@@ -1,10 +1,44 @@
 ---
 title: "Farm to Table"
 slug: "farm-to-table"
-meta: >-
+meta: |
   Farm to Table means sourcing ingredients directly from local farms to ensure fresh, high-quality produce for restaurants, cafes, and bars, enhancing guest satisfaction.
 seo_title: "What is Farm to Table in the hospitality industry?"
 unique_id: "1725994618922x175854161768760580"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Farm to table",
+    "description": "Farm to table means ingredients are sourced directly from local farms and delivered to restaurants, cafes, or other food service outlets, emphasising freshness, seasonality, and support for local agriculture.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/farm-to-table"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Farm to Table",
+        "item": "https://yourpilla.com/glossary/farm-to-table"
+      }
+    ]
+  }
 ---
 
 Farm to table means ingredients are sourced directly from local farms and delivered to restaurants, cafes or other food service outlets. It’s all about freshness, seasonality and supporting local agriculture, emphasizing the whole journey of food from the farm to the plate.
@@ -15,8 +49,12 @@ Let’s say you’re a chef at a busy city centre restaurant. You decide to go f
 
 ## External Reading
 
-- [Provides a comprehensive overview of the farm-to-table movement, highlighting its significance in sourcing ingredients from local farms.](https://www.webstaurantstore.com/blog/4336/farm-to-table-meaning.html?srsltid=AfmBOooag1Zfy-m6C8OJ7Z9IHVF84e55Yy4pqiGvwuqxK6StpiFsnCWj)
-- [Explains the farm-to-table movement with a focus on its application in hospitality and local community engagement.](https://www.agritecture.com/blog/understanding-the-farm-to-table-movementfor-developers-architects-designers-and-hospitality-professionals)
-- [Discusses farm-to-table as a food philosophy and social movement, emphasizing direct sourcing from local farms.](https://www.therestauranthq.com/trends/what-is-farm-to-table/)
-- [Describes farm-to-table initiatives within the hospitality industry, focusing on sourcing directly from local producers.](https://fiveable.me/key-terms/hospitality-management/farm-to-table-initiatives)
-- [Offers a complete guide to the farm-to-table movement, connecting consumers with fresh produce and proteins.](https://www.hitchcockfarms.com/blog/farm-to-table-movement)
+
+
+## External Reading
+
+*   [Provides a comprehensive overview of the farm-to-table movement, highlighting its significance in sourcing ingredients from local farms.](https://www.webstaurantstore.com/blog/4336/farm-to-table-meaning.html?srsltid=AfmBOooag1Zfy-m6C8OJ7Z9IHVF84e55Yy4pqiGvwuqxK6StpiFsnCWj)
+*   [Explains the farm-to-table movement with a focus on its application in hospitality and local community engagement.](https://www.agritecture.com/blog/understanding-the-farm-to-table-movementfor-developers-architects-designers-and-hospitality-professionals)
+*   [Discusses farm-to-table as a food philosophy and social movement, emphasizing direct sourcing from local farms.](https://www.therestauranthq.com/trends/what-is-farm-to-table/)
+*   [Describes farm-to-table initiatives within the hospitality industry, focusing on sourcing directly from local producers.](https://fiveable.me/key-terms/hospitality-management/farm-to-table-initiatives)
+*   [Offers a complete guide to the farm-to-table movement, connecting consumers with fresh produce and proteins.](https://www.hitchcockfarms.com/blog/farm-to-table-movement)

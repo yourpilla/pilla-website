@@ -1,10 +1,45 @@
 ---
 title: "House Wine"
 slug: "house-wine"
-meta: >-
+meta: |
   House Wine refers to the standard wine offered by a restaurant, bar, or café, typically at a lower price. It’s often a reliable, budget-friendly option for guests.
 seo_title: "What are House Wines in the hospitality industry?"
 unique_id: "1724413553893x207049502007186100"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "House wine",
+    "description": "House wine is the standard, often cheaper wine that restaurants, bars and hotels offer as their go-to option. These wines are chosen by the establishment to provide good value for money and consistency. House wines are available by the glass or bottle and can be red, white or rosé. They're often bought in bulk or through special arrangements with wineries so they can offer them at a competitive price.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/house-wine",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "House Wine",
+        "item": "https://yourpilla.com/glossary/house-wine"
+      }
+    ]
+  }
 ---
 
 House wine is the standard, often cheaper wine that restaurants, bars and hotels offer as their go-to option. These wines are chosen by the establishment to provide good value for money and consistency. House wines are available by the glass or bottle and can be red, white or rosé. They're often bought in bulk or through special arrangements with wineries so they can offer them at a competitive price.
@@ -15,8 +50,12 @@ Imagine this: You're a server at a busy Italian restaurant on a Friday night. A 
 
 ## External Reading
 
-- [Bon Appétit provides a detailed explanation of what house wine is, focusing on its role in restaurants as an affordable option.](https://www.bonappetit.com/drinks/wine/article/what-is-house-wine?srsltid=AfmBOooRi4FTSgY9fw6kCJlmlB6KuJ7Ibqpp95IP6KmVbhMCGdTUmrEb)
-- [Wikipedia offers a comprehensive overview of house wine, explaining its general characteristics and how it is typically served in restaurants.](https://en.wikipedia.org/wiki/House_wine)
-- [BinWise discusses the best house wines for bars and restaurants, providing insights into selection and service.](https://home.binwise.com/blog/house-wines)
-- [Merriam-Webster defines house wine, offering a concise explanation of its meaning and usage in dining establishments.](https://www.merriam-webster.com/dictionary/house%20wine)
-- [Collins Dictionary provides a definition of house wine, highlighting its typical presentation and pricing in restaurants.](https://www.collinsdictionary.com/dictionary/english/house-wine)
+
+
+## External Reading
+
+*   [Bon Appétit provides a detailed explanation of what house wine is, focusing on its role in restaurants as an affordable option.](https://www.bonappetit.com/drinks/wine/article/what-is-house-wine?srsltid=AfmBOooRi4FTSgY9fw6kCJlmlB6KuJ7Ibqpp95IP6KmVbhMCGdTUmrEb)
+*   [Wikipedia offers a comprehensive overview of house wine, explaining its general characteristics and how it is typically served in restaurants.](https://en.wikipedia.org/wiki/House_wine)
+*   [BinWise discusses the best house wines for bars and restaurants, providing insights into selection and service.](https://home.binwise.com/blog/house-wines)
+*   [Merriam-Webster defines house wine, offering a concise explanation of its meaning and usage in dining establishments.](https://www.merriam-webster.com/dictionary/house%20wine)
+*   [Collins Dictionary provides a definition of house wine, highlighting its typical presentation and pricing in restaurants.](https://www.collinsdictionary.com/dictionary/english/house-wine)

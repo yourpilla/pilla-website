@@ -1,10 +1,45 @@
 ---
 title: "Budget"
 slug: "budget"
-meta: >-
+meta: |
   A budget in hospitality refers to a financial plan outlining expected revenue and expenses for a specific period, helping manage costs and maximise profits in hotels, restaurants, cafes, and bars.
 seo_title: "What is a Budget in the hospitality industry?"
 unique_id: "1725633428825x713093857649506600"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Budget",
+    "description": "A budget in hospitality is a financial plan that outlines income and expenses for a set period, helping allocate resources, set financial goals, and guide spending decisions through predefined categories.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/budget",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Budget",
+        "item": "https://yourpilla.com/glossary/budget"
+      }
+    ]
+  }
 ---
 
 A budget in hospitality is a financial plan that outlines income and expenses for a certain period, usually a financial year. It helps you allocate resources, set financial goals and make informed decisions on spending and investments. Budgets have categories like revenue, labour costs, food and beverage expenses, utilities, marketing and maintenance.
@@ -15,8 +50,12 @@ Let’s say you’re the manager of a hip café in the city centre. You’ve not
 
 ## External Reading
 
-- [Provides strategic financial plans for hotel budgeting, detailing how money will be generated and spent to achieve goals.](https://www.netsuite.com/portal/resource/articles/financial-management/hotel-budgeting.shtml)
-- [Comprehensive guide on hotel budgets, including expert insights on creating a hotel budget for 2025.](https://hoteloperations.com/hotel-budget/)
-- [Explains the hotel budgeting process, outlining projected income and expenditures for a fiscal year.](https://www.siteminder.com/r/hotel-budget/)
-- [Overview of budgeting in the hospitality industry, focusing on forecasting expected revenue, expenses, and profits.](https://kratoshospitality.com/budgeting-in-hospitality-industry-an-overview/)
-- [Expert guide for revenue managers on hotel budget season, covering projected revenue, expenses, and financial goals.](https://www.mylighthouse.com/resources/blog/hotel-budget-season-expert-guide-for-revenue-managers)
+
+
+## External Reading
+
+*   [Provides strategic financial plans for hotel budgeting, detailing how money will be generated and spent to achieve goals.](https://www.netsuite.com/portal/resource/articles/financial-management/hotel-budgeting.shtml)
+*   [Comprehensive guide on hotel budgets, including expert insights on creating a hotel budget for 2025.](https://hoteloperations.com/hotel-budget/)
+*   [Explains the hotel budgeting process, outlining projected income and expenditures for a fiscal year.](https://www.siteminder.com/r/hotel-budget/)
+*   [Overview of budgeting in the hospitality industry, focusing on forecasting expected revenue, expenses, and profits.](https://kratoshospitality.com/budgeting-in-hospitality-industry-an-overview/)
+*   [Expert guide for revenue managers on hotel budget season, covering projected revenue, expenses, and financial goals.](https://www.mylighthouse.com/resources/blog/hotel-budget-season-expert-guide-for-revenue-managers)

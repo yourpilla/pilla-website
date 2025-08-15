@@ -1,10 +1,45 @@
 ---
 title: "Overhead costs"
 slug: "overhead-costs"
-meta: >-
+meta: |
   Overhead costs are the ongoing expenses not directly tied to specific services but necessary for operations, like utilities, rent, and salaries in hotels, restaurants, cafes, and bars.
 seo_title: "What are Overhead costs in the hospitality industry?"
 unique_id: "1722588945808x548699396934058750"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Overheads",
+    "description": "Overheads are the ongoing costs of running a business, regardless of sales volume. They include expenses like rent, utilities, insurance, admin salaries, and maintenance fees, which remain relatively fixed irrespective of guest numbers.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/overheads",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Overhead costs",
+        "item": "https://yourpilla.com/glossary/overhead-costs"
+      }
+    ]
+  }
 ---
 
 Overheads are the ongoing costs of running a business, regardless of how much you sell or services you provide. Rent, utilities, insurance, admin salaries and maintenance fees are all overheads. Unlike direct costs which vary with the number of guests or rooms you have, overheads are relatively fixed.
@@ -15,8 +50,12 @@ Let’s say you’re a restaurant manager named Sarah. You notice your monthly e
 
 ## External Reading
 
-- [Investopedia provides a detailed explanation of overhead costs, including their role in business operations, which is essential for understanding overheads in the hospitality industry.](https://www.investopedia.com/terms/o/overhead.asp)
-- [Corporate Finance Institute offers a comprehensive overview of overheads, including definitions, types, and examples, which is valuable for hospitality management.](https://corporatefinanceinstitute.com/resources/accounting/overheads/)
-- [NetSuite's article covers the definition and types of overhead costs, providing practical examples relevant to various industries, including hospitality.](https://www.netsuite.com/portal/resource/articles/accounting/overhead.shtml)
-- [Sage provides a clear definition of overhead costs, emphasizing fixed operating expenses, which are crucial for managing hospitality businesses.](https://www.sage.com/en-us/blog/glossary/overhead-costs/)
-- [Xotels explains overhead costs in the context of hospitality, focusing on non-labor expenses necessary for business operations.](https://www.xotels.com/en/glossary/overhead-costs)
+
+
+## External Reading
+
+*   [Investopedia provides a detailed explanation of overhead costs, including their role in business operations, which is essential for understanding overheads in the hospitality industry.](https://www.investopedia.com/terms/o/overhead.asp)
+*   [Corporate Finance Institute offers a comprehensive overview of overheads, including definitions, types, and examples, which is valuable for hospitality management.](https://corporatefinanceinstitute.com/resources/accounting/overheads/)
+*   [NetSuite's article covers the definition and types of overhead costs, providing practical examples relevant to various industries, including hospitality.](https://www.netsuite.com/portal/resource/articles/accounting/overhead.shtml)
+*   [Sage provides a clear definition of overhead costs, emphasizing fixed operating expenses, which are crucial for managing hospitality businesses.](https://www.sage.com/en-us/blog/glossary/overhead-costs/)
+*   [Xotels explains overhead costs in the context of hospitality, focusing on non-labor expenses necessary for business operations.](https://www.xotels.com/en/glossary/overhead-costs)

@@ -1,10 +1,44 @@
 ---
 title: "Smallware"
 slug: "smallware"
-meta: >-
+meta: |
   Smallware refers to the small tools and utensils used in kitchens, like knives, spatulas, and measuring cups. They support daily food prep and service tasks.
 seo_title: "What are Smallware in the hospitality industry?"
 unique_id: "1726570587324x837738550622419600"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Smallware",
+    "description": "Smallware refers to the smaller, handheld items used in food service and prep, including utensils, kitchen tools, and tableware items that are essential for daily hospitality operations.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/smallware"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Smallware",
+        "item": "https://yourpilla.com/glossary/smallware"
+      }
+    ]
+  }
 ---
 
 Smallware is the smaller, handheld items used in food service and prep. Utensils like spoons, forks and knives, kitchen tools like whisks, tongs and spatulas. In restaurants and cafes, smallware also includes tableware items like salt and pepper shakers, napkin holders and condiment dispensers. These are cheap and easily replaceable but play a big part in the daily operations of hospitality businesses.
@@ -15,8 +49,12 @@ Let’s say you’re the head chef of a busy restaurant. You’ve just launched 
 
 ## External Reading
 
-- [Comprehensive overview of smallwares, detailing various products from utensils to dinnerware, relevant for understanding the scope of smallwares in hospitality.](https://www.dinecompany.com/smallwares-at-dine-company-the-restaurant-store/)
-- [Educational document from the Illinois State Board of Education explaining smallwares and hand tools, providing a detailed breakdown of categories and uses.](https://www.isbe.net/CTEDocuments/FCS-700014.pdf)
-- [Resourceful blog post listing essential smallwares for restaurant kitchens, offering practical insights into necessary tools and equipment.](https://chefequipment.com/blogs/resources/25-restaurant-smallwares-every-kitchen-needs)
-- [Guide from Restaurant Supply that explains the term 'smallware' and its application in restaurant settings, covering a wide range of small-sized supplies.](https://www.restaurantsupply.com/blog/the-ultimate-guide-to-smallwares-for-restaurants)
-- [Article from The Tax Adviser discussing the financial aspects of smallwares, including categories and considerations for expensing in the restaurant industry.](https://www.thetaxadviser.com/issues/2007/sep/expensingrestaurantsmallwares.html)
+
+
+## External Reading
+
+*   [Comprehensive overview of smallwares, detailing various products from utensils to dinnerware, relevant for understanding the scope of smallwares in hospitality.](https://www.dinecompany.com/smallwares-at-dine-company-the-restaurant-store/)
+*   [Educational document from the Illinois State Board of Education explaining smallwares and hand tools, providing a detailed breakdown of categories and uses.](https://www.isbe.net/CTEDocuments/FCS-700014.pdf)
+*   [Resourceful blog post listing essential smallwares for restaurant kitchens, offering practical insights into necessary tools and equipment.](https://chefequipment.com/blogs/resources/25-restaurant-smallwares-every-kitchen-needs)
+*   [Guide from Restaurant Supply that explains the term 'smallware' and its application in restaurant settings, covering a wide range of small-sized supplies.](https://www.restaurantsupply.com/blog/the-ultimate-guide-to-smallwares-for-restaurants)
+*   [Article from The Tax Adviser discussing the financial aspects of smallwares, including categories and considerations for expensing in the restaurant industry.](https://www.thetaxadviser.com/issues/2007/sep/expensingrestaurantsmallwares.html)

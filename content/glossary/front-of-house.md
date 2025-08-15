@@ -1,10 +1,43 @@
 ---
 title: "Front of House (FOH)"
 slug: "front-of-house"
-meta: >-
-  Front of house meaning in hospitality, retail and leisure settings including job roles.
+meta: "Front of house meaning in hospitality, retail and leisure settings including job roles."
 seo_title: "What does FOH Mean?"
 unique_id: "1722413228237x822675295818064500"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Front of House",
+    "description": "Front of House represents the customer-facing area in restaurants and retail environments where guests are welcomed, served, and engaged throughout their visit.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/front-of-house"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Front of House (FOH)",
+        "item": "https://yourpilla.com/glossary/front-of-house"
+      }
+    ]
+  }
 ---
 
 When you think of a house front, an image of a building’s facade might come to mind. But in the restaurant industry and the retail industry, the front of house is the area where magic happens, where guests are welcomed, wined, dined, served, and bid farewell.
@@ -63,8 +96,12 @@ Cashiers must be adept at managing cash registers, processing payments, and addr
 
 ## External Reading
 
-- [Comprehensive guide explaining the roles, skills, and challenges of Front of House (FOH) staff in restaurants.](https://www.cuboh.com/blog/front-of-house-meaning)
-- [Detailed resource outlining the roles and responsibilities of front of house positions in hospitality.](https://www.eposnow.com/ca/resources/front-of-house-positions/)
-- [Explains the meaning of FOH and its significance in the dining space and bar areas visible to customers.](https://www.7shifts.com/blog/restaurant-lingo-defined/)
-- [Educational article from Torrens University Australia discussing the differences between front and back of house in hospitality.](https://www.torrens.edu.au/stories/blog/hospitality/the-difference-between-the-front-of-house-and-back-of-house)
-- [Insightful article from Indeed defining front and back of house roles and offering improvement strategies.](https://www.indeed.com/career-advice/finding-a-job/front-of-house-vs-back-of-house)
+
+
+## External Reading
+
+*   [Comprehensive guide explaining the roles, skills, and challenges of Front of House (FOH) staff in restaurants.](https://www.cuboh.com/blog/front-of-house-meaning)
+*   [Detailed resource outlining the roles and responsibilities of front of house positions in hospitality.](https://www.eposnow.com/ca/resources/front-of-house-positions/)
+*   [Explains the meaning of FOH and its significance in the dining space and bar areas visible to customers.](https://www.7shifts.com/blog/restaurant-lingo-defined/)
+*   [Educational article from Torrens University Australia discussing the differences between front and back of house in hospitality.](https://www.torrens.edu.au/stories/blog/hospitality/the-difference-between-the-front-of-house-and-back-of-house)
+*   [Insightful article from Indeed defining front and back of house roles and offering improvement strategies.](https://www.indeed.com/career-advice/finding-a-job/front-of-house-vs-back-of-house)

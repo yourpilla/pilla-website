@@ -1,10 +1,44 @@
 ---
 title: "Pour cost"
 slug: "pour-cost"
-meta: >-
+meta: |
   Pour cost, also known as beverage cost, measures the cost of alcohol sold in relation to its sales. It helps bars and restaurants manage profitability effectively.
 seo_title: "What are Pour costs in the hospitality industry?"
 unique_id: "1722523132131x537655299288175360"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Pour cost",
+    "description": "Pour cost measures the cost of the ingredients to make a drink as a percentage of its selling price, calculated by dividing the ingredient cost by the selling price and multiplying by 100.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/pour-cost"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Pour cost",
+        "item": "https://yourpilla.com/glossary/pour-cost"
+      }
+    ]
+  }
 ---
 
 Pour cost is a key metric in the industry that measures the cost of the ingredients to make a drink as a percentage of the selling price. It’s calculated by dividing the cost of the ingredients by the selling price then multiplying by 100. For example if a cocktail costs £2 to make and sells for £10 the pour cost would be 20%.
@@ -15,8 +49,12 @@ Let’s say you’re a bar manager at a busy club. You notice your mojitos have 
 
 ## External Reading
 
-- [Comprehensive guide from Sculpture Hospitality explaining how to calculate pour cost, a key metric in bar management.](https://www.sculpturehospitality.com/blog/how-to-calculate-pour-cost)
-- [Detailed explanation of pour cost percentage and its calculation, provided by Sculpture Hospitality.](https://www.sculpturehospitality.com/blog/bar-inventory-what-is-pour-cost-percentage-and-how-is-it-calculated)
-- [Provi's guide on understanding bar and beverage costs, including pour cost as a percentage of revenue.](https://www.provi.com/blog/operations/understanding-bar-and-beverage-costs)
-- [Bernick's guide on beverage costing, covering the calculation of cost percentages including pour cost.](https://www.bernicks.com/blog/beverage-costing-guide)
-- [Perfect Venue's article on drinks pricing, discussing target pour cost and its impact on pricing strategies.](https://www.perfectvenue.com/post/drinks-pricing)
+
+
+## External Reading
+
+*   [Comprehensive guide from Sculpture Hospitality explaining how to calculate pour cost, a key metric in bar management.](https://www.sculpturehospitality.com/blog/how-to-calculate-pour-cost)
+*   [Detailed explanation of pour cost percentage and its calculation, provided by Sculpture Hospitality.](https://www.sculpturehospitality.com/blog/bar-inventory-what-is-pour-cost-percentage-and-how-is-it-calculated)
+*   [Provi's guide on understanding bar and beverage costs, including pour cost as a percentage of revenue.](https://www.provi.com/blog/operations/understanding-bar-and-beverage-costs)
+*   [Bernick's guide on beverage costing, covering the calculation of cost percentages including pour cost.](https://www.bernicks.com/blog/beverage-costing-guide)
+*   [Perfect Venue's article on drinks pricing, discussing target pour cost and its impact on pricing strategies.](https://www.perfectvenue.com/post/drinks-pricing)

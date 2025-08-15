@@ -1,10 +1,45 @@
 ---
 title: "Low Season"
 slug: "low-season"
-meta: >-
+meta: |
   Low season refers to periods when demand for hotels, restaurants, cafes, and bars is at its lowest. This results in fewer bookings and often lower prices.
 seo_title: "What is Low Season in the hospitality industry?"
 unique_id: "1726569746871x262821881351222850"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Low season",
+    "description": "Low season or off peak season is when your business has the least amount of customers and bookings. This varies depending on location and type of business but generally means fewer tourists, less demand and lower prices. In coastal hotels, low season is during the colder months, while for ski resorts it is in the summer.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/low-season",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Low Season",
+        "item": "https://yourpilla.com/glossary/low-season"
+      }
+    ]
+  }
 ---
 
 Low season or off peak season is when your business has the least amount of customers and bookings. This varies depending on the location and type of business but generally means fewer tourists, less demand and lower prices. For hotels in coastal areas, low season is during the colder months and for ski resorts, it’s during the summer.
@@ -15,8 +50,12 @@ Let’s say you’re the manager of a boutique hotel in London. Your low season 
 
 ## External Reading
 
-- [Provides a clear definition of 'low season' in the hospitality industry, explaining its impact on business activity and occupancy rates.](https://chatlyn.com/en/glossary/low-season/)
-- [Offers a concise definition of 'low season' from a reputable dictionary, highlighting its significance in terms of pricing and visitor numbers.](https://dictionary.cambridge.org/us/dictionary/english/low-season)
-- [Explores the concept of seasonality, including low season, and its effects on hotel management and strategies to attract off-season travelers.](https://amenitiz.com/en/blog/the-effects-of-seasonality-on-the-hotel-industry/)
-- [Discusses strategies for increasing hotel sales during the low season, providing practical tips for small properties.](https://www.littlehotelier.com/blog/get-more-bookings/increase-sales-low-season-small-property/)
-- [Examines strategic shifts hotels can implement to maximize success during low and high seasons, with a focus on adaptability and planning.](https://hotelfriend.com/blogpost/strategic-shifts)
+
+
+## External Reading
+
+*   [Provides a clear definition of 'low season' in the hospitality industry, explaining its impact on business activity and occupancy rates.](https://chatlyn.com/en/glossary/low-season/)
+*   [Offers a concise definition of 'low season' from a reputable dictionary, highlighting its significance in terms of pricing and visitor numbers.](https://dictionary.cambridge.org/us/dictionary/english/low-season)
+*   [Explores the concept of seasonality, including low season, and its effects on hotel management and strategies to attract off-season travelers.](https://amenitiz.com/en/blog/the-effects-of-seasonality-on-the-hotel-industry/)
+*   [Discusses strategies for increasing hotel sales during the low season, providing practical tips for small properties.](https://www.littlehotelier.com/blog/get-more-bookings/increase-sales-low-season-small-property/)
+*   [Examines strategic shifts hotels can implement to maximize success during low and high seasons, with a focus on adaptability and planning.](https://hotelfriend.com/blogpost/strategic-shifts)

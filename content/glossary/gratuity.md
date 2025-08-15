@@ -1,10 +1,44 @@
 ---
 title: "Gratuity"
 slug: "gratuity"
-meta: >-
+meta: |
   Gratuity is an extra sum of money given to service staff by customers as a thank you for excellent service, often boosting staff morale and service quality.
 seo_title: "What is Gratuity in the hospitality industry?"
 unique_id: "1722522802412x984149897878385800"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Gratuity",
+    "description": "Gratuity is a voluntary payment given by customers to service staff as a show of appreciation for good service.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/gratuity"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Gratuity",
+        "item": "https://yourpilla.com/glossary/gratuity"
+      }
+    ]
+  }
 ---
 
 Gratuity, commonly known as a tip, is a voluntary payment given by customers to service staff as a show of appreciation for good service.
@@ -17,8 +51,12 @@ Imagine you're a server at a busy restaurant, a group of 6 comes in for dinner a
 
 ## External Reading
 
-- [Detailed explanation of tipping in the hospitality industry, including rules and tips.](https://www.hotelprofessionals.nl/en/handling-tips-in-hospitality-industry#:~:text=A%20tip%20is%20an%20additional,given%20directly%20to%20the%20staff.)
-- [Comprehensive overview of the concept of tipping, its customs, and practices.](https://en.wikipedia.org/wiki/Gratuity#:~:text=Tipping%20is%20a%20practiced%20social,to%20excellent%20service%20is%20provided.)
-- [Gratuity guide from the American Hotel and Lodging Association providing tipping etiquette and guidelines.](https://www.ahla.com/sites/default/files/guestGratuityGuide.pdf)
-- [Guide covering all aspects of tipping in hotels, from valet to room service.](https://www.stayshiny.co/blog/ultimate-guide-hotel-tipping-apps-etiquette)
-- [Reliable guidelines for hotel tipping in the U.S., offering practical advice for travelers.](https://www.covingtontravel.com/2020/01/reliable-guidelines-hotel-tipping-us/)
+
+
+## External Reading
+
+*   [Detailed explanation of tipping in the hospitality industry, including rules and tips.](https://www.hotelprofessionals.nl/en/handling-tips-in-hospitality-industry#:~:text=A%20tip%20is%20an%20additional,given%20directly%20to%20the%20staff.)
+*   [Comprehensive overview of the concept of tipping, its customs, and practices.](https://en.wikipedia.org/wiki/Gratuity#:~:text=Tipping%20is%20a%20practiced%20social,to%20excellent%20service%20is%20provided.)
+*   [Gratuity guide from the American Hotel and Lodging Association providing tipping etiquette and guidelines.](https://www.ahla.com/sites/default/files/guestGratuityGuide.pdf)
+*   [Guide covering all aspects of tipping in hotels, from valet to room service.](https://www.stayshiny.co/blog/ultimate-guide-hotel-tipping-apps-etiquette)
+*   [Reliable guidelines for hotel tipping in the U.S., offering practical advice for travelers.](https://www.covingtontravel.com/2020/01/reliable-guidelines-hotel-tipping-us/)

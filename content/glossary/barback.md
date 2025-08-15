@@ -1,10 +1,45 @@
 ---
 title: "Barback"
 slug: "barback"
-meta: >-
+meta: |
   A barback supports bartenders by stocking supplies, cleaning, and ensuring smooth operations. This role is crucial for efficient service in bars and restaurants.
 seo_title: "What is a Barback in the hospitality industry?"
 unique_id: "1722854380135x613529406847094000"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Barback",
+    "description": "A barback is a support staff member who helps bartenders run the bar by restocking supplies, changing kegs, cleaning glasses, and keeping the bar clean. They do not serve customers directly but enable bartenders to focus on drink preparation and service.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/barback",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Barback",
+        "item": "https://yourpilla.com/glossary/barback"
+      }
+    ]
+  }
 ---
 
 A barback is a support staff member who helps the bartenders run the bar. They're often referred to as the behind the scenes heroes of the bar, doing tasks like restocking supplies, changing kegs, cleaning glasses and keeping the bar clean. Barbacks don't serve customers directly but help the bartenders focus on making drinks and providing great service.
@@ -15,8 +50,12 @@ Imagine this: You're running a busy pub on a Friday night. Your bartenders are s
 
 ## External Reading
 
-- [Comprehensive guide explaining the role of a barback in the hospitality industry, detailing key duties and responsibilities.](https://www.menutiger.com/blog/what-is-a-barback)
-- [Detailed explanation of the barback role, focusing on their responsibilities and importance in supporting bartenders in hospitality settings.](https://pos.toasttab.com/blog/on-the-line/what-is-a-barback)
-- [In-depth article on the role and duties of a barback, highlighting their essential support function in bars and restaurants.](https://www.lightspeedhq.com/blog/what-is-a-barback/)
-- [Ultimate guide to understanding the barback role, providing insights into their responsibilities and contributions to bar operations.](https://abarabove.com/barback/)
-- [Resource providing a detailed job description for barbacks, outlining their tasks and how they assist bartenders in hospitality environments.](https://resources.workable.com/barback-job-description)
+
+
+## External Reading
+
+*   [Comprehensive guide explaining the role of a barback in the hospitality industry, detailing key duties and responsibilities.](https://www.menutiger.com/blog/what-is-a-barback)
+*   [Detailed explanation of the barback role, focusing on their responsibilities and importance in supporting bartenders in hospitality settings.](https://pos.toasttab.com/blog/on-the-line/what-is-a-barback)
+*   [In-depth article on the role and duties of a barback, highlighting their essential support function in bars and restaurants.](https://www.lightspeedhq.com/blog/what-is-a-barback/)
+*   [Ultimate guide to understanding the barback role, providing insights into their responsibilities and contributions to bar operations.](https://abarabove.com/barback/)
+*   [Resource providing a detailed job description for barbacks, outlining their tasks and how they assist bartenders in hospitality environments.](https://resources.workable.com/barback-job-description)

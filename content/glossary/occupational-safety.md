@@ -1,10 +1,45 @@
 ---
 title: "Occupational safety"
 slug: "occupational-safety"
-meta: >-
+meta: |
   Occupational safety ensures a safe work environment in hotels, restaurants, cafes, and bars. It reduces risks, prevents accidents, and promotes employee well-being.
 seo_title: "What is Occupational safety in the hospitality industry?"
 unique_id: "1726570196709x619146883663476100"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Occupational safety",
+    "description": "Occupational safety is the implementation of practices, policies and procedures in the workplace to protect employees from harm. In the hospitality industry, it includes measures to prevent accidents, injuries and health hazards during daily operations, covering everything from handling cleaning chemicals to ergonomic considerations for staff.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/occupational-safety",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Occupational safety",
+        "item": "https://yourpilla.com/glossary/occupational-safety"
+      }
+    ]
+  }
 ---
 
 Occupational safety is the practices, policies and procedures in the workplace to protect employees from harm and well-being. In the hospitality industry this includes measures to prevent accidents, injuries and health hazards that can occur during daily operations. It covers everything from handling cleaning chemicals to ergonomic considerations for staff who stand for long periods.
@@ -15,8 +50,12 @@ Let’s say you’re a restaurant manager named Sarah. You notice your kitchen s
 
 ## External Reading
 
-- [Detailed explanation of OSHA requirements for hotels, focusing on maintaining a safe environment for employees and guests.](https://axonator.com/terms/osha-general-requirements-hotels/#:~:text=Ensuring%20the%20safety%20and%20well,Health%20Administration%20(OSHA)%20regulations.)
-- [Comprehensive guide on safety responsibilities in the hospitality industry, highlighting employer obligations.](https://safework.sa.gov.au/industry/hospitality/safety-in-the-hospitality-industry#:~:text=Employers%20must%3A,not%20endanger%20workers%20and%20customers)
-- [Overview of Occupational Safety and Health (OSH) principles, emphasizing prevention of workplace hazards.](https://www.ioe-emp.org/policy-priorities/occupational-safety-and-health#:~:text=Occupational%20Safety%20and%20Health%20(OSH,people%20from%20work%2Drelated%20activities.)
-- [Explanation of the Occupational Safety and Health Act, detailing responsibilities for workplace safety in hospitality.](https://fiveable.me/key-terms/hospitality-management/occupational-safety-and-health-act)
-- [Article identifying common workplace hazards in the hospitality industry, with a focus on prevention and safety measures.](https://safetylineloneworker.com/blog/workplace-hazards-for-hospitality-hotel-workers)
+
+
+## External Reading
+
+*   [Detailed explanation of OSHA requirements for hotels, focusing on maintaining a safe environment for employees and guests.](https://axonator.com/terms/osha-general-requirements-hotels/#:~:text=Ensuring%20the%20safety%20and%20well,Health%20Administration%20\(OSHA\)%20regulations.)
+*   [Comprehensive guide on safety responsibilities in the hospitality industry, highlighting employer obligations.](https://safework.sa.gov.au/industry/hospitality/safety-in-the-hospitality-industry#:~:text=Employers%20must%3A,not%20endanger%20workers%20and%20customers)
+*   [Overview of Occupational Safety and Health (OSH) principles, emphasizing prevention of workplace hazards.](https://www.ioe-emp.org/policy-priorities/occupational-safety-and-health#:~:text=Occupational%20Safety%20and%20Health%20\(OSH,people%20from%20work%2Drelated%20activities.)
+*   [Explanation of the Occupational Safety and Health Act, detailing responsibilities for workplace safety in hospitality.](https://fiveable.me/key-terms/hospitality-management/occupational-safety-and-health-act)
+*   [Article identifying common workplace hazards in the hospitality industry, with a focus on prevention and safety measures.](https://safetylineloneworker.com/blog/workplace-hazards-for-hospitality-hotel-workers)

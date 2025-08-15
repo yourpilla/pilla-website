@@ -1,10 +1,44 @@
 ---
 title: "Rack rate"
 slug: "rack-rate"
-meta: >-
+meta: |
   Rack rate is the standard price for a hotel room before any discounts. It's the highest published rate and often used as a reference for pricing strategies.
 seo_title: "What are Rack rates in the hospitality industry?"
 unique_id: "1722587966749x995669265848421000"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Rack rate",
+    "description": "Rack rate is the highest price charged for a room or service, serving as the standard rate for walk-in guests with no reservation or special deal.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/rack-rate"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Rack rate",
+        "item": "https://yourpilla.com/glossary/rack-rate"
+      }
+    ]
+  }
 ---
 
 Rack rate is the highest price you charge for a room or service in your business. It’s the rate you’d charge a walk-in guest with no reservation or special deal. Think of it as the 'sticker price' for your rooms or services.
@@ -15,8 +49,12 @@ Imagine this: You’re the front desk manager at a boutique hotel. A couple walk
 
 ## External Reading
 
-- [Comprehensive guide to hotel rack rates for revenue managers and professionals, explaining the concept and its application in hospitality.](https://www.cvent.com/en/blog/hospitality/hotel-rack-rates)
-- [Detailed explanation of rack rate as the highest published room rate without discounts, focusing on its role in dynamic pricing strategies.](https://www.mylighthouse.com/resources/blog/rack-rate-definition-for-hoteliers)
-- [Defines rack rate as the maximum published hotel room price and discusses strategies for maximizing bookings.](https://tripleseat.com/blog/hotel-rack-rate-definition-and-strategies-to-maximize-event-and-group-bookings/)
-- [Explains 'rack rate' as the standard non-discounted price offered by hotels, providing clarity on its significance in pricing.](https://www.igms.com/rack-rate/)
-- [Explores the essentials of hotel rack rates, including definition, strategy, and optimization for pricing and promotions.](https://amenitiz.com/en/blog/understanding-the-essentials-of-hotel-rack-rates-definition-strategy-and-optimization/)
+
+
+## External Reading
+
+*   [Comprehensive guide to hotel rack rates for revenue managers and professionals, explaining the concept and its application in hospitality.](https://www.cvent.com/en/blog/hospitality/hotel-rack-rates)
+*   [Detailed explanation of rack rate as the highest published room rate without discounts, focusing on its role in dynamic pricing strategies.](https://www.mylighthouse.com/resources/blog/rack-rate-definition-for-hoteliers)
+*   [Defines rack rate as the maximum published hotel room price and discusses strategies for maximizing bookings.](https://tripleseat.com/blog/hotel-rack-rate-definition-and-strategies-to-maximize-event-and-group-bookings/)
+*   [Explains 'rack rate' as the standard non-discounted price offered by hotels, providing clarity on its significance in pricing.](https://www.igms.com/rack-rate/)
+*   [Explores the essentials of hotel rack rates, including definition, strategy, and optimization for pricing and promotions.](https://amenitiz.com/en/blog/understanding-the-essentials-of-hotel-rack-rates-definition-strategy-and-optimization/)

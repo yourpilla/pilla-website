@@ -1,10 +1,44 @@
 ---
 title: "PAR Level"
 slug: "par-level"
-meta: >-
+meta: |
   Par level is the standard amount of stock you need to meet customer demand without overstocking. It helps maintain efficiency in restaurants, cafes, and bars.
 seo_title: "What are Par levels in the hospitality industry?"
 unique_id: "1722523088880x976789340496671600"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Par",
+    "description": "Par is the minimum amount of stock you should always have on hand, ensuring you have enough to meet demand without overstocking, with levels varying by item, usage, and delivery schedule.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/par"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "PAR Level",
+        "item": "https://yourpilla.com/glossary/par-level"
+      }
+    ]
+  }
 ---
 
 Par is the minimum amount of stock you should always have on hand. This predetermined amount ensures you have enough to meet demand without overstocking. Par levels vary by item, usage and delivery schedule.
@@ -15,8 +49,12 @@ Let’s say you run a busy restaurant. You have a par level of 100 wine glasses.
 
 ## External Reading
 
-- [This guide from HotStats explains the difference between PAR (Per-Available-Room) and POR (Per-Occupied-Room) in hotel operational ratios, providing a detailed understanding of these key metrics.](https://www.hotstats.com/blog/par-or-por-a-guide-to-interpreting-hotel-operational-ratios)
-- [Standard Textile provides an in-depth explanation of PAR levels in the context of hotel linens, detailing how to determine the correct stock levels to avoid shortages.](https://www.standardtextile.com/blog/finding-the-right-par-level-for-hotel-linens/)
-- [Unleashed Software offers a comprehensive guide on PAR levels in inventory management, including formulas and examples to help businesses maintain optimal stock levels.](https://www.unleashedsoftware.com/blog/par-levels-in-inventory-management-with-formula-examples/)
-- [SetupMyHotel provides a detailed explanation of the Potential Average Rate (PAR) in the hotel industry, including an online calculator and its importance in revenue management.](https://setupmyhotel.com/hotel-staff-training/front-office-training/fo-formula-par-potential-average-rate-calculator/)
-- [STR Global's glossary includes definitions and explanations of PAR and POR, offering insights into their applications in hotel financial analysis.](https://str.com/sites/default/files/profit-and-loss-glossary.pdf)
+
+
+## External Reading
+
+*   [This guide from HotStats explains the difference between PAR (Per-Available-Room) and POR (Per-Occupied-Room) in hotel operational ratios, providing a detailed understanding of these key metrics.](https://www.hotstats.com/blog/par-or-por-a-guide-to-interpreting-hotel-operational-ratios)
+*   [Standard Textile provides an in-depth explanation of PAR levels in the context of hotel linens, detailing how to determine the correct stock levels to avoid shortages.](https://www.standardtextile.com/blog/finding-the-right-par-level-for-hotel-linens/)
+*   [Unleashed Software offers a comprehensive guide on PAR levels in inventory management, including formulas and examples to help businesses maintain optimal stock levels.](https://www.unleashedsoftware.com/blog/par-levels-in-inventory-management-with-formula-examples/)
+*   [SetupMyHotel provides a detailed explanation of the Potential Average Rate (PAR) in the hotel industry, including an online calculator and its importance in revenue management.](https://setupmyhotel.com/hotel-staff-training/front-office-training/fo-formula-par-potential-average-rate-calculator/)
+*   [STR Global's glossary includes definitions and explanations of PAR and POR, offering insights into their applications in hotel financial analysis.](https://str.com/sites/default/files/profit-and-loss-glossary.pdf)

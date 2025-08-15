@@ -1,10 +1,45 @@
 ---
 title: "À la carte"
 slug: "à-la-carte"
-meta: >-
+meta: |
   À la carte means offering menu items individually rather than as part of a set meal. Guests choose each dish separately, allowing for personalised dining experiences.
 seo_title: "What is À la carte in the hospitality industry?"
 unique_id: "1725633203490x975085659216627100"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "À la carte",
+    "description": "À la carte means by the card in English. In hospitality, it refers to a menu where each dish is listed separately with its own price, allowing guests to choose individual items to create their meal rather than a set menu or package deal.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/a-la-carte",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "À la carte",
+        "item": "https://yourpilla.com/glossary/à-la-carte"
+      }
+    ]
+  }
 ---
 
 À la carte means by the card in English. In hospitality, it refers to a menu where each dish is listed separately with its own price. This way guests can choose individual items to create their meal rather than a set menu or package deal. À la carte menus give diners the freedom to mix and match dishes to their taste and budget.
@@ -15,8 +50,12 @@ Imagine you’re a server at a cool Italian restaurant. A group of four friends 
 
 ## External Reading
 
-- [Provides a detailed explanation of what 'à la carte' means in a restaurant setting, emphasizing individual dish ordering.](https://home.binwise.com/blog/a-la-carte-menu)
-- [Explains the term 'à la carte' in the context of restaurant service, highlighting its French origins and menu implications.](https://www.coursesidekick.com/health-science/1229116)
-- [Offers a definition of 'à la carte' in American English, with a focus on its use in hospitality and dining.](https://www.collinsdictionary.com/us/dictionary/english/a-la-carte)
-- [Discusses the meaning of 'à la carte' as a French term used in the food and hospitality industry.](https://en.amazingtalker.com/questions/1486)
-- [Defines 'à la carte' within the broader context of restaurant and hospitality terminology.](https://averoinc.zendesk.com/hc/en-us/articles/7919662845459-Restaurant-Hospitality-Terminology)
+
+
+## External Reading
+
+*   [Provides a detailed explanation of what 'à la carte' means in a restaurant setting, emphasizing individual dish ordering.](https://home.binwise.com/blog/a-la-carte-menu)
+*   [Explains the term 'à la carte' in the context of restaurant service, highlighting its French origins and menu implications.](https://www.coursesidekick.com/health-science/1229116)
+*   [Offers a definition of 'à la carte' in American English, with a focus on its use in hospitality and dining.](https://www.collinsdictionary.com/us/dictionary/english/a-la-carte)
+*   [Discusses the meaning of 'à la carte' as a French term used in the food and hospitality industry.](https://en.amazingtalker.com/questions/1486)
+*   [Defines 'à la carte' within the broader context of restaurant and hospitality terminology.](https://averoinc.zendesk.com/hc/en-us/articles/7919662845459-Restaurant-Hospitality-Terminology)

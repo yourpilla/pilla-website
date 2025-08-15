@@ -1,10 +1,44 @@
 ---
 title: "Menu board"
 slug: "menu-board"
-meta: >-
+meta: |
   A menu board displays food and drink items, prices, and specials in restaurants, cafes, and bars. It helps customers make choices quickly and easily.
 seo_title: "What is a Menu board in the hospitality industry?"
 unique_id: "1726569937105x321145776708269300"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Menu board",
+    "description": "A menu board is a visual representation of food and drink offerings found in restaurants, cafes and fast food outlets. It displays menu items, prices and sometimes images or descriptions of dishes, and can be static or digital.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/menu-board"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Menu board",
+        "item": "https://yourpilla.com/glossary/menu-board"
+      }
+    ]
+  }
 ---
 
 A menu board is a visual representation of food and drink offerings, found in restaurants, cafes and fast food outlets. It's a big, easy-to-read board that shows menu items, prices and sometimes images or descriptions of dishes. Menu boards can be static or digital, the latter allowing for quick updates and dynamic content.
@@ -15,8 +49,12 @@ Imagine you're running a busy café during lunchtime. Your digital menu board al
 
 ## External Reading
 
-- [This guide covers the significant elements of successful restaurant menu board design and offers tips and strategies on how to make effective menu boards.](https://nento.com/the-ultimate-guide-to-restaurant-menu-board-design/)
-- [A comprehensive PDF guide on best practices for digital menu boards, focusing on content and communication in restaurant settings.](https://delphidisplay.com/wp-content/uploads/2022/07/Delphi-Best-Practices-Digital-Menu-Boards-2021.pdf)
-- [An ultimate guide to digital menu boards, emphasizing their use in quick-service and fast casual restaurants with vibrant graphics.](https://www.kuusoft.com/nexsigns/wp-content/uploads/sites/11/2020/05/DMBUltimateGuide-ver3-Mockup-V02.pdf)
-- [This blog post explains how indoor digital menu boards work, replacing static menus with dynamic screens featuring enticing visuals.](https://navori.com/blog/indoor-digital-menu-boards-how-it-works/)
-- [An article discussing the benefits of digital menu boards in the hospitality industry, focusing on promotion and strategic marketing.](https://www.ledcraftinc.com/benefits-of-digital-menu-boards-in-the-hospitality-industry/)
+
+
+## External Reading
+
+*   [This guide covers the significant elements of successful restaurant menu board design and offers tips and strategies on how to make effective menu boards.](https://nento.com/the-ultimate-guide-to-restaurant-menu-board-design/)
+*   [A comprehensive PDF guide on best practices for digital menu boards, focusing on content and communication in restaurant settings.](https://delphidisplay.com/wp-content/uploads/2022/07/Delphi-Best-Practices-Digital-Menu-Boards-2021.pdf)
+*   [An ultimate guide to digital menu boards, emphasizing their use in quick-service and fast casual restaurants with vibrant graphics.](https://www.kuusoft.com/nexsigns/wp-content/uploads/sites/11/2020/05/DMBUltimateGuide-ver3-Mockup-V02.pdf)
+*   [This blog post explains how indoor digital menu boards work, replacing static menus with dynamic screens featuring enticing visuals.](https://navori.com/blog/indoor-digital-menu-boards-how-it-works/)
+*   [An article discussing the benefits of digital menu boards in the hospitality industry, focusing on promotion and strategic marketing.](https://www.ledcraftinc.com/benefits-of-digital-menu-boards-in-the-hospitality-industry/)

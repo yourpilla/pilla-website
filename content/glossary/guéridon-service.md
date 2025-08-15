@@ -1,10 +1,44 @@
 ---
 title: "Guéridon Service"
 slug: "guéridon-service"
-meta: >-
+meta: |
   Guéridon Service is a fine dining technique where servers prepare and serve dishes from a mobile trolley at the guest's table, enhancing the dining experience.
 seo_title: "What is Guéridon Service in the hospitality industry?"
 unique_id: "1723823938482x510635913207968560"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Guéridon service",
+    "description": "Guéridon service is a tableside service where food is prepared, finished, or presented on a mobile trolley known as a guéridon. It uses a small wheeled table with a heating element, enabling servers to cook, carve, or assemble dishes in front of guests to enhance the dining experience.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/gueridon-service"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Guéridon Service",
+        "item": "https://yourpilla.com/glossary/guéridon-service"
+      }
+    ]
+  }
 ---
 
 Guéridon service is a fancy way of saying food is prepared, finished or presented tableside on a mobile trolley or cart called a guéridon. This adds a bit of theatre to the dining experience and allows guests to see the final prep of their meal. The guéridon itself is a small wheeled table with a spirit lamp or other heating element so servers can cook, carve or assemble dishes right in front of the guests.
@@ -15,8 +49,12 @@ Imagine you’re a server in a fancy French restaurant. A couple is celebrating 
 
 ## External Reading
 
-- [Wikipedia entry providing a general overview of Guéridon service, explaining its role in tableside cooking and service.](https://en.wikipedia.org/wiki/Gueridon_service)
-- [Educational resource detailing the features, pros and cons, and etiquette of Guéridon service, useful for hospitality students.](https://hmhub.in/2nd-sem-f-b-service-notes/gueridon-service-2/)
-- [Official training document from the Australian government outlining the procedures and applications of Guéridon service in hospitality.](https://training.gov.au/TrainingComponentFiles/SIT12/SITHFAB311_R1.pdf)
-- [Step-by-step guide from a hospitality institute, offering detailed procedures for executing Guéridon service effectively.](https://hospitality.institute/BHA303/gueridon-service-procedures-guide)
-- [SlideShare presentation providing a visual and structured explanation of Guéridon service, ideal for visual learners.](https://www.slideshare.net/slideshow/gueridon-service-126013618/126013618)
+
+
+## External Reading
+
+*   [Wikipedia entry providing a general overview of Guéridon service, explaining its role in tableside cooking and service.](https://en.wikipedia.org/wiki/Gueridon_service)
+*   [Educational resource detailing the features, pros and cons, and etiquette of Guéridon service, useful for hospitality students.](https://hmhub.in/2nd-sem-f-b-service-notes/gueridon-service-2/)
+*   [Official training document from the Australian government outlining the procedures and applications of Guéridon service in hospitality.](https://training.gov.au/TrainingComponentFiles/SIT12/SITHFAB311_R1.pdf)
+*   [Step-by-step guide from a hospitality institute, offering detailed procedures for executing Guéridon service effectively.](https://hospitality.institute/BHA303/gueridon-service-procedures-guide)
+*   [SlideShare presentation providing a visual and structured explanation of Guéridon service, ideal for visual learners.](https://www.slideshare.net/slideshow/gueridon-service-126013618/126013618)

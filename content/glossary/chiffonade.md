@@ -1,10 +1,44 @@
 ---
 title: "Chiffonade"
 slug: "chiffonade"
-meta: >-
+meta: |
   Chiffonade is a knife technique where you finely slice leafy greens or herbs into thin strips. It enhances presentation and flavour in dishes at restaurants, cafes, and bars.
 seo_title: "What is Chiffonade in the hospitality industry?"
 unique_id: "1725916741463x525483749680893760"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Chiffonade",
+    "description": "Chiffonade is a culinary technique that finely slices leafy herbs or vegetables into long, thin strips by stacking the leaves, rolling them tightly, and slicing across the roll.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/chiffonade"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Chiffonade",
+        "item": "https://yourpilla.com/glossary/chiffonade"
+      }
+    ]
+  }
 ---
 
 Chiffonade is a culinary technique used to finely slice leafy herbs or vegetables into long, thin strips. The term comes from the French word for 'made of rags' or 'in ribbons'. To create a chiffonade, you stack leaves on top of each other, roll them tightly, and then slice across the roll to produce delicate ribbons. This method is commonly used for herbs like basil, mint, or sage, as well as leafy greens such as lettuce or spinach.
@@ -15,8 +49,12 @@ Let's say you're a sous chef at a high-end restaurant, and you're preparing a su
 
 ## External Reading
 
-- [Wikipedia provides a detailed explanation of the chiffonade technique, including its origins and specific method of slicing leafy greens and herbs.](https://en.wikipedia.org/wiki/Chiffonade#:~:text=Chiffonade%20(French%3A%20%5B%CA%83i.,leaves%20perpendicular%20to%20the%20roll.)
-- [MasterClass offers a comprehensive guide on the chiffonade technique, focusing on its application in slicing herbs and leafy vegetables.](https://www.masterclass.com/articles/how-to-chiffonade)
-- [The Spruce Eats explains the chiffonade knife technique, detailing how it is used to cut herbs and leafy vegetables into thin strips.](https://www.thespruceeats.com/what-does-chiffonade-mean-995614)
-- [Auguste Escoffier School of Culinary Arts provides insights into essential knife cuts, including the chiffonade, with practical tips for execution.](https://www.escoffier.edu/blog/culinary-arts/8-knife-cuts-every-professional-cook-should-know/)
-- [Misen's blog post covers the chiffonade cut, offering a detailed definition and step-by-step guide to mastering this fine slicing technique.](https://misen.com/blogs/news/chiffonade-cut-definition-master-the-art-of-fine-slicing)
+
+
+## External Reading
+
+*   [Wikipedia provides a detailed explanation of the chiffonade technique, including its origins and specific method of slicing leafy greens and herbs.](https://en.wikipedia.org/wiki/Chiffonade#:~:text=Chiffonade%20\(French%3A%20%5B%CA%83i.,leaves%20perpendicular%20to%20the%20roll.)
+*   [MasterClass offers a comprehensive guide on the chiffonade technique, focusing on its application in slicing herbs and leafy vegetables.](https://www.masterclass.com/articles/how-to-chiffonade)
+*   [The Spruce Eats explains the chiffonade knife technique, detailing how it is used to cut herbs and leafy vegetables into thin strips.](https://www.thespruceeats.com/what-does-chiffonade-mean-995614)
+*   [Auguste Escoffier School of Culinary Arts provides insights into essential knife cuts, including the chiffonade, with practical tips for execution.](https://www.escoffier.edu/blog/culinary-arts/8-knife-cuts-every-professional-cook-should-know/)
+*   [Misen's blog post covers the chiffonade cut, offering a detailed definition and step-by-step guide to mastering this fine slicing technique.](https://misen.com/blogs/news/chiffonade-cut-definition-master-the-art-of-fine-slicing)

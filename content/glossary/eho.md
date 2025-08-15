@@ -1,10 +1,45 @@
 ---
 title: "EHO"
 slug: "eho"
-meta: >-
+meta: |
   EHO stands for Environmental Health Officer. They inspect restaurants, cafes, bars, and hotels to ensure compliance with health and safety regulations, promoting hygiene and safety.
 seo_title: "What is an EHO in the hospitality industry?"
 unique_id: "1723454448596x210699770373901300"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Environmental Health Officer",
+    "description": "An Environmental Health Officer works for the local authority to ensure that hospitality businesses comply with health and safety regulations by inspecting premises, investigating complaints, and enforcing food hygiene standards to protect public health.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/environmental-health-officer",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "EHO",
+        "item": "https://yourpilla.com/glossary/eho"
+      }
+    ]
+  }
 ---
 
 EHO = Environmental Health Officer. They work for the local authority to make sure businesses including hospitality businesses comply with health and safety regulations. They inspect premises, investigate complaints and enforce food hygiene standards to protect public health.
@@ -15,8 +50,12 @@ Imagine this: you’re the head chef of a busy restaurant. One day an EHO turns 
 
 ## External Reading
 
-- [A detailed guide on EHO inspections, explaining their role in ensuring food businesses comply with safety regulations.](https://goaudits.com/blog/eho-inspections/)
-- [Comprehensive overview of the powers and responsibilities of Environmental Health Officers in protecting public health.](https://cpdonline.co.uk/knowledge-base/food-hygiene/environmental-health-officer-powers/)
-- [Explains the primary role of Environmental Health Officers in safeguarding public health and safety.](https://www.envesca.co.uk/what-is-the-role-of-an-environmental-health-officer/)
-- [A quick guide for preparing for EHO inspections, focusing on compliance with food safety laws.](https://www.kafoodle.com/blog/quick-guide-for-eho-inspection)
-- [Resource on how to prepare for an EHO visit, detailing the responsibilities of EHOs in food safety inspections.](https://www.highspeedtraining.co.uk/hub/prepare-for-an-eho-visit/)
+
+
+## External Reading
+
+*   [A detailed guide on EHO inspections, explaining their role in ensuring food businesses comply with safety regulations.](https://goaudits.com/blog/eho-inspections/)
+*   [Comprehensive overview of the powers and responsibilities of Environmental Health Officers in protecting public health.](https://cpdonline.co.uk/knowledge-base/food-hygiene/environmental-health-officer-powers/)
+*   [Explains the primary role of Environmental Health Officers in safeguarding public health and safety.](https://www.envesca.co.uk/what-is-the-role-of-an-environmental-health-officer/)
+*   [A quick guide for preparing for EHO inspections, focusing on compliance with food safety laws.](https://www.kafoodle.com/blog/quick-guide-for-eho-inspection)
+*   [Resource on how to prepare for an EHO visit, detailing the responsibilities of EHOs in food safety inspections.](https://www.highspeedtraining.co.uk/hub/prepare-for-an-eho-visit/)

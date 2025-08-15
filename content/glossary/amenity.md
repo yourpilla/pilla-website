@@ -1,10 +1,44 @@
 ---
 title: "Amenity"
 slug: "amenity"
-meta: >-
+meta: |
   An amenity in hospitality refers to a service or item provided to guests for comfort and convenience, such as free Wi-Fi, toiletries, or a fitness centre.
 seo_title: "What is each Amenity in the hospitality industry?"
 unique_id: "1723805945905x209439936678175600"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Amenity",
+    "description": "An amenity is something a hotel provides to make life more comfortable and enjoyable for guests. It includes items such as toiletries, towels, spa services and in-room entertainment systems that enhance the guest experience.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/amenity"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Amenity",
+        "item": "https://yourpilla.com/glossary/amenity"
+      }
+    ]
+  }
 ---
 
 An amenity is something a hotel provides to make life more comfortable and enjoyable for guests. From toiletries and towels to spa services and in-room entertainment systems, amenities can vary greatly depending on the type of hotel but all add to the guest experience.
@@ -15,8 +49,12 @@ Let’s say you’re a hotel manager and it’s holiday season. You decide to ad
 
 ## External Reading
 
-- [This resource from Cvent provides a detailed exploration of various hotel amenity ideas, offering practical insights into enhancing guest experiences.](https://www.cvent.com/en/blog/hospitality/hotel-amenity-ideas)
-- [Source1 Purchasing offers a comprehensive guide on hotel amenities, focusing on procurement strategies to improve guest satisfaction.](https://source1purchasing.com/blog/a-guide-to-hotel-amenities-and-seamless-procurement-with-source1/)
-- [Revfine provides an in-depth explanation of hotel amenities, highlighting how they can transform a guest's stay into an outstanding experience.](https://www.revfine.com/hotel-amenities/)
-- [DoorLoop explains the definition and examples of amenities in real estate, applicable to both apartments and hotels, covering basic and advanced features.](https://www.doorloop.com/definitions/amenities)
-- [RoomRaccoon offers a guide on hotel amenities, detailing features and services that add value and comfort to the guest experience.](https://roomraccoon.com/blog/hotel-amenities-guide/)
+
+
+## External Reading
+
+*   [This resource from Cvent provides a detailed exploration of various hotel amenity ideas, offering practical insights into enhancing guest experiences.](https://www.cvent.com/en/blog/hospitality/hotel-amenity-ideas)
+*   [Source1 Purchasing offers a comprehensive guide on hotel amenities, focusing on procurement strategies to improve guest satisfaction.](https://source1purchasing.com/blog/a-guide-to-hotel-amenities-and-seamless-procurement-with-source1/)
+*   [Revfine provides an in-depth explanation of hotel amenities, highlighting how they can transform a guest's stay into an outstanding experience.](https://www.revfine.com/hotel-amenities/)
+*   [DoorLoop explains the definition and examples of amenities in real estate, applicable to both apartments and hotels, covering basic and advanced features.](https://www.doorloop.com/definitions/amenities)
+*   [RoomRaccoon offers a guide on hotel amenities, detailing features and services that add value and comfort to the guest experience.](https://roomraccoon.com/blog/hotel-amenities-guide/)

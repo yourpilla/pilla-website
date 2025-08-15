@@ -16,23 +16,9 @@ export async function generateMetadata({ params }: GlossaryPageProps): Promise<M
     return {};
   }
 
-  // Create JSON-LD structured data
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": term.title,
-    "description": term.meta || term.content.slice(0, 160),
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": `https://yourpilla.com/glossary/${slug}`,
-    "inLanguage": "en-GB"
-  };
-
   return {
     title: `${term.title} - Hospitality Glossary`,
     description: term.meta || term.content.slice(0, 160),
-    other: {
-      'script:ld+json': JSON.stringify(jsonLd)
-    }
   };
 }
 
@@ -54,23 +40,27 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
 
   const synonyms = Array.isArray(term.frontmatter.synonyms) ? term.frontmatter.synonyms as string[] : [];
 
-  // Create JSON-LD structured data
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": term.title,
-    "description": term.meta || term.content.slice(0, 160),
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": `https://yourpilla.com/glossary/${slug}`,
-    "inLanguage": "en-GB"
-  };
-
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      {/* Render exact schema from YAML frontmatter */}
+      {term.frontmatter.schema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(term.frontmatter.schema),
+          }}
+        />
+      )}
+      
+      {/* Render exact breadcrumb schema from YAML frontmatter */}
+      {term.frontmatter.breadcrumb_schema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(term.frontmatter.breadcrumb_schema),
+          }}
+        />
+      )}
       <div className="min-h-screen" style={{backgroundColor: 'var(--background)'}}>
       {/* Main Content */}
       <div className="max-w-4xl mx-auto px-4 py-12">

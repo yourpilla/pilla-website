@@ -1,10 +1,44 @@
 ---
 title: "Executive Housekeeper"
 slug: "executive-housekeeper"
-meta: >-
+meta: |
   The Executive Housekeeper oversees all housekeeping operations, ensuring cleanliness and maintenance standards in hotels, restaurants, cafes, and bars are met.
 seo_title: "What is an Executive Housekeeper in the hospitality industry?"
 unique_id: "1725633598711x997513556000863900"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Executive Housekeeper",
+    "description": "An Executive Housekeeper is a top management role that oversees all housekeeping operations in a hotel or hospitality business. This includes managing staff, standards, budget and guest satisfaction. Executive Housekeepers report to the General Manager and work closely with other department heads to maintain the overall quality of the property.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/executive-housekeeper"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Executive Housekeeper",
+        "item": "https://yourpilla.com/glossary/executive-housekeeper"
+      }
+    ]
+  }
 ---
 
 An Executive Housekeeper is a top management role that oversees all housekeeping operations in a hotel or hospitality business. This includes managing staff, standards, budget and guest satisfaction. Executive Housekeepers report to the General Manager and work closely with other department heads to maintain the overall quality of the property.
@@ -15,8 +49,12 @@ Sarah, Executive Housekeeper at a city centre hotel, arrives at work early to re
 
 ## External Reading
 
-- [Detailed overview of the role of an Executive Housekeeper, including responsibilities and standard operating procedures in line with hotel service standards.](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/occupation/occupation-detail.Executive%20Housekeeper-9387.html)
-- [Comprehensive job description for an Executive Housekeeper, outlining responsibilities and management duties in a hotel setting.](https://setupmyhotel.com/job-description-for-hotels/housekeeping-job-description/executive-housekeeper-ehk-job-description/)
-- [Explains the role of an Executive Housekeeper as the head administrator of a housekeeping department, including management responsibilities.](https://ca.indeed.com/career-advice/finding-a-job/what-does-an-executive-housekeeper-do)
-- [Educational resource from Northwest Missouri State University detailing the functions and responsibilities of an Executive Housekeeper in hospitality.](https://careertraining.nwmissouri.edu/training-programs/executive-housekeeper/)
-- [Resource focusing on the duties of an Executive Housekeeper in luxury hotels, emphasizing cleanliness and presentation of guest accommodations.](https://hospitality-staffing.agency/job/executive-housekeeper/)
+
+
+## External Reading
+
+*   [Detailed overview of the role of an Executive Housekeeper, including responsibilities and standard operating procedures in line with hotel service standards.](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/occupation/occupation-detail.Executive%20Housekeeper-9387.html)
+*   [Comprehensive job description for an Executive Housekeeper, outlining responsibilities and management duties in a hotel setting.](https://setupmyhotel.com/job-description-for-hotels/housekeeping-job-description/executive-housekeeper-ehk-job-description/)
+*   [Explains the role of an Executive Housekeeper as the head administrator of a housekeeping department, including management responsibilities.](https://ca.indeed.com/career-advice/finding-a-job/what-does-an-executive-housekeeper-do)
+*   [Educational resource from Northwest Missouri State University detailing the functions and responsibilities of an Executive Housekeeper in hospitality.](https://careertraining.nwmissouri.edu/training-programs/executive-housekeeper/)
+*   [Resource focusing on the duties of an Executive Housekeeper in luxury hotels, emphasizing cleanliness and presentation of guest accommodations.](https://hospitality-staffing.agency/job/executive-housekeeper/)

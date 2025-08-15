@@ -1,10 +1,44 @@
 ---
 title: "Coffee Chaff"
 slug: "coffee-chaff"
-meta: >-
+meta: |
   Coffee chaff is the dry, papery skin that comes off coffee beans during roasting. In cafes, you can use it as compost or a natural mulch for plants.
 seo_title: "What is Coffee Chaff in the hospitality industry?"
 unique_id: "1725957931565x294417212486616450"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Coffee chaff",
+    "description": "Coffee chaff is the papery skin removed from coffee beans during roasting. It is collected in the roaster's chaff collector, appears light and flaky, and resembles small pieces of paper or leaves.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/coffee-chaff"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Coffee Chaff",
+        "item": "https://yourpilla.com/glossary/coffee-chaff"
+      }
+    ]
+  }
 ---
 
 Coffee chaff is the papery skin that comes off the coffee beans during the roasting process. It's a by-product that's often discarded but has some uses in the hospitality industry. When coffee beans are roasted, the chaff separates from the bean and is collected in the roaster's chaff collector. It's light, flaky and looks like small pieces of paper or leaves.
@@ -15,8 +49,12 @@ Let’s say you're a barista at a busy cafe that roasts its own coffee beans. Yo
 
 ## External Reading
 
-- [Detailed explanation of coffee chaff and its significance in the roasting process, providing insights into its role and management.](https://blackturtlecoffee.com/blogs/black-turtle-times/what-is-chaff-and-why-is-it-important-in-coffee-roasting)
-- [General overview of chaff, including its definition, uses, and implications in various contexts, including coffee.](https://en.wikipedia.org/wiki/Chaff)
-- [Practical guide on using coffee chaff in gardening, highlighting its benefits and biodegradability.](https://detourcoffee.com/blogs/news/feed-your-garden-with-coffee-chaff)
-- [Explores the zero-waste potential of coffee chaff, discussing its reuse in specialty coffee roasting.](https://mtpak.coffee/2021/06/zero-waste-what-is-chaff-how-can-specialty-roasters-reuse-it)
-- [Insight into utilizing coffee chaff as a resource in zero-waste initiatives, emphasizing sustainability.](https://impactroasters.dk/blogs/news/the-pursuit-of-a-zero-waste-coffee-chaff-as-a-resource)
+
+
+## External Reading
+
+*   [Detailed explanation of coffee chaff and its significance in the roasting process, providing insights into its role and management.](https://blackturtlecoffee.com/blogs/black-turtle-times/what-is-chaff-and-why-is-it-important-in-coffee-roasting)
+*   [General overview of chaff, including its definition, uses, and implications in various contexts, including coffee.](https://en.wikipedia.org/wiki/Chaff)
+*   [Practical guide on using coffee chaff in gardening, highlighting its benefits and biodegradability.](https://detourcoffee.com/blogs/news/feed-your-garden-with-coffee-chaff)
+*   [Explores the zero-waste potential of coffee chaff, discussing its reuse in specialty coffee roasting.](https://mtpak.coffee/2021/06/zero-waste-what-is-chaff-how-can-specialty-roasters-reuse-it)
+*   [Insight into utilizing coffee chaff as a resource in zero-waste initiatives, emphasizing sustainability.](https://impactroasters.dk/blogs/news/the-pursuit-of-a-zero-waste-coffee-chaff-as-a-resource)

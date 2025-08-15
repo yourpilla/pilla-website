@@ -1,10 +1,44 @@
 ---
 title: "Executive Chef"
 slug: "executive-chef"
-meta: >-
+meta: |
   An Executive Chef oversees kitchen operations, menu planning, and staff management in restaurants, hotels, cafes, and bars, ensuring high-quality food and service.
 seo_title: "What is an Executive Chef in the hospitality industry?"
 unique_id: "1722781990151x732609118868156700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Executive Chef",
+    "description": "An Executive Chef leads the kitchen in a restaurant or hotel by managing the team, creating menus, ensuring food quality and safety, and overseeing budgeting, inventory, and supplier relationships.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/executive-chef"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Executive Chef",
+        "item": "https://yourpilla.com/glossary/executive-chef"
+      }
+    ]
+  }
 ---
 
 An Executive Chef is the head of the kitchen in a restaurant or hotel. They run the kitchen, manage the team, create menus and ensure food quality and safety standards are met. Executive Chefs also do the budgeting, inventory and supplier relationships.
@@ -15,8 +49,12 @@ Let’s say you’re a sous chef in a busy hotel restaurant. Your Executive Chef
 
 ## External Reading
 
-- [A detailed job description from Indeed, covering the skills, education, and experience required for an Executive Chef role.](https://www.indeed.com/hire/job-description/executive-chef)
-- [Workable provides a comprehensive guide on the responsibilities and tasks of an Executive Chef, including menu planning and culinary activities.](https://resources.workable.com/executive-chef-job-description)
-- [Cuboh explains the role of an Executive Chef, focusing on their responsibilities in overseeing culinary operations in hospitality settings.](https://www.cuboh.com/blog/what-is-an-executive-chef)
-- [The Auguste Escoffier School of Culinary Arts discusses the differences between Executive Chefs and Head Chefs, highlighting their distinct roles in the kitchen hierarchy.](https://www.escoffier.edu/blog/culinary-pastry-careers/executive-chef-vs-head-chef-what-is-the-diference/)
-- [SetupMyHotel outlines the duties and responsibilities of an Executive Chef, specifically within hotel kitchen operations.](https://setupmyhotel.com/job-description-for-hotels/kitchen-fb-production-job-description/37-duties-and-responsibility-for-executive-chef/)
+
+
+## External Reading
+
+*   [A detailed job description from Indeed, covering the skills, education, and experience required for an Executive Chef role.](https://www.indeed.com/hire/job-description/executive-chef)
+*   [Workable provides a comprehensive guide on the responsibilities and tasks of an Executive Chef, including menu planning and culinary activities.](https://resources.workable.com/executive-chef-job-description)
+*   [Cuboh explains the role of an Executive Chef, focusing on their responsibilities in overseeing culinary operations in hospitality settings.](https://www.cuboh.com/blog/what-is-an-executive-chef)
+*   [The Auguste Escoffier School of Culinary Arts discusses the differences between Executive Chefs and Head Chefs, highlighting their distinct roles in the kitchen hierarchy.](https://www.escoffier.edu/blog/culinary-pastry-careers/executive-chef-vs-head-chef-what-is-the-diference/)
+*   [SetupMyHotel outlines the duties and responsibilities of an Executive Chef, specifically within hotel kitchen operations.](https://setupmyhotel.com/job-description-for-hotels/kitchen-fb-production-job-description/37-duties-and-responsibility-for-executive-chef/)

@@ -1,10 +1,44 @@
 ---
 title: "All Day Dining"
 slug: "all-day-dining"
-meta: >-
+meta: |
   All Day Dining refers to a restaurant or cafe that offers a wide range of meals and snacks throughout the entire day, from breakfast to dinner, without specific meal times.
 seo_title: "What is All Day Dining in the hospitality industry?"
 unique_id: "1725199961007x583058030286562200"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "All Day Dining",
+    "description": "All Day Dining is a restaurant or food service concept where meals are served continuously from breakfast through dinner. It offers flexible dining outside traditional meal periods with a diverse menu available throughout operating hours.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/all-day-dining"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "All Day Dining",
+        "item": "https://yourpilla.com/glossary/all-day-dining"
+      }
+    ]
+  }
 ---
 
 All Day Dining refers to a restaurant or food service concept where meals are served continuously throughout the day, typically from breakfast through dinner. This style of dining offers guests the flexibility to eat at any time, breaking away from traditional meal periods. All Day Dining venues usually feature a diverse menu that includes breakfast items, lunch options, and dinner dishes, available at any time during operating hours.
@@ -15,8 +49,12 @@ Let's say you're managing a boutique hotel in London. Your All Day Dining restau
 
 ## External Reading
 
-- [Kafoodle provides a comprehensive explanation of all-day dining, detailing its application from breakfast through dinner, making it a valuable resource for understanding the concept in hospitality.](https://www.kafoodle.com/blog/all-day-dining-definition-help-business)
-- [Gordon Food Service discusses the strategic benefits of all-day dining, offering insights into how it can enhance guest reach and manage costs effectively.](https://gfs.com/en-us/ideas/all-day-dining-done-right/)
-- [Eater explores the trend of all-day dining in 2017, providing context on its rise and impact on restaurant profitability and customer experience.](https://www.eater.com/2017/7/12/15927952/all-day-dining-restaurant-trends-2017)
-- [Lark provides a glossary entry that defines all-day dining as the provision of meals throughout the day, offering a clear and concise explanation.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/all-day)
-- [Altametrics explains the role of 'all day' in restaurant communication, highlighting its importance in operational efficiency and staff coordination.](https://altametrics.com/topics/the-central-role-of-all-day-in-restaurant-communication/)
+
+
+## External Reading
+
+*   [Kafoodle provides a comprehensive explanation of all-day dining, detailing its application from breakfast through dinner, making it a valuable resource for understanding the concept in hospitality.](https://www.kafoodle.com/blog/all-day-dining-definition-help-business)
+*   [Gordon Food Service discusses the strategic benefits of all-day dining, offering insights into how it can enhance guest reach and manage costs effectively.](https://gfs.com/en-us/ideas/all-day-dining-done-right/)
+*   [Eater explores the trend of all-day dining in 2017, providing context on its rise and impact on restaurant profitability and customer experience.](https://www.eater.com/2017/7/12/15927952/all-day-dining-restaurant-trends-2017)
+*   [Lark provides a glossary entry that defines all-day dining as the provision of meals throughout the day, offering a clear and concise explanation.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/all-day)
+*   [Altametrics explains the role of 'all day' in restaurant communication, highlighting its importance in operational efficiency and staff coordination.](https://altametrics.com/topics/the-central-role-of-all-day-in-restaurant-communication/)

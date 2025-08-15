@@ -1,10 +1,44 @@
 ---
 title: "Head Bartender"
 slug: "head-bartender"
-meta: >-
+meta: |
   A Head Bartender oversees bar operations, manages staff, ensures quality service, and creates drink menus. They maintain inventory and ensure customer satisfaction.
 seo_title: "What is a Head Bartender in the hospitality industry?"
 unique_id: "1723824118317x634110973251496700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Head Bartender",
+    "description": "A Head Bartender is the top bartender in a bar or restaurant, responsible for the overall running of the bar, staff, and service. They create cocktail menus, train other bartenders, manage inventory, and ensure service standards are met.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/head-bartender"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Head Bartender",
+        "item": "https://yourpilla.com/glossary/head-bartender"
+      }
+    ]
+  }
 ---
 
 A Head Bartender is the top bartender in a bar or restaurant, responsible for the overall running of the bar, staff and service. They create cocktail menus, train other bartenders, manage inventory and ensure service standards are met. Head Bartenders have years of experience and knowledge of mixology, spirits and customer service.
@@ -15,8 +49,12 @@ Imagine this: You're the Head Bartender at a new cocktail bar in London. It's Fr
 
 ## External Reading
 
-- [Detailed job role description of a Head Bartender, focusing on responsibilities and skills required in the hospitality industry.](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/occupation/occupation-detail.Head%20Bartender%20(Mixologist)-87631.html)
-- [PDF document outlining the duties and responsibilities of a Head Bartender, including staff management and customer service.](https://uspinjaca.hr/app/uploads/Head%20Bartender.pdf)
-- [Comprehensive job description for Head Bartenders, highlighting key skills and responsibilities in managing bar operations.](https://www.zippia.com/head-bartender-jobs/job-description/)
-- [Explores the role of bartenders in the hospitality industry, emphasizing skills like mixology and customer service.](https://pos.toasttab.com/blog/on-the-line/what-does-a-bartender-do)
-- [Discusses the differences between a Head Bartender and a Bar Manager, providing insights into their respective roles.](https://www.clubmedjobs.com/en/what-is-the-job-of-a-bar-manager-at-club-med)
+
+
+## External Reading
+
+*   [Detailed job role description of a Head Bartender, focusing on responsibilities and skills required in the hospitality industry.](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/occupation/occupation-detail.Head%20Bartender%20\(Mixologist\)-87631.html)
+*   [PDF document outlining the duties and responsibilities of a Head Bartender, including staff management and customer service.](https://uspinjaca.hr/app/uploads/Head%20Bartender.pdf)
+*   [Comprehensive job description for Head Bartenders, highlighting key skills and responsibilities in managing bar operations.](https://www.zippia.com/head-bartender-jobs/job-description/)
+*   [Explores the role of bartenders in the hospitality industry, emphasizing skills like mixology and customer service.](https://pos.toasttab.com/blog/on-the-line/what-does-a-bartender-do)
+*   [Discusses the differences between a Head Bartender and a Bar Manager, providing insights into their respective roles.](https://www.clubmedjobs.com/en/what-is-the-job-of-a-bar-manager-at-club-med)

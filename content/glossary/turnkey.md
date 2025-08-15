@@ -1,10 +1,45 @@
 ---
 title: "Turnkey"
 slug: "turnkey"
-meta: >-
+meta: |
   Turnkey describes a fully equipped and ready-to-operate business, such as a hotel, restaurant, or bar, where everything is set up for immediate use.
 seo_title: "What is a Turnkey operation in the hospitality industry?"
 unique_id: "1724412304346x689455232888820400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Turnkey",
+    "description": "Turnkey means a product or service that's ready to go, requiring no work or setup from the buyer. In hospitality, it refers to a fully fitted out and operational business.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/turnkey",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Turnkey",
+        "item": "https://yourpilla.com/glossary/turnkey"
+      }
+    ]
+  }
 ---
 
 Turnkey means a product or service that's ready to go, no work or setup required from the buyer. In hospitality, this means a fully fitted out and operational business ready to go. For example, a turnkey hotel would come with all the furniture, staff and systems in place.
@@ -15,8 +50,12 @@ Let's say you're a successful restaurateur looking to get into the hotel busines
 
 ## External Reading
 
-- [Provides a detailed explanation of turnkey businesses, including how they operate and examples, which is relevant for understanding turnkey operations in hospitality.](https://ohiocashflow.com/turnkey-business-definition-how-it-operates-with-examples/)
-- [Discusses a turnkey framework for responsible hospitality, offering insights into how turnkey solutions can be applied in the hospitality industry.](https://www.forbestravelguide.com/landing/responsible-hospitality)
-- [Offers expert insights into turnkey hospitality services, focusing on budget development and management for properties, relevant for understanding turnkey applications.](https://www.turnkeyhospitality.co.za/services)
-- [Case study on Project Turnkey, detailing the acquisition of motels and hotels for specific uses, providing a practical example of turnkey solutions in hospitality.](https://endhomelessness.org/wp-content/uploads/2021/07/OR-H2H-Case-Study_7-19-21.pdf)
-- [Explains turnkey services from consultation to implementation, relevant for understanding the process and benefits of turnkey solutions in hospitality settings.](https://www.modernbutlers.com/employer-solution/turnkey-services/)
+
+
+## External Reading
+
+*   [Provides a detailed explanation of turnkey businesses, including how they operate and examples, which is relevant for understanding turnkey operations in hospitality.](https://ohiocashflow.com/turnkey-business-definition-how-it-operates-with-examples/)
+*   [Discusses a turnkey framework for responsible hospitality, offering insights into how turnkey solutions can be applied in the hospitality industry.](https://www.forbestravelguide.com/landing/responsible-hospitality)
+*   [Offers expert insights into turnkey hospitality services, focusing on budget development and management for properties, relevant for understanding turnkey applications.](https://www.turnkeyhospitality.co.za/services)
+*   [Case study on Project Turnkey, detailing the acquisition of motels and hotels for specific uses, providing a practical example of turnkey solutions in hospitality.](https://endhomelessness.org/wp-content/uploads/2021/07/OR-H2H-Case-Study_7-19-21.pdf)
+*   [Explains turnkey services from consultation to implementation, relevant for understanding the process and benefits of turnkey solutions in hospitality settings.](https://www.modernbutlers.com/employer-solution/turnkey-services/)

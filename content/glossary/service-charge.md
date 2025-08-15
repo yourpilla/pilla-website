@@ -1,10 +1,44 @@
 ---
 title: "Service Charge"
 slug: "service-charge"
-meta: >-
+meta: |
   A Service Charge is an additional fee added to a guest's bill, typically a percentage of the total, to cover gratuity for staff services provided during their stay.
 seo_title: "What is Service Charge in the hospitality industry?"
 unique_id: "1724412743768x401860088967171700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Service charge",
+    "description": "A service charge is an extra fee added to your bill in a hospitality place. It’s usually a percentage of the total bill, 10-20%. This covers the cost of service provided by staff including waiters, bartenders, and hotel porters, and may be included in the bill or optionally paid.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/service-charge"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Service Charge",
+        "item": "https://yourpilla.com/glossary/service-charge"
+      }
+    ]
+  }
 ---
 
 A service charge is an extra fee added to your bill in a hospitality place. It’s usually a percentage of the total bill, 10-20%. This is to cover the cost of service provided by the staff, waiters, bartenders or hotel porters. In some places it’s included in the bill, in others it’s up to you to decide.
@@ -15,8 +49,12 @@ You’re a restaurant manager of a busy bistro. You’ve just implemented a 12.5
 
 ## External Reading
 
-- [Comprehensive guide explaining what a service charge is, including types and industry applications.](https://restaurant.eatapp.co/blog/what-is-service-charge)
-- [Detailed explanation of service charges, including definitions, examples, and types.](https://corporatefinanceinstitute.com/resources/wealth-management/service-charge/)
-- [Insightful comparison between service fees and tips, specifically in the restaurant industry.](https://www.restaurant365.com/blog/understanding-service-fees-vs-tips/)
-- [Guidelines on managing tips and service charges in hospitality to ensure compliance.](https://support.trackforce.com/hc/en-us/articles/12805635204887-Hospitality-Tip-Issues-Tips-and-Service-Charges-Staying-Compliant)
-- [Explains the difference between service charges and tips, emphasizing legal and customer perspectives.](https://www.eventionllc.com/service-charge-vs-tip-guide/)
+
+
+## External Reading
+
+*   [Comprehensive guide explaining what a service charge is, including types and industry applications.](https://restaurant.eatapp.co/blog/what-is-service-charge)
+*   [Detailed explanation of service charges, including definitions, examples, and types.](https://corporatefinanceinstitute.com/resources/wealth-management/service-charge/)
+*   [Insightful comparison between service fees and tips, specifically in the restaurant industry.](https://www.restaurant365.com/blog/understanding-service-fees-vs-tips/)
+*   [Guidelines on managing tips and service charges in hospitality to ensure compliance.](https://support.trackforce.com/hc/en-us/articles/12805635204887-Hospitality-Tip-Issues-Tips-and-Service-Charges-Staying-Compliant)
+*   [Explains the difference between service charges and tips, emphasizing legal and customer perspectives.](https://www.eventionllc.com/service-charge-vs-tip-guide/)

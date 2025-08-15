@@ -1,10 +1,44 @@
 ---
 title: "Section Waiter"
 slug: "section-waiter"
-meta: >-
+meta: |
   A section waiter manages a specific area within a restaurant or café, providing personalised service to guests in that section, ensuring efficient and attentive care.
 seo_title: "What is a Section Waiter in the hospitality industry?"
 unique_id: "1726570526659x305474246502828600"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Section waiter",
+    "description": "A section waiter is a hospitality professional who serves guests in a specific area of a restaurant, café or dining establishment by taking orders, delivering food and drinks, and ensuring overall customer satisfaction.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/section-waiter"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Section Waiter",
+        "item": "https://yourpilla.com/glossary/section-waiter"
+      }
+    ]
+  }
 ---
 
 A section waiter is a hospitality professional who serves guests in a specific area or 'section' of a restaurant, café or dining establishment. This role involves taking orders, delivering food and drinks, answering menu questions and ensuring overall customer satisfaction in their section. Section waiters work as part of a bigger team, each covering different areas of the dining room to provide service to all guests.
@@ -15,8 +49,12 @@ Imagine you’re a section waiter in a busy Italian restaurant on a Friday night
 
 ## External Reading
 
-- [This resource provides a detailed job description for waiters and waitresses, covering responsibilities such as greeting and serving customers, which is essential for understanding the role of a section waiter.](https://resources.workable.com/waiter-or-waitress-job-description)
-- [A comprehensive guide from Employsure detailing the duties of a waiter/waitress, including greeting guests and taking orders, which are key aspects of a section waiter's role.](https://employsure.com.au/guides/hiring-and-onboarding/waiter-waitress-job-description)
-- [This guide from the Library of Congress offers insights into restaurant management, including sections on personnel, which can help understand the organizational role of a section waiter.](https://guides.loc.gov/hospitality-restaurants-hotels/history/manuals)
-- [A SlideShare presentation that introduces the concept of a section waiter within a typical restaurant brigade, explaining their responsibilities and service structure.](https://www.slideshare.net/slideshow/introduction-to-hospitality-and-the-waiter/138536347)
-- [This blog post outlines the 10 steps of service for restaurant waiters, providing practical guidance that is directly relevant to the role of a section waiter.](https://www.hospitalitycourses.co.za/blog/10-steps-of-service)
+
+
+## External Reading
+
+*   [This resource provides a detailed job description for waiters and waitresses, covering responsibilities such as greeting and serving customers, which is essential for understanding the role of a section waiter.](https://resources.workable.com/waiter-or-waitress-job-description)
+*   [A comprehensive guide from Employsure detailing the duties of a waiter/waitress, including greeting guests and taking orders, which are key aspects of a section waiter's role.](https://employsure.com.au/guides/hiring-and-onboarding/waiter-waitress-job-description)
+*   [This guide from the Library of Congress offers insights into restaurant management, including sections on personnel, which can help understand the organizational role of a section waiter.](https://guides.loc.gov/hospitality-restaurants-hotels/history/manuals)
+*   [A SlideShare presentation that introduces the concept of a section waiter within a typical restaurant brigade, explaining their responsibilities and service structure.](https://www.slideshare.net/slideshow/introduction-to-hospitality-and-the-waiter/138536347)
+*   [This blog post outlines the 10 steps of service for restaurant waiters, providing practical guidance that is directly relevant to the role of a section waiter.](https://www.hospitalitycourses.co.za/blog/10-steps-of-service)

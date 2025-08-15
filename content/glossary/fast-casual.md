@@ -1,10 +1,44 @@
 ---
 title: "Fast Casual"
 slug: "fast-casual"
-meta: >-
+meta: |
   Fast Casual refers to a dining style that combines the quick service of fast food with higher quality ingredients and a more inviting atmosphere, enhancing guest satisfaction.
 seo_title: "What is Fast Casual in the hospitality industry?"
 unique_id: "1725994619005x319564042507093570"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Fast casual",
+    "description": "Fast casual is a restaurant concept that's a mix of fast food and casual dining. It offers quicker service and lower prices than a sit-down restaurant but delivers higher quality food and a nicer atmosphere than a fast food chain. Fast casual restaurants typically have counter service, customizable menu items, and fresher ingredients than fast food.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/fast-casual"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Fast Casual",
+        "item": "https://yourpilla.com/glossary/fast-casual"
+      }
+    ]
+  }
 ---
 
 Fast casual is a restaurant concept that's a mix of fast food and casual dining. It offers quicker service and lower prices than a sit-down restaurant but delivers higher quality food and a nicer atmosphere than a fast food chain. Fast casual restaurants typically have counter service, customizable menu items, and fresher ingredients than fast food.
@@ -15,8 +49,12 @@ Let's say you're a chef looking to open your own restaurant. You might consider 
 
 ## External Reading
 
-- [Provides a clear definition of fast casual, highlighting its position between fast food and casual dining.](https://blackboxintelligence.com/resources/restaurant-glossary/fast-casual/)
-- [Explains the concept of fast casual restaurants, focusing on self-service and freshly made-to-order meals.](https://www.flipdish.com/us/resources/blog/what-is-a-fast-casual-restaurant)
-- [Discusses fast casual restaurants within the context of hospitality management, emphasizing quality and convenience.](https://library.fiveable.me/key-terms/hospitality-management/fast-casual-restaurants)
-- [Describes fast casual dining, emphasizing customizable and health-conscious menu options.](https://pos.toasttab.com/blog/on-the-line/fast-casual-dining)
-- [Offers a comprehensive guide on starting, running, and growing a fast casual restaurant, focusing on speed and quality.](https://www.onehubpos.com/blog/fast-casual-restaurants-a-complete-guide-to-start-run-and-grow)
+
+
+## External Reading
+
+*   [Provides a clear definition of fast casual, highlighting its position between fast food and casual dining.](https://blackboxintelligence.com/resources/restaurant-glossary/fast-casual/)
+*   [Explains the concept of fast casual restaurants, focusing on self-service and freshly made-to-order meals.](https://www.flipdish.com/us/resources/blog/what-is-a-fast-casual-restaurant)
+*   [Discusses fast casual restaurants within the context of hospitality management, emphasizing quality and convenience.](https://library.fiveable.me/key-terms/hospitality-management/fast-casual-restaurants)
+*   [Describes fast casual dining, emphasizing customizable and health-conscious menu options.](https://pos.toasttab.com/blog/on-the-line/fast-casual-dining)
+*   [Offers a comprehensive guide on starting, running, and growing a fast casual restaurant, focusing on speed and quality.](https://www.onehubpos.com/blog/fast-casual-restaurants-a-complete-guide-to-start-run-and-grow)

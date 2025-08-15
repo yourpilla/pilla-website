@@ -1,10 +1,45 @@
 ---
 title: "Cross-Contamination"
 slug: "cross-contamination"
-meta: >-
+meta: |
   Cross-contamination occurs when harmful bacteria or allergens transfer from one surface or food to another. Prevent it to maintain hygiene and guest safety.
 seo_title: "What is Cross-Contamination in the hospitality industry?"
 unique_id: "1722536897819x644685794713789800"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Cross contamination",
+    "description": "Cross contamination is the transfer of harmful bacteria or other microorganisms from one food to another through direct contact or via utensils, equipment, or surfaces, which can lead to food poisoning if not managed properly.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/cross-contamination",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Cross-Contamination",
+        "item": "https://yourpilla.com/glossary/cross-contamination"
+      }
+    ]
+  }
 ---
 
 Cross contamination is the transfer of harmful bacteria or other microorganisms from one food to another through direct contact or indirect contact via utensils, equipment or surfaces. This can happen when raw food comes into contact with cooked or ready to eat food or when contaminated items touch clean ones. Cross contamination is a big issue in food safety and can lead to food poisoning if not managed properly.
@@ -15,8 +50,12 @@ Let’s say you’re working in a busy hotel kitchen during dinner service. You�
 
 ## External Reading
 
-- [This resource from Food Standards Australia New Zealand provides a detailed explanation of cross-contamination, specifically in the context of food safety.](https://www.foodstandards.gov.au/consumer/safety/foodborne-illness/Common-terms#:~:text=Cross%20contamination,will%20spread%20to%20the%20salad.)
-- [The Minnesota Department of Health offers a comprehensive definition of cross-contamination and its implications for foodborne illness prevention.](https://www.health.state.mn.us/people/foodsafety/clean/xcontamination.html#:~:text=Cross%2Dcontamination%20is%20the%20physical,factor%20in%20preventing%20foodborne%20illness.)
-- [The Food Standards Agency explains the importance of avoiding cross-contamination to prevent foodborne infections, providing practical insights.](https://www.food.gov.uk/safety-hygiene/why-avoiding-cross-contamination-is-important#:~:text=Cross%2Dcontamination%20is%20what%20happens,cause%20of%20most%20foodborne%20infections.)
-- [ServSafe provides a guide on preventing cross-contamination, focusing on food safety practices in hospitality and food service operations.](https://www.servsafe.com/downloads/demos/fh/fh-sample-chapter#:~:text=Pathogens%20can%20be%20transferred%20from,cups%2C%20utensils%2C%20and%20napkins.)
-- [This guide from Online Safety Trainer explores best practices and prevention methods for cross-contamination in restaurant settings.](https://www.onlinesafetytrainer.com/cross-contamination-safety-for-restaurants-a-comprehensive-guide/)
+
+
+## External Reading
+
+*   [This resource from Food Standards Australia New Zealand provides a detailed explanation of cross-contamination, specifically in the context of food safety.](https://www.foodstandards.gov.au/consumer/safety/foodborne-illness/Common-terms#:~:text=Cross%20contamination,will%20spread%20to%20the%20salad.)
+*   [The Minnesota Department of Health offers a comprehensive definition of cross-contamination and its implications for foodborne illness prevention.](https://www.health.state.mn.us/people/foodsafety/clean/xcontamination.html#:~:text=Cross%2Dcontamination%20is%20the%20physical,factor%20in%20preventing%20foodborne%20illness.)
+*   [The Food Standards Agency explains the importance of avoiding cross-contamination to prevent foodborne infections, providing practical insights.](https://www.food.gov.uk/safety-hygiene/why-avoiding-cross-contamination-is-important#:~:text=Cross%2Dcontamination%20is%20what%20happens,cause%20of%20most%20foodborne%20infections.)
+*   [ServSafe provides a guide on preventing cross-contamination, focusing on food safety practices in hospitality and food service operations.](https://www.servsafe.com/downloads/demos/fh/fh-sample-chapter#:~:text=Pathogens%20can%20be%20transferred%20from,cups%2C%20utensils%2C%20and%20napkins.)
+*   [This guide from Online Safety Trainer explores best practices and prevention methods for cross-contamination in restaurant settings.](https://www.onlinesafetytrainer.com/cross-contamination-safety-for-restaurants-a-comprehensive-guide/)

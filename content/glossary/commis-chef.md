@@ -1,10 +1,44 @@
 ---
 title: "Commis Chef"
 slug: "commis-chef"
-meta: >-
+meta: |
   A Commis Chef is a junior chef who assists in food preparation and basic cooking tasks in kitchens of restaurants, cafes, and bars, gaining essential skills and experience.
 seo_title: "What is a Commis Chef in the hospitality industry?"
 unique_id: "1722781779825x247247729642459780"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Commis Chef",
+    "description": "A Commis Chef is an entry level chef who works under the guidance of more senior chefs in the kitchen. They are often recent graduates from culinary school or starting their career in the industry. Commis Chefs do basic food prep, learn kitchen operations and take on more responsibility as they gain experience.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/commis-chef"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Commis Chef",
+        "item": "https://yourpilla.com/glossary/commis-chef"
+      }
+    ]
+  }
 ---
 
 A Commis Chef is an entry level chef who works under the guidance of more senior chefs in the kitchen. They are often recent graduates from culinary school or starting their career in the industry. Commis Chefs do basic food prep, learn kitchen operations and take on more responsibility as they gain experience.
@@ -15,8 +49,12 @@ So imagine you are the head chef of a busy restaurant. During service you look o
 
 ## External Reading
 
-- [Detailed job description for a commis chef, explaining their role in supporting senior chefs and expanding culinary skills.](https://www.betterteam.com/commis-chef-job-description)
-- [Overview of essential skills for commis chefs, highlighting their position as junior kitchen staff under senior chefs.](https://uk.indeed.com/career-advice/cvs-cover-letters/commis-chef-skills)
-- [Comprehensive job description template for commis chefs, detailing responsibilities such as ingredient preparation and inventory management.](https://www.workstream.us/job-description/restaurant-commis-chef.html)
-- [Apprenticeship standard for commis chefs, outlining their role in maintaining food quality and meeting organizational standards.](https://www.instituteforapprenticeships.org/apprenticeship-standards/commis-chef-v1-3)
-- [Explanation of the commis chef role in a professional kitchen, focusing on their duties and responsibilities under senior chefs.](https://becomingachef.co.uk/what-is-a-commis-chef/)
+
+
+## External Reading
+
+*   [Detailed job description for a commis chef, explaining their role in supporting senior chefs and expanding culinary skills.](https://www.betterteam.com/commis-chef-job-description)
+*   [Overview of essential skills for commis chefs, highlighting their position as junior kitchen staff under senior chefs.](https://uk.indeed.com/career-advice/cvs-cover-letters/commis-chef-skills)
+*   [Comprehensive job description template for commis chefs, detailing responsibilities such as ingredient preparation and inventory management.](https://www.workstream.us/job-description/restaurant-commis-chef.html)
+*   [Apprenticeship standard for commis chefs, outlining their role in maintaining food quality and meeting organizational standards.](https://www.instituteforapprenticeships.org/apprenticeship-standards/commis-chef-v1-3)
+*   [Explanation of the commis chef role in a professional kitchen, focusing on their duties and responsibilities under senior chefs.](https://becomingachef.co.uk/what-is-a-commis-chef/)

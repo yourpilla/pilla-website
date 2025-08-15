@@ -1,10 +1,45 @@
 ---
 title: "Line Cook"
 slug: "line-cook"
-meta: >-
+meta: |
   A Line Cook prepares food at a specific station in a restaurant, café, or bar kitchen. Their role ensures efficient service and consistent quality.
 seo_title: "What is a Line Cook in the hospitality industry?"
 unique_id: "1722855500413x160218990604972260"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Line cook",
+    "description": "A line cook is a kitchen professional who works at a specific station on the line, plating up dishes, cooking menu items, following recipes, and keeping their station clean. They specialise in certain types of dishes and work under the head or sous chef to ensure food is prepared quickly and to high standards.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/line-cook",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Line Cook",
+        "item": "https://yourpilla.com/glossary/line-cook"
+      }
+    ]
+  }
 ---
 
 A line cook is a kitchen professional who works at a specific station on the line, plating up dishes for service. They cook menu items, follow recipes and keep their station clean. Line cooks often specialise in certain types of dishes, grilled, sauces or veg. They work under the head chef or sous chef and are key to getting food out quickly and to a high standard.
@@ -15,8 +50,12 @@ You’re the head chef at a busy bistro on a Friday night. Your grill line cook 
 
 ## External Reading
 
-- [Comprehensive explanation of what a line cook is, detailing their role in the foodservice industry.](https://www.webstaurantstore.com/blog/4158/what-is-a-line-cook.html?srsltid=AfmBOopk95ev3C4ZFIsd18f92I3msAGDf3F738jUcWc5ia51W89Q160H)
-- [Provides a detailed job description for line cooks, including duties and responsibilities.](https://resources.workable.com/line-cook-job-description)
-- [Offers a template for a line cook job description, highlighting key responsibilities and skills required.](https://hiring.monster.com/resources/job-descriptions/food-service/line-cook/)
-- [Discusses the duties and responsibilities of a line cook, with insights into what makes a successful candidate.](https://www.touchbistro.com/blog/what-to-look-for-in-a-line-cook/)
-- [Explains the specific areas and stations where line cooks work within a kitchen setting.](https://www.shiftnow.com/blog/what-is-a-line-cook)
+
+
+## External Reading
+
+*   [Comprehensive explanation of what a line cook is, detailing their role in the foodservice industry.](https://www.webstaurantstore.com/blog/4158/what-is-a-line-cook.html?srsltid=AfmBOopk95ev3C4ZFIsd18f92I3msAGDf3F738jUcWc5ia51W89Q160H)
+*   [Provides a detailed job description for line cooks, including duties and responsibilities.](https://resources.workable.com/line-cook-job-description)
+*   [Offers a template for a line cook job description, highlighting key responsibilities and skills required.](https://hiring.monster.com/resources/job-descriptions/food-service/line-cook/)
+*   [Discusses the duties and responsibilities of a line cook, with insights into what makes a successful candidate.](https://www.touchbistro.com/blog/what-to-look-for-in-a-line-cook/)
+*   [Explains the specific areas and stations where line cooks work within a kitchen setting.](https://www.shiftnow.com/blog/what-is-a-line-cook)

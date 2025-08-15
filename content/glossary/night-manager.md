@@ -1,10 +1,44 @@
 ---
 title: "Night Manager"
 slug: "night-manager"
-meta: >-
+meta: |
   A Night Manager oversees hotel or restaurant operations during the night shift, ensuring smooth functioning, guest satisfaction, and handling emergencies efficiently.
 seo_title: "What is a Night Manager in the hospitality industry?"
 unique_id: "1722782740469x763910934400526800"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Night Manager",
+    "description": "A Night Manager runs a hotel during the night shift by managing staff, addressing guest queries, and ensuring smooth operations.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/night-manager"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Night Manager",
+        "item": "https://yourpilla.com/glossary/night-manager"
+      }
+    ]
+  }
 ---
 
 A Night Manager is a hospitality professional who runs the hotel during the night shift. They manage staff, deal with guest queries and ensure the hotel runs smoothly when most guests are asleep. Night Managers often deal with the unexpected, handle security, and get the hotel ready for the next day.
@@ -15,8 +49,12 @@ Imagine this: You’re the Night Manager at a city centre hotel. It’s 2am and 
 
 ## External Reading
 
-- [Provides a detailed job description for a Night Manager, focusing on hotel operations during overnight shifts.](https://sirvo.com/job-description-templates/night-manager-job-description/)
-- [Explains the multifaceted role of a Night Manager, including overseeing staff and ensuring guest satisfaction.](https://careers.adventuretravel.biz/career/night-manager)
-- [Offers insights into the responsibilities of a Hotel Night Manager, emphasizing safety and security.](https://setupmyhotel.com/job-description-for-hotels/front-office-job-description/night-manager-job-description/)
-- [Discusses the role of a Night Manager as a Manager on Duty, highlighting safety and security responsibilities.](https://www.linkedin.com/pulse/job-role-night-manager-duty-mod-sanjeewa-perera-031bc)
-- [Describes the responsibilities of a Night Manager, focusing on hotel operations during the night.](https://www.zippia.com/night-manager-jobs/what-does-a-night-manager-do/)
+
+
+## External Reading
+
+*   [Provides a detailed job description for a Night Manager, focusing on hotel operations during overnight shifts.](https://sirvo.com/job-description-templates/night-manager-job-description/)
+*   [Explains the multifaceted role of a Night Manager, including overseeing staff and ensuring guest satisfaction.](https://careers.adventuretravel.biz/career/night-manager)
+*   [Offers insights into the responsibilities of a Hotel Night Manager, emphasizing safety and security.](https://setupmyhotel.com/job-description-for-hotels/front-office-job-description/night-manager-job-description/)
+*   [Discusses the role of a Night Manager as a Manager on Duty, highlighting safety and security responsibilities.](https://www.linkedin.com/pulse/job-role-night-manager-duty-mod-sanjeewa-perera-031bc)
+*   [Describes the responsibilities of a Night Manager, focusing on hotel operations during the night.](https://www.zippia.com/night-manager-jobs/what-does-a-night-manager-do/)

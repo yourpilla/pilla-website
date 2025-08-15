@@ -1,10 +1,44 @@
 ---
 title: "Duty of Care"
 slug: "duty-of-care"
-meta: >-
+meta: |
   Duty of care means you must ensure the safety and well-being of guests and staff in your restaurant, cafe, bar, or hotel by maintaining a safe and healthy environment.
 seo_title: "What is Duty of Care in the hospitality industry?"
 unique_id: "1725633513414x580311504531017900"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Duty of Care",
+    "description": "Duty of Care means the legal and moral obligation to keep guests and employees safe by taking reasonable steps to prevent harm, accidents, or injuries on site. It requires maintaining a safe environment, training staff, and implementing necessary safety measures.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/duty-of-care"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Duty of Care",
+        "item": "https://yourpilla.com/glossary/duty-of-care"
+      }
+    ]
+  }
 ---
 
 Duty of Care means the legal and moral obligation to keep your guests and employees safe and well. This means taking reasonable steps to prevent harm, accidents or injuries on site. As a hospitality professional you need to keep the environment safe, train your staff and implement the necessary safety measures.
@@ -15,8 +49,12 @@ Let’s say you’re a restaurant manager and it’s a busy dinner service. You 
 
 ## External Reading
 
-- [This resource from Bellrock Advisory provides a detailed explanation of the duty of care obligations specific to the hospitality industry, focusing on legal responsibilities to avoid causing harm.](https://bellrockadvisory.com/duty-of-care-understanding-your-obligations-as-a-hospitality-licensee/)
-- [McKay Law offers a guide on the legal responsibilities of hotels, including duty of care, emphasizing the importance of ensuring guest safety and security.](https://mckaylawtx.com/legal-responsibilities-of-hotels-a-guide-to-hotel-premises-liability/)
-- [International SOS provides a comprehensive definition of duty of care, explaining its legal implications and the standard of reasonable care required to prevent harm.](https://www.internationalsos.com/insights/what-is-duty-of-care)
-- [TravelPerk offers a complete guide on duty of care in the context of corporate travel, detailing the legal obligations companies have to ensure employee safety during business trips.](https://www.travelperk.com/guides/corporate-travel-safety/duty-of-care-travel/)
-- [American Express discusses the significance of duty of care in the hospitality industry, highlighting the ethical and legal responsibilities to safeguard guests and employees.](https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-importance-of-duty-of-care-to-big-businesses/)
+
+
+## External Reading
+
+*   [This resource from Bellrock Advisory provides a detailed explanation of the duty of care obligations specific to the hospitality industry, focusing on legal responsibilities to avoid causing harm.](https://bellrockadvisory.com/duty-of-care-understanding-your-obligations-as-a-hospitality-licensee/)
+*   [McKay Law offers a guide on the legal responsibilities of hotels, including duty of care, emphasizing the importance of ensuring guest safety and security.](https://mckaylawtx.com/legal-responsibilities-of-hotels-a-guide-to-hotel-premises-liability/)
+*   [International SOS provides a comprehensive definition of duty of care, explaining its legal implications and the standard of reasonable care required to prevent harm.](https://www.internationalsos.com/insights/what-is-duty-of-care)
+*   [TravelPerk offers a complete guide on duty of care in the context of corporate travel, detailing the legal obligations companies have to ensure employee safety during business trips.](https://www.travelperk.com/guides/corporate-travel-safety/duty-of-care-travel/)
+*   [American Express discusses the significance of duty of care in the hospitality industry, highlighting the ethical and legal responsibilities to safeguard guests and employees.](https://www.americanexpress.com/en-us/business/trends-and-insights/articles/the-importance-of-duty-of-care-to-big-businesses/)

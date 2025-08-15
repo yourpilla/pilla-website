@@ -1,10 +1,45 @@
 ---
 title: "Attrition Rate"
 slug: "attrition-rate"
-meta: >-
+meta: |
   Attrition Rate measures the percentage of guests who cancel or no-show their bookings in hotels, restaurants, or events. Lower rates improve revenue and efficiency.
 seo_title: "What is the Attrition Rate in the hospitality industry?"
 unique_id: "1723805955386x247515035654495300"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Attrition",
+    "description": "Attrition in hospitality is the percentage of expected guests or bookings that do not show up, including cancellations, no-shows, and early departures. It is measured by comparing lost room nights or cancelled reservations to total bookings.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/attrition",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Attrition Rate",
+        "item": "https://yourpilla.com/glossary/attrition-rate"
+      }
+    ]
+  }
 ---
 
 Attrition in hospitality means the percentage of expected guests or bookings that don’t show up. This can be cancellations, no-shows or early departures. For hotels it’s often calculated as the number of room nights lost divided by the total number of room nights booked. Restaurants might calculate it as the number of cancelled reservations compared to total bookings.
@@ -15,8 +50,12 @@ Let’s say you’re the manager of a busy city centre restaurant. You have a gr
 
 ## External Reading
 
-- [Detailed explanation of hotel attrition, focusing on the reduction of reserved rooms or services from initial contracts.](https://www.mylighthouse.com/resources/blog/hotel-attrition-meaning)
-- [Explains attrition in the context of hotel room blocks and how it affects booking commitments.](https://bluesparkeventdesign.com/what-is-attrition/)
-- [Guide on managing attrition clauses in hotel contracts, emphasizing expected room revenue commitments.](https://gogather.com/blog/how-to-avoid-paying-attrition-fees)
-- [Comprehensive guide on understanding and managing attrition clauses in hotel contracts.](https://streampoint.com/first-timers-guide-to-attrition-in-hotel-contracts/)
-- [Resource on navigating attrition clauses in hotel contracts, focusing on safeguarding hotel revenue.](https://www.teamtravelsource.com/2023/10/05/navigating-attrition-in-hotel-contracts-what-you-need-to-know/)
+
+
+## External Reading
+
+*   [Detailed explanation of hotel attrition, focusing on the reduction of reserved rooms or services from initial contracts.](https://www.mylighthouse.com/resources/blog/hotel-attrition-meaning)
+*   [Explains attrition in the context of hotel room blocks and how it affects booking commitments.](https://bluesparkeventdesign.com/what-is-attrition/)
+*   [Guide on managing attrition clauses in hotel contracts, emphasizing expected room revenue commitments.](https://gogather.com/blog/how-to-avoid-paying-attrition-fees)
+*   [Comprehensive guide on understanding and managing attrition clauses in hotel contracts.](https://streampoint.com/first-timers-guide-to-attrition-in-hotel-contracts/)
+*   [Resource on navigating attrition clauses in hotel contracts, focusing on safeguarding hotel revenue.](https://www.teamtravelsource.com/2023/10/05/navigating-attrition-in-hotel-contracts-what-you-need-to-know/)

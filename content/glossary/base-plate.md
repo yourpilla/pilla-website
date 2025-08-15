@@ -1,10 +1,45 @@
 ---
 title: "Base Plate"
 slug: "base-plate"
-meta: >-
+meta: |
   A base plate is the flat surface on which chefs arrange food items for plating. It helps create visually appealing presentations in restaurants and cafes.
 seo_title: "What is a Base Plate in the hospitality industry?"
 unique_id: "1724413223945x874881586282191700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Base plate",
+    "description": "A base plate is a piece of tableware in the hospitality industry. It is a large flat plate that serves as the foundation for a formal place setting, offering a decorative base that catches spills and crumbs.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/base-plate",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Base Plate",
+        "item": "https://yourpilla.com/glossary/base-plate"
+      }
+    ]
+  }
 ---
 
 A base plate is a piece of tableware in the hospitality industry. It's a big flat plate that's the base for the place setting in formal dining. Base plates are bigger than dinner plates and often decorative, setting the scene for the meal to come. They're not used for food service but stay on the table throughout the meal as a decoration and to catch any spills or crumbs.
@@ -15,8 +50,12 @@ You're a banquet manager at a 5-star hotel and you're preparing for a wedding re
 
 ## External Reading
 
-- [This resource provides an overview of plated service, which is relevant to understanding the role of base plates in serving food.](https://www.instawork.com/blog/instawork-basics-of-serving-clearing-plated-service)
-- [Explains the concept of a service plate, which is closely related to the use of base plates in multi-course meals.](https://dianegottsman.com/2015/02/12/dining-etiquette-service-plate/)
-- [Offers insights into different types of table service, including the use of plates, which is pertinent to understanding base plates.](https://www.cvent.com/au/blog/events/guide-various-types-table-service)
-- [Defines 'Base Plate' as an empty dinner plate used as a base for several courses, providing a direct explanation of the term.](https://pvd.library.jwu.edu/wordlist_hosp1)
-- [Discusses various food service styles, helping to contextualize the use of base plates in different dining settings.](https://www.cvent.com/en/blog/events/food-service-styles)
+
+
+## External Reading
+
+*   [This resource provides an overview of plated service, which is relevant to understanding the role of base plates in serving food.](https://www.instawork.com/blog/instawork-basics-of-serving-clearing-plated-service)
+*   [Explains the concept of a service plate, which is closely related to the use of base plates in multi-course meals.](https://dianegottsman.com/2015/02/12/dining-etiquette-service-plate/)
+*   [Offers insights into different types of table service, including the use of plates, which is pertinent to understanding base plates.](https://www.cvent.com/au/blog/events/guide-various-types-table-service)
+*   [Defines 'Base Plate' as an empty dinner plate used as a base for several courses, providing a direct explanation of the term.](https://pvd.library.jwu.edu/wordlist_hosp1)
+*   [Discusses various food service styles, helping to contextualize the use of base plates in different dining settings.](https://www.cvent.com/en/blog/events/food-service-styles)

@@ -1,10 +1,45 @@
 ---
 title: "Cycle Menu"
 slug: "cycle-menu"
-meta: >-
+meta: |
   A Cycle Menu is a set of menus that rotate over a specific period, such as weekly or monthly, providing variety and consistency in meal planning for restaurants and cafes.
 seo_title: "What is a Cycle Menu in the hospitality industry?"
 unique_id: "1725200071229x216394863473880400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Cycle menu",
+    "description": "A cycle menu is a type of menu that rotates on a fixed schedule, typically over a period of several weeks or months. It offers a different set of dishes each day, repeating the cycle once completed to maintain variety while keeping a structured plan in hospitality settings.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/cycle-menu",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Cycle Menu",
+        "item": "https://yourpilla.com/glossary/cycle-menu"
+      }
+    ]
+  }
 ---
 
 A cycle menu is a type of menu that rotates on a fixed schedule, typically over a period of several weeks or months. It offers a different set of dishes each day, repeating the cycle once it's completed. This approach allows for variety while maintaining a structured and predictable menu plan. Cycle menus are commonly used in various hospitality settings, including hotels, restaurants, cafeterias, and cruise ships.
@@ -15,8 +50,12 @@ Let's say you're the head chef at a busy hotel restaurant. You might implement a
 
 ## External Reading
 
-- [Provides a detailed explanation of cycle menus, including their structure and purpose in hospitality.](https://www.menubly.com/blog/cyclic-menu/)
-- [Explains the concept of a cycle menu within the food and beverage industry, highlighting its application and benefits.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/cycle-menu)
-- [Offers a comprehensive presentation on cycle menus, discussing their planning and implementation in hospitality.](https://www.oregon.gov/ode/students-and-family/childnutrition/SNP/Documents/cycle-menu-presentation.pdf)
-- [Discusses cycle menus in the context of hospitality and tourism, providing insights into their advantages and applications.](https://library.fiveable.me/key-terms/introduction-to-hospitality-and-tourism/cycle-menus)
-- [Educational resource from Penn State Pressbooks detailing the structure and function of cycle menus in food production.](https://psu.pb.unizin.org/hmd329/chapter/ch4/)
+
+
+## External Reading
+
+*   [Provides a detailed explanation of cycle menus, including their structure and purpose in hospitality.](https://www.menubly.com/blog/cyclic-menu/)
+*   [Explains the concept of a cycle menu within the food and beverage industry, highlighting its application and benefits.](https://www.larksuite.com/en_us/topics/food-and-beverage-glossary/cycle-menu)
+*   [Offers a comprehensive presentation on cycle menus, discussing their planning and implementation in hospitality.](https://www.oregon.gov/ode/students-and-family/childnutrition/SNP/Documents/cycle-menu-presentation.pdf)
+*   [Discusses cycle menus in the context of hospitality and tourism, providing insights into their advantages and applications.](https://library.fiveable.me/key-terms/introduction-to-hospitality-and-tourism/cycle-menus)
+*   [Educational resource from Penn State Pressbooks detailing the structure and function of cycle menus in food production.](https://psu.pb.unizin.org/hmd329/chapter/ch4/)

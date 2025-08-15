@@ -1,10 +1,44 @@
 ---
 title: "Tare Weight"
 slug: "tare-weight"
-meta: >-
+meta: |
   Tare weight is the weight of an empty container, such as a glass or plate, used in restaurants and bars. It ensures accurate measurements when serving food or drinks.
 seo_title: "What is Tare Weight in the hospitality industry?"
 unique_id: "1726570717221x340016720771394240"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Tare weight",
+    "description": "Tare weight is the weight of an empty container or vessel. In hospitality, it often refers to dishes, serving platters, or storage containers in the kitchen and restaurants, and is subtracted from the total weight to determine the true weight of food.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/tare-weight"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Tare Weight",
+        "item": "https://yourpilla.com/glossary/tare-weight"
+      }
+    ]
+  }
 ---
 
 Tare weight is the weight of an empty container or vessel. In hospitality, this is often dishes, serving platters or storage containers in the kitchen and restaurants. When you weigh ingredients or portions, you subtract the tare weight to get the true weight of the food.
@@ -15,8 +49,12 @@ Let’s say you’re a chef in a busy restaurant. You’re preparing a signature
 
 ## External Reading
 
-- [Detailed explanation of tare weight, net weight, and gross weight by Maersk, a leader in logistics.](https://www.maersk.com/logistics-explained/shipping-documentation/2024/09/16/gross-tare-net-weight)
-- [Educational resource from Study.com explaining tare weight, its calculation, and uses.](https://study.com/learn/lesson/tare-weight-calculation.html)
-- [Freightos provides a comprehensive glossary entry on tare weight, emphasizing its importance in shipping.](https://www.freightos.com/glossary/what-is-tare-weight/)
-- [Practical guide on how to tare a kitchen scale, ensuring accurate ingredient measurements.](https://totaste.com/how_tos/how-to-tare-a-kitchen-scale/)
-- [Oracle Help Center provides an authoritative explanation of tare weight in menu items.](https://docs.oracle.com/cd/E66669_01/doc.28/e66799/c_menu_items_tare_weight.htm)
+
+
+## External Reading
+
+*   [Detailed explanation of tare weight, net weight, and gross weight by Maersk, a leader in logistics.](https://www.maersk.com/logistics-explained/shipping-documentation/2024/09/16/gross-tare-net-weight)
+*   [Educational resource from Study.com explaining tare weight, its calculation, and uses.](https://study.com/learn/lesson/tare-weight-calculation.html)
+*   [Freightos provides a comprehensive glossary entry on tare weight, emphasizing its importance in shipping.](https://www.freightos.com/glossary/what-is-tare-weight/)
+*   [Practical guide on how to tare a kitchen scale, ensuring accurate ingredient measurements.](https://totaste.com/how_tos/how-to-tare-a-kitchen-scale/)
+*   [Oracle Help Center provides an authoritative explanation of tare weight in menu items.](https://docs.oracle.com/cd/E66669_01/doc.28/e66799/c_menu_items_tare_weight.htm)

@@ -1,10 +1,44 @@
 ---
 title: "Manager on Duty"
 slug: "manager-on-duty"
-meta: >-
+meta: |
   Manager on Duty (MOD) refers to the staff member in charge during a specific shift, overseeing operations and addressing guest issues in hotels, restaurants, cafes, or bars.
 seo_title: "What is a Manager on Duty in the hospitality industry?"
 unique_id: "1724413118867x698277574899550200"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Manager on Duty",
+    "description": "Manager on Duty (MOD) is the senior staff member in charge during a specific hotel shift who handles issues, makes decisions, and maintains service standards.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/manager-on-duty"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Manager on Duty",
+        "item": "https://yourpilla.com/glossary/manager-on-duty"
+      }
+    ]
+  }
 ---
 
 MOD stands for Manager on Duty. This is the senior staff member in charge of the hotel during a specific shift. This role rotates among managers so there’s always someone to handle issues, make decisions and maintain service standards. The MOD is the point of contact for staff and guests alike, to address concerns and manage any unexpected situations that may arise.
@@ -15,8 +49,12 @@ Imagine this: You’re on the front desk of a busy hotel on a Saturday night. A 
 
 ## External Reading
 
-- [This LinkedIn article provides a detailed explanation of the role of a Manager on Duty (MOD) in the hospitality industry, highlighting their responsibilities and importance.](https://www.linkedin.com/pulse/manager-duty-mod-pritom-baruah#:~:text=In%20the%20hospitality%20industry%2C%20the,or%20emergencies%20that%20may%20arise.)
-- [This resource offers a comprehensive glossary of hotel terms and acronyms, including a definition of MOD (Manager on Duty), which is crucial for understanding hospitality operations.](https://www.hotelcontractbeds.co.uk/blog/hotel-terms-and-acronyms)
-- [This study guide from Fiveable Library provides an overview of the hospitality industry's scope, offering foundational knowledge that includes roles like MOD.](https://library.fiveable.me/hospitality-management/unit-1/definition-scope-hospitality-industry/study-guide/u7qtIc5mHWGyrnOK)
-- [HiJiffy's glossary is a valuable resource for understanding various hospitality terms, including MOD, enhancing industry knowledge.](https://www.hijiffy.com/resources/glossary)
-- [This document from Uttarakhand Open University offers an in-depth introduction to the hospitality industry, covering key roles and responsibilities such as the MOD.](https://uou.ac.in/sites/default/files/slm/DHA-101.pdf)
+
+
+## External Reading
+
+*   [This LinkedIn article provides a detailed explanation of the role of a Manager on Duty (MOD) in the hospitality industry, highlighting their responsibilities and importance.](https://www.linkedin.com/pulse/manager-duty-mod-pritom-baruah#:~:text=In%20the%20hospitality%20industry%2C%20the,or%20emergencies%20that%20may%20arise.)
+*   [This resource offers a comprehensive glossary of hotel terms and acronyms, including a definition of MOD (Manager on Duty), which is crucial for understanding hospitality operations.](https://www.hotelcontractbeds.co.uk/blog/hotel-terms-and-acronyms)
+*   [This study guide from Fiveable Library provides an overview of the hospitality industry's scope, offering foundational knowledge that includes roles like MOD.](https://library.fiveable.me/hospitality-management/unit-1/definition-scope-hospitality-industry/study-guide/u7qtIc5mHWGyrnOK)
+*   [HiJiffy's glossary is a valuable resource for understanding various hospitality terms, including MOD, enhancing industry knowledge.](https://www.hijiffy.com/resources/glossary)
+*   [This document from Uttarakhand Open University offers an in-depth introduction to the hospitality industry, covering key roles and responsibilities such as the MOD.](https://uou.ac.in/sites/default/files/slm/DHA-101.pdf)

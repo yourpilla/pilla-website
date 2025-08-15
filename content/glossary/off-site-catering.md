@@ -1,10 +1,44 @@
 ---
 title: "Off-site catering"
 slug: "off-site-catering"
-meta: >-
+meta: |
   Off-site catering involves preparing and serving food at a location other than your restaurant, cafe, or bar. It allows you to expand your reach and grow your client base.
 seo_title: "What is Off-site catering in the hospitality industry?"
 unique_id: "1726570171658x292349138963878400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Off site catering",
+    "description": "Off site catering is where you prepare and serve food at a location other than your main restaurant or food service establishment. This process involves transporting food, equipment and staff to alternative venues, expanding the operational reach of a hospitality business.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/off-site-catering"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Off-site catering",
+        "item": "https://yourpilla.com/glossary/off-site-catering"
+      }
+    ]
+  }
 ---
 
 Off site catering is where you prepare and serve food at a location other than your main restaurant or food service establishment. This means transporting food, equipment and staff to private homes, offices or event spaces. Off site catering allows hospitality businesses to extend their reach beyond their four walls and cater to more clients and events.
@@ -15,8 +49,12 @@ Let’s say you’re the head chef of a popular Italian restaurant. A local tech
 
 ## External Reading
 
-- [This article provides a detailed comparison between offsite and onsite catering, explaining the logistics and benefits of each.](https://copelandsjax.com/choosing-between-offsite-and-onsite-catering-for-your-event/)
-- [An excerpt from a Wiley publication offering an in-depth introduction to off-premise catering management, covering essential concepts and practices.](https://catalogimages.wiley.com/images/db/pdf/0471464244.excerpt.pdf)
-- [A comprehensive document from the Illinois State Board of Education detailing the roles and responsibilities in off-premises catering services.](https://www.isbe.net/CTEDocuments/FCS-L700112.pdf)
-- [This post outlines the advantages of off-site catering, including flexibility and logistical considerations.](https://www.icccatering.com/post/the-benefits-of-off-site-catering)
-- [A comprehensive guide from Learn Q that explores the catering sector, including off-site catering, within the broader context of hospitality.](https://learnq.co.uk/blog/hospitality-essentials/the-catering-sector-a-comprehensive-guide/)
+
+
+## External Reading
+
+*   [This article provides a detailed comparison between offsite and onsite catering, explaining the logistics and benefits of each.](https://copelandsjax.com/choosing-between-offsite-and-onsite-catering-for-your-event/)
+*   [An excerpt from a Wiley publication offering an in-depth introduction to off-premise catering management, covering essential concepts and practices.](https://catalogimages.wiley.com/images/db/pdf/0471464244.excerpt.pdf)
+*   [A comprehensive document from the Illinois State Board of Education detailing the roles and responsibilities in off-premises catering services.](https://www.isbe.net/CTEDocuments/FCS-L700112.pdf)
+*   [This post outlines the advantages of off-site catering, including flexibility and logistical considerations.](https://www.icccatering.com/post/the-benefits-of-off-site-catering)
+*   [A comprehensive guide from Learn Q that explores the catering sector, including off-site catering, within the broader context of hospitality.](https://learnq.co.uk/blog/hospitality-essentials/the-catering-sector-a-comprehensive-guide/)

@@ -1,10 +1,44 @@
 ---
 title: "Banquet"
 slug: "banquet"
-meta: >-
+meta: |
   A banquet is a large meal or feast, often for a special occasion, served in restaurants, hotels, or event venues. It involves pre-arranged menus and seating.
 seo_title: "What is a Banquet in the hospitality industry?"
 unique_id: "1725633258744x229093954189802720"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Banquet",
+    "description": "A banquet is a formal meal or feast celebrating a special occasion or honouring an individual or group. In the hospitality industry, it involves serving a multi-course meal to a large number of guests simultaneously.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/banquet"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Banquet",
+        "item": "https://yourpilla.com/glossary/banquet"
+      }
+    ]
+  }
 ---
 
 A banquet is a big formal meal or feast to celebrate a special occasion or honour someone or a group. In the hospitality industry a banquet means serving a multi-course meal to a large number of guests at the same time. These can be weddings, corporate events, award ceremonies and charity fundraisers. Banquets require a lot of planning, coordination and execution from various departments within a hospitality venue.
@@ -15,8 +49,12 @@ You’re the banquet manager at a 5-star hotel. You’ve been asked to manage a 
 
 ## External Reading
 
-- [Comprehensive lesson from Study.com detailing banquet service standards, types, and definitions, providing a thorough understanding of banquets in hospitality.](https://study.com/academy/lesson/banquet-service-standards-types-definition.html)
-- [Insightful resource from Amadeus Hospitality explaining the importance and components of a Banquet Event Order (BEO), essential for event planning.](https://www.amadeus-hospitality.com/insight/beo-banquet-event-order-template/)
-- [Detailed blog post from Qwick discussing the meaning and significance of Banquet Event Orders, crucial for smooth event operations.](https://www.qwick.com/blog/banquet-event-order-meaning)
-- [Informative article from Cvent about Banquet Event Orders, providing a comprehensive guide on organizing and managing event details.](https://www.cvent.com/en/blog/hospitality/banquet-event-order)
-- [LinkedIn article discussing the differences between formal and informal banquet services, offering insights into service styles in hospitality.](https://www.linkedin.com/advice/1/what-differences-between-formal-informal-xsxjc)
+
+
+## External Reading
+
+*   [Comprehensive lesson from Study.com detailing banquet service standards, types, and definitions, providing a thorough understanding of banquets in hospitality.](https://study.com/academy/lesson/banquet-service-standards-types-definition.html)
+*   [Insightful resource from Amadeus Hospitality explaining the importance and components of a Banquet Event Order (BEO), essential for event planning.](https://www.amadeus-hospitality.com/insight/beo-banquet-event-order-template/)
+*   [Detailed blog post from Qwick discussing the meaning and significance of Banquet Event Orders, crucial for smooth event operations.](https://www.qwick.com/blog/banquet-event-order-meaning)
+*   [Informative article from Cvent about Banquet Event Orders, providing a comprehensive guide on organizing and managing event details.](https://www.cvent.com/en/blog/hospitality/banquet-event-order)
+*   [LinkedIn article discussing the differences between formal and informal banquet services, offering insights into service styles in hospitality.](https://www.linkedin.com/advice/1/what-differences-between-formal-informal-xsxjc)

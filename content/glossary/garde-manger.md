@@ -1,10 +1,44 @@
 ---
 title: "Garde Manger"
 slug: "garde-manger"
-meta: >-
+meta: |
   Garde Manger refers to the chef or kitchen area responsible for cold food preparation, such as salads, cold appetisers, and charcuterie, ensuring quality and presentation.
 seo_title: "What is a Garde Manger in the hospitality industry?"
 unique_id: "1724413499155x856072045674742100"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Garde Manger",
+    "description": "Garde Manger is French for 'keeper of the food' and refers to both a position and an area in the kitchen focusing on cold food, salads, hors d’oeuvres, pâtés, terrines, and charcuterie. The Garde Manger chef creates visually appealing and delicious cold dishes.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/garde-manger"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Garde Manger",
+        "item": "https://yourpilla.com/glossary/garde-manger"
+      }
+    ]
+  }
 ---
 
 Garde Manger is French for 'keeper of the food' and refers to both a position in the kitchen and an area of the kitchen. This role is all about cold food, salads, hors d’oeuvres, pâtés, terrines and charcuterie. The Garde Manger chef is responsible for creating cold food that looks good and tastes great and often showcases their artistic skills.
@@ -15,8 +49,12 @@ You’re the head chef at a boutique hotel and you’re preparing for a high pro
 
 ## External Reading
 
-- [Wikipedia entry providing a general overview of the garde manger, focusing on its role in preparing cold dishes and food storage.](https://en.wikipedia.org/wiki/Garde_manger)
-- [Detailed article from the Auguste Escoffier School of Culinary Arts explaining the role and responsibilities of a garde manger chef.](https://www.escoffier.edu/blog/culinary-pastry-careers/the-garde-manger/)
-- [Indeed article discussing the role of a garde manger, including job responsibilities and how to pursue a career in this field.](https://www.indeed.com/career-advice/finding-a-job/what-is-garde-manger)
-- [OER Commons resource providing an educational guide to the cold kitchen, emphasizing preservation methods and techniques used by garde manger chefs.](https://louis.oercommons.org/authoring/127-garde-manger-a-guide-to-the-cold-kitchen)
-- [The Spruce Eats article explaining the concept of garde manger, focusing on the types of foods prepared and techniques used in the cold kitchen.](https://www.thespruceeats.com/what-is-garde-manger-995692)
+
+
+## External Reading
+
+*   [Wikipedia entry providing a general overview of the garde manger, focusing on its role in preparing cold dishes and food storage.](https://en.wikipedia.org/wiki/Garde_manger)
+*   [Detailed article from the Auguste Escoffier School of Culinary Arts explaining the role and responsibilities of a garde manger chef.](https://www.escoffier.edu/blog/culinary-pastry-careers/the-garde-manger/)
+*   [Indeed article discussing the role of a garde manger, including job responsibilities and how to pursue a career in this field.](https://www.indeed.com/career-advice/finding-a-job/what-is-garde-manger)
+*   [OER Commons resource providing an educational guide to the cold kitchen, emphasizing preservation methods and techniques used by garde manger chefs.](https://louis.oercommons.org/authoring/127-garde-manger-a-guide-to-the-cold-kitchen)
+*   [The Spruce Eats article explaining the concept of garde manger, focusing on the types of foods prepared and techniques used in the cold kitchen.](https://www.thespruceeats.com/what-is-garde-manger-995692)

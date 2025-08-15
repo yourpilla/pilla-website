@@ -1,10 +1,44 @@
 ---
 title: "Friandise"
 slug: "friandise"
-meta: >-
+meta: |
   Friandise refers to small, sweet treats like chocolates or petits fours served at the end of a meal in restaurants and cafes, enhancing the dining experience.
 seo_title: "What are Friandises in the hospitality industry?"
 unique_id: "1725994763860x785007958314367700"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Friandise",
+    "description": "Friandise is a French term for small sweet treats served at the end of a meal. These treats include petit fours, chocolates, macarons, and other small pastries that provide a final flourish to dining.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/friandise"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Friandise",
+        "item": "https://yourpilla.com/glossary/friandise"
+      }
+    ]
+  }
 ---
 
 Friandise, pronounced 'free-ahn-deez', is a French word for small sweet treats served at the end of a meal. These little goodies can be petit fours, chocolates, macarons or other small pastries. Friandises are usually free and are the final flourish to the meal.
@@ -15,8 +49,12 @@ Imagine you’re a pastry chef at a top-end restaurant. You’ve just finished p
 
 ## External Reading
 
-- [Comprehensive dictionary of hotel terms, potentially including 'Friandise', providing clarity on industry-specific language.](https://www.socialtables.com/blog/hospitality/hotel-terms-dictionary/)
-- [Library of Congress guide offering detailed manuals and guidance on hospitality operations, useful for understanding specific terms like 'Friandise'.](https://guides.loc.gov/hospitality-restaurants-hotels/history/manuals)
-- [Detailed guide on the hospitality industry, which may cover terms like 'Friandise' in the context of hospitality services.](https://www.siteminder.com/r/hospitality-industry/)
-- [Glossary of key terms and metrics in the hotel and tourism industries, potentially explaining 'Friandise'.](https://str.com/data-insights/resources/glossary)
-- [Blog post defining hospitality terms, which might include 'Friandise', offering insights into industry terminology.](https://home.binwise.com/blog/hospitality-definition)
+
+
+## External Reading
+
+*   [Comprehensive dictionary of hotel terms, potentially including 'Friandise', providing clarity on industry-specific language.](https://www.socialtables.com/blog/hospitality/hotel-terms-dictionary/)
+*   [Library of Congress guide offering detailed manuals and guidance on hospitality operations, useful for understanding specific terms like 'Friandise'.](https://guides.loc.gov/hospitality-restaurants-hotels/history/manuals)
+*   [Detailed guide on the hospitality industry, which may cover terms like 'Friandise' in the context of hospitality services.](https://www.siteminder.com/r/hospitality-industry/)
+*   [Glossary of key terms and metrics in the hotel and tourism industries, potentially explaining 'Friandise'.](https://str.com/data-insights/resources/glossary)
+*   [Blog post defining hospitality terms, which might include 'Friandise', offering insights into industry terminology.](https://home.binwise.com/blog/hospitality-definition)

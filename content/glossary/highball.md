@@ -1,10 +1,44 @@
 ---
 title: "Highball"
 slug: "highball"
-meta: >-
+meta: |
   A highball is a mixed drink made with a base spirit and a larger proportion of a non-alcoholic mixer, served over ice in a tall glass.
 seo_title: "What is a Highball in the hospitality industry?"
 unique_id: "1725994884119x257255799065607040"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Highball",
+    "description": "A highball is a cocktail made with a spirit and a mixer served over ice in a tall glass.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/highball"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Highball",
+        "item": "https://yourpilla.com/glossary/highball"
+      }
+    ]
+  }
 ---
 
 A highball is a spirit and a mixer, served over ice in a tall glass. Examples are gin and tonic, whisky and soda, rum and cola. The name highball comes from the glass itself, a highball glass.
@@ -15,8 +49,12 @@ So you’re working behind the bar on a Friday night and a customer comes in and
 
 ## External Reading
 
-- [Merriam-Webster provides a clear definition of 'highball', explaining its meaning as both a drink and a railroad signal.](https://www.merriam-webster.com/dictionary/highball)
-- [Wine Enthusiast offers a detailed explanation of what constitutes a highball, including its ingredients and variations.](https://www.wineenthusiast.com/recipes/cocktail-recipes/what-is-a-highball/)
-- [Difford's Guide provides an in-depth look at highballs, describing their composition and serving style.](https://www.diffordsguide.com/g/1086/highballs/what-is-a-highball)
-- [The Back Label explores the history and cultural significance of the highball, particularly its popularity in Japan.](https://www.thebacklabel.com/history-of-the-highball/)
-- [WebstaurantStore discusses the highball glass, detailing its use in serving whiskey cocktails and its design features.](https://www.webstaurantstore.com/article/68/types-of-whiskey-glasses.html)
+
+
+## External Reading
+
+*   [Merriam-Webster provides a clear definition of 'highball', explaining its meaning as both a drink and a railroad signal.](https://www.merriam-webster.com/dictionary/highball)
+*   [Wine Enthusiast offers a detailed explanation of what constitutes a highball, including its ingredients and variations.](https://www.wineenthusiast.com/recipes/cocktail-recipes/what-is-a-highball/)
+*   [Difford's Guide provides an in-depth look at highballs, describing their composition and serving style.](https://www.diffordsguide.com/g/1086/highballs/what-is-a-highball)
+*   [The Back Label explores the history and cultural significance of the highball, particularly its popularity in Japan.](https://www.thebacklabel.com/history-of-the-highball/)
+*   [WebstaurantStore discusses the highball glass, detailing its use in serving whiskey cocktails and its design features.](https://www.webstaurantstore.com/article/68/types-of-whiskey-glasses.html)

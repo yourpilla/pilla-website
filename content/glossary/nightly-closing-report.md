@@ -1,10 +1,44 @@
 ---
 title: "Nightly Closing Report"
 slug: "nightly-closing-report"
-meta: >-
+meta: |
   The Nightly Closing Report summarises daily financial activities in hotels, restaurants, cafes, and bars. It helps staff track revenue, expenses, and occupancy rates.
 seo_title: "What is a Nightly Closing Report in the hospitality industry?"
 unique_id: "1722524062054x731565360114217900"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Nightly Closing Report",
+    "description": "A Nightly Closing Report is a summary of your hospitality business's daily activity, covering total sales, cash and card transactions, inventory usage, labour costs, and notable incidents that occurred during the day, offering a snapshot of performance.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/nightly-closing-report"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Nightly Closing Report",
+        "item": "https://yourpilla.com/glossary/nightly-closing-report"
+      }
+    ]
+  }
 ---
 
 A Nightly Closing Report is a summary of everything that’s happened in your hospitality business for the day. It includes total sales, cash and card transactions, inventory usage, labour costs and any notable incidents or issues that occurred during the day. It’s a snapshot of the day’s performance and helps you track the business.
@@ -15,8 +49,12 @@ Let’s say you’re the manager of a busy city centre restaurant. At the end of
 
 ## External Reading
 
-- [Comprehensive guide on the hotel night audit process, detailing how nightly financial activities are recorded and reviewed.](https://blog.hotelogix.com/night-audit-process/)
-- [Explains the importance of nightly hotel audit reports, providing insights into guest movements and financial tracking.](https://www.hotelspeak.com/2021/05/nightly-hotel-audit-reports-that-are-a-must/)
-- [Essential guide for conducting night audits in small hotels, focusing on accurate reporting and operational efficiency.](https://www.mara-solutions.com/post/hotel-night-audit)
-- [Detailed explanation of hotel night audits, covering their application in small accommodations and operational benefits.](https://www.littlehotelier.com/blog/running-your-property/hotel-night-audit-small-accommodation-provider/)
-- [Discusses critical night audit reports for hotels, highlighting their role in identifying key business areas needing attention.](https://www.cloudbeds.com/articles/6-reports-your-hotel-should-run-every-night/)
+
+
+## External Reading
+
+*   [Comprehensive guide on the hotel night audit process, detailing how nightly financial activities are recorded and reviewed.](https://blog.hotelogix.com/night-audit-process/)
+*   [Explains the importance of nightly hotel audit reports, providing insights into guest movements and financial tracking.](https://www.hotelspeak.com/2021/05/nightly-hotel-audit-reports-that-are-a-must/)
+*   [Essential guide for conducting night audits in small hotels, focusing on accurate reporting and operational efficiency.](https://www.mara-solutions.com/post/hotel-night-audit)
+*   [Detailed explanation of hotel night audits, covering their application in small accommodations and operational benefits.](https://www.littlehotelier.com/blog/running-your-property/hotel-night-audit-small-accommodation-provider/)
+*   [Discusses critical night audit reports for hotels, highlighting their role in identifying key business areas needing attention.](https://www.cloudbeds.com/articles/6-reports-your-hotel-should-run-every-night/)

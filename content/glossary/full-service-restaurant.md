@@ -1,10 +1,45 @@
 ---
 title: "Full-Service Restaurant"
 slug: "full-service-restaurant"
-meta: >-
+meta: |
   A Full-Service Restaurant offers a wide range of menu options, table service, and a higher level of customer service, enhancing the dining experience.
 seo_title: "What is a Full-Service Restaurant in the hospitality industry?"
 unique_id: "1722522757095x413323810827732400"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Full service restaurant",
+    "description": "A full service restaurant offers the complete dining experience with table service, a menu, and drinks. Guests are seated by a host, order from a waiter, and are served in an upscale atmosphere.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/full-service-restaurant",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Full-Service Restaurant",
+        "item": "https://yourpilla.com/glossary/full-service-restaurant"
+      }
+    ]
+  }
 ---
 
 A full service restaurant is a restaurant that offers the whole dining experience, table service, menu, drinks. In these restaurants guests are seated by a host, order from a menu presented by a waiter and have food and drinks brought to their table. Full service restaurants often have a more upscale atmosphere and may have special dishes, wine lists and dessert menus.
@@ -15,8 +50,12 @@ Imagine you are the head chef of a new full service restaurant in the city centr
 
 ## External Reading
 
-- [Comprehensive lesson from Study.com detailing the definition, characteristics, and examples of full-service restaurants.](https://study.com/academy/lesson/what-is-a-full-service-restaurant.html)
-- [Insightful article by Kezner Consulting discussing the role of full-service restaurants in the hospitality industry.](https://www.keznerconsulting.com/full-service-restaurants/)
-- [Article from Xenia.Team exploring the processes, intricacies, and challenges of operating a full-service restaurant.](https://www.xenia.team/articles/what-is-a-full-service-restaurant)
-- [Guide from Call The Service explaining the meaning, features, and industry trends of full-service restaurants.](https://www.call-the-service.com/full-service-restaurant-meaning-features-and-illustrations/)
-- [Blog post by Limepack highlighting the benefits and personalized experience offered by full-service restaurants.](https://www.limepack.eu/blog/enhancing-your-dining-experience-the-benefits-of-a-full-service-restaurant)
+
+
+## External Reading
+
+*   [Comprehensive lesson from Study.com detailing the definition, characteristics, and examples of full-service restaurants.](https://study.com/academy/lesson/what-is-a-full-service-restaurant.html)
+*   [Insightful article by Kezner Consulting discussing the role of full-service restaurants in the hospitality industry.](https://www.keznerconsulting.com/full-service-restaurants/)
+*   [Article from Xenia.Team exploring the processes, intricacies, and challenges of operating a full-service restaurant.](https://www.xenia.team/articles/what-is-a-full-service-restaurant)
+*   [Guide from Call The Service explaining the meaning, features, and industry trends of full-service restaurants.](https://www.call-the-service.com/full-service-restaurant-meaning-features-and-illustrations/)
+*   [Blog post by Limepack highlighting the benefits and personalized experience offered by full-service restaurants.](https://www.limepack.eu/blog/enhancing-your-dining-experience-the-benefits-of-a-full-service-restaurant)

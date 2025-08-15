@@ -1,10 +1,44 @@
 ---
 title: "Unit Cost"
 slug: "unit-cost"
-meta: >-
+meta: |
   Unit cost is the total expense to produce or provide one unit of a good or service. In hospitality, it helps manage costs for rooms, meals, or drinks efficiently.
 seo_title: "What is Unit Cost in the hospitality industry?"
 unique_id: "1726570882181x931273205191102600"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Unit cost",
+    "description": "Unit cost is the total cost to produce, store and sell one unit of a product or service. In hospitality, this could be the cost of a single room night, a meal or a drink. To calculate unit cost, you divide the total costs by the number of units produced or sold. This will tell you how much each item or service costs your business to deliver.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/unit-cost"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Unit Cost",
+        "item": "https://yourpilla.com/glossary/unit-cost"
+      }
+    ]
+  }
 ---
 
 Unit cost is the total cost to produce, store and sell one unit of a product or service. In hospitality, this could be the cost of a single room night, a meal or a drink. To calculate unit cost, you divide the total costs by the number of units produced or sold. This will tell you how much each item or service costs your business to deliver.
@@ -15,8 +49,12 @@ Let’s say you’re a restaurant manager deciding whether to keep a popular but
 
 ## External Reading
 
-- [Comprehensive lesson on unit cost, including definitions, formulas, and examples, providing a solid foundation for understanding the concept.](https://study.com/academy/lesson/unit-cost-definition-formula-calculation.html)
-- [Explains the method of calculating unit cost and its application across various industries, offering practical insights into cost management.](https://fiixsoftware.com/maintenance-metrics/what-are-unit-costs/)
-- [Detailed blog post discussing unit cost, its significance, and calculation methods, relevant for businesses managing product and service costs.](https://happay.com/blog/unit-cost/)
-- [Glossary entry that breaks down the calculation of unit cost, emphasizing its importance in production and service delivery.](https://fulfill.com/glossary/unit-cost)
-- [Provides a formula for calculating cost per unit with examples, useful for understanding financial statements and cost management.](https://www.indeed.com/career-advice/career-development/cost-per-unit-calculation)
+
+
+## External Reading
+
+*   [Comprehensive lesson on unit cost, including definitions, formulas, and examples, providing a solid foundation for understanding the concept.](https://study.com/academy/lesson/unit-cost-definition-formula-calculation.html)
+*   [Explains the method of calculating unit cost and its application across various industries, offering practical insights into cost management.](https://fiixsoftware.com/maintenance-metrics/what-are-unit-costs/)
+*   [Detailed blog post discussing unit cost, its significance, and calculation methods, relevant for businesses managing product and service costs.](https://happay.com/blog/unit-cost/)
+*   [Glossary entry that breaks down the calculation of unit cost, emphasizing its importance in production and service delivery.](https://fulfill.com/glossary/unit-cost)
+*   [Provides a formula for calculating cost per unit with examples, useful for understanding financial statements and cost management.](https://www.indeed.com/career-advice/career-development/cost-per-unit-calculation)

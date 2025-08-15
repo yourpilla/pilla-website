@@ -1,10 +1,44 @@
 ---
 title: "Sauté"
 slug: "sauté"
-meta: >-
+meta: |
   Sauté means to quickly cook food in a small amount of oil or butter over high heat, often in a frying pan. This technique keeps ingredients tender and flavourful.
 seo_title: "What is Sauté in the hospitality industry?"
 unique_id: "1726570477396x493217071127167760"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Sauté",
+    "description": "Sauté is a cooking method where you quickly fry food in a small amount of hot fat or oil in a pan over high heat. The word comes from the French 'sauter' which means 'to jump' as that's what the food does in the pan when cooked this way. Sautéing is used to cook a multitude of foods from veggies to meats and is loved for its ability to brown food quickly and retain moisture and flavour.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/saute"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Sauté",
+        "item": "https://yourpilla.com/glossary/sauté"
+      }
+    ]
+  }
 ---
 
 Sauté is a cooking method where you quickly fry food in a small amount of hot fat or oil in a pan over high heat. The word comes from the French 'sauter' which means 'to jump' as that's what the food does in the pan when cooked this way. Sautéing is used to cook a multitude of foods from veggies to meats and is loved for its ability to brown food quickly and retain moisture and flavour.
@@ -15,8 +49,12 @@ Imagine yourself as a chef in a busy hotel restaurant. It's dinner service and y
 
 ## External Reading
 
-- [A detailed guide on sautéing, explaining the technique and its origins, making it a valuable resource for understanding the method.](https://learntocook.com/techniques/sauteing-101/)
-- [Comprehensive article from MasterClass that explains the sauté technique, including tips and the science behind it.](https://www.masterclass.com/articles/a-guide-to-sauteing-how-to-master-the-saute-cooking-technique)
-- [Practical guide on sautéing, providing step-by-step instructions and tips for achieving the best results.](https://madeincookware.com/blogs/how-to-saute)
-- [Explains the sauté cooking method in detail, focusing on its application and technique.](https://www.fromfieldtotable.com/blog/saute-101)
-- [Provides a clear definition of sauté, useful for understanding the basic concept and terminology.](https://www.collinsdictionary.com/us/dictionary/english/saute)
+
+
+## External Reading
+
+*   [A detailed guide on sautéing, explaining the technique and its origins, making it a valuable resource for understanding the method.](https://learntocook.com/techniques/sauteing-101/)
+*   [Comprehensive article from MasterClass that explains the sauté technique, including tips and the science behind it.](https://www.masterclass.com/articles/a-guide-to-sauteing-how-to-master-the-saute-cooking-technique)
+*   [Practical guide on sautéing, providing step-by-step instructions and tips for achieving the best results.](https://madeincookware.com/blogs/how-to-saute)
+*   [Explains the sauté cooking method in detail, focusing on its application and technique.](https://www.fromfieldtotable.com/blog/saute-101)
+*   [Provides a clear definition of sauté, useful for understanding the basic concept and terminology.](https://www.collinsdictionary.com/us/dictionary/english/saute)

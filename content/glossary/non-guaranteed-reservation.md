@@ -1,10 +1,44 @@
 ---
 title: "Non-Guaranteed Reservation"
 slug: "non-guaranteed-reservation"
-meta: >-
+meta: |
   A Non-Guaranteed Reservation is a booking without a secured payment method, often cancelled if the guest doesn't arrive by a specified time, typically the evening.
 seo_title: "What is a Non-Guaranteed Reservation in the hospitality industry?"
 unique_id: "1722524061964x715076012137811900"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Non-guaranteed booking",
+    "description": "A non-guaranteed booking is a booking without a deposit or credit card to secure the room. It allows guests to book a room with no financial commitment and cancel or change their plans with no penalty, while the hotel may release the room if the guest does not arrive by around 6pm on check-in day.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/non-guaranteed-booking"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Non-Guaranteed Reservation",
+        "item": "https://yourpilla.com/glossary/non-guaranteed-reservation"
+      }
+    ]
+  }
 ---
 
 A non-guaranteed booking is a booking without a deposit or credit card to secure the room. This type of booking allows guests to book a room with no financial commitment and can cancel or change their plans with no penalty. However, the hotel is not obligated to hold the room if the guest doesn’t arrive by a certain time, usually around 6pm on the day of check-in.
@@ -15,8 +49,12 @@ You’re the front desk manager of a city hotel and it’s a Friday afternoon. Y
 
 ## External Reading
 
-- [Provides a legal definition of non-guaranteed reservation, explaining the expectation of guest check-in by a certain time.](https://www.lawinsider.com/dictionary/non-guaranteed-reservation)
-- [Explains the concept of non-guaranteed reservations in the context of hotel room rates and the conditions under which rooms are held.](https://help.siteminder.com/s/article/BE-enable-non-guaranteed-reservation-for-room-rate)
-- [Educational resource from IHM Shimla detailing types of reservations, including non-guaranteed reservations.](https://ihmshimla.ac.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1zKnc4uNO647FJRhF4G2cLxRK5QVUv3W4hfigjuvNZXs5QCCtA1trqLTA6afDLTxJGzjCczvncOIfqaaGHR1bpfjye9hBaguO7Q2N7QJL6Lrdau0wdS3bID)
-- [Discusses the differences between guaranteed and non-guaranteed reservations, providing insights into their implications for guests and hotels.](https://vuniversity.in/guaranteed-and-non-guaranteed-reservation/)
-- [A comprehensive PDF from CSJM University covering reservation operations, including non-guaranteed reservations.](https://gyansanchay.csjmu.ac.in/wp-content/uploads/2022/05/UNIT-4-Reservation-Operations.pdf)
+
+
+## External Reading
+
+*   [Provides a legal definition of non-guaranteed reservation, explaining the expectation of guest check-in by a certain time.](https://www.lawinsider.com/dictionary/non-guaranteed-reservation)
+*   [Explains the concept of non-guaranteed reservations in the context of hotel room rates and the conditions under which rooms are held.](https://help.siteminder.com/s/article/BE-enable-non-guaranteed-reservation-for-room-rate)
+*   [Educational resource from IHM Shimla detailing types of reservations, including non-guaranteed reservations.](https://ihmshimla.ac.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1zKnc4uNO647FJRhF4G2cLxRK5QVUv3W4hfigjuvNZXs5QCCtA1trqLTA6afDLTxJGzjCczvncOIfqaaGHR1bpfjye9hBaguO7Q2N7QJL6Lrdau0wdS3bID)
+*   [Discusses the differences between guaranteed and non-guaranteed reservations, providing insights into their implications for guests and hotels.](https://vuniversity.in/guaranteed-and-non-guaranteed-reservation/)
+*   [A comprehensive PDF from CSJM University covering reservation operations, including non-guaranteed reservations.](https://gyansanchay.csjmu.ac.in/wp-content/uploads/2022/05/UNIT-4-Reservation-Operations.pdf)

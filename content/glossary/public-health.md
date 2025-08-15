@@ -1,10 +1,44 @@
 ---
 title: "Public health"
 slug: "public-health"
-meta: >-
+meta: |
   Public health refers to the practices and policies that aim to protect and improve community health. In hospitality, it ensures a safe and hygienic environment for guests and staff.
 seo_title: "What is Public health in the hospitality industry?"
 unique_id: "1726570326928x433049032559971650"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Public health",
+    "description": "Public health is the science and practice of protecting and improving the health of populations through education, policy, and research for disease prevention. In hospitality, it involves measures to keep guests and staff safe through cleanliness standards, food safety protocols, and guidelines to prevent the spread of infectious diseases.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/public-health"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Public health",
+        "item": "https://yourpilla.com/glossary/public-health"
+      }
+    ]
+  }
 ---
 
 Public health is the science and practice of protecting and improving the health of populations through education, policy and research for disease prevention. In the hospitality industry, public health means measures taken to keep guests and staff safe. This includes cleanliness standards, food safety protocols and guidelines to prevent the spread of infectious diseases.
@@ -15,8 +49,12 @@ Let’s say you’re a hotel manager during a flu outbreak. You’d increase cle
 
 ## External Reading
 
-- [Explores the intersection of hospitality and healthcare, emphasizing the importance of patient experience.](https://www.sonifihealth.com/hospitality-in-healthcare/)
-- [Discusses redefining hospitality in healthcare to enhance patient relationships and communication.](https://www.bu.edu/bhr/2023/10/23/focusing-on-hospitality-in-hospitals/)
-- [Defines public health emergencies within the context of hospitality management and their impact.](https://library.fiveable.me/key-terms/hospitality-management/public-health-emergencies)
-- [Analyzes how hospitality principles can be applied in healthcare settings to improve service delivery.](https://www.millerknoll.com/articles/hospitality-in-healthcare)
-- [Provides a guide on hospitality management, covering key functions and guest experience enhancement.](https://safetyculture.com/topics/hospitality-management/)
+
+
+## External Reading
+
+*   [Explores the intersection of hospitality and healthcare, emphasizing the importance of patient experience.](https://www.sonifihealth.com/hospitality-in-healthcare/)
+*   [Discusses redefining hospitality in healthcare to enhance patient relationships and communication.](https://www.bu.edu/bhr/2023/10/23/focusing-on-hospitality-in-hospitals/)
+*   [Defines public health emergencies within the context of hospitality management and their impact.](https://library.fiveable.me/key-terms/hospitality-management/public-health-emergencies)
+*   [Analyzes how hospitality principles can be applied in healthcare settings to improve service delivery.](https://www.millerknoll.com/articles/hospitality-in-healthcare)
+*   [Provides a guide on hospitality management, covering key functions and guest experience enhancement.](https://safetyculture.com/topics/hospitality-management/)

@@ -1,10 +1,44 @@
 ---
 title: "Merchandising"
 slug: "merchandising"
-meta: >-
+meta: |
   Merchandising involves planning and promoting sales by presenting products attractively. In hospitality, this boosts sales in restaurants, cafes, bars, and hotels.
 seo_title: "What is Merchandising in the hospitality industry?"
 unique_id: "1726569967159x793929450498947200"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Merchandising in hospitality",
+    "description": "Merchandising in hospitality is the strategic placement and promotion of products or services to increase sales and guest experience. This includes the layout, pricing and visual merchandising that encourages the customer to buy.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/merchandising-in-hospitality"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Merchandising",
+        "item": "https://yourpilla.com/glossary/merchandising"
+      }
+    ]
+  }
 ---
 
 Merchandising in hospitality is the strategic placement and promotion of products or services to increase sales and guest experience. This includes the layout, pricing and visual merchandising that encourages the customer to buy. Good merchandising can turn a simple display into a sales tool, whether it's pastries in a café or spa services in a hotel.
@@ -15,8 +49,12 @@ Let’s say you're running a rooftop bar and you've just launched a new signatur
 
 ## External Reading
 
-- [Insightful article on merchandising strategies in hotels, focusing on room sales and distribution channels.](https://www.linkedin.com/pulse/science-merchandising-hotels-kimberley-adams)
-- [Comprehensive guide on retail merchandising, detailing strategies and activities to enhance visual displays.](https://www.cgsinc.com/blog/comprehensive-guide-retail-merchandising)
-- [University of North Texas guide providing resources on merchandising in hospitality and tourism.](https://guides.library.unt.edu/cmht5100)
-- [Article from Sabre Hospitality on boosting hotel revenue through strategic merchandising of spaces and services.](https://www.sabrehospitality.com/resources/article/maximize-revenue-by-merchandising-hotel-spaces/)
-- [Detailed explanation of merchandising, covering its meaning, elements, benefits, and types.](https://www.geeksforgeeks.org/merchandising-meaning-elements-benefits-and-types/)
+
+
+## External Reading
+
+*   [Insightful article on merchandising strategies in hotels, focusing on room sales and distribution channels.](https://www.linkedin.com/pulse/science-merchandising-hotels-kimberley-adams)
+*   [Comprehensive guide on retail merchandising, detailing strategies and activities to enhance visual displays.](https://www.cgsinc.com/blog/comprehensive-guide-retail-merchandising)
+*   [University of North Texas guide providing resources on merchandising in hospitality and tourism.](https://guides.library.unt.edu/cmht5100)
+*   [Article from Sabre Hospitality on boosting hotel revenue through strategic merchandising of spaces and services.](https://www.sabrehospitality.com/resources/article/maximize-revenue-by-merchandising-hotel-spaces/)
+*   [Detailed explanation of merchandising, covering its meaning, elements, benefits, and types.](https://www.geeksforgeeks.org/merchandising-meaning-elements-benefits-and-types/)

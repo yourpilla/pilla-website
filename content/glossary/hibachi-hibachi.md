@@ -1,10 +1,45 @@
 ---
 title: "Hibachi"
 slug: "hibachi-hibachi"
-meta: >-
+meta: |
   Hibachi refers to a Japanese-style grill used in restaurants where chefs cook food directly in front of guests. It enhances the dining experience with entertainment and interaction.
 seo_title: "What is a Hibachi in the hospitality industry?"
 unique_id: "1725994884168x470598708727376000"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Hibachi",
+    "description": "Hibachi is a Japanese term for a heating device and a style of cooking in the hospitality industry where the chef cooks on a flat open grill in front of guests.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/hibachi",
+    "inLanguage": "en-GB"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Hibachi",
+        "item": "https://yourpilla.com/glossary/hibachi-hibachi"
+      }
+    ]
+  }
 ---
 
 Hibachi is a Japanese term for a heating device but in the hospitality industry it’s a style of cooking where the chef cooks on a flat open grill in front of the guest. This style of cooking combines culinary skill with entertainment as the chef will often perform tricks and interact with the guest while preparing their meal.
@@ -15,8 +50,12 @@ So you’re a restaurant manager looking to increase your weeknight bookings. Yo
 
 ## External Reading
 
-- [This article provides a comprehensive explanation of what Hibachi is, including its historical context and usage in Japanese cuisine.](https://www.spoton.com/blog/what-is-hibachi/)
-- [This resource from Japanese Food Guide delves into the meaning of Hibachi, explaining its literal translation and traditional use.](https://www.japanesefoodguide.com/hibachi/)
-- [Kimono Restaurants offers a detailed guide on the basics of Hibachi grilling, including cooking methods and equipment.](https://www.kimonorestaurants.com/hibachi-grill/hibachi-grill-101-all-the-basics-you-need-to-know-in-2022/)
-- [The Wikipedia entry provides a broad overview of Hibachi, covering its origins, traditional use, and variations.](https://en.wikipedia.org/wiki/Hibachi)
-- [Kobe Japanese Steakhouse discusses the historical background of Hibachi, tracing its development from ancient Japan.](https://kobesteakhouse.com/history-of-hibachi/)
+
+
+## External Reading
+
+*   [This article provides a comprehensive explanation of what Hibachi is, including its historical context and usage in Japanese cuisine.](https://www.spoton.com/blog/what-is-hibachi/)
+*   [This resource from Japanese Food Guide delves into the meaning of Hibachi, explaining its literal translation and traditional use.](https://www.japanesefoodguide.com/hibachi/)
+*   [Kimono Restaurants offers a detailed guide on the basics of Hibachi grilling, including cooking methods and equipment.](https://www.kimonorestaurants.com/hibachi-grill/hibachi-grill-101-all-the-basics-you-need-to-know-in-2022/)
+*   [The Wikipedia entry provides a broad overview of Hibachi, covering its origins, traditional use, and variations.](https://en.wikipedia.org/wiki/Hibachi)
+*   [Kobe Japanese Steakhouse discusses the historical background of Hibachi, tracing its development from ancient Japan.](https://kobesteakhouse.com/history-of-hibachi/)

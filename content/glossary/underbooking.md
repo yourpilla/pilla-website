@@ -1,10 +1,44 @@
 ---
 title: "Underbooking"
 slug: "underbooking"
-meta: >-
+meta: |
   Underbooking occurs when a hotel, restaurant, or bar books fewer reservations than its capacity, leading to unused resources and potential revenue loss.
 seo_title: "What is Underbooking in the hospitality industry?"
 unique_id: "1722586921159x635379474862649000"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Underbooking",
+    "description": "Underbooking means having fewer reservations or bookings than capacity, leaving available rooms, tables or space unutilised in hospitality venues.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/underbooking"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Underbooking",
+        "item": "https://yourpilla.com/glossary/underbooking"
+      }
+    ]
+  }
 ---
 
 Underbooking means having fewer reservations or bookings than capacity. That’s when the number of guests or customers is less than the available rooms, tables or space. Underbooking can happen in any hospitality business, hotels, restaurants, bars and event venues.
@@ -15,8 +49,12 @@ Let’s use a fictional example to illustrate underbooking. You’re the manager
 
 ## External Reading
 
-- [This resource from Xotels provides a clear definition of underbooking, explaining the situation when a hotel fails to sell the number of rooms that meet their satisfactory booking standards.](https://www.xotels.com/en/glossary/underbooked)
-- [WebRezPro offers a guide that discusses underbooking and other booking crises, providing insights into strategies hotels can use to manage these situations.](https://webrezpro.com/over-under-and-double-a-hoteliers-guide-to-booking-crises/)
-- [Plantrip.io provides an understanding of underbooking in the travel industry, focusing on its strategic aspects and implications for pricing and inventory control.](https://plantrip.io/glossary/underbooking)
-- [Social Tables offers a comprehensive hotel terms dictionary, which includes definitions and explanations of various industry terms, including underbooking.](https://www.socialtables.com/blog/hospitality/hotel-terms-dictionary/)
-- [PrenoHQ provides a guide for hotel managers on understanding OTA commission rates, which is relevant for managing booking strategies, including underbooking.](https://prenohq.com/blog/understanding-ota-commission-rates-a-guide-for-hotel-managers/)
+
+
+## External Reading
+
+*   [This resource from Xotels provides a clear definition of underbooking, explaining the situation when a hotel fails to sell the number of rooms that meet their satisfactory booking standards.](https://www.xotels.com/en/glossary/underbooked)
+*   [WebRezPro offers a guide that discusses underbooking and other booking crises, providing insights into strategies hotels can use to manage these situations.](https://webrezpro.com/over-under-and-double-a-hoteliers-guide-to-booking-crises/)
+*   [Plantrip.io provides an understanding of underbooking in the travel industry, focusing on its strategic aspects and implications for pricing and inventory control.](https://plantrip.io/glossary/underbooking)
+*   [Social Tables offers a comprehensive hotel terms dictionary, which includes definitions and explanations of various industry terms, including underbooking.](https://www.socialtables.com/blog/hospitality/hotel-terms-dictionary/)
+*   [PrenoHQ provides a guide for hotel managers on understanding OTA commission rates, which is relevant for managing booking strategies, including underbooking.](https://prenohq.com/blog/understanding-ota-commission-rates-a-guide-for-hotel-managers/)

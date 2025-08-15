@@ -1,10 +1,44 @@
 ---
 title: "Off-peak hours"
 slug: "off-peak-hours"
-meta: >-
+meta: |
   Off-peak hours are times when customer demand is lower. In restaurants, cafes, hotels, and bars, this often means fewer guests and less busy periods.
 seo_title: "What are Off-peak hours in the hospitality industry?"
 unique_id: "1726570136964x139759422337806910"
+schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "name": "Off-peak hours",
+    "description": "Off-peak hours are periods of time when your hospitality business has fewer customers or foot traffic. These are outside of peak hours or busy times. For hotels, off-peak hours are late at night or early morning. For restaurants, it's between lunch and dinner. Bars and cafes might consider mid-afternoon as their off-peak time.",
+    "inDefinedTermSet": "https://yourpilla.com/glossary",
+    "url": "https://yourpilla.com/glossary/off-peak-hours"
+  }
+breadcrumb_schema:
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Glossary",
+        "item": "https://yourpilla.com/glossary"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Off-peak hours",
+        "item": "https://yourpilla.com/glossary/off-peak-hours"
+      }
+    ]
+  }
 ---
 
 Off-peak hours are periods of time when your hospitality business has fewer customers or foot traffic. These are outside of peak hours or busy times. For hotels, off-peak hours are late at night or early morning. For restaurants, it's between lunch and dinner. Bars and cafes might consider mid-afternoon as their off-peak time.
@@ -15,8 +49,12 @@ Let’s say you run a busy city centre restaurant. You notice between 3-5pm your
 
 ## External Reading
 
-- [Comprehensive guide on pricing strategies during off-peak seasons in the hospitality industry, providing insights into demand fluctuations.](https://lybra.tech/a-guide-to-peak-middle-season-and-off-peak-pricing-strategies-for-hotels/)
-- [Glossary entry explaining 'off-peak' periods in the hospitality industry, highlighting times of low demand.](https://chatlyn.com/en/glossary/off-peak/)
-- [Resource explaining the concept of off-peak travel, relevant to understanding off-peak hours in hospitality.](https://navan.com/resources/glossary/what-is-off-peak-travel)
-- [Blog post detailing key hotel terminology, including the definition of off-peak periods in the hospitality context.](https://prenohq.com/blog/key-hotel-terminology-and-acronyms-every-hospitality-professional-should-know/)
-- [Article discussing strategies to maximize hotel revenue during off-peak seasons, offering practical insights for hospitality professionals.](https://www.mews.com/en/blog/off-peak-revenue-strategies-for-hotels)
+
+
+## External Reading
+
+*   [Comprehensive guide on pricing strategies during off-peak seasons in the hospitality industry, providing insights into demand fluctuations.](https://lybra.tech/a-guide-to-peak-middle-season-and-off-peak-pricing-strategies-for-hotels/)
+*   [Glossary entry explaining 'off-peak' periods in the hospitality industry, highlighting times of low demand.](https://chatlyn.com/en/glossary/off-peak/)
+*   [Resource explaining the concept of off-peak travel, relevant to understanding off-peak hours in hospitality.](https://navan.com/resources/glossary/what-is-off-peak-travel)
+*   [Blog post detailing key hotel terminology, including the definition of off-peak periods in the hospitality context.](https://prenohq.com/blog/key-hotel-terminology-and-acronyms-every-hospitality-professional-should-know/)
+*   [Article discussing strategies to maximize hotel revenue during off-peak seasons, offering practical insights for hospitality professionals.](https://www.mews.com/en/blog/off-peak-revenue-strategies-for-hotels)
