@@ -1,5 +1,6 @@
 'use client'
 
+import Link from 'next/link'
 import { ChevronRightIcon } from '@heroicons/react/20/solid'
 import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
 import {
@@ -233,11 +234,11 @@ export default function Example() {
               <div className="relative flex items-center gap-x-4 rounded-full bg-white px-4 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                 <span className="font-semibold text-indigo-600">New glossary terms added</span>
                 <span aria-hidden="true" className="h-4 w-px bg-gray-900/10" />
-                <a href="/glossary" className="flex items-center gap-x-1">
+                <Link href="/glossary" className="flex items-center gap-x-1">
                   <span aria-hidden="true" className="absolute inset-0" />
                   See latest terms
                   <ChevronRightIcon aria-hidden="true" className="-mr-2 size-5 text-gray-400" />
-                </a>
+                </Link>
               </div>
             </div>
             <h1 className="mt-10 display-1">
@@ -247,15 +248,15 @@ export default function Example() {
               Schedule shifts, work and communicate in the same app. Company leaderboards and automated feedback will keep your teams motivated to clock in and finish work on time.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
-              <a
+              <Link
                 href="/glossary"
                 className="btn"
               >
                 Explore Glossary
-              </a>
-              <a href="/blog" className="text-sm/6 font-semibold text-gray-900">
+              </Link>
+              <Link href="/blog" className="text-sm/6 font-semibold text-gray-900">
                 Read Articles <span aria-hidden="true">→</span>
-              </a>
+              </Link>
             </div>
           </div>
           <div className="mt-16 sm:mt-24 lg:mt-0 lg:shrink-0 lg:grow">
@@ -743,15 +744,15 @@ export default function Example() {
               Join thousands of hospitality professionals who rely on Pilla for accurate terminology and expert insights.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
+              <Link
                 href="/glossary"
                 className="btn"
               >
                 Browse Glossary
-              </a>
-              <a href="/blog" className="text-sm/6 font-semibold text-gray-900">
+              </Link>
+              <Link href="/blog" className="text-sm/6 font-semibold text-gray-900">
                 Read Articles <span aria-hidden="true">→</span>
-              </a>
+              </Link>
             </div>
           </div>
         </div>
