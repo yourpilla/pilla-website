@@ -241,7 +241,7 @@ export default function Example() {
                 </Link>
               </div>
             </div>
-            <h1 className="mt-10 display-1">
+            <h1 className="mt-10">
               Gamify your operation so that staff turn up on time and do the right things.
             </h1>
             <p className="mt-8 lead">

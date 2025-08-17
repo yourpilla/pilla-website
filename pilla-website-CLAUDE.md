@@ -39,6 +39,12 @@ For making changes to existing pages:
 
 5. **Claude implements changes**: Updates the live React component files (`.tsx`) with the new content from the template forms
 
+**CRITICAL: Claude must check BOTH content AND typography for every field:**
+- ✅ Content changes (text, links, images)
+- ✅ Typography changes (h1 vs display-1, lead vs subtitle-lg, etc.)
+- ❌ DO NOT assume typography is correct if only content matches
+- ❌ DO NOT leave existing classes if template specifies different typography
+
 This allows efficient content updates without needing to specify individual changes - Claude automatically finds and implements all differences between the template forms and live code.
 
 ## Typography System
