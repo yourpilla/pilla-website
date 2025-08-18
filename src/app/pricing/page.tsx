@@ -1,5 +1,5 @@
 import { Fragment } from 'react'
-import { CheckIcon, MinusIcon } from '@heroicons/react/20/solid'
+import { CheckCircleIcon, MinusIcon } from '@heroicons/react/20/solid'
 
 const tiers = [
   { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '£65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: '#FB0071' },
@@ -105,7 +105,7 @@ export default function Example() {
                       {section.features.map((feature) =>
                         feature.tiers[tier.name] ? (
                           <li key={feature.name} className="flex gap-x-3">
-                            <CheckIcon aria-hidden="true" className="h-6 w-5 flex-none text-indigo-600" />
+                            <CheckCircleIcon aria-hidden="true" className="h-6 w-5 flex-none text-gray-700" />
                             <span>
                               {feature.name}{' '}
                               {typeof feature.tiers[tier.name] === 'string' ? (
@@ -211,7 +211,7 @@ export default function Example() {
                             ) : (
                               <>
                                 {feature.tiers[tier.name] === true ? (
-                                  <CheckIcon aria-hidden="true" className="mx-auto size-5 text-indigo-600" />
+                                  <CheckCircleIcon aria-hidden="true" className="mx-auto size-5 text-gray-700" />
                                 ) : (
                                   <MinusIcon aria-hidden="true" className="mx-auto size-5 text-gray-400" />
                                 )}
