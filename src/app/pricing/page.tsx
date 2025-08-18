@@ -2,9 +2,9 @@ import { Fragment } from 'react'
 import { CheckIcon, MinusIcon } from '@heroicons/react/20/solid'
 
 const tiers = [
-  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '$65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: 'inset-ring-gray-200' },
-  { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: 'bg-orange-100', border: 'inset-ring-indigo-200' },
-  { name: 'Pro' as const, id: 'tier-pro', href: '#', priceMonthly: '£85', priceYearly: '£795', mostPopular: false, background: 'bg-emerald-100', border: 'inset-ring-blue-200' },
+  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '$65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: '#FB0071' },
+  { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: 'bg-orange-100', border: '#FF7B00' },
+  { name: 'Pro' as const, id: 'tier-pro', href: '#', priceMonthly: '£85', priceYearly: '£795', mostPopular: false, background: 'bg-emerald-100', border: '#00B36E' },
 ]
 const sections = [
   {
@@ -71,8 +71,9 @@ export default function Example() {
             <section
               key={tier.id}
               className={classNames(
-                `rounded-xl ${tier.background} inset-ring ${tier.border} p-8`,
+                `rounded-xl ${tier.background} p-8 border-2`,
               )}
+              style={{ borderColor: tier.border }}
             >
               <h3 id={tier.id} className="text-sm font-semibold text-gray-900">
                 {tier.name}
@@ -137,7 +138,7 @@ export default function Example() {
                 <tr>
                   <td />
                   {tiers.map((tier) => (
-                    <th key={tier.id} scope="col" className={`px-6 pt-6 xl:px-8 xl:pt-8 ${tier.background} rounded-t-xl border border-gray-200`}>
+                    <th key={tier.id} scope="col" className={`px-6 pt-6 xl:px-8 xl:pt-8 ${tier.background} rounded-t-xl border-2`} style={{ borderColor: tier.border }}>
                       <div className="text-sm font-semibold text-gray-900">{tier.name}</div>
                     </th>
                   ))}
@@ -149,7 +150,7 @@ export default function Example() {
                     <span className="sr-only">Price</span>
                   </th>
                   {tiers.map((tier) => (
-                    <td key={tier.id} className={`px-6 pt-2 pb-4 xl:px-8 ${tier.background} border-l border-r border-gray-200`}>
+                    <td key={tier.id} className={`px-6 pt-2 pb-4 xl:px-8 ${tier.background} border-l-2 border-r-2`} style={{ borderColor: tier.border }}>
                       <div>
                         <div className="flex items-baseline gap-x-1 text-gray-900">
                           <span className="text-4xl font-semibold">{tier.priceYearly}</span>
@@ -194,7 +195,7 @@ export default function Example() {
                           <div className="absolute inset-x-8 mt-4 h-px bg-gray-900/5" />
                         </th>
                         {tiers.map((tier) => (
-                          <td key={tier.id} className={`px-6 py-4 xl:px-8 ${tier.background} border-l border-r border-gray-200 ${sectionIdx === sections.length - 1 ? 'border-b rounded-b-xl' : ''}`}>
+                          <td key={tier.id} className={`px-6 py-4 xl:px-8 ${tier.background} border-l-2 border-r-2 ${sectionIdx === sections.length - 1 && feature === section.features[section.features.length - 1] ? 'border-b-2 rounded-b-xl' : ''}`} style={{ borderColor: tier.border }}>
                             {typeof feature.tiers[tier.name] === 'string' ? (
                               <div className="text-center text-sm text-muted">{feature.tiers[tier.name]}</div>
                             ) : (

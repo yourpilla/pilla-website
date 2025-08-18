@@ -263,7 +263,7 @@ export default function Example() {
 - **tier_1_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_1_popular**: false
 - **tier_1_background**: "#FEC6D4" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
-- **tier_1_border**: "inset-ring-gray-200" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
+- **tier_1_border**: "#FB0071" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
 - **tier_2_name**: "Plus" | **typography**: `text-sm font-semibold`
 - **tier_2_price_yearly**: "£695" | **typography**: `text-4xl font-semibold`
@@ -274,7 +274,7 @@ export default function Example() {
 - **tier_2_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_2_popular**: true
 - **tier_2_background**: "#FFDCB4" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
-- **tier_2_border**: "inset-ring-indigo-200" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
+- **tier_2_border**: "#FF7B00" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
 - **tier_3_name**: "Pro" | **typography**: `text-sm font-semibold`
 - **tier_3_price_yearly**: "£795" | **typography**: `text-4xl font-semibold`
@@ -285,7 +285,7 @@ export default function Example() {
 - **tier_3_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_3_popular**: false
 - **tier_3_background**: "#BAEED9" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
-- **tier_3_border**: "inset-ring-blue-200" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
+- **tier_3_border**: "#00B36E" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
 ### Feature Sections
 
