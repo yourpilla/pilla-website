@@ -2,36 +2,45 @@ import { Fragment } from 'react'
 import { CheckIcon, MinusIcon } from '@heroicons/react/20/solid'
 
 const tiers = [
-  { name: 'Starter' as const, id: 'tier-starter', href: '#', priceMonthly: '$19', mostPopular: false },
-  { name: 'Growth' as const, id: 'tier-growth', href: '#', priceMonthly: '$49', mostPopular: true },
-  { name: 'Scale' as const, id: 'tier-scale', href: '#', priceMonthly: '$99', mostPopular: false },
+  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '$65', priceYearly: '£595', mostPopular: false, background: '#FEC6D4', border: 'inset-ring-gray-200' },
+  { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: '#FFDCB4', border: 'inset-ring-indigo-200' },
+  { name: 'Pro' as const, id: 'tier-pro', href: '#', priceMonthly: '£85', priceYearly: '£795', mostPopular: false, background: '#BAEED9', border: 'inset-ring-blue-200' },
 ]
 const sections = [
   {
-    name: 'Features',
+    name: 'Shift scheduling',
     features: [
-      { name: 'Edge content delivery', tiers: { Starter: true, Growth: true, Scale: true } as Record<TierName, boolean> },
-      { name: 'Custom domains', tiers: { Starter: '1', Growth: '3', Scale: 'Unlimited' } as Record<TierName, string> },
-      { name: 'Team members', tiers: { Starter: '3', Growth: '20', Scale: 'Unlimited' } as Record<TierName, string> },
-      { name: 'Single sign-on (SSO)', tiers: { Starter: false, Growth: false, Scale: true } as Record<TierName, boolean> },
+      { name: 'Automatated shift scheduling with templates', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Holiday entitlement calculations', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Location-based clock-in', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Automatic shift adjustment after clock-in', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Push notification shift reminders for staff', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Communicate and leave messages on shifts', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Monday morning round-ups for Managers', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
+      { name: 'Encouragement and feedback for staff', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
+      { name: 'Shift history kept on file', tiers: { Basic: '2 Years', Plus: 'Forever', Pro: 'Forever' } as Record<TierName, string> },
     ],
   },
   {
-    name: 'Reporting',
+    name: 'Work activities',
     features: [
-      { name: 'Advanced analytics', tiers: { Starter: true, Growth: true, Scale: true } as Record<TierName, boolean> },
-      { name: 'Basic reports', tiers: { Starter: false, Growth: true, Scale: true } as Record<TierName, boolean> },
-      { name: 'Professional reports', tiers: { Starter: false, Growth: false, Scale: true } as Record<TierName, boolean> },
-      { name: 'Custom report builder', tiers: { Starter: false, Growth: false, Scale: true } as Record<TierName, boolean> },
+      { name: 'Build work templates with all elements', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Set repeating work activities', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Highlight issues and corrective actions', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Automatic shift adjustment after clock-in', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Push notification reminders for staff', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Communicate and leave messages on work', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Monday morning round-ups for Managers', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
+      { name: 'Encouragement and feedback for staff', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
+      { name: 'Work history kept on file', tiers: { Basic: '2 Years', Plus: 'Forever', Pro: 'Forever' } as Record<TierName, string> },
     ],
   },
   {
     name: 'Support',
     features: [
-      { name: '24/7 online support', tiers: { Starter: true, Growth: true, Scale: true } as Record<TierName, boolean> },
-      { name: 'Quarterly workshops', tiers: { Starter: false, Growth: true, Scale: true } as Record<TierName, boolean> },
-      { name: 'Priority phone support', tiers: { Starter: false, Growth: false, Scale: true } as Record<TierName, boolean> },
-      { name: '1:1 onboarding tour', tiers: { Starter: false, Growth: false, Scale: true } as Record<TierName, boolean> },
+      { name: 'Email support', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Quarterly workshops/adits', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
+      { name: 'Priority phone support', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
     ],
   },
 ]
@@ -48,13 +57,12 @@ export default function Example() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
           <h2 className="eyebrow">Pricing</h2>
-          <p className="mt-2 display-2">
-            Pricing that grows with you
-          </p>
+          <h1 className="mt-2">
+            Pilla has changed the way we work, for the better
+          </h1>
         </div>
         <p className="mx-auto mt-6 max-w-2xl text-center lead">
-          Choose an affordable plan that&rsquo;s packed with the best features for engaging your audience, creating customer
-          loyalty, and driving sales.
+          Becky, Operations Manager, The Pen Factory (3 Sites)
         </p>
 
         {/* xs to lg */}
@@ -63,17 +71,26 @@ export default function Example() {
             <section
               key={tier.id}
               className={classNames(
-                tier.mostPopular ? 'rounded-xl bg-gray-400/5 inset-ring inset-ring-gray-200' : '',
-                'p-8',
+                `rounded-xl inset-ring ${tier.border} p-8`,
               )}
+              style={{ backgroundColor: tier.background }}
             >
               <h3 id={tier.id} className="text-sm font-semibold text-gray-900">
                 {tier.name}
               </h3>
-              <p className="mt-2 flex items-baseline gap-x-1 text-gray-900">
-                <span className="text-4xl font-semibold">{tier.priceMonthly}</span>
-                <span className="text-sm font-semibold">/month</span>
-              </p>
+              <div className="mt-2">
+                <p className="flex items-baseline gap-x-1 text-gray-900">
+                  <span className="text-4xl font-semibold">{tier.priceYearly}</span>
+                  <span className="text-sm font-semibold">/year</span>
+                </p>
+                <p className="mt-1 text-sm text-muted">
+                  or
+                </p>
+                <p className="flex items-baseline gap-x-1 text-gray-900">
+                  <span className="text-2xl font-semibold">{tier.priceMonthly}</span>
+                  <span className="text-sm font-semibold">/month</span>
+                </p>
+              </div>
               <a
                 href={tier.href}
                 aria-describedby={tier.id}
@@ -84,7 +101,7 @@ export default function Example() {
                   'mt-8 block rounded-md px-3 py-2 text-center text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600',
                 )}
               >
-                Buy plan
+                7-Day Free Trial
               </a>
               <ul role="list" className="mt-10 space-y-4 text-sm text-gray-900">
                 {sections.map((section) => (
@@ -116,13 +133,19 @@ export default function Example() {
           <div className="relative -mx-8">
             {tiers.some((tier) => tier.mostPopular) ? (
               <div className="absolute inset-x-4 inset-y-0 -z-10 flex">
-                <div
-                  style={{ marginLeft: `${(tiers.findIndex((tier) => tier.mostPopular) + 1) * 25}%` }}
-                  aria-hidden="true"
-                  className="flex w-1/4 px-4"
-                >
-                  <div className="w-full rounded-t-xl border-x border-t border-gray-900/10 bg-gray-400/5" />
-                </div>
+                {tiers.map((tier, index) => (
+                  <div
+                    key={tier.id}
+                    style={{ marginLeft: `${(index + 1) * 25}%` }}
+                    aria-hidden="true"
+                    className="flex w-1/4 px-4"
+                  >
+                    <div 
+                      className="w-full rounded-t-xl border-x border-t border-gray-900/10" 
+                      style={{ backgroundColor: tier.background }}
+                    />
+                  </div>
+                ))}
               </div>
             ) : null}
             <table className="w-full table-fixed border-separate border-spacing-x-8 text-left">
@@ -150,9 +173,18 @@ export default function Example() {
                   </th>
                   {tiers.map((tier) => (
                     <td key={tier.id} className="px-6 pt-2 xl:px-8">
-                      <div className="flex items-baseline gap-x-1 text-gray-900">
-                        <span className="text-4xl font-semibold">{tier.priceMonthly}</span>
-                        <span className="text-sm font-semibold">/month</span>
+                      <div>
+                        <div className="flex items-baseline gap-x-1 text-gray-900">
+                          <span className="text-4xl font-semibold">{tier.priceYearly}</span>
+                          <span className="text-sm font-semibold">/year</span>
+                        </div>
+                        <p className="mt-1 text-sm text-muted">
+                          or
+                        </p>
+                        <div className="flex items-baseline gap-x-1 text-gray-900">
+                          <span className="text-2xl font-semibold">{tier.priceMonthly}</span>
+                          <span className="text-sm font-semibold">/month</span>
+                        </div>
                       </div>
                       <a
                         href={tier.href}
@@ -163,7 +195,7 @@ export default function Example() {
                           'mt-8 block rounded-md px-3 py-2 text-center text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600',
                         )}
                       >
-                        Buy plan
+                        7-Day Free Trial
                       </a>
                     </td>
                   ))}

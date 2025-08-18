@@ -250,105 +250,161 @@ export default function Example() {
 
 ### Header Section
 - **section_tag**: "Pricing" | **typography**: `eyebrow` *[Options: eyebrow, h2, text-base font-semibold]*
-- **main_title**: "Resources that are always free" | **typography**: `h1 + display-2` *[Options: h1 + display-1, h1 + display-2, h1]*
-- **subtitle**: "All Pilla hospitality resources, glossary terms, and expert articles are completely free to access. No hidden fees, no subscriptions - just professional hospitality knowledge when you need it." | **typography**: `lead` *[Options: lead, subtitle-lg, text-lg]*
+- **main_title**: "Pilla has changed the way we work, for the better" | **typography**: `h1` *[Options: h1 + display-1, h1 + display-2, h1]*
+- **subtitle**: "Becky, Operations Manager, The Pen Factory (3 Sites)" | **typography**: `lead` *[Options: lead, subtitle-lg, text-lg]*
 
 ### Pricing Tiers
-- **tier_1_name**: "Free Access" | **typography**: `text-sm font-semibold`
-- **tier_1_price**: "Free" | **typography**: `text-4xl font-semibold`
-- **tier_1_period**: "Forever" | **typography**: `text-sm font-semibold`
-- **tier_1_href**: "/glossary" 
-- **tier_1_cta**: "Start Browsing" | **typography**: `text-sm font-semibold`
+- **tier_1_name**: "Basic" | **typography**: `text-sm font-semibold`
+- **tier_1_price_yearly**: "£595" | **typography**: `text-4xl font-semibold`
+- **tier_1_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
+- **tier_1_price_monthly**: "$65" | **typography**: `text-2xl font-semibold`
+- **tier_1_period_monthly**: "/month" | **typography**: `text-sm font-semibold`
+- **tier_1_href**: "#" 
+- **tier_1_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_1_popular**: false
+- **tier_1_background**: "#FEC6D4" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
+- **tier_1_border**: "inset-ring-gray-200" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
-- **tier_2_name**: "Pro Support" | **typography**: `text-sm font-semibold`
-- **tier_2_price**: "Contact Us" | **typography**: `text-4xl font-semibold`
-- **tier_2_period**: "For Teams" | **typography**: `text-sm font-semibold`
-- **tier_2_href**: "/contact"
-- **tier_2_cta**: "Get in Touch" | **typography**: `text-sm font-semibold`
+- **tier_2_name**: "Plus" | **typography**: `text-sm font-semibold`
+- **tier_2_price_yearly**: "£695" | **typography**: `text-4xl font-semibold`
+- **tier_2_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
+- **tier_2_price_monthly**: "£75" | **typography**: `text-2xl font-semibold`
+- **tier_2_period_monthly**: "/month" | **typography**: `text-sm font-semibold`
+- **tier_2_href**: "#"
+- **tier_2_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_2_popular**: true
+- **tier_2_background**: "#FFDCB4" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
+- **tier_2_border**: "inset-ring-indigo-200" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
-- **tier_3_name**: "Enterprise" | **typography**: `text-sm font-semibold`
-- **tier_3_price**: "Custom" | **typography**: `text-4xl font-semibold`
-- **tier_3_period**: "Large Organizations" | **typography**: `text-sm font-semibold`
-- **tier_3_href**: "/contact"
-- **tier_3_cta**: "Contact Sales" | **typography**: `text-sm font-semibold`
+- **tier_3_name**: "Pro" | **typography**: `text-sm font-semibold`
+- **tier_3_price_yearly**: "£795" | **typography**: `text-4xl font-semibold`
+- **tier_3_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
+- **tier_3_price_monthly**: "£85" | **typography**: `text-2xl font-semibold`
+- **tier_3_period_monthly**: "/month" | **typography**: `text-sm font-semibold`
+- **tier_3_href**: "#"
+- **tier_3_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_3_popular**: false
+- **tier_3_background**: "#BAEED9" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
+- **tier_3_border**: "inset-ring-blue-200" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
 ### Feature Sections
 
-#### Core Resources Section
-- **section_1_name**: "Core Resources" | **typography**: `text-sm font-semibold`
+#### Shift section
+- **section_1_name**: "Shift scheduling" | **typography**: `text-sm font-semibold`
 
-- **feature_1_1_name**: "Complete Glossary Access" | **typography**: `text-sm font-normal`
-- **feature_1_1_free**: true
-- **feature_1_1_pro**: true  
-- **feature_1_1_enterprise**: true
+- **feature_1_1_name**: "Automatated shift scheduling with templates" | **typography**: `text-sm font-normal`
+- **feature_1_1_basic**: true
+- **feature_1_1_plus**: true  
+- **feature_1_1_pro**: true
 
-- **feature_1_2_name**: "Expert Articles" | **typography**: `text-sm font-normal`
-- **feature_1_2_free**: true
+- **feature_1_2_name**: "Holiday entitlement calculations" | **typography**: `text-sm font-normal`
+- **feature_1_2_basic**: true
+- **feature_1_2_plus**: true  
 - **feature_1_2_pro**: true
-- **feature_1_2_enterprise**: true
 
-- **feature_1_3_name**: "Search Functionality" | **typography**: `text-sm font-normal`
-- **feature_1_3_free**: true
+- **feature_1_3_name**: "Location-based clock-in" | **typography**: `text-sm font-normal`
+- **feature_1_3_basic**: true
+- **feature_1_3_plus**: true  
 - **feature_1_3_pro**: true
-- **feature_1_3_enterprise**: true
 
-- **feature_1_4_name**: "Mobile Access" | **typography**: `text-sm font-normal`
-- **feature_1_4_free**: true
+- **feature_1_4_name**: "Automatic shift adjustment after clock-in" | **typography**: `text-sm font-normal`
+-  **feature_1_4_basic**: false
+- **feature_1_4_plus**: true  
 - **feature_1_4_pro**: true
-- **feature_1_4_enterprise**: true
 
-#### Professional Features Section  
-- **section_2_name**: "Professional Features" | **typography**: `text-sm font-semibold`
+- **feature_1_5_name**: "Push notification shift reminders for staff" | **typography**: `text-sm font-normal`
+- **feature_1_5_basic**: false
+- **feature_1_5_plus**: true  
+- **feature_1_5_pro**: true
 
-- **feature_2_1_name**: "Team Training Materials" | **typography**: `text-sm font-normal`
-- **feature_2_1_free**: false
+- **feature_1_6_name**: "Communicate and leave messages on shifts" | **typography**: `text-sm font-normal`
+- **feature_1_6_basic**: false
+- **feature_1_6_plus**: true  
+- **feature_1_6_pro**: true
+
+- **feature_1_6_name**: "Monday morning round-ups for Managers" | **typography**: `text-sm font-normal`
+- **feature_1_6_basic**: false
+- **feature_1_6_plus**: false  
+- **feature_1_6_pro**: true
+
+- **feature_1_6_name**: "Encouragement and feedback for staff" | **typography**: `text-sm font-normal`
+- **feature_1_6_basic**: false
+- **feature_1_6_plus**: false  
+- **feature_1_6_pro**: true
+
+- **feature_1_6_name**: "Shift history kept on file" | **typography**: `text-sm font-normal`
+- **feature_1_6_basic**: "2 Years"
+- **feature_1_6_plus**: "Forever" 
+- **feature_1_6_pro**: "Forever"
+
+#### Work Section  
+- **section_2_name**: "Work activities" | **typography**: `text-sm font-semibold`
+
+- **feature_2_1_name**: "Build work templates with all elements" | **typography**: `text-sm font-normal`
+- **feature_2_1_basic**: true
+- **feature_2_1_plus**: true  
 - **feature_2_1_pro**: true
-- **feature_2_1_enterprise**: true
 
-- **feature_2_2_name**: "Custom Content Creation" | **typography**: `text-sm font-normal`
-- **feature_2_2_free**: false
-- **feature_2_2_pro**: "Limited"
-- **feature_2_2_enterprise**: "Unlimited"
+- **feature_2_2_name**: "Set repeating work activities" | **typography**: `text-sm font-normal`
+- **feature_2_2_basic**: true
+- **feature_2_2_plus**: true  
+- **feature_2_2_pro**: true
 
-- **feature_2_3_name**: "Industry Consultations" | **typography**: `text-sm font-normal`
-- **feature_2_3_free**: false
-- **feature_2_3_pro**: "Quarterly"
-- **feature_2_3_enterprise**: "Monthly"
+- **feature_2_3_name**: "Highlight issues and corrective actions" | **typography**: `text-sm font-normal`
+- **feature_2_3_basic**: true
+- **feature_2_3_plus**: true  
+- **feature_2_3_pro**: true
 
-- **feature_2_4_name**: "White-label Solutions" | **typography**: `text-sm font-normal`
-- **feature_2_4_free**: false
-- **feature_2_4_pro**: false
-- **feature_2_4_enterprise**: true
+- **feature_2_4_name**: "Automatic shift adjustment after clock-in" | **typography**: `text-sm font-normal`
+-  **feature_2_4_basic**: false
+- **feature_2_4_plus**: true  
+- **feature_2_4_pro**: true
+
+- **feature_2_5_name**: "Push notification reminders for staff" | **typography**: `text-sm font-normal`
+- **feature_2_5_basic**: false
+- **feature_2_5_plus**: true  
+- **feature_2_5_pro**: true
+
+- **feature_2_6_name**: "Communicate and leave messages on work" | **typography**: `text-sm font-normal`
+- **feature_2_6_basic**: false
+- **feature_2_6_plus**: true  
+- **feature_2_6_pro**: true
+
+- **feature_2_6_name**: "Monday morning round-ups for Managers" | **typography**: `text-sm font-normal`
+- **feature_2_6_basic**: false
+- **feature_2_6_plus**: false  
+- **feature_2_6_pro**: true
+
+- **feature_2_6_name**: "Encouragement and feedback for staff" | **typography**: `text-sm font-normal`
+- **feature_2_6_basic**: false
+- **feature_2_6_plus**: false  
+- **feature_2_6_pro**: true
+
+ **feature_2_6_name**: "Work history kept on file" | **typography**: `text-sm font-normal`
+- **feature_2_6_basic**: "2 Years"
+- **feature_2_6_plus**: "Forever" 
+- **feature_2_6_pro**: "Forever"
 
 #### Support Section
-- **section_3_name**: "Support & Updates" | **typography**: `text-sm font-semibold`
+- **section_3_name**: "Support" | **typography**: `text-sm font-semibold`
 
-- **feature_3_1_name**: "Email Support" | **typography**: `text-sm font-normal`
-- **feature_3_1_free**: true
-- **feature_3_1_pro**: true
-- **feature_3_1_enterprise**: true
+- **feature_3_1_name**: "Email support" | **typography**: `text-sm font-normal`
+- **feature_3_1_starter**: true
+- **feature_3_1_growth**: true
+- **feature_3_1_scale**: true
 
-- **feature_3_2_name**: "Priority Support" | **typography**: `text-sm font-normal`
-- **feature_3_2_free**: false
-- **feature_3_2_pro**: true
-- **feature_3_2_enterprise**: true
+- **feature_3_2_name**: "Quarterly workshops/adits" | **typography**: `text-sm font-normal`
+- **feature_3_2_starter**: false
+- **feature_3_2_growth**: true
+- **feature_3_2_scale**: true
 
-- **feature_3_3_name**: "Phone & Video Support" | **typography**: `text-sm font-normal`
-- **feature_3_3_free**: false
-- **feature_3_3_pro**: false
-- **feature_3_3_enterprise**: true
-
-- **feature_3_4_name**: "Dedicated Account Manager" | **typography**: `text-sm font-normal`
-- **feature_3_4_free**: false
-- **feature_3_4_pro**: false
-- **feature_3_4_enterprise**: true
+- **feature_3_3_name**: "Priority phone support" | **typography**: `text-sm font-normal`
+- **feature_3_3_starter**: false
+- **feature_3_3_growth**: false
+- **feature_3_3_scale**: true
 
 ### Styling Options
 - **background**: `bg-main` *[Options: bg-main, bg-white, bg-gray-50]*
-- **popular_tier_highlight**: `bg-gray-400/5` *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50]*
 - **cta_primary_color**: `bg-indigo-600` *[Options: bg-indigo-600, bg-blue-600, bg-green-600]*
 
 ---

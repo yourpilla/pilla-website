@@ -818,7 +818,7 @@ export default function Example() {
 - **announcement_text**: "New glossary terms added" | **typography**: `text-sm font-medium`
 - **announcement_link**: "/glossary"
 - **announcement_link_text**: "See latest terms" | **typography**: `text-sm`
-- **hero_title**: "Gamify your operation so that staff turn up on time and do the right things." | **typography**: `h1` *[Options: display-1, display-2, h1]*
+- **hero_title**: "Turn your hospitality operations into a leaderboard so that staff turn up on time and do the right things." | **typography**: `h1` *[Options: display-1, i'm going tdisplay-2, h1]*
 - **hero_subtitle**: "Schedule shifts, work and communicate in the same app. Company leaderboards and automated feedback will keep your teams motivated to clock in and finish work on time." | **typography**: `lead` *[Options: subtitle-lg, subtitle, lead]*
 - **primary_cta_text**: "Explore Glossary"
 - **primary_cta_link**: "/glossary"
