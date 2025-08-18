@@ -254,7 +254,7 @@ export default function Example() {
 - **subtitle**: "Becky, Operations Manager, The Pen Factory (3 Sites)" | **typography**: `lead` *[Options: lead, subtitle-lg, text-lg]*
 
 ### Pricing Tiers
-- **tier_1_name**: "Basic" | **typography**: `text-sm font-semibold`
+- **tier_1_name**: "Basic" | **typography**: `h2 and centre-aligned'
 - **tier_1_price_yearly**: "£595" | **typography**: `text-4xl font-semibold`
 - **tier_1_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
 - **tier_1_price_monthly**: "£65" | **typography**: `text-2xl font-semibold`
@@ -265,7 +265,7 @@ export default function Example() {
 - **tier_1_background**: "#FEC6D4" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
 - **tier_1_border**: "#FB0071" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
-- **tier_2_name**: "Plus" | **typography**: `text-sm font-semibold`
+- **tier_2_name**: "Plus" | **typography**: `h2 and centre-aligned'
 - **tier_2_price_yearly**: "£695" | **typography**: `text-4xl font-semibold`
 - **tier_2_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
 - **tier_2_price_monthly**: "£75" | **typography**: `text-2xl font-semibold`
@@ -276,7 +276,7 @@ export default function Example() {
 - **tier_2_background**: "#FFDCB4" | *[Options: bg-gray-400/5, bg-indigo-50, bg-blue-50, bg-green-50, bg-purple-50]*
 - **tier_2_border**: "#FF7B00" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
-- **tier_3_name**: "Pro" | **typography**: `text-sm font-semibold`
+- **tier_3_name**: "Pro" | **typography**: `h2 and centre-aligned'
 - **tier_3_price_yearly**: "£795" | **typography**: `text-4xl font-semibold`
 - **tier_3_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
 - **tier_3_price_monthly**: "£85" | **typography**: `text-2xl font-semibold`
@@ -334,8 +334,8 @@ export default function Example() {
 
 - **feature_1_6_name**: "Shift history kept on file" | **typography**: `text-sm font-normal`
 - **feature_1_6_basic**: "2 Years"
-- **feature_1_6_plus**: "Forever" 
-- **feature_1_6_pro**: "Forever"
+- **feature_1_6_plus**: "Forever" **typography**: `text-sm font-normal`
+- **feature_1_6_pro**: "Forever" **typography**: `text-sm font-normal`
 
 #### Work Section  
 - **section_2_name**: "Work activities" | **typography**: `text-sm font-semibold`
@@ -382,8 +382,8 @@ export default function Example() {
 
  **feature_2_6_name**: "Work history kept on file" | **typography**: `text-sm font-normal`
 - **feature_2_6_basic**: "2 Years"
-- **feature_2_6_plus**: "Forever" 
-- **feature_2_6_pro**: "Forever"
+- **feature_2_6_plus**: "Forever" **typography**: `text-sm font-normal`
+- **feature_2_6_pro**: "Forever" **typography**: `text-sm font-normal`
 
 #### Support Section
 - **section_3_name**: "Support" | **typography**: `text-sm font-semibold`
