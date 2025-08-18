@@ -1,60 +1,59 @@
-# Header Template
+# Header Component Template
 
-## Raw React Code from Tailwind
-*Paste your Tailwind Plus header sections here*
+## Raw React Code from Current Header Component
+*Current header component code - working as-is*
 
+```tsx
 'use client'
 
 import { useState } from 'react'
-import { Dialog, DialogPanel, Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/react'
+import Link from 'next/link'
 import {
-  ArrowPathIcon,
+  Dialog,
+  DialogPanel,
+  Disclosure,
+  DisclosureButton,
+  DisclosurePanel,
+  Popover,
+  PopoverButton,
+  PopoverGroup,
+  PopoverPanel,
+} from '@headlessui/react'
+import {
   Bars3Icon,
-  ChartPieIcon,
-  CursorArrowRaysIcon,
-  FingerPrintIcon,
-  SquaresPlusIcon,
   XMarkIcon,
+  BookOpenIcon,
+  DocumentTextIcon,
+  UserGroupIcon,
+  ShieldCheckIcon,
 } from '@heroicons/react/24/outline'
-import { ChevronDownIcon, PhoneIcon, PlayCircleIcon } from '@heroicons/react/20/solid'
+import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
-const products = [
-  { name: 'Analytics', description: 'Get a better understanding of your traffic', href: '#', icon: ChartPieIcon },
-  { name: 'Engagement', description: 'Speak directly to your customers', href: '#', icon: CursorArrowRaysIcon },
-  { name: 'Security', description: 'Your customers’ data will be safe and secure', href: '#', icon: FingerPrintIcon },
-  { name: 'Integrations', description: 'Connect with third-party tools', href: '#', icon: SquaresPlusIcon },
-  { name: 'Automations', description: 'Build strategic funnels that will convert', href: '#', icon: ArrowPathIcon },
-]
-const callsToAction = [
-  { name: 'Watch demo', href: '#', icon: PlayCircleIcon },
-  { name: 'Contact sales', href: '#', icon: PhoneIcon },
-]
-const company = [
-  { name: 'About us', href: '#', description: 'Learn more about our company values and mission to empower others' },
-  { name: 'Careers', href: '#', description: 'Looking for you next career opportunity? See all of our open positions' },
-  {
-    name: 'Support',
-    href: '#',
-    description: 'Get in touch with our dedicated support team or reach out on our community forums',
-  },
-  { name: 'Blog', href: '#', description: 'Read our latest announcements and get perspectives from our team' },
+const resources = [
+  { name: 'Glossary', description: 'Hospitality terms and definitions', href: '/glossary', icon: BookOpenIcon },
+  { name: 'Blog', description: 'Industry insights and guides', href: '/blog', icon: DocumentTextIcon },
+  { name: 'Job Descriptions', description: 'Ready-to-use job templates', href: '/jobs', icon: UserGroupIcon },
+  { name: 'Safety Templates', description: 'Food safety and compliance', href: '/templates', icon: ShieldCheckIcon },
 ]
 
-export default function Example() {
+export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <header className="bg-white">
+    <header className="bg-white border-b border-gray-300" style={{borderColor: 'var(--border)'}}>
       <nav aria-label="Global" className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
         <div className="flex lg:flex-1">
-          <a href="#" className="-m-1.5 p-1.5">
-            <span className="sr-only">Your Company</span>
-            <img
-              alt=""
-              src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-              className="h-8 w-auto"
-            />
-          </a>
+          <Link href="/" className="-m-1.5 p-1.5">
+            <span className="sr-only">Pilla</span>
+            <div className="flex items-center">
+              <img 
+                src="/logo full white 512x512.png" 
+                alt="Pilla Logo" 
+                className="w-8 h-8"
+              />
+              <span className="ml-2 text-xl font-bold text-gray-900">Pilla</span>
+            </div>
+          </Link>
         </div>
         <div className="flex lg:hidden">
           <button
@@ -68,174 +67,133 @@ export default function Example() {
         </div>
         <PopoverGroup className="hidden lg:flex lg:gap-x-12">
           <Popover className="relative">
-            <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
-              Product
+            <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900 focus:outline-none">
+              Resources
               <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
             </PopoverButton>
 
             <PopoverPanel
               transition
-              className="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 overflow-hidden rounded-3xl bg-white shadow-lg outline-1 outline-gray-900/5 transition data-closed:translate-y-1 data-closed:opacity-0 data-enter:duration-200 data-enter:ease-out data-leave:duration-150 data-leave:ease-in"
+              className="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5 transition data-closed:translate-y-1 data-closed:opacity-0 data-enter:duration-200 data-enter:ease-out data-leave:duration-150 data-leave:ease-in"
             >
               <div className="p-4">
-                {products.map((item) => (
+                {resources.map((item) => (
                   <div
                     key={item.name}
                     className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-gray-50"
                   >
                     <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
-                      <item.icon aria-hidden="true" className="size-6 text-gray-600 group-hover:text-indigo-600" />
+                      <item.icon aria-hidden="true" className="size-6 text-gray-600 group-hover:text-blue-600" />
                     </div>
                     <div className="flex-auto">
-                      <a href={item.href} className="block font-semibold text-gray-900">
+                      <Link href={item.href} className="block font-semibold text-gray-900">
                         {item.name}
                         <span className="absolute inset-0" />
-                      </a>
+                      </Link>
                       <p className="mt-1 text-gray-600">{item.description}</p>
                     </div>
                   </div>
                 ))}
               </div>
-              <div className="grid grid-cols-2 divide-x divide-gray-900/5 bg-gray-50">
-                {callsToAction.map((item) => (
-                  <a
-                    key={item.name}
-                    href={item.href}
-                    className="flex items-center justify-center gap-x-2.5 p-3 text-sm/6 font-semibold text-gray-900 hover:bg-gray-100"
-                  >
-                    <item.icon aria-hidden="true" className="size-5 flex-none text-gray-400" />
-                    {item.name}
-                  </a>
-                ))}
-              </div>
             </PopoverPanel>
           </Popover>
 
-          <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Features
-          </a>
-          <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Marketplace
-          </a>
-
-          <Popover className="relative">
-            <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
-              Company
-              <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
-            </PopoverButton>
-
-            <PopoverPanel
-              transition
-              className="absolute left-1/2 z-10 mt-3 w-96 -translate-x-1/2 rounded-3xl bg-white p-4 shadow-lg outline-1 outline-gray-900/5 transition data-closed:translate-y-1 data-closed:opacity-0 data-enter:duration-200 data-enter:ease-out data-leave:duration-150 data-leave:ease-in"
-            >
-              {company.map((item) => (
-                <div key={item.name} className="relative rounded-lg p-4 hover:bg-gray-50">
-                  <a href={item.href} className="block text-sm/6 font-semibold text-gray-900">
-                    {item.name}
-                    <span className="absolute inset-0" />
-                  </a>
-                  <p className="mt-1 text-sm/6 text-gray-600">{item.description}</p>
-                </div>
-              ))}
-            </PopoverPanel>
-          </Popover>
+          <Link href="/about" className="text-sm/6 font-semibold text-gray-900">
+            About
+          </Link>
+          <Link href="/pricing" className="text-sm/6 font-semibold text-gray-900">
+            Pricing
+          </Link>
+          <Link href="/contact" className="text-sm/6 font-semibold text-gray-900">
+            Contact
+          </Link>
         </PopoverGroup>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          <a href="#" className="text-sm/6 font-semibold text-gray-900">
-            Log in <span aria-hidden="true">&rarr;</span>
-          </a>
+          <Link href="/demo" className="btn">
+            Book Demo
+          </Link>
         </div>
       </nav>
       <Dialog open={mobileMenuOpen} onClose={setMobileMenuOpen} className="lg:hidden">
-        <div className="fixed inset-0 z-10" />
-        <DialogPanel className="fixed inset-y-0 right-0 z-10 flex w-full flex-col justify-between overflow-y-auto bg-white sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
-          <div className="p-6">
-            <div className="flex items-center justify-between">
-              <a href="#" className="-m-1.5 p-1.5">
-                <span className="sr-only">Your Company</span>
-                <img
-                  alt=""
-                  src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-                  className="h-8 w-auto"
+        <div className="fixed inset-0 z-50" />
+        <DialogPanel className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white p-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
+          <div className="flex items-center justify-between">
+            <Link href="/" className="-m-1.5 p-1.5">
+              <span className="sr-only">Pilla</span>
+              <div className="flex items-center">
+                <img 
+                  src="/logo full white 512x512.png" 
+                  alt="Pilla Logo" 
+                  className="w-8 h-8"
                 />
-              </a>
-              <button
-                type="button"
-                onClick={() => setMobileMenuOpen(false)}
-                className="-m-2.5 rounded-md p-2.5 text-gray-700"
-              >
-                <span className="sr-only">Close menu</span>
-                <XMarkIcon aria-hidden="true" className="size-6" />
-              </button>
-            </div>
-            <div className="mt-6 flow-root">
-              <div className="-my-6 divide-y divide-gray-500/10">
-                <div className="space-y-2 py-6">
-                  {products.map((item) => (
-                    <a
-                      key={item.name}
-                      href={item.href}
-                      className="group -mx-3 flex items-center gap-x-6 rounded-lg p-3 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                    >
-                      <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
-                        <item.icon aria-hidden="true" className="size-6 text-gray-600 group-hover:text-indigo-600" />
-                      </div>
-                      {item.name}
-                    </a>
-                  ))}
-                </div>
-                <div className="space-y-2 py-6">
-                  <a
-                    href="#"
-                    className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                  >
-                    Features
-                  </a>
-                  <a
-                    href="#"
-                    className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                  >
-                    Marketplace
-                  </a>
-
-                  {company.map((item) => (
-                    <a
-                      key={item.name}
-                      href={item.href}
-                      className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                    >
-                      {item.name}
-                    </a>
-                  ))}
-                </div>
-                <div className="py-6">
-                  <a
-                    href="#"
-                    className="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                  >
-                    Log in
-                  </a>
-                </div>
+                <span className="ml-2 text-xl font-bold text-gray-900">Pilla</span>
+              </div>
+            </Link>
+            <button
+              type="button"
+              onClick={() => setMobileMenuOpen(false)}
+              className="-m-2.5 rounded-md p-2.5 text-gray-700"
+            >
+              <span className="sr-only">Close menu</span>
+              <XMarkIcon aria-hidden="true" className="size-6" />
+            </button>
+          </div>
+          <div className="mt-6 flow-root">
+            <div className="-my-6 divide-y divide-gray-500/10">
+              <div className="space-y-2 py-6">
+                <Disclosure as="div" className="-mx-3">
+                  <DisclosureButton className="group flex w-full items-center justify-between rounded-lg py-2 pr-3.5 pl-3 text-base/7 font-semibold text-gray-900 hover:bg-gray-50">
+                    Resources
+                    <ChevronDownIcon aria-hidden="true" className="size-5 flex-none group-data-open:rotate-180" />
+                  </DisclosureButton>
+                  <DisclosurePanel className="mt-2 space-y-2">
+                    {resources.map((item) => (
+                      <DisclosureButton
+                        key={item.name}
+                        as={Link}
+                        href={item.href}
+                        className="block rounded-lg py-2 pr-3 pl-6 text-sm/7 font-semibold text-gray-900 hover:bg-gray-50"
+                      >
+                        {item.name}
+                      </DisclosureButton>
+                    ))}
+                  </DisclosurePanel>
+                </Disclosure>
+                <Link
+                  href="/about"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                >
+                  About
+                </Link>
+                <Link
+                  href="/pricing"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                >
+                  Pricing
+                </Link>
+                <Link
+                  href="/contact"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                >
+                  Contact
+                </Link>
+              </div>
+              <div className="py-6">
+                <Link
+                  href="/demo"
+                  className="btn"
+                >
+                  Book Demo
+                </Link>
               </div>
             </div>
-          </div>
-          <div className="sticky bottom-0 grid grid-cols-2 divide-x divide-gray-900/5 bg-gray-50 text-center">
-            {callsToAction.map((item) => (
-              <a
-                key={item.name}
-                href={item.href}
-                className="p-3 text-base/7 font-semibold text-gray-900 hover:bg-gray-100"
-              >
-                {item.name}
-              </a>
-            ))}
           </div>
         </DialogPanel>
       </Dialog>
     </header>
   )
 }
-
+```
 
 ---
 
@@ -260,63 +218,85 @@ export default function Example() {
 
 ## Content & Typography Forms
 
-### Basic Header
-- **company_name**: "Pilla" | **typography**: `sr-only`
-- **company_logo**: "/logo full white 512x512.png" | **logo_size**: `h-8 w-auto`
-- **background**: `bg-main` *[Options: bg-main, bg-white, bg-gray-50]*
+### Brand & Logo Section
+- **logo_src**: "/logo full white 512x512.png" | *Logo image path*
+- **logo_alt**: "Pilla Logo" | *Alt text for logo image*
+- **brand_name**: "Pilla" | **typography**: `text-xl font-bold text-gray-900` | *Company name displayed next to logo*
+- **brand_href**: "/" | *Link destination for logo/brand*
+- **sr_only_text**: "Pilla" | *Screen reader text for logo link*
 
-### Main Navigation Links (Desktop)
-- **nav_link_1**: "Resources" | **href**: "/blog" | **typography**: `text-sm font-semibold` *[Options: text-sm font-semibold, text-base font-medium]*
-- **nav_link_2**: "Glossary" | **href**: "/glossary" | **typography**: `text-sm font-semibold`
-- **nav_link_3**: "About" | **href**: "/about" | **typography**: `text-sm font-semibold`
+### Header Styling
+- **header_background**: "bg-white" | *Header background color class* *[Options: bg-white, bg-gray-50, bg-main]*
+- **border_style**: "border-b border-gray-300" | *Header border styling*
+- **border_color**: "var(--border)" | *Header border color* *[Options: var(--border), border-gray-300, border-gray-200]*
 
-### Product Dropdown Menu
-- **dropdown_title**: "Resources" | **typography**: `text-sm font-semibold`
-- **product_1_name**: "Glossary Terms" | **href**: "/glossary" | **typography**: `font-semibold`
-- **product_1_description**: "Complete hospitality terminology with definitions and context" | **typography**: `text-gray-600`
-- **product_1_icon**: `ChartPieIcon` *[Options: ChartPieIcon, CursorArrowRaysIcon, FingerPrintIcon]*
-- **product_2_name**: "Industry Articles" | **href**: "/blog" | **typography**: `font-semibold`
-- **product_2_description**: "Expert insights and practical guides for hospitality professionals" | **typography**: `text-gray-600`
-- **product_2_icon**: `CursorArrowRaysIcon`
-- **product_3_name**: "Quick Search" | **href**: "/search" | **typography**: `font-semibold`
-- **product_3_description**: "Find any hospitality term instantly with smart search" | **typography**: `text-gray-600`
-- **product_3_icon**: `FingerPrintIcon`
+### Primary Navigation Links
+- **nav_about_text**: "About" | **typography**: `text-sm/6 font-semibold text-gray-900` | *About page link text*
+- **nav_about_href**: "/about" | *About page URL*
 
-### Dropdown Call-to-Actions
-- **cta_1_name**: "Browse Glossary" | **href**: "/glossary" | **typography**: `text-sm font-semibold`
-- **cta_1_icon**: `PlayCircleIcon`
-- **cta_2_name**: "Contact Us" | **href**: "/contact" | **typography**: `text-sm font-semibold`
-- **cta_2_icon**: `PhoneIcon`
+- **nav_pricing_text**: "Pricing" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Pricing page link text*
+- **nav_pricing_href**: "/pricing" | *Pricing page URL*
 
-### Company Dropdown Menu
-- **company_dropdown_title**: "About" | **typography**: `text-sm font-semibold`
-- **company_1_name**: "About Pilla" | **href**: "/about" | **typography**: `text-sm font-semibold`
-- **company_1_description**: "Learn about our mission to support hospitality professionals with accurate resources" | **typography**: `text-sm text-gray-600`
-- **company_2_name**: "Contact" | **href**: "/contact" | **typography**: `text-sm font-semibold`
-- **company_2_description**: "Get in touch with questions, suggestions, or partnership opportunities" | **typography**: `text-sm text-gray-600`
-- **company_3_name**: "Blog" | **href**: "/blog" | **typography**: `text-sm font-semibold`
-- **company_3_description**: "Read the latest insights and updates from hospitality industry experts" | **typography**: `text-sm text-gray-600`
+- **nav_contact_text**: "Contact" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Contact page link text*
+- **nav_contact_href**: "/contact" | *Contact page URL*
 
-### Right Side CTA
-- **login_text**: "Contact Us" | **href**: "/contact" | **typography**: `text-sm font-semibold`
-- **login_arrow**: "&rarr;" *[Options: →, &rarr;, none]*
+### Resources Dropdown Section
+- **dropdown_title**: "Resources" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Dropdown menu title*
 
-### Mobile Menu
-- **mobile_background**: `bg-white` *[Options: bg-white, bg-main, bg-gray-50]*
-- **mobile_nav_typography**: `text-base font-semibold` *[Options: text-base font-semibold, text-lg font-medium]*
-- **mobile_cta_background**: `bg-gray-50` *[Options: bg-gray-50, bg-main, bg-white]*
+#### Resource Item 1 (Glossary)
+- **resource_1_name**: "Glossary" | **typography**: `font-semibold text-gray-900` | *Resource name*
+- **resource_1_description**: "Hospitality terms and definitions" | **typography**: `text-gray-600` | *Resource description*
+- **resource_1_href**: "/glossary" | *Resource URL*
+- **resource_1_icon**: "BookOpenIcon" | *Heroicon component name* *[Options: BookOpenIcon, DocumentTextIcon, UserGroupIcon, ShieldCheckIcon]*
+
+#### Resource Item 2 (Blog)
+- **resource_2_name**: "Blog" | **typography**: `font-semibold text-gray-900` | *Resource name*
+- **resource_2_description**: "Industry insights and guides" | **typography**: `text-gray-600` | *Resource description*
+- **resource_2_href**: "/blog" | *Resource URL*
+- **resource_2_icon**: "DocumentTextIcon" | *Heroicon component name*
+
+#### Resource Item 3 (Job Descriptions)
+- **resource_3_name**: "Job Descriptions" | **typography**: `font-semibold text-gray-900` | *Resource name*
+- **resource_3_description**: "Ready-to-use job templates" | **typography**: `text-gray-600` | *Resource description*
+- **resource_3_href**: "/jobs" | *Resource URL*
+- **resource_3_icon**: "UserGroupIcon" | *Heroicon component name*
+
+#### Resource Item 4 (Safety Templates)
+- **resource_4_name**: "Safety Templates" | **typography**: `font-semibold text-gray-900` | *Resource name*
+- **resource_4_description**: "Food safety and compliance" | **typography**: `text-gray-600` | *Resource description*
+- **resource_4_href**: "/templates" | *Resource URL*
+- **resource_4_icon**: "ShieldCheckIcon" | *Heroicon component name*
+
+### Call-to-Action Button
+- **cta_text**: "Book Demo" | **typography**: `btn` | *CTA button text*
+- **cta_href**: "/demo" | *CTA button destination URL*
+- **cta_style**: "btn" | *CSS class for button styling* *[Options: btn, text-sm/6 font-semibold, custom]*
+
+### Mobile Menu Configuration
+- **mobile_menu_sr_text**: "Open main menu" | *Screen reader text for mobile menu button*
+- **mobile_close_sr_text**: "Close menu" | *Screen reader text for mobile close button*
+- **mobile_background**: "bg-white" | *Mobile menu background* *[Options: bg-white, bg-gray-50, bg-main]*
+- **mobile_nav_typography**: "text-base/7 font-semibold text-gray-900" | *Mobile navigation text styling*
+
+### Dropdown Styling
+- **dropdown_background**: "bg-white" | *Dropdown panel background* *[Options: bg-white, bg-gray-50]*
+- **dropdown_shadow**: "shadow-lg ring-1 ring-gray-900/5" | *Dropdown shadow and border*
+- **dropdown_hover**: "hover:bg-gray-50" | *Dropdown item hover color* *[Options: hover:bg-gray-50, hover:bg-blue-50]*
+- **icon_color**: "text-gray-600 group-hover:text-blue-600" | *Icon colors and hover states*
 
 ---
 
 ## Instructions:
-1. Paste your raw Tailwind Plus header code above
-2. I'll analyze it and create content + typography forms
-3. You'll fill out the forms with your content and styling preferences
-4. I'll generate the final header component
+1. Raw React code above shows current header implementation
+2. Use the content forms to customize navigation items, links, and text
+3. Modify resource dropdown items (name, description, URL, icon)
+4. Update brand logo, CTA button text and styling
+5. Adjust colors and styling using the styling options
+6. Typography classes can be customized for each text element
 
 ---
 
-## Final React Component Location
+## Final Component Location
 **The processed code will be deployed to:** `/src/components/Header.tsx`
 
 *This template file remains as a working document with original code and forms for reference*
