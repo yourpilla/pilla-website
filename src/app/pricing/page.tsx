@@ -125,20 +125,6 @@ export default function Example() {
         {/* lg+ */}
         <div className="isolate mt-20 hidden lg:block">
           <div className="relative -mx-8">
-            {tiers.some((tier) => tier.mostPopular) ? (
-              <div className="absolute inset-x-4 inset-y-0 -z-10 flex">
-                {tiers.map((tier, index) => (
-                  <div
-                    key={tier.id}
-                    style={{ marginLeft: `${(index + 1) * 25}%` }}
-                    aria-hidden="true"
-                    className="flex w-1/4 px-4"
-                  >
-                    <div className={`w-full rounded-t-xl border-x border-t border-gray-900/10 ${tier.background}`} />
-                  </div>
-                ))}
-              </div>
-            ) : null}
             <table className="w-full table-fixed border-separate border-spacing-x-8 text-left">
               <caption className="sr-only">Pricing plan comparison</caption>
               <colgroup>
@@ -151,7 +137,7 @@ export default function Example() {
                 <tr>
                   <td />
                   {tiers.map((tier) => (
-                    <th key={tier.id} scope="col" className={`px-6 pt-6 xl:px-8 xl:pt-8 ${tier.background}`}>
+                    <th key={tier.id} scope="col" className={`px-6 pt-6 xl:px-8 xl:pt-8 ${tier.background} rounded-t-xl`}>
                       <div className="text-sm font-semibold text-gray-900">{tier.name}</div>
                     </th>
                   ))}
@@ -163,7 +149,7 @@ export default function Example() {
                     <span className="sr-only">Price</span>
                   </th>
                   {tiers.map((tier) => (
-                    <td key={tier.id} className={`px-6 pt-2 xl:px-8 ${tier.background}`}>
+                    <td key={tier.id} className={`px-6 pt-2 pb-4 xl:px-8 ${tier.background}`}>
                       <div>
                         <div className="flex items-baseline gap-x-1 text-gray-900">
                           <span className="text-4xl font-semibold">{tier.priceYearly}</span>
@@ -179,7 +165,7 @@ export default function Example() {
                       </div>
                       <a
                         href={tier.href}
-                        className="btn mt-8 block text-center"
+                        className="btn mt-4 mb-0 block text-center"
                       >
                         7-Day Free Trial
                       </a>
@@ -208,7 +194,7 @@ export default function Example() {
                           <div className="absolute inset-x-8 mt-4 h-px bg-gray-900/5" />
                         </th>
                         {tiers.map((tier) => (
-                          <td key={tier.id} className={`px-6 py-4 xl:px-8 ${tier.background}`}>
+                          <td key={tier.id} className={`px-6 py-4 xl:px-8 ${tier.background} last:rounded-b-xl`}>
                             {typeof feature.tiers[tier.name] === 'string' ? (
                               <div className="text-center text-sm text-muted">{feature.tiers[tier.name]}</div>
                             ) : (
