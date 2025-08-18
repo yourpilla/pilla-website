@@ -1,5 +1,75 @@
 # How It Works Page Template
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "How Pilla Works - Hospitality Management Software Guide" | *Page title for SEO and browser tab*
+- **slug**: "how-it-works" | *URL slug for the page*
+- **meta**: "Discover how Pilla's hospitality management software works. Learn about shift scheduling, work activities, and team management features in our step-by-step guide." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "How Pilla Works - Complete Hospitality Management Guide" | *SEO optimized title tag*
+- **unique_id**: "how-it-works-2025" | *Unique identifier for this page*
+- **featured**: false | *Whether this page should be featured*
+- **category**: "Guide" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "How It Works" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Product" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+### Structured Data (JSON-LD Schema)
+- **how_to_schema**: | *Schema.org HowTo markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Use Pilla Hospitality Management Software",
+  "description": "Learn how to use Pilla's features for shift scheduling, work activities, and team management",
+  "url": "https://yourpilla.com/how-it-works",
+  "inLanguage": "en-GB",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Set Up Your Account",
+      "text": "Sign up and configure your hospitality business settings"
+    },
+    {
+      "@type": "HowToStep", 
+      "name": "Schedule Shifts",
+      "text": "Create and manage staff shifts with automated scheduling"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Manage Work Activities", 
+      "text": "Assign and track work tasks and activities"
+    }
+  ]
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "How It Works",
+      "item": "https://yourpilla.com/how-it-works"
+    }
+  ]
+}
+```
+
+---
+
 ## Raw React Code Based on Glossary [term] Format
 *How it works page code - adapted from glossary term structure*
 

@@ -1,5 +1,71 @@
 # Homepage Template
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "Pilla - Hospitality Management Software" | *Page title for SEO and browser tab*
+- **slug**: "" | *URL slug for the page (empty for homepage)*
+- **meta**: "Transform your hospitality operations with Pilla's shift scheduling, work activities, and team management platform. Gamify your workplace and keep staff motivated." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "Pilla - Hospitality Management Software for Restaurants & Hotels" | *SEO optimized title tag*
+- **unique_id**: "homepage-2025" | *Unique identifier for this page*
+- **featured**: true | *Whether this page should be featured*
+- **category**: "Homepage" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "Home" | *Short text for breadcrumb navigation*
+- **pillar_text**: "" | *Parent section name (empty for homepage)*
+- **pillar_link**: "" | *Link to parent section (empty for homepage)*
+
+### Structured Data (JSON-LD Schema)
+- **organization_schema**: | *Schema.org Organization markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Pilla",
+  "description": "Hospitality management software for shift scheduling, work activities, and team management",
+  "url": "https://yourpilla.com",
+  "logo": "https://yourpilla.com/logo.png",
+  "sameAs": [
+    "https://twitter.com/yourpilla",
+    "https://linkedin.com/company/yourpilla"
+  ]
+}
+```
+
+- **website_schema**: | *Schema.org WebSite markup with search action*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Pilla",
+  "url": "https://yourpilla.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://yourpilla.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    }
+  ]
+}
+```
+
+---
+
 ## Raw React Code from Tailwind
 *Complete original Tailwind Plus sections*
 

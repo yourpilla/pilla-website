@@ -246,6 +246,89 @@ export default function Example() {
 
 ---
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "Pilla Pricing Plans" | *Page title for SEO and browser tab*
+- **slug**: "pricing" | *URL slug for the page*
+- **meta**: "Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic, Plus, and Pro plans with 7-day free trials." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "Pilla Pricing - Hospitality Management Software Plans" | *SEO optimized title tag*
+- **unique_id**: "pricing-page-2025" | *Unique identifier for this page*
+- **featured**: true | *Whether this page should be featured*
+- **category**: "Pricing" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "Pricing" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Product" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+### Structured Data (JSON-LD Schema)
+- **product_schema**: | *Schema.org Product markup with pricing offers*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Pilla Hospitality Management Software",
+  "description": "Comprehensive hospitality management platform for shift scheduling, work activities, and team management",
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Basic Plan",
+      "price": "65",
+      "priceCurrency": "GBP",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "billingIncrement": "P1M"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Plus Plan", 
+      "price": "75",
+      "priceCurrency": "GBP",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "billingIncrement": "P1M"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Pro Plan",
+      "price": "85", 
+      "priceCurrency": "GBP",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "billingIncrement": "P1M"
+      }
+    }
+  ]
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    },
+    {
+      "@type": "ListItem", 
+      "position": 2,
+      "name": "Pricing",
+      "item": "https://yourpilla.com/pricing"
+    }
+  ]
+}
+```
+
+---
+
 ## Content & Typography Forms
 
 ### Header Section

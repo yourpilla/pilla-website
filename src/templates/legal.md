@@ -1,5 +1,67 @@
 # Legal Pillar Page Template
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "Legal Documents & Policies | Pilla" | *Page title for SEO and browser tab*
+- **slug**: "legal" | *URL slug for the page*
+- **meta**: "Pilla's legal documents including privacy policy, terms of service, and data protection policies. Transparent legal information for our users." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "Legal Documents & Privacy Policies - Pilla" | *SEO optimized title tag*
+- **unique_id**: "legal-pillar-2025" | *Unique identifier for this page*
+- **featured**: false | *Whether this page should be featured*
+- **category**: "Legal" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "Legal" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Company" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+### Structured Data (JSON-LD Schema)
+- **legal_schema**: | *Schema.org WebPage markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Legal Documents",
+  "description": "Legal documents and policies for Pilla hospitality management software",
+  "url": "https://yourpilla.com/legal",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pilla",
+    "url": "https://yourpilla.com"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Legal Information"
+  }
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Legal",
+      "item": "https://yourpilla.com/legal"
+    }
+  ]
+}
+```
+
+---
+
 ## Raw React Code from Tailwind
 *Paste your Tailwind Plus legal sections here*
 

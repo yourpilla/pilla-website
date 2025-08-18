@@ -1,6 +1,23 @@
 import { Fragment } from 'react'
 import { CheckCircleIcon, MinusIcon } from '@heroicons/react/20/solid'
 
+// SEO Metadata
+export const metadata = {
+  title: 'Pilla Pricing - Hospitality Management Software Plans',
+  description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic, Plus, and Pro plans with 7-day free trials.',
+  openGraph: {
+    title: 'Pilla Pricing Plans',
+    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic, Plus, and Pro plans with 7-day free trials.',
+    url: 'https://yourpilla.com/pricing',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Pilla Pricing Plans',
+    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic, Plus, and Pro plans with 7-day free trials.',
+  },
+}
+
 const tiers = [
   { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '£65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: '#FB0071' },
   { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: 'bg-orange-100', border: '#FF7B00' },
@@ -53,7 +70,78 @@ function classNames(...classes: (string | undefined | null | false)[]): string {
 
 export default function Example() {
   return (
-    <div className="bg-main py-24 sm:py-32">
+    <>
+      {/* JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Pilla Hospitality Management Software",
+            "description": "Comprehensive hospitality management platform for shift scheduling, work activities, and team management",
+            "offers": [
+              {
+                "@type": "Offer",
+                "name": "Basic Plan",
+                "price": "65",
+                "priceCurrency": "GBP",
+                "priceSpecification": {
+                  "@type": "UnitPriceSpecification",
+                  "billingIncrement": "P1M"
+                }
+              },
+              {
+                "@type": "Offer",
+                "name": "Plus Plan",
+                "price": "75",
+                "priceCurrency": "GBP",
+                "priceSpecification": {
+                  "@type": "UnitPriceSpecification",
+                  "billingIncrement": "P1M"
+                }
+              },
+              {
+                "@type": "Offer",
+                "name": "Pro Plan",
+                "price": "85",
+                "priceCurrency": "GBP",
+                "priceSpecification": {
+                  "@type": "UnitPriceSpecification",
+                  "billingIncrement": "P1M"
+                }
+              }
+            ]
+          })
+        }}
+      />
+      
+      {/* Breadcrumb Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://yourpilla.com"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Pricing",
+                "item": "https://yourpilla.com/pricing"
+              }
+            ]
+          })
+        }}
+      />
+
+      <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
           <h2 className="eyebrow">Pilla Pricing</h2>
@@ -232,6 +320,7 @@ export default function Example() {
           </div>
         </div>
       </div>
-    </div>
+      </div>
+    </>
   )
 }

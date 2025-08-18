@@ -1,5 +1,63 @@
 # About Page Template
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "About Pilla - Hospitality Management Software" | *Page title for SEO and browser tab*
+- **slug**: "about" | *URL slug for the page*
+- **meta**: "Learn about Pilla's mission to transform hospitality operations through innovative shift scheduling, work activities, and team management solutions." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "About Pilla - Hospitality Management Software Company" | *SEO optimized title tag*
+- **unique_id**: "about-page-2025" | *Unique identifier for this page*
+- **featured**: false | *Whether this page should be featured*
+- **category**: "About" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "About" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Company" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+### Structured Data (JSON-LD Schema)
+- **about_page_schema**: | *Schema.org AboutPage markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About Pilla",
+  "description": "Learn about Pilla's mission to transform hospitality operations through innovative management solutions",
+  "url": "https://yourpilla.com/about",
+  "inLanguage": "en-GB",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Pilla",
+    "url": "https://yourpilla.com"
+  }
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "About",
+      "item": "https://yourpilla.com/about"
+    }
+  ]
+}
+```
+
+---
+
 ## Raw React Code Based on Glossary [term] Format
 *About page code - adapted from glossary term structure*
 

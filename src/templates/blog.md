@@ -1,5 +1,63 @@
 # Blog Pillar Page Template
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "Pilla Blog - Hospitality Management Insights & Tips" | *Page title for SEO and browser tab*
+- **slug**: "blog" | *URL slug for the page*
+- **meta**: "Expert insights on hospitality management, shift scheduling, team leadership, and restaurant operations. Read the latest tips from Pilla's hospitality experts." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "Hospitality Management Blog - Expert Tips & Insights | Pilla" | *SEO optimized title tag*
+- **unique_id**: "blog-pillar-2025" | *Unique identifier for this page*
+- **featured**: true | *Whether this page should be featured*
+- **category**: "Blog" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "Blog" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Resources" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+### Structured Data (JSON-LD Schema)
+- **blog_schema**: | *Schema.org Blog markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Pilla Blog",
+  "description": "Expert insights on hospitality management, shift scheduling, and restaurant operations",
+  "url": "https://yourpilla.com/blog",
+  "inLanguage": "en-GB",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pilla",
+    "url": "https://yourpilla.com"
+  }
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "https://yourpilla.com/blog"
+    }
+  ]
+}
+```
+
+---
+
 ## Raw React Code from Tailwind
 *Paste your Tailwind Plus blog sections here*
 

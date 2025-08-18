@@ -1,5 +1,63 @@
 # Glossary Pillar Page Template
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "Hospitality Glossary - Terms & Definitions | Pilla" | *Page title for SEO and browser tab*
+- **slug**: "glossary" | *URL slug for the page*
+- **meta**: "Comprehensive glossary of hospitality industry terms and definitions. From chef roles to restaurant operations - learn the language of hospitality with Pilla." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "Complete Hospitality Glossary - Industry Terms & Definitions" | *SEO optimized title tag*
+- **unique_id**: "glossary-pillar-2025" | *Unique identifier for this page*
+- **featured**: true | *Whether this page should be featured*
+- **category**: "Glossary" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "Glossary" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Resources" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+### Structured Data (JSON-LD Schema)
+- **glossary_schema**: | *Schema.org DefinedTermSet markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "name": "Hospitality Industry Glossary",
+  "description": "Comprehensive collection of hospitality industry terms and definitions",
+  "url": "https://yourpilla.com/glossary",
+  "inLanguage": "en-GB",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pilla",
+    "url": "https://yourpilla.com"
+  }
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Glossary",
+      "item": "https://yourpilla.com/glossary"
+    }
+  ]
+}
+```
+
+---
+
 ## Raw React Code from Existing Page
 *Current glossary page code - working as-is*
 

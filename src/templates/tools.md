@@ -1,5 +1,65 @@
 # Tools Pillar Page Template
 
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "Free Hospitality Tools & Calculators | Pilla" | *Page title for SEO and browser tab*
+- **slug**: "tools" | *URL slug for the page*
+- **meta**: "Free hospitality management tools and calculators for restaurants and hotels. Menu pricing, staff scheduling, cost analysis and more professional tools." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "Free Hospitality Management Tools & Calculators - Pilla" | *SEO optimized title tag*
+- **unique_id**: "tools-pillar-2025" | *Unique identifier for this page*
+- **featured**: true | *Whether this page should be featured*
+- **category**: "Tools" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "Tools" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Resources" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+### Structured Data (JSON-LD Schema)
+- **tools_schema**: | *Schema.org WebApplication markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Pilla Hospitality Tools",
+  "description": "Collection of free hospitality management tools and calculators",
+  "url": "https://yourpilla.com/tools",
+  "inLanguage": "en-GB",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web Browser",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "GBP"
+  }
+}
+```
+
+- **breadcrumb_schema**: | *Schema.org BreadcrumbList markup*
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://yourpilla.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Tools",
+      "item": "https://yourpilla.com/tools"
+    }
+  ]
+}
+```
+
+---
+
 ## Raw React Code from Tailwind
 *Paste your Tailwind Plus tools sections here*
 
