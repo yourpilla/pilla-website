@@ -151,7 +151,7 @@ export default function Example() {
                 <tr>
                   <td />
                   {tiers.map((tier) => (
-                    <th key={tier.id} scope="col" className="px-6 pt-6 xl:px-8 xl:pt-8">
+                    <th key={tier.id} scope="col" className={`px-6 pt-6 xl:px-8 xl:pt-8 ${tier.background}`}>
                       <div className="text-sm font-semibold text-gray-900">{tier.name}</div>
                     </th>
                   ))}
@@ -163,7 +163,7 @@ export default function Example() {
                     <span className="sr-only">Price</span>
                   </th>
                   {tiers.map((tier) => (
-                    <td key={tier.id} className="px-6 pt-2 xl:px-8">
+                    <td key={tier.id} className={`px-6 pt-2 xl:px-8 ${tier.background}`}>
                       <div>
                         <div className="flex items-baseline gap-x-1 text-gray-900">
                           <span className="text-4xl font-semibold">{tier.priceYearly}</span>
@@ -208,7 +208,7 @@ export default function Example() {
                           <div className="absolute inset-x-8 mt-4 h-px bg-gray-900/5" />
                         </th>
                         {tiers.map((tier) => (
-                          <td key={tier.id} className="px-6 py-4 xl:px-8">
+                          <td key={tier.id} className={`px-6 py-4 xl:px-8 ${tier.background}`}>
                             {typeof feature.tiers[tier.name] === 'string' ? (
                               <div className="text-center text-sm text-muted">{feature.tiers[tier.name]}</div>
                             ) : (
