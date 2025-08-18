@@ -79,11 +79,11 @@ export default function Example() {
                 {tier.name}
               </h2>
               <div className="mt-2">
-                <h2 className="flex items-baseline gap-x-1 text-gray-900">
+                <h3 className="flex items-baseline gap-x-1 text-gray-900">
                   <span>{tier.priceYearly}</span>
                   <span>/year</span>
-                </h2>
-                <p className="mt-1 mb-1 text-sm font-normal text-gray-900">
+                </h3>
+                <p className="mt-0.5 mb-0.5 text-sm font-normal text-gray-900">
                   or
                 </p>
                 <h4 className="flex items-baseline gap-x-1 text-gray-900">
@@ -152,11 +152,11 @@ export default function Example() {
                   {tiers.map((tier) => (
                     <td key={tier.id} className={`px-6 pt-2 pb-4 xl:px-8 ${tier.background} border-l-2 border-r-2`} style={{ borderColor: tier.border }}>
                       <div>
-                        <h2 className="flex items-baseline gap-x-1 text-gray-900">
+                        <h3 className="flex items-baseline gap-x-1 text-gray-900">
                           <span>{tier.priceYearly}</span>
                           <span>/year</span>
-                        </h2>
-                        <p className="mt-1 mb-1 text-sm font-normal text-gray-900">
+                        </h3>
+                        <p className="mt-0.5 mb-0.5 text-sm font-normal text-gray-900">
                           or
                         </p>
                         <h4 className="flex items-baseline gap-x-1 text-gray-900">
