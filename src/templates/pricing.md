@@ -255,10 +255,10 @@ export default function Example() {
 
 ### Pricing Tiers
 - **tier_1_name**: "Basic" | **typography**: `h2 and centre-aligned'
-- **tier_1_price_yearly**: "£595" | **typography**: `text-4xl font-semibold`
-- **tier_1_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
-- **tier_1_price_monthly**: "£65" | **typography**: `text-2xl font-semibold`
-- **tier_1_period_monthly**: "/month" | **typography**: `text-sm font-semibold`
+- **tier_1_price_yearly**: "£595" | **typography**: `h2`
+- **tier_1_period_yearly**: "/year" | **typography**: `h2`
+- **tier_1_price_monthly**: "£65" | **typography**: `h4`
+- **tier_1_period_monthly**: "/month" | **typography**: 'h4`
 - **tier_1_href**: "#" 
 - **tier_1_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_1_popular**: false
@@ -266,10 +266,10 @@ export default function Example() {
 - **tier_1_border**: "#FB0071" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
 - **tier_2_name**: "Plus" | **typography**: `h2 and centre-aligned'
-- **tier_2_price_yearly**: "£695" | **typography**: `text-4xl font-semibold`
-- **tier_2_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
-- **tier_2_price_monthly**: "£75" | **typography**: `text-2xl font-semibold`
-- **tier_2_period_monthly**: "/month" | **typography**: `text-sm font-semibold`
+- **tier_2_price_yearly**: "£695" | **typography**: `h2`
+- **tier_2_period_yearly**: "/year" | **typography**: `h2`
+- **tier_2_price_monthly**: "£75" | **typography**: 'h4`
+- **tier_2_period_monthly**: "/month" | **typography**: 'h4`
 - **tier_2_href**: "#"
 - **tier_2_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_2_popular**: true
@@ -277,10 +277,10 @@ export default function Example() {
 - **tier_2_border**: "#FF7B00" | *[Options: inset-ring-gray-200, inset-ring-indigo-200, inset-ring-blue-200]*
 
 - **tier_3_name**: "Pro" | **typography**: `h2 and centre-aligned'
-- **tier_3_price_yearly**: "£795" | **typography**: `text-4xl font-semibold`
-- **tier_3_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
-- **tier_3_price_monthly**: "£85" | **typography**: `text-2xl font-semibold`
-- **tier_3_period_monthly**: "/month" | **typography**: `text-sm font-semibold`
+- **tier_3_price_yearly**: "£795" | **typography**: `h2`
+- **tier_3_period_yearly**: "/year" | **typography**: `h2`
+- **tier_3_price_monthly**: "£85" | **typography**: 'h4`
+- **tier_3_period_monthly**: "/month" | **typography**: 'h4`
 - **tier_3_href**: "#"
 - **tier_3_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **tier_3_popular**: false

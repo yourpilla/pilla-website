@@ -79,17 +79,17 @@ export default function Example() {
                 {tier.name}
               </h2>
               <div className="mt-2">
-                <p className="flex items-baseline gap-x-1 text-gray-900">
-                  <span className="text-4xl font-semibold">{tier.priceYearly}</span>
-                  <span className="text-sm font-semibold">/year</span>
-                </p>
-                <p className="mt-1 text-sm text-muted">
+                <h2 className="flex items-baseline gap-x-1 text-gray-900">
+                  <span>{tier.priceYearly}</span>
+                  <span>/year</span>
+                </h2>
+                <p className="mt-1 mb-1 text-sm font-normal text-gray-900">
                   or
                 </p>
-                <p className="flex items-baseline gap-x-1 text-gray-900">
-                  <span className="text-2xl font-semibold">{tier.priceMonthly}</span>
-                  <span className="text-sm font-semibold">/month</span>
-                </p>
+                <h4 className="flex items-baseline gap-x-1 text-gray-900">
+                  <span>{tier.priceMonthly}</span>
+                  <span>/month</span>
+                </h4>
               </div>
               <a
                 href={tier.href}
@@ -109,7 +109,7 @@ export default function Example() {
                             <span>
                               {feature.name}{' '}
                               {typeof feature.tiers[tier.name] === 'string' ? (
-                                <span className="text-sm font-normal text-muted">({feature.tiers[tier.name]})</span>
+                                <span className="text-sm font-normal text-gray-900">({feature.tiers[tier.name]})</span>
                               ) : null}
                             </span>
                           </li>
@@ -152,17 +152,17 @@ export default function Example() {
                   {tiers.map((tier) => (
                     <td key={tier.id} className={`px-6 pt-2 pb-4 xl:px-8 ${tier.background} border-l-2 border-r-2`} style={{ borderColor: tier.border }}>
                       <div>
-                        <div className="flex items-baseline gap-x-1 text-gray-900">
-                          <span className="text-4xl font-semibold">{tier.priceYearly}</span>
-                          <span className="text-sm font-semibold">/year</span>
-                        </div>
-                        <p className="mt-1 text-sm text-muted">
+                        <h2 className="flex items-baseline gap-x-1 text-gray-900">
+                          <span>{tier.priceYearly}</span>
+                          <span>/year</span>
+                        </h2>
+                        <p className="mt-1 mb-1 text-sm font-normal text-gray-900">
                           or
                         </p>
-                        <div className="flex items-baseline gap-x-1 text-gray-900">
-                          <span className="text-2xl font-semibold">{tier.priceMonthly}</span>
-                          <span className="text-sm font-semibold">/month</span>
-                        </div>
+                        <h4 className="flex items-baseline gap-x-1 text-gray-900">
+                          <span>{tier.priceMonthly}</span>
+                          <span>/month</span>
+                        </h4>
                       </div>
                       <a
                         href={tier.href}
@@ -207,7 +207,7 @@ export default function Example() {
                         {tiers.map((tier) => (
                           <td key={tier.id} className={`px-6 py-4 xl:px-8 ${tier.background} border-l-2 border-r-2 ${sectionIdx === sections.length - 1 && feature === section.features[section.features.length - 1] ? 'border-b-2 rounded-b-xl' : ''}`} style={{ borderColor: tier.border }}>
                             {typeof feature.tiers[tier.name] === 'string' ? (
-                              <div className="text-center text-sm font-normal text-muted">{feature.tiers[tier.name]}</div>
+                              <div className="text-center text-sm font-normal text-gray-900">{feature.tiers[tier.name]}</div>
                             ) : (
                               <>
                                 {feature.tiers[tier.name] === true ? (
