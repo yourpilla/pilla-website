@@ -2,9 +2,9 @@ import { Fragment } from 'react'
 import { CheckIcon, MinusIcon } from '@heroicons/react/20/solid'
 
 const tiers = [
-  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '$65', priceYearly: '£595', mostPopular: false, background: '#FEC6D4', border: 'inset-ring-gray-200' },
-  { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: '#FFDCB4', border: 'inset-ring-indigo-200' },
-  { name: 'Pro' as const, id: 'tier-pro', href: '#', priceMonthly: '£85', priceYearly: '£795', mostPopular: false, background: '#BAEED9', border: 'inset-ring-blue-200' },
+  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '$65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: 'inset-ring-gray-200' },
+  { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: 'bg-orange-100', border: 'inset-ring-indigo-200' },
+  { name: 'Pro' as const, id: 'tier-pro', href: '#', priceMonthly: '£85', priceYearly: '£795', mostPopular: false, background: 'bg-emerald-100', border: 'inset-ring-blue-200' },
 ]
 const sections = [
   {
@@ -71,9 +71,8 @@ export default function Example() {
             <section
               key={tier.id}
               className={classNames(
-                `rounded-xl inset-ring ${tier.border} p-8`,
+                `rounded-xl ${tier.background} inset-ring ${tier.border} p-8`,
               )}
-              style={{ backgroundColor: tier.background }}
             >
               <h3 id={tier.id} className="text-sm font-semibold text-gray-900">
                 {tier.name}
@@ -94,12 +93,7 @@ export default function Example() {
               <a
                 href={tier.href}
                 aria-describedby={tier.id}
-                className={classNames(
-                  tier.mostPopular
-                    ? 'bg-indigo-600 text-white hover:bg-indigo-500'
-                    : 'text-indigo-600 inset-ring inset-ring-indigo-200 hover:inset-ring-indigo-300',
-                  'mt-8 block rounded-md px-3 py-2 text-center text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600',
-                )}
+                className="btn mt-8 block text-center"
               >
                 7-Day Free Trial
               </a>
@@ -140,10 +134,7 @@ export default function Example() {
                     aria-hidden="true"
                     className="flex w-1/4 px-4"
                   >
-                    <div 
-                      className="w-full rounded-t-xl border-x border-t border-gray-900/10" 
-                      style={{ backgroundColor: tier.background }}
-                    />
+                    <div className={`w-full rounded-t-xl border-x border-t border-gray-900/10 ${tier.background}`} />
                   </div>
                 ))}
               </div>
@@ -188,12 +179,7 @@ export default function Example() {
                       </div>
                       <a
                         href={tier.href}
-                        className={classNames(
-                          tier.mostPopular
-                            ? 'bg-indigo-600 text-white hover:bg-indigo-500'
-                            : 'text-indigo-600 inset-ring inset-ring-indigo-200 hover:inset-ring-indigo-300',
-                          'mt-8 block rounded-md px-3 py-2 text-center text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600',
-                        )}
+                        className="btn mt-8 block text-center"
                       >
                         7-Day Free Trial
                       </a>
