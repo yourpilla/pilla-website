@@ -249,7 +249,7 @@ export default function Example() {
 ## Content & Typography Forms
 
 ### Header Section
-- **section_tag**: "Pricing" | **typography**: `eyebrow` *[Options: eyebrow, h2, text-base font-semibold]*
+- **section_tag**: "Pilla Pricing" | **typography**: `eyebrow` *[Options: eyebrow, h2, text-base font-semibold]*
 - **main_title**: "Pilla has changed the way we work, for the better" | **typography**: `h1` *[Options: h1 + display-1, h1 + display-2, h1]*
 - **subtitle**: "Becky, Operations Manager, The Pen Factory (3 Sites)" | **typography**: `lead` *[Options: lead, subtitle-lg, text-lg]*
 
@@ -257,7 +257,7 @@ export default function Example() {
 - **tier_1_name**: "Basic" | **typography**: `text-sm font-semibold`
 - **tier_1_price_yearly**: "£595" | **typography**: `text-4xl font-semibold`
 - **tier_1_period_yearly**: "/year" | **typography**: `text-sm font-semibold`
-- **tier_1_price_monthly**: "$65" | **typography**: `text-2xl font-semibold`
+- **tier_1_price_monthly**: "£65" | **typography**: `text-2xl font-semibold`
 - **tier_1_period_monthly**: "/month" | **typography**: `text-sm font-semibold`
 - **tier_1_href**: "#" 
 - **tier_1_cta**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`

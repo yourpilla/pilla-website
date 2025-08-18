@@ -2,7 +2,7 @@ import { Fragment } from 'react'
 import { CheckIcon, MinusIcon } from '@heroicons/react/20/solid'
 
 const tiers = [
-  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '$65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: '#FB0071' },
+  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '£65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: '#FB0071' },
   { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: 'bg-orange-100', border: '#FF7B00' },
   { name: 'Pro' as const, id: 'tier-pro', href: '#', priceMonthly: '£85', priceYearly: '£795', mostPopular: false, background: 'bg-emerald-100', border: '#00B36E' },
 ]
@@ -56,7 +56,7 @@ export default function Example() {
     <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
-          <h2 className="eyebrow">Pricing</h2>
+          <h2 className="eyebrow">Pilla Pricing</h2>
           <h1 className="mt-2">
             Pilla has changed the way we work, for the better
           </h1>
@@ -178,7 +178,6 @@ export default function Example() {
                     <tr>
                       <th
                         scope="colgroup"
-                        colSpan={4}
                         className={classNames(
                           sectionIdx === 0 ? 'pt-8' : 'pt-16',
                           'pb-4 text-sm font-semibold text-gray-900',
@@ -187,6 +186,17 @@ export default function Example() {
                         {section.name}
                         <div className="absolute inset-x-8 mt-4 h-px bg-gray-900/10" />
                       </th>
+                      {tiers.map((tier) => (
+                        <th
+                          key={tier.id}
+                          className={classNames(
+                            sectionIdx === 0 ? 'pt-8' : 'pt-16',
+                            `pb-4 text-sm font-semibold text-gray-900 ${tier.background} border-l-2 border-r-2`,
+                          )}
+                          style={{ borderColor: tier.border }}
+                        >
+                        </th>
+                      ))}
                     </tr>
                     {section.features.map((feature) => (
                       <tr key={feature.name}>
