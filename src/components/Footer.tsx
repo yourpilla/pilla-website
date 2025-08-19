@@ -41,11 +41,11 @@ export default function Footer() {
           <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <div>
-                <h3 className="text-sm font-semibold">Solutions</h3>
+                <h3 className="small-blue">Solutions</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {navigation.solutions.map((item) => (
                     <li key={item.name}>
-                      <Link href={item.href} className="text-sm link-nav">
+                      <Link href={item.href} className="small-blue">
                         {item.name}
                       </Link>
                     </li>
@@ -53,11 +53,11 @@ export default function Footer() {
                 </ul>
               </div>
               <div className="mt-10 md:mt-0">
-                <h3 className="text-sm font-semibold">Support</h3>
+                <h3 className="small-blue">Support</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {navigation.support.map((item) => (
                     <li key={item.name}>
-                      <Link href={item.href} className="text-sm link-nav">
+                      <Link href={item.href} className="small-blue">
                         {item.name}
                       </Link>
                     </li>
@@ -67,11 +67,11 @@ export default function Footer() {
             </div>
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <div>
-                <h3 className="text-sm font-semibold">Company</h3>
+                <h3 className="small-blue">Company</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {navigation.company.map((item) => (
                     <li key={item.name}>
-                      <Link href={item.href} className="text-sm link-nav">
+                      <Link href={item.href} className="small-blue">
                         {item.name}
                       </Link>
                     </li>
@@ -79,11 +79,11 @@ export default function Footer() {
                 </ul>
               </div>
               <div className="mt-10 md:mt-0">
-                <h3 className="text-sm font-semibold">Legal</h3>
+                <h3 className="small-blue">Legal</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {navigation.legal.map((item) => (
                     <li key={item.name}>
-                      <Link href={item.href} className="text-sm link-nav">
+                      <Link href={item.href} className="small-blue">
                         {item.name}
                       </Link>
                     </li>
@@ -95,8 +95,8 @@ export default function Footer() {
         </div>
         <div className="mt-16 border-t border-gray-900/10 pt-8 sm:mt-20 lg:mt-24 lg:flex lg:items-center lg:justify-between">
           <div>
-            <h3 className="text-sm font-semibold">Subscribe to our newsletter</h3>
-            <p className="mt-2 text-sm text-muted">
+            <h3 className="small-blue">Subscribe to our newsletter</h3>
+            <p className="mt-2 small-grey">
               The latest news, articles, and resources, sent to your inbox weekly.
             </p>
           </div>
@@ -124,7 +124,7 @@ export default function Footer() {
           </form>
         </div>
         <div className="mt-8 border-t border-gray-900/10 pt-8">
-          <p className="text-sm text-muted">
+          <p className="small-grey">
             &copy; 2024 Your Company, Inc. All rights reserved.
           </p>
         </div>

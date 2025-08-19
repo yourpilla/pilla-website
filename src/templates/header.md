@@ -232,40 +232,35 @@ export default function Header() {
 - **border_color**: "var(--border)" | *Header border color* *[Options: var(--border), border-gray-300, border-gray-200]*
 
 ### Primary Navigation Links
-- **nav_about_text**: "About" | **typography**: `text-sm font-semibold link-nav` | *About page link text*
-- **nav_about_href**: "/about" | *About page URL*
 
-- **nav_pricing_text**: "Pricing" | **typography**: `text-sm font-semibold link-nav` | *Pricing page link text*
+- **nav_pricing_text**: "Pricing" | **typography**: `h4` | *Pricing page link text*
 - **nav_pricing_href**: "/pricing" | *Pricing page URL*
 
-- **nav_contact_text**: "Contact" | **typography**: `text-sm font-semibold link-nav` | *Contact page link text*
-- **nav_contact_href**: "/contact" | *Contact page URL*
-
 ### Resources Dropdown Section
-- **dropdown_title**: "Resources" | **typography**: `text-sm font-semibold` | *Dropdown menu title*
+- **dropdown_title**: "Resources" | **typography**: `h4` | *Dropdown menu title*
 
-#### Resource Item 1 (Glossary)
-- **resource_1_name**: "Glossary" | **typography**: `font-semibold` | *Resource name*
-- **resource_1_description**: "Hospitality terms and definitions" | **typography**: `text-muted` | *Resource description*
-- **resource_1_href**: "/glossary" | *Resource URL*
+#### Resource Item 1 (Blog)
+- **resource_1_name**: "How-Tos" | **typography**: `h6` | *Resource name*
+- **resource_1_description**: "Hospitality templates and guides" | **typography**: `big-grey` | *Resource description*
+- **resource_1_href**: "/blog" | *Resource URL*
 - **resource_1_icon**: "BookOpenIcon" | *Heroicon component name* *[Options: BookOpenIcon, DocumentTextIcon, UserGroupIcon, ShieldCheckIcon]*
 
-#### Resource Item 2 (Blog)
-- **resource_2_name**: "Blog" | **typography**: `font-semibold` | *Resource name*
-- **resource_2_description**: "Industry insights and guides" | **typography**: `text-muted` | *Resource description*
-- **resource_2_href**: "/blog" | *Resource URL*
+#### Resource Item 2 (FAQs)
+- **resource_2_name**: "FAQs" | **typography**: `h6` | *Resource name*
+- **resource_2_description**: "(Almost) All your questions answered" | **typography**: `big-grey` | *Resource description*
+- **resource_2_href**: "/answers" | *Resource URL*
 - **resource_2_icon**: "DocumentTextIcon" | *Heroicon component name*
 
-#### Resource Item 3 (Job Descriptions)
-- **resource_3_name**: "Job Descriptions" | **typography**: `font-semibold` | *Resource name*
-- **resource_3_description**: "Ready-to-use job templates" | **typography**: `text-muted` | *Resource description*
-- **resource_3_href**: "/jobs" | *Resource URL*
+#### Resource Item 3 (Glossary)
+- **resource_3_name**: "Glossary" | **typography**: `h6` | *Resource name*
+- **resource_3_description**: "Ready-to-use job templates" | **typography**: `h6` | *Resource description*
+- **resource_3_href**: "/glossary" | *Resource URL*
 - **resource_3_icon**: "UserGroupIcon" | *Heroicon component name*
 
-#### Resource Item 4 (Safety Templates)
-- **resource_4_name**: "Safety Templates" | **typography**: `font-semibold` | *Resource name*
-- **resource_4_description**: "Food safety and compliance" | **typography**: `text-muted` | *Resource description*
-- **resource_4_href**: "/templates" | *Resource URL*
+#### Resource Item 4 (Tools)
+- **resource_4_name**: "Tools" | **typography**: `h6` | *Resource name*
+- **resource_4_description**: "Free calculators and other tools" | **typography**: `big-grey` | *Resource description*
+- **resource_4_href**: "/tools" | *Resource URL*
 - **resource_4_icon**: "ShieldCheckIcon" | *Heroicon component name*
 
 ### Call-to-Action Button

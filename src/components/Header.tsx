@@ -77,7 +77,7 @@ export default function Header() {
             <button
               type="button"
               onClick={() => setPopoverOpen(!popoverOpen)}
-              className="flex items-center gap-x-1 text-sm font-semibold focus:outline-none"
+              className="flex items-center gap-x-1 h4 focus:outline-none"
             >
               Resources
               <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
@@ -100,13 +100,13 @@ export default function Header() {
                       <div className="flex-auto">
                         <Link
                           href={item.href}
-                          className="block text-sm font-semibold"
+                          className="block h6"
                           onClick={() => setPopoverOpen(false)}
                         >
                           {item.name}
                           <span className="absolute inset-0" />
                         </Link>
-                        <p className="mt-1 text-muted">{item.description}</p>
+                        <p className="mt-1 big-grey">{item.description}</p>
                       </div>
                     </div>
                   ))}
@@ -115,7 +115,7 @@ export default function Header() {
             )}
           </div>
 
-          <Link href="/pricing" className="text-sm font-semibold">
+          <Link href="/pricing" className="h4">
             Pricing
           </Link>
         </PopoverGroup>

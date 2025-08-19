@@ -1,6 +1,6 @@
 # CSS Styles Reference
 
-This template lists all CSS styles and their properties for easy editing in markdown format.
+This template lists the simplified typography system for easy editing.
 
 ## CSS Variables
 
@@ -34,31 +34,16 @@ This template lists all CSS styles and their properties for easy editing in mark
 --radius: 5px;
 ```
 
-## Typography Classes
+## Core Typography Classes
 
-### Display Classes (Hero/Large text)
-
-#### .display-1
-- **Font Size:** 4rem (64px) / 2.75rem (44px) on mobile
-- **Font Weight:** 800
-- **Line Height:** 1.1
-- **Letter Spacing:** -0.05em / -0.04em on mobile
-- **Color:** #374151
-
-#### .display-2
-- **Font Size:** 3.5rem (56px) / 2.5rem (40px) on mobile
-- **Font Weight:** 800
-- **Line Height:** 1.1
-- **Letter Spacing:** -0.045em / -0.035em on mobile
-- **Color:** #374151
-
-### Heading Classes
+### Headings (Auto-Applied)
 
 #### h1
 - **Font Size:** 3rem (48px) / 2.25rem (36px) on mobile
 - **Font Weight:** 800
 - **Line Height:** 1.1
 - **Letter Spacing:** -0.04em / -0.03em on mobile
+- **Color:** #374151
 - **Margin Bottom:** 1.25rem
 
 #### h2
@@ -66,6 +51,7 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Font Weight:** 700
 - **Line Height:** 1.15
 - **Letter Spacing:** -0.03em
+- **Color:** #374151
 - **Margin Bottom:** 1rem
 
 #### h3
@@ -73,6 +59,7 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Font Weight:** 700
 - **Line Height:** 1.2
 - **Letter Spacing:** -0.025em
+- **Color:** #374151
 - **Margin Bottom:** 0.875rem
 
 #### h4
@@ -80,6 +67,7 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Font Weight:** 600
 - **Line Height:** 1.25
 - **Letter Spacing:** -0.02em
+- **Color:** #374151
 - **Margin Bottom:** 0.75rem
 
 #### h5
@@ -87,6 +75,7 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Font Weight:** 600
 - **Line Height:** 1.3
 - **Letter Spacing:** -0.015em
+- **Color:** #374151
 - **Margin Bottom:** 0.625rem
 
 #### h6
@@ -94,147 +83,42 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Font Weight:** 600
 - **Line Height:** 1.35
 - **Letter Spacing:** -0.01em
+- **Color:** #374151
 - **Margin Bottom:** 0.5rem
 
-### Subtitle Classes
+### Content Typography Classes
 
-#### .subtitle-lg
-- **Font Size:** 1.5rem (24px)
-- **Font Weight:** 400
-- **Line Height:** 1.4
-- **Color:** #9CA3AF
-- **Margin Bottom:** 2rem
-- **Letter Spacing:** -0.015em
-
-#### .subtitle
-- **Font Size:** 1.25rem (20px)
-- **Font Weight:** 400
-- **Line Height:** 1.5
-- **Color:** #9CA3AF
-- **Margin Bottom:** 1.5rem
-- **Letter Spacing:** -0.01em
-
-#### .subtitle-sm
+#### .big-grey
 - **Font Size:** 1.125rem (18px)
 - **Font Weight:** 400
 - **Line Height:** 1.55
 - **Color:** #9CA3AF
 - **Margin Bottom:** 1rem
+- **Usage:** Small subtitles
 
-### Body Text Classes
-
-#### .lead
-- **Font Size:** 1.25rem (20px)
+#### .big-blue
+- **Font Size:** 1.5rem (24px)
 - **Font Weight:** 400
 - **Line Height:** 1.6
 - **Color:** #374151
 - **Margin Bottom:** 1.5rem
 - **Letter Spacing:** -0.01em
+- **Usage:** Introduction paragraphs
 
-#### p (default body text)
-- **Font Size:** 1rem (16px)
-- **Font Weight:** 400
-- **Line Height:** 1.65
-- **Color:** #374151
-- **Margin Bottom:** 1.25rem
-
-#### .text-lg
+#### .small-blue
 - **Font Size:** 1.125rem (18px)
-- **Line Height:** 1.6
-
-#### .text-sm
-- **Font Size:** 0.875rem (14px)
-- **Line Height:** 1.6
-
-#### .text-xs
-- **Font Size:** 0.75rem (12px)
-- **Line Height:** 1.5
-
-#### .small-medium
-- **Font Size:** 0.875rem (14px)
-- **Font Weight:** 500
-- **Line Height:** 1.6
-
-#### .small-semibold
-- **Font Size:** 0.875rem (14px)
-- **Font Weight:** 600
-- **Line Height:** 1.6
-
-#### .large-medium
-- **Font Size:** 1.125rem (18px)
-- **Font Weight:** 500
-- **Line Height:** 1.6
-
-### Special Text Classes
-
-#### .eyebrow
-- **Font Size:** 0.875rem (14px)
-- **Font Weight:** 600
-- **Text Transform:** uppercase
-- **Letter Spacing:** 0.05em
-- **Color:** #9CA3AF
-- **Margin Bottom:** 0.5rem
-- **Display:** block
-
-#### .caption
-- **Font Size:** 0.875rem (14px)
 - **Font Weight:** 400
-- **Line Height:** 1.5
-- **Color:** #9CA3AF
-- **Margin Top:** 0.5rem
-
-#### .overline
-- **Font Size:** 0.75rem (12px)
-- **Font Weight:** 700
-- **Text Transform:** uppercase
-- **Letter Spacing:** 0.08em
-- **Color:** #9CA3AF
-- **Margin Bottom:** 0.25rem
-
-### Text Color Classes
-
-#### .text-muted
-- **Color:** #9CA3AF
-
-#### .text-muted-dark
-- **Color:** #6B7280
-
-## Font Weight Classes
-
-#### .font-bold
-- **Font Weight:** 700
-
-#### .font-semibold
-- **Font Weight:** 600
-
-#### .font-medium
-- **Font Weight:** 500
-
-#### .font-normal
-- **Font Weight:** 400
-
-#### .font-light
-- **Font Weight:** 300
-
-## Link Styles
-
-#### a (default links)
+- **Line Height:** 1.6
 - **Color:** #374151
-- **Text Decoration:** underline (1px thickness)
-- **Text Underline Offset:** 2px
-- **Transition:** all 0.2s ease
-- **Hover Color:** #1F2937
-- **Hover Decoration:** 2px thickness
+- **Usage:** Default body text
 
-#### .link-muted
+#### .small-grey
 - **Color:** #9CA3AF
-- **Hover Color:** #374151
+- **Usage:** Secondary/descriptive text (can be applied to any element)
 
-#### .link-clean
-- **Text Decoration:** none
-- **Hover:** underline (1px thickness, 2px offset)
+## Component Styles
 
-## Button Styles
+### Button Styles
 
 #### .btn
 - **Background Color:** #374151
@@ -254,7 +138,7 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Hover Background:** #1F2937
 - **Focus Outline:** 2px solid #374151 with 2px offset
 
-## Form Styles
+### Form Styles
 
 #### .input
 - **Background Color:** #FFFFFF
@@ -268,24 +152,6 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Outline:** none
 - **Focus Border Color:** #374151
 - **Placeholder Color:** #9CA3AF
-
-## Brand Styles
-
-#### .brand
-- **Font Size:** 1.25rem (20px)
-- **Font Weight:** 700
-- **Color:** #374151
-- **Line Height:** 1.2
-
-## Navigation Styles
-
-#### .link-nav
-- **Color:** #374151
-- **Transition:** all 0.2s ease
-- **Text Decoration:** underline (1px thickness)
-- **Text Underline Offset:** 2px
-- **Hover Color:** #1F2937
-- **Hover Decoration:** 2px thickness
 
 ## Utility Classes
 
@@ -301,38 +167,29 @@ This template lists all CSS styles and their properties for easy editing in mark
 #### .rounded-default
 - **Border Radius:** var(--radius) [5px]
 
-## Base Typography Settings
-
-### html
-- **Font Family:** Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif
-- **Line Height:** 1.6
-- **Color:** #374151
-- **Font Feature Settings:** 'kern' 1, 'liga' 1
-- **Text Rendering:** optimizeLegibility
-- **Font Smoothing:** antialiased
-
-### body
-- **Background:** var(--background) [#FAF9FB]
-- **Color:** var(--foreground) [#374151]
-- **Font Family:** Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif
-- **Line Height:** 1.6
-
-### All Headings (h1-h6) Base
-- **Font Family:** Arial, sans-serif
-- **Font Weight:** 700
-- **Line Height:** 1.2
-- **Color:** #374151
-- **Margin Top:** 0
-- **Margin Bottom:** 0.75rem
-- **Letter Spacing:** -0.025em
-
 ---
 
-## Usage Notes
+## Usage Guidelines
 
-1. **Responsive Design:** Display and heading classes have mobile-specific sizing
-2. **Color System:** Uses CSS variables for consistency
-3. **Spacing:** Based on 8px grid system
-4. **Typography:** Arial font family with optimized rendering
-5. **Accessibility:** Proper contrast ratios and focus states
-6. **Performance:** Optimized font loading and rendering
+### Typography Hierarchy
+1. **h1-h6** - Use semantic heading elements (auto-styled)
+2. **big-grey** - For small subtitles and section descriptions
+3. **big-blue** - For introduction paragraphs and important content
+4. **small-blue** - Default body text (your main paragraph style)
+5. **small-grey** - Apply to any text that should be secondary/gray
+
+### Simple Rules
+- **One class per text element** - No mixing or combining
+- **Semantic HTML first** - Use h1-h6 for headings, p for paragraphs
+- **Consistent application** - Same content type = same class
+- **Clear hierarchy** - Headings → Big Blue → Small Blue → Small Grey
+- **Intuitive naming** - Size (big/small) + Color (blue/grey)
+
+### Examples
+```html
+<h1>Page Title</h1>                    <!-- Auto-styled -->
+<p class="big-grey">Section intro</p>
+<p class="big-blue">Important introduction paragraph</p>
+<p class="small-blue">Regular body content</p>
+<p class="small-grey">Secondary information</p>
+```

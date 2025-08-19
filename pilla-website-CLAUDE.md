@@ -48,13 +48,18 @@ For making changes to existing pages:
 This allows efficient content updates without needing to specify individual changes - Claude automatically finds and implements all differences between the template forms and live code.
 
 ## Typography System
-New SaaS Typography Kit applied globally:
-- **Colors**: #374151 (main text), #9CA3AF (muted text)  
-- **Classes**: display-1, display-2, eyebrow, subtitle-lg, lead, text-muted, etc.
-- **Headings**: Bold weights (700-800) with proper spacing and responsive sizing
+Simplified 5-class typography system:
+- **Colors**: #374151 (blue text), #9CA3AF (grey text)
+- **5 Core Classes**: 
+  1. `h1-h6` - Auto-applied headings (semantic HTML)
+  2. `big-grey` - Small subtitles (18px, grey)
+  3. `big-blue` - Introduction paragraphs (24px, blue) 
+  4. `small-blue` - Default body text (18px, blue)
+  5. `small-grey` - Secondary text (grey color)
+- **Simple Rules**: One class per element, no mixing/combining
+- **Intuitive Naming**: Size (big/small) + Color (blue/grey)
 - **Font**: Arial with enhanced readability features
-- **HTML vs CSS**: Always use semantic HTML tags (h1, h2, etc.) for SEO, then apply visual CSS classes for styling
-- **Typography Reference**: Temporary page at `/typography-reference` shows all available classes (delete before going live)
+- **Typography Reference**: `/src/templates/css-styles-reference.md` shows complete system
 
 ## Components Status
 - ✅ Header with Resources dropdown

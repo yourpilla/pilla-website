@@ -396,54 +396,31 @@ a:hover {
   color: #9CA3AF;
 }
 
-/* Brand Styling */
-.brand {
-  font-size: 1.25rem; /* 20px */
-  font-weight: 700;
-  color: #374151;
-  line-height: 1.2;
-}
-
-/* Additional Text Size Classes */
-.text-lg {
+/* Core Text Classes */
+.big-grey {
   font-size: 1.125rem; /* 18px */
-  line-height: 1.6;
-}
-
-.text-lg.text-muted {
+  font-weight: 400;
+  line-height: 1.55;
   color: #9CA3AF;
+  margin-bottom: 1rem;
 }
 
-/* Small Text with Weight Variations */
-.small-medium {
-  font-size: 0.875rem; /* 14px */
-  font-weight: 500;
+.big-blue {
+  font-size: 1.5rem; /* 24px */
+  font-weight: 400;
   line-height: 1.6;
-}
-
-.small-semibold {
-  font-size: 0.875rem; /* 14px */
-  font-weight: 600;
-  line-height: 1.6;
-}
-
-/* Large Text with Weight Variations */  
-.large-medium {
-  font-size: 1.125rem; /* 18px */
-  font-weight: 500;
-  line-height: 1.6;
-}
-
-/* Navigation Links */
-.link-nav {
   color: #374151;
-  transition: all 0.2s ease;
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.01em;
 }
 
-.link-nav:hover {
-  color: #1F2937;
-  text-decoration-thickness: 2px;
+.small-blue {
+  font-size: 1.125rem; /* 18px */
+  font-weight: 400;
+  line-height: 1.6;
+  color: #374151;
+}
+
+.small-grey {
+  color: #9CA3AF;
 }
