@@ -24,10 +24,10 @@ import {
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const resources = [
-  { name: 'Glossary', description: 'Hospitality terms and definitions', href: '/glossary', icon: BookOpenIcon },
-  { name: 'Blog', description: 'Industry insights and guides', href: '/blog', icon: DocumentTextIcon },
-  { name: 'Job Descriptions', description: 'Ready-to-use job templates', href: '/jobs', icon: UserGroupIcon },
-  { name: 'Safety Templates', description: 'Food safety and compliance', href: '/templates', icon: ShieldCheckIcon },
+  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: BookOpenIcon },
+  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: DocumentTextIcon },
+  { name: 'Glossary', description: 'Ready-to-use job templates', href: '/glossary', icon: UserGroupIcon },
+  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: ShieldCheckIcon },
 ]
 
 export default function Header() {
@@ -55,14 +55,11 @@ export default function Header() {
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
             <span className="sr-only">Pilla</span>
-            <div className="flex items-center">
-              <img 
-                src="/logo full white 512x512.png" 
-                alt="Pilla Logo" 
-                className="w-8 h-8"
-              />
-              <span className="ml-2 text-xl font-bold text-gray-900">Pilla</span>
-            </div>
+            <img 
+              src="/logo full white 512x512.png" 
+              alt="Pilla Logo" 
+              className="w-8 h-8"
+            />
           </Link>
         </div>
         <div className="flex lg:hidden">
@@ -80,7 +77,7 @@ export default function Header() {
             <button
               type="button"
               onClick={() => setPopoverOpen(!popoverOpen)}
-              className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900 focus:outline-none"
+              className="flex items-center gap-x-1 text-sm font-semibold focus:outline-none"
             >
               Resources
               <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
@@ -103,13 +100,13 @@ export default function Header() {
                       <div className="flex-auto">
                         <Link
                           href={item.href}
-                          className="block font-semibold text-gray-900"
+                          className="block text-sm font-semibold"
                           onClick={() => setPopoverOpen(false)}
                         >
                           {item.name}
                           <span className="absolute inset-0" />
                         </Link>
-                        <p className="mt-1 text-gray-600">{item.description}</p>
+                        <p className="mt-1 text-muted">{item.description}</p>
                       </div>
                     </div>
                   ))}
@@ -118,14 +115,8 @@ export default function Header() {
             )}
           </div>
 
-          <Link href="/about" className="text-sm/6 font-semibold text-gray-900">
-            About
-          </Link>
-          <Link href="/pricing" className="text-sm/6 font-semibold text-gray-900">
+          <Link href="/pricing" className="text-sm font-semibold">
             Pricing
-          </Link>
-          <Link href="/contact" className="text-sm/6 font-semibold text-gray-900">
-            Contact
           </Link>
         </PopoverGroup>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
@@ -140,14 +131,11 @@ export default function Header() {
           <div className="flex items-center justify-between">
             <Link href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Pilla</span>
-              <div className="flex items-center">
-                <img 
-                  src="/logo full white 512x512.png" 
-                  alt="Pilla Logo" 
-                  className="w-8 h-8"
-                />
-                <span className="ml-2 text-xl font-bold text-gray-900">Pilla</span>
-              </div>
+              <img 
+                src="/logo full white 512x512.png" 
+                alt="Pilla Logo" 
+                className="w-8 h-8"
+              />
             </Link>
             <button
               type="button"
@@ -180,22 +168,10 @@ export default function Header() {
                   </DisclosurePanel>
                 </Disclosure>
                 <Link
-                  href="/about"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                >
-                  About
-                </Link>
-                <Link
                   href="/pricing"
                   className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
                 >
                   Pricing
-                </Link>
-                <Link
-                  href="/contact"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                >
-                  Contact
                 </Link>
               </div>
               <div className="py-6">
