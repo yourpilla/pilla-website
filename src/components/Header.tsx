@@ -16,18 +16,18 @@ import {
 import {
   Bars3Icon,
   XMarkIcon,
-  BookOpenIcon,
-  DocumentTextIcon,
-  UserGroupIcon,
-  ShieldCheckIcon,
+  DocumentCheckIcon,
+  QuestionMarkCircleIcon,
+  QueueListIcon,
+  CalculatorIcon,
 } from '@heroicons/react/24/outline'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const resources = [
-  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: BookOpenIcon },
-  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: DocumentTextIcon },
-  { name: 'Glossary', description: 'Ready-to-use job templates', href: '/glossary', icon: UserGroupIcon },
-  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: ShieldCheckIcon },
+  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: DocumentCheckIcon },
+  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon },
+  { name: 'Glossary', description: 'Ready-to-use job templates', href: '/glossary', icon: QueueListIcon },
+  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon },
 ]
 
 export default function Header() {
@@ -77,7 +77,7 @@ export default function Header() {
             <button
               type="button"
               onClick={() => setPopoverOpen(!popoverOpen)}
-              className="flex items-center gap-x-1 h4 focus:outline-none"
+              className="flex items-center gap-x-1 h6 focus:outline-none"
             >
               Resources
               <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
@@ -95,7 +95,7 @@ export default function Header() {
                       className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-gray-50"
                     >
                       <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
-                        <item.icon aria-hidden="true" className="size-6 text-gray-600 group-hover:text-blue-600" />
+                        <item.icon aria-hidden="true" className="big-blue-icon" />
                       </div>
                       <div className="flex-auto">
                         <Link
@@ -115,7 +115,7 @@ export default function Header() {
             )}
           </div>
 
-          <Link href="/pricing" className="h4">
+          <Link href="/pricing" className="h6">
             Pricing
           </Link>
         </PopoverGroup>
