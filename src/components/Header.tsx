@@ -100,7 +100,7 @@ export default function Header() {
                       <div className="flex-auto">
                         <Link
                           href={item.href}
-                          className="block text-sm font-semibold"
+                          className="block text-sm font-semibold link-nav"
                           onClick={() => setPopoverOpen(false)}
                         >
                           {item.name}
@@ -115,7 +115,7 @@ export default function Header() {
             )}
           </div>
 
-          <Link href="/pricing" className="text-sm font-semibold">
+          <Link href="/pricing" className="text-sm font-semibold link-nav">
             Pricing
           </Link>
         </PopoverGroup>
