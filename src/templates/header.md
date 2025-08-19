@@ -253,7 +253,7 @@ export default function Header() {
 
 #### Resource Item 3 (Glossary)
 - **resource_3_name**: "Glossary" | **typography**: `.h6` | *Resource name*
-- **resource_3_description**: "Ready-to-use job templates" | **typography**: `h6` | *Resource description*
+- **resource_3_description**: "Hospitality lingo explained" | **typography**: `h6` | *Resource description*
 - **resource_3_href**: "/glossary" | *Resource URL*
 - **resource_3_icon**: "queue-list" | *Heroicon component name* **typography**: .big-blue-icon
 

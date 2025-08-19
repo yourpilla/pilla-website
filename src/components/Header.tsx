@@ -24,10 +24,10 @@ import {
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const resources = [
-  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: DocumentCheckIcon },
-  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon },
-  { name: 'Glossary', description: 'Ready-to-use job templates', href: '/glossary', icon: QueueListIcon },
-  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon },
+  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: DocumentCheckIcon, descClass: 'big-grey' },
+  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon, descClass: 'big-grey' },
+  { name: 'Glossary', description: 'Hospitality lingo explained', href: '/glossary', icon: QueueListIcon, descClass: 'h6' },
+  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon, descClass: 'big-grey' },
 ]
 
 export default function Header() {
@@ -106,7 +106,7 @@ export default function Header() {
                           {item.name}
                           <span className="absolute inset-0" />
                         </Link>
-                        <p className="mt-1 big-grey">{item.description}</p>
+                        <p className={`mt-1 ${item.descClass}`}>{item.description}</p>
                       </div>
                     </div>
                   ))}
