@@ -100,7 +100,7 @@ export default function Header() {
                       <div className="flex-auto">
                         <Link
                           href={item.href}
-                          className="block h6"
+                          className="block small-blue"
                           onClick={() => setPopoverOpen(false)}
                         >
                           {item.name}

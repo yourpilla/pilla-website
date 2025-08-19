@@ -240,7 +240,7 @@ export default function Example() {
 - **logo_height**: "h-9" | *Logo height class* *[Options: h-8, h-9, h-10, h-12]*
 
 ### Solutions Section
-- **solutions_title**: "Solutions" | **typography**: `text-sm font-semibold` | *Solutions section title*
+- **solutions_title**: "Solutions" | **typography**: `.h6` | *Solutions section title*
 - **solution_1_name**: "Marketing" | **typography**: `text-sm link-nav` | *First solution name*
 - **solution_1_href**: "#" | *First solution URL*
 - **solution_2_name**: "Analytics" | **typography**: `text-sm link-nav` | *Second solution name*
@@ -253,40 +253,40 @@ export default function Example() {
 - **solution_5_href**: "#" | *Fifth solution URL*
 
 ### Support Section
-- **support_title**: "Support" | **typography**: `text-sm font-semibold` | *Support section title*
-- **support_1_name**: "Submit ticket" | **typography**: `text-sm link-nav` | *First support item*
+- **support_title**: "Support" | **typography**: `.h6` | *Support section title*
+- **support_1_name**: "Submit ticket" | **typography**: `.small-blue` | *First support item*
 - **support_1_href**: "#" | *First support URL*
-- **support_2_name**: "Documentation" | **typography**: `text-sm link-nav` | *Second support item*
+- **support_2_name**: "Documentation" | **typography**: `.small-blue` | *Second support item*
 - **support_2_href**: "#" | *Second support URL*
-- **support_3_name**: "Guides" | **typography**: `text-sm link-nav` | *Third support item*
+- **support_3_name**: "Guides" | **typography**: `.small-blue` | *Third support item*
 - **support_3_href**: "#" | *Third support URL*
 
 ### Company Section
-- **company_title**: "Company" | **typography**: `text-sm font-semibold` | *Company section title*
-- **company_1_name**: "About" | **typography**: `text-sm link-nav` | *First company link*
+- **company_title**: "Company" | **typography**: `.h6` | *Company section title*
+- **company_1_name**: "About" | **typography**: `.small-blue` | *First company link*
 - **company_1_href**: "#" | *First company URL*
-- **company_2_name**: "Blog" | **typography**: `text-sm link-nav` | *Second company link*
+- **company_2_name**: "Blog" | **typography**: `.small-blue` | *Second company link*
 - **company_2_href**: "#" | *Second company URL*
-- **company_3_name**: "Jobs" | **typography**: `text-sm link-nav` | *Third company link*
+- **company_3_name**: "Jobs" | **typography**: `.small-blue` | *Third company link*
 - **company_3_href**: "#" | *Third company URL*
-- **company_4_name**: "Press" | **typography**: `text-sm link-nav` | *Fourth company link*
+- **company_4_name**: "Press" | **typography**: `.small-blue` | *Fourth company link*
 - **company_4_href**: "#" | *Fourth company URL*
 
 ### Legal Section
-- **legal_title**: "Legal" | **typography**: `text-sm font-semibold` | *Legal section title*
-- **legal_1_name**: "Terms of service" | **typography**: `text-sm link-nav` | *First legal link*
+- **legal_title**: "Legal" | **typography**: `.h6` | *Legal section title*
+- **legal_1_name**: "Terms of service" | **typography**: `.small-blue` | *First legal link*
 - **legal_1_href**: "#" | *First legal URL*
-- **legal_2_name**: "Privacy policy" | **typography**: `text-sm link-nav` | *Second legal link*
+- **legal_2_name**: "Privacy policy" | **typography**: `.small-blue` | *Second legal link*
 - **legal_2_href**: "#" | *Second legal URL*
-- **legal_3_name**: "License" | **typography**: `text-sm link-nav` | *Third legal link*
+- **legal_3_name**: "License" | **typography**: `.small-blue` | *Third legal link*
 - **legal_3_href**: "#" | *Third legal URL*
 
 ### Newsletter Section
-- **newsletter_title**: "Subscribe to our newsletter" | **typography**: `text-sm font-semibold` | *Newsletter section title*
-- **newsletter_description**: "The latest news, articles, and resources, sent to your inbox weekly." | **typography**: `text-sm text-muted` | *Newsletter description*
-- **newsletter_input_placeholder**: "Enter your email" | **typography**: `input` | *Email input styling*
+- **newsletter_title**: "Subscribe to our newsletter" | **typography**: `.h6` | *Newsletter section title*
+- **newsletter_description**: "The latest news, articles, and resources, sent to your inbox weekly." | **typography**: .small-blue | *Newsletter description*
+- **newsletter_input_placeholder**: "Enter your email" | **typography**: `.input` | *Email input styling*
 - **newsletter_input_label**: "Email address" | *Screen reader label for email input*
-- **newsletter_button_text**: "Subscribe" | **typography**: `btn` | *Subscribe button using global btn styling*
+- **newsletter_button_text**: "Subscribe" | **typography**: `.btn` | *Subscribe button using global btn styling*
 
 ### Social Media Links
 - **social_facebook_href**: "#" | *Facebook URL*

@@ -240,25 +240,25 @@ export default function Header() {
 - **dropdown_title**: "Resources" | **typography**: `.h6` | *Dropdown menu title*
 
 #### Resource Item 1 (Blog)
-- **resource_1_name**: "How-Tos" | **typography**: `.h6` | *Resource name*
+- **resource_1_name**: "How-Tos" | **typography**: `.small-blue` | *Resource name*
 - **resource_1_description**: "Hospitality templates and guides" | **typography**: `big-grey` | *Resource description*
 - **resource_1_href**: "/blog" | *Resource URL*
 - **resource_1_icon**: "document-check" | **typography**: .big-blue-icon
 
 #### Resource Item 2 (FAQs)
-- **resource_2_name**: "FAQs" | **typography**: `.h6` | *Resource name*
+- **resource_2_name**: "FAQs" | **typography**: `.small-blue` | *Resource name*
 - **resource_2_description**: "(Almost) All your questions answered" | **typography**: `big-grey` | *Resource description*
 - **resource_2_href**: "/answers" | *Resource URL*
 - **resource_2_icon**: "question-mark-circle" | *Heroicon component name* **typography**: .big-blue-icon
 
 #### Resource Item 3 (Glossary)
-- **resource_3_name**: "Glossary" | **typography**: `.h6` | *Resource name*
+- **resource_3_name**: "Glossary" | **typography**: `.small-blue` | *Resource name*
 - **resource_3_description**: "Hospitality lingo explained" | **typography**: `h6` | *Resource description*
 - **resource_3_href**: "/glossary" | *Resource URL*
 - **resource_3_icon**: "queue-list" | *Heroicon component name* **typography**: .big-blue-icon
 
 #### Resource Item 4 (Tools)
-- **resource_4_name**: "Tools" | **typography**: `.h6` | *Resource name*
+- **resource_4_name**: "Tools" | **typography**: `.small-blue` | *Resource name*
 - **resource_4_description**: "Free calculators and other tools" | **typography**: `big-grey` | *Resource description*
 - **resource_4_href**: "/tools" | *Resource URL*
 - **resource_4_icon**: "calculator" | *Heroicon component name* **typography**: .big-blue-icon
