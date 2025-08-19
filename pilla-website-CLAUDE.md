@@ -51,7 +51,7 @@ This allows efficient content updates without needing to specify individual chan
 Simplified 5-class typography system:
 - **Colors**: #374151 (blue text), #9CA3AF (grey text)
 - **5 Core Classes**: 
-  1. `h1-h6` - Auto-applied headings (semantic HTML)
+  1. `h1-h6` - Headings (semantic HTML OR CSS classes)
   2. `big-grey` - Small subtitles (18px, grey)
   3. `big-blue` - Introduction paragraphs (24px, blue) 
   4. `small-blue` - Default body text (18px, blue)
@@ -60,6 +60,12 @@ Simplified 5-class typography system:
 - **Intuitive Naming**: Size (big/small) + Color (blue/grey)
 - **Font**: Arial with enhanced readability features
 - **Typography Reference**: `/src/templates/css-styles-reference.md` shows complete system
+
+### Template Typography Notation:
+- **`<h2>`** = Semantic HTML element (SEO + styling)
+- **`.h4`** = CSS class for visual styling only (no SEO)
+- **No brackets** = If semantic heading missing, none created
+- **Examples**: `<h1>` creates `<h1>`, `.h3` applies h3 styling to existing element
 
 ## Components Status
 - ✅ Header with Resources dropdown

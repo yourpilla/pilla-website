@@ -36,9 +36,9 @@ This template lists the simplified typography system for easy editing.
 
 ## Core Typography Classes
 
-### Headings (Auto-Applied)
+### Headings (HTML Elements and CSS Classes)
 
-#### h1
+#### h1 / .h1
 - **Font Size:** 3rem (48px) / 2.25rem (36px) on mobile
 - **Font Weight:** 800
 - **Line Height:** 1.1
@@ -46,7 +46,7 @@ This template lists the simplified typography system for easy editing.
 - **Color:** #374151
 - **Margin Bottom:** 1.25rem
 
-#### h2
+#### h2 / .h2
 - **Font Size:** 2.25rem (36px) / 1.875rem (30px) on mobile
 - **Font Weight:** 700
 - **Line Height:** 1.15
@@ -54,7 +54,7 @@ This template lists the simplified typography system for easy editing.
 - **Color:** #374151
 - **Margin Bottom:** 1rem
 
-#### h3
+#### h3 / .h3
 - **Font Size:** 1.875rem (30px) / 1.5rem (24px) on mobile
 - **Font Weight:** 700
 - **Line Height:** 1.2
@@ -62,7 +62,7 @@ This template lists the simplified typography system for easy editing.
 - **Color:** #374151
 - **Margin Bottom:** 0.875rem
 
-#### h4
+#### h4 / .h4
 - **Font Size:** 1.5rem (24px)
 - **Font Weight:** 600
 - **Line Height:** 1.25
@@ -70,7 +70,7 @@ This template lists the simplified typography system for easy editing.
 - **Color:** #374151
 - **Margin Bottom:** 0.75rem
 
-#### h5
+#### h5 / .h5
 - **Font Size:** 1.25rem (20px)
 - **Font Weight:** 600
 - **Line Height:** 1.3
@@ -78,7 +78,7 @@ This template lists the simplified typography system for easy editing.
 - **Color:** #374151
 - **Margin Bottom:** 0.625rem
 
-#### h6
+#### h6 / .h6
 - **Font Size:** 1.125rem (18px)
 - **Font Weight:** 600
 - **Line Height:** 1.35
@@ -115,6 +115,28 @@ This template lists the simplified typography system for easy editing.
 #### .small-grey
 - **Color:** #9CA3AF
 - **Usage:** Secondary/descriptive text (can be applied to any element)
+
+## Icon Styles
+
+#### .small-blue-icon
+- **Size:** 1rem (16px)
+- **Color:** #374151
+- **Usage:** Small icons with main color
+
+#### .big-blue-icon
+- **Size:** 1.5rem (24px)
+- **Color:** #374151
+- **Usage:** Large icons with main color
+
+#### .small-grey-icon
+- **Size:** 1rem (16px)
+- **Color:** #9CA3AF
+- **Usage:** Small icons with muted color
+
+#### .big-grey-icon
+- **Size:** 1.5rem (24px)
+- **Color:** #9CA3AF
+- **Usage:** Large icons with muted color
 
 ## Component Styles
 
@@ -172,7 +194,7 @@ This template lists the simplified typography system for easy editing.
 ## Usage Guidelines
 
 ### Typography Hierarchy
-1. **h1-h6** - Use semantic heading elements (auto-styled)
+1. **h1-h6** - Use semantic heading elements OR CSS classes (identical styling)
 2. **big-grey** - For small subtitles and section descriptions
 3. **big-blue** - For introduction paragraphs and important content
 4. **small-blue** - Default body text (your main paragraph style)
@@ -180,14 +202,15 @@ This template lists the simplified typography system for easy editing.
 
 ### Simple Rules
 - **One class per text element** - No mixing or combining
-- **Semantic HTML first** - Use h1-h6 for headings, p for paragraphs
+- **Headings flexible** - Use `<h4>` OR `className="h4"` (same result)
 - **Consistent application** - Same content type = same class
 - **Clear hierarchy** - Headings → Big Blue → Small Blue → Small Grey
 - **Intuitive naming** - Size (big/small) + Color (blue/grey)
 
 ### Examples
 ```html
-<h1>Page Title</h1>                    <!-- Auto-styled -->
+<h1>Page Title</h1>                    <!-- HTML element (auto-styled) -->
+<a href="/pricing" class="h4">Pricing</a>     <!-- CSS class (same styling) -->
 <p class="big-grey">Section intro</p>
 <p class="big-blue">Important introduction paragraph</p>
 <p class="small-blue">Regular body content</p>

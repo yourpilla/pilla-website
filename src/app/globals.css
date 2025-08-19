@@ -462,3 +462,28 @@ p {
 .small-grey {
   color: #9CA3AF;
 }
+
+/* Icon Classes */
+.small-blue-icon {
+  width: 1rem; /* 16px */
+  height: 1rem; /* 16px */
+  color: #374151;
+}
+
+.big-blue-icon {
+  width: 1.5rem; /* 24px */
+  height: 1.5rem; /* 24px */
+  color: #374151;
+}
+
+.small-grey-icon {
+  width: 1rem; /* 16px */
+  height: 1rem; /* 16px */
+  color: #9CA3AF;
+}
+
+.big-grey-icon {
+  width: 1.5rem; /* 24px */
+  height: 1.5rem; /* 24px */
+  color: #9CA3AF;
+}

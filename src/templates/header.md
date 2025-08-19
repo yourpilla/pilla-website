@@ -233,35 +233,35 @@ export default function Header() {
 
 ### Primary Navigation Links
 
-- **nav_pricing_text**: "Pricing" | **typography**: `h4` | *Pricing page link text*
+- **nav_pricing_text**: "Pricing" | **typography**: `.h6` | *Pricing page link text*
 - **nav_pricing_href**: "/pricing" | *Pricing page URL*
 
 ### Resources Dropdown Section
-- **dropdown_title**: "Resources" | **typography**: `h4` | *Dropdown menu title*
+- **dropdown_title**: "Resources" | **typography**: `.h6` | *Dropdown menu title*
 
 #### Resource Item 1 (Blog)
-- **resource_1_name**: "How-Tos" | **typography**: `h6` | *Resource name*
+- **resource_1_name**: "How-Tos" | **typography**: `.h6` | *Resource name*
 - **resource_1_description**: "Hospitality templates and guides" | **typography**: `big-grey` | *Resource description*
 - **resource_1_href**: "/blog" | *Resource URL*
-- **resource_1_icon**: "BookOpenIcon" | *Heroicon component name* *[Options: BookOpenIcon, DocumentTextIcon, UserGroupIcon, ShieldCheckIcon]*
+- **resource_1_icon**: "document-check" | **typography**: .big-blue-icon
 
 #### Resource Item 2 (FAQs)
-- **resource_2_name**: "FAQs" | **typography**: `h6` | *Resource name*
+- **resource_2_name**: "FAQs" | **typography**: `.h6` | *Resource name*
 - **resource_2_description**: "(Almost) All your questions answered" | **typography**: `big-grey` | *Resource description*
 - **resource_2_href**: "/answers" | *Resource URL*
-- **resource_2_icon**: "DocumentTextIcon" | *Heroicon component name*
+- **resource_2_icon**: "question-mark-circle" | *Heroicon component name* **typography**: .big-blue-icon
 
 #### Resource Item 3 (Glossary)
-- **resource_3_name**: "Glossary" | **typography**: `h6` | *Resource name*
+- **resource_3_name**: "Glossary" | **typography**: `.h6` | *Resource name*
 - **resource_3_description**: "Ready-to-use job templates" | **typography**: `h6` | *Resource description*
 - **resource_3_href**: "/glossary" | *Resource URL*
-- **resource_3_icon**: "UserGroupIcon" | *Heroicon component name*
+- **resource_3_icon**: "queue-list" | *Heroicon component name* **typography**: .big-blue-icon
 
 #### Resource Item 4 (Tools)
-- **resource_4_name**: "Tools" | **typography**: `h6` | *Resource name*
+- **resource_4_name**: "Tools" | **typography**: `.h6` | *Resource name*
 - **resource_4_description**: "Free calculators and other tools" | **typography**: `big-grey` | *Resource description*
 - **resource_4_href**: "/tools" | *Resource URL*
-- **resource_4_icon**: "ShieldCheckIcon" | *Heroicon component name*
+- **resource_4_icon**: "calculator" | *Heroicon component name* **typography**: .big-blue-icon
 
 ### Call-to-Action Button
 - **cta_text**: "Book Demo" | **typography**: `btn` | *CTA button text*
