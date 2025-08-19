@@ -110,23 +110,23 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
           </div>
           {/* Header */}
           <div className="bg-header-group px-8 py-12 text-center">
-            <h1 className="mb-4 leading-tight">
+            <h1 className="h1 mb-4 leading-tight">
               {term.title} meaning in hospitality
             </h1>
             {term.meta && (
-              <p className="text-subtitle max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
+              <p className="subtitle-lg max-w-2xl mx-auto leading-relaxed">
                 {term.meta}
               </p>
             )}
             
             {synonyms && synonyms.length > 0 && (
               <div className="mt-8">
-                <p className="text-muted mb-3 font-semibold" style={{fontSize: 'var(--text-sm)'}}>Also known as:</p>
+                <p className="text-muted mb-3 font-semibold text-sm">Also known as:</p>
                 <div className="flex flex-wrap justify-center gap-2">
                   {synonyms.map((synonym: string, index: number) => (
                     <span 
                       key={index}
-                      className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium"
+                      className="bg-card border-default caption px-4 py-2 rounded-default font-medium"
                     >
                       {synonym}
                     </span>
@@ -145,7 +145,7 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
             {/* Call to Action */}
             <div className="mt-12 text-center">
               <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                <h3 className="mb-3 font-semibold" style={{fontSize: 'var(--text-xl)'}}>
+                <h3 className="h3 mb-3 font-semibold">
                   Learn More About Hospitality
                 </h3>
                 <p className="text-muted mb-6">

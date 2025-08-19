@@ -222,9 +222,9 @@ export default function HowItWorksPage() {
                       <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-semibold text-sm mr-3">
                         1
                       </div>
-                      <h3 className="text-lg font-semibold mb-0">Sign Up & Setup</h3>
+                      <h3 className="large-medium mb-0">Sign Up & Setup</h3>
                     </div>
-                    <p className="text-gray-600 mb-0">
+                    <p className="text-muted mb-0">
                       Create your account in minutes and customize your workspace to match your specific business needs. 
                       Our onboarding process guides you through initial configuration.
                     </p>
@@ -235,9 +235,9 @@ export default function HowItWorksPage() {
                       <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-semibold text-sm mr-3">
                         2
                       </div>
-                      <h3 className="text-lg font-semibold mb-0">Train Your Team</h3>
+                      <h3 className="large-medium mb-0">Train Your Team</h3>
                     </div>
-                    <p className="text-gray-600 mb-0">
+                    <p className="text-muted mb-0">
                       Access our comprehensive library of training modules covering everything from customer service 
                       to food safety. Track progress and ensure consistent standards across your team.
                     </p>
@@ -248,9 +248,9 @@ export default function HowItWorksPage() {
                       <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-semibold text-sm mr-3">
                         3
                       </div>
-                      <h3 className="text-lg font-semibold mb-0">Streamline Operations</h3>
+                      <h3 className="large-medium mb-0">Streamline Operations</h3>
                     </div>
-                    <p className="text-gray-600 mb-0">
+                    <p className="text-muted mb-0">
                       Implement our management tools to optimize scheduling, inventory, compliance tracking, 
                       and daily operational tasks. Reduce manual work and increase efficiency.
                     </p>
@@ -261,9 +261,9 @@ export default function HowItWorksPage() {
                       <div className="bg-blue-600 text-white rounded-full w-8 h-8 flex items-center justify-center font-semibold text-sm mr-3">
                         4
                       </div>
-                      <h3 className="text-lg font-semibold mb-0">Monitor & Improve</h3>
+                      <h3 className="large-medium mb-0">Monitor & Improve</h3>
                     </div>
-                    <p className="text-gray-600 mb-0">
+                    <p className="text-muted mb-0">
                       Use our analytics and reporting features to track key performance metrics, identify areas 
                       for improvement, and make data-driven decisions that enhance guest satisfaction.
                     </p>
@@ -400,23 +400,23 @@ export default function HowItWorksPage() {
 
 #### Step 1 Card
 - **step_1_number**: "1" | **styling**: `bg-blue-600 text-white rounded-full w-8 h-8`
-- **step_1_title**: "Sign Up & Setup" | **typography**: `text-lg font-semibold`
-- **step_1_description**: "Create your account in minutes and customize your workspace..." | **typography**: `text-gray-600`
+- **step_1_title**: "Sign Up & Setup" | **typography**: `large-medium`
+- **step_1_description**: "Create your account in minutes and customize your workspace..." | **typography**: `text-muted`
 
 #### Step 2 Card
 - **step_2_number**: "2" | **styling**: `bg-blue-600 text-white rounded-full w-8 h-8`
-- **step_2_title**: "Train Your Team" | **typography**: `text-lg font-semibold`
-- **step_2_description**: "Access our comprehensive library of training modules..." | **typography**: `text-gray-600`
+- **step_2_title**: "Train Your Team" | **typography**: `large-medium`
+- **step_2_description**: "Access our comprehensive library of training modules..." | **typography**: `text-muted`
 
 #### Step 3 Card
 - **step_3_number**: "3" | **styling**: `bg-blue-600 text-white rounded-full w-8 h-8`
-- **step_3_title**: "Streamline Operations" | **typography**: `text-lg font-semibold`
-- **step_3_description**: "Implement our management tools to optimize scheduling..." | **typography**: `text-gray-600`
+- **step_3_title**: "Streamline Operations" | **typography**: `large-medium`
+- **step_3_description**: "Implement our management tools to optimize scheduling..." | **typography**: `text-muted`
 
 #### Step 4 Card
 - **step_4_number**: "4" | **styling**: `bg-blue-600 text-white rounded-full w-8 h-8`
-- **step_4_title**: "Monitor & Improve" | **typography**: `text-lg font-semibold`
-- **step_4_description**: "Use our analytics and reporting features to track..." | **typography**: `text-gray-600`
+- **step_4_title**: "Monitor & Improve" | **typography**: `large-medium`
+- **step_4_description**: "Use our analytics and reporting features to track..." | **typography**: `text-muted`
 
 ### Main Content Sections
 #### Introduction Section

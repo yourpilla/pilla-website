@@ -150,13 +150,13 @@ export default function SignupPage() {
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
                   href="/dashboard"
-                  className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-default hover:bg-blue-700 transition-colors"
+                  className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-default hover:bg-blue-700 transition-colors"
                 >
                   Go to Dashboard
                 </Link>
                 <Link
                   href="/blog"
-                  className="inline-flex items-center px-6 py-3 bg-card text-blue-600 font-medium rounded-default border-default hover:bg-blue-50 transition-colors"
+                  className="inline-flex items-center px-6 py-3 bg-card text-blue-600 font-semibold rounded-default border-default hover:bg-blue-50 transition-colors"
                 >
                   Learn More
                 </Link>
@@ -180,10 +180,10 @@ export default function SignupPage() {
         <div className="bg-card border-default rounded-default shadow-sm overflow-hidden">
           {/* Header */}
           <div className="bg-header-group px-8 py-12 text-center">
-            <h1 className="mb-4 leading-tight">
+            <h1 className="mb-4" style={{lineHeight: '1.1'}}>
               Join Pilla Today
             </h1>
-            <p className="text-subtitle max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
+            <p className="subtitle max-w-2xl mx-auto" style={{lineHeight: '1.6'}}>
               Start your journey toward streamlined hospitality operations and enhanced guest experiences.
             </p>
           </div>
@@ -201,7 +201,7 @@ export default function SignupPage() {
               {/* Name Fields */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div>
-                  <label htmlFor="firstName" className="block text-sm font-medium text-gray-700 mb-2">
+                  <label htmlFor="firstName" className="block small-semibold text-gray-700 mb-2">
                     First Name *
                   </label>
                   <input
@@ -215,11 +215,11 @@ export default function SignupPage() {
                     }`}
                     placeholder="Enter your first name"
                   />
-                  {errors.firstName && <p className="mt-1 text-sm text-red-600">{errors.firstName}</p>}
+                  {errors.firstName && <p className="mt-1 small-medium text-red-600">{errors.firstName}</p>}
                 </div>
 
                 <div>
-                  <label htmlFor="lastName" className="block text-sm font-medium text-gray-700 mb-2">
+                  <label htmlFor="lastName" className="block small-semibold text-gray-700 mb-2">
                     Last Name *
                   </label>
                   <input
@@ -233,13 +233,13 @@ export default function SignupPage() {
                     }`}
                     placeholder="Enter your last name"
                   />
-                  {errors.lastName && <p className="mt-1 text-sm text-red-600">{errors.lastName}</p>}
+                  {errors.lastName && <p className="mt-1 small-medium text-red-600">{errors.lastName}</p>}
                 </div>
               </div>
 
               {/* Email */}
               <div>
-                <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
+                <label htmlFor="email" className="block small-semibold text-gray-700 mb-2">
                   Email Address *
                 </label>
                 <input
@@ -253,12 +253,12 @@ export default function SignupPage() {
                   }`}
                   placeholder="Enter your email"
                 />
-                {errors.email && <p className="mt-1 text-sm text-red-600">{errors.email}</p>}
+                {errors.email && <p className="mt-1 small-medium text-red-600">{errors.email}</p>}
               </div>
 
               {/* Password Fields */}
               <div>
-                <label htmlFor="password" className="block text-sm font-medium text-gray-700 mb-2">
+                <label htmlFor="password" className="block small-semibold text-gray-700 mb-2">
                   Password *
                 </label>
                 <input
@@ -272,12 +272,12 @@ export default function SignupPage() {
                   }`}
                   placeholder="Create a password"
                 />
-                {errors.password && <p className="mt-1 text-sm text-red-600">{errors.password}</p>}
-                <p className="mt-1 text-sm text-gray-500">Must be at least 8 characters long</p>
+                {errors.password && <p className="mt-1 small-medium text-red-600">{errors.password}</p>}
+                <p className="mt-1 small-medium text-gray-500">Must be at least 8 characters long</p>
               </div>
 
               <div>
-                <label htmlFor="confirmPassword" className="block text-sm font-medium text-gray-700 mb-2">
+                <label htmlFor="confirmPassword" className="block small-semibold text-gray-700 mb-2">
                   Confirm Password *
                 </label>
                 <input
@@ -291,12 +291,12 @@ export default function SignupPage() {
                   }`}
                   placeholder="Confirm your password"
                 />
-                {errors.confirmPassword && <p className="mt-1 text-sm text-red-600">{errors.confirmPassword}</p>}
+                {errors.confirmPassword && <p className="mt-1 small-medium text-red-600">{errors.confirmPassword}</p>}
               </div>
 
               {/* Optional Fields */}
               <div>
-                <label htmlFor="companyName" className="block text-sm font-medium text-gray-700 mb-2">
+                <label htmlFor="companyName" className="block small-semibold text-gray-700 mb-2">
                   Company Name
                 </label>
                 <input
@@ -311,7 +311,7 @@ export default function SignupPage() {
               </div>
 
               <div>
-                <label htmlFor="role" className="block text-sm font-medium text-gray-700 mb-2">
+                <label htmlFor="role" className="block small-semibold text-gray-700 mb-2">
                   Role
                 </label>
                 <select
@@ -339,7 +339,7 @@ export default function SignupPage() {
                 <button
                   type="submit"
                   disabled={isLoading}
-                  className={`w-full flex justify-center items-center px-6 py-3 font-medium rounded-default transition-colors ${
+                  className={`w-full flex justify-center items-center px-6 py-3 font-semibold rounded-default transition-colors ${
                     isLoading
                       ? 'bg-gray-400 text-white cursor-not-allowed'
                       : 'bg-blue-600 text-white hover:bg-blue-700'
@@ -362,9 +362,9 @@ export default function SignupPage() {
 
             {/* Sign In Link */}
             <div className="mt-8 text-center">
-              <p className="text-sm text-gray-600">
+              <p className="small-medium text-gray-600">
                 Already have an account?{' '}
-                <Link href="/signin" className="font-medium text-blue-600 hover:text-blue-500">
+                <Link href="/signin" className="font-semibold text-blue-600 hover:text-blue-500">
                   Sign in here
                 </Link>
               </p>
@@ -372,7 +372,7 @@ export default function SignupPage() {
 
             {/* Terms */}
             <div className="mt-6 text-center">
-              <p className="text-xs text-gray-500">
+              <p style={{fontSize: '0.75rem', lineHeight: '1.5'}} className="text-gray-500">
                 By creating an account, you agree to our{' '}
                 <Link href="/legal/terms-of-service" className="text-blue-600 hover:text-blue-500">
                   Terms of Service
@@ -406,10 +406,14 @@ export default function SignupPage() {
 - **lead** (20px, normal weight) - Introduction paragraphs
 - **eyebrow** (14px, uppercase, muted) - Small labels above headings
 - **text-muted** - Muted gray color
-- **text-sm** - Small text (14px)
-- **text-xs** - Extra small text (12px)
+- **small-medium** - Small text (14px, 500 weight)
+- **small-semibold** - Small text (14px, 600 weight)
+- **text-lg** - Large text (18px)
 - **caption** - Small descriptive text
 - **overline** - Tiny uppercase text
+- **font-semibold** - 600 weight
+- **font-medium** - 500 weight
+- **font-bold** - 700 weight
 
 ---
 
@@ -483,8 +487,8 @@ export default function SignupPage() {
 
 #### Header Section
 - **header_background**: `bg-header-group` *(Design system header)*
-- **title**: "Join Pilla Today" | **typography**: `h1 + leading-tight`
-- **subtitle**: "Start your journey toward streamlined hospitality operations..." | **typography**: `text-subtitle`
+- **title**: "Join Pilla Today" | **typography**: `h1` with custom line-height
+- **subtitle**: "Start your journey toward streamlined hospitality operations..." | **typography**: `subtitle`
 
 #### Form Fields Styling
 - **input_styling**: `w-full px-3 py-2 border rounded-default shadow-sm`

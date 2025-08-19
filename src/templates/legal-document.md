@@ -119,11 +119,11 @@ export default async function LegalPage({ params }: LegalPageProps) {
           </div>
           {/* Header */}
           <div className="bg-header-group px-8 py-12 text-center">
-            <h1 className="mb-4 leading-tight">
+            <h1 className="h1 mb-4 leading-tight">
               {legal.title}
             </h1>
             {legal.meta && (
-              <p className="text-subtitle max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
+              <p className="subtitle-lg max-w-2xl mx-auto leading-relaxed">
                 {legal.meta}
               </p>
             )}
@@ -159,7 +159,7 @@ export default async function LegalPage({ params }: LegalPageProps) {
             {/* Call to Action */}
             <div className="mt-12 text-center">
               <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                <h3 className="mb-3 font-semibold" style={{fontSize: 'var(--text-xl)'}}>
+                <h3 className="h3 mb-3 font-semibold">
                   Questions About Our Policies?
                 </h3>
                 <p className="text-muted mb-6">

@@ -395,3 +395,55 @@ a:hover {
 .input::placeholder {
   color: #9CA3AF;
 }
+
+/* Brand Styling */
+.brand {
+  font-size: 1.25rem; /* 20px */
+  font-weight: 700;
+  color: #374151;
+  line-height: 1.2;
+}
+
+/* Additional Text Size Classes */
+.text-lg {
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.6;
+}
+
+.text-lg.text-muted {
+  color: #9CA3AF;
+}
+
+/* Small Text with Weight Variations */
+.small-medium {
+  font-size: 0.875rem; /* 14px */
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.small-semibold {
+  font-size: 0.875rem; /* 14px */
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+/* Large Text with Weight Variations */  
+.large-medium {
+  font-size: 1.125rem; /* 18px */
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+/* Navigation Links */
+.link-nav {
+  color: #374151;
+  transition: all 0.2s ease;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.link-nav:hover {
+  color: #1F2937;
+  text-decoration-thickness: 2px;
+}

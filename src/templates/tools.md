@@ -121,8 +121,8 @@ export default function ToolsPage() {
     <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
-          <h2 className="h2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">Hospitality Tools & Calculators</h2>
-          <p className="mt-2 lead">Essential calculators and tools to help you manage costs, optimize operations, and make data-driven decisions for your hospitality business.</p>
+          <h2 className="h2">Hospitality Tools & Calculators</h2>
+          <p className="lead">Essential calculators and tools to help you manage costs, optimize operations, and make data-driven decisions for your hospitality business.</p>
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {tools.map((tool) => (
@@ -133,24 +133,24 @@ export default function ToolsPage() {
                 </time>
                 <a
                   href={tool.category.href}
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-muted hover:bg-gray-100"
                 >
                   {tool.category.title}
                 </a>
               </div>
               <div className="group relative grow">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 text-lg font-semibold group-hover:text-muted">
                   <a href={tool.href}>
                     <span className="absolute inset-0" />
                     {tool.title}
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-muted">{tool.description}</p>
+                <p className="mt-5 line-clamp-3 text-sm text-muted">{tool.description}</p>
               </div>
               <div className="relative mt-8 flex items-center gap-x-4 justify-self-end">
                 <img alt="" src={tool.author.imageUrl} className="size-10 rounded-full bg-gray-50" />
-                <div className="text-sm/6">
-                  <p className="font-semibold text-gray-900">
+                <div className="text-sm">
+                  <p className="font-semibold">
                     <a href={tool.author.href}>
                       <span className="absolute inset-0" />
                       {tool.author.name}
@@ -180,9 +180,10 @@ export default function ToolsPage() {
 - **subtitle-sm** (18px, muted) - Small subtitle
 - **lead** (20px, normal weight) - Introduction paragraphs
 - **eyebrow** (14px, uppercase, muted) - Small labels above headings
-- **text-muted** - Muted gray color
-- **text-sm** - Small text (14px)
-- **text-xs** - Extra small text (12px)
+- **text-muted** - Muted gray color (#9CA3AF) - Custom class
+- **text-lg** - Large text (18px) - Custom class  
+- **text-sm** - Small text (14px) - Custom class
+- **text-xs** - Extra small text (12px) - Custom class
 - **caption** - Small descriptive text
 - **overline** - Tiny uppercase text
 
@@ -191,8 +192,8 @@ export default function ToolsPage() {
 ## Content & Typography Forms
 
 ### Header Section
-- **main_title**: "Hospitality Tools & Calculators" | **typography**: `h2 + text-4xl font-semibold` *[Options: h2 + text-4xl, h2 + display-2, text-5xl]*
-- **subtitle**: "Essential calculators and tools to help you manage costs, optimize operations, and make data-driven decisions for your hospitality business." | **typography**: `lead` *[Options: lead, text-lg, subtitle-lg]*
+- **main_title**: "Hospitality Tools & Calculators" | **typography**: `h2` *[Options: h2, display-2, h1]*
+- **subtitle**: "Essential calculators and tools to help you manage costs, optimize operations, and make data-driven decisions for your hospitality business." | **typography**: `lead` *[Options: lead, subtitle-lg, subtitle]*
 
 ### Tools Array (3 tools for now)
 #### Tool 1
@@ -277,7 +278,7 @@ export default function ToolsPage() {
 ### Styling Options
 - **background**: `bg-main` *[Options: bg-main, bg-white, bg-gray-50]*
 - **card_background**: `bg-white` *[Options: bg-white, bg-gray-50]*
-- **category_badge_style**: `bg-gray-50 text-gray-600` *[Options: bg-gray-50 text-gray-600, bg-blue-50 text-blue-600]*
+- **category_badge_style**: `bg-gray-50 text-muted` *[Options: bg-gray-50 text-muted, bg-blue-50 text-blue-600]*
 - **layout**: `3-column grid` *[Options: 3-column grid, 2-column grid, list view]*
 
 ---

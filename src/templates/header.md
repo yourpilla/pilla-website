@@ -222,7 +222,7 @@ export default function Header() {
 ### Brand & Logo Section
 - **logo_src**: "/logo full white 512x512.png" | *Logo image path*
 - **logo_alt**: "Pilla Logo" | *Alt text for logo image*
-- **brand_name**: "Pilla" | **typography**: `text-xl font-bold text-gray-900` | *Company name displayed next to logo*
+- **brand_name**: "Pilla" | **typography**: `brand` | *Company name displayed next to logo*
 - **brand_href**: "/" | *Link destination for logo/brand*
 - **sr_only_text**: "Pilla" | *Screen reader text for logo link*
 
@@ -232,39 +232,39 @@ export default function Header() {
 - **border_color**: "var(--border)" | *Header border color* *[Options: var(--border), border-gray-300, border-gray-200]*
 
 ### Primary Navigation Links
-- **nav_about_text**: "About" | **typography**: `text-sm/6 font-semibold text-gray-900` | *About page link text*
+- **nav_about_text**: "About" | **typography**: `text-sm font-semibold link-nav` | *About page link text*
 - **nav_about_href**: "/about" | *About page URL*
 
-- **nav_pricing_text**: "Pricing" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Pricing page link text*
+- **nav_pricing_text**: "Pricing" | **typography**: `text-sm font-semibold link-nav` | *Pricing page link text*
 - **nav_pricing_href**: "/pricing" | *Pricing page URL*
 
-- **nav_contact_text**: "Contact" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Contact page link text*
+- **nav_contact_text**: "Contact" | **typography**: `text-sm font-semibold link-nav` | *Contact page link text*
 - **nav_contact_href**: "/contact" | *Contact page URL*
 
 ### Resources Dropdown Section
-- **dropdown_title**: "Resources" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Dropdown menu title*
+- **dropdown_title**: "Resources" | **typography**: `text-sm font-semibold` | *Dropdown menu title*
 
 #### Resource Item 1 (Glossary)
-- **resource_1_name**: "Glossary" | **typography**: `font-semibold text-gray-900` | *Resource name*
-- **resource_1_description**: "Hospitality terms and definitions" | **typography**: `text-gray-600` | *Resource description*
+- **resource_1_name**: "Glossary" | **typography**: `font-semibold` | *Resource name*
+- **resource_1_description**: "Hospitality terms and definitions" | **typography**: `text-muted` | *Resource description*
 - **resource_1_href**: "/glossary" | *Resource URL*
 - **resource_1_icon**: "BookOpenIcon" | *Heroicon component name* *[Options: BookOpenIcon, DocumentTextIcon, UserGroupIcon, ShieldCheckIcon]*
 
 #### Resource Item 2 (Blog)
-- **resource_2_name**: "Blog" | **typography**: `font-semibold text-gray-900` | *Resource name*
-- **resource_2_description**: "Industry insights and guides" | **typography**: `text-gray-600` | *Resource description*
+- **resource_2_name**: "Blog" | **typography**: `font-semibold` | *Resource name*
+- **resource_2_description**: "Industry insights and guides" | **typography**: `text-muted` | *Resource description*
 - **resource_2_href**: "/blog" | *Resource URL*
 - **resource_2_icon**: "DocumentTextIcon" | *Heroicon component name*
 
 #### Resource Item 3 (Job Descriptions)
-- **resource_3_name**: "Job Descriptions" | **typography**: `font-semibold text-gray-900` | *Resource name*
-- **resource_3_description**: "Ready-to-use job templates" | **typography**: `text-gray-600` | *Resource description*
+- **resource_3_name**: "Job Descriptions" | **typography**: `font-semibold` | *Resource name*
+- **resource_3_description**: "Ready-to-use job templates" | **typography**: `text-muted` | *Resource description*
 - **resource_3_href**: "/jobs" | *Resource URL*
 - **resource_3_icon**: "UserGroupIcon" | *Heroicon component name*
 
 #### Resource Item 4 (Safety Templates)
-- **resource_4_name**: "Safety Templates" | **typography**: `font-semibold text-gray-900` | *Resource name*
-- **resource_4_description**: "Food safety and compliance" | **typography**: `text-gray-600` | *Resource description*
+- **resource_4_name**: "Safety Templates" | **typography**: `font-semibold` | *Resource name*
+- **resource_4_description**: "Food safety and compliance" | **typography**: `text-muted` | *Resource description*
 - **resource_4_href**: "/templates" | *Resource URL*
 - **resource_4_icon**: "ShieldCheckIcon" | *Heroicon component name*
 

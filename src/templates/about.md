@@ -116,18 +116,18 @@ export default function AboutPage() {
           {/* Breadcrumb */}
           <div className="px-8 pt-6 pb-2">
             <nav aria-label="Breadcrumb">
-              <ol className="flex items-center space-x-2 text-sm">
+              <ol className="flex items-center space-x-2 small-medium">
                 <li>
-                  <Link href="/" className="text-blue-600 hover:text-blue-800">
+                  <Link href="/" className="link-nav">
                     Home
                   </Link>
                 </li>
                 <li>
-                  <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                  <svg className="w-4 h-4 text-muted" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
                   </svg>
                 </li>
-                <li aria-current="page" className="text-gray-600">
+                <li aria-current="page" className="text-muted">
                   About
                 </li>
               </ol>
@@ -145,16 +145,16 @@ export default function AboutPage() {
             {/* Key Values */}
             <div className="mt-8">
               <div className="flex flex-wrap justify-center gap-2">
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
+                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
                   Innovation
                 </span>
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
+                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
                   Excellence
                 </span>
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
+                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
                   Community
                 </span>
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
+                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
                   Growth
                 </span>
               </div>
@@ -204,7 +204,7 @@ export default function AboutPage() {
             {/* Call to Action */}
             <div className="mt-12 text-center">
               <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                <h3 className="mb-3 font-semibold" style={{fontSize: 'var(--text-xl)'}}>
+                <h3 className="mb-3 subtitle-lg">
                   Ready to Transform Your Operations?
                 </h3>
                 <p className="text-muted mb-6">
@@ -213,7 +213,7 @@ export default function AboutPage() {
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link
                     href="/contact"
-                    className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-default hover:bg-blue-700 transition-colors"
+                    className="inline-flex items-center px-6 py-3 btn rounded-default transition-colors"
                   >
                     <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
@@ -222,7 +222,7 @@ export default function AboutPage() {
                   </Link>
                   <Link
                     href="/blog"
-                    className="inline-flex items-center px-6 py-3 bg-card text-blue-600 font-medium rounded-default border-default hover:bg-blue-50 transition-colors"
+                    className="inline-flex items-center px-6 py-3 bg-card link-nav rounded-default border-default hover:bg-blue-50 transition-colors"
                   >
                     <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
@@ -273,10 +273,10 @@ export default function AboutPage() {
 - **card_styling**: `border-default rounded-default shadow-sm` *(Design system utilities)*
 
 ### Breadcrumb Navigation
-- **breadcrumb_links**: "Home > About" | **typography**: `text-sm`
-- **breadcrumb_active_color**: `text-blue-600 hover:text-blue-800` *[Options: text-blue-600, text-indigo-600]*
-- **breadcrumb_inactive_color**: `text-gray-600` *[Options: text-gray-600, text-gray-500]*
-- **breadcrumb_separator**: "Chevron right icon" | **color**: `text-gray-400`
+- **breadcrumb_links**: "Home > About" | **typography**: `small-medium`
+- **breadcrumb_active_color**: `link-nav` *[Options: link-nav, brand]*
+- **breadcrumb_inactive_color**: `text-muted` *[Options: text-muted, caption]*
+- **breadcrumb_separator**: "Chevron right icon" | **color**: `text-muted`
 
 ### Header Section
 - **header_background**: `bg-header-group` *(Uses design system header background)*
@@ -286,7 +286,7 @@ export default function AboutPage() {
 
 ### Key Values Section
 - **values_badges**: ["Innovation", "Excellence", "Community", "Growth"]
-- **badge_styling**: `bg-card border-default text-sm px-4 py-2 rounded-default font-medium`
+- **badge_styling**: `bg-card border-default small-medium px-4 py-2 rounded-default`
 - **values_layout**: `flex flex-wrap justify-center gap-2` *[Options: flex-wrap, grid, stack]*
 
 ### Content Area
@@ -315,7 +315,7 @@ export default function AboutPage() {
 
 ### Call to Action Section
 - **cta_background**: `bg-card border-default rounded-default` *(Design system styling)*
-- **cta_title**: "Ready to Transform Your Operations?" | **typography**: `font-semibold` | **font_size**: `var(--text-xl)`
+- **cta_title**: "Ready to Transform Your Operations?" | **typography**: `subtitle-lg`
 - **cta_description**: "Join thousands of hospitality professionals who trust Pilla to streamline their operations..." | **typography**: `text-muted`
 - **cta_layout**: `flex flex-col sm:flex-row gap-4` *[Options: flex-col, flex-row, grid]*
 
@@ -323,7 +323,7 @@ export default function AboutPage() {
 - **primary_button_text**: "Get In Touch" | **href**: "/contact"
 - **primary_button_icon**: "Email icon" | **style**: `bg-blue-600 text-white hover:bg-blue-700`
 - **secondary_button_text**: "Learn More" | **href**: "/blog"
-- **secondary_button_icon**: "Book icon" | **style**: `bg-card text-blue-600 border-default hover:bg-blue-50`
+- **secondary_button_icon**: "Book icon" | **style**: `bg-card link-nav border-default hover:bg-blue-50`
 
 ### SEO & Structured Data
 - **schema_type**: "AboutPage" *(Schema.org structured data)*

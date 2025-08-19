@@ -73,12 +73,12 @@ export default async function FAQPage({ params }: FAQPageProps) {
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="lg:max-w-lg">
-              <p className="text-base/7 font-semibold text-blue-600">FAQ Answer</p>
-              <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+              <p className="eyebrow font-semibold text-blue-600">FAQ Answer</p>
+              <h1 className="mt-2 h1">
                 {faq.title}
               </h1>
               {faq.meta && (
-                <p className="mt-6 text-xl/8 text-gray-700">
+                <p className="mt-6 subtitle text-gray-700">
                   {faq.meta}
                 </p>
               )}
@@ -91,7 +91,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
               <svg className="w-12 h-12 mx-auto mb-3 opacity-90" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V21C3 22.11 3.89 23 5 23H19C20.11 23 21 22.11 21 21V9M19 9H14V4H19V9Z"/>
               </svg>
-              <h3 className="text-lg font-semibold mb-1">More Questions?</h3>
+              <h3 className="h4 font-semibold mb-1">More Questions?</h3>
               <p className="text-blue-100 text-sm">Browse our complete FAQ collection</p>
             </div>
             <div className="p-4">
@@ -113,7 +113,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
         </div>
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
-            <div className="max-w-xl text-base/7 text-gray-600 lg:max-w-lg">
+            <div className="max-w-xl text-gray-600 lg:max-w-lg">
               <MarkdownContent content={faq.content} />
               
               <ul role="list" className="mt-8 space-y-8 text-gray-600">

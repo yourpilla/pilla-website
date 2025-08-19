@@ -115,7 +115,7 @@ export default async function ToolPage({ params }: ToolPageProps) {
             {/* Breadcrumb */}
             <div className="px-8 pt-6 pb-2">
               <nav aria-label="Breadcrumb">
-                <ol className="flex items-center space-x-2 text-sm">
+                <ol className="flex items-center space-x-2 small-medium">
                   <li>
                     <Link href="/" className="text-blue-600 hover:text-blue-800">
                       Home
@@ -145,10 +145,10 @@ export default async function ToolPage({ params }: ToolPageProps) {
             
             {/* Header */}
             <div className="bg-header-group px-8 py-12 text-center">
-              <h1 className="mb-4 leading-tight">
+              <h1 className="mb-4">
                 {tool.name}
               </h1>
-              <p className="text-subtitle max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
+              <p className="subtitle-lg max-w-2xl mx-auto">
                 {tool.description}
               </p>
             </div>
@@ -164,10 +164,10 @@ export default async function ToolPage({ params }: ToolPageProps) {
             {/* How to Use Section */}
             <div className="px-8 py-12 border-t border-gray-200">
               <div className="max-w-3xl mx-auto">
-                <h2 className="text-2xl font-semibold mb-6">How to Use This Tool</h2>
-                <div className="prose prose-lg max-w-none">
+                <h2 className="mb-6">How to Use This Tool</h2>
+                <div className="max-w-none">
                   {tool.howTo.split('\n').map((line, index) => (
-                    <p key={index} className="mb-4">
+                    <p key={index} className="lead mb-4">
                       {line}
                     </p>
                   ))}
@@ -178,8 +178,8 @@ export default async function ToolPage({ params }: ToolPageProps) {
             {/* Who Is This For Section */}
             <div className="px-8 py-12 border-t border-gray-200 bg-gray-50">
               <div className="max-w-3xl mx-auto">
-                <h2 className="text-2xl font-semibold mb-6">Who Is This Tool For?</h2>
-                <p className="text-lg leading-relaxed text-gray-700">
+                <h2 className="mb-6">Who Is This Tool For?</h2>
+                <p className="lead">
                   {tool.whoFor}
                 </p>
               </div>
@@ -188,8 +188,8 @@ export default async function ToolPage({ params }: ToolPageProps) {
             {/* Why Use This Tool Section */}
             <div className="px-8 py-12 border-t border-gray-200">
               <div className="max-w-3xl mx-auto">
-                <h2 className="text-2xl font-semibold mb-6">Why Use This Tool?</h2>
-                <p className="text-lg leading-relaxed text-gray-700">
+                <h2 className="mb-6">Why Use This Tool?</h2>
+                <p className="lead">
                   {tool.whyUse}
                 </p>
               </div>
@@ -199,16 +199,16 @@ export default async function ToolPage({ params }: ToolPageProps) {
             <div className="px-8 py-12 border-t border-gray-200">
               <div className="text-center">
                 <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                  <h3 className="mb-3 font-semibold" style={{fontSize: 'var(--text-xl)'}}>
+                  <h3 className="mb-3">
                     Need More Hospitality Tools?
                   </h3>
-                  <p className="text-muted mb-6">
+                  <p className="subtitle mb-6">
                     Explore our collection of free calculators and tools designed specifically for hospitality professionals.
                   </p>
                   <div className="flex flex-col sm:flex-row gap-4 justify-center">
                     <Link
                       href="/tools"
-                      className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-default hover:bg-blue-700 transition-colors"
+                      className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-default hover:bg-blue-700 transition-colors"
                     >
                       <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
@@ -217,7 +217,7 @@ export default async function ToolPage({ params }: ToolPageProps) {
                     </Link>
                     <Link
                       href="/blog"
-                      className="inline-flex items-center px-6 py-3 bg-card text-blue-600 font-medium rounded-default border-default hover:bg-blue-50 transition-colors"
+                      className="inline-flex items-center px-6 py-3 bg-card text-blue-600 font-semibold rounded-default border-default hover:bg-blue-50 transition-colors"
                     >
                       <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
@@ -231,7 +231,7 @@ export default async function ToolPage({ params }: ToolPageProps) {
 
             {/* Footer Attribution */}
             <div className="px-8 py-6 border-t border-gray-200 bg-gray-50">
-              <div className="text-center text-sm text-gray-600">
+              <div className="text-center small-medium text-muted">
                 <p>
                   This free tool has been written by Pilla Founder,{' '}
                   <a href="https://www.linkedin.com/in/liam-jones-2a047783/" className="text-blue-600 hover:text-blue-500">
@@ -405,23 +405,23 @@ const toolStyles = `
 - **custom_styling**: CSS overrides to integrate with design system
 
 #### How to Use Section
-- **title**: "How to Use This Tool" | **typography**: `text-2xl font-semibold`
-- **content**: Step-by-step instructions from CSV | **styling**: `prose prose-lg`
+- **title**: "How to Use This Tool" | **typography**: `h2` (custom)
+- **content**: Step-by-step instructions from CSV | **styling**: `lead` (custom)
 
 #### Who Is This For Section
-- **title**: "Who Is This Tool For?" | **typography**: `text-2xl font-semibold`
+- **title**: "Who Is This Tool For?" | **typography**: `h2` (custom)
 - **background**: `bg-gray-50` *(Alternating section background)*
-- **content**: Target audience description | **styling**: `text-lg leading-relaxed`
+- **content**: Target audience description | **styling**: `lead` (custom)
 
 #### Why Use This Tool Section
-- **title**: "Why Use This Tool?" | **typography**: `text-2xl font-semibold`
-- **content**: Benefits and value proposition | **styling**: `text-lg leading-relaxed`
+- **title**: "Why Use This Tool?" | **typography**: `h2` (custom)
+- **content**: Benefits and value proposition | **styling**: `lead` (custom)
 
 ### Layout Structure
 - **breadcrumb**: Home > Tools > {tool.name}
 - **header**: Tool name and description with design system styling
 - **tool_embed**: HTML calculator with custom CSS integration
-- **info_sections**: How to use, who for, why use with prose styling
+- **info_sections**: How to use, who for, why use with custom typography styling
 - **cta_section**: Links to all tools and blog
 - **attribution**: Liam Jones credit and contact info
 

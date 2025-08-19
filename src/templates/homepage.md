@@ -881,14 +881,14 @@ export default function Example() {
 - **login_link**: "/contact"
 
 ### Hero Section
-- **announcement_text**: "New glossary terms added" | **typography**: `text-sm font-medium`
+- **announcement_text**: "New glossary terms added" | **typography**: `small-medium`
 - **announcement_link**: "/glossary"
 - **announcement_link_text**: "See latest terms" | **typography**: `text-sm`
 - **hero_title**: "Turn your hospitality operations into a leaderboard so that staff turn up on time and do the right things." | **typography**: `h1` *[Options: display-1, i'm going tdisplay-2, h1]*
 - **hero_subtitle**: "Schedule shifts, work and communicate in the same app. Company leaderboards and automated feedback will keep your teams motivated to clock in and finish work on time." | **typography**: `lead` *[Options: subtitle-lg, subtitle, lead]*
 - **primary_cta_text**: "Explore Glossary"
 - **primary_cta_link**: "/glossary"
-- **secondary_cta_text**: "Read Articles" | **typography**: `text-sm font-semibold`
+- **secondary_cta_text**: "Read Articles" | **typography**: `small-semibold`
 - **secondary_cta_link**: "/blog"
 - **hero_image**: "/images/hospitality-app-screenshot.png"
 
@@ -915,23 +915,23 @@ export default function Example() {
 - **grid_tag**: "Complete Solution" | **typography**: `eyebrow`
 - **grid_title**: "Everything hospitality professionals need to excel" | **typography**: `h2` *(auto-applied)*
 - **performance_title**: "Fast Search" | **typography**: `eyebrow` *[Options: eyebrow, overline, h6]*
-- **performance_subtitle**: "Lightning-fast glossary search" | **typography**: `text-lg font-medium` *[Options: h5, h6, text-lg font-medium]*
+- **performance_subtitle**: "Lightning-fast glossary search" | **typography**: `large-medium` *[Options: h5, h6, large-medium]*
 - **performance_description**: "Find any hospitality term instantly with our optimized search that understands industry context and synonyms." | **typography**: `text-sm text-muted` *[Options: caption, text-sm text-muted, text-xs]*
 - **performance_image**: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
 - **releases_title**: "Regular Updates" | **typography**: `eyebrow`
-- **releases_subtitle**: "Fresh content weekly" | **typography**: `text-lg font-medium`
+- **releases_subtitle**: "Fresh content weekly" | **typography**: `large-medium`
 - **releases_description**: "Stay current with new hospitality trends, terminology, and best practices added regularly." | **typography**: `text-sm text-muted`
 - **releases_image**: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
 - **speed_title**: "Mobile Ready" | **typography**: `eyebrow`
-- **speed_subtitle**: "Perfect for busy service" | **typography**: `text-lg font-medium`
+- **speed_subtitle**: "Perfect for busy service" | **typography**: `large-medium`
 - **speed_description**: "Access resources quickly on any device during service hours." | **typography**: `text-sm text-muted`
 - **speed_image**: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
 - **integrations_title**: "Comprehensive" | **typography**: `eyebrow`
-- **integrations_subtitle**: "All-in-one platform" | **typography**: `text-lg font-medium`
+- **integrations_subtitle**: "All-in-one platform" | **typography**: `large-medium`
 - **integrations_description**: "Glossary, articles, guides, and resources all in one easy-to-use platform." | **typography**: `text-sm text-muted`
 - **integrations_image**: "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
 - **network_title**: "Expert Knowledge" | **typography**: `eyebrow`
-- **network_subtitle**: "Industry-verified content" | **typography**: `text-lg font-medium`
+- **network_subtitle**: "Industry-verified content" | **typography**: `large-medium`
 - **network_description**: "All content reviewed and verified by hospitality industry experts and professionals." | **typography**: `text-sm text-muted`
 - **network_image**: "https://images.unsplash.com/photo-1556761175-4b46a572b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=2432&h=1442&q=80"
 
@@ -982,7 +982,7 @@ export default function Example() {
 - **cta_subtitle**: "Join thousands of hospitality professionals who rely on Pilla for accurate terminology and expert insights." | **typography**: `text-lg` *[Options: lead, text-lg, subtitle]*
 - **cta_primary_text**: "Browse Glossary"
 - **cta_primary_link**: "/glossary"
-- **cta_secondary_text**: "Read Articles" | **typography**: `text-sm font-semibold`
+- **cta_secondary_text**: "Read Articles" | **typography**: `small-semibold`
 - **cta_secondary_link**: "/blog"
 
 ---

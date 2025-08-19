@@ -73,12 +73,12 @@ export default async function BlogPage({ params }: BlogPageProps) {
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="lg:max-w-lg">
-              <p className="text-base/7 font-semibold text-blue-600">Hospitality Guide</p>
-              <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+              <p className="eyebrow brand">Hospitality Guide</p>
+              <h1 className="mt-2 display-2 tracking-tight text-pretty text-gray-900">
                 {post.title}
               </h1>
               {post.meta && (
-                <p className="mt-6 text-xl/8 text-gray-700">
+                <p className="mt-6 subtitle text-muted">
                   {post.meta}
                 </p>
               )}
@@ -95,7 +95,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
                 <line x1="16" y1="17" x2="8" y2="17"/>
                 <polyline points="10,9 9,9 8,9"/>
               </svg>
-              <h3 className="text-lg font-semibold mb-1">Pilla App Demo</h3>
+              <h3 className="large-medium mb-1">Pilla App Demo</h3>
               <p className="text-blue-100 text-sm">See our hospitality management platform in action</p>
             </div>
             <div className="p-4">
@@ -107,20 +107,20 @@ export default async function BlogPage({ params }: BlogPageProps) {
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
               <div className="text-center">
-                <button className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors">
+                <button className="btn bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg transition-colors">
                   Try Free Demo
                 </button>
-                <p className="text-gray-500 text-xs mt-2">No credit card required</p>
+                <p className="text-muted caption mt-2">No credit card required</p>
               </div>
             </div>
           </div>
         </div>
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
-            <div className="max-w-xl text-base/7 text-gray-600 lg:max-w-lg">
+            <div className="max-w-xl text-base text-muted lg:max-w-lg">
               <MarkdownContent content={post.content} />
               
-              <ul role="list" className="mt-8 space-y-8 text-gray-600">
+              <ul role="list" className="mt-8 space-y-8 text-muted">
                 <li className="flex gap-x-3">
                   <svg className="w-5 h-5 mt-1 flex-none text-blue-600" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/>
@@ -182,9 +182,9 @@ export default async function BlogPage({ params }: BlogPageProps) {
 *Note: This page uses dynamic content from markdown files via the content management system. The forms below show the customizable elements of the layout and sidebar.*
 
 ### Header Section (Fixed Layout)
-- **category_label**: "Hospitality Guide" | **typography**: `text-base font-semibold text-blue-600` *[Options: text-blue-600, text-indigo-600, text-gray-600]*
-- **title_source**: `{post.title}` | **typography**: `h1 + text-4xl font-semibold` *(Dynamic from content system)*
-- **subtitle_source**: `{post.meta}` | **typography**: `text-xl text-gray-700` *(Dynamic from content system)*
+- **category_label**: "Hospitality Guide" | **typography**: `eyebrow brand` *[Options: text-blue-600, text-indigo-600, text-gray-600]*
+- **title_source**: `{post.title}` | **typography**: `h1 + display-2` *(Dynamic from content system)*
+- **subtitle_source**: `{post.meta}` | **typography**: `subtitle text-muted` *(Dynamic from content system)*
 
 ### Background Pattern (SVG)
 - **background_style**: "Grid pattern with radial gradient mask" | **color**: `stroke-gray-200 fill-gray-50`
@@ -192,19 +192,19 @@ export default async function BlogPage({ params }: BlogPageProps) {
 - **enable_background**: `true` *[Options: true, false]*
 
 ### Sidebar Card (Pilla App Demo)
-- **card_title**: "Pilla App Demo" | **typography**: `text-lg font-semibold text-white`
+- **card_title**: "Pilla App Demo" | **typography**: `large-medium text-white`
 - **card_subtitle**: "See our hospitality management platform in action" | **typography**: `text-blue-100 text-sm`
 - **card_background**: `bg-gradient-to-br from-blue-500 to-blue-700` *[Options: from-blue-500 to-blue-700, from-indigo-500 to-indigo-700]*
 - **demo_image**: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format"
 - **demo_image_alt**: "Restaurant management dashboard demo"
-- **cta_button_text**: "Try Free Demo" | **typography**: `text-sm font-medium`
+- **cta_button_text**: "Try Free Demo" | **typography**: `btn`
 - **cta_button_style**: `bg-blue-600 hover:bg-blue-700` *[Options: bg-blue-600, bg-indigo-600]*
-- **disclaimer_text**: "No credit card required" | **typography**: `text-gray-500 text-xs`
+- **disclaimer_text**: "No credit card required" | **typography**: `text-muted caption`
 
 ### Main Content Area
 - **content_source**: `<MarkdownContent content={post.content} />` *(Dynamic from markdown files)*
 - **content_width**: `max-w-xl lg:max-w-lg` *[Options: max-w-lg, max-w-xl, max-w-2xl]*
-- **text_color**: `text-base text-gray-600` *[Options: text-gray-600, text-gray-700, text-gray-800]*
+- **text_color**: `text-base text-muted` *[Options: text-gray-600, text-gray-700, text-gray-800]*
 
 ### Key Features List (Fixed Content)
 - **list_title**: "Why Choose Our Content" *(Implied by context)*

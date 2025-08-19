@@ -98,15 +98,15 @@ export default function GlossaryIndex() {
                 </svg>
               </div>
             </div>
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:text-6xl">
+            <h1 className="display-1 tracking-tight text-gray-900">
               Hospitality Glossary
             </h1>
-            <p className="mt-6 max-w-3xl mx-auto text-xl leading-8 text-gray-600">
+            <p className="mt-6 max-w-3xl mx-auto lead text-muted">
               Your comprehensive guide to hospitality industry terminology. From front-of-house operations 
               to back-office management, find clear definitions for every role and concept.
             </p>
             <div className="mt-8 flex justify-center">
-              <div className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-blue-600 bg-blue-100">
+              <div className="inline-flex items-center px-4 py-2 border border-transparent small-medium rounded-md text-blue-600 bg-blue-100">
                 <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M9 3a1 1 0 012 0v5.5a.5.5 0 001 0V4a1 1 0 112 0v4.5a.5.5 0 001 0V6a1 1 0 112 0v6a6 6 0 01-6 6H9a6 6 0 01-6-6V9a1 1 0 012 0v2.5a.5.5 0 001 0V4a1 1 0 012 0v4.5a.5.5 0 001 0V3z" clipRule="evenodd" />
                 </svg>
@@ -155,8 +155,8 @@ export default function GlossaryIndex() {
             <svg className="w-12 h-12 text-gray-400 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
             </svg>
-            <h3 className="text-lg font-medium text-gray-900 mb-2">No glossary terms found</h3>
-            <p className="text-gray-600">Terms will appear here once they are added to the content directory.</p>
+            <h3 className="large-medium text-gray-900 mb-2">No glossary terms found</h3>
+            <p className="text-muted">Terms will appear here once they are added to the content directory.</p>
           </div>
         ) : (
           letters.map((letter) => (
@@ -166,10 +166,10 @@ export default function GlossaryIndex() {
                   {letter}
                 </div>
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900">
+                  <h2 className="subtitle text-gray-900">
                     {letter}
                   </h2>
-                  <p className="text-gray-600">
+                  <p className="text-muted">
                     {groupedTerms[letter].length} term{groupedTerms[letter].length !== 1 ? 's' : ''}
                   </p>
                 </div>
@@ -181,7 +181,7 @@ export default function GlossaryIndex() {
                     key={term.slug} 
                     className="group bg-white rounded-xl border border-gray-200 p-6 hover:border-blue-300 hover:shadow-lg transition-all duration-200"
                   >
-                    <h3 className="font-semibold text-lg text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                    <h3 className="large-medium text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
                       <Link 
                         href={`/glossary/${term.slug}`}
                         className="block"
@@ -190,11 +190,11 @@ export default function GlossaryIndex() {
                       </Link>
                     </h3>
                     {term.meta && (
-                      <p className="text-gray-600 text-sm leading-relaxed line-clamp-3">
+                      <p className="text-muted text-sm leading-relaxed line-clamp-3">
                         {term.meta}
                       </p>
                     )}
-                    <div className="mt-4 flex items-center text-blue-600 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity">
+                    <div className="mt-4 flex items-center text-blue-600 small-medium opacity-0 group-hover:opacity-100 transition-opacity">
                       Learn more
                       <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -241,11 +241,11 @@ export default function GlossaryIndex() {
 - **background_gradient**: `bg-gradient-to-br from-blue-50 via-white to-indigo-50` *[Options: from-blue-50 via-white to-indigo-50, bg-main, bg-gray-50]*
 - **icon_container**: `bg-blue-100` *[Options: bg-blue-100, bg-indigo-100, bg-gray-100]*
 - **icon_color**: `text-blue-600` *[Options: text-blue-600, text-indigo-600, text-gray-600]*
-- **page_title**: "Hospitality Glossary" | **typography**: `h1 + text-4xl font-bold` *[Options: h1 + text-4xl, h1 + display-2, text-5xl]*
-- **page_subtitle**: "Your comprehensive guide to hospitality industry terminology. From front-of-house operations to back-office management, find clear definitions for every role and concept." | **typography**: `text-xl leading-8 text-gray-600` *[Options: text-xl, lead, subtitle-lg]*
+- **page_title**: "Hospitality Glossary" | **typography**: `h1 + display-1` *[Options: h1 + display-1, h1 + display-2, h1]*
+- **page_subtitle**: "Your comprehensive guide to hospitality industry terminology. From front-of-house operations to back-office management, find clear definitions for every role and concept." | **typography**: `lead text-muted` *[Options: lead, subtitle, subtitle-lg]*
 - **terms_counter_bg**: `bg-blue-100` *[Options: bg-blue-100, bg-indigo-100, bg-gray-100]*
 - **terms_counter_text**: `text-blue-600` *[Options: text-blue-600, text-indigo-600, text-gray-600]*
-- **terms_counter_label**: "Terms Available" | **typography**: `text-sm font-medium`
+- **terms_counter_label**: "Terms Available" | **typography**: `small-medium`
 
 ### Alphabetical Navigation
 - **navigation_position**: `sticky top-0` *[Options: sticky top-0, relative, fixed top-0]*
@@ -263,19 +263,19 @@ export default function GlossaryIndex() {
 ### Letter Section Headers
 - **letter_badge_bg**: `bg-blue-600` *[Options: bg-blue-600, bg-indigo-600, bg-gray-600]*
 - **letter_badge_text**: `text-white` *[Options: text-white]*
-- **section_title**: **typography**: `h2 + text-3xl font-bold` *[Options: text-3xl, text-2xl, display-2]*
-- **term_count**: **typography**: `text-gray-600` *[Options: text-gray-600, text-gray-500, text-muted]*
+- **section_title**: **typography**: `h2 + subtitle` *[Options: subtitle, h2, display-2]*
+- **term_count**: **typography**: `text-muted` *[Options: text-muted, caption]*
 
 ### Term Cards
-- **term_title**: **typography**: `font-semibold text-lg text-gray-900` *[Options: font-semibold text-lg, font-bold text-lg, text-xl font-semibold]*
+- **term_title**: **typography**: `large-medium text-gray-900` *[Options: large-medium, subtitle, h3]*
 - **term_title_hover**: `group-hover:text-blue-600` *[Options: group-hover:text-blue-600, group-hover:text-indigo-600]*
-- **term_description**: **typography**: `text-gray-600 text-sm` *[Options: text-sm, caption, text-xs]*
+- **term_description**: **typography**: `text-muted text-sm` *[Options: text-sm, caption]*
 - **learn_more_color**: `text-blue-600` *[Options: text-blue-600, text-indigo-600]*
 
 ### Empty State
 - **empty_icon_color**: `text-gray-400` *[Options: text-gray-400, text-gray-300]*
-- **empty_title**: "No glossary terms found" | **typography**: `text-lg font-medium text-gray-900`
-- **empty_description**: "Terms will appear here once they are added to the content directory." | **typography**: `text-gray-600`
+- **empty_title**: "No glossary terms found" | **typography**: `large-medium text-gray-900`
+- **empty_description**: "Terms will appear here once they are added to the content directory." | **typography**: `text-muted`
 
 ### Technical Configuration
 - **content_function**: `getContentByCategory('glossary')` *(Content management integration)*

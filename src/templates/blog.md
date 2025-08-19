@@ -119,42 +119,42 @@ export default function Example() {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
-          <h2 className="text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">From the blog</h2>
-          <p className="mt-2 text-lg/8 text-gray-600">Learn how to grow your business with our expert advice.</p>
+          <h2 className="display-2 tracking-tight text-pretty text-gray-900">From the blog</h2>
+          <p className="mt-2 lead text-muted">Learn how to grow your business with our expert advice.</p>
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {posts.map((post) => (
             <article key={post.id} className="flex max-w-xl flex-col items-start justify-between">
-              <div className="flex items-center gap-x-4 text-xs">
-                <time dateTime={post.datetime} className="text-gray-500">
+              <div className="flex items-center gap-x-4 caption">
+                <time dateTime={post.datetime} className="text-muted">
                   {post.date}
                 </time>
                 <a
                   href={post.category.href}
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 small-medium text-gray-600 hover:bg-gray-100"
                 >
                   {post.category.title}
                 </a>
               </div>
               <div className="group relative grow">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 large-medium text-gray-900 group-hover:text-gray-600">
                   <a href={post.href}>
                     <span className="absolute inset-0" />
                     {post.title}
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-gray-600">{post.description}</p>
+                <p className="mt-5 line-clamp-3 text-sm text-muted">{post.description}</p>
               </div>
               <div className="relative mt-8 flex items-center gap-x-4 justify-self-end">
                 <img alt="" src={post.author.imageUrl} className="size-10 rounded-full bg-gray-50" />
-                <div className="text-sm/6">
+                <div className="text-sm">
                   <p className="font-semibold text-gray-900">
                     <a href={post.author.href}>
                       <span className="absolute inset-0" />
                       {post.author.name}
                     </a>
                   </p>
-                  <p className="text-gray-600">{post.author.role}</p>
+                  <p className="text-muted">{post.author.role}</p>
                 </div>
               </div>
             </article>
@@ -171,11 +171,11 @@ export default function Example() {
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-base/7 font-semibold text-indigo-600">Blog</h2>
-          <p className="mt-2 text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl">
+          <h2 className="eyebrow brand">Blog</h2>
+          <p className="mt-2 display-1 tracking-tight text-balance text-gray-900">
             From the blog
           </p>
-          <p className="mt-6 text-lg/8 text-gray-600">
+          <p className="mt-6 lead text-muted">
             Learn how to grow your business with our expert advice.
           </p>
         </div>
@@ -190,25 +190,25 @@ export default function Example() {
               <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
             </div>
             <div className="max-w-xl">
-              <div className="mt-8 flex items-center gap-x-4 text-xs">
-                <time dateTime="2020-03-16" className="text-gray-500">
+              <div className="mt-8 flex items-center gap-x-4 caption">
+                <time dateTime="2020-03-16" className="text-muted">
                   Mar 16, 2020
                 </time>
                 <a
                   href="#"
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 small-medium text-gray-600 hover:bg-gray-100"
                 >
                   Marketing
                 </a>
               </div>
               <div className="group relative">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 large-medium text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span className="absolute inset-0" />
                     Boost your conversion rate
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-gray-600">
+                <p className="mt-5 line-clamp-3 text-sm text-muted">
                   Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo
                   necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.
                 </p>
@@ -219,7 +219,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   className="size-10 rounded-full bg-gray-100"
                 />
-                <div className="text-sm/6">
+                <div className="text-sm">
                   <p className="font-semibold text-gray-900">
                     <a href="#">
                       <span className="absolute inset-0" />
@@ -242,25 +242,25 @@ export default function Example() {
               <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
             </div>
             <div className="max-w-xl">
-              <div className="mt-8 flex items-center gap-x-4 text-xs">
-                <time dateTime="2020-03-16" className="text-gray-500">
+              <div className="mt-8 flex items-center gap-x-4 caption">
+                <time dateTime="2020-03-16" className="text-muted">
                   Mar 16, 2020
                 </time>
                 <a
                   href="#"
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 small-medium text-gray-600 hover:bg-gray-100"
                 >
                   Marketing
                 </a>
               </div>
               <div className="group relative">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 large-medium text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span className="absolute inset-0" />
                     How to use search engine optimization to drive sales
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-gray-600">
+                <p className="mt-5 line-clamp-3 text-sm text-muted">
                   Optio cum necessitatibus dolor voluptatum provident commodi et. Qui aperiam fugiat nemo cumque.
                 </p>
               </div>
@@ -270,7 +270,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   className="size-10 rounded-full bg-gray-100"
                 />
-                <div className="text-sm/6">
+                <div className="text-sm">
                   <p className="font-semibold text-gray-900">
                     <a href="#">
                       <span className="absolute inset-0" />
@@ -293,25 +293,25 @@ export default function Example() {
               <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
             </div>
             <div className="max-w-xl">
-              <div className="mt-8 flex items-center gap-x-4 text-xs">
-                <time dateTime="2020-03-16" className="text-gray-500">
+              <div className="mt-8 flex items-center gap-x-4 caption">
+                <time dateTime="2020-03-16" className="text-muted">
                   Mar 16, 2020
                 </time>
                 <a
                   href="#"
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 small-medium text-gray-600 hover:bg-gray-100"
                 >
                   Marketing
                 </a>
               </div>
               <div className="group relative">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 large-medium text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span className="absolute inset-0" />
                     Improve your customer experience
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-gray-600">
+                <p className="mt-5 line-clamp-3 text-sm text-muted">
                   Cupiditate maiores ullam eveniet adipisci in doloribus nulla minus. Voluptas iusto libero adipisci
                   rem et corporis.
                 </p>
@@ -322,7 +322,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   className="size-10 rounded-full bg-gray-100"
                 />
-                <div className="text-sm/6">
+                <div className="text-sm">
                   <p className="font-semibold text-gray-900">
                     <a href="#">
                       <span className="absolute inset-0" />
@@ -345,25 +345,25 @@ export default function Example() {
               <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
             </div>
             <div className="max-w-xl">
-              <div className="mt-8 flex items-center gap-x-4 text-xs">
-                <time dateTime="2020-03-16" className="text-gray-500">
+              <div className="mt-8 flex items-center gap-x-4 caption">
+                <time dateTime="2020-03-16" className="text-muted">
                   Mar 16, 2020
                 </time>
                 <a
                   href="#"
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 small-medium text-gray-600 hover:bg-gray-100"
                 >
                   Marketing
                 </a>
               </div>
               <div className="group relative">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 large-medium text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span className="absolute inset-0" />
                     Writing effective landing page copy
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-gray-600">
+                <p className="mt-5 line-clamp-3 text-sm text-muted">
                   Sunt reprehenderit voluptatem veritatis eveniet voluptate. Aut consectetur voluptatem aspernatur
                   sequi sit laborum. Voluptas enim dolorum voluptatum nam voluptas exercitationem nam officia. Eos
                   rerum unde numquam sapiente hic tempora et.
@@ -375,7 +375,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   className="size-10 rounded-full bg-gray-100"
                 />
-                <div className="text-sm/6">
+                <div className="text-sm">
                   <p className="font-semibold text-gray-900">
                     <a href="#">
                       <span className="absolute inset-0" />
@@ -398,25 +398,25 @@ export default function Example() {
               <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
             </div>
             <div className="max-w-xl">
-              <div className="mt-8 flex items-center gap-x-4 text-xs">
-                <time dateTime="2020-03-16" className="text-gray-500">
+              <div className="mt-8 flex items-center gap-x-4 caption">
+                <time dateTime="2020-03-16" className="text-muted">
                   Mar 16, 2020
                 </time>
                 <a
                   href="#"
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 small-medium text-gray-600 hover:bg-gray-100"
                 >
                   Marketing
                 </a>
               </div>
               <div className="group relative">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 large-medium text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span className="absolute inset-0" />
                     How to grow your business with content marketing
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-gray-600">
+                <p className="mt-5 line-clamp-3 text-sm text-muted">
                   Libero neque animi esse distinctio nihil sunt veritatis. Suscipit corrupti et veniam optio sit.
                   Sed consequatur rerum molestias amet.
                 </p>
@@ -427,7 +427,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   className="size-10 rounded-full bg-gray-100"
                 />
-                <div className="text-sm/6">
+                <div className="text-sm">
                   <p className="font-semibold text-gray-900">
                     <a href="#">
                       <span className="absolute inset-0" />
@@ -450,25 +450,25 @@ export default function Example() {
               <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
             </div>
             <div className="max-w-xl">
-              <div className="mt-8 flex items-center gap-x-4 text-xs">
-                <time dateTime="2020-03-16" className="text-gray-500">
+              <div className="mt-8 flex items-center gap-x-4 caption">
+                <time dateTime="2020-03-16" className="text-muted">
                   Mar 16, 2020
                 </time>
                 <a
                   href="#"
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 small-medium text-gray-600 hover:bg-gray-100"
                 >
                   Marketing
                 </a>
               </div>
               <div className="group relative">
-                <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+                <h3 className="mt-3 large-medium text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span className="absolute inset-0" />
                     Our top 10 Javascript frameworks to use
                   </a>
                 </h3>
-                <p className="mt-5 line-clamp-3 text-sm/6 text-gray-600">
+                <p className="mt-5 line-clamp-3 text-sm text-muted">
                   Iure laudantium temporibus minus voluptatem assumenda voluptatem est. Molestias enim earum cum
                   voluptas. Minima consequuntur est.
                 </p>
@@ -479,7 +479,7 @@ export default function Example() {
                   src="https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                   className="size-10 rounded-full bg-gray-100"
                 />
-                <div className="text-sm/6">
+                <div className="text-sm">
                   <p className="font-semibold text-gray-900">
                     <a href="#">
                       <span className="absolute inset-0" />
@@ -513,7 +513,7 @@ export default function Example() {
 - **eyebrow** (14px, uppercase, muted) - Small labels above headings
 - **text-muted** - Muted gray color
 - **text-sm** - Small text (14px)
-- **text-xs** - Extra small text (12px)
+- **caption** - Extra small text (12px)
 - **caption** - Small descriptive text
 - **overline** - Tiny uppercase text
 
@@ -522,47 +522,47 @@ export default function Example() {
 ## Content & Typography Forms
 
 ### Header Section (Version A - Left Aligned)
-- **main_title**: "Hospitality Resources & Insights" | **typography**: `h2 + text-4xl font-semibold` *[Options: h2 + text-4xl, h2 + display-2, text-5xl]*
-- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `lead` *[Options: lead, text-lg, subtitle-lg]*
+- **main_title**: "Hospitality Resources & Insights" | **typography**: `h2 + display-2` *[Options: h2 + text-4xl, h2 + display-2, h1]*
+- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `lead` *[Options: lead, subtitle, subtitle-lg]*
 
 ### Header Section (Version B - Center Aligned)  
-- **section_tag**: "Resources" | **typography**: `eyebrow` *[Options: eyebrow, text-base font-semibold]*
-- **main_title**: "Hospitality Resources & Insights" | **typography**: `h2 + display-2` *[Options: h2 + display-1, h2 + display-2, text-5xl]*
-- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `lead` *[Options: lead, text-lg, subtitle-lg]*
+- **section_tag**: "Resources" | **typography**: `eyebrow` *[Options: eyebrow, small-semibold]*
+- **main_title**: "Hospitality Resources & Insights" | **typography**: `h2 + display-2` *[Options: h2 + display-1, h2 + display-2, h1]*
+- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `lead` *[Options: lead, subtitle, subtitle-lg]*
 
 ### Blog Posts Array (3 posts for now)
 #### Post 1
-- **post_1_title**: "Restaurant Kitchen Management: Essential Systems for Success" | **typography**: `font-semibold`
+- **post_1_title**: "Restaurant Kitchen Management: Essential Systems for Success" | **typography**: `large-medium`
 - **post_1_href**: "/blog/restaurant-kitchen-management-systems"
 - **post_1_description**: "Streamline your kitchen operations with proven management systems that reduce waste, improve efficiency, and maintain consistent food quality during busy service periods." | **typography**: `text-sm text-muted`
 - **post_1_date**: "Nov 15, 2024" | **post_1_datetime**: "2024-11-15"
-- **post_1_category_title**: "Operations" | **typography**: `font-medium`
+- **post_1_category_title**: "Operations" | **typography**: `small-medium`
 - **post_1_category_href**: "/blog?category=operations"
-- **post_1_author_name**: "Sarah Johnson" | **typography**: `font-semibold`
+- **post_1_author_name**: "Sarah Johnson" | **typography**: `large-medium`
 - **post_1_author_role**: "Head Chef & Operations Consultant" | **typography**: `text-muted`
 - **post_1_author_href**: "/blog?author=sarah-johnson"
 - **post_1_author_image**: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
 
 #### Post 2
-- **post_2_title**: "Creating Memorable Guest Experiences: A Complete Guide" | **typography**: `font-semibold`
+- **post_2_title**: "Creating Memorable Guest Experiences: A Complete Guide" | **typography**: `large-medium`
 - **post_2_href**: "/blog/memorable-guest-experiences-guide"
 - **post_2_description**: "Learn how to exceed guest expectations through personalized service, attention to detail, and proactive problem-solving techniques that build lasting customer loyalty." | **typography**: `text-sm text-muted`
 - **post_2_date**: "Nov 12, 2024" | **post_2_datetime**: "2024-11-12"
-- **post_2_category_title**: "Guest Services" | **typography**: `font-medium`
+- **post_2_category_title**: "Guest Services" | **typography**: `small-medium`
 - **post_2_category_href**: "/blog?category=guest-services"
-- **post_2_author_name**: "Emma Martinez" | **typography**: `font-semibold`
+- **post_2_author_name**: "Emma Martinez" | **typography**: `large-medium`
 - **post_2_author_role**: "Hotel Manager & Guest Experience Expert" | **typography**: `text-muted`
 - **post_2_author_href**: "/blog?author=emma-martinez"
 - **post_2_author_image**: "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
 
 #### Post 3
-- **post_3_title**: "HACCP Implementation: Step-by-Step Food Safety Guide" | **typography**: `font-semibold`
+- **post_3_title**: "HACCP Implementation: Step-by-Step Food Safety Guide" | **typography**: `large-medium`
 - **post_3_href**: "/blog/haccp-implementation-food-safety-guide"
 - **post_3_description**: "Master HACCP principles with our comprehensive guide covering critical control points, monitoring procedures, and documentation requirements for hospitality businesses and restaurant operations." | **typography**: `text-sm text-muted`
 - **post_3_date**: "Nov 10, 2024" | **post_3_datetime**: "2024-11-10"
-- **post_3_category_title**: "Food Safety" | **typography**: `font-medium`
+- **post_3_category_title**: "Food Safety" | **typography**: `small-medium`
 - **post_3_category_href**: "/blog?category=food-safety"
-- **post_3_author_name**: "Marcus Chen" | **typography**: `font-semibold`
+- **post_3_author_name**: "Marcus Chen" | **typography**: `large-medium`
 - **post_3_author_role**: "Food Safety Consultant" | **typography**: `text-muted`
 - **post_3_author_href**: "/blog?author=marcus-chen"
 - **post_3_author_image**: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"

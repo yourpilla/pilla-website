@@ -240,54 +240,53 @@ export default function Example() {
 - **logo_height**: "h-9" | *Logo height class* *[Options: h-8, h-9, h-10, h-12]*
 
 ### Solutions Section
-- **solutions_title**: "Solutions" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Solutions section title*
-- **solution_1_name**: "Marketing" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *First solution name*
+- **solutions_title**: "Solutions" | **typography**: `text-sm font-semibold` | *Solutions section title*
+- **solution_1_name**: "Marketing" | **typography**: `text-sm link-nav` | *First solution name*
 - **solution_1_href**: "#" | *First solution URL*
-- **solution_2_name**: "Analytics" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Second solution name*
+- **solution_2_name**: "Analytics" | **typography**: `text-sm link-nav` | *Second solution name*
 - **solution_2_href**: "#" | *Second solution URL*
-- **solution_3_name**: "Automation" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Third solution name*
+- **solution_3_name**: "Automation" | **typography**: `text-sm link-nav` | *Third solution name*
 - **solution_3_href**: "#" | *Third solution URL*
-- **solution_4_name**: "Commerce" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Fourth solution name*
+- **solution_4_name**: "Commerce" | **typography**: `text-sm link-nav` | *Fourth solution name*
 - **solution_4_href**: "#" | *Fourth solution URL*
-- **solution_5_name**: "Insights" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Fifth solution name*
+- **solution_5_name**: "Insights" | **typography**: `text-sm link-nav` | *Fifth solution name*
 - **solution_5_href**: "#" | *Fifth solution URL*
 
 ### Support Section
-- **support_title**: "Support" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Support section title*
-- **support_1_name**: "Submit ticket" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *First support item*
+- **support_title**: "Support" | **typography**: `text-sm font-semibold` | *Support section title*
+- **support_1_name**: "Submit ticket" | **typography**: `text-sm link-nav` | *First support item*
 - **support_1_href**: "#" | *First support URL*
-- **support_2_name**: "Documentation" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Second support item*
+- **support_2_name**: "Documentation" | **typography**: `text-sm link-nav` | *Second support item*
 - **support_2_href**: "#" | *Second support URL*
-- **support_3_name**: "Guides" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Third support item*
+- **support_3_name**: "Guides" | **typography**: `text-sm link-nav` | *Third support item*
 - **support_3_href**: "#" | *Third support URL*
 
 ### Company Section
-- **company_title**: "Company" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Company section title*
-- **company_1_name**: "About" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *First company link*
+- **company_title**: "Company" | **typography**: `text-sm font-semibold` | *Company section title*
+- **company_1_name**: "About" | **typography**: `text-sm link-nav` | *First company link*
 - **company_1_href**: "#" | *First company URL*
-- **company_2_name**: "Blog" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Second company link*
+- **company_2_name**: "Blog" | **typography**: `text-sm link-nav` | *Second company link*
 - **company_2_href**: "#" | *Second company URL*
-- **company_3_name**: "Jobs" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Third company link*
+- **company_3_name**: "Jobs" | **typography**: `text-sm link-nav` | *Third company link*
 - **company_3_href**: "#" | *Third company URL*
-- **company_4_name**: "Press" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Fourth company link*
+- **company_4_name**: "Press" | **typography**: `text-sm link-nav` | *Fourth company link*
 - **company_4_href**: "#" | *Fourth company URL*
 
 ### Legal Section
-- **legal_title**: "Legal" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Legal section title*
-- **legal_1_name**: "Terms of service" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *First legal link*
+- **legal_title**: "Legal" | **typography**: `text-sm font-semibold` | *Legal section title*
+- **legal_1_name**: "Terms of service" | **typography**: `text-sm link-nav` | *First legal link*
 - **legal_1_href**: "#" | *First legal URL*
-- **legal_2_name**: "Privacy policy" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Second legal link*
+- **legal_2_name**: "Privacy policy" | **typography**: `text-sm link-nav` | *Second legal link*
 - **legal_2_href**: "#" | *Second legal URL*
-- **legal_3_name**: "License" | **typography**: `text-sm/6 text-gray-600 hover:text-gray-900` | *Third legal link*
+- **legal_3_name**: "License" | **typography**: `text-sm link-nav` | *Third legal link*
 - **legal_3_href**: "#" | *Third legal URL*
 
 ### Newsletter Section
-- **newsletter_title**: "Subscribe to our newsletter" | **typography**: `text-sm/6 font-semibold text-gray-900` | *Newsletter section title*
-- **newsletter_description**: "The latest news, articles, and resources, sent to your inbox weekly." | **typography**: `text-sm/6 text-gray-600` | *Newsletter description*
-- **newsletter_input_placeholder**: "Enter your email" | *Email input placeholder text*
+- **newsletter_title**: "Subscribe to our newsletter" | **typography**: `text-sm font-semibold` | *Newsletter section title*
+- **newsletter_description**: "The latest news, articles, and resources, sent to your inbox weekly." | **typography**: `text-sm text-muted` | *Newsletter description*
+- **newsletter_input_placeholder**: "Enter your email" | **typography**: `input` | *Email input styling*
 - **newsletter_input_label**: "Email address" | *Screen reader label for email input*
-- **newsletter_button_text**: "Subscribe" | **typography**: `text-sm font-semibold text-white` | *Subscribe button text*
-- **newsletter_button_style**: "bg-indigo-600 hover:bg-indigo-500 focus-visible:outline-indigo-600" | *Subscribe button styling*
+- **newsletter_button_text**: "Subscribe" | **typography**: `btn` | *Subscribe button using global btn styling*
 
 ### Social Media Links
 - **social_facebook_href**: "#" | *Facebook URL*
@@ -298,7 +297,7 @@ export default function Example() {
 - **social_icon_style**: "text-gray-600 hover:text-gray-800" | *Social media icon styling*
 
 ### Footer Bottom
-- **copyright_text**: "© 2024 Your Company, Inc. All rights reserved." | **typography**: `text-sm/6 text-gray-600` | *Copyright notice*
+- **copyright_text**: "© 2024 Your Company, Inc. All rights reserved." | **typography**: `text-sm text-muted` | *Copyright notice*
 - **footer_divider_style**: "border-t border-gray-900/10" | *Footer section divider styling*
 
 ---

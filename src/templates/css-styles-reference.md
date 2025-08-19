@@ -150,6 +150,21 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Font Size:** 0.75rem (12px)
 - **Line Height:** 1.5
 
+#### .small-medium
+- **Font Size:** 0.875rem (14px)
+- **Font Weight:** 500
+- **Line Height:** 1.6
+
+#### .small-semibold
+- **Font Size:** 0.875rem (14px)
+- **Font Weight:** 600
+- **Line Height:** 1.6
+
+#### .large-medium
+- **Font Size:** 1.125rem (18px)
+- **Font Weight:** 500
+- **Line Height:** 1.6
+
 ### Special Text Classes
 
 #### .eyebrow
@@ -238,6 +253,39 @@ This template lists all CSS styles and their properties for easy editing in mark
 - **Transition:** all 0.2s ease
 - **Hover Background:** #1F2937
 - **Focus Outline:** 2px solid #374151 with 2px offset
+
+## Form Styles
+
+#### .input
+- **Background Color:** #FFFFFF
+- **Border:** 1px solid #374151
+- **Border Radius:** var(--radius) [5px]
+- **Padding:** 10px 12px
+- **Font Size:** 16px
+- **Font Family:** Arial, sans-serif
+- **Color:** #374151
+- **Transition:** all 0.2s ease
+- **Outline:** none
+- **Focus Border Color:** #374151
+- **Placeholder Color:** #9CA3AF
+
+## Brand Styles
+
+#### .brand
+- **Font Size:** 1.25rem (20px)
+- **Font Weight:** 700
+- **Color:** #374151
+- **Line Height:** 1.2
+
+## Navigation Styles
+
+#### .link-nav
+- **Color:** #374151
+- **Transition:** all 0.2s ease
+- **Text Decoration:** underline (1px thickness)
+- **Text Underline Offset:** 2px
+- **Hover Color:** #1F2937
+- **Hover Decoration:** 2px thickness
 
 ## Utility Classes
 
