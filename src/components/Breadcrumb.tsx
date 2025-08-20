@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import { useEffect, useState } from 'react'
 
 export interface BreadcrumbItem {
   name: string
@@ -58,13 +59,49 @@ function generateBreadcrumbsFromPath(pathname: string): BreadcrumbItem[] {
 
 export default function Breadcrumb({ items, className = '' }: BreadcrumbProps) {
   const pathname = usePathname()
+  const [enhancedBreadcrumbs, setEnhancedBreadcrumbs] = useState<BreadcrumbItem[] | null>(null)
+  const [loading, setLoading] = useState(false)
   
-  // Use provided items or generate from pathname
-  const breadcrumbItems = items || generateBreadcrumbsFromPath(pathname)
+  // Check if this is a blog or FAQ page that might have enhanced breadcrumbs
+  const isEnhancedPage = pathname.startsWith('/blog/') || pathname.startsWith('/answers/')
+  
+  useEffect(() => {
+    if (isEnhancedPage && !items) {
+      setLoading(true)
+      fetch(`/api/breadcrumbs?pathname=${encodeURIComponent(pathname)}`)
+        .then(res => res.json())
+        .then(data => {
+          if (data.breadcrumbs && data.breadcrumbs.length > 2) {
+            // Only use enhanced breadcrumbs if they have more than basic path-based ones
+            setEnhancedBreadcrumbs(data.breadcrumbs)
+          }
+        })
+        .catch(error => {
+          console.error('Error fetching enhanced breadcrumbs:', error)
+        })
+        .finally(() => {
+          setLoading(false)
+        })
+    }
+  }, [pathname, isEnhancedPage, items])
+  
+  // Use provided items, enhanced breadcrumbs, or generate from pathname
+  const breadcrumbItems = items || enhancedBreadcrumbs || generateBreadcrumbsFromPath(pathname)
   
   // Don't show breadcrumb on home page
   if (pathname === '/') {
     return null
+  }
+  
+  // Show loading state briefly
+  if (loading && isEnhancedPage && !items) {
+    return (
+      <div className={`px-8 py-3 border-b border-gray-200 bg-white ${className}`}>
+        <div className="mx-auto max-w-7xl">
+          <div className="h-5 bg-gray-200 animate-pulse rounded w-64"></div>
+        </div>
+      </div>
+    )
   }
   return (
     <div className={`px-8 py-3 border-b border-gray-200 bg-white ${className}`}>

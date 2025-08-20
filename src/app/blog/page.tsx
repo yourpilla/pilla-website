@@ -1,7 +1,5 @@
 import { getContentByCategory } from '@/lib/content';
 import Link from 'next/link';
-import BreadcrumbSection from '@/components/BreadcrumbSection';
-import { generateBreadcrumbsFromPath } from '@/lib/breadcrumbs';
 
 export default function BlogPage() {
   const allPosts = getContentByCategory('blog');
@@ -16,13 +14,8 @@ export default function BlogPage() {
     return a.title.localeCompare(b.title);
   });
 
-  // Generate breadcrumbs for the blog listing page
-  const breadcrumbs = generateBreadcrumbsFromPath('/blog')
-
   return (
-    <>
-      <BreadcrumbSection items={breadcrumbs} />
-      <div className="bg-main py-24 sm:py-32">
+    <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
           <h2 className="h2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">Hospitality Resources & Insights</h2>
@@ -50,7 +43,6 @@ export default function BlogPage() {
           ))}
         </div>
       </div>
-      </div>
-    </>
+    </div>
   )
 }
