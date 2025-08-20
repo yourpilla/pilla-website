@@ -73,15 +73,9 @@ export default async function FAQPage({ params }: FAQPageProps) {
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="lg:max-w-lg">
-              <p className="eyebrow font-semibold text-blue-600">FAQ Answer</p>
               <h1 className="mt-2 h1">
                 {faq.title}
               </h1>
-              {faq.meta && (
-                <p className="mt-6 subtitle text-gray-700">
-                  {faq.meta}
-                </p>
-              )}
             </div>
           </div>
         </div>
@@ -115,33 +109,6 @@ export default async function FAQPage({ params }: FAQPageProps) {
           <div className="lg:pr-4">
             <div className="max-w-xl text-gray-600 lg:max-w-lg">
               <MarkdownContent content={faq.content} />
-              
-              <ul role="list" className="mt-8 space-y-8 text-gray-600">
-                <li className="flex gap-x-3">
-                  <svg className="w-5 h-5 mt-1 flex-none text-blue-600" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
-                  </svg>
-                  <span>
-                    <strong className="font-semibold text-gray-900">Expert verified.</strong> All answers are reviewed and verified by hospitality industry professionals.
-                  </span>
-                </li>
-                <li className="flex gap-x-3">
-                  <svg className="w-5 h-5 mt-1 flex-none text-blue-600" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 100-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 100-4m0 4v2m0-6V4"/>
-                  </svg>
-                  <span>
-                    <strong className="font-semibold text-gray-900">Practical solutions.</strong> Real-world answers that you can implement immediately in your hospitality business.
-                  </span>
-                </li>
-                <li className="flex gap-x-3">
-                  <svg className="w-5 h-5 mt-1 flex-none text-blue-600" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V21C3 22.11 3.89 23 5 23H19C20.11 23 21 22.11 21 21V9M19 9H14V4H19V9Z"/>
-                  </svg>
-                  <span>
-                    <strong className="font-semibold text-gray-900">Always updated.</strong> We regularly update our answers to reflect current industry standards and best practices.
-                  </span>
-                </li>
-              </ul>
             </div>
           </div>
         </div>
@@ -177,9 +144,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
 *Note: This page uses dynamic content from the answers content management system. The forms below show the customizable elements of the layout and sidebar.*
 
 ### Header Section (Fixed Layout)
-- **category_label**: "FAQ Answer" | **typography**: `text-base font-semibold text-blue-600` *[Options: text-blue-600, text-indigo-600, text-gray-600]*
 - **title_source**: `{faq.title}` | **typography**: `h1 + text-4xl font-semibold` *(Dynamic from content system)*
-- **subtitle_source**: `{faq.meta}` | **typography**: `text-xl text-gray-700` *(Dynamic from content system)*
 
 ### Background Pattern (SVG)
 - **background_style**: "Grid pattern with radial gradient mask" | **color**: `stroke-gray-200 fill-gray-50`
@@ -201,19 +166,6 @@ export default async function FAQPage({ params }: FAQPageProps) {
 - **content_width**: `max-w-xl lg:max-w-lg` *[Options: max-w-lg, max-w-xl, max-w-2xl]*
 - **text_color**: `text-base text-gray-600` *[Options: text-gray-600, text-gray-700, text-gray-800]*
 
-### Key Features List (Fixed Content)
-- **list_title**: "Why Trust Our Answers" *(Implied by context)*
-- **feature_1_icon**: "Checkmark/Verified Icon" | **color**: `text-blue-600`
-- **feature_1_title**: "Expert verified." | **typography**: `font-semibold text-gray-900`
-- **feature_1_description**: "All answers are reviewed and verified by hospitality industry professionals." | **typography**: `span`
-
-- **feature_2_icon**: "Settings/Solutions Icon" | **color**: `text-blue-600`
-- **feature_2_title**: "Practical solutions." | **typography**: `font-semibold text-gray-900`
-- **feature_2_description**: "Real-world answers that you can implement immediately in your hospitality business." | **typography**: `span`
-
-- **feature_3_icon**: "Document/Updated Icon" | **color**: `text-blue-600`
-- **feature_3_title**: "Always updated." | **typography**: `font-semibold text-gray-900`
-- **feature_3_description**: "We regularly update our answers to reflect current industry standards and best practices." | **typography**: `span`
 
 ### Technical Configuration
 - **content_function**: `getContentBySlug('answers', slug)` *(Content management integration)*
