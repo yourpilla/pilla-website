@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I provide insights into career progression in a sommelier job description?
-
 When writing a job description for a sommelier, it's important to clearly outline the career progression opportunities available within your establishment. This helps attract candidates who are not just looking for a job, but a career path. Mention specific training programs, potential for promotions, and any unique opportunities like international wine tours or advanced certification support.
 
 **Common misunderstanding: Career progression is only about promotions.**

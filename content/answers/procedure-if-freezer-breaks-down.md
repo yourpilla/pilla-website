@@ -1,6 +1,5 @@
 ---
-title: |
-  What's the procedure if the freezer breaks down?
+title: What's the procedure if the freezer breaks down?
 meta: >
   Learn the proper procedure for handling food during a freezer breakdown,
   including what to discard, what can be saved, and how to document it all in
@@ -108,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step procedures and protocols
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What's the procedure if the freezer breaks down?
-
 If your freezer breaks down, here's what you need to do
 
 1.  First, check if the food is still frozen solid. If it is, quickly transfer it to another freezer.

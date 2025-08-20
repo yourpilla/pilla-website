@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I highlight training opportunities in a Restaurant Manager job description?
-
 When writing a job description for a Restaurant Manager, it's important to clearly mention any training opportunities. This shows potential candidates that you invest in their growth and development. Include specific training programs, workshops, or courses that the manager will have access to. This can make your job offer more attractive and help you attract candidates who are eager to learn and grow.
 
 **Common misunderstanding: Training opportunities should be mentioned briefly and vaguely.**

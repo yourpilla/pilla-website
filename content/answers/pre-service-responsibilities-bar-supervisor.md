@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What pre-service responsibilities should I list in a Bar Supervisor job description?
-
 When writing a job description for a Bar Supervisor, it's important to clearly outline the pre-service responsibilities. These tasks are crucial for ensuring the bar operates smoothly from the moment it opens. Responsibilities should include overseeing the bar's setup, conducting inventory checks, and ensuring all equipment is functioning properly.
 
 **Common misunderstanding: Pre-service tasks are just about physical setup.**

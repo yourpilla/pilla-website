@@ -115,13 +115,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What essential skills should I list in a Bartender job description?
-
 When writing a job description for a bartender, it's important to list skills that are directly related to the daily responsibilities of the role. Essential skills might include mixology proficiency, customer service excellence, and the ability to manage cash and inventory efficiently. These skills ensure that the bartender can handle the core aspects of their job effectively.
 
 **Common misunderstanding: All bartenders need to have experience with every type of drink preparation.**

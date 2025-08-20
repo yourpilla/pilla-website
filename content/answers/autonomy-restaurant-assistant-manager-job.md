@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How much autonomy should I include in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly define the level of autonomy they will have. This helps set clear expectations and ensures that candidates understand the scope of their decision-making power. Typically, you should allow autonomy in daily operational decisions, while strategic decisions should be aligned with senior management.
 
 **Common misunderstanding: Autonomy means making all decisions without input.**

@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How should I mention teamwork in a Catering Assistant job description?
-
 In your job description, it's important to highlight how teamwork is central to the role of a Catering Assistant. Describe scenarios where teamwork is essential, such as during event setups or when managing multiple tasks simultaneously. Make it clear that being a good team player will involve supporting colleagues, sharing responsibilities, and communicating effectively to ensure smooth operations.
 
 **Common misunderstanding: Teamwork just means getting along with coworkers.**

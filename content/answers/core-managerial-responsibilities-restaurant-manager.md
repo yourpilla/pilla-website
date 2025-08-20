@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What core managerial responsibilities should I include in a Restaurant Manager job description?
-
 When writing a job description for a Restaurant Manager, include responsibilities that cover daily operations, staff management, and financial oversight. These should reflect the specific needs of your restaurant to ensure the manager can handle all aspects of running the establishment effectively.
 
 **Common misunderstanding: A generic list of responsibilities is sufficient for any restaurant.**

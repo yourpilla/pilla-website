@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How should I date label food after it has cooled?
-
 After cooling food, it's important to label it with the date it was cooked and cooled. This helps you keep track of how long the food can safely be stored before it must be used or thrown away. Always write the date on the container or use a date label so everyone in the kitchen can see it clearly.
 
 **Common misunderstanding: It’s okay to just remember when food was cooled and use it within a few days.**

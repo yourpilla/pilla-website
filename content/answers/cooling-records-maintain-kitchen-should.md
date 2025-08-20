@@ -113,13 +113,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What cooling records should I maintain in the kitchen?
-
 In your kitchen, it's important to keep detailed records of the cooling times and temperatures for all types of food. This helps ensure food safety and compliance with health regulations. Record the start and end times of cooling, the temperatures at these times, the type of food, and who performed the cooling.
 
 **Common misunderstanding: Recording cooling times and temperatures is only necessary for certain types of food.**

@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Should I defrost the freezer manually or wait for auto-defrost?
-
 If your freezer has an auto-defrost feature, you should use it as this is the most efficient way to maintain your freezer. Auto-defrost helps keep the freezer running efficiently by automatically melting away built-up frost that could impact the unit's performance.
 
 However, if your freezer doesn't have auto-defrost, you'll need to manually defrost it regularly. When doing this, you'll need to turn off the freezer and allow the ice to melt naturally. Remember to plan this carefully as it can take several hours, and you'll need to temporarily store your frozen items in another freezer or insulated cooler bags.

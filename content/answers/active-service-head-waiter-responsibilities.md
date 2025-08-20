@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the active service responsibilities of a Head Waiter in a job description?
-
 When writing a job description for a Head Waiter, it's important to highlight their active roles during service. These include leading the floor team, ensuring guest satisfaction, and managing service flow. They are also responsible for addressing any issues that arise, such as guest complaints or unexpected changes in service demand.
 
 **Common misunderstanding: Head Waiters are primarily responsible for setting tables and taking orders.**

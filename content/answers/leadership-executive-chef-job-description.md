@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I describe leadership expectations in an Executive Chef job description?
-
 When writing a job description for an Executive Chef, it's important to clearly outline the leadership expectations. This includes detailing how they should manage the kitchen, interact with staff, and uphold standards. For example, you might expect the Executive Chef to lead by example, maintain high culinary standards, and manage the kitchen team effectively.
 
 **Common misunderstanding: Leadership skills are the same across all roles.**

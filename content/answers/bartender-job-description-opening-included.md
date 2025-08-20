@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What should be included in the opening of a Bartender job description?
-
 The opening of a Bartender job description should set the stage for what it's like to work at your venue. It should include a brief introduction to your bar's atmosphere, the type of service you offer, and what makes your place unique. This helps potential candidates quickly understand if they might be a good fit for your team.
 
 **Common misunderstanding: The opening is just a basic introduction, so it doesn’t need much detail.**

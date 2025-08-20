@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What daily guest engagement responsibilities should be included in a Concierge
   job description?
 meta: >
@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What daily guest engagement responsibilities should be included in a Concierge job description?
-
 When writing a job description for a Concierge, it's important to clearly list the daily responsibilities that involve engaging with guests. These include organising transportation, making reservations for dining and events, and handling guest queries and administrative tasks. This ensures guests have a seamless and enjoyable experience at your establishment.
 
 **Common misunderstanding: A Concierge's job is mostly about handling guest check-ins and check-outs.**

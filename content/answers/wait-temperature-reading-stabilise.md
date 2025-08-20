@@ -109,13 +109,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Temperature monitoring guidelines and procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How long should I wait for the temperature reading on my food probe thermometer to stabilise?
-
 When using a probe thermometer, you need to wait until the temperature reading remains static for at least 10 seconds before taking your reading. This ensures you get an accurate measurement.
 
 Remember to keep the probe at least 2 inches deep in whatever you're testing, and make sure it's not touching the sides or bottom of any container.

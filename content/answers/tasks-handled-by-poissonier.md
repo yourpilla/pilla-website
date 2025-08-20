@@ -106,13 +106,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What tasks are handled by the Poissonier?
-
 The Poissonier, or Fish Chef, is a specialised role in professional kitchens, focusing mainly on fish dishes. This chef handles everything from selecting and butchering fish to cooking and creating accompanying sauces. A typical day might involve checking the freshness of fish, preparing it for cooking, and ensuring each dish is cooked to perfection to meet the restaurant's standards.
 
 **Common misunderstanding: The Poissonier only cooks the fish.**

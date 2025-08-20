@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What tone should I use in a Bartender job description?
-
 The tone of your Bartender job description should match the atmosphere and style of your venue. It's important to be welcoming and professional, giving potential candidates a real sense of what it's like to work at your bar. This helps attract people who will fit well with your team and customer base.
 
 **Common misunderstanding: A professional job description must be strictly formal.**

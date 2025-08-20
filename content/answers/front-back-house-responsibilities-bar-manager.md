@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Key distinctions and comparative analysis
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What is the difference between front-of-house and back-of-house responsibilities for a Bar Manager?
-
 Front-of-house (FOH) responsibilities focus on direct customer interaction and ensuring an exceptional guest experience. This includes managing the service team, engaging with customers, and maintaining service quality. Back-of-house (BOH) responsibilities, however, deal with behind-the-scenes tasks such as inventory management, scheduling, and compliance with safety regulations. Both areas require the Bar Manager to ensure smooth operation and quality service.
 
 **Common misunderstanding: A Bar Manager only needs to focus on customer service.**

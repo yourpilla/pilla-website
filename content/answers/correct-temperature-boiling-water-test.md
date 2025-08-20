@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What's the correct temperature reading for boiling water when testing a food
   probe thermometer?
 meta: >
@@ -101,13 +101,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Required temperature standards and monitoring
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What's the correct temperature reading for boiling water when testing a food probe thermometer?
-
 When testing a probe thermometer in boiling water, you should get a reading of 100°C (212°F). A deviation of 1 degree celsius either way is acceptable, so readings between 99°C and 101°C are considered accurate for the boiling water test.
 
 Remember to submerge the probe at least 2 inches into the water, avoiding contact with the pot's bottom or sides, and wait for the reading to stabilise for at least 10 seconds.

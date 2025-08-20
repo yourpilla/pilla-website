@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Temperature monitoring guidelines and procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How should hot holding food temperatures be monitored and recorded?
-
 To ensure food safety, it's important to regularly monitor and record the temperatures of hot held foods. Use a calibrated food thermometer to check the temperature. Record these temperatures at regular intervals to ensure they remain above the minimum required level.
 
 **Common misunderstanding: Checking the temperature of hot held food once a day is enough.**

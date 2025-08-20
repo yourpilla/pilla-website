@@ -1,7 +1,7 @@
 ---
 title: >-
-  What support or career progression should I include Hotel Receptionist job
-  description?
+  What support or career progression should I include in a Hotel Receptionist
+  job description?
 meta: >
   Explore how to enrich a Hotel Receptionist job description with support,
   career progression, training programmes, and internal promotions to attract
@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What support or career progression should I include in a Hotel Receptionist job description?
-
 When writing a job description for a Hotel Receptionist, it's important to include details about support and career progression. This not only attracts candidates who are looking for growth but also shows that your hotel values employee development. Mention specific training programs, potential for promotions, and any other professional development opportunities.
 
 **Common misunderstanding: Career progression is only about promotions.**

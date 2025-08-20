@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does your food safety policy need to say about HACCP?
-
 Your food safety policy should clearly outline your commitment to the Hazard Analysis and Critical Control Points (HACCP) system. This means stating how you will identify, evaluate, and control hazards that could impact food safety. The policy should detail the processes for monitoring critical control points, corrective actions to be taken when necessary, and the responsibilities of team members in maintaining HACCP standards.
 
 **Common misunderstanding: HACCP is just another guideline, not a requirement.**

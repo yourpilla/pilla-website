@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What happens if someone's food hygiene certificate expires - can they still
   work?
 meta: >
@@ -55,13 +55,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What happens if someone's food hygiene certificate expires - can they still work?
-
 Food hygiene certificates must be renewed every 3 years for Level 1 and Level 2 staff. If a certificate expires, the staff member can continue handling food but you need to renew the training as soon as possible to prove the employee's understanding.
 
 For Level 1 and 2 certificates, online renewal courses are available which can be completed quickly. However, it's best practice to schedule renewals before expiry to avoid any gaps in certification.

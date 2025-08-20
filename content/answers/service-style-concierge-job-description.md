@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How do I describe the service style when writing a Concierge job description?
-
 When writing a job description for a Concierge, start by clearly describing the service style of your hotel. This helps potential hires understand the type of customer interaction and environment they'll be working in. For example, mention if your hotel offers a luxury, personalised service or a fast-paced, high-volume guest interaction. This sets clear expectations and attracts candidates who are a good fit for your service style.
 
 **Common misunderstanding: A detailed service style description isn't necessary if the hotel brand is well-known.**

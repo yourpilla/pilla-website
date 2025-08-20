@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I define the personality traits needed for a Restaurant Manager job description?
-
 Defining the right personality traits for a Restaurant Manager starts by understanding the specific needs and culture of your restaurant. Think about the traits that have helped your team succeed and those that align with your restaurant's values and customer service style. Include clear examples of these traits in the job description to attract candidates who are a good fit.
 
 **Common misunderstanding: Broad traits like "good communication" are enough.**

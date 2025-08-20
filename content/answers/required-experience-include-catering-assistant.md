@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What required experience should I include in a Catering Assistant job description?
-
 When writing a job description for a Catering Assistant, it's important to specify the type of experience that matches the needs of your catering service. This helps ensure that the candidates understand what is expected of them and whether they meet the criteria. For example, if your service involves high-volume event catering, you might require experience in a similar fast-paced environment.
 
 **Common misunderstanding: More years of experience always means a better fit for the job.**

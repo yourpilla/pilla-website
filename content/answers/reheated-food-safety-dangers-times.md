@@ -113,13 +113,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "1/4/2025"
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How many times can food be reheated safely?
-
 Food should only be reheated once. After it has been cooked and cooled, if you reheat it, do not cool it and reheat it again. This is to ensure the food remains safe to eat and reduces the risk of food-borne illnesses.
 
 **Common misunderstanding: You can reheat food as many times as you like as long as you reach the right temperature.**

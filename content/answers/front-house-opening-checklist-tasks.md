@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What tasks should be included in a front of house opening checklist?
-
 When preparing your front of house for opening, it's important to cover all areas that impact guest experience and operational efficiency. Start with a walkthrough from the perspective of a guest to spot any issues. Key tasks should include cleaning and setting up outdoor areas, ensuring the entrance and host stand are welcoming and functional, preparing the dining and seating areas, checking the bar or service station, and making sure the toilets are clean and well-stocked.
 
 **Common misunderstanding: A quick tidy-up is enough for opening.**

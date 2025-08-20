@@ -111,13 +111,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# If the power goes out, how long will food stay frozen?
-
 The key is to keep the freezer door closed as much as possible during a power outage. If the food still feels hard and is covered in ice, it's safe to transfer to another freezer unit. If food has started to soften and ice is melting, you'll need to move it to a fridge for controlled defrosting and use within 48 hours.
 
 Remember: Never refreeze food that has defrosted, and if you're unsure about cross-contamination, it's safer to discard the food.

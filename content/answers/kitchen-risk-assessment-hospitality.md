@@ -106,13 +106,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is a kitchen risk assessment in hospitality?
-
 A kitchen risk assessment is a detailed evaluation of potential hazards in the kitchen of a hospitality business. It identifies what could cause harm to staff or visitors, assesses the likelihood and severity of these hazards, and determines necessary precautions to reduce risks. This is crucial because kitchens often have unique and high-risk hazards such as hot surfaces, sharp tools, and heavy lifting.
 
 **Common misunderstanding: A kitchen risk assessment is just a general safety check.**

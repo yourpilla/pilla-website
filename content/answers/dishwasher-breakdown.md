@@ -105,13 +105,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should I do if the dishwasher breaks down during service?
-
 If your dishwasher breaks down during service, immediately stop using it to prevent any further issues. Switch to manual dishwashing and report the breakdown to a manager using the Pilla app. Make sure to follow the corrective actions listed to maintain hygiene and safety standards.
 
 **Common misunderstanding: You can continue using the dishwasher until the end of service before reporting it.**

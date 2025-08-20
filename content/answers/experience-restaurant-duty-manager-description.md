@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What level of experience should I include in a Restaurant Duty Manager job description?
-
 When writing a job description for a Restaurant Duty Manager, it's important to specify the level of experience required. This helps to attract candidates who are well-suited for the role. You should decide if the position is suitable for someone at an entry-level, mid-level, or senior-level based on the responsibilities and expectations of the role.
 
 **Common misunderstanding: Any management experience is suitable for a Duty Manager role.**

@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What details should I include about pay in a Head Waiter job description?
-
 When writing a job description for a Head Waiter, it's important to clearly state the salary range. Include any bonuses or benefits that are part of the compensation package. This helps potential candidates understand their earnings and assess if the job meets their financial needs.
 
 **Common misunderstanding: You only need to mention the base salary in the job description.**

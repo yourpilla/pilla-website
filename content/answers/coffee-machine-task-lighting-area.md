@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Does my coffee machine area need task lighting?
-
 Yes, having task lighting in your coffee machine area is crucial. Good lighting ensures that staff can see the machine's controls, identify hazards like steam or spills, and perform cleaning and maintenance safely. This reduces the risk of accidents such as burns or spills during busy shifts.
 
 **Common misunderstanding: General room lighting is enough for safe operation.**

@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What opportunities for advancement should be highlighted in a Chef de Partie job description?
-
 When writing a job description for a Chef de Partie, it's important to highlight clear career progression paths. This could include potential promotions to senior roles like Sous Chef or Head Chef, and opportunities for gaining additional responsibilities or leading a team. Mentioning these opportunities can attract ambitious candidates who are looking for a place to grow professionally.
 
 **Common misunderstanding: Advancement opportunities are only about promotions.**

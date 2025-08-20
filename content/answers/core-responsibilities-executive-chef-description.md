@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the core responsibilities to highlight in an Executive Chef job description?
-
 When writing a job description for an Executive Chef, it's important to clearly outline the key responsibilities. These include overseeing daily kitchen operations, menu development, managing the culinary team, and ensuring quality control. This helps candidates understand the scope of the role and what will be expected of them.
 
 **Common misunderstanding: The job description should only list basic tasks like cooking and menu planning.**

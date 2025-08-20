@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What skills should I detail in a Head Chef job description?
-
 When writing a job description for a Head Chef, it's important to list specific skills that are crucial for the role. These should include culinary expertise, leadership abilities, and operational management skills. Detail skills like menu planning, team management, food safety compliance, and budget handling. This helps potential candidates understand what is expected in your kitchen and assess if they are a good fit.
 
 **Common misunderstanding: Listing too many general skills will attract more candidates.**

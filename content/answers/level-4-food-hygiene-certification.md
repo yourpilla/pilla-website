@@ -70,13 +70,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Who needs to have Level 4 food hygiene certification in the kitchen?
-
 Level 4 food hygiene certification is required for senior management positions, specifically executive head chefs and members of the HACCP team who are responsible for the overall food safety compliance of the business.
 
 Unlike other food hygiene certificates, Level 4 doesn't require renewal, though continuing professional development is expected to stay current with industry standards.

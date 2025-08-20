@@ -113,13 +113,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How quickly do I need to put food deliveries away?
-
 Food deliveries should be transferred from the delivery point to storage areas within 15 minutes, including the time needed for unboxing. In exceptional circumstances, you can take up to 30 minutes maximum, but this should not be the norm.
 
 When putting deliveries away, you need to prioritize in this order: chilled foods first, then frozen goods, and finally ambient/dry goods. This is crucial for maintaining the cold chain and food safety.

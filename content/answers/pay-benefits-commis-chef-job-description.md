@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include under pay and benefits in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, it's important to clearly outline the pay and any additional benefits. Include specific details like the salary range or hourly rate, and mention any extra perks such as health benefits, tips, or meal provisions. This helps set clear expectations and attracts candidates who are looking for what you offer.
 
 **Common misunderstanding: It’s enough to just mention 'competitive salary'.**

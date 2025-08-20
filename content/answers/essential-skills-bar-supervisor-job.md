@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What essential skills should I include in a Bar Supervisor job description?
-
 When writing a job description for a Bar Supervisor, it's important to include skills that directly relate to the daily operations and challenges of the role. Essential skills often include leadership and team management, inventory control, customer service, and conflict resolution. These skills ensure the supervisor can manage the bar effectively, maintain service standards, and handle any issues that arise.
 
 **Common misunderstanding: Including too many generic skills that aren’t specific to the role.**

@@ -1,6 +1,5 @@
 ---
-title: |
-  How will Martyn's Law be enforced?
+title: How will Martyn's Law be enforced?
 meta: >
   Explore the enforcement of Martyn's Law, including the inspection powers of
   the SIA regulator and the penalties for non-compliance at venues.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How will Martyn's Law be enforced?
-
 Once Martyn's Law is in force, the UK Security Industry Authority (SIA) will oversee its enforcement. This includes monitoring compliance and taking necessary actions to ensure that venues meet the law's requirements. The SIA's role is to support and guide businesses initially, helping them understand and meet their obligations under the law.
 
 **Common misunderstanding: Enforcement will be harsh and immediate.**

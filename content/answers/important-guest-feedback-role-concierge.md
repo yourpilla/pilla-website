@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How important is guest feedback in writing a role description for a Concierge?
-
 Guest feedback is crucial when writing a job description for a Concierge. It helps you understand what guests value most in their interactions, which can guide the responsibilities and skills you highlight. For example, if guests frequently praise personalised service, you might emphasise skills like attention to detail and personal interaction in the job description.
 
 **Common misunderstanding: Guest feedback is only useful for service improvement, not for writing job descriptions.**

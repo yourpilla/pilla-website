@@ -1,5 +1,5 @@
 ---
-title: 'What is a Hygiene Improvement Notice? '
+title: What is a Hygiene Improvement Notice?
 meta: >
   Understand what a Hygiene Improvement Notice is, when it's issued, and the
   legal requirements for food businesses to comply.
@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is a Hygiene Improvement Notice?
-
 A Hygiene Improvement Notice is a legal notice served by an Environmental Health Officer (EHO) to a food business. It's used when a business isn't following food safety laws properly. The notice requires the business to make specific improvements to meet legal standards. It's a way to make sure that food businesses fix any problems that could harm the public's health.
 
 **Common misunderstanding: A Hygiene Improvement Notice is just a suggestion or recommendation.**

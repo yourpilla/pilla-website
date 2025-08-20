@@ -1,6 +1,5 @@
 ---
-title: |
-  Who should be responsible for Martyn's Law compliance?
+title: Who should be responsible for Martyn's Law compliance?
 meta: >
   Explore who should ensure compliance with Martyn's Law, detailing the
   responsibilities of the Responsible Person and the Designated Senior Officer.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Who should be responsible for Martyn's Law compliance?
-
 In any hospitality business, the owner, licensee, general manager, or event organiser usually takes on the role of the "Responsible Person" for Martyn's Law compliance. This person is in charge of ensuring that the venue meets its security duties under the law. For larger companies, this responsibility might be assigned to a senior manager or a designated compliance team.
 
 **Common misunderstanding: Only security personnel need to worry about Martyn's Law compliance.**

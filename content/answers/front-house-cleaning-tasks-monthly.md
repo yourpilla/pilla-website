@@ -131,13 +131,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Which FOH cleaning tasks should be done monthly?
-
 Monthly cleaning tasks in a restaurant's front of house are crucial for maintaining a professional appearance and ensuring long-term cleanliness. These tasks include deep cleaning and maintenance activities that might not be necessary on a daily or weekly basis but are vital for overall upkeep.
 
 **Common misunderstanding: Monthly tasks are optional if daily and weekly tasks are completed.**

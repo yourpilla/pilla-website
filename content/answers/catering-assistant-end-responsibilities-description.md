@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What end-of-shift responsibilities should be included in a Catering Assistant job description?
-
 At the end of a shift, a Catering Assistant should handle several key tasks to ensure everything is set for the next service. This includes cleaning and sanitising workspaces, breaking down service areas, and properly disposing of waste according to environmental guidelines or business policies. These responsibilities help maintain a clean and organised environment, crucial for efficient operation and food safety.
 
 **Common misunderstanding: End-of-shift tasks are just about cleaning.**

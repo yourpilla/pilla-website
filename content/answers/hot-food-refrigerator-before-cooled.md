@@ -1,6 +1,5 @@
 ---
-title: |
-  Why can't I place hot food in the refrigerator before it's thoroughly cooled?
+title: Why can't I place hot food in the refrigerator before it's thoroughly cooled?
 meta: >
   Discover why cooling hot food before refrigeration is crucial to prevent
   temperature fluctuations that can lead to food spoilage and increased bacteria
@@ -108,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Why can't I place hot food in the refrigerator before it's thoroughly cooled?
-
 Placing hot food directly into a refrigerator can lead to a rise in the appliance's internal temperature. This can endanger all stored food by creating an environment where bacteria can multiply quickly. It’s important to cool food to room temperature or use rapid cooling methods before refrigerating to maintain food safety and appliance efficiency.
 
 **Common misunderstanding: It’s okay to put hot food in the fridge if I leave the fridge door open for a bit.**

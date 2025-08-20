@@ -112,13 +112,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Can I use cling film to cover food in the display fridge?
-
 Yes, you can use cling film as long as it's food-grade wrapping. It's important to note that you must never use tea towels or cloths to cover food in display fridges. Make sure your display fridge also has proper sneeze guards or screening to protect the food.
 
 **Common misunderstanding: Cling film is not suitable for long-term food storage in display fridges because it doesn't adhere well and can lead to contamination.**

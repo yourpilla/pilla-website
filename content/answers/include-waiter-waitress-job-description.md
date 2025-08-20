@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What should I include in the introduction section of a Waiter/Waitress job description?
-
 The introduction of a Waiter/Waitress job description should set the scene for potential candidates. It's important to describe your restaurant’s atmosphere, the pace of work, and the culture. This helps candidates understand what to expect and whether they'd be a good fit. Start by mentioning the type of dining venue, the style of service, and unique aspects of your workplace environment.
 
 **Common misunderstanding: The introduction is just a basic overview of the job.**

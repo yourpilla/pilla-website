@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What growth and development opportunities should I include in an Executive Chef job description?
-
 When writing a job description for an Executive Chef, it's important to include specific growth and development opportunities. This not only attracts ambitious candidates but also shows your commitment to their professional progress. Include opportunities like on-site training, external culinary courses, and pathways to higher leadership roles such as Culinary Director or Head of Research and Development.
 
 **Common misunderstanding: Growth opportunities are only about promotions.**

@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How should I specify pay and benefits in a Waiter/Waitress job description?
-
 When writing a job description for a waiter or waitress, it's important to clearly state the pay rate and benefits. Specify whether the compensation is hourly or salary and provide a realistic pay range if possible. Don’t forget to mention any additional perks like tips or meal discounts. This transparency helps set clear expectations and attracts the right candidates.
 
 **Common misunderstanding: It’s better to use terms like “competitive pay” to attract more candidates.**

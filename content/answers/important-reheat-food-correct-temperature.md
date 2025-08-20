@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Why is it important to reheat food to the correct temperature?
-
 Reheating food to the correct temperature is crucial to ensure that harmful bacteria are killed. In England, Wales, and Northern Ireland, the required minimum temperature is 75°C, while in Scotland, it's 82°C. This process reduces bacteria to safe levels, making the food safe to eat.
 
 **Common misunderstanding: All food needs to be reheated to the same temperature regardless of location.**

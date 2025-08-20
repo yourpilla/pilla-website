@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What post-service responsibilities should I include in a Bar Supervisor job description?
-
 After a busy night, it's crucial for a Bar Supervisor to ensure everything is set for closing and ready for the next day. Responsibilities should include completing closing procedures, securing the premises, reviewing daily sales, reporting inventory discrepancies, and coordinating cleaning and restocking for the next day's operations.
 
 **Common misunderstanding: Post-service tasks are just about cleaning up.**

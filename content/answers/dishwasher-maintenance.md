@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Equipment operation and maintenance procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What regular maintenance should be done on a commercial dishwasher?
-
 Regular maintenance of a commercial dishwasher is important to make sure it operates efficiently and maintains hygiene standards. Key maintenance tasks include checking and cleaning filters, spray arms, and seals. Running periodic cleaning cycles with specialised dishwasher cleaning agents helps prevent the buildup of food debris and residues. Manual scrubbing may be needed to remove biofilm, especially in hard water areas where scaling can happen.
 
 **Common misunderstanding: Regular maintenance is only about fixing breakdowns.**

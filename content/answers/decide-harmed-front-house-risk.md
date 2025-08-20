@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I decide who might be harmed in a front of house risk assessment?
-
 When conducting a front of house risk assessment, think about all the different groups of people who interact with the space. This includes staff, customers, and any other visitors. Consider how each group uses the space and what specific risks they might face. For example, staff might be at risk from carrying heavy trays, while customers could slip on a wet floor.
 
 **Common misunderstanding: Only focus on staff risks, assuming customers are always safe.**

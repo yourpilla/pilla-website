@@ -76,13 +76,12 @@ schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I record my front of house risk assessment?
-
 Recording your front of house (FOH) risk assessment accurately is crucial for ensuring safety and compliance. You can choose between a table style layout or a written listicle style document. Both formats help you organise information about hazards, who might be harmed, existing controls, and additional actions needed.
 
 **Common misunderstanding: A simple checklist is enough for a risk assessment.**

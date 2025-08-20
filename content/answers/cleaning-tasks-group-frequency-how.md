@@ -132,13 +132,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should you group kitchen cleaning tasks by frequency?
-
 Grouping cleaning tasks by how often they need to be done helps keep your kitchen safe and efficient. Break tasks into daily, weekly, monthly, and less frequent categories. This way, you can manage your time better and make sure nothing gets overlooked.
 
 **Common misunderstanding: All cleaning tasks should be done as often as possible.**

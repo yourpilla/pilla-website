@@ -107,13 +107,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does the Garde Manger prepare?
-
 The Garde Manger, also known as the Pantry Chef, is responsible for preparing cold dishes. These include hors d'oeuvres, salads, charcuterie boards, caviars, and pâtés. This role is important in a restaurant for managing and presenting cold menu items attractively and hygienically.
 
 **Common misunderstanding: The Garde Manger only prepares simple salads and appetisers.**

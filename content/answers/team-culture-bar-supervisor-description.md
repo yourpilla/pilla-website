@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How can I describe team culture in a Bar Supervisor job description?
-
 When writing a job description for a Bar Supervisor, it's vital to convey the team culture clearly. This helps potential candidates understand the work environment and assess if they would be a good fit. Mention aspects like whether your team operates in a high-energy atmosphere, values close collaboration, or prioritizes excellent customer service. For example, you might say, "Our team thrives on energy and enthusiasm, ensuring every guest feels welcome."
 
 **Common misunderstanding: Team culture is just about having fun.**

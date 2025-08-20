@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Required temperature standards and monitoring
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should I do if I find the fridge temperature is over 8°C?
-
 If you find a fridge temperature over 8°C, you need to take immediate action:
 
 1.  First, check the actual food temperature using a clean, sanitised probe thermometer

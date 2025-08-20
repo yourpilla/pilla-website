@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Equipment specifications and usage guidelines
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What equipment should be used for hot holding food safely?
-
 To keep food safe and at the right temperature, it's important to use equipment designed specifically for hot holding. This includes items like bain-maries, hot holding cabinets, and soup kettles. These are designed to maintain temperatures above 63°C, which is crucial to prevent the growth of harmful bacteria.
 
 **Common misunderstanding: Any heat source can be used for hot holding as long as the food stays warm.**

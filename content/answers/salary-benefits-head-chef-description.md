@@ -118,13 +118,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What salary and benefits information should I make transparent in a Head Chef job description?
-
 When writing a job description for a Head Chef, it's important to clearly state the salary range or fixed salary, along with any benefits. This transparency helps attract the right candidates and sets clear expectations. Include details like health insurance, bonuses, and any special perks like culinary trips or team events.
 
 **Common misunderstanding: It's better to keep salary details vague to start salary negotiations higher.**

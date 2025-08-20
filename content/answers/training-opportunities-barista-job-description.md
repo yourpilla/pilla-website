@@ -100,13 +100,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Training requirements and certification guidelines
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What should I write about training opportunities in a Barista job description?
-
 When writing about training opportunities in a barista job description, be clear about any training you provide, like on-the-job training, optional certifications, or mentorship programs. This shows candidates you're invested in their growth and helps attract those eager to develop their skills.
 
 **Common misunderstanding: It's enough to just mention that training is provided.**

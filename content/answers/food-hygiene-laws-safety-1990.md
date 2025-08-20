@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What other food hygiene laws work alongside the Food Safety Act 1990?
-
 Alongside the Food Safety Act 1990, several other laws help ensure food safety in the UK. These include the General Food Law Regulation (EC) No 178/2002 and the Food Safety and Hygiene (England) Regulations 2013. These laws complement the Food Safety Act by setting additional standards and requirements for food businesses to maintain high levels of food safety and hygiene.
 
 **Common misunderstanding: The Food Safety Act 1990 is the only law that food businesses need to comply with.**

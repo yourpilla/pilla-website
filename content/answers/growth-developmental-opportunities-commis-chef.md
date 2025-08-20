@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I highlight growth and developmental opportunities in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, it's important to clearly mention the growth and development opportunities available. This not only attracts candidates who are eager to advance their careers but also sets clear expectations about the learning and progression possibilities within your kitchen. For example, you might include information about structured training programs, the chance to work with renowned chefs, or opportunities to participate in culinary competitions.
 
 **Common misunderstanding: Growth opportunities are only about promotions.**

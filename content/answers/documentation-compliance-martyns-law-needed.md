@@ -1,6 +1,5 @@
 ---
-title: |
-  What documentation is needed to demonstrate compliance under Martyn's Law?
+title: What documentation is needed to demonstrate compliance under Martyn's Law?
 meta: >
   Explore the documentation required under Martyn's Law, including security
   plans and training records, to ensure venue compliance and safety.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What documentation is needed to demonstrate compliance under Martyn's Law?
-
 Under Martyn's Law, venues must maintain specific documentation to show they're meeting legal requirements. This includes a written security plan, risk assessments, training records, and incident logs. For enhanced-tier venues, this documentation must be submitted to the Security Industry Authority (SIA) regulator.
 
 **Common misunderstanding: Only large venues need to keep detailed security documentation.**

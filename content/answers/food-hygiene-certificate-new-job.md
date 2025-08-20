@@ -64,13 +64,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# If I already have a food hygiene certificate from another job, do I need a new one?
-
 Your existing food hygiene certificate is valid as long as it's the correct level for your role and hasn't expired. Food hygiene certificates need to be renewed every 3 years for Level 1 and Level 2. If you're moving into a supervisory role, you'll need Level 3, even if your Level 2 is still valid.
 
 The key is ensuring your certificate matches your current responsibilities. For example, if you're handling high-risk foods, you need at least Level 2, regardless of any Level 1 certificates you might have.

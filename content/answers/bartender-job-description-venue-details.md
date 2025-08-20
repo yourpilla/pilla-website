@@ -1,5 +1,5 @@
 ---
-title: What venue-specific details can make Bartender job description stand out?
+title: What venue-specific details can make a Bartender job description stand out?
 meta: >
   Discover how to create a standout bartender job description by incorporating
   unique venue-specific details, cocktail lists, and themes to attract the right
@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What venue-specific details can make a Bartender job description stand out?
-
 Adding unique venue-specific details to your bartender job description can really make it shine. Describe your bar's atmosphere, the type of customers you attract, and any special services or events you offer. This not only gives potential candidates a clear picture of where they'll be working but also helps attract those who are a good fit for your bar's culture.
 
 **Common misunderstanding: All bars are similar, so generic descriptions work fine.**

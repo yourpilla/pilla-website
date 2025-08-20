@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What opportunities for growth should I highlight in a Kitchen Porter job description?
-
 When writing a job description for a Kitchen Porter, it's helpful to mention potential growth opportunities within your kitchen or restaurant. Highlight possibilities like advancing to higher roles such as kitchen supervisor or chef assistant, especially if your kitchen encourages internal promotions. This shows candidates that there are paths for progression, making the role more appealing.
 
 **Common misunderstanding: Every Kitchen Porter role leads to promotion.**

@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What preparation tasks should I include in a Commis Chef job description?
-
 When detailing preparation tasks for a Commis Chef, focus on the essential activities they need to perform before the kitchen opens or during early shifts. This includes setting up kitchen stations, prepping ingredients according to recipes, and ensuring all equipment is clean and ready. These tasks are crucial for a smooth operation once service begins.
 
 **Common misunderstanding: Preparation tasks are the same across all kitchens.**

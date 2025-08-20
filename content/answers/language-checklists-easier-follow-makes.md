@@ -118,13 +118,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What kind of language makes checklists easier to follow?
-
 Using clear, direct language with strong action verbs makes checklists easier to follow. For example, instead of saying "Make sure the fridges are cold," it's better to say "Check all fridges are below 5°C and record temperatures." This tells exactly what to do, how to do it, and what the expected result should be.
 
 **Common misunderstanding: Using technical jargon makes checklists more professional.**

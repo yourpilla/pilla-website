@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Identification methods and quality indicators
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How do I know if frozen food has gone bad?
-
 There are several signs to look out for when checking if frozen food has gone bad. Look for grayish-brown leathery spots, which indicate freezer burn. While freezer burn doesn't make food unsafe, it can significantly affect quality. If there's slight freezer burn, you can cut away these areas before or after cooking. However, if the food is heavily freezer burnt, it's best to discard it.
 
 Also, check if the food has been properly wrapped - food not securely wrapped in air-tight packaging is more likely to be compromised. The optimal freezer temperature should be -18°C (0°F) or below to maintain food quality.

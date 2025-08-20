@@ -112,13 +112,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How quickly should hot food be cooled to be suitable for refrigeration?
-
 Hot food must be cooled to a temperature suitable for refrigeration within 90 minutes of cooking. This rapid cooling is crucial to prevent the growth of bacteria and ensure food safety. Using methods like spreading food out to increase surface area or using a blast chiller can help achieve this efficiently.
 
 **Common misunderstanding: It's okay to leave food to cool at room temperature for a few hours before refrigerating.**

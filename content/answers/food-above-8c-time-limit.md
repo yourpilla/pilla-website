@@ -1,6 +1,5 @@
 ---
-title: |
-  What's the maximum time food can be above 8°C before we have to throw it away?
+title: What's the maximum time food can be above 8°C before we have to throw it away?
 meta: >
   Learn about the 4-hour rule for food safety and what to do if food temperature
   exceeds 8C. Discover the stricter requirements for fresh fish and how to
@@ -108,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What's the maximum time food can be above 8°C before we have to throw it away?
-
 Food that has been above 8°C must be thrown away after 4 hours. This is known as the 4-hour rule. It's important to note that this is only allowed once - you can't have multiple periods where food is above 8°C, even if each period is less than 4 hours.
 
 **Common mistake: If food is only slightly above 8°C, it's safe to extend the 4-hour rule.**

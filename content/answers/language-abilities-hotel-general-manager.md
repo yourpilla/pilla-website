@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What language abilities can be beneficial in a Hotel General Manager job description?
-
 Language skills can be a big plus for a Hotel General Manager. Being able to speak more than one language helps in communicating with a diverse guest base and staff. For example, if your hotel often hosts international guests or is located in a multilingual area, languages like Spanish, French, or Mandarin can be very beneficial.
 
 **Common misunderstanding: All General Managers need to be multilingual.**

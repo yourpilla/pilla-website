@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What essential skills should I look for in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, focus on skills that are crucial for daily kitchen operations. Essential skills often include basic culinary techniques, food safety and hygiene knowledge, teamwork, and the ability to follow recipes and instructions accurately.
 
 **Common misunderstanding: All culinary skills are equally important for a Commis Chef.**

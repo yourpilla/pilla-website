@@ -64,13 +64,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Can I do my Level 3 food hygiene certificate online or does it have to be in person?
-
 Level 3 food hygiene certificates can be completed in person or online although in-person is recommended, this is because the course content is complex and requires detailed explanations and one-to-one interaction with tutors. The in-person format allows you to ask questions and participate in discussions which is essential for understanding advanced food safety management principles.
 
 **Common misunderstanding: Completing a Level 3 food hygiene certificate online is not as credible as doing it in person.**

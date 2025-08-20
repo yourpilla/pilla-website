@@ -1,6 +1,5 @@
 ---
-title: |
-  What are the Enhanced Tier requirements for large venues under Martyn's Law?
+title: What are the Enhanced Tier requirements for large venues under Martyn's Law?
 meta: >
   Explore the Enhanced Tier requirements of Martyn's Law for large venues,
   mandatory security measures, and the importance of a comprehensive security
@@ -122,13 +121,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the Enhanced Tier requirements for large venues under Martyn's Law?
-
 For large venues that can host 800 or more people at once, Martyn's Law imposes additional security requirements. These venues must not only meet the Standard Tier duties but also take further steps to reduce their vulnerability to terrorist attacks. This includes implementing specific security measures tailored to the risks identified in a thorough risk assessment.
 
 **Common misunderstanding: All venues need to meet Enhanced Tier requirements.**

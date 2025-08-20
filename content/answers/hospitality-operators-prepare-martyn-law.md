@@ -1,6 +1,5 @@
 ---
-title: |
-  How should hospitality operators prepare for Martyn's Law?
+title: How should hospitality operators prepare for Martyn's Law?
 meta: >
   Understand how hospitality operators should prepare for Martyn's Law,
   including assessing venue scope and conducting terrorism risk assessments.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should hospitality operators prepare for Martyn's Law?
-
 Preparing for Martyn's Law involves understanding the law's requirements and implementing necessary measures to ensure compliance. Start by assessing if your venue falls within the scope of the law, then develop or update your emergency procedures, conduct staff training, and ensure documentation is in place. It's crucial to begin these steps well before the law is enforced to ensure a smooth transition.
 
 **Common misunderstanding: Martyn's Law only applies to large venues.**

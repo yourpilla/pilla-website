@@ -107,13 +107,13 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How can I cool food quicker using the surface area?
-
 Increasing the surface area of food helps it cool quicker. This can be done by spreading the food out in a thin layer or using shallow trays. This method exposes more of the food to the cooler air, speeding up the cooling process. It's especially useful when you need to cool down large quantities of food quickly to prevent bacteria growth.
 
 **Common misunderstanding: Using deeper containers is just as effective as shallow ones for cooling food quickly.**

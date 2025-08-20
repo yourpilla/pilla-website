@@ -1,5 +1,5 @@
 ---
-title: What are must have skills in a Restaurant Assistant Manager job description?
+title: What are must-have skills in a Restaurant Assistant Manager job description?
 meta: >
   Discover essential skills for a Restaurant Assistant Manager, including
   organisational abilities, leadership, and financial management.
@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are must-have skills in a Restaurant Assistant Manager job description?
-
 When hiring a Restaurant Assistant Manager, it's important to look for candidates who have specific skills that are essential from day one. These skills include strong organisational abilities, effective verbal and written communication, leadership and team development skills, knowledge of restaurant management software, solid understanding of financial management, conflict resolution, guest complaints management, and adherence to health and safety regulations.
 
 **Common misunderstanding: All skills listed in a job description are equally important.**

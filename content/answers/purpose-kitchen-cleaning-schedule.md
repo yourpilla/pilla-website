@@ -133,13 +133,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the purpose of a kitchen cleaning schedule?
-
 A kitchen cleaning schedule is a plan that helps staff know when and how to clean different areas and equipment in the kitchen. This ensures that the kitchen remains safe, hygienic, and pleasant for both cooking and dining. Without a schedule, important tasks might be forgotten or done poorly.
 
 **Common misunderstanding: A cleaning schedule is just for large kitchens or restaurants.**

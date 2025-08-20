@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include about my restaurant when writing a sommelier job description?
-
 When writing a sommelier job description, it's important to provide a clear picture of your restaurant. Include details about the type of dining experience you offer, whether it's casual, upscale, or fine dining. Mention the size of your wine list and any special focus it might have, like local or international wines. Also, describe the atmosphere and customer base to give candidates a sense of the environment they'll be working in.
 
 **Common misunderstanding: It's enough to just list the job duties and requirements.**

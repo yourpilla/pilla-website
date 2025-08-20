@@ -108,13 +108,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the duties of a Rotisseur?
-
 The Rotisseur, also known as the Roast Chef, is primarily responsible for roasting meats and vegetables and preparing appropriate sauces to accompany these dishes. This chef ensures that meat cuts are properly prepared, selects suitable oils and spices to enhance the flavours, and delivers perfectly roasted dishes that meet the restaurant's high standards. Their role is crucial for maintaining the quality of the restaurant’s dishes.
 
 **Common misunderstanding: The Rotisseur only handles meat.**

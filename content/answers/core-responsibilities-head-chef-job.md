@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What core responsibilities should be listed in a Head Chef job description?
-
 When writing a job description for a Head Chef, it's important to include responsibilities that cover the entire scope of kitchen operations. Typically, this includes menu planning, team management, and overseeing kitchen processes. This ensures candidates understand the breadth of the role and can gauge if they're a good fit.
 
 **Common misunderstanding: A Head Chef's role is only about cooking.**

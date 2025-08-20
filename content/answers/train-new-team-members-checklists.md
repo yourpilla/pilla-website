@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should you train new team members on completing checklists?
-
 Training new team members on completing checklists is crucial to ensure they understand each task's importance and how to perform it correctly. Start by walking them through each item on the checklist, showing them what a properly completed task looks like, and explaining why it's necessary. This hands-on approach helps them grasp the standards expected in your kitchen.
 
 **Common misunderstanding: New staff can figure out checklists on their own if they have relevant experience.**

@@ -104,13 +104,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should I do if chilled food arrives above 8°C from a supplier?
-
 If chilled food arrives above 8°C, you must reject the delivery immediately and contact the supplier. This is a critical food safety limit that cannot be exceeded under any circumstances. Make sure to record the rejection in your delivery checks and note the temperature that was recorded.
 
 For future deliveries, you should aim to receive chilled foods at 5°C or below, though anything up to 8°C is technically acceptable. Always use a clean, sanitised probe between packs to check temperatures - never pierce the packaging.

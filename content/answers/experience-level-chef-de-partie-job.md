@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What specific experience level should be stated in a Chef de Partie job description?
-
 When writing a job description for a Chef de Partie, it's important to clearly state the experience level needed. This helps ensure that you attract candidates who are capable of handling the responsibilities of the role. Specify whether you need a novice, intermediate, or advanced chef, based on the complexity and pace of your kitchen.
 
 **Common misunderstanding: Setting experience requirements too high will ensure better candidates.**

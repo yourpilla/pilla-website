@@ -118,13 +118,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Why is it important to review your checklists regularly?
-
 Reviewing your kitchen checklists regularly is key to keeping your operations smooth and safe. It ensures that your checklists stay relevant and effective as your kitchen environment changes, such as with new equipment or menu updates. This process helps prevent problems before they start, keeping your team on track and your customers safe.
 
 **Common misunderstanding: Once a checklist is made, it doesn’t need to be changed.**

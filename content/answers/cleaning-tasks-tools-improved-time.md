@@ -1,5 +1,5 @@
 ---
-title: How do you update and improve your kitchen cleaning schedule?
+title: How do you update and improve your cleaning schedule?
 meta: >
   Discover how to effectively update and improve your hospitality business's
   cleaning schedule by involving team feedback and regularly reviewing cleaning
@@ -134,13 +134,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do you update and improve your cleaning schedule?
-
 Updating your cleaning schedule is key to maintaining high standards in your hospitality business. Start by reviewing the current effectiveness and gather feedback from your team. Look for patterns in missed tasks and areas that need more attention, then adjust the schedule accordingly to cover all necessary aspects of cleanliness.
 
 **Common misunderstanding: Once a cleaning schedule is set, it doesn’t need to be changed unless there’s a problem.**

@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What happens if we don't have another fridge to move food to during a
   breakdown?
 meta: >
@@ -109,13 +109,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What happens if we don't have another fridge to move food to during a breakdown?
-
 If you don't have access to another refrigeration unit, you'll need to use the affected food within 4 hours of it being exposed to temperatures above 8°C. If you can't use it within this 4-hour window, you must discard it.
 
 **Common misunderstanding: Food can be safely consumed after 4 hours at room temperature if it looks and smells fine.**

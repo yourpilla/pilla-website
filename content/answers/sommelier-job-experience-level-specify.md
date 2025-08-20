@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What experience level should I specify in a sommelier job description?
-
 When writing a job description for a sommelier, it's important to be clear about the experience level required. This depends on the type of establishment and the expectations for the role. For instance, upscale dining might require a sommelier with extensive experience and possibly a certification, while a casual venue might be open to someone with less formal experience but a strong passion and foundational knowledge of wines.
 
 **Common misunderstanding: Experience is only measured in years.**

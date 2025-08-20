@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   How can I set appropriate experience requirements for a Commis Chef job
   description?
 meta: >
@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I set appropriate experience requirements for a Commis Chef job description?
-
 When writing a job description for a Commis Chef, it's important to clearly define the level of experience needed. This helps ensure that the candidates who apply are well-suited for the role and understand what is expected of them. Specify whether you're looking for a trainee, someone with mid-level experience, or a senior chef, and describe the type of kitchen exposure required.
 
 **Common misunderstanding: More years of experience always means a better fit.**

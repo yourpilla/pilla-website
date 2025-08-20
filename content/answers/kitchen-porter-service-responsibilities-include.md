@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include in the service responsibilities section of a Kitchen Porter job description?
-
 When writing the service responsibilities for a Kitchen Porter, include essential tasks such as maintaining cleanliness, dishwashing, and basic food preparation support. It's important to clearly outline these duties to set clear expectations and help in finding candidates who are prepared for the role. Not being specific can lead to confusion and inefficiency.
 
 **Common misunderstanding: All kitchen porters do the same tasks, so a generic description is sufficient.**

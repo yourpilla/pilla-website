@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What personality traits should I seek in a Waiter/Waitress job description?
-
 When writing a job description for a waiter or waitress, focus on personality traits that align with your restaurant's service style and team dynamics. Traits like being efficient, calm under pressure, and having a friendly demeanor are often crucial. These characteristics help ensure the staff can handle the demands of the job and interact positively with customers.
 
 **Common misunderstanding: Any friendly person can be a good waiter/waitress.**

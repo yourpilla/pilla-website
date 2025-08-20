@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should checklist tasks be written to make them effective?
-
 Checklist tasks should be written clearly and specifically to ensure they are completed accurately and consistently. Start with a strong action verb, describe exactly what needs to be done, and, if possible, explain why it's important. This approach helps everyone understand and follow the tasks without confusion.
 
 **Common misunderstanding: More details make a task too complicated.**

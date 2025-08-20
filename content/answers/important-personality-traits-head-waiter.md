@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What personality traits are important for a Head Waiter job description?
-
 When hiring a Head Waiter, look for someone who is calm under pressure, has excellent guest communication skills, and can lead a team effectively. These traits ensure they can manage the dining floor smoothly and handle any service issues that arise.
 
 **Common misunderstanding: Any experienced waiter can be a Head Waiter.**

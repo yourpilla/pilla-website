@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What specific tasks should be completed at the bar or service station before opening?
-
 Before your bar or service station opens, there are several important tasks to ensure everything runs smoothly. Start by wiping and sanitising the bar tops and drip trays. Make sure the ice well is clean and filled with fresh ice. Check that all garnishes are stocked and stored properly, and that the fridges are organised and clean. It's also crucial to ensure the glasswasher is clean, empty, and ready for use, and that all EPOS/till systems are logged in and functioning.
 
 **Common misunderstanding: A quick visual check of the bar area is sufficient for opening.**

@@ -125,13 +125,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Why should I use a scoring system for Barista interviews?
-
 Using a scoring system in Barista interviews helps you evaluate candidates fairly and consistently. It ensures that each candidate is assessed based on the same criteria, which is crucial for making objective hiring decisions. This method helps you focus on the skills and attributes that are most important for the role.
 
 **Common misunderstanding: A scoring system is too rigid and doesn’t allow for flexibility in assessing candidates.**

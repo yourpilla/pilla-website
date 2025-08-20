@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I describe team dynamics in a Restaurant Duty Manager job description?
-
 Describing team dynamics is key to attracting the right candidate who will fit well with your existing team. Mention how the team works together, supports each other, and the overall atmosphere. For example, you might say "Our team operates like a family, everyone supports each other to ensure a smooth service and an enjoyable work environment."
 
 **Common misunderstanding: Team dynamics are just about how people get along.**

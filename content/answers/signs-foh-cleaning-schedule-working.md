@@ -131,13 +131,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Warning signs and identification criteria
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the signs that your FOH cleaning schedule isn’t working?
-
 When your front of house (FOH) looks clean but customers or staff start noticing issues, it might mean your cleaning schedule needs a check. Look for signs like tasks being skipped, complaints about cleanliness, or visible dirt on supposedly clean surfaces. These are red flags that your current system isn't keeping up.
 
 **Common misunderstanding: If no one complains, the cleaning must be fine.**

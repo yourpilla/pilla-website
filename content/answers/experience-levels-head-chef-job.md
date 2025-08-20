@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What experience levels should I specify in a Head Chef job description?
-
 When writing a job description for a Head Chef, it's important to clearly define the experience level required. This helps ensure that the candidates who apply are well-suited for the role and understand what is expected of them. Specify whether the role is junior, experienced, or senior, and outline the specific experiences that are necessary, such as leading a team or managing a busy kitchen.
 
 Common misunderstanding: More years of experience always means a better candidate.

@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Is it important to cool hot food quickly to avoid bacterial growth?
-
 Yes, cooling hot food quickly is crucial to prevent the growth of bacteria. Bacterial spores can start to germinate and multiply if the food remains warm for too long. This can lead to foodborne illnesses. Foods should be cooled to below 20°C within 90 minutes to ensure safety.
 
 **Common misunderstanding: It's okay to let food cool down naturally before refrigerating.**

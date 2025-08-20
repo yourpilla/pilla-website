@@ -1,5 +1,5 @@
 ---
-title: What types of benefits should we include a Barback job description?
+title: What types of benefits should we include in a Barback job description?
 meta: >
   Explore effective benefits for Barbacks, including both monetary and
   non-monetary perks, and learn how these can attract and retain staff.
@@ -100,13 +100,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What types of benefits should we include in a Barback job description?
-
 When writing a job description for a Barback, it's important to include benefits that are attractive and relevant to the role. Benefits can range from financial compensation to lifestyle perks. Common examples include competitive pay rates, tips, complimentary meals during shifts, paid leave, and opportunities for training and advancement.
 
 **Common misunderstanding: Benefits are only about increasing pay.**

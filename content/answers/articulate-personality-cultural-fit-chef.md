@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I articulate personality and cultural fit in a Head Chef job description?
-
 When writing a job description for a Head Chef, it's important to clearly describe the personality traits and cultural values that align with your venue's ethos. Start by reflecting on the behaviours and attitudes that have contributed to the success of your team. Be specific and use examples that illustrate these traits in action. This helps potential candidates understand the kind of environment they would be entering and assess if they would be a good fit.
 
 **Common misunderstanding: Using generic terms like "dynamic" or "motivated" is enough to describe the desired personality.**

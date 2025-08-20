@@ -98,13 +98,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How should I carry out manual dishwashing when the dishwasher is broken?
-
 When your dishwasher is out of service, switch to manual dishwashing using a three-compartment sink. Start by washing dishes and utensils with hot, soapy water in the first compartment. Rinse them in clean water in the second compartment. Finally, sanitise them in the third compartment using an appropriate chemical sanitiser, like a chlorine solution or quaternary ammonium. Make sure all dishes and utensils air-dry fully on a clean, sanitised surface.
 
 **Common misunderstanding: Manual dishwashing can be done in any sink if the dishwasher breaks down.**

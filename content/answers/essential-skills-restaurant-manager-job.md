@@ -1,7 +1,5 @@
 ---
-title: >-
-  What essential skills should I list in a Restaurant Manager in a job
-  description?
+title: What essential skills should I list in a Restaurant Manager job description?
 meta: >
   Discover essential skills for a Restaurant Manager, including how to
   differentiate must-have from nice-to-have skills and align them with your
@@ -117,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What essential skills should I list in a Restaurant Manager job description?
-
 When writing a job description for a Restaurant Manager, it's important to list skills that are directly related to the daily responsibilities of the role. Essential skills often include leadership, financial management, customer service, and conflict resolution. These skills ensure the manager can handle tasks such as team management, budgeting, and customer interactions effectively.
 
 **Common misunderstanding: All managerial skills are the same, regardless of the restaurant type.**

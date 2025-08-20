@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Can we put hot food straight into the fridge?
-
 No, you shouldn't put hot food directly into the fridge. Hot items can raise the temperature of the fridge, potentially affecting other stored foods and causing temperature fluctuations. This could put other foods at risk by raising them above the safe temperature of 8°C.
 
 Additionally, putting hot food straight into the fridge can affect the cold air circulation, which is vital for maintaining consistent temperatures throughout the unit. The fridge needs proper airflow around all items to function effectively.

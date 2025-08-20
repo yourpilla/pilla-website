@@ -107,13 +107,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the role of a Sous Chef in a kitchen hierarchy?
-
 In a busy restaurant kitchen, the Sous Chef plays an important role as the second-in-command. They assist the Head Chef in various aspects of kitchen management, including menu planning, inventory control, and staff supervision. The Sous Chef helps ensure that every dish served meets the high standards of the restaurant.
 
 **Common misunderstanding: A Sous Chef is mainly responsible for cooking and has little to do with management.**

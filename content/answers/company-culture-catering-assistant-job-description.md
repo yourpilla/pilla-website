@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How do I reflect my company culture in a Catering Assistant job description?
-
 When writing a job description for a Catering Assistant, it's essential to convey your company's culture to attract candidates who will thrive in your environment. Start by describing the work atmosphere, team dynamics, and core values. For example, if your team is dynamic and fast-paced, highlight how staff members support each other and manage high-energy events successfully.
 
 **Common misunderstanding: Company culture is just about fun activities and perks.**

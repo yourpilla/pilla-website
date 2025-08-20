@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are critical control points (CCPs) in a HACCP system?
-
 In a HACCP system, critical control points (CCPs) are the stages where control is applied to prevent or reduce a food safety hazard to an acceptable level. Identifying these points helps ensure that food is safe to eat. For example, cooking is a CCP because it's crucial to cook food to a certain temperature to kill harmful bacteria.
 
 **Common misunderstanding: Every step in the food production process is a critical control point.**

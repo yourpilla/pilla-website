@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What should I include in a Hotel Receptionist job description?
-
 When writing a job description for a Hotel Receptionist, start by giving a brief overview of your hotel. Then, list the core responsibilities, required skills, necessary experience, and personality traits you're looking for. Don’t forget to include details about compensation and benefits to attract the right candidates. This approach helps potential applicants understand what the job entails and whether they might be a good fit.
 
 **Common misunderstanding: A job description should be very brief to save time.**

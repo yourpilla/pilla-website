@@ -108,13 +108,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
-
-# What is the Food Safety Act 1990?
-
 The Food Safety Act 1990 is a key law in the UK that sets the standards for food safety. It helps ensure that all food sold and consumed is safe, not harmful, and is what it says it is. This Act makes it illegal to sell or process food that could harm people's health. It covers everything from how food is labeled to how it's stored and handled.
 
 Common misunderstanding: The Food Safety Act 1990 only applies to food producers.

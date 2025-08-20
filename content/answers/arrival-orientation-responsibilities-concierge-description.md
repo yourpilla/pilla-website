@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What arrival and orientation responsibilities should I include in a Concierge job description?
-
 When setting up a Concierge job description, it's important to clearly define what the concierge will do as guests arrive. This includes greeting guests, providing a thorough introduction to the hotel’s services and amenities, understanding individual guest needs and preferences, informing guests of local events and attractions, and assisting with luggage and personalised room check-in processes.
 
 **Common misunderstanding: A concierge's job is just to greet guests.**

@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What salary details should I provide in a Sous Chef job description?
-
 When writing a job description for a Sous Chef, it's important to be clear about the salary. Specify whether the position offers a salary or an hourly rate, and provide a specific amount or a realistic range. This transparency helps potential candidates understand if the role matches their financial expectations and can prevent future misunderstandings.
 
 **Common misunderstanding: It’s better to discuss salary details during the interview rather than in the job description.**

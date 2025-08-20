@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are typical wine service responsibilities in a sommelier job description?
-
 In a sommelier's job, the main responsibilities include selecting and purchasing wines, managing the wine cellar, and ensuring wines are served correctly. They also create wine lists that complement the menu, advise guests on the best wine pairings, and sometimes even conduct wine tastings or training sessions for other staff members.
 
 **Common misunderstanding: Sommeliers only need to know about wines.**

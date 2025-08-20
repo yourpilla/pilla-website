@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What opportunities for growth should I mention in a Head Waiter job description?
-
 When writing a job description for a Head Waiter, it's important to highlight opportunities for growth to attract ambitious candidates. Mention clear paths for advancement within the restaurant, such as potential promotions to higher management roles like Restaurant Manager or Maître d'. Also, include opportunities for professional development through training programmes and the chance to lead projects or special events.
 
 **Common misunderstanding: Growth opportunities are only about promotions.**

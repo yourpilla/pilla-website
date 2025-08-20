@@ -1,5 +1,5 @@
 ---
-title: 'When can an Environmental Health Officer enter my premises? '
+title: When can an Environmental Health Officer enter my premises?
 meta: >
   Explore the rights of Environmental Health Officers (EHOs) to enter business
   premises without prior notice to ensure compliance with food safety laws.
@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# When can an Environmental Health Officer enter my premises?
-
 An Environmental Health Officer (EHO) has the right to enter your business premises during any reasonable hours of operation. This means they can visit during the times you are open to the public or conducting business activities. They do this to ensure that your business complies with food safety laws.
 
 **Common misunderstanding: EHOs can only visit during standard office hours.**

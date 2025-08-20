@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What supporting systems should be included in a food safety policy?
-
 In any food-related business, a food safety policy should include systems like cleaning schedules, pest control measures, and supplier checks. These systems help manage risks and ensure that the food served is safe to eat. Not having these systems in place can lead to health hazards and legal issues.
 
 **Common misunderstanding: A food safety policy only needs to focus on food handling and preparation.**

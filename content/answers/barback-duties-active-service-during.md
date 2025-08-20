@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What Barback duties happen during active service?
-
 During a busy service, barbacks play a crucial role in maintaining the flow and efficiency of the bar. Their responsibilities include fetching spirits and mixers for bartenders, changing kegs, restocking refrigerators, maintaining the cleanliness of the bar counter, and washing glassware. This ensures that bartenders can focus on serving customers without interruption.
 
 **Common misunderstanding: Barbacks only clean and don't interact with the service process.**

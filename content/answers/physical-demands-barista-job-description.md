@@ -103,13 +103,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What physical demands of the job should I include in a Barista job description?
-
 When writing a job description for a barista, it's important to clearly state the physical demands of the job. This helps potential candidates understand what will be expected of them. Include tasks like standing for long periods, lifting heavy items (like milk containers or coffee bags), and the need for manual dexterity to operate machinery and prepare drinks.
 
 **Common misunderstanding: You should only list the skills and responsibilities, not the physical demands.**

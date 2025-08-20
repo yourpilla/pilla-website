@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What responsibilities should I list for a Bar Supervisor during service?
-
 During service, a Bar Supervisor has several key responsibilities to ensure everything runs smoothly. They supervise bartenders to maintain service standards, manage staff rotations, handle customer complaints, ensure compliance with health and safety regulations, and oversee cash and payment handling procedures. These tasks are crucial for maintaining high-quality service and a good customer experience.
 
 **Common misunderstanding: A Bar Supervisor's role is only to oversee drink preparation and service.**

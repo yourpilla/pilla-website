@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What essential skills should be listed in a Head Waiter job description?
-
 When writing a job description for a Head Waiter, include skills like the ability to lead a floor team calmly under pressure, exceptional guest communication, and strong organisational and shift planning skills. These are crucial for managing the dining area efficiently and ensuring guest satisfaction.
 
 **Common misunderstanding: Technical skills like plate carrying or menu knowledge are the most important.**

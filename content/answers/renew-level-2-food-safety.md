@@ -70,13 +70,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How often do I need to renew my Level 2 food safety certificate?
-
 Your Level 2 food hygiene certificate needs to be renewed every 3 years to stay valid and ensure you're up to date with current food safety standards. This applies to all staff who regularly handle open and high-risk foods.
 
 While you can complete this training online, many businesses prefer in-person training as it often provides a more comprehensive learning experience with direct instructor interaction.

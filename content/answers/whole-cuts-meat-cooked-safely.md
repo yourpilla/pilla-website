@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safe cooking procedures and temperature requirements
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How should whole cuts of meat be cooked safely?
-
 To cook whole cuts of meat safely, ensure that the outside is fully sealed by cooking at high temperatures. This process kills any bacteria present on the surface of the meat. It's also crucial to use a food thermometer to check that the meat has reached the appropriate internal temperature for safe consumption.
 
 **Common misunderstanding: All parts of the meat need to be cooked to high temperatures.**

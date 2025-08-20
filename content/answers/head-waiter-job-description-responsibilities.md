@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What pre-service responsibilities should I include in a Head Waiter job description?
-
 Pre-service responsibilities are key for a Head Waiter to ensure smooth operations once guests arrive. These include overseeing the setup of the dining area, confirming reservation details, and coordinating with the kitchen to review the menu and special requests. A Head Waiter also needs to ensure all staff are briefed and ready for service.
 
 **Common misunderstanding: Pre-service tasks are just about physical setup.**

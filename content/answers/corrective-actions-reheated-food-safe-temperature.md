@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Required temperature standards and monitoring
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What corrective actions should be taken if reheated food does not reach the safe temperature?
-
 If reheated food fails to reach the required safe temperature, it's important to take immediate corrective actions to prevent food-borne illness. Continue cooking the food until it reaches a minimum temperature of 75°C in England, Wales, and Northern Ireland, and 82°C in Scotland. If the equipment is faulty, use alternative equipment or divide the food into smaller portions to speed up the reheating process. Always ensure that the equipment is functioning properly, and if not, it may need to be repaired or replaced. Additionally, increase staff training and supervision to prevent future occurrences.
 
 **Common misunderstanding: If food doesn't initially reach the safe temperature, it's okay to serve it after a short additional heating.**

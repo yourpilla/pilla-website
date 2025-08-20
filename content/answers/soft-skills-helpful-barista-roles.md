@@ -100,13 +100,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What kind of soft skills are most helpful in barista roles?
-
 Soft skills are just as important as technical skills in a barista role. They help create a positive customer experience and a productive work environment. Key soft skills include strong communication, patience, adaptability, and teamwork. These skills help baristas handle busy periods, interact effectively with customers, and work well with their team.
 
 **Common misunderstanding: Soft skills are less important than knowing how to make coffee.**

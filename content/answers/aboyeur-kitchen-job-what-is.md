@@ -108,13 +108,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the job of an Aboyeur in a kitchen?
-
 The job of an Aboyeur, also known as an Expediter, is important in a busy kitchen. They act as the communication link between the kitchen staff and the front of the house. This role involves coordinating orders, ensuring that food is prepared in the right sequence, and that dishes are correctly plated and sent out to customers promptly.
 
 **Common misunderstanding: An Aboyeur is just another term for a waiter or waitress.**

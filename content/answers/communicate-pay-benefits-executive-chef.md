@@ -1,5 +1,7 @@
 ---
-title: How should I communicate pay and benefits in a Executive Chef job description?
+title: >-
+  How should I communicate pay and benefits in an Executive Chef job
+  description?
 meta: >
   Explore effective strategies for communicating pay and benefits in an
   Executive Chef job description to attract top talent.
@@ -115,13 +117,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I communicate pay and benefits in an Executive Chef job description?
-
 When writing a job description for an Executive Chef, it's important to be clear and upfront about the salary and benefits. State the salary range or specific figures, and list all additional benefits clearly. This transparency helps set clear expectations and attracts the right candidates who are comfortable with the package offered.
 
 **Common misunderstanding: It's better to discuss pay during the interview rather than in the job description.**

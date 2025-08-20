@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What core responsibilities should be listed in a sommelier job description?
-
 When drafting a job description for a sommelier, it's crucial to include responsibilities that reflect the essential functions of the role. Key responsibilities should include in-depth wine knowledge, exceptional customer service, and the ability to manage and update a wine list effectively. Additionally, the sommelier should have expertise in wine pairing and the capability to educate staff and guests about wine selections.
 
 **Common misunderstanding: A sommelier's job is just about serving wine.**

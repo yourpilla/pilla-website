@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should food businesses do when a critical limit is not met?
-
 When a critical limit in a HACCP plan is not met, food businesses must immediately take corrective action to prevent any potential food safety hazards. This could involve stopping the production line, discarding the affected product, or adjusting the process to bring it back within safe limits. It's essential to address these issues quickly to ensure the safety of the food being served.
 
 **Common misunderstanding: If a critical limit is breached, it can be adjusted on the fly without formal documentation.**

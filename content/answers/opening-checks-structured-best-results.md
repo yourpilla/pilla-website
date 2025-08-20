@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should opening checks be structured for best results?
-
 Opening checks should be structured to match the natural workflow of your kitchen to ensure nothing is missed and everything is prepared for service. Start from the first point of contact, like the delivery area, and move through to where service begins. This method helps in catching potential issues early, ensuring a smooth start to the day.
 
 **Common misunderstanding: All kitchens can use the same generic checklist.**

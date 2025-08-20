@@ -100,13 +100,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I explain the level of experience needed in a Barista job description?
-
 When writing a job description for a Barista, it's important to clearly state the level of experience required. This helps to attract candidates who are a good fit for the role. Specify whether you need an entry-level, mid-level, or senior Barista, and describe the kind of environment or equipment they should have experience with.
 
 **Common misunderstanding: Experience always means years worked.**

@@ -1,6 +1,5 @@
 ---
-title: |
-  Who should I tell if my food probe thermometer isn't working properly?
+title: Who should I tell if my food probe thermometer isn't working properly?
 meta: >
   Learn what to do if your food probe thermometer is faulty, including who to
   tell, signs to look for, and why you shouldn't keep using it. Always record
@@ -108,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Who should I tell if my food probe thermometer isn't working properly?
-
 You should inform your head chef if you notice any issues with your probe thermometer. They will need to verify the problem by rechecking the probe's accuracy. If they confirm the probe is faulty, they'll ensure it's taken out of service and arrange for a replacement probe to be made available.
 
 Make sure to record the issue in the probe thermometer accuracy test task in Pilla so there's a record of the problem.

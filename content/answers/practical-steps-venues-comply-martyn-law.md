@@ -1,6 +1,5 @@
 ---
-title: |
-  What practical steps can venues take to comply with Martyn's Law?
+title: What practical steps can venues take to comply with Martyn's Law?
 meta: >
   Discover practical steps for venues to comply with Martyn's Law, focusing on
   procedural readiness, staff training, and appropriate security measures.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What practical steps can venues take to comply with Martyn's Law?
-
 Preparing for Martyn's Law involves several practical steps to ensure your venue is ready for the new regulations. Start by assessing if your venue falls under the law's requirements based on its capacity and public access. Then, familiarise yourself with the duties you need to perform, whether standard or enhanced, and begin planning your compliance strategy.
 
 **Common misunderstanding: Compliance with Martyn's Law is only about having security equipment.**

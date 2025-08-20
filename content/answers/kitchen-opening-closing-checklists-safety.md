@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Why are kitchen opening and closing checklists important for food safety?
-
 Opening and closing checklists are crucial in a kitchen because they ensure that every critical safety and hygiene task is completed. For example, these checklists help staff verify that food is stored correctly, surfaces are sanitised, and equipment is functioning properly. This prevents foodborne illnesses and maintains high standards of cleanliness.
 
 **Common misunderstanding: Checklists are just for record-keeping and don't impact actual safety.**

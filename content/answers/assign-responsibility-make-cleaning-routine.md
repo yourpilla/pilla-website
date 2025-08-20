@@ -133,13 +133,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do you assign responsibility and make kitchen cleaning routine?
-
 Assigning cleaning tasks effectively ensures that every part of your hospitality venue stays clean and safe. Start by identifying all the cleaning tasks that need to be done daily, weekly, and monthly. Then, assign these tasks to specific team members based on their shifts and roles. This makes it clear who is responsible for what, and when.
 
 **Common misunderstanding: Assigning cleaning tasks to staff is unnecessary if everyone knows they should be helping out.**

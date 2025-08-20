@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What type of experience should I specify in a Sous Chef job description?
-
 When writing a job description for a Sous Chef, it's important to specify the type of experience that matches your restaurant's needs. This includes detailing the culinary environment they'll work in, such as high-volume service or fine dining, and the specific skills required, like advanced culinary techniques or leadership abilities.
 
 **Common misunderstanding: Experience is just about the number of years in the industry.**

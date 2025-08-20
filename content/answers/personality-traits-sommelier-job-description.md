@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What personality traits should I include in a sommelier job description?
-
 When crafting a job description for a sommelier, it's important to include personality traits that align with your restaurant's culture and service style. Essential traits often include a passion for wine, excellent customer service skills, and the ability to work well in a team. Additionally, traits like adaptability, attention to detail, and a friendly demeanor can make a big difference in how well the sommelier fits into your team and interacts with customers.
 
 **Common misunderstanding: Personality traits are less important than technical skills for a sommelier.**

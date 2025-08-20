@@ -133,13 +133,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are examples of weekly and monthly kitchen cleaning tasks?
-
 In a busy restaurant, keeping on top of cleaning is crucial for safety and customer satisfaction. Weekly tasks might include deep cleaning the kitchen floors and sanitising the restrooms thoroughly. Monthly tasks often involve cleaning areas that don't get daily attention, like the tops of shelves and behind large appliances.
 
 **Common misunderstanding: Daily cleaning is enough to keep a restaurant safe and hygienic.**

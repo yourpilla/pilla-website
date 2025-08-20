@@ -106,13 +106,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I identify hazards for a kitchen risk assessment?
-
 Identifying hazards in a kitchen is a crucial first step in creating a safe working environment. Start by walking through the kitchen during different times like prep, service, and clean-down to see what potential hazards arise. Observe the tasks being performed, check the condition of equipment, and discuss with the team about their experiences and near misses.
 
 **Common misunderstanding: You can identify all hazards by just reviewing kitchen procedures from your office.**

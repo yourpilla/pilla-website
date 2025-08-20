@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# Should I include expectations around drink knowledge or mixology in a Bartender job description?
-
 Yes, it's important to include expectations around drink knowledge and mixology skills in a bartender job description. This helps you attract candidates who are prepared for the specific demands of your bar, whether it's crafting classic cocktails or serving a wide range of beers. Clearly outlining these skills ensures applicants understand what's required and can self-assess their suitability.
 
 **Common misunderstanding: Including mixology skills will limit the number of applicants.**

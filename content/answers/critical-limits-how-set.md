@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are critical limits and how are they set?
-
 Critical limits are specific thresholds that must be met to ensure food safety during production. These limits are set based on scientific research and are expressed as numerical values, such as temperatures or time limits. For example, cooking poultry to a minimum internal temperature is a critical limit that prevents harmful bacteria from surviving.
 
 **Common misunderstanding: Critical limits are just guidelines and can be adjusted based on experience.**

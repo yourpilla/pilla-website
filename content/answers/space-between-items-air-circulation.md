@@ -109,13 +109,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How much space should I leave between items in the fridge for good air circulation?
-
 You need to ensure there's adequate space around all sides of items in your fridge, particularly at the back and sides of the unit. This allows cold air to flow freely throughout the fridge, preventing hot spots and maintaining consistent temperatures. Never stack items right against the walls of the fridge. Overcrowding can lead to temperature fluctuations which increases the risk of bacterial growth in your food items.
 
 ## What about between shelves - how much space do I need there?

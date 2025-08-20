@@ -1,7 +1,5 @@
 ---
-title: >-
-  What experience should I ask for in a Bar Supervisor Bar Supervisor job
-  description?
+title: What experience should I ask for in a Bar Supervisor job description?
 meta: >
   Discover how to effectively specify experience requirements in a Bar
   Supervisor job description to attract suitable candidates.
@@ -116,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What experience should I ask for in a Bar Supervisor job description?
-
 When writing a job description for a Bar Supervisor, it's important to specify the type and level of experience needed. This helps ensure that candidates understand what is expected and can self-assess their suitability. For example, you might require experience in a high-volume bar or leadership experience in a similar hospitality setting.
 
 **Common misunderstanding: Asking for more years of experience than necessary will get better candidates.**

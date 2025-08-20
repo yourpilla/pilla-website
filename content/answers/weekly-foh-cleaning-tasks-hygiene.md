@@ -133,13 +133,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What weekly FOH cleaning tasks should be scheduled to maintain hygiene standards?
-
 Weekly cleaning tasks are crucial to keep your restaurant's front of house (FOH) looking sharp and hygienic. These tasks should include deep vacuuming of carpets, scrubbing hard floors, dusting light fittings, cleaning skirting boards, and wiping down furniture. It's also important to clean high-touch areas like chair legs and bar stools.
 
 **Common misunderstanding: Weekly tasks only focus on visible areas.**

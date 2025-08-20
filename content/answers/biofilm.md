@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Why is biofilm a problem in commercial dishwashers?
-
 Biofilm in commercial dishwashers is a problem because it forms a protective layer that harbours harmful bacteria. This can lead to contamination of dishes and utensils, posing a risk to food safety. Biofilm is resistant to regular cleaning chemicals, making it difficult to remove once established.
 
 **Common misunderstanding: Biofilm is just a harmless buildup that regular cleaning can handle.**

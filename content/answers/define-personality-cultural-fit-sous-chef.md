@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I define the personality and cultural fit for a Sous Chef in our job description?
-
 When writing a job description for a Sous Chef, it's key to describe the personality traits and cultural fit that will mesh well with your kitchen's environment. Think about the qualities that make your current team successful and the atmosphere in your kitchen. Is it fast-paced and innovative, or more detail-oriented and traditional? Specify these traits to attract candidates who will thrive in your setting.
 
 **Common misunderstanding: Personality fit is less important than skills and experience.**

@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Should I include menu innovation play in an Executive Chef job description?
-
 Yes, including menu innovation in the job description of an Executive Chef is crucial. It highlights the need for creativity and the ability to refresh and develop new dishes that align with the restaurant's concept and customer preferences. This responsibility is a core part of the role, reflecting the chef's influence on the dining experience.
 
 **Common misunderstanding: Menu innovation is only about creating new dishes.**

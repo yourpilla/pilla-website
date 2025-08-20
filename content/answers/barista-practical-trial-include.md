@@ -124,13 +124,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should a Barista practical trial include?
-
 When you're looking to hire a new barista, a practical trial is a great way to see their skills in action. A typical trial should include tasks like pulling espresso shots, steaming and pouring milk, maintaining a clean and organised workstation, and handling a simple customer interaction. This setup gives you a clear view of their coffee-making skills, hygiene habits, and customer service approach.
 
 **Common misunderstanding: A practical trial should test every possible skill.**

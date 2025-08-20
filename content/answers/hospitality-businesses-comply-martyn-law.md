@@ -1,6 +1,5 @@
 ---
-title: |
-  Which hospitality businesses must comply with Martyn's Law?
+title: Which hospitality businesses must comply with Martyn's Law?
 meta: >
   Explore which UK hospitality venues must comply with Martyn's Law, including
   those with a capacity of 200 or more people, and debunk common misconceptions
@@ -122,13 +121,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Which hospitality businesses must comply with Martyn's Law?
-
 Hospitality businesses that expect to host 200 or more people at the same time, including staff and customers, must comply with Martyn's Law. This includes a range of venues such as restaurants, pubs, bars, hotels, nightclubs, and entertainment venues. The law aims to ensure these places are prepared for potential terrorist attacks by implementing specific security measures.
 
 **Common misunderstanding: Only venues in large cities need to comply with Martyn's Law.**

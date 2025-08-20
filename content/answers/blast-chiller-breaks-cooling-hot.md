@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should I do if the blast chiller breaks down when cooling hot food?
-
 If your blast chiller stops working, you need to switch to alternative cooling methods quickly to keep food safe. Use methods like spreading food out to increase surface area, stirring liquids, or using ice water baths to cool food rapidly. Remember, food must reach a safe temperature within 90 minutes to prevent bacteria growth.
 
 **Common misunderstanding: If the blast chiller breaks down, it's safe to wait for it to be fixed before cooling food.**

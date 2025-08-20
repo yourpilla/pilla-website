@@ -1,6 +1,5 @@
 ---
-title: |
-  How can I tailor Barista responsibilities to suit our venue's actual needs?
+title: How can I tailor Barista responsibilities to suit our venue's actual needs?
 meta: >
   Discover how to tailor barista job descriptions to match the specific needs of
   your venue, ensuring operational efficiency and customer satisfaction.
@@ -101,13 +100,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How can I tailor Barista responsibilities to suit our venue's actual needs?
-
 When creating a job description for a barista, it's essential to reflect the specific needs and style of your venue. Start by listing the daily tasks that are truly relevant to your setup. Think about your service style, customer interaction, and the pace of your venue. This ensures the responsibilities align with your actual operational needs.
 
 **Common misunderstanding: All barista job descriptions are the same, so one can simply use a template without modifications.**

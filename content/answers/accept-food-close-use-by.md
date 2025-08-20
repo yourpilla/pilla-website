@@ -1,6 +1,5 @@
 ---
-title: |
-  Can I accept food from a supplier that's close to its use-by date?
+title: Can I accept food from a supplier that's close to its use-by date?
 meta: >
   Discover why accepting food deliveries close to their use-by dates is not
   recommended, even with discounts, and learn what to do if you receive
@@ -114,13 +113,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Can I accept food from a supplier that's close to its use-by date?
-
 No, you should not accept deliveries that are close to their use-by dates. When checking deliveries, use-by dates must have a minimum of 5 days usage remaining. For best-before dates, you need at least 1 month remaining.
 
 This ensures you have adequate time to use the products safely while maintaining food quality standards. If products don't meet these date requirements, you should reject them and contact your supplier.

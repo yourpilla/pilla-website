@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I choose the best control measures for front of house risks?
-
 Choosing the right control measures for front of house risks involves understanding the specific hazards and how they can affect your staff and customers. Think about reducing the likelihood of the hazard occurring and minimizing the impact if it does happen. For example, if slippery floors are a concern, consider anti-slip mats or better footwear for staff.
 
 **Common misunderstanding: All control measures are expensive and complicated to implement.**

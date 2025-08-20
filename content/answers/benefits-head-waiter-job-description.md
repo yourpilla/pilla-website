@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What benefits should I outline in a Head Waiter job description?
-
 When writing a job description for a Head Waiter, it's important to clearly outline the benefits that come with the role. Include standard benefits like health insurance, paid leave, and bonuses. Also, mention unique perks such as staff meals, discounts on dining, and opportunities for professional development. This helps attract candidates who are looking for both financial and professional growth opportunities.
 
 **Common misunderstanding: Benefits are only about health insurance and salary.**

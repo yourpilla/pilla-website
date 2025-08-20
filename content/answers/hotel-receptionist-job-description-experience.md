@@ -1,5 +1,5 @@
 ---
-title: How experience should I ask for in a Hotel Receptionist job description?
+title: How much experience should I ask for in a Hotel Receptionist job description?
 meta: >
   Discover how to determine the right experience level for hotel receptionist
   roles and the importance of personality fit in the hospitality industry.
@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How much experience should I ask for in a Hotel Receptionist job description?
-
 When writing a job description for a hotel receptionist, it's important to clearly state the experience required. This helps ensure that you attract candidates who are capable of handling the responsibilities of the job. Consider whether the role is entry-level, mid-level, or requires advanced experience, and specify the nature of the experience needed, such as familiarity with hotel management systems or guest service expertise.
 
 **Common misunderstanding: Asking for more experience always leads to better candidates.**

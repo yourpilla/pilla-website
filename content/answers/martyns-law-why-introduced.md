@@ -1,6 +1,5 @@
 ---
-title: |
-  What is Martyn's Law and why was it introduced?
+title: What is Martyn's Law and why was it introduced?
 meta: >
   Explore the specifics of Martyn's Law, its mandatory security measures for UK
   venues, and the influence of Martyn Hett's advocacy following the Manchester
@@ -122,13 +121,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is Martyn's Law and why was it introduced?
-
 Martyn's Law, officially known as the Terrorism (Protection of Premises) Act 2025, is a UK legislation designed to enhance security in public venues to prepare for and mitigate terrorist attacks. It was introduced in response to several terrorist incidents in the UK, aiming to ensure that venues are better prepared to protect the public.
 
 **Common misunderstanding: Martyn's Law applies to all businesses across the UK.**

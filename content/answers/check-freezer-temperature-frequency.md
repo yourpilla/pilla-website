@@ -98,13 +98,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Temperature monitoring guidelines and procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How often should I check the freezer temperature?
-
 You should check and record freezer temperatures twice per day. The ideal temperature should be -18°C (0°F) or below.
 
 ## Do I need to document the freezer temperature if the temperature is within range?

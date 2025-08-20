@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is involved in monitoring critical control points?
-
 Monitoring critical control points (CCPs) is a key step in the HACCP system to ensure food safety. It involves regularly checking these points to confirm that they are under control and that the food being produced is safe to eat. This could include measuring temperatures, timings, or using specific equipment to test conditions.
 
 **Common misunderstanding: Monitoring CCPs is only about checking temperatures.**

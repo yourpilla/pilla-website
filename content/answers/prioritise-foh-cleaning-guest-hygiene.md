@@ -130,13 +130,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I prioritise FOH cleaning tasks by guest visibility and hygiene risk?
-
 When setting up a cleaning schedule for your restaurant's front of house (FOH), focus on areas that guests will notice immediately or that could pose hygiene risks. Start by identifying what guests see first and what they touch. Tasks like wiping down tables and sanitising door handles should be top priority because they impact guest experience and safety directly.
 
 **Common misunderstanding: All cleaning tasks have the same priority.**

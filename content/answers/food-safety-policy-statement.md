@@ -113,13 +113,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-01-04"
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is a food safety policy statement?
-
 A food safety policy statement is a written commitment by a hospitality business to maintain safe food handling, preparation, and storage practices. It outlines the responsibilities of both management and staff to ensure the health and safety of food served to customers. This statement is crucial for setting standards and procedures that comply with legal requirements and protect public health.
 
 **Common misunderstanding: A food safety policy statement is just a formality and doesn’t need to be taken seriously.**

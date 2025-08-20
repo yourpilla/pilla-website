@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What closing and cleaning duties should be included in a Chef de Partie job description?
-
 At the end of a busy day, a Chef de Partie is responsible for ensuring the kitchen is prepped for the next service. This includes cleaning workstations, storing ingredients properly, and participating in temperature and sanitation checks. These tasks are crucial to maintain a high standard of hygiene and order in the kitchen.
 
 **Common misunderstanding: Closing duties are just about cleaning.**

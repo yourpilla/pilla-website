@@ -113,13 +113,13 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-05-01T09:00:00+01:00"
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What if the food supplier sends different products than what we ordered?
-
 When suppliers substitute products, it's crucial that they clearly indicate these changes in writing - verbal notifications are not acceptable. Any product substitutions must be mutually agreed upon and communicated via email or written documentation. This is particularly important for allergen management, as your allergen files and matrix may need to be updated.
 
 If you receive products that don't match your order specifications, you should reject them and contact the supplier immediately. Make sure to clearly label any rejected items as "not for consumption" and store them in a designated area for disposal or return.

@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How deep should the food probe thermometer go in water when testing?
-
 When testing a probe thermometer in water, it should be submerged at least 2 inches deep. Make sure the probe isn't touching the sides or bottom of the pot as this can give false readings. The probe needs enough space to get an accurate reading of the water temperature.
 
 **Common misunderstanding: It's unnecessary to immerse the probe thermometer deeply because modern thermometers are highly sensitive and can measure accurately with just a touch of the water surface.**

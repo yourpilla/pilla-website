@@ -1,6 +1,6 @@
 ---
 title: >-
-  What pay and benefits information should I include Hotel Receptionist job
+  What pay and benefits information should I include in a Hotel Receptionist job
   description?
 meta: >
   Discover essential details to include in a Hotel Receptionist job description,
@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What pay and benefits information should I include in a Hotel Receptionist job description?
-
 When writing a job description for a Hotel Receptionist, it's important to clearly include the salary range or pay rate, and any additional benefits. This transparency helps attract the right candidates and sets clear expectations. For example, you might list a pay range of £10.50–£12.00 per hour, depending on experience, and highlight any bonuses or incentives.
 
 **Common misunderstanding: It's better to discuss pay during the interview rather than in the job description.**

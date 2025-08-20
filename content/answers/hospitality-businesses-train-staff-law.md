@@ -1,6 +1,5 @@
 ---
-title: |
-  How should hospitality businesses train staff under Martyn's Law?
+title: How should hospitality businesses train staff under Martyn's Law?
 meta: >
   Explore training guidelines for hospitality staff under Martyn's Law, focusing
   on suspicious behaviour awareness and emergency procedures.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should hospitality businesses train staff under Martyn's Law?
-
 Under Martyn's Law, hospitality businesses must ensure their staff are well-trained to respond to terrorism threats. This involves comprehensive training that covers both awareness of suspicious behaviours and specific emergency procedures. The training should be regular and updated to keep pace with current threats, ensuring all staff from managers to front-line workers understand their roles during an emergency.
 
 **Common misunderstanding: Training is only necessary for security staff.**

@@ -98,13 +98,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How often does my kitchen risk assessment need reviewing?
-
 It's essential to review your kitchen risk assessment at least once every 12 months. This regular check helps ensure that any changes in operations or the environment that could impact safety are accounted for. If you use a system like Pilla, it can remind you automatically, making it easier to stay on top of this important task.
 
 **Common misunderstanding: Once a risk assessment is done, it doesn’t need to be reviewed unless there is a problem.**

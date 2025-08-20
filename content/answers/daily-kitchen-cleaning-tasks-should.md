@@ -132,13 +132,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should be included in daily kitchen cleaning tasks?
-
 Daily kitchen cleaning tasks should include wiping down all surfaces, cleaning the floors, and sanitising equipment that comes into contact with food. It's important to also focus on areas that might be overlooked, like door handles and light switches, to maintain a hygienic environment.
 
 **Common misunderstanding: Cleaning and sanitising are the same thing.**

@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What happens if I drop my food probe thermometer?
-
 If you drop your probe thermometer, you should immediately stop using it and inspect it carefully. Even minor impacts can damage the sensitive equipment inside, which could lead to unreliable temperature readings. Look for any visible damage like cracks, chips, or a bent probe tip.
 
 If you notice any damage, the probe should be taken out of service immediately and replaced. You'll need to get a new one or have it repaired by the manufacturer to ensure accurate readings.

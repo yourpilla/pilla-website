@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What is hot holding and why is it important?
-
 Hot holding is the process of keeping cooked food at a high temperature to ensure it remains safe to eat until it's served. This method is important because it prevents the growth of harmful bacteria that can cause food poisoning. By maintaining food at the correct temperature, hot holding ensures that the food stays not only warm but also safe for consumption over a period of time.
 
 **Common misunderstanding: Hot holding is just about keeping food warm for customer satisfaction.**

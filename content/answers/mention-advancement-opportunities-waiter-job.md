@@ -117,13 +117,13 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How should I mention advancement opportunities in a Waiter/Waitress job description?
-
 When writing a job description for a waiter or waitress, it's important to clearly mention any advancement opportunities. This shows potential candidates that there is a path for growth within your establishment. For example, you can state that your restaurant promotes growth through regular training, mentorship, and opportunities to advance to supervisory or management roles.
 
 **Common misunderstanding: Advancement opportunities should be vaguely mentioned to attract more candidates.**

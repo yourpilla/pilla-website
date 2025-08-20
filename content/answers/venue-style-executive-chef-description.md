@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include about my venue style section of an Executive Chef job description?
-
 When writing the venue style section of an Executive Chef job description, start by clearly stating the type of culinary establishment you run, such as a Michelin-starred restaurant, a bustling hotel kitchen, or a trendy catering company. Describe your culinary style, like contemporary British cuisine or classic French dishes with modern twists. Also, highlight what makes your kitchen unique or a great place to work, such as a commitment to sustainability, a collaborative atmosphere, or opportunities for professional growth.
 
 **Common misunderstanding: The venue style section is just a basic introduction, so it doesn't need much detail.**

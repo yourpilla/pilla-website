@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step procedures and protocols
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What actions should be taken if staff do not follow reheating procedures?
-
 If staff do not follow reheating procedures, immediate corrective actions must be taken to ensure food safety. These include further cooking of the food to reach the required minimum temperature, using alternative equipment or dividing the food into smaller portions to speed up reheating. Additionally, faulty or broken equipment should be repaired or replaced, and if necessary, an engineer should be called. In cases of potential cross-contamination, the affected food should be discarded.
 
 **Common misunderstanding: Minor deviations from reheating procedures are not harmful.**

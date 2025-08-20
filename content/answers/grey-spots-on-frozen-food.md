@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What do the grey spots on frozen food mean?
-
 Those grey-brown leathery spots you're seeing are called freezer burn. This happens when air reaches the food's surface and causes dehydration and oxidation. While freezer burn doesn't make the food unsafe to eat, it can affect the quality and taste.
 
 If the freezer burn is minor, you can cut away the affected areas before or after cooking. However, if the food is heavily affected by freezer burn, it's best to discard it for quality reasons.

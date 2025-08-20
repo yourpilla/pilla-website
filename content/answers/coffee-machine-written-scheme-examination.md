@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Does my coffee machine need a Written Scheme of Examination (WSE)?
-
 If your coffee machine uses steam under pressure, such as most commercial espresso machines, it likely requires a Written Scheme of Examination (WSE). This is a legal requirement under the Pressure Systems Safety Regulations 2000 (PSSR) to ensure the machine is safe to operate.
 
 **Common misunderstanding: My machine is small, so it doesn't need a WSE.**

@@ -108,13 +108,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is a Chef de Partie responsible for?
-
 A Chef de Partie, also known as a Station Chef, is in charge of a specific section of the kitchen. This role involves managing a particular area like sauces, pastries, or fish, ensuring that all dishes from that section are prepared with high quality and served on time. They oversee the preparation, cooking, and presentation of their specialty, while also managing any staff working in their section.
 
 **Common misunderstanding: A Chef de Partie only cooks and has no other responsibilities.**

@@ -1,5 +1,5 @@
 ---
-title: What skills are essential to include in an Executive Chef a job description?
+title: What skills are essential to include in an Executive Chef job description?
 meta: >
   Discover the essential and desirable skills to include in an Executive Chef
   job description to ensure operational success and innovation in your kitchen.
@@ -53,13 +53,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What skills are essential to include in an Executive Chef job description?
-
 When writing a job description for an Executive Chef, it's important to list skills that are crucial for the daily operations and success of your kitchen. Essential skills often include advanced culinary techniques, leadership and team management, kitchen workflow and operational efficiency, as well as budget and stock management. These skills ensure the chef can handle both the creative and administrative aspects of the kitchen.
 
 **Common misunderstanding: All chefs have similar skills, so specific mentions are not necessary.**

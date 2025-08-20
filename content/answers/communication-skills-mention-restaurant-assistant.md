@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What communication skills should I mention in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to mention specific communication skills that are essential for the role. These include strong verbal and written communication abilities, as these skills are crucial for effective leadership and customer interactions. Mentioning these skills helps attract candidates who can effectively manage your team and ensure excellent guest service.
 
 **Common misunderstanding: Communication skills are just about talking to people.**

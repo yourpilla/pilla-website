@@ -1,6 +1,6 @@
 ---
 title: >-
-  What hours and shifts information should I include Hotel Receptionist job
+  What hours and shifts information should I include in a Hotel Receptionist job
   description?
 meta: >
   Discover essential tips for including detailed shift and scheduling
@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What hours and shifts information should I include in a Hotel Receptionist job description?
-
 When writing a job description for a Hotel Receptionist, it's important to clearly state the hours and shifts they will be expected to work. This helps potential candidates understand their work schedule and assess if it fits their personal commitments. Include details about the shift patterns (morning, afternoon, night), the expected number of hours per week, and any requirements for weekends or holidays.
 
 **Common misunderstanding: It’s sufficient to just mention full-time or part-time.**

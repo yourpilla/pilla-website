@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What are the Standard Tier requirements for hospitality venues under Martyn's
   Law?
 meta: >
@@ -123,13 +123,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the Standard Tier requirements for hospitality venues under Martyn's Law?
-
 If your hospitality venue, such as a restaurant, bar, or hotel, has a capacity of 200–799 people at any one time, it falls under the Standard Tier of Martyn's Law. This means you need to take specific actions to prepare for potential terrorist threats. These actions include registering your venue with the Security Industry Authority (SIA), developing a terrorism response plan, and ensuring your staff are trained on this plan.
 
 **Common misunderstanding: Only large venues need to comply with Martyn's Law.**

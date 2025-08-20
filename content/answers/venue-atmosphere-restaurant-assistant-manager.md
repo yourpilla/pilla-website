@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I describe my venue atmosphere in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly describe the atmosphere of your venue. Start by outlining the type of dining experience you offer, such as casual, fine dining, or fast-paced. Mention any specific elements like the design style or the music vibe that define your restaurant's atmosphere. This helps potential candidates understand the environment they might be working in.
 
 **Common misunderstanding: A detailed description of the venue's atmosphere is not necessary in a job description.**

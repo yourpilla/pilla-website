@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Equipment specifications and usage guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What equipment should be used to reheat food safely?
-
 To reheat food safely, use equipment specifically designed for reheating, such as microwave ovens, stovetops, or conventional ovens. These devices can quickly reach and maintain the high temperatures needed to bring food up to safe reheating temperatures, ensuring bacteria and spores are effectively reduced.
 
 **Common misunderstanding: Any kitchen appliance that heats food can be used for reheating.**

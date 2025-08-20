@@ -1,7 +1,5 @@
 ---
-title: >-
-  What essential skills should should I include in a Bar Manager job
-  description?
+title: What essential skills should I include in a Bar Manager job description?
 meta: >
   Discover essential skills for a Bar Manager, including leadership, customer
   service, and inventory management, and how to effectively identify and
@@ -117,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What essential skills should I include in a Bar Manager job description?
-
 When writing a job description for a Bar Manager, it's important to list skills that are crucial for the role. Include leadership experience for team motivation, customer service skills for guest interactions, and proficiency with inventory software for stock management.
 
 **Common misunderstanding: All skills are equally important for a Bar Manager.**

@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How often should a front of house risk assessment be reviewed?
-
 It's important to review your front of house risk assessment every 12 months. Regular reviews help ensure that any changes in the restaurant environment or operations are accounted for, keeping your staff and customers safe.
 
 **Common misunderstanding: Once completed, a risk assessment is good indefinitely.**

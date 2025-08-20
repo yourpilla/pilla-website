@@ -100,13 +100,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Quality assurance methods and verification
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How do I ensure the Barista job description fits our style of coffee service?
-
 Start by clearly defining your café's service style, pace, and values in the job description. This helps potential candidates understand what to expect and ensures they match your specific needs. Include details about the type of coffee service (e.g., fast-paced takeaway, sit-down café), the average number of coffees made per day, and any special practices like seasonal bean rotations or waste reduction efforts.
 
 **Common misunderstanding: All barista job descriptions are similar, so a generic template will suffice.**

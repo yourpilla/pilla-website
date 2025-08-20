@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What should I include in the venue overview for a Bar Supervisor job description?
-
 When writing a job description for a Bar Supervisor, start with a clear and engaging overview of your venue. Include the type of bar, the style of service, and the unique atmosphere or culture. This helps potential candidates understand what makes your bar special and whether they might be a good fit.
 
 **Common misunderstanding: The venue overview is just a formality and doesn’t need much detail.**

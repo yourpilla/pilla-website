@@ -101,13 +101,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What essential skills should every Barista have before applying?
-
 When you're hiring a barista, it's important they come with certain skills to ensure they can start effectively from day one. Essential skills include basic espresso making, milk steaming, and maintaining a clean and organised workspace. These skills are crucial for any barista to perform daily tasks efficiently and maintain the quality of service expected in a busy café environment.
 
 Common misunderstanding: All barista skills can be trained on the job, so initial skills aren't important.

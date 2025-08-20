@@ -1,6 +1,5 @@
 ---
-title: |
-  Do I need to record fridge temperatures even if they're normal?
+title: Do I need to record fridge temperatures even if they're normal?
 meta: >
   Learn why it's crucial to record fridge temperatures, even when they're
   normal, and what to do if you miss a check.
@@ -108,13 +107,13 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Do I need to record fridge temperatures even if they're normal?
-
 Yes, you absolutely need to record all fridge temperatures, even when they're within the normal range. It's a legal requirement to monitor and record fridge temperatures. These records create an essential paper trail that proves you're maintaining proper food safety standards. Using the Pilla app to record temperatures will automatically log who checked it and when.
 
 **Common misunderstanding: Recording fridge temperatures is only necessary during health inspections or when there are issues with the fridge.**

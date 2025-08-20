@@ -1,6 +1,5 @@
 ---
-title: |
-  How does compliance differ between small and large venues under Martyn's Law?
+title: How does compliance differ between small and large venues under Martyn's Law?
 meta: >
   Explore how Martyn's Law compliance requirements differ for small and large
   hospitality venues, focusing on security measures and emergency procedures.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How does compliance differ between small and large venues under Martyn's Law?
-
 Under Martyn's Law, the compliance requirements for hospitality venues vary based on their size. Small venues (with a capacity of 200-799 people) have less stringent requirements compared to large venues (800+ people). Small venues focus on basic, cost-effective security measures and emergency procedures, while large venues must implement more comprehensive security measures and document their security plans in detail.
 
 **Common misunderstanding: Small venues need to install expensive security equipment.**

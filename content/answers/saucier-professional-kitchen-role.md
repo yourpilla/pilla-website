@@ -108,13 +108,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does a Saucier do in a professional kitchen?
-
 In a bustling professional kitchen, a Saucier, or Sauce Chef, is responsible for one of the most important elements of meal preparation: creating sauces and gravies. These are not just any sauces, but ones that must perfectly complement and enhance the main dishes. The Saucier ensures that each sauce has the right balance, flavour, and texture to elevate the dining experience.
 
 **Common misunderstanding: A Saucier only makes basic gravies and simple sauces.**

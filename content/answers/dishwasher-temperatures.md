@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How does hard water affect commercial dishwashers?
-
 Hard water, which contains high levels of minerals like calcium and magnesium, can lead to the buildup of calcium carbonate in commercial dishwashers. This buildup can reduce the efficiency of the dishwasher by clogging spray arms and filters, and by forming a layer that absorbs detergents, which decreases cleaning effectiveness.
 
 **Common misunderstanding: Hard water only affects the appearance of dishes, not the dishwasher’s performance.**

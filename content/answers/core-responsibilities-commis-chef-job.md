@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I list the core responsibilities in a Commis Chef job description?
-
 When listing core responsibilities for a Commis Chef, it's key to be clear and detailed. Start by breaking down the daily tasks into categories like preparation, service, and closing. This helps candidates understand what is expected of them and reflects the specific needs of your kitchen. For example, you might include tasks such as preparing ingredients, assisting during service, and cleaning up afterwards.
 
 **Common misunderstanding: Listing too many general responsibilities.**

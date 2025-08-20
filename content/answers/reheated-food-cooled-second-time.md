@@ -1,6 +1,5 @@
 ---
-title: |
-  Why can't reheated food be cooled a second time?
+title: Why can't reheated food be cooled a second time?
 meta: >
   Discover why reheating and cooling food multiple times is risky, increasing
   the likelihood of bacterial growth and foodborne illnesses.
@@ -107,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Why can't reheated food be cooled a second time?
-
 Reheating and then cooling food a second time can be very risky. This process takes the food through the "danger zone" (5°C to 50°C) multiple times, which can increase the chance of harmful bacteria growing. Once food has been reheated, it should either be eaten immediately or discarded if not used.
 
 **Common misunderstanding: It's safe to reheat and cool food multiple times as long as it's done quickly.**

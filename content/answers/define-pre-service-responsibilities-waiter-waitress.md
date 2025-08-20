@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I define the pre-service responsibilities in a Waiter/Waitress job description?
-
 When defining pre-service responsibilities in a Waiter/Waitress job description, focus on tasks that need to be completed before the restaurant opens to guests. These include setting up the dining area, ensuring everything is clean and ready, and preparing any necessary materials or equipment. It's important to clearly outline these duties so potential candidates understand what will be expected of them each day before service begins.
 
 **Common misunderstanding: Pre-service tasks are just about setting tables.**

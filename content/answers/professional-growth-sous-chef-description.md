@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Should I include long-term professional growth opportunities in a Sous Chef job description?
-
 Yes, including long-term professional growth opportunities in a Sous Chef job description is very important. It not only attracts candidates who are looking for a place to develop their skills but also shows that your kitchen values progression and personal development. This can help you attract ambitious chefs who are eager to advance their careers.
 
 **Common misunderstanding: If I mention growth opportunities, I might attract only those looking for quick promotions.**

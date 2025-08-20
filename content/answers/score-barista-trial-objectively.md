@@ -124,13 +124,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I score a Barista trial objectively?
-
 When you're running a Barista trial, it's important to use a structured scoring system. This helps you fairly assess each candidate's skills and attitude. Use a simple scorecard where you can rate various aspects like espresso making, milk handling, cleanliness, and customer interaction. Each category should have a clear pass or needs improvement option.
 
 **Common misunderstanding: Scoring based on gut feeling is enough.**

@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How does the Food Safety Act 1990 protect consumers?
-
 The Food Safety Act 1990 is designed to protect consumers by ensuring that all food sold in the UK meets strict safety standards. It does this by setting out legal obligations for food businesses to prevent the sale or processing of food that could be harmful to health. This includes regulations on hygiene, accurate labelling, and preventing food contamination.
 
 **Common misunderstanding: The Act only focuses on food preparation.**

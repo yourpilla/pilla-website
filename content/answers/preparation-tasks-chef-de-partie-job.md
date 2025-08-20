@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the main preparation tasks to include in a Chef de Partie job description?
-
 When setting up a Chef de Partie job description, it's key to include specific preparation tasks that are essential before the kitchen opens for service. These tasks typically involve preparing ingredients, organising tools, and setting up the kitchen stations. Common preparation duties include mise en place (setting up ingredients), checking the inventory, and coordinating with the head chef to review the day's menu and specials.
 
 **Common misunderstanding: Preparation tasks are just about chopping vegetables.**

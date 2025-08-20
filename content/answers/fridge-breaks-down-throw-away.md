@@ -105,13 +105,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# If the fridge breaks down overnight, do we have to throw everything away?
-
 If you're unsure how long the fridge has been broken down overnight, you should discard all the food and record it as waste. However, if you can verify the food temperature is still below 8°C using a probe thermometer, you can safely transfer it to another working fridge.
 
 **Common misunderstanding: If a fridge breaks down, it's always safer to discard all food, regardless of the temperature.**

@@ -113,13 +113,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Temperature monitoring guidelines and procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How should cooked food temperatures be monitored and recorded?
-
 To ensure food safety, it's important to monitor and record the temperatures of cooked foods. Recording the food item, its temperature, the date and time, and the person who recorded the data. Use a sanitised food thermometer to check the temperature and make sure it meets the safe cooking temperatures as specified (e.g., 75°C for at least 30 seconds).
 
 **Common misunderstanding: Any thermometer can be used for recording food temperatures.**

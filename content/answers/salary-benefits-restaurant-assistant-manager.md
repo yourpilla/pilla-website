@@ -117,13 +117,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should salary and benefits be included in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly outline the salary and benefits. This not only attracts the right candidates but also sets clear expectations. Start by specifying whether the salary is hourly or annual and provide a realistic range based on experience. Include any additional financial incentives like bonuses or commission structures.
 
 **Common misunderstanding: It’s enough to just mention a 'competitive salary'.**

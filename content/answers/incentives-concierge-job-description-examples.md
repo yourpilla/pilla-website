@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What are examples of incentives that I could include in a Concierge job
   description?
 meta: >
@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What are examples of incentives that I could include in a Concierge job description?
-
 Including attractive incentives in a Concierge job description can make your offer stand out and draw in top talent. Consider offering perks like discounted dining or accommodation, paid time-off, gratuities, team bonding activities, mental wellness resources, and customizable work schedules. These benefits not only enhance the job appeal but also demonstrate your commitment to employee well-being.
 
 **Common misunderstanding: Incentives are just financial.**

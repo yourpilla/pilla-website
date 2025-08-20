@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Equipment specifications and usage guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What equipment helps control front of house risks in hospitality?
-
 Choosing the right equipment is key to managing risks in the front of house areas of hospitality settings. Equipment like sturdy trays, lighter glassware, slip-resistant shoes, and drop-proof POS stands can significantly reduce the likelihood of accidents and injuries.
 
 **Common misunderstanding: More equipment always means better safety.**

@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include about my kitchen environment in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, it's important to clearly describe your kitchen's environment. This includes the type of restaurant, the culinary style, and what it's like to work in your kitchen. This helps potential candidates understand if they'll fit well with your team and operations.
 
 **Common misunderstanding: A general description of the kitchen environment is enough.**

@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I present technical skills required in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, clearly list the technical skills needed. Start by reviewing the key responsibilities of the role and then decide which skills are essential for these tasks. For example, if the job involves a lot of food preparation, basic knife skills and food safety knowledge are crucial.
 
 **Common misunderstanding: All technical skills are equally important for a Commis Chef.**

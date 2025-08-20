@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I effectively list key responsibilities in a Sous Chef job description?
-
 When listing key responsibilities for a Sous Chef, focus on clear, specific duties that reflect your kitchen's unique environment and needs. Start by breaking down the role into different parts of the service, such as pre-service prep, active service duties, and post-service tasks. Use bullet points to make each responsibility clear and easy to understand.
 
 **Common misunderstanding: Listing only general tasks like 'assist the Head Chef'.**

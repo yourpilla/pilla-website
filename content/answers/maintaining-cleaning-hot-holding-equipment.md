@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How should hot holding equipment be maintained and cleaned?
-
 To keep your hot holding equipment in top condition and ensure food safety, regular maintenance and cleaning are essential. After each use, turn off the unit, allow it to cool, and then clean it thoroughly to remove food particles and grease. Use a mild detergent and warm water for cleaning, and make sure to dry the unit completely to prevent rust and corrosion.
 
 **Common misunderstanding: It’s enough to just wipe down the surfaces of hot holding equipment.**

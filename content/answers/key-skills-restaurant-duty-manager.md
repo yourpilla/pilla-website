@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What key skills should I include in a Restaurant Duty Manager job description?
-
 When writing a job description for a Restaurant Duty Manager, include skills that match the daily responsibilities they will handle. Essential skills often include leadership and team management, customer service excellence, effective communication, time management, and knowledge of safety and hygiene regulations. These skills ensure the Duty Manager can effectively oversee restaurant operations and lead the team.
 
 **Common misunderstanding: All managerial skills are the same, regardless of the industry.**

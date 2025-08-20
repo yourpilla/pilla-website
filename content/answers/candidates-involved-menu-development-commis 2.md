@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# If candidates will be involved in menu development, how should I write this in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, if the role includes involvement in menu development, clearly state this responsibility. Highlight how they will contribute to creating and refining dishes, and specify any expectations for culinary creativity or collaboration with senior chefs.
 
 **Common misunderstanding: Menu development is only for senior chefs.**

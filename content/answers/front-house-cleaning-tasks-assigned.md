@@ -130,13 +130,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should front of house cleaning tasks be assigned to specific roles?
-
 Assigning cleaning tasks to specific roles ensures that every task is completed consistently and efficiently. For example, you might assign entrance cleaning to the host and table cleaning to servers. This clear division of responsibilities helps prevent tasks from being overlooked during busy periods.
 
 **Common misunderstanding: All staff can manage cleaning tasks spontaneously during their shifts.**

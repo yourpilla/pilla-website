@@ -111,13 +111,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should be done if hot held food falls below 63°C?
-
 If the temperature of hot held food falls below 63°C, it's important to act quickly. You should either reheat the food to at least 75°C and then return it to hot holding, or cool it down quickly to store in the fridge if it cannot be reheated immediately.
 
 **Common misunderstanding: Food can be left out for a few hours even if it falls below 63°C.**

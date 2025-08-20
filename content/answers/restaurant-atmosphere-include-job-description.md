@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What should I include when describing my restaurant's atmosphere in a
   Restaurant Manager job description?
 meta: >
@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include when describing my restaurant's atmosphere in a Restaurant Manager job description?
-
 When writing a job description for a Restaurant Manager, start by clearly describing your restaurant's atmosphere. This helps potential candidates understand the environment they might be working in. Include details about the dining style, the pace of service, and the overall values of your establishment.
 
 **Common misunderstanding: A detailed atmosphere description isn’t necessary in a job description.**

@@ -115,13 +115,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What are common end-of-shift responsibilities for Barbacks?
-
 At the end of a busy shift, Barbacks have specific tasks to ensure the bar is ready for the next day. These include deep cleaning bar areas and equipment, restocking all necessary items, securing perishable goods, and disposing of waste according to the bar's policies. These responsibilities help maintain the bar's efficiency and cleanliness, crucial for a smooth operation.
 
 **Common misunderstanding: End-of-shift tasks are just about cleaning.**

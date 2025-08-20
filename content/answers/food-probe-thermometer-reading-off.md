@@ -1,7 +1,7 @@
 ---
 title: >-
-  What do I do if the food probe thermometer reading is off by more than 1
-  degree?
+  What do I need to do if the food probe thermometer reading is off by more than
+  1 degree?
 meta: >
   Learn what to do if your food probe thermometer is off by more than 1C during
   calibration testing, including taking it out of service and replacing it
@@ -109,13 +109,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What do I need to do if the food probe thermometer reading is off by more than 1 degree?
-
 If your probe thermometer shows a reading that's off by more than 1 degree during calibration testing, you'll need to take these steps:
 
 1\. First, have your head chef verify the reading to confirm the deviation

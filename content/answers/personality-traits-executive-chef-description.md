@@ -1,5 +1,5 @@
 ---
-title: What personality traits should I include in a Executive Chef job description?
+title: What personality traits should I include in an Executive Chef job description?
 meta: >
   Discover key personality traits and interpersonal skills to include in an
   Executive Chef job description to ensure a good fit with your kitchen's
@@ -116,13 +116,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What personality traits should I include in an Executive Chef job description?
-
 When writing a job description for an Executive Chef, it's important to include personality traits that match your kitchen's culture and operational style. Traits like resilience, leadership, creativity, and the ability to work under pressure are often crucial. These qualities help ensure the chef can handle the demands of the role and fit well with the existing team.
 
 **Common misunderstanding: All chefs need the same personality traits.**

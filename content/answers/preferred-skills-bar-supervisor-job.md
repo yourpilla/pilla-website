@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email.
-
-# What preferred skills should I mention in a Bar Supervisor job description?
-
 When writing a job description for a Bar Supervisor, it's important to include both essential and preferred skills that match the specific needs of your bar. Essential skills are those necessary from day one, such as leadership, customer service, and compliance with safety standards. Preferred skills might include experience with special events, advanced mixology knowledge, or proficiency in a particular type of service.
 
 **Common misunderstanding: All skills are equally important for the role.**

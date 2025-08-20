@@ -1,5 +1,5 @@
 ---
-title: What should be included in a coffee machine risk assessment?
+title: What daily checks should I carry out on my coffee machine?
 meta: >
   Discover essential daily safety and performance checks for coffee machines,
   including common misconceptions and the importance of using a checklist.
@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What daily checks should I carry out on my coffee machine?
-
 Every day, it's important to carry out specific checks to ensure your coffee machine is safe and functioning properly. Start by inspecting the machine for any visible damage or leaks. Check that all controls and emergency stop functions are clearly marked and fully operational. Ensure the steam wand, water nozzles, and filters are clean and clear of obstructions. Finally, verify that the pressure gauge is within safe operating limits.
 
 **Common misunderstanding: If the machine turns on, it must be working fine.**

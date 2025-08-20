@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What personality traits are best in a Kitchen Porter job description?
-
 When writing a job description for a Kitchen Porter, focus on traits like physical stamina and the ability to work well under pressure. It's important to highlight qualities that show a candidate's ability to handle the fast pace and physical demands of the kitchen, such as endurance, efficiency, and a proactive attitude.
 
 **Common misunderstanding: Any general hard worker fits the role of a Kitchen Porter.**

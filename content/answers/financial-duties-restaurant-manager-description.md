@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What financial duties should a Restaurant Manager job description include?
-
 When writing a job description for a Restaurant Manager, it's important to clearly outline the financial responsibilities. These typically include managing budgets, overseeing purchasing and inventory management, and monitoring profitability. Ensuring that the manager is responsible for these financial tasks helps keep your restaurant's finances in check and supports efficient operation.
 
 **Common misunderstanding: Financial duties are only about handling cash and payments.**

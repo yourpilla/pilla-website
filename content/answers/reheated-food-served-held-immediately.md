@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# When should reheated food be served?
-
 Reheated food should be served immediately after it reaches the correct internal temperature. This ensures the food is safe to eat and maintains its quality. The correct reheating temperature is a minimum of 75°C in England, Wales, and Northern Ireland, and 82°C in Scotland.
 
 **Common misunderstanding: Reheated food can sit out for a while before serving.**

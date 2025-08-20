@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What operational management skills should I include in a Hotel General Manager job description?
-
 When writing a job description for a Hotel General Manager, include skills that ensure the smooth running of hotel operations daily. These skills should cover areas like overseeing room operations, ensuring guest satisfaction, and managing vendor relationships. It's important to specify that the candidate should be able to handle operational issues effectively and interact with different teams to maintain high service standards.
 
 **Common misunderstanding: Operational management skills are just about supervising staff.**

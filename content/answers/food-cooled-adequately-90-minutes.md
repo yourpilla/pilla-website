@@ -1,6 +1,5 @@
 ---
-title: |
-  What should I do if food isn't adequately cooled after 90 minutes?
+title: What should I do if food isn't adequately cooled after 90 minutes?
 meta: >
   Discover essential actions if food fails to cool within 90 minutes, including
   safe disposal and revising cooling methods, plus tips for optimizing your
@@ -108,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should I do if food isn't adequately cooled after 90 minutes?
-
 If your food hasn't cooled to the required temperature within 90 minutes, it's important to act quickly to prevent food safety risks. Firstly, discard the food as it may not be safe for consumption. Then, review your cooling methods and consider using alternative techniques or adjusting portion sizes for future preparations.
 
 **Common misunderstanding: It’s okay to extend cooling time beyond 90 minutes if the food is almost at the right temperature.**

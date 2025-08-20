@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What are examples of benefits I can include in a Waiter/Waitress job description?
-
 When writing a job description for a waiter or waitress, including benefits can make your offer more attractive. Examples of benefits you might include are free or discounted meals during shifts, paid breaks, structured training sessions, tips distribution, social events, mental health support, flexible scheduling, and generous holiday allocations.
 
 **Common misunderstanding: Benefits are just financial incentives.**

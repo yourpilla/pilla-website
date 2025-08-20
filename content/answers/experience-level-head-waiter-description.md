@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What experience level should I put in a Head Waiter job description?
-
 When writing a job description for a Head Waiter, it's important to clearly define the experience level required. This typically includes prior experience in a leadership role within the hospitality industry, as well as specific skills in guest service, team management, and floor operations. For example, you might require at least 3-5 years of experience in a supervisory role in a restaurant setting.
 
 **Common misunderstanding: Any hospitality experience is sufficient for a Head Waiter role.**

@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Required temperature standards and monitoring
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What is the correct wash temperature for a commercial dishwasher?
-
 The correct wash temperature for a commercial dishwasher should be between 55-60°C. This range is crucial to ensure that the alkaline chemicals in detergents work effectively to break down and remove soiling from dishes, cutlery, and other kitchenware.
 
 **Common misunderstanding: Any hot temperature is sufficient for a commercial dishwasher.**

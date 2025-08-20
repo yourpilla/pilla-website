@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I discuss my kitchen’s pace in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, it's important to clearly describe the pace of your kitchen. This helps potential candidates understand what will be expected of them. For example, you might describe your kitchen as "fast-paced with a high volume of orders" or "a more deliberate pace focusing on intricate dish preparation." This clarity helps set the right expectations and attracts candidates who can thrive in your environment.
 
 **Common misunderstanding: Any experienced chef can adapt to any kitchen pace.**

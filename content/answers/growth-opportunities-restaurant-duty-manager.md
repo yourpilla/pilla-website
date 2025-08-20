@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I say about growth opportunities in a Restaurant Duty Manager job description?
-
 When writing a job description for a Restaurant Duty Manager, it's important to clearly highlight the growth opportunities available. Mention specific training sessions, potential for promotions, and any career development programmes your restaurant offers. This not only attracts candidates who are ambitious and looking for a long-term career but also sets clear expectations about how they can advance within your organization.
 
 **Common misunderstanding: Growth opportunities are just about higher pay or more senior titles.**

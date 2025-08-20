@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What must-have skills should I include in a Chef de Partie job description for my kitchen?
-
 When writing a job description for a Chef de Partie, include skills that are essential for daily operations in your kitchen. These skills should match the specific tasks and responsibilities that the role demands. Common must-have skills include advanced knife skills, knowledge of food safety and hygiene, and the ability to work efficiently under pressure.
 
 **Common misunderstanding: All kitchens require the same set of skills from a Chef de Partie.**

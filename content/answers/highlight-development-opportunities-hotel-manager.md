@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I highlight development opportunities in a Hotel General Manager job description?
-
 When writing a job description for a Hotel General Manager, it's important to clearly outline the development opportunities available. This includes mentioning any leadership programs, chances for promotion, or skills training that are part of working at your hotel. Highlighting these opportunities can make the role more attractive to ambitious candidates who are looking for growth in their careers.
 
 **Common misunderstanding: Development opportunities are just for attracting young or less experienced candidates.**

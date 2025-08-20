@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How long should a food safety policy statement be?
-
 A food safety policy statement should be long enough to cover all necessary aspects of food safety relevant to your business but concise enough to ensure it is readable and understandable. Typically, a comprehensive statement might be a few pages long, focusing on key safety practices, responsibilities, and compliance with regulations.
 
 **Common misunderstanding: A longer policy is always better because it seems more thorough.**

@@ -113,13 +113,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "1/4/2025"
   }
-subtitle: Required temperature standards and monitoring
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the safe reheating temperature for food?
-
 To ensure food safety, reheated foods must reach a temperature that is high enough to kill harmful bacteria and reduce them to safe levels. The safe core temperature for reheated food is generally 75°C, but this can vary depending on local regulations.
 
 **Common misunderstanding: Any warm temperature is safe for reheating food.**

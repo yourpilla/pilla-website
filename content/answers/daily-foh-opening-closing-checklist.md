@@ -131,13 +131,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should be included in a daily FOH opening and closing cleaning checklist?
-
 Starting and ending the day with a clean front of house (FOH) is crucial for maintaining a welcoming environment. Your daily FOH cleaning checklist should cover all areas that impact guest perception and hygiene. Here’s what you need to include:
 
 -   Wipe down the host stand, reset menus, and ensure all POS equipment is clean.

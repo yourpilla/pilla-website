@@ -122,13 +122,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Key distinctions and comparative analysis
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the difference between a HACCP plan and a Food Safety Management System?
-
 A HACCP plan focuses on identifying and controlling critical points in the food production process to prevent safety hazards. A Food Safety Management System (FSMS) is a broader set of procedures that includes the HACCP plan but also covers other daily operational practices like personal hygiene and pest control. Essentially, while HACCP is about critical control points, FSMS is about the overall management of food safety.
 
 **Common misunderstanding: A HACCP plan is all you need for food safety compliance.**

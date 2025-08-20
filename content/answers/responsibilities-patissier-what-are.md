@@ -107,13 +107,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the responsibilities of a Patissier?
-
 The Patissier, or Pastry Chef, is mainly responsible for creating and organising the dessert menu in a restaurant. This includes baking goods, pastries, and desserts. They ensure each item is delicious and looks great. A Patissier often starts early to prepare fresh items for the day and might lead a specific section within the pastry kitchen.
 
 **Common misunderstanding: A Patissier only bakes cakes and cookies.**

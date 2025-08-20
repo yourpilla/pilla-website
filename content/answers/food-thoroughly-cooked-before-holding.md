@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Why must food be thoroughly cooked before hot holding?
-
 Food must be thoroughly cooked before hot holding to ensure it reaches a safe internal temperature that kills harmful bacteria. This step is crucial to prevent foodborne illnesses. Hot holding equipment is designed to keep food warm, not to cook it, so the food must reach the necessary temperature before being placed in these units.
 
 **Common misunderstanding: Hot holding devices can cook food to safe temperatures.**

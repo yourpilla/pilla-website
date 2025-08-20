@@ -1,5 +1,5 @@
 ---
-title: What are the key responsibilities of a Bartender before service begins?
+title: What does a Bartender typically do during active service?
 meta: >
   Discover the diverse roles of a bartender during active service, including
   drink preparation, customer engagement, and multitasking skills.
@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What does a Bartender typically do during active service?
-
 During active service, a bartender is mainly responsible for creating drinks, engaging with customers, and managing the bar area efficiently. They mix and serve both alcoholic and non-alcoholic beverages, take orders, and ensure that customers are satisfied with their service. It's a busy time where speed and accuracy are key.
 
 **Common misunderstanding: Bartenders only need to know how to mix drinks.**

@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I discuss in the cooking responsibilities in a Chef de Partie job description?
-
 When detailing the cooking responsibilities for a Chef de Partie, focus on the specific tasks they will handle during service. This includes preparing dishes to the restaurant's standards, coordinating with other station chefs for smooth service, and maintaining hygiene standards throughout food preparation. It's also important to mention any support they might provide to junior station chefs.
 
 **Common misunderstanding: A Chef de Partie's responsibilities are the same in all kitchens.**

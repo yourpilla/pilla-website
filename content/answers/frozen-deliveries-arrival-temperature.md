@@ -120,13 +120,13 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-05-01T09:00:00+01:00"
   }
-subtitle: Required temperature standards and monitoring
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What temperature should frozen deliveries be when they arrive?
-
 Frozen foods need to be delivered at -18°C or slightly colder. You can accept deliveries up to a maximum temperature of -15°C, but anything warmer than this must be rejected as spoilage organisms may start growing and affect product quality.
 
 It's important to check temperatures between packs using a clean, sanitised probe - never pierce the packaging itself.

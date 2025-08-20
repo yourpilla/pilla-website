@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should I do if I notice the fridge seal is damaged?
-
 A damaged fridge seal needs immediate attention as it can let warm air in and cause temperature fluctuations. You should arrange to have it replaced as soon as possible. In the meantime, monitor the fridge temperature more frequently as the faulty seal could be affecting the unit's ability to maintain the correct temperature.
 
 Remember that door seals should be part of your weekly inspection routine along with condensers and vents to ensure everything is working efficiently.

@@ -113,13 +113,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step procedures and protocols
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
-
-# What are food safety management procedures under the Food Safety Act 1990?
-
 Under the Food Safety Act 1990, food safety management procedures are essential to ensure that food businesses operate in a way that protects public health. These procedures involve implementing a food safety management system based on Hazard Analysis and Critical Control Point (HACCP) principles to identify and control food safety hazards.
 
 **Common misunderstanding: Food safety management is only about keeping the kitchen clean.**

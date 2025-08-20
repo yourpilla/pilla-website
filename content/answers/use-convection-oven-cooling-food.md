@@ -107,13 +107,13 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How can I use a convection oven for cooling hot food?
-
 Using a convection oven for cooling can be a quick way to bring down the temperature of food. Some convection ovens have a specific setting to remove heat and steam, allowing you to set a temperature as low as 30°C. This method can cool food rapidly within 5-10 minutes to this temperature, but remember to further cool the food to below 20°C quickly, ideally within 90 minutes total.
 
 **Common misunderstanding: You can leave food in the convection oven until it reaches fridge temperature.**

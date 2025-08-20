@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I describe my business in a Restaurant Duty Manager job description?
-
 When writing a job description for a Restaurant Duty Manager, start by clearly describing the type of restaurant you run. Mention whether it's a high-end dining restaurant, a family-friendly bistro, or a bustling pizzeria. This helps candidates understand the environment they might be working in and sets the right expectations.
 
 **Common misunderstanding: A generic description is sufficient to attract candidates.**

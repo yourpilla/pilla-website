@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   If I'm a waiter who doesn't handle food directly, do I still need a food
   safety certificate?
 meta: >
@@ -72,13 +72,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# If I'm a waiter who doesn't handle food directly, do I still need a food safety certificate?
-
 Yes, as a waiter you need a Level 1 food hygiene certificate, even if you're not directly handling food. This basic certification ensures everyone in the food service environment understands fundamental hygiene practices and contributes to overall food safety. Your certificate will need to be renewed every 3 years to stay current.
 
 The good news is that Level 1 training can be completed online through e-learning platforms, making it convenient to obtain. Just make sure you choose an accredited course.

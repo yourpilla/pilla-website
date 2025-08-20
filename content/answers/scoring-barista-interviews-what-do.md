@@ -124,13 +124,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I do after scoring Barista interviews?
-
 After you've scored each Barista candidate, take some time to review the scores and notes. Discuss these with your team if possible. This helps ensure you choose a candidate who not only fits the technical requirements but will also blend well with your team's culture and work ethic.
 
 **Common misunderstanding: The candidate with the highest score is always the best choice.**

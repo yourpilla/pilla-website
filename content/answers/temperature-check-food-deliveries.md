@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Do I need to take temperatures between packages in food deliveries or can I pierce them?
-
 You must always take temperatures between packs of food using a clean and sanitised probe. Never pierce the packaging to take a temperature as this can compromise food safety and product integrity.
 
 For chilled foods, you're looking for temperatures below 5°C (but not below 1°C). You can accept deliveries up to 8°C maximum. For frozen foods, aim for -18°C or slightly colder, with a maximum acceptable temperature of -15°C.

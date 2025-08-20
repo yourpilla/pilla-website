@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should a food safety policy describe risk management?
-
 In a busy kitchen, managing risks is key to ensuring that all food served is safe. A food safety policy should clearly detail how risks are identified, assessed, and managed. It should explain the methods for spotting potential food hazards, how to evaluate the severity and likelihood of these hazards, and the actions to control or eliminate the risks.
 
 **Common misunderstanding: Risk management only needs to be addressed when a problem occurs.**

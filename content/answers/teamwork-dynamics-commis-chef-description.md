@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I describe the teamwork dynamics in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, it's key to clearly describe the teamwork dynamics expected in your kitchen. This helps potential candidates understand the collaborative environment they're entering. Mention how team members support each other during busy service times and the importance of communication for efficient kitchen operations.
 
 **Common misunderstanding: Teamwork is just about getting along with coworkers.**

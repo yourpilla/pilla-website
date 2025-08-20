@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What post-service duties should I include in a Waiter/Waitress job description?
-
 After a busy shift, it's crucial for waitstaff to handle post-service duties to ensure the restaurant is ready for the next service. Include tasks like clearing and resetting tables, conducting daily maintenance of service areas, completing end-of-day side work, and handling cash-out procedures if necessary. These responsibilities help maintain the restaurant's cleanliness and order, preparing it for the next day or shift.
 
 **Common misunderstanding: Post-service duties are optional or can be done the next day.**

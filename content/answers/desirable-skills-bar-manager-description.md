@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What desirable or nice-to-have skills should I include in a Bar Manager job description?
-
 When writing a job description for a Bar Manager, it's useful to include skills that enhance their performance, even if they aren't essential from day one. These nice-to-have skills can include knowledge in craft beer or cocktail mixology, previous event coordination experience, or advanced customer service skills. These skills can help a Bar Manager excel in their role by adding value to your bar's service and customer experience.
 
 **Common misunderstanding: All listed skills in the job description are mandatory.**

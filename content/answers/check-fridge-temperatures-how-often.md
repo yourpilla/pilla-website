@@ -1,5 +1,5 @@
 ---
-title: How often do we need to check fridge temperatures?
+title: How often do I need to check fridge temperatures?
 meta: >
   Learn how to maintain optimal fridge temperatures for food safety, including
   checking temperatures twice daily, keeping fridges at 3-5C, and what
@@ -113,13 +113,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Temperature monitoring guidelines and procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How often do I need to check fridge temperatures?
-
 Fridge temperatures need to be checked and recorded twice per day - or look at it as once per shift.
 
 Regular temperature checks help catch any issues early before they become food safety problems. If you spot temperatures rising above 5°C, you'll need to monitor it more closely.

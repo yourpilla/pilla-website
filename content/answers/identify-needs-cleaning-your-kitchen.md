@@ -133,13 +133,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do you identify what needs cleaning in your kitchen?
-
 Identifying what needs cleaning in your kitchen starts with a thorough inspection. Look at all surfaces, equipment, and hard-to-reach areas. Check for any visible dirt, grease, or food particles. Remember, a clean kitchen is crucial for food safety and helps create a pleasant working environment.
 
 **Common misunderstanding: If it looks clean, it doesn't need to be cleaned.**

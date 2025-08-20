@@ -107,13 +107,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the responsibilities of a Kitchen Porter?
-
 A Kitchen Porter plays an important role in maintaining the cleanliness and efficiency of a kitchen. Their main responsibilities include cleaning kitchen areas, washing dishes, and assisting with basic food preparation tasks. They also handle receiving and storing food deliveries, ensuring that the kitchen remains organised and operational.
 
 **Common misunderstanding: Kitchen Porters are only responsible for washing dishes.**

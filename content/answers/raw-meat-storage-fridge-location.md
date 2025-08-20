@@ -1,5 +1,5 @@
 ---
-title: Where exactly should raw meat be stored in the fridge?
+title: Where exactly should raw meat be stored in the fridge
 meta: >
   Learn where to store raw meat in the fridge to prevent contamination and
   ensure food safety. Discover best practices for defrosting and covering raw
@@ -113,13 +113,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Where exactly should raw meat be stored in the fridge
-
 Raw meat should always be stored on the lowest shelf of the fridge. This is crucial to prevent any drips from contaminating other foods stored below. Ideally, raw meat should be kept in a separate fridge from ready-to-eat foods, but if this isn't possible, keeping it on the bottom shelf is essential.
 
 Make sure to store the raw meat in a container or tray that can catch any drips to prevent contamination of the fridge itself.

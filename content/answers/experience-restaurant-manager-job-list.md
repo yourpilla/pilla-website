@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What levels of experience are appropriate to list in a Restaurant Manager job description?
-
 When writing a job description for a Restaurant Manager, it's important to clearly define the level of experience needed. This can range from trainee positions, which are open to nurturing someone without managerial experience, to senior roles requiring extensive experience in managing high-volume, quality-oriented restaurants.
 
 **Common misunderstanding: More years of experience always means a better candidate.**

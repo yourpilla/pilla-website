@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What do I do if my food probe thermometer gets wet?
-
 Food probe thermometers should never be immersed in liquids as this can damage the internal components and cause inaccurate readings. If your probe does get wet, you should immediately dry it thoroughly and then test its accuracy using both the hot and cold testing methods.
 
 For the hot test, use boiling water and ensure a reading of 100°C (with 1 degree tolerance). For the cold test, use an ice bath to check for a reading of 0°C (again with 1 degree tolerance). If the readings are outside these ranges, the probe should be taken out of service.

@@ -117,13 +117,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
-
-# How do I include professional growth and training opportunities in a Bar Manager job description?
-
 When writing a job description for a Bar Manager, it's important to clearly mention the training and professional growth opportunities available. This can attract candidates who are not only qualified but also looking for a place where they can grow. For example, you could include information about funded professional development courses or structured career growth paths within the company.
 
 **Common misunderstanding: Professional growth opportunities are only for attracting highly experienced candidates.**

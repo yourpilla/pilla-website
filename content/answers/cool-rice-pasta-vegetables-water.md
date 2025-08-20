@@ -112,13 +112,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Can I use running cold water to cool rice, pasta, and vegetables?
-
 Yes, you can use running cold water to cool rice, pasta, and vegetables quickly. This method is effective because the constant flow of water removes heat from the food, speeding up the cooling process. It's crucial to ensure the water is potable and cold to prevent any food safety risks.
 
 **Common misunderstanding: Any temperature of water is fine for cooling food as long as it's running.**

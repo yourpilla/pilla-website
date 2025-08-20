@@ -1,6 +1,5 @@
 ---
-title: |
-  What's the proper way to clean a food probe thermometer?
+title: What's the proper way to clean a food probe thermometer?
 meta: >
   Learn the proper way to clean and sanitise a food probe thermometer to prevent
   cross-contamination and ensure accurate temperature readings. Inspect for
@@ -108,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What's the proper way to clean a food probe thermometer?
-
 To properly clean a food probe thermometer, you need to follow a two-step process:
 
 1\. First, wash the probe with warm soapy water to remove any visible dirt or debris, then rinse it thoroughly with clean water to remove soap residue.

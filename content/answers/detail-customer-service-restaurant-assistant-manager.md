@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I detail customer service expectations in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly outline the customer service expectations. This includes detailing how they should interact with guests, manage service quality, and ensure guest satisfaction. Start by describing the standard of service your restaurant aims for, and how the Assistant Manager will uphold and enhance this standard.
 
 **Common misunderstanding: Customer service roles are the same across all restaurants.**

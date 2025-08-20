@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I evaluate risks in a front of house risk assessment?
-
 When evaluating risks in your restaurant's front of house, walk through the area during various service times to observe how staff and customers interact. This helps you spot potential hazards that could lead to accidents or injuries. Consider factors like floor conditions, equipment layout, and customer flow. It's crucial to assess both the likelihood of an incident occurring and the potential severity of the outcome if it does happen.
 
 **Common misunderstanding: A risk assessment only needs to be done once.**

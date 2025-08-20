@@ -108,13 +108,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does a Chef de Tournant do?
-
 A Chef de Tournant, also known as a relief chef, is a versatile member of the kitchen brigade who steps in wherever needed across various stations. This role is important during peak times or when other chefs are absent. They must be skilled in multiple culinary areas, from grilling and sautéing to preparing desserts and cold dishes. Their ability to adapt quickly and efficiently ensures the kitchen maintains its performance under various circumstances.
 
 **Common misunderstanding: A Chef de Tournant only fills in for absent chefs.**

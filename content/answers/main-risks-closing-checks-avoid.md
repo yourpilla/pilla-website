@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the main risks closing checks should help you avoid?
-
 Closing checks in a kitchen are designed to prevent several risks that can compromise food safety, attract pests, or cause equipment damage. These checks ensure that everything is clean, stored properly, and turned off. This helps avoid problems like food spoilage, pest infestations, and fire hazards.
 
 **Common misunderstanding: Closing checks are just about cleaning.**

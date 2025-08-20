@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What should I include about training opportunities in a Restaurant Assistant
   Manager job description?
 meta: >
@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Training requirements and certification guidelines
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include about training opportunities in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly mention any training opportunities available. This could include on-the-job training, access to courses or workshops, and any support for gaining additional qualifications. Highlighting these opportunities shows your commitment to staff development and can attract candidates who are eager to learn and grow.
 
 **Common misunderstanding: Training opportunities are only for improving current job performance.**

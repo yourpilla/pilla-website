@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What service responsibilities should be included in a Catering Assistant job description?
-
 When writing a job description for a Catering Assistant, it's important to clearly outline the service responsibilities. These typically include setting up food and beverage tables, ensuring timely refilling of buffet stations or trays, maintaining cleanliness and orderliness during events, and working closely with the kitchen team to coordinate food releases. These tasks ensure smooth operation during service times and help maintain a high standard of service.
 
 **Common misunderstanding: Catering Assistants only need to set up and take down tables.**

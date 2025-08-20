@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What personality traits are important in a Commis Chef job description?
-
 When writing a job description for a Commis Chef, it's crucial to highlight specific personality traits that align with your kitchen's atmosphere and pace. Traits like adaptability, resilience under pressure, and a positive attitude can help ensure a good fit within your team. For example, in a high-pressure, fast-paced kitchen, you might look for someone who remains calm and efficient during busy times.
 
 **Common misunderstanding: Any hardworking person fits the Commis Chef role.**

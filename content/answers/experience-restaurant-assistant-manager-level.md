@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   How should I define the level of experience needed in a Restaurant Assistant
   Manager job description?
 meta: >
@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I define the level of experience needed in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly define the level of experience required. This helps ensure that you attract candidates who are well-suited for the role. Specify whether you need someone at an entry-level, mid-level, or senior level, based on the responsibilities and autonomy the position entails.
 
 **Common misunderstanding: Experience level is just about the number of years someone has worked.**

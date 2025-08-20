@@ -1,5 +1,5 @@
 ---
-title: 'What does a typical week look like for an EHO? '
+title: What does a typical week look like for an EHO?
 meta: >
   Discover the varied responsibilities of Environmental Health Officers (EHOs)
   in the UK, including inspections, complaint investigations, and more.
@@ -52,13 +52,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does a typical week look like for an EHO?
-
 A typical week for an Environmental Health Officer (EHO) is diverse and can change quickly. They might start the week inspecting restaurants, cafes, or food manufacturers, and end it dealing with complaints or administrative tasks. No two weeks are the same, which keeps the role interesting and challenging.
 
 **Common misunderstanding: EHOs only inspect restaurants and takeaways.**

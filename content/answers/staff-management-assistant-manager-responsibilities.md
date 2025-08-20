@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   How should staff management responsibilities be outlined in a Restaurant
   Assistant Manager job description?
 meta: >
@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should staff management responsibilities be outlined in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, clearly outline the responsibilities related to staff management. This includes leading and organising the team, managing shift schedules, and ensuring high service standards. It's important to tailor these duties to fit your restaurant's specific needs and daily operations.
 
 **Common misunderstanding: Staff management responsibilities are the same across all restaurants.**

@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How should we communicate opportunities for advancement in a Barback job description?
-
 When writing a Barback job description, it's important to clearly mention any advancement opportunities. This shows candidates that there is potential for career growth within your establishment. For example, you might include information about in-house training sessions, mentorship programs, or a path to higher positions like bartending or management roles.
 
 **Common misunderstanding: Any mention of advancement implies a guaranteed promotion.**

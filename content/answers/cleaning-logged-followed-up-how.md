@@ -132,13 +132,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should kitchen cleaning be logged and followed up?
-
 Every cleaning task in a hospitality setting should be recorded in a logbook or digital tracking system. This helps ensure that nothing is missed and standards are maintained. After logging, a manager or supervisor should follow up to check the quality of the cleaning.
 
 **Common misunderstanding: Logging cleaning tasks is only necessary for major cleanings, not daily tasks.**

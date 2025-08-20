@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Why must a HACCP plan be validated and reviewed regularly?
-
 Regular validation and review of a HACCP plan are essential to ensure that food safety measures remain effective and up to date. This process checks that the plan is scientifically and technically sound, and that it effectively controls identified hazards. It's like a regular health check-up for your food safety system, catching potential problems before they affect your customers.
 
 **Common misunderstanding: Once a HACCP plan is written, it doesn’t need to be changed.**

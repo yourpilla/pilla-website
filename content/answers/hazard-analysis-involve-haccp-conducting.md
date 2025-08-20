@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does conducting a hazard analysis involve in HACCP?
-
 Conducting a hazard analysis in HACCP means identifying potential food safety risks at each step of your food production and handling processes. This is the first and crucial step in creating a HACCP plan. It involves looking at each stage, from receiving ingredients to serving customers, and pinpointing where things might go wrong, like contamination or growth of bacteria.
 
 **Common misunderstanding: Hazard analysis is only about spotting obvious risks.**

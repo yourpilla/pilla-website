@@ -1,5 +1,5 @@
 ---
-title: What pay information should I include pay in a Barback job description?
+title: What pay information should I include in a Barback job description?
 meta: >
   Discover how to effectively include pay details in a Barback job description
   to attract suitable candidates and establish clear expectations.
@@ -114,13 +114,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What pay information should I include in a Barback job description?
-
 When writing a Barback job description, it's important to be clear and specific about the pay. Include the pay rate or range, any additional benefits, and perks. For example, you might state, "Pay: £10.50–£11.50 per hour based on experience, plus tips." This transparency helps attract the right candidates and sets clear expectations.
 
 **Common misunderstanding: It’s enough to just mention that the pay is competitive.**

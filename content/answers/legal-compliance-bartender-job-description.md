@@ -114,13 +114,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Legal requirements and compliance obligations
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What legal or compliance information belongs in a Bartender job description?
-
 When writing a job description for a bartender, it's important to include specific legal and compliance details to ensure both you and the potential candidates understand the legal requirements. This includes any necessary certifications, health and safety regulations, and legal obligations related to serving alcohol.
 
 **Common misunderstanding: It’s enough to just mention that the job involves serving alcohol.**

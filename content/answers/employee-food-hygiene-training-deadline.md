@@ -72,13 +72,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How soon after starting does a new employee need to complete food hygiene training?
-
 New staff must complete food hygiene training before they start handling any food. This initial training ensures they understand basic food hygiene practices and can work safely from their first day. Even if they have previous experience, they need to demonstrate they have valid certifications before starting.
 
 **Common misunderstanding: If a new employee has prior experience in the food industry, they don't need immediate food hygiene training at a new job.**

@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I manage pre-service tasks for a sommelier role effectively?
-
 To manage pre-service tasks effectively, it's important to have a clear checklist that your sommelier can follow. This should include tasks like verifying wine stock, preparing the wine station, and reviewing the day's menu for pairing suggestions. Having a structured approach ensures nothing is overlooked and the sommelier is fully prepared for service.
 
 **Common misunderstanding: Pre-service tasks are just about stocking wines.**

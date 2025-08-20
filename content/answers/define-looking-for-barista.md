@@ -1,6 +1,5 @@
 ---
-title: |
-  How do I define what I'm looking for in a Barista?
+title: How do I define what I'm looking for in a Barista?
 meta: >
   Learn how to define essential and desirable traits for a Barista, and why
   using a requirements table can streamline your hiring process.
@@ -125,13 +124,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I define what I'm looking for in a Barista?
-
 Before you start the hiring process, it's crucial to clearly define the skills and traits you need in a Barista. This helps you focus your interview questions and practical tests on what truly matters for your café. Start by listing all the qualities and skills you think a Barista should have, then categorise them into 'must-have' and 'nice-to-have'.
 
 **Common misunderstanding: All traits are equally important for a Barista.**

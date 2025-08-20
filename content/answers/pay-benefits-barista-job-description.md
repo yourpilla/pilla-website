@@ -102,13 +102,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What should I include about pay and benefits in a Barista job description?
-
 When writing a job description for a barista, it's important to be very clear about the pay and any benefits. Include the exact pay rate or a realistic range, and list any additional perks like tips, paid breaks, or staff meals. This transparency helps attract the right candidates and sets clear expectations from the start.
 
 **Common misunderstanding: It's enough to just mention 'competitive pay' in job descriptions.**

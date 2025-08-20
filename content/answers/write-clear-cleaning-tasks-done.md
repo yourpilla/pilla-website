@@ -1,5 +1,5 @@
 ---
-title: How do you write clear kitchen cleaning tasks that get done properly?
+title: How do you write clear cleaning tasks that get done properly?
 meta: >
   Discover how to write clear and effective cleaning tasks using the
   "What–How–When–Who" model to ensure tasks are completed accurately and
@@ -133,13 +133,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do you write clear cleaning tasks that get done properly?
-
 When writing cleaning tasks, be specific and clear. Describe exactly what needs to be done, how it should be done, when it should be completed, and who is responsible. This clarity helps ensure that the tasks are completed correctly and efficiently.
 
 **Common misunderstanding: More details make instructions confusing.**

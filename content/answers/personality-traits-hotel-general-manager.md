@@ -117,13 +117,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What personality traits should I look for when writing a Hotel General Manager job description?
-
 When writing a job description for a Hotel General Manager, focus on personality traits that match the demands of the role and the hotel's environment. Traits like adaptability, leadership, and customer focus are often key. For instance, if your hotel thrives on high-energy and quick decision-making, look for someone who is resilient, decisive, and can handle stress well.
 
 **Common misunderstanding: Personality traits are less important than skills and experience.**

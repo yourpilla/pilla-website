@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Temperature monitoring guidelines and procedures
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should reheated food temperatures be monitored and recorded?
-
 To ensure food safety, it's important to monitor and record the temperatures of reheated foods. You should monitor the internal temperature of all reheated foods before serving. You should record at least five of these throughout the day. Record the food item, its temperature, the date and time, and the person who recorded the information.
 
 **Common misunderstanding: Any thermometer can be used for checking food temperature.**

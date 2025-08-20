@@ -107,13 +107,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What control measures should I include in a kitchen risk assessment?
-
 When conducting a kitchen risk assessment, it's crucial to include control measures that address the specific hazards identified. These measures should effectively reduce the risk of injury or harm. For example, if you identify 'slips and trips' as a hazard, your control measures might include ensuring non-slip mats are in place and that spills are cleaned up immediately.
 
 **Common misunderstanding: All kitchens can use the same control measures.**

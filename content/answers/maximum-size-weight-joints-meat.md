@@ -109,13 +109,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should be the maximum size and weight for joints of meat to cool them safely?
-
 To cool joints of meat safely and effectively, they should ideally not exceed 2.5kg in weight and 50mm in thickness or height. Keeping within these limits helps ensure that the meat cools down quickly enough to prevent the growth of harmful bacteria.
 
 **Common misunderstanding: Larger joints of meat can be cooled safely just like smaller ones if left for a longer time.**

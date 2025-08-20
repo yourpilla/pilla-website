@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the correct way to cook chicken livers safely?
-
 To cook chicken livers safely, sauté them in batches for a minimum of 5 minutes or until their internal temperature is above 70°C for at least 2 minutes. This ensures that the livers are hot all the way through, effectively killing any harmful bacteria.
 
 **Common misunderstanding: Cooking chicken livers for a short time at high heat makes them safe.**

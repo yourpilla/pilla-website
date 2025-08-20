@@ -1,5 +1,5 @@
 ---
-title: 'What qualifications and training does an Environmental Health Officer need? '
+title: What qualifications and training does an Environmental Health Officer need?
 meta: >
   Discover the specific qualifications and training required to become an
   Environmental Health Officer, including degree requirements and professional
@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Training requirements and certification guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What qualifications and training does an Environmental Health Officer need?
-
 Environmental Health Officers (EHOs) must have a solid educational background and professional training. Typically, they need a Bachelor's or Master's degree in Environmental Health. Additionally, they must pass professional exams, complete a work placement, often with a local authority, and compile a portfolio demonstrating their competence.
 
 **Common misunderstanding: Any health-related degree qualifies you to become an EHO.**

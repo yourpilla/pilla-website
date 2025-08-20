@@ -104,13 +104,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What are the most important pre-service duties to include in a Barista job description?
-
 Before the café opens, baristas have several key tasks to prepare for the day. These include setting up the coffee station, dialling in grinders and the espresso machine, and ensuring all supplies like milk, cups, and cleaning materials are fully stocked. It's also crucial to clean and sanitise work surfaces and equipment before service begins.
 
 **Common misunderstanding: Pre-service duties are just about setting up the coffee machine.**

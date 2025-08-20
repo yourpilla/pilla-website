@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What essential skills should I include in a Kitchen Porter job description?
-
 When writing a job description for a Kitchen Porter, include essential skills like physical stamina and being a team player. These skills are crucial because they directly impact the ability to perform the job effectively. For example, physical stamina is necessary for handling the physical demands of kitchen work, such as standing for long periods and lifting heavy items.
 
 **Common misunderstanding: All kitchen skills are equally important for a Kitchen Porter.**

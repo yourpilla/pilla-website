@@ -106,13 +106,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I format my kitchen risk assessment?
-
 When formatting your kitchen risk assessment, it's crucial to choose a layout that allows you to clearly identify hazards, who might be harmed, and the controls in place. The format should make it easy to update and refer to, ensuring that all necessary details are accessible and understandable.
 
 **Common misunderstanding: Any format works as long as all information is included.**

@@ -124,13 +124,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Monitoring frequency and compliance requirements
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How often should front of house checklists be reviewed?
-
 Front of house checklists should be reviewed at least once a month, or whenever there's a major change like a new menu, a change in staff roles, or updates in equipment. Regular reviews keep the checklists relevant and ensure they continue to meet the needs of your team and your service standards.
 
 **Common misunderstanding: Once a checklist is created, it doesn’t need to be changed unless there is a problem.**

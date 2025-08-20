@@ -1,5 +1,7 @@
 ---
-title: What essential skills should I include Hotel Receptionist job description?
+title: >-
+  What essential skills should I include in a Hotel Receptionist job
+  description?
 meta: >
   Discover essential skills for a Hotel Receptionist job description, including
   key distinctions between must-have and nice-to-have skills, and why
@@ -115,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What essential skills should I include in a Hotel Receptionist job description?
-
 When writing a job description for a Hotel Receptionist, it's important to include skills that are directly linked to the daily responsibilities of the role. Essential skills usually involve multitasking, strong communication abilities, and proficiency in using hotel management software. These skills ensure the receptionist can handle guest interactions, manage bookings, and process payments efficiently.
 
 **Common misunderstanding: All receptionists need the same skills, regardless of the hotel type.**

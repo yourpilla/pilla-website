@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Prevention strategies and control measures
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How does a HACCP system help prevent food contamination?
-
 A HACCP system helps you identify where things might go wrong with food safety and put steps in place to stop problems before they start. This means less chance of food contamination, keeping your customers safe and happy.
 
 **Common misunderstanding: HACCP is only about reacting to food safety issues after they occur.**

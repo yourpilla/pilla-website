@@ -125,13 +125,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Why are opening and closing checks important for front of house staff?
-
 Opening and closing checks are crucial because they ensure that everything is ready for guests and that the venue is secure after they leave. These checks help maintain high standards of cleanliness, safety, and service, which are essential for a good customer experience and for the reputation of the business.
 
 **Common misunderstanding: Checks are just a formality and don't need much attention.**

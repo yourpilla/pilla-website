@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What post-service tasks should I include in a sommelier job description?
-
 After service, a sommelier's tasks are crucial for maintaining the quality and readiness of the wine service. Include responsibilities like restocking wine, updating inventory records, and preparing the wine area for the next service. This ensures everything is in place for seamless operations.
 
 **Common misunderstanding: Post-service tasks are just about cleaning up.**

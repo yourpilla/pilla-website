@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What details should I include about my kitchen environment in a Sous Chef job description?
-
 When you're writing a job description for a Sous Chef, it's important to clearly describe your kitchen's environment. This includes the type of cuisine, the pace of work, and what makes your kitchen unique. For example, you might mention if your kitchen is known for a collaborative team atmosphere or if it focuses on culinary innovation.
 
 **Common misunderstanding: It's enough to just mention the type of food served.**

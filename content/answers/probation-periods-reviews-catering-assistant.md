@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   Should I include information about probation periods or reviews in a Catering
   Assistant job description?
 meta: >
@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# Should I include information about probation periods or reviews in a Catering Assistant job description?
-
 Yes, it's important to include details about probation periods and performance reviews in the job description for a Catering Assistant. This information helps set clear expectations for candidates about the evaluation processes and their progress opportunities within the company. Mentioning these details early on can ensure transparency and help in attracting candidates who are committed to growth and development.
 
 **Common misunderstanding: Probation periods are only about assessing if the new hire can do the job.**

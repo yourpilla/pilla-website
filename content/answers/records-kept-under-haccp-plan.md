@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What records must be kept under a HACCP plan?
-
 Keeping accurate records is a key part of any HACCP plan. These records help prove that your food safety processes are effective and that you're complying with safety standards. You'll need to document everything from your hazard analysis to the monitoring of critical control points and any corrective actions taken.
 
 **Common misunderstanding: Only the results of monitoring need to be recorded.**

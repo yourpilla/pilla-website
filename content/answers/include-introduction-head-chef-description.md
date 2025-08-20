@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include in the introduction of a Head Chef job description?
-
 The introduction of your Head Chef job description should give a clear and engaging overview of your venue. Start by describing the type of culinary business you operate, the dining experience and culinary style you offer, and the vibe and values your kitchen embodies. This helps potential candidates quickly understand if they might be a good fit for your team.
 
 **Common misunderstanding: The introduction should be short and vague to save space.**

@@ -98,13 +98,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Can I leave my food probe thermometer in the fridge overnight?
-
 No, you should never leave your probe thermometer in the fridge overnight or in any extreme temperature environment. This includes fridges, freezers, ovens, or on hobs. Exposure to these conditions can damage the probe's sensitivity and affect its accuracy for future readings.
 
 **Common misunderstanding: Food probe thermometers are designed to withstand all temperature extremes, so storing them in a fridge or freezer won't affect their performance.**

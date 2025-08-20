@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# When should you write or update a food safety policy?
-
 Every business in the hospitality sector should have a written food safety policy from the start. This policy needs to be updated whenever there are significant changes in the business or in food safety legislation. It's crucial to keep this policy current to ensure compliance with laws and to maintain the safety of your food and customers.
 
 **Common misunderstanding: A food safety policy only needs to be written once and never changed.**

@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What hygiene standards must food businesses meet under the Food Safety Act 1990?
-
 Under the Food Safety Act 1990, food businesses in the UK must maintain high hygiene standards to ensure food safety. This includes preventing contamination, maintaining clean premises and equipment, and ensuring proper food handling and storage practices. These measures help protect consumers from foodborne illnesses and maintain public trust in the food industry.
 
 **Common misunderstanding: Small food businesses don't need to follow the same hygiene standards as larger ones.**

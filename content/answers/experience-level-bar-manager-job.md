@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How do I decide what experience level to include in a Bar Manager job description?
-
 When writing a job description for a Bar Manager, it's important to match the experience level required with the demands of your venue. Consider the complexity of the role and the expectations you have for the position. For example, if your bar is high-volume and fast-paced, you might need someone with more experience to handle the pressure.
 
 **Common misunderstanding: Any management experience is suitable for a Bar Manager position.**

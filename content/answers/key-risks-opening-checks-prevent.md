@@ -119,13 +119,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the key risks that opening checks should aim to prevent?
-
 Opening checks in a kitchen are designed to prevent several key risks that can compromise food safety and kitchen efficiency. These include the use of unsafe food, cross-contamination, equipment failure, and staff illness spreading to food. By conducting thorough opening checks, you ensure that the kitchen is clean, stocked, and fully operational, which helps in avoiding these risks and starting the service on a strong note.
 
 **Common misunderstanding: Opening checks are just about making sure the kitchen looks clean.**

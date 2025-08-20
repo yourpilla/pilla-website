@@ -118,9 +118,6 @@ breadcrumb_schema: |
   }
 subtitle: 'Key responsibilities, qualifications and requirements'
 ---
-
-# What should I explicitly state about pay and benefits in a Concierge job description?
-
 When writing a Concierge job description, it's important to be clear about the salary and benefits. This helps set the right expectations and attracts suitable candidates. Always include the salary range or hourly rate, and detail any additional financial incentives like tips or bonuses. Also, describe non-monetary perks such as meals, discounts, or wellness programs.
 
 **Common misunderstanding: It’s enough to just mention 'competitive salary'.**

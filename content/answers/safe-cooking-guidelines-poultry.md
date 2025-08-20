@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What are the safe cooking guidelines for poultry?
-
 To ensure poultry is safe to eat, it must be cooked thoroughly. Poultry, including chicken, turkey, and other game birds, should reach an internal temperature of at least 75°C (167°F). This high temperature kills harmful bacteria like Campylobacter Jejuni and Salmonella, which can cause serious food poisoning. Always use a food thermometer to check the internal temperature.
 
 **Common misunderstanding: If the meat looks white, it's cooked enough.**

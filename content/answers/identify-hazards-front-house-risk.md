@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I identify hazards in my front of house risk assessment?
-
 To effectively identify hazards in your front of house area, walk through the space during actual service hours. This allows you to observe how customers and staff interact and move in real-time, helping you spot potential risks that might not be apparent when the area is empty.
 
 **Common misunderstanding: It’s sufficient to do the assessment when the area is quiet.**

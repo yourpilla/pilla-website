@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What post-service responsibilities should I include in a Head Waiter job description?
-
 Post-service responsibilities are crucial for a Head Waiter as they ensure the restaurant resets and prepares for the next service period efficiently. These responsibilities should include overseeing the cleaning of the dining area, setting up for the next service, and checking the inventory for any shortages. It's also important for them to debrief the staff, noting any issues or successes during the service.
 
 **Common misunderstanding: Post-service tasks are only about cleaning.**

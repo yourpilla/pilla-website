@@ -69,13 +69,12 @@ schema: |
       }
     ]
   }
-subtitle: Training requirements and certification procedures
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# If we change the menu, do we need to do new allergen training?
-
 Yes, you should provide additional allergen training whenever your menu changes. This ensures all staff are up to date with the specific allergens in your new menu items. The training can be brief - even just 5 minutes - but it needs to be documented properly using the Training activity in Pilla.
 
 Make sure to add all staff members involved to the 'Staff Visibility' section so they can see it as well, and upload any training materials or attendance records to the 'Content' box.

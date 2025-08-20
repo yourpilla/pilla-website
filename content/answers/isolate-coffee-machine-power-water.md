@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I isolate a coffee machine from power and water?
-
 Isolating your coffee machine from power and water is crucial for safety during maintenance or in case of an emergency. Ensure that all staff know where the isolation points are and how to operate them. This involves turning off the machine at the main power switch and closing the water supply valve, typically located under the counter or near the machine.
 
 Common misunderstanding: Turning off the machine using the control panel is enough for isolation.

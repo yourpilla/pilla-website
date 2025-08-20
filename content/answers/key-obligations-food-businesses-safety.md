@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the key obligations for food businesses under the Food Safety Act 1990?
-
 Under the Food Safety Act 1990, food businesses in the UK must ensure that all aspects of food handling, from storage to sale, are conducted in a way that prioritises consumer safety. This includes maintaining proper hygiene, ensuring food is safe for consumption, and providing accurate information to consumers.
 
 **Common misunderstanding: Compliance with the Food Safety Act is only about keeping the premises clean.**

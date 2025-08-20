@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Training requirements and certification guidelines
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What training or progression opportunities should I include in a Catering Assistant job description?
-
 When writing a job description for a Catering Assistant, it's helpful to include specific training and progression opportunities. This not only attracts candidates but also sets clear expectations about growth within the company. For instance, you could mention on-site training sessions, opportunities for gaining certifications relevant to the catering industry, or clear paths to supervisory roles.
 
 **Common misunderstanding: Training opportunities are only for roles requiring technical skills.**

@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does an Environmental Health Officer do?
-
 Environmental Health Officers (EHOs) are vital for ensuring public health, especially in the hospitality sector. They check if businesses comply with food safety laws, and help maintain high standards. Their work includes inspecting premises, advising businesses, and enforcing regulations if necessary.
 
 **Common misunderstanding: EHOs only inspect food premises when there is a complaint.**

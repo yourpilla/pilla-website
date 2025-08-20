@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What is the difference between Standard and Enhanced Tier venues under
   Martyn's Law?
 meta: >
@@ -122,13 +122,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Key distinctions and comparative analysis
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the difference between Standard and Enhanced Tier venues under Martyn's Law?
-
 Martyn's Law categorises venues into two tiers based on their capacity to enhance security measures against potential terrorist attacks. Standard Tier venues are those that expect between 200 and 799 people at one time, while Enhanced Tier venues are larger, expecting 800 or more people. The tier determines the level of security planning and measures required to comply with the law.
 
 **Common misunderstanding: All venues, regardless of size, must meet the same security requirements under Martyn's Law.**

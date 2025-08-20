@@ -62,13 +62,12 @@ schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 17th March 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What level food safety certificate does a kitchen porter need?
-
 Kitchen porters need a Level 1 food hygiene certificate. This provides them with basic food hygiene knowledge to contribute to a safe food environment. The certificate needs to be renewed every 3 years to stay current with hygiene standards.
 
 This training can be completed online through accredited e-learning platforms, making it convenient for both the business and staff.

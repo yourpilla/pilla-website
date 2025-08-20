@@ -130,13 +130,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I encourage a culture of pride in FOH cleaning, not just compliance?
-
 Encouraging a culture of pride in front-of-house (FOH) cleaning involves more than just telling staff to clean. It's about making them feel valued and showing them how their efforts contribute to the restaurant's success. When staff take pride in their work, they see cleaning not just as a task, but as an essential part of providing a great guest experience.
 
 **Common misunderstanding: Cleaning is just a basic task that doesn’t require much attention.**

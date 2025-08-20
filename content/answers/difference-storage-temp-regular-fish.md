@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Should I store fresh fish in a separate fridge from other items?
-
 Ideally, yes. Since fresh fish requires a lower temperature than other items, it's best to have a dedicated fridge set at the correct temperature. If you must store fish in the same fridge as other items, make sure it's on the lowest shelf to prevent drip contamination, and ensure the fridge can maintain the required temperature below 3°C.
 
 **Common misunderstanding: You can store fresh fish in any part of a fridge as long as the overall temperature is set correctly.**

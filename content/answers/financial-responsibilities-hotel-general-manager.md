@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What financial responsibilities should I include when writing a Hotel General
   Manager job description?
 meta: >
@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What financial responsibilities should I include when writing a Hotel General Manager job description?
-
 When drafting a job description for a Hotel General Manager, it's important to include specific financial responsibilities. These typically involve overseeing budgeting, managing operational costs, and ensuring financial reports are accurate and timely. This helps the General Manager understand their role in keeping the hotel financially healthy.
 
 **Common misunderstanding: Financial responsibilities are only about managing budgets.**

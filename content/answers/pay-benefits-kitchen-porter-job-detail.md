@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What pay and benefits should I detail in a Kitchen Porter job description?
-
 When writing a job description for a Kitchen Porter, it's important to clearly state the salary and any benefits. Include the base pay and mention whether it's hourly or salary. Also, list any benefits like health insurance, paid time off, or meal discounts. Being transparent about these details helps attract candidates who are looking for clarity and security in their job choice.
 
 **Common misunderstanding: You should only mention the base pay in the job description.**

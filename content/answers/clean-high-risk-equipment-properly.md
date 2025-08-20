@@ -133,13 +133,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do you clean high-risk kitchen equipment properly?
-
 Cleaning high-risk equipment like slicers, mixers, and dishwashers is crucial to prevent food contamination. Always use the right cleaning agents and follow a thorough cleaning process. Start by removing any food debris, then wash with a suitable detergent, rinse, and finally sanitise using an appropriate sanitiser.
 
 **Common misunderstanding: A quick wipe down is enough for high-risk equipment.**

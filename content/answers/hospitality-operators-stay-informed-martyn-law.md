@@ -1,6 +1,5 @@
 ---
-title: |
-  How can hospitality operators stay informed about Martyn's Law?
+title: How can hospitality operators stay informed about Martyn's Law?
 meta: >
   Discover how hospitality operators can stay updated with Martyn's Law, access
   resources, and receive support from local authorities and industry bodies.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can hospitality operators stay informed about Martyn's Law?
-
 Staying informed about Martyn's Law is crucial for hospitality operators to ensure compliance and enhance the safety of their venues. Regularly checking official websites and subscribing to updates from relevant authorities can keep you up-to-date with the latest information and guidelines.
 
 **Common misunderstanding: Martyn's Law information is difficult to find and understand.**

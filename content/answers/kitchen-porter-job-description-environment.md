@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I describe my kitchen environment in a Kitchen Porter job description?
-
 Describing your kitchen environment accurately in a job description helps attract the right candidates. Mention the pace (e.g., fast-paced, high-volume), the style (e.g., casual dining, fine dining), and the team dynamics (e.g., large team, family-style management). This gives potential candidates a clear idea of what to expect and whether they'd be a good fit.
 
 **Common misunderstanding: A detailed description of the kitchen environment isn't necessary in a job description.**

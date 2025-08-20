@@ -117,13 +117,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include about the venue atmosphere in a Head Waiter job description?
-
 When writing a job description for a Head Waiter, it's important to clearly describe the atmosphere of your venue. Include details about the dining environment, whether it's formal, casual, or family-friendly, and the type of dining experience you offer, such as intimate, bustling, or themed. This helps candidates understand the setting they will be working in and the guest expectations they need to meet.
 
 **Common misunderstanding: The atmosphere of the venue doesn't significantly impact the Head Waiter's role.**

@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What skills are essential when writing a sommelier job description?
-
 When you're writing a job description for a sommelier, it's important to focus on essential skills that directly impact their role. Key skills include in-depth wine knowledge, exceptional customer service, and a sommelier certification. These are crucial because they ensure the candidate can provide expert advice, handle guests with care, and have a professional understanding of wines.
 
 **Common misunderstanding: All wine-related skills are equally important for a sommelier.**

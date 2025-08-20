@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Essential competencies and qualifications for effective performance
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What skills should I include in a Waiter/Waitress job description for my restaurant?
-
 When writing a job description for Waitstaff, focus on skills that are essential for daily operations in your specific restaurant environment. Include customer service and interpersonal communication, order accuracy and speed, familiarity with POS and billing systems, teamwork, organisation, and handling customer complaints. Tailor these skills to reflect the unique demands of your service style and customer base.
 
 **Common misunderstanding: All restaurants require the same set of skills for Waitstaff.**

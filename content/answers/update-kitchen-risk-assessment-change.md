@@ -106,13 +106,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I update my kitchen risk assessment when things change?
-
 When your kitchen undergoes any changes, it's essential to update your risk assessment to reflect these new conditions. Start by reviewing the existing document and noting any new hazards introduced by the changes. Adjust the risk levels and control measures accordingly. It’s a good practice to involve your team in this process, as they might provide insights into potential risks and effective precautions.
 
 **Common misunderstanding: If the changes are minor, I don’t need to update the risk assessment.**

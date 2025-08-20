@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Equipment operation and maintenance procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Why is preheating cooking equipment important?
-
 Preheating cooking equipment is crucial because it ensures that the cooking temperature is consistent from the moment you start cooking. This helps in cooking food evenly and achieving the desired culinary results. It also plays an important role in food safety, as it helps to quickly bring food up to a temperature that reduces harmful bacteria.
 
 **Common misunderstanding: Preheating is only necessary for baking.**

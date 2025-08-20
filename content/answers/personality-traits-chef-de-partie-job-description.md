@@ -114,13 +114,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What personality traits should I include in a Chef de Partie job description?
-
 When writing a job description for a Chef de Partie, include traits that match the dynamics and ethos of your kitchen. For example, if your kitchen is fast-paced and high-pressure, look for traits like calmness under pressure, quick decision-making, and efficiency. If the environment is more relaxed and focused on customer interaction, traits like warmth, good communication, and approachability are important.
 
 **Common misunderstanding: Personality traits are less important than skills and experience.**

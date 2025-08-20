@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should the opening commitment of a food safety policy include?
-
 The opening commitment of a food safety policy should clearly state the company's dedication to maintaining the highest standards of food safety. It should outline the company's commitment to comply with all relevant laws and regulations and to ensure the health and safety of its customers and staff. This sets the tone for the importance of food safety within the business.
 
 **Common misunderstanding: The opening statement is just a formal requirement and doesn’t impact the actual safety practices.**

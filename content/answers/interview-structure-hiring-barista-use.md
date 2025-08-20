@@ -118,13 +118,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What interview structure should I use for hiring a Barista?
-
 Choosing the right interview structure for hiring a Barista depends on your café's service style, the role's seniority, and your specific needs. Common structures include a simple structure for quick hires, a full interview structure for most hires, and an extended structure for senior or lead Baristas.
 
 **Common misunderstanding: A one-size-fits-all interview process is sufficient for all types of Barista roles.**

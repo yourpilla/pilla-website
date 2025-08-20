@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What benefits can I include in a Restaurant Assistant Manager job description?
-
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly outline the benefits. This not only attracts qualified candidates but also sets clear expectations. Benefits can include competitive salary, health benefits, paid leave, and flexible scheduling options. Additionally, mentioning unique perks like staff meals, discounts, and professional development opportunities can enhance the appeal of the job.
 
 **Common misunderstanding: Benefits should only include standard items like salary and health insurance.**

@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is a coffee machine risk assessment and why is it important?
-
 A coffee machine risk assessment is a detailed evaluation of the potential hazards associated with operating commercial coffee machines in your hospitality business. It helps identify risks to prevent accidents, ensure safety, and comply with legal requirements. This assessment is crucial because it not only protects staff and customers from harm but also safeguards your business against legal issues and potential fines.
 
 **Common misunderstanding: A risk assessment is just a formality and doesn't really affect daily operations.**

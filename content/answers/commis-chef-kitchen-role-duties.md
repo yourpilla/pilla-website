@@ -107,13 +107,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What does a Commis Chef do in a kitchen?
-
 A Commis Chef, often known as a junior chef, is important in a professional kitchen, helping senior chefs by performing basic cooking tasks. Their responsibilities include preparing ingredients, such as washing, peeling, cutting, and measuring foods. They also assist in basic cooking under supervision, learning the ropes of more complex culinary skills. This role is fundamental for anyone starting out in the culinary world, providing a solid foundation in kitchen operations.
 
 **Common misunderstanding: A Commis Chef only does simple, unimportant tasks.**

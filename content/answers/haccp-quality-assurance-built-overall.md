@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can HACCP be built into overall quality assurance?
-
 Integrating HACCP into your overall quality assurance means making it a core part of your daily operations. This approach ensures that food safety is not just a compliance activity but a driver for quality across all your food services. For example, when you're planning a new menu, consider how each dish can meet HACCP standards from the start.
 
 **Common misunderstanding: HACCP is only about compliance and doesn't impact overall quality.**

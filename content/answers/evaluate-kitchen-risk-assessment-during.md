@@ -106,13 +106,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I evaluate risks during a kitchen risk assessment?
-
 When you're assessing risks in the kitchen, think about how likely it is that someone could get hurt and how serious the injury could be. This helps you decide which risks need the most attention and what actions you should take to prevent accidents.
 
 **Common misunderstanding: All kitchen hazards need to be eliminated.**

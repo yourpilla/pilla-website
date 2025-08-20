@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should I include in the introduction of a Chef de Partie job description?
-
 When writing the introduction for a Chef de Partie job description, include a brief overview of your restaurant, the type of cuisine you serve, and the working environment. This helps potential candidates quickly understand if they might be a good fit for your team. It's also useful to highlight unique aspects of your restaurant that could attract the right talent.
 
 **Common misunderstanding: The introduction should only focus on the role itself.**

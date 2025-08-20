@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How often should a commercial coffee machine be serviced?
-
 It's important to service your commercial coffee machine regularly to keep it running smoothly and safely. The frequency of servicing should follow the manufacturer's recommendations, which is typically every 3 to 6 months depending on usage. Regular servicing helps prevent issues like leaks, pressure problems, and electrical faults.
 
 **Common misunderstanding: Servicing can be done only when the machine seems to be malfunctioning.**

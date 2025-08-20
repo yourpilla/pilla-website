@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What pay and benefits details should I include in a Hotel General Manager job description?
-
 When writing a job description for a Hotel General Manager, it's important to be clear about the salary range, bonuses, and benefits. This transparency helps attract the right candidates and sets clear expectations. Include details such as the base salary, potential for performance bonuses, and any benefits like health insurance, pension plans, or discounts on hotel services.
 
 **Common misunderstanding: It’s enough to just mention a "competitive salary".**

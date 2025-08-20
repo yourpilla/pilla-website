@@ -107,13 +107,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the role of the Entremétier?
-
 The Entremétier, also known as the Vegetable Chef, plays a important role in a professional kitchen by focusing on vegetable dishes, soups, and egg-based recipes. This chef ensures that all vegetable sides and vegetarian dishes are prepared with care and expertise, contributing to the overall balance and nutritional value of the meal.
 
 **Common misunderstanding: The Entremétier only prepares side dishes.**

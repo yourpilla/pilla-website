@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What salary and benefits should I state in a Restaurant Duty Manager job description?
-
 When writing a job description for a Restaurant Duty Manager, it's important to be clear about the salary and benefits. State the exact salary or a reasonable range, such as £28,000 - £32,000 per annum, plus service charge allocation. Include other benefits like holiday entitlements, training opportunities, and meal discounts to make the role more attractive.
 
 **Common misunderstanding: It’s better to keep salary details vague to negotiate later.**

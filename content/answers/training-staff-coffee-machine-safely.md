@@ -112,13 +112,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Training requirements and certification guidelines
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
-
-# What training should staff receive to use a coffee machine safely?
-
 Staff who use coffee machines in your business should receive comprehensive training to ensure they can operate the equipment safely and competently. This training should cover daily startup and shutdown procedures, safe operation of the steam wand, proper cleaning techniques, and fault reporting. Additionally, staff should be trained on emergency procedures and the use of personal protective equipment (PPE) when necessary.
 
 **Common misunderstanding: Training can be informal and passed on from one employee to another.**

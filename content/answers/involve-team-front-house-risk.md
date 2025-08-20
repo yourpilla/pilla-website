@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I involve my team in the front of house risk assessment?
-
 Getting your team involved in the front of house (FOH) risk assessment is crucial for identifying real-world risks and ensuring everyone understands their role in maintaining safety. Start by inviting team members to walk through the FOH area during different service times, encouraging them to share observations and experiences of potential hazards.
 
 **Common misunderstanding: Only managers need to be involved in the risk assessment process.**

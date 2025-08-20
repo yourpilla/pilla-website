@@ -113,13 +113,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What should I check on tins when they arrive from a food supplier?
-
 When checking tins during delivery, you need to inspect them for several key things: Make sure there's no rust on the tins, check they aren't blown or bulging, verify there are no leaks or damage, and confirm all labels are intact and readable. It's also important to check that best before dates have at least 1 month remaining.
 
 **Common misunderstanding: As long as the tins are sealed, they are safe for consumption even if they have minor rust or dents.**

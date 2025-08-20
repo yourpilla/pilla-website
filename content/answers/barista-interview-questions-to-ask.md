@@ -125,13 +125,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are good Barista interview questions to ask?
-
 When interviewing a Barista, it's key to ask questions that reveal their real-world skills and attitude. Focus on their experience with customer service, their ability to handle busy periods, teamwork, and their coffee making skills. For instance, you might ask, "Tell me about a time you turned an unhappy customer into a regular guest. What did you do?" This type of question helps you understand their approach to customer service and problem-solving.
 
 **Common misunderstanding: Asking only about technical coffee-making skills gives a complete picture of the candidate.**

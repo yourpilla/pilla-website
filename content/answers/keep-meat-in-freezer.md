@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How long can I keep meat in the freezer?
-
 When freezing fresh meat, it's best to use it within one month. The meat needs to be properly wrapped and date labeled before freezing. For best results, make sure the meat is properly chilled (below 5°C) before placing it in the freezer - this helps the freezing process happen faster and maintains better quality.
 
 Keep in mind that freezing fresh meat isn't ideal as it can be vulnerable to freezer burn and ice crystal formation, which can affect quality once defrosted.

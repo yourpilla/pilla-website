@@ -98,13 +98,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Monitoring frequency and compliance requirements
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# If food in the fridge is at 7°C, how often should we check it?
-
 When food temperature is between 6-8°C, you need to monitor it hourly to ensure it doesn't exceed 8°C. This is because 8°C is the critical limit - if food goes above this temperature, you'll need to take immediate corrective action.
 
 **Common misunderstanding: As long as the fridge is set to the correct temperature, food inside will remain safe without frequent checks.**

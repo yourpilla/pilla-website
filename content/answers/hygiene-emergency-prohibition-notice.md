@@ -1,5 +1,5 @@
 ---
-title: 'What is a Hygiene Emergency Prohibition Notice? '
+title: What is a Hygiene Emergency Prohibition Notice?
 meta: >
   Understand what a Hygiene Emergency Prohibition Notice is, when it is issued,
   and the process for reopening a food business post-notice.
@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is a Hygiene Emergency Prohibition Notice?
-
 A Hygiene Emergency Prohibition Notice is a legal notice issued by an Environmental Health Officer (EHO) when there is a serious risk to public health due to conditions in a food business. This notice can immediately stop the operation of the entire premises, part of the premises, a specific activity, or the use of certain equipment.
 
 **Common misunderstanding: A Hygiene Emergency Prohibition Notice is just a warning.**

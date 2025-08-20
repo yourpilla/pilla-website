@@ -122,13 +122,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the most critical FOH cleaning tasks to complete after every guest?
-
 After each guest leaves, it's vital to quickly reset the area to maintain cleanliness and ensure the next guest walks into a welcoming environment. Key tasks include sanitising table tops, chair backs, and arm rests, wiping and resetting menus, condiments, and cutlery, cleaning and repositioning high chairs or booster seats, checking the floor area under and around the table, sanitising handheld devices like ordering tablets and card machines, and removing any crumbs and fingerprints from tabletop surfaces.
 
 **Common misunderstanding: A quick wipe of the table is enough after each guest.**

@@ -1,5 +1,5 @@
 ---
-title: 'What format do EHOs follow when inspecting a business? '
+title: What format do EHOs follow when inspecting a business?
 meta: >
   Understand how EHOs conduct inspections in hospitality businesses, focusing on
   food safety, premises' structure, and management systems.
@@ -113,13 +113,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What format do EHOs follow when inspecting a business?
-
 When an Environmental Health Officer (EHO) inspects your hospitality business, they follow a specific format outlined in the Food Law Code of Practice. This includes assessing your food safety and hygiene practices, the structure and cleanliness of your premises, and your management systems to ensure compliance with food safety laws.
 
 **Common misunderstanding: EHO inspections are random and unstructured.**

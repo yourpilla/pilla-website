@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# Does a coffee machine need to be fixed in place?
-
 Yes, securing a coffee machine in place is crucial for safety and stability. Commercial coffee machines, especially those used in busy environments, should be fixed on a stable and robust surface to prevent any movement that could lead to accidents or damage.
 
 **Common misunderstanding: It’s fine to place the coffee machine on any flat surface.**

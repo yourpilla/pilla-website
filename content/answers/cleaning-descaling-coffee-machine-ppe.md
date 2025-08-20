@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What PPE is needed when cleaning or descaling a coffee machine?
-
 When cleaning or descaling your coffee machine, wearing the right Personal Protective Equipment (PPE) is crucial to protect against chemical burns and scalds. Typically, you should wear heat-resistant gloves, safety goggles, and aprons. These items protect your skin and eyes from chemical splashes and hot water.
 
 **Common misunderstanding: Regular kitchen gloves are sufficient for descaling.**

@@ -116,13 +116,12 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What post-service responsibilities should I include in a Kitchen Porter job description?
-
 When writing a job description for a Kitchen Porter, it's important to include specific post-service responsibilities. These typically involve cleaning tasks, such as washing dishes and sanitising workstations, and resetting the kitchen for the next service. This ensures everything is clean and organised, ready for another day of service.
 
 **Common misunderstanding: Kitchen Porters are only responsible for dishwashing.**

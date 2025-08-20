@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I start writing a Hotel General Manager job description?
-
 Starting a job description for a Hotel General Manager begins with understanding your hotel's unique characteristics and needs. First, outline the hotel's vibe, guest experience, and culture. Then, detail the core responsibilities, necessary skills, required experience, and desired personality traits. Finally, be clear about the salary and benefits. This structured approach helps attract the right candidates.
 
 **Common misunderstanding: A job description should be written quickly to fill the position as soon as possible.**

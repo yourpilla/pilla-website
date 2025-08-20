@@ -118,13 +118,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can you make sure checklists are actually used during shifts?
-
 Ensuring checklists are used during shifts is all about making them a seamless part of the daily routine. Assign clear responsibilities and integrate the checklist into the workflow so it becomes a natural and essential part of each shift. This helps maintain high standards and consistency, no matter how busy it gets.
 
 **Common misunderstanding: If a checklist is written, staff will automatically use it.**

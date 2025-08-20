@@ -108,13 +108,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do local authorities enforce the Food Safety Act 1990?
-
 Local authorities play a crucial role in making sure that food businesses follow the Food Safety Act 1990. They conduct inspections focusing on food handling, storage, and preparation practices. If a business doesn't meet the standards, local authorities can take action to ensure public safety and compliance.
 
 **Common misunderstanding: Local authorities only check for cleanliness.**

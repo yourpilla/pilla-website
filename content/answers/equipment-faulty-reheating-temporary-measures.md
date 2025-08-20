@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Emergency procedures and corrective actions
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What should be done if reheating equipment is faulty?
-
 If you find that your reheating equipment is not working properly, it's important to take immediate action to ensure food safety. First, stop using the faulty equipment. Then, follow these steps: repair or replace the equipment, use alternative equipment, and increase supervision and retraining of staff if necessary.
 
 **Common misunderstanding: Faulty equipment can still be used if it seems to be working 'good enough'.**

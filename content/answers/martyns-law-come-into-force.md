@@ -1,6 +1,5 @@
 ---
-title: |
-  When does Martyn's Law come into force?
+title: When does Martyn's Law come into force?
 meta: >
   Explore the implementation timeline of Martyn's Law, its enforcement date, and
   the reasons behind the grace period before it comes into force.
@@ -121,13 +120,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# When does Martyn's Law come into force?
-
 Martyn's Law, officially known as the Terrorism (Protection of Premises) Act 2025, received Royal Assent on 3rd April 2025. However, the new duties will not apply immediately. The government has set an implementation period, with enforcement expected to begin around 2027. This means that while the law is officially in place, the requirements won't be enforceable until this future date.
 
 **Common misunderstanding: Martyn's Law is effective immediately after it receives Royal Assent.**

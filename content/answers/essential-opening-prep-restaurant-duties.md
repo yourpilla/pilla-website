@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What are the essential opening and prep responsibilities in a Restaurant Duty
   Manager job description?
 meta: >
@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What are the essential opening and prep responsibilities in a Restaurant Duty Manager job description?
-
 At the start of the day, a Restaurant Duty Manager has key tasks to ensure everything runs smoothly. These include preparing dining areas, kitchens, and bars, and conducting staff briefings to set daily goals and communicate specials. This sets the stage for a successful service, ensuring all areas are ready and staff are informed and motivated.
 
 **Common misunderstanding: Opening duties are just about physical setup.**

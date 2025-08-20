@@ -106,13 +106,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Safety procedures and compliance guidelines
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# How does time impact the safety and quality of hot held food?
-
 Holding food at hot temperatures over time can affect both its safety and quality. The longer food is kept hot, the more likely it is for harmful bacteria to grow, especially if the temperature isn't high enough. This can lead to foodborne illnesses. Additionally, extended hot holding can degrade the quality of food, making it dry, overcooked, or less flavourful.
 
 **Common misunderstanding: Food can be held hot indefinitely as long as it remains above a certain temperature.**

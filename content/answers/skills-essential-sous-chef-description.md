@@ -115,13 +115,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What skills are essential to include for a Sous Chef in our job description?
-
 When writing a job description for a Sous Chef, it's important to include skills that match the specific needs of your kitchen. Essential skills often include advanced culinary techniques, leadership, strong organisational abilities, excellent communication, and a high level of kitchen sanitation and hygiene practices. These skills ensure the Sous Chef can manage kitchen operations effectively and maintain high standards.
 
 **Common misunderstanding: All Sous Chefs need the same set of skills, regardless of the restaurant type.**

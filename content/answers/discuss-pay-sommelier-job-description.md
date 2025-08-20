@@ -112,13 +112,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How should I discuss pay in a sommelier job description?
-
 When writing a job description for a sommelier, it's important to be clear and upfront about the pay. Mention the salary range early in the description to ensure transparency. This helps set expectations and attracts candidates who are comfortable with the offered compensation.
 
 **Common misunderstanding: You should avoid mentioning pay in the job description to negotiate later.**

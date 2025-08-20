@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# How should I describe opportunities for career growth in a Bartender job description?
-
 When writing a job description for a bartender, it's important to clearly describe the potential for career growth within your establishment. This not only attracts candidates who are looking for long-term opportunities but also shows that your venue invests in its staff. Mention specific advancement pathways like moving from a bartender to a senior bartender, or eventually to a bar manager, and highlight any training or development programs that support these progressions.
 
 **Common misunderstanding: Career growth opportunities are assumed and don't need to be explicitly stated.**

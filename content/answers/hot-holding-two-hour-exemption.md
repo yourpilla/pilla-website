@@ -107,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# What is the hot holding two-hour exemption?
-
 The hot holding two-hour exemption allows food to be kept at temperatures below the usual minimum of 63°C for up to two hours. This is useful during events or service periods when maintaining a constant temperature is challenging. After two hours, you must either reheat the food to above 63°C, serve it immediately, or cool it down and store it safely.
 
 **Common misunderstanding: Food can be left out indefinitely as long as it's reheated eventually.**

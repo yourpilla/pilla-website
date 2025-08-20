@@ -132,14 +132,16 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
 The requested section linking to templates or internal guides at yourpilla.com has been removed from the HTML document. Here is the revised version: \`\`\`html
 
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
 
-# What items are commonly missed or cleaned incorrectly in a kitchen?
+
 
 When cleaning a kitchen, it's easy to overlook smaller tools or hard-to-reach areas. Items like can openers, blender gaskets, and the undersides of cutting boards often don't get the attention they need. This can lead to food residue build-up, which is a breeding ground for bacteria.
 

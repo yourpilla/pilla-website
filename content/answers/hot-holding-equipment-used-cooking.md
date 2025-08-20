@@ -1,6 +1,5 @@
 ---
-title: |
-  Why can't hot holding equipment be used for cooking?
+title: Why can't hot holding equipment be used for cooking?
 meta: >
   Discover essential guidelines for cooking food safely, including proper
   temperatures to eliminate harmful bacteria and practices to prevent
@@ -108,13 +107,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Equipment operation and maintenance procedures
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to manage food safety.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
-
-# Why can't hot holding equipment be used for cooking?
-
 Hot holding equipment, like bain-maries, is designed to keep already cooked food at a safe temperature before it's served. It's not suitable for cooking because it doesn't reach high enough temperatures to destroy harmful bacteria in uncooked food. This means using it for cooking can lead to foodborne illnesses.
 
 **Common misunderstanding: Hot holding equipment can be used for cooking if the food is left in it for a longer period.**

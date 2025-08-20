@@ -130,13 +130,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Step-by-step cleaning procedures and best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How can I clearly write FOH cleaning tasks to avoid confusion?
-
 When writing FOH cleaning tasks, it's key to be specific and clear so every team member knows exactly what to do. Use actionable language that leaves no room for interpretation. For example, instead of saying "Clean the bar," specify "Wipe down the bar surface and stools with disinfectant after each shift."
 
 **Common misunderstanding: More details make instructions confusing.**

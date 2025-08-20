@@ -118,13 +118,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st April 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What is the first step in writing effective opening and closing checklists?
-
 The first step in creating effective opening and closing checklists for your kitchen is to perform a detailed walkthrough of the kitchen. This involves observing the kitchen as if you are seeing it for the first time, ideally at the start of the day before opening and after closing. This helps you identify what needs to be ready for the kitchen to operate smoothly and what needs cleaning or restocking at the end of the day.
 
 **Common misunderstanding: You can skip the walkthrough if you know your kitchen well.**

@@ -1,5 +1,5 @@
 ---
-title: >
+title: >-
   What training and progression opportunities should be highlighted in a
   Concierge job description?
 meta: >
@@ -116,13 +116,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Training requirements and certification guidelines
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email. Or [book a demo](https://calendly.com/pilla/demo) to see how
+  hospitality businesses use Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What training and progression opportunities should be highlighted in a Concierge job description?
-
 When writing a job description for a Concierge, it's important to include specific training and progression opportunities. This not only attracts candidates who are eager to grow but also sets clear expectations about their career path. Highlight structured training programs, chances for skill enhancement, and potential progression to supervisory or managerial roles.
 
 **Common misunderstanding: Any training mentioned is enough to attract candidates.**

@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I describe the necessary experience in a Hotel General Manager job description?
-
 When writing a job description for a Hotel General Manager, it's important to clearly specify the type and amount of experience required. Focus on practical exposure rather than just years in the industry. For example, if the role is for a luxury hotel, you might require experience in managing high-end services and guest relations.
 
 **Common misunderstanding: It’s enough to just mention the number of years needed.**

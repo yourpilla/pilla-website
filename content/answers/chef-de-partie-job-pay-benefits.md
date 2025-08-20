@@ -116,13 +116,12 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st June 2025 | This FAQ page has been written by Pilla
+  Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
+  [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
+  email.
 ---
-
-Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# What pay and benefits information should I include in a Chef de Partie job description?
-
 When writing a job description for a Chef de Partie, it's important to be clear and specific about the pay and benefits. Include the salary range or hourly rate, and mention any additional financial perks like tips or bonuses. Also, list non-monetary benefits such as meals during shifts, health benefits, or paid holidays. This transparency helps set clear expectations and attracts candidates who are a good fit for your team.
 
 **Common misunderstanding: It’s enough to just mention that the pay is competitive.**

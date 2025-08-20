@@ -125,13 +125,11 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: Professional guidance and industry best practices
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.
-
-# How do I tailor interview questions for different café styles?
-
 When interviewing baristas, it's crucial to ask questions that reflect the specific style and pace of your café. This means focusing on the real-world challenges they'll face in your environment. For example, if your café is fast-paced, ask about their ability to handle high volumes of orders quickly. If it's more artisan or focused on customer interaction, inquire about their knowledge of coffee and their ability to engage with customers.
 
 **Common misunderstanding: All barista interviews should focus solely on coffee-making skills.**

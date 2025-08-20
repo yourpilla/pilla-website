@@ -117,13 +117,13 @@ breadcrumb_schema: |
       }
     ]
   }
-subtitle: 'Key responsibilities, qualifications and requirements'
+subtitle: >-
+  Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
+  [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
+  demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
+  Pilla to create and record job descriptions.
 ---
-
-Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.
-
-# What hours and scheduling information should I include in a Catering Assistant job description?
-
 When writing a job description for a Catering Assistant, it's important to clearly outline the expected work hours and scheduling details. This helps potential candidates understand their commitments and assess if the job fits their availability. Include specifics such as the number of hours per week, any expected overtime, and the typical start and end times for shifts.
 
 **Common misunderstanding: It’s enough to just mention 'full-time' or 'part-time' without specific hours.**
