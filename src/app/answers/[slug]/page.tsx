@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Image from 'next/image';
 import MarkdownContent from '@/components/MarkdownContent';
+import ReactMarkdown from 'react-markdown';
 
 interface FAQPageProps {
   params: Promise<{ slug: string }>;
@@ -97,7 +98,23 @@ export default async function FAQPage({ params }: FAQPageProps) {
               </h1>
               {subtitle && (
                 <div className="mt-6 small-grey">
-                  <MarkdownContent content={subtitle} />
+                  <ReactMarkdown
+                    components={{
+                      p: ({ children }) => <>{children}</>,
+                      a: ({ href, children }) => (
+                        <a
+                          href={href}
+                          className="text-blue-600 hover:text-blue-800 underline transition-colors"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {children}
+                        </a>
+                      )
+                    }}
+                  >
+                    {subtitle}
+                  </ReactMarkdown>
                 </div>
               )}
             </div>
