@@ -109,7 +109,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
             alt={sidebarImageAlt} 
             width={400}
             height={300}
-            className="w-full max-w-md object-cover rounded-lg"
+            className="w-full max-w-sm object-cover rounded-lg"
           />
         </div>
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
