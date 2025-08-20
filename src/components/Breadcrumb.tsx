@@ -68,7 +68,7 @@ export default function Breadcrumb({ items, className = '' }: BreadcrumbProps) {
   }
 
   return (
-    <div className={`px-8 py-3 border-b border-gray-200 bg-gray-50 ${className}`}>
+    <div className={`px-8 py-3 border-b border-gray-200 bg-white ${className}`}>
       <div className="mx-auto max-w-7xl">
         <nav aria-label="Breadcrumb">
           <ol className="flex items-center space-x-2 text-sm">
