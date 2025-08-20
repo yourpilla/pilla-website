@@ -96,9 +96,9 @@ export default async function FAQPage({ params }: FAQPageProps) {
                 {faq.title}
               </h1>
               {subtitle && (
-                <p className="mt-6 small-grey">
-                  {subtitle}
-                </p>
+                <div className="mt-6 small-grey">
+                  <MarkdownContent content={subtitle} />
+                </div>
               )}
             </div>
           </div>
