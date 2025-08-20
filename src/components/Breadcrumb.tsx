@@ -66,7 +66,6 @@ export default function Breadcrumb({ items, className = '' }: BreadcrumbProps) {
   if (pathname === '/') {
     return null
   }
-
   return (
     <div className={`px-8 py-3 border-b border-gray-200 bg-white ${className}`}>
       <div className="mx-auto max-w-7xl">

@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Image from 'next/image';
 import MarkdownContent from '@/components/MarkdownContent';
+import BreadcrumbSection from '@/components/BreadcrumbSection';
+import { generateEnhancedBreadcrumbs } from '@/lib/breadcrumbs';
 
 interface FAQPageProps {
   params: Promise<{ slug: string }>;
@@ -35,6 +37,9 @@ export default async function FAQPage({ params }: FAQPageProps) {
     notFound();
   }
 
+  // Generate enhanced breadcrumbs for this FAQ page
+  const breadcrumbs = generateEnhancedBreadcrumbs(`/answers/${slug}`)
+
   return (
     <>
       {/* Render exact schema from YAML frontmatter */}
@@ -56,6 +61,8 @@ export default async function FAQPage({ params }: FAQPageProps) {
           }}
         />
       )}
+      
+      <BreadcrumbSection items={breadcrumbs} />
       
       <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
       <div className="absolute inset-0 -z-10 overflow-hidden">
