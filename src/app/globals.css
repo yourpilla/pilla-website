@@ -490,3 +490,24 @@ p {
   height: 1.5rem; /* 24px */
   color: #9CA3AF;
 }
+
+/* Card Classes */
+.white-card {
+  background-color: #ffffff;
+  border: 1px solid #D0D5DD;
+}
+
+.red-card {
+  background-color: #FEC6D4;
+  border: 1px solid #FB0071;
+}
+
+.orange-card {
+  background-color: #FFDCB4;
+  border: 1px solid #FF7B00;
+}
+
+.green-card {
+  background-color: #BAEED9;
+  border: 1px solid #00B36E;
+}
