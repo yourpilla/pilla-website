@@ -24,10 +24,10 @@ import {
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const resources = [
-  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: DocumentCheckIcon, descClass: 'big-grey' },
-  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon, descClass: 'big-grey' },
-  { name: 'Glossary', description: 'Hospitality lingo explained', href: '/glossary', icon: QueueListIcon, descClass: 'h6' },
-  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon, descClass: 'big-grey' },
+  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: DocumentCheckIcon, descClass: 'small-grey' },
+  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon, descClass: 'small-grey' },
+  { name: 'Glossary', description: 'Hospitality lingo explained', href: '/glossary', icon: QueueListIcon, descClass: 'small-grey' },
+  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon, descClass: 'small-grey' },
 ]
 
 export default function Header() {
