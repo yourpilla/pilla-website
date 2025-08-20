@@ -47,8 +47,13 @@ export default function LegalPage() {
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {legalPages.map((page) => (
-            <article key={page.slug} className="flex max-w-xl flex-col items-start justify-between">
-              <div className="flex items-center gap-x-4 text-xs">
+            <article key={page.slug} className="flex max-w-xl flex-col items-start justify-between relative white-card p-6 rounded-lg">
+              {page.featured && (
+                <div className="absolute top-2 right-2 z-10">
+                  <span className="small-blue green-card px-2 py-1">Featured</span>
+                </div>
+              )}
+              <div className="flex items-center gap-x-4 text-xs mt-6">
                 <time className="text-muted">
                   Recent
                 </time>
@@ -66,16 +71,6 @@ export default function LegalPage() {
                 <p className="mt-5 line-clamp-3 text-sm/6 text-muted">
                   {page.meta || extractDescription(page.content)}
                 </p>
-              </div>
-              <div className="relative mt-8 flex items-center gap-x-4 justify-self-end">
-                <img alt="" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" className="size-10 rounded-full bg-gray-50" />
-                <div className="text-sm/6">
-                  <p className="font-semibold text-gray-900">
-                    <span className="absolute inset-0" />
-                    Legal Team
-                  </p>
-                  <p className="text-muted">Pilla Legal Department</p>
-                </div>
               </div>
             </article>
           ))}
