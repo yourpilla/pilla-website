@@ -113,8 +113,11 @@ This template lists the simplified typography system for easy editing.
 - **Usage:** Default body text
 
 #### .small-grey
+- **Font Size:** 1rem (16px)
+- **Font Weight:** 400
+- **Line Height:** 1.6
 - **Color:** #9CA3AF
-- **Usage:** Secondary/descriptive text (can be applied to any element)
+- **Usage:** Secondary/descriptive text
 
 ## Icon Styles
 
