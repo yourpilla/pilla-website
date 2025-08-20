@@ -104,7 +104,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
                       a: ({ href, children }) => (
                         <a
                           href={href}
-                          className="text-blue-600 hover:text-blue-800 underline transition-colors"
+                          className="underline hover:opacity-80 transition-opacity"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
