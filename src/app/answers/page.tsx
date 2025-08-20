@@ -1,4 +1,6 @@
 import { getContentByCategory } from '@/lib/content';
+import BreadcrumbSection from '@/components/BreadcrumbSection';
+import { generateBreadcrumbsFromPath } from '@/lib/breadcrumbs';
 
 const faqs = getContentByCategory('answers');
 
@@ -6,8 +8,13 @@ const faqs = getContentByCategory('answers');
 export const revalidate = 21600;
 
 export default function AnswersPage() {
+  // Generate breadcrumbs for the answers listing page
+  const breadcrumbs = generateBreadcrumbsFromPath('/answers')
+  
   return (
-    <div className="bg-main py-24 sm:py-32">
+    <>
+      <BreadcrumbSection items={breadcrumbs} />
+      <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
           <h2 className="h2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">Hospitality Questions & Answers</h2>
@@ -35,6 +42,7 @@ export default function AnswersPage() {
           ))}
         </div>
       </div>
-    </div>
+      </div>
+    </>
   )
 }

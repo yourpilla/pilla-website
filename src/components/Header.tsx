@@ -2,7 +2,6 @@
 
 import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
-import Breadcrumb from './Breadcrumb'
 import {
   Dialog,
   DialogPanel,
@@ -187,7 +186,6 @@ export default function Header() {
           </div>
         </DialogPanel>
       </Dialog>
-      <Breadcrumb />
     </header>
   )
 }
