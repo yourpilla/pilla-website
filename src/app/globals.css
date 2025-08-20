@@ -510,4 +510,5 @@ p {
 .green-card {
   background-color: #BAEED9;
   border: 1px solid #00B36E;
+  border-radius: 0.375rem; /* 6px - rounded-md */
 }

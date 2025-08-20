@@ -16,10 +16,10 @@ export default function FoodSafetyManagementSystemPage() {
             <article key={post.slug} className="flex max-w-xl flex-col items-start justify-between relative">
               {post.featured && (
                 <div className="absolute top-0 right-0 z-10">
-                  <span className="small-blue green-card px-2 py-1 rounded-bl-md">Featured</span>
+                  <span className="small-blue green-card px-2 py-1">Featured</span>
                 </div>
               )}
-              <div className="flex items-center gap-x-4 text-xs">
+              <div className="flex items-center gap-x-4 text-xs mt-6">
                 <span className="text-muted">
                   Food Safety Guide
                 </span>
