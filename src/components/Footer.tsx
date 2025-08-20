@@ -4,26 +4,26 @@ import Link from 'next/link'
 
 const navigation = {
   solutions: [
-    { name: 'Job Descriptions', href: 'https://yourpilla.com/blog/hospitality-job-roles' },
-    { name: 'Job Interviews', href: 'https://yourpilla.com/blog/interviews' },
-    { name: 'Start Onboarding', href: 'https://yourpilla.com/blog/restaurant-staff-onboarding' },
-    { name: 'Food Hygiene', href: 'https://yourpilla.com/blog/food-safety-management-system' },
-    { name: 'Health and Safety', href: 'https://yourpilla.com/blog/hospitality-risks' },
-    { name: 'Daily Operations', href: 'https://yourpilla.com/blog/operations' },
+    { name: 'Job Descriptions', href: '/blog/hospitality-job-roles' },
+    { name: 'Job Interviews', href: '/blog/interviews' },
+    { name: 'Start Onboarding', href: '/blog/restaurant-staff-onboarding' },
+    { name: 'Food Hygiene', href: '/blog/food-safety-management-system' },
+    { name: 'Health and Safety', href: '/blog/hospitality-risks' },
+    { name: 'Daily Operations', href: '/blog/operations' },
   ],
   support: [
-    { name: 'Problem and Solution', href: 'https://yourpilla.com/about' },
-    { name: 'How it Works', href: 'https://yourpilla.com/how-it-works' },
-    { name: 'Pilla vs Others', href: 'https://yourpilla.com/pricing/compare' },
+    { name: 'Problem and Solution', href: '/about' },
+    { name: 'How it Works', href: '/how-it-works' },
+    { name: 'Pilla vs Others', href: '/pricing/compare' },
   ],
   company: [
     { name: 'Shift Scheduling App', href: '#' },
     { name: 'Food Hygiene App', href: '#' },
   ],
   legal: [
-    { name: 'Terms of Use', href: 'https://yourpilla.com/legal/terms-of-use' },
-    { name: 'Privacy Policy', href: 'https://yourpilla.com/legal/privacy-policy' },
-    { name: 'Right to Forget', href: 'https://yourpilla.com/legal/right-forgotten' },
+    { name: 'Terms of Use', href: '/legal/terms-of-use' },
+    { name: 'Privacy Policy', href: '/legal/privacy-policy' },
+    { name: 'Right to Forget', href: '/legal/right-forgotten' },
   ],
 }
 

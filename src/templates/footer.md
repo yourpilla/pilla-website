@@ -242,26 +242,26 @@ export default function Example() {
 ### Templates Section
 - **solutions_title**: "Templates" | **typography**: `.h6` | *Solutions section title*
 - **solution_1_name**: "Job Descriptions" | **typography**: `.small-blue` | *First solution name*
-- **solution_1_href**: "https://yourpilla.com/blog/hospitality-job-roles" | *First solution URL*
+- **solution_1_href**: "/blog/hospitality-job-roles" | *First solution URL*
 - **solution_2_name**: "Job Interviews" | **typography**: `.small-blue` | *Second solution name*
-- **solution_2_href**: "https://yourpilla.com/blog/interviews" | *Second solution URL*
+- **solution_2_href**: "/blog/interviews" | *Second solution URL*
 - **solution_3_name**: "Start Onboarding" | **typography**: `.small-blue` | *Third solution name*
-- **solution_3_href**: "https://yourpilla.com/blog/restaurant-staff-onboarding" | *Third solution URL*
+- **solution_3_href**: "/blog/restaurant-staff-onboarding" | *Third solution URL*
 - **solution_4_name**: "Food Hygiene" | **typography**: `.small-blue` | *Fourth solution name*
-- **solution_4_href**: "https://yourpilla.com/blog/food-safety-management-system" | *Fourth solution URL*
+- **solution_4_href**: "/blog/food-safety-management-system" | *Fourth solution URL*
 - **solution_5_name**: "Health and Safety" | **typography**: `.small-blue` | *Fifth solution name*
-- **solution_5_href**: "https://yourpilla.com/blog/hospitality-risks" | *Fifth solution URL*
+- **solution_5_href**: "/blog/hospitality-risks" | *Fifth solution URL*
 - **solution_6_name**: "Daily Operations" | **typography**: `.small-blue` | *Sixth solution name*
-- **solution_6_href**: "https://yourpilla.com/blog/operations" | *Fifth solution URL*
+- **solution_6_href**: "/blog/operations" | *Fifth solution URL*
 
 ### Why Pilla Section
 - **support_title**: "Why Pilla" | **typography**: `.h6` | *Support section title*
 - **support_1_name**: "Problem and Solution" | **typography**: `.small-blue` | *First support item*
-- **support_1_href**: "https://yourpilla.com/about" | *First support URL*
+- **support_1_href**: "/about" | *First support URL*
 - **support_2_name**: "How it Works" | **typography**: `.small-blue` | *Second support item*
-- **support_2_href**: "https://yourpilla.com/how-it-works" | *Second support URL*
+- **support_2_href**: "/how-it-works" | *Second support URL*
 - **support_3_name**: "Pilla vs Others" | **typography**: `.small-blue` | *Third support item*
-- **support_3_href**: "https://yourpilla.com/pricing/compare" | *Third support URL*
+- **support_3_href**: "/pricing/compare" | *Third support URL*
 
 ### Use Case Section
 - **company_title**: "Use Cases" | **typography**: `.h6` | *Company section title*
@@ -273,11 +273,11 @@ export default function Example() {
 ### Legal Section
 - **legal_title**: "Legal" | **typography**: `.h6` | *Legal section title*
 - **legal_1_name**: "Terms of Use" | **typography**: `.small-blue` | *First legal link*
-- **legal_1_href**: "https://yourpilla.com/legal/terms-of-use" | *First legal URL*
+- **legal_1_href**: "/legal/terms-of-use" | *First legal URL*
 - **legal_2_name**: "Privacy Policy" | **typography**: `.small-blue` | *Second legal link*
-- **legal_2_href**: "https://yourpilla.com/legal/privacy-policy" | *Second legal URL*
+- **legal_2_href**: "/legal/privacy-policy" | *Second legal URL*
 - **legal_3_name**: "Right to Forget" | **typography**: `.small-blue` | *Third legal link*
-- **legal_3_href**: "https://yourpilla.com/legal/right-forgotten" | *Third legal URL*
+- **legal_3_href**: "/legal/right-forgotten" | *Third legal URL*
 
 ### Newsletter Section
 - **newsletter_title**: "Subscribe to our newsletter" | **typography**: `.h6` | *Newsletter section title*
