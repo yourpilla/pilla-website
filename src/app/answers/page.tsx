@@ -17,7 +17,7 @@ export default function AnswersPage() {
           {faqs.map((faq) => (
             <article key={faq.slug} className="flex max-w-xl flex-col items-start justify-between relative white-card p-6 rounded-lg">
               {faq.featured && (
-                <div className="absolute top-0 right-0 z-10">
+                <div className="absolute top-2 right-2 z-10">
                   <span className="small-blue green-card px-2 py-1">Featured</span>
                 </div>
               )}
