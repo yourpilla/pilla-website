@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Food should only be reheated once. After it has been cooked and cooled, if you reheat it, do not cool it and reheat it again. This is to ensure the food remains safe to eat and reduces the risk of food-borne illnesses.
 

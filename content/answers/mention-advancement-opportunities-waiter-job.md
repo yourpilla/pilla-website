@@ -123,6 +123,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a waiter or waitress, it's important to clearly mention any advancement opportunities. This shows potential candidates that there is a path for growth within your establishment. For example, you can state that your restaurant promotes growth through regular training, mentorship, and opportunities to advance to supervisory or management roles.
 

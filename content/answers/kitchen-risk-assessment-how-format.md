@@ -111,6 +111,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 When formatting your kitchen risk assessment, it's crucial to choose a layout that allows you to clearly identify hazards, who might be harmed, and the controls in place. The format should make it easy to update and refer to, ensuring that all necessary details are accessible and understandable.
 

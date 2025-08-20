@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Restaurant Manager, it's important to clearly mention any training opportunities. This shows potential candidates that you invest in their growth and development. Include specific training programs, workshops, or courses that the manager will have access to. This can make your job offer more attractive and help you attract candidates who are eager to learn and grow.
 

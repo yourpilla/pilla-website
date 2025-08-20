@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 In any food-related business, a food safety policy should include systems like cleaning schedules, pest control measures, and supplier checks. These systems help manage risks and ensure that the food served is safe to eat. Not having these systems in place can lead to health hazards and legal issues.
 

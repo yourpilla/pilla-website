@@ -135,6 +135,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 Encouraging a culture of pride in front-of-house (FOH) cleaning involves more than just telling staff to clean. It's about making them feel valued and showing them how their efforts contribute to the restaurant's success. When staff take pride in their work, they see cleaning not just as a task, but as an essential part of providing a great guest experience.
 

@@ -122,6 +122,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a bartender, it's important to clearly outline the expected shift patterns and scheduling details. This helps potential candidates understand what will be expected of them and decide if the job fits their availability. Mention typical working hours, any expectations for weekend or evening shifts, and the frequency of such shifts.
 

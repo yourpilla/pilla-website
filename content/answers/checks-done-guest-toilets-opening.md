@@ -130,6 +130,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Before your restaurant opens, it's important to ensure the toilets are clean, well-stocked, and fully functional. Start by cleaning and disinfecting all surfaces, including toilets, sinks, and countertops. Restock toilet paper, soap, and paper towels, and make sure all fixtures like taps and flushes are working. Lastly, check for any unpleasant odours or leaks, and ensure the space is well-ventilated.
 

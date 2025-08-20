@@ -113,6 +113,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 A Chef de Tournant, also known as a relief chef, is a versatile member of the kitchen brigade who steps in wherever needed across various stations. This role is important during peak times or when other chefs are absent. They must be skilled in multiple culinary areas, from grilling and sautéing to preparing desserts and cold dishes. Their ability to adapt quickly and efficiently ensures the kitchen maintains its performance under various circumstances.
 

@@ -121,6 +121,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hotel management and guest services
 ---
 In a hotel setting, a concierge needs to have specific personality traits that align with the service style and guest expectations. Traits like adaptability, resourcefulness, and excellent communication skills are crucial. These ensure that the concierge can handle diverse guest requests efficiently and maintain high standards of customer service.
 

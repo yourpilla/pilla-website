@@ -120,6 +120,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 Being very clear about the salary and benefits when hiring a Bar Manager is crucial. This transparency helps attract the right candidates and sets clear expectations from the start. It's important to list not only the salary range but also any additional perks such as bonuses, training opportunities, or staff discounts.
 

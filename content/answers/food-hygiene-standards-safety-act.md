@@ -120,6 +120,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Under the Food Safety Act 1990, food businesses in the UK must maintain high hygiene standards to ensure food safety. This includes preventing contamination, maintaining clean premises and equipment, and ensuring proper food handling and storage practices. These measures help protect consumers from foodborne illnesses and maintain public trust in the food industry.
 

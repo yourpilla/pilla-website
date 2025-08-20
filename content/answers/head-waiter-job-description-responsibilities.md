@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Pre-service responsibilities are key for a Head Waiter to ensure smooth operations once guests arrive. These include overseeing the setup of the dining area, confirming reservation details, and coordinating with the kitchen to review the menu and special requests. A Head Waiter also needs to ensure all staff are briefed and ready for service.
 

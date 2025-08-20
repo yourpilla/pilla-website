@@ -138,6 +138,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 A kitchen cleaning schedule is a plan that helps staff know when and how to clean different areas and equipment in the kitchen. This ensures that the kitchen remains safe, hygienic, and pleasant for both cooking and dining. Without a schedule, important tasks might be forgotten or done poorly.
 

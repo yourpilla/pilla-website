@@ -112,6 +112,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 The Entremétier, also known as the Vegetable Chef, plays a important role in a professional kitchen by focusing on vegetable dishes, soups, and egg-based recipes. This chef ensures that all vegetable sides and vegetarian dishes are prepared with care and expertise, contributing to the overall balance and nutritional value of the meal.
 

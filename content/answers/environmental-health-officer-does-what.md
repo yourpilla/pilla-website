@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Environmental Health Officers (EHOs) are vital for ensuring public health, especially in the hospitality sector. They check if businesses comply with food safety laws, and help maintain high standards. Their work includes inspecting premises, advising businesses, and enforcing regulations if necessary.
 

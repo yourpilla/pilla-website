@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Kitchen Porter, focus on traits like physical stamina and the ability to work well under pressure. It's important to highlight qualities that show a candidate's ability to handle the fast pace and physical demands of the kitchen, such as endurance, efficiency, and a proactive attitude.
 

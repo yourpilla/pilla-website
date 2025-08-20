@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When you're writing a job description for a Sous Chef, it's important to clearly describe your kitchen's environment. This includes the type of cuisine, the pace of work, and what makes your kitchen unique. For example, you might mention if your kitchen is known for a collaborative team atmosphere or if it focuses on culinary innovation.
 

@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 In any food business, a HACCP team plays a crucial role in ensuring food safety. This team is responsible for developing, implementing, and maintaining the HACCP system. They work together to identify potential food safety hazards and establish critical control points to prevent, eliminate, or reduce these hazards to safe levels.
 

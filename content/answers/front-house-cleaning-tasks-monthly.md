@@ -136,6 +136,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 Monthly cleaning tasks in a restaurant's front of house are crucial for maintaining a professional appearance and ensuring long-term cleanliness. These tasks include deep cleaning and maintenance activities that might not be necessary on a daily or weekly basis but are vital for overall upkeep.
 

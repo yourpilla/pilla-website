@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Getting your team involved in the front of house (FOH) risk assessment is crucial for identifying real-world risks and ensuring everyone understands their role in maintaining safety. Start by inviting team members to walk through the FOH area during different service times, encouraging them to share observations and experiences of potential hazards.
 

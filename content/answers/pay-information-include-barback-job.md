@@ -120,6 +120,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a Barback job description, it's important to be clear and specific about the pay. Include the pay rate or range, any additional benefits, and perks. For example, you might state, "Pay: £10.50–£11.50 per hour based on experience, plus tips." This transparency helps attract the right candidates and sets clear expectations.
 

@@ -125,6 +125,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 In any hospitality business, the owner, licensee, general manager, or event organiser usually takes on the role of the "Responsible Person" for Martyn's Law compliance. This person is in charge of ensuring that the venue meets its security duties under the law. For larger companies, this responsibility might be assigned to a senior manager or a designated compliance team.
 

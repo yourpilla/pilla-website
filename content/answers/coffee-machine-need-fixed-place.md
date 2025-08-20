@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Yes, securing a coffee machine in place is crucial for safety and stability. Commercial coffee machines, especially those used in busy environments, should be fixed on a stable and robust surface to prevent any movement that could lead to accidents or damage.
 

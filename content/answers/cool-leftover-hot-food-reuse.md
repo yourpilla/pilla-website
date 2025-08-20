@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 No, you should not cool leftover hot held food for reuse. Once food has been hot held and is left over at the end of service, it should be discarded. This is both for quality and safety reasons, as cooling and reheating can significantly increase the risk of bacterial growth.
 

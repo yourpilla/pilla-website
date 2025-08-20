@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Choosing the right equipment is key to managing risks in the front of house areas of hospitality settings. Equipment like sturdy trays, lighter glassware, slip-resistant shoes, and drop-proof POS stands can significantly reduce the likelihood of accidents and injuries.
 

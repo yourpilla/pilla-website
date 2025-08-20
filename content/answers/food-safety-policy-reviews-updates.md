@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Your food safety policy should clearly state how often it will be reviewed and the process for making updates. This ensures that your policy stays current with new regulations and reflects any changes in your operations. It's important to keep this policy up-to-date to maintain high standards of food safety and compliance with the law.
 

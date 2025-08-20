@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 Before your bar or service station opens, there are several important tasks to ensure everything runs smoothly. Start by wiping and sanitising the bar tops and drip trays. Make sure the ice well is clean and filled with fresh ice. Check that all garnishes are stocked and stored properly, and that the fridges are organised and clean. It's also crucial to ensure the glasswasher is clean, empty, and ready for use, and that all EPOS/till systems are logged in and functioning.
 

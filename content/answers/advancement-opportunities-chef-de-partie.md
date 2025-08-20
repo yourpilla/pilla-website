@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Chef de Partie, it's important to highlight clear career progression paths. This could include potential promotions to senior roles like Sous Chef or Head Chef, and opportunities for gaining additional responsibilities or leading a team. Mentioning these opportunities can attract ambitious candidates who are looking for a place to grow professionally.
 

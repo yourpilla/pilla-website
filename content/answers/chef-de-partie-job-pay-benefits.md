@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Chef de Partie, it's important to be clear and specific about the pay and benefits. Include the salary range or hourly rate, and mention any additional financial perks like tips or bonuses. Also, list non-monetary benefits such as meals during shifts, health benefits, or paid holidays. This transparency helps set clear expectations and attracts candidates who are a good fit for your team.
 

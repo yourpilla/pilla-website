@@ -124,6 +124,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 Before service starts, it's key to ensure the dining area is perfectly set up to welcome guests. This includes checking that all tables are clean, stable, and fully set with menus, cutlery, and napkins. Chairs should be clean and in good repair, and floors should be free from debris and freshly mopped or vacuumed. This sets the stage for a positive dining experience and shows attention to detail, which guests always appreciate.
 

@@ -125,6 +125,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Under Martyn's Law, venues must maintain specific documentation to show they're meeting legal requirements. This includes a written security plan, risk assessments, training records, and incident logs. For enhanced-tier venues, this documentation must be submitted to the Security Industry Authority (SIA) regulator.
 

@@ -124,6 +124,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Opening checks should be structured to match the natural workflow of your kitchen to ensure nothing is missed and everything is prepared for service. Start from the first point of contact, like the delivery area, and move through to where service begins. This method helps in catching potential issues early, ensuring a smooth start to the day.
 

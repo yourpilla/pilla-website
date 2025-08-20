@@ -120,6 +120,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Guest feedback is crucial when writing a job description for a Concierge. It helps you understand what guests value most in their interactions, which can guide the responsibilities and skills you highlight. For example, if guests frequently praise personalised service, you might emphasise skills like attention to detail and personal interaction in the job description.
 

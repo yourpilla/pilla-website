@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Language skills can be a big plus for a Hotel General Manager. Being able to speak more than one language helps in communicating with a diverse guest base and staff. For example, if your hotel often hosts international guests or is located in a multilingual area, languages like Spanish, French, or Mandarin can be very beneficial.
 

@@ -123,6 +123,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 The first step in creating effective opening and closing checklists for your kitchen is to perform a detailed walkthrough of the kitchen. This involves observing the kitchen as if you are seeing it for the first time, ideally at the start of the day before opening and after closing. This helps you identify what needs to be ready for the kitchen to operate smoothly and what needs cleaning or restocking at the end of the day.
 

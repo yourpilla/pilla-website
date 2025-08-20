@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing the venue style section of an Executive Chef job description, start by clearly stating the type of culinary establishment you run, such as a Michelin-starred restaurant, a bustling hotel kitchen, or a trendy catering company. Describe your culinary style, like contemporary British cuisine or classic French dishes with modern twists. Also, highlight what makes your kitchen unique or a great place to work, such as a commitment to sustainability, a collaborative atmosphere, or opportunities for professional growth.
 

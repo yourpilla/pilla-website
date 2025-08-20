@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 A Hygiene Improvement Notice is a legal notice served by an Environmental Health Officer (EHO) to a food business. It's used when a business isn't following food safety laws properly. The notice requires the business to make specific improvements to meet legal standards. It's a way to make sure that food businesses fix any problems that could harm the public's health.
 

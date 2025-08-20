@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 You'll know your freezer is overloaded if there isn't adequate space around the inside and back of the unit for air to circulate. For chest freezers, if you're stacking items above the load line, that's a clear sign of overloading. Another indicator is if you're having trouble closing the door or lid properly.
 

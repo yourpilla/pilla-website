@@ -123,6 +123,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 After a busy night, it's crucial for a Bar Supervisor to ensure everything is set for closing and ready for the next day. Responsibilities should include completing closing procedures, securing the premises, reviewing daily sales, reporting inventory discrepancies, and coordinating cleaning and restocking for the next day's operations.
 

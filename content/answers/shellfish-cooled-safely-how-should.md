@@ -104,6 +104,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 After a busy lunch service, cooling shellfish properly is key to keeping it safe and fresh. Shellfish should be cooled by placing it in a bath of potable ice and water. This method helps lower the temperature quickly and efficiently, reducing the risk of bacterial growth.
 

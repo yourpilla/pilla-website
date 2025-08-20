@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Cooking food to the correct temperature is important because it ensures that harmful bacteria are reduced to a safe level, making the food safe to eat. This process eliminates bacteria like Salmonella and E. coli, which can cause food poisoning and other serious health issues.
 

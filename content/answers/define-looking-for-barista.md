@@ -128,6 +128,8 @@ subtitle: >-
   Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
   [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
   directly](https://mailto:liam@yourpilla.com), he reads every email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 Before you start the hiring process, it's crucial to clearly define the skills and traits you need in a Barista. This helps you focus your interview questions and practical tests on what truly matters for your café. Start by listing all the qualities and skills you think a Barista should have, then categorise them into 'must-have' and 'nice-to-have'.
 

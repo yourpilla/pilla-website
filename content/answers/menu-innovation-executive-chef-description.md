@@ -120,6 +120,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Yes, including menu innovation in the job description of an Executive Chef is crucial. It highlights the need for creativity and the ability to refresh and develop new dishes that align with the restaurant's concept and customer preferences. This responsibility is a core part of the role, reflecting the chef's influence on the dining experience.
 

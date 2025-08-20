@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 After a busy night, a bartender has several important tasks to wrap up before closing. These include cleaning the bar area, securing all stock, and preparing for the next day. It's essential to ensure everything is ready for a smooth start the next service day.
 

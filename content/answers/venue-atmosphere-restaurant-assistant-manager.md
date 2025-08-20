@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly describe the atmosphere of your venue. Start by outlining the type of dining experience you offer, such as casual, fine dining, or fast-paced. Mention any specific elements like the design style or the music vibe that define your restaurant's atmosphere. This helps potential candidates understand the environment they might be working in.
 

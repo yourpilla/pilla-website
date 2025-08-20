@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 It's important to review your front of house risk assessment every 12 months. Regular reviews help ensure that any changes in the restaurant environment or operations are accounted for, keeping your staff and customers safe.
 

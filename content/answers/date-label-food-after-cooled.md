@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 After cooling food, it's important to label it with the date it was cooked and cooled. This helps you keep track of how long the food can safely be stored before it must be used or thrown away. Always write the date on the container or use a date label so everyone in the kitchen can see it clearly.
 

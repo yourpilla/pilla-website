@@ -111,6 +111,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 If your dishwasher breaks down during service, immediately stop using it to prevent any further issues. Switch to manual dishwashing and report the breakdown to a manager using the Pilla app. Make sure to follow the corrective actions listed to maintain hygiene and safety standards.
 

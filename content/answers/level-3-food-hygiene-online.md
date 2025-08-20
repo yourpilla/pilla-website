@@ -69,6 +69,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Level 3 food hygiene certificates can be completed in person or online although in-person is recommended, this is because the course content is complex and requires detailed explanations and one-to-one interaction with tutors. The in-person format allows you to ask questions and participate in discussions which is essential for understanding advanced food safety management principles.
 

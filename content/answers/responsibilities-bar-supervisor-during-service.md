@@ -120,6 +120,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 During service, a Bar Supervisor has several key responsibilities to ensure everything runs smoothly. They supervise bartenders to maintain service standards, manage staff rotations, handle customer complaints, ensure compliance with health and safety regulations, and oversee cash and payment handling procedures. These tasks are crucial for maintaining high-quality service and a good customer experience.
 

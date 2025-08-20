@@ -60,6 +60,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Food hygiene certificates must be renewed every 3 years for Level 1 and Level 2 staff. If a certificate expires, the staff member can continue handling food but you need to renew the training as soon as possible to prove the employee's understanding.
 

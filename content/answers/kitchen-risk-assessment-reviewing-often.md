@@ -103,6 +103,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 It's essential to review your kitchen risk assessment at least once every 12 months. This regular check helps ensure that any changes in operations or the environment that could impact safety are accounted for. If you use a system like Pilla, it can remind you automatically, making it easier to stay on top of this important task.
 

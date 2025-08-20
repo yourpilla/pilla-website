@@ -120,6 +120,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Starting a job description for a Hotel General Manager begins with understanding your hotel's unique characteristics and needs. First, outline the hotel's vibe, guest experience, and culture. Then, detail the core responsibilities, necessary skills, required experience, and desired personality traits. Finally, be clear about the salary and benefits. This structured approach helps attract the right candidates.
 

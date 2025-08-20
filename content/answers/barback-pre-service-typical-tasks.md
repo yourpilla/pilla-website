@@ -120,6 +120,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 Before a bar opens, Barbacks have a list of tasks to prepare for a smooth service. These tasks include restocking bar items like glassware, napkins, and garnishes, cutting fruit for drinks, filling ice bins, sanitising and organising bar stations, and conducting simple maintenance checks on equipment. These preparations are crucial for ensuring everything is ready and accessible for the bartenders during service.
 

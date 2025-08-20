@@ -119,6 +119,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Raw meat should always be stored on the lowest shelf of the fridge. This is crucial to prevent any drips from contaminating other foods stored below. Ideally, raw meat should be kept in a separate fridge from ready-to-eat foods, but if this isn't possible, keeping it on the bottom shelf is essential.
 

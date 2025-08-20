@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 To manage pre-service tasks effectively, it's important to have a clear checklist that your sommelier can follow. This should include tasks like verifying wine stock, preparing the wine station, and reviewing the day's menu for pairing suggestions. Having a structured approach ensures nothing is overlooked and the sommelier is fully prepared for service.
 

@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Describing team dynamics is key to attracting the right candidate who will fit well with your existing team. Mention how the team works together, supports each other, and the overall atmosphere. For example, you might say "Our team operates like a family, everyone supports each other to ensure a smooth service and an enjoyable work environment."
 

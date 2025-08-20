@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 A food safety policy statement is a written commitment by a hospitality business to maintain safe food handling, preparation, and storage practices. It outlines the responsibilities of both management and staff to ensure the health and safety of food served to customers. This statement is crucial for setting standards and procedures that comply with legal requirements and protect public health.
 

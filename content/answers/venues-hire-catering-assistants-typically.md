@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Catering Assistants are hired by a variety of venues that provide food services. These include corporate catering firms, wedding service providers, school lunch suppliers, and meal prep businesses. Each type of venue has different service styles and expectations, which influence the specific tasks and responsibilities of a Catering Assistant.
 

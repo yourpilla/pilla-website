@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Commis Chef, clearly list the technical skills needed. Start by reviewing the key responsibilities of the role and then decide which skills are essential for these tasks. For example, if the job involves a lot of food preparation, basic knife skills and food safety knowledge are crucial.
 

@@ -137,6 +137,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 Grouping cleaning tasks by how often they need to be done helps keep your kitchen safe and efficient. Break tasks into daily, weekly, monthly, and less frequent categories. This way, you can manage your time better and make sure nothing gets overlooked.
 

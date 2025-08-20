@@ -113,6 +113,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Local authorities play a crucial role in making sure that food businesses follow the Food Safety Act 1990. They conduct inspections focusing on food handling, storage, and preparation practices. If a business doesn't meet the standards, local authorities can take action to ensure public safety and compliance.
 

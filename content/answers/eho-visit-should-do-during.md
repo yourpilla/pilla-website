@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 During a visit, an Environmental Health Officer (EHO) should conduct a thorough inspection of your food business. They will check for compliance with food safety laws, focusing on areas like food handling, storage, and preparation. The EHO will also assess the cleanliness and structure of your premises, and the effectiveness of your food safety management system.
 

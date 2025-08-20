@@ -138,6 +138,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 When writing cleaning tasks, be specific and clear. Describe exactly what needs to be done, how it should be done, when it should be completed, and who is responsible. This clarity helps ensure that the tasks are completed correctly and efficiently.
 

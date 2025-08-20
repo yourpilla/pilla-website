@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Commis Chef, it's important to clearly mention the growth and development opportunities available. This not only attracts candidates who are eager to advance their careers but also sets clear expectations about the learning and progression possibilities within your kitchen. For example, you might include information about structured training programs, the chance to work with renowned chefs, or opportunities to participate in culinary competitions.
 

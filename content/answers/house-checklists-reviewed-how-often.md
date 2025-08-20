@@ -129,6 +129,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Front of house checklists should be reviewed at least once a month, or whenever there's a major change like a new menu, a change in staff roles, or updates in equipment. Regular reviews keep the checklists relevant and ensure they continue to meet the needs of your team and your service standards.
 

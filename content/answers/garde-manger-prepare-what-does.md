@@ -112,6 +112,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 The Garde Manger, also known as the Pantry Chef, is responsible for preparing cold dishes. These include hors d'oeuvres, salads, charcuterie boards, caviars, and pâtés. This role is important in a restaurant for managing and presenting cold menu items attractively and hygienically.
 

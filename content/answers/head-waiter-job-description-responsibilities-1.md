@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Post-service responsibilities are crucial for a Head Waiter as they ensure the restaurant resets and prepares for the next service period efficiently. These responsibilities should include overseeing the cleaning of the dining area, setting up for the next service, and checking the inventory for any shortages. It's also important for them to debrief the staff, noting any issues or successes during the service.
 

@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Bartender, it's crucial to be clear and specific. Avoid vague terms and ensure you outline the actual responsibilities and skills needed. This helps attract the right candidates who are a good fit for your bar's environment and service style.
 

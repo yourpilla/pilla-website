@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When defining pre-service responsibilities in a Waiter/Waitress job description, focus on tasks that need to be completed before the restaurant opens to guests. These include setting up the dining area, ensuring everything is clean and ready, and preparing any necessary materials or equipment. It's important to clearly outline these duties so potential candidates understand what will be expected of them each day before service begins.
 

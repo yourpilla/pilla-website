@@ -123,6 +123,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Including attractive incentives in a Concierge job description can make your offer stand out and draw in top talent. Consider offering perks like discounted dining or accommodation, paid time-off, gratuities, team bonding activities, mental wellness resources, and customizable work schedules. These benefits not only enhance the job appeal but also demonstrate your commitment to employee well-being.
 

@@ -120,6 +120,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Head Chef, it's important to list specific skills that are crucial for the role. These should include culinary expertise, leadership abilities, and operational management skills. Detail skills like menu planning, team management, food safety compliance, and budget handling. This helps potential candidates understand what is expected in your kitchen and assess if they are a good fit.
 

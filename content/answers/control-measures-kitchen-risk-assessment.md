@@ -112,6 +112,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 When conducting a kitchen risk assessment, it's crucial to include control measures that address the specific hazards identified. These measures should effectively reduce the risk of injury or harm. For example, if you identify 'slips and trips' as a hazard, your control measures might include ensuring non-slip mats are in place and that spills are cleaned up immediately.
 

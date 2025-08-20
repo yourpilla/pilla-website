@@ -67,6 +67,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Kitchen porters need a Level 1 food hygiene certificate. This provides them with basic food hygiene knowledge to contribute to a safe food environment. The certificate needs to be renewed every 3 years to stay current with hygiene standards.
 

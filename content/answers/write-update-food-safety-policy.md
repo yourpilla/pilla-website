@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Every business in the hospitality sector should have a written food safety policy from the start. This policy needs to be updated whenever there are significant changes in the business or in food safety legislation. It's crucial to keep this policy current to ensure compliance with laws and to maintain the safety of your food and customers.
 

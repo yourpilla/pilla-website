@@ -111,6 +111,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 When you're assessing risks in the kitchen, think about how likely it is that someone could get hurt and how serious the injury could be. This helps you decide which risks need the most attention and what actions you should take to prevent accidents.
 

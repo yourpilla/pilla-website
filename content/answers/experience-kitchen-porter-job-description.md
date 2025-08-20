@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Kitchen Porter, it's important to clearly state the type of experience you're looking for. Consider if the role requires specific skills like handling fast-paced environments or if it's more about general cleaning and maintenance tasks. For most kitchens, highlighting experience in similar environments can help attract candidates who are prepared for the job's demands.
 

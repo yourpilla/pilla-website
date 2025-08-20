@@ -120,6 +120,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 Bar Managers play a crucial role in setting the tone and overseeing the operations of a bar. Their leadership responsibilities include leading and motivating the team during service hours, overseeing staff scheduling to ensure proper coverage, and conducting regular team meetings to align, inform, and train staff. These tasks help maintain a smooth and efficient service, ensuring both staff and customer satisfaction.
 

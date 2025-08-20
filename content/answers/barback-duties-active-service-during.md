@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 During a busy service, barbacks play a crucial role in maintaining the flow and efficiency of the bar. Their responsibilities include fetching spirits and mixers for bartenders, changing kegs, restocking refrigerators, maintaining the cleanliness of the bar counter, and washing glassware. This ensures that bartenders can focus on serving customers without interruption.
 

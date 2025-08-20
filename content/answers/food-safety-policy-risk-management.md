@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 In a busy kitchen, managing risks is key to ensuring that all food served is safe. A food safety policy should clearly detail how risks are identified, assessed, and managed. It should explain the methods for spotting potential food hazards, how to evaluate the severity and likelihood of these hazards, and the actions to control or eliminate the risks.
 

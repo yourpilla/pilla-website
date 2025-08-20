@@ -117,6 +117,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 The key is to keep the freezer door closed as much as possible during a power outage. If the food still feels hard and is covered in ice, it's safe to transfer to another freezer unit. If food has started to soften and ice is melting, you'll need to move it to a fridge for controlled defrosting and use within 48 hours.
 

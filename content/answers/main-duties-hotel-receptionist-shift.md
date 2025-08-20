@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hotel management and guest services
 ---
 During a typical shift, a hotel receptionist manages a variety of tasks that ensure guests have a smooth and pleasant experience. These include welcoming guests, handling check-ins and check-outs, addressing guest queries, and maintaining the appearance and functionality of the reception area.
 

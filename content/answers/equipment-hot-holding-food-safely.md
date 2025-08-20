@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 To keep food safe and at the right temperature, it's important to use equipment designed specifically for hot holding. This includes items like bain-maries, hot holding cabinets, and soup kettles. These are designed to maintain temperatures above 63°C, which is crucial to prevent the growth of harmful bacteria.
 

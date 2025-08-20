@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Every day, it's important to carry out specific checks to ensure your coffee machine is safe and functioning properly. Start by inspecting the machine for any visible damage or leaks. Check that all controls and emergency stop functions are clearly marked and fully operational. Ensure the steam wand, water nozzles, and filters are clean and clear of obstructions. Finally, verify that the pressure gauge is within safe operating limits.
 

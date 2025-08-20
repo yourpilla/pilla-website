@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 If a food business doesn't follow the Food Safety Act 1990, it can face serious penalties. These can include closure of the business, heavy fines, or even prison time for the most severe cases. This is to make sure that everyone's health is protected by keeping all food safe and properly managed.
 

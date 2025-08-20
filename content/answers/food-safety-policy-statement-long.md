@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 A food safety policy statement should be long enough to cover all necessary aspects of food safety relevant to your business but concise enough to ensure it is readable and understandable. Typically, a comprehensive statement might be a few pages long, focusing on key safety practices, responsibilities, and compliance with regulations.
 

@@ -113,6 +113,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 The job of an Aboyeur, also known as an Expediter, is important in a busy kitchen. They act as the communication link between the kitchen staff and the front of the house. This role involves coordinating orders, ensuring that food is prepared in the right sequence, and that dishes are correctly plated and sent out to customers promptly.
 

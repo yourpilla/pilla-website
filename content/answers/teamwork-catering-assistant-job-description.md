@@ -120,6 +120,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 In your job description, it's important to highlight how teamwork is central to the role of a Catering Assistant. Describe scenarios where teamwork is essential, such as during event setups or when managing multiple tasks simultaneously. Make it clear that being a good team player will involve supporting colleagues, sharing responsibilities, and communicating effectively to ensure smooth operations.
 

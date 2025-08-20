@@ -137,6 +137,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 Every cleaning task in a hospitality setting should be recorded in a logbook or digital tracking system. This helps ensure that nothing is missed and standards are maintained. After logging, a manager or supervisor should follow up to check the quality of the cleaning.
 

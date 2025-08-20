@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 Preheating cooking equipment is crucial because it ensures that the cooking temperature is consistent from the moment you start cooking. This helps in cooking food evenly and achieving the desired culinary results. It also plays an important role in food safety, as it helps to quickly bring food up to a temperature that reduces harmful bacteria.
 

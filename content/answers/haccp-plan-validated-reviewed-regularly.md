@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Regular validation and review of a HACCP plan are essential to ensure that food safety measures remain effective and up to date. This process checks that the plan is scientifically and technically sound, and that it effectively controls identified hazards. It's like a regular health check-up for your food safety system, catching potential problems before they affect your customers.
 

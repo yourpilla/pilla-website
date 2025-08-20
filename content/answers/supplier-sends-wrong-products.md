@@ -119,6 +119,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 When suppliers substitute products, it's crucial that they clearly indicate these changes in writing - verbal notifications are not acceptable. Any product substitutions must be mutually agreed upon and communicated via email or written documentation. This is particularly important for allergen management, as your allergen files and matrix may need to be updated.
 

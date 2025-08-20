@@ -125,6 +125,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Preparing for Martyn's Law involves understanding the law's requirements and implementing necessary measures to ensure compliance. Start by assessing if your venue falls within the scope of the law, then develop or update your emergency procedures, conduct staff training, and ensure documentation is in place. It's crucial to begin these steps well before the law is enforced to ensure a smooth transition.
 

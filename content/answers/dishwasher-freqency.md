@@ -105,6 +105,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Dishwasher temperatures need to be checked and recorded twice daily, typically once in the morning and once in the afternoon. This ensures that the dishwasher operates at the correct temperatures required for sanitising dishes effectively, which are 55-60°C for the wash cycle and 82-88°C for the final rinse.
 

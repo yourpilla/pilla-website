@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Yes, cooling hot food quickly is crucial to prevent the growth of bacteria. Bacterial spores can start to germinate and multiply if the food remains warm for too long. This can lead to foodborne illnesses. Foods should be cooled to below 20°C within 90 minutes to ensure safety.
 

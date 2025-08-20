@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 No, you shouldn't put hot food directly into the fridge. Hot items can raise the temperature of the fridge, potentially affecting other stored foods and causing temperature fluctuations. This could put other foods at risk by raising them above the safe temperature of 8°C.
 

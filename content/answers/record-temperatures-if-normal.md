@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Yes, you absolutely need to record all fridge temperatures, even when they're within the normal range. It's a legal requirement to monitor and record fridge temperatures. These records create an essential paper trail that proves you're maintaining proper food safety standards. Using the Pilla app to record temperatures will automatically log who checked it and when.
 

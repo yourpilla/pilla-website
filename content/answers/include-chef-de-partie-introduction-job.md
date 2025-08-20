@@ -120,6 +120,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing the introduction for a Chef de Partie job description, include a brief overview of your restaurant, the type of cuisine you serve, and the working environment. This helps potential candidates quickly understand if they might be a good fit for your team. It's also useful to highlight unique aspects of your restaurant that could attract the right talent.
 

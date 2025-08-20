@@ -128,6 +128,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 For hospitality businesses, not complying with Martyn's Law can lead to serious legal and operational consequences. These include fines, enforcement notices, and even closure of the venue. It's crucial to understand and meet the requirements to avoid these penalties and ensure the safety of your guests and staff.
 

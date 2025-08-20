@@ -119,6 +119,8 @@ subtitle: >-
   Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
   [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
   directly](https://mailto:liam@yourpilla.com), he reads every email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a bartender, it's important to list skills that are directly related to the daily responsibilities of the role. Essential skills might include mixology proficiency, customer service excellence, and the ability to manage cash and inventory efficiently. These skills ensure that the bartender can handle the core aspects of their job effectively.
 

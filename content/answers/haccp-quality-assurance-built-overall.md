@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Integrating HACCP into your overall quality assurance means making it a core part of your daily operations. This approach ensures that food safety is not just a compliance activity but a driver for quality across all your food services. For example, when you're planning a new menu, consider how each dish can meet HACCP standards from the start.
 

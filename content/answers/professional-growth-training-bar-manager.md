@@ -121,6 +121,8 @@ subtitle: >-
   Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder,
   [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
   directly](mailto:liam@yourpilla.com), he reads every email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Bar Manager, it's important to clearly mention the training and professional growth opportunities available. This can attract candidates who are not only qualified but also looking for a place where they can grow. For example, you could include information about funded professional development courses or structured career growth paths within the company.
 

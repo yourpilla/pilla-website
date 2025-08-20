@@ -138,6 +138,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 In a busy restaurant, keeping on top of cleaning is crucial for safety and customer satisfaction. Weekly tasks might include deep cleaning the kitchen floors and sanitising the restrooms thoroughly. Monthly tasks often involve cleaning areas that don't get daily attention, like the tops of shelves and behind large appliances.
 

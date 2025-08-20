@@ -75,6 +75,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Level 4 food hygiene certification is required for senior management positions, specifically executive head chefs and members of the HACCP team who are responsible for the overall food safety compliance of the business.
 

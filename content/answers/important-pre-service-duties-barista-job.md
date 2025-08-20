@@ -110,6 +110,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Before the café opens, baristas have several key tasks to prepare for the day. These include setting up the coffee station, dialling in grinders and the espresso machine, and ensuring all supplies like milk, cups, and cleaning materials are fully stocked. It's also crucial to clean and sanitise work surfaces and equipment before service begins.
 

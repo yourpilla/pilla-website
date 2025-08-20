@@ -57,6 +57,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 A typical week for an Environmental Health Officer (EHO) is diverse and can change quickly. They might start the week inspecting restaurants, cafes, or food manufacturers, and end it dealing with complaints or administrative tasks. No two weeks are the same, which keeps the role interesting and challenging.
 

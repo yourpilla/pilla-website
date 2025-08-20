@@ -118,6 +118,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Hot food must be cooled to a temperature suitable for refrigeration within 90 minutes of cooking. This rapid cooling is crucial to prevent the growth of bacteria and ensure food safety. Using methods like spreading food out to increase surface area or using a blast chiller can help achieve this efficiently.
 

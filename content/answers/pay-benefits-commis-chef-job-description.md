@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Commis Chef, it's important to clearly outline the pay and any additional benefits. Include specific details like the salary range or hourly rate, and mention any extra perks such as health benefits, tips, or meal provisions. This helps set clear expectations and attracts candidates who are looking for what you offer.
 

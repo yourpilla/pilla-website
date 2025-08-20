@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Conducting a hazard analysis in HACCP means identifying potential food safety risks at each step of your food production and handling processes. This is the first and crucial step in creating a HACCP plan. It involves looking at each stage, from receiving ingredients to serving customers, and pinpointing where things might go wrong, like contamination or growth of bacteria.
 

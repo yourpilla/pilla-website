@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for an Executive Chef, it's important to clearly state the type and level of experience needed. Instead of just listing years, describe the specific environments or roles the candidate should have experience in, like leading a fine dining kitchen or managing large-scale catering operations.
 

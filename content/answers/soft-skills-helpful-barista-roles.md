@@ -106,6 +106,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Soft skills are just as important as technical skills in a barista role. They help create a positive customer experience and a productive work environment. Key soft skills include strong communication, patience, adaptability, and teamwork. These skills help baristas handle busy periods, interact effectively with customers, and work well with their team.
 

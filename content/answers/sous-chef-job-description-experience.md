@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Sous Chef, it's important to specify the type of experience that matches your restaurant's needs. This includes detailing the culinary environment they'll work in, such as high-volume service or fine dining, and the specific skills required, like advanced culinary techniques or leadership abilities.
 

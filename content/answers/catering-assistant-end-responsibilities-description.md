@@ -123,6 +123,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 At the end of a shift, a Catering Assistant should handle several key tasks to ensure everything is set for the next service. This includes cleaning and sanitising workspaces, breaking down service areas, and properly disposing of waste according to environmental guidelines or business policies. These responsibilities help maintain a clean and organised environment, crucial for efficient operation and food safety.
 

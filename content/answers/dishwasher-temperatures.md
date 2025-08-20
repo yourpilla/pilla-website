@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Hard water, which contains high levels of minerals like calcium and magnesium, can lead to the buildup of calcium carbonate in commercial dishwashers. This buildup can reduce the efficiency of the dishwasher by clogging spray arms and filters, and by forming a layer that absorbs detergents, which decreases cleaning effectiveness.
 

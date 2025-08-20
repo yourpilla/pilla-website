@@ -116,6 +116,8 @@ subtitle: >-
   Date modified: 1st April 2025 | This FAQ page has been written by Pilla
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality training and certification guidance
 ---
 Staff who use coffee machines in your business should receive comprehensive training to ensure they can operate the equipment safely and competently. This training should cover daily startup and shutdown procedures, safe operation of the steam wand, proper cleaning techniques, and fault reporting. Additionally, staff should be trained on emergency procedures and the use of personal protective equipment (PPE) when necessary.
 

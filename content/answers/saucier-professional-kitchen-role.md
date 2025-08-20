@@ -113,6 +113,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 In a bustling professional kitchen, a Saucier, or Sauce Chef, is responsible for one of the most important elements of meal preparation: creating sauces and gravies. These are not just any sauces, but ones that must perfectly complement and enhance the main dishes. The Saucier ensures that each sauce has the right balance, flavour, and texture to elevate the dining experience.
 

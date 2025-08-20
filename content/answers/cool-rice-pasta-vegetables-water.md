@@ -118,6 +118,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Yes, you can use running cold water to cool rice, pasta, and vegetables quickly. This method is effective because the constant flow of water removes heat from the food, speeding up the cooling process. It's crucial to ensure the water is potable and cold to prevent any food safety risks.
 

@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for an Executive Chef, it's important to include specific growth and development opportunities. This not only attracts ambitious candidates but also shows your commitment to their professional progress. Include opportunities like on-site training, external culinary courses, and pathways to higher leadership roles such as Culinary Director or Head of Research and Development.
 

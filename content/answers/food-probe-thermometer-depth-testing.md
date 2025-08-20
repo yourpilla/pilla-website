@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 When testing a probe thermometer in water, it should be submerged at least 2 inches deep. Make sure the probe isn't touching the sides or bottom of the pot as this can give false readings. The probe needs enough space to get an accurate reading of the water temperature.
 

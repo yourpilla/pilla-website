@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 To keep your hot holding equipment in top condition and ensure food safety, regular maintenance and cleaning are essential. After each use, turn off the unit, allow it to cool, and then clean it thoroughly to remove food particles and grease. Use a mild detergent and warm water for cleaning, and make sure to dry the unit completely to prevent rust and corrosion.
 

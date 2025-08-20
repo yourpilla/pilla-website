@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 The hot holding two-hour exemption allows food to be kept at temperatures below the usual minimum of 63°C for up to two hours. This is useful during events or service periods when maintaining a constant temperature is challenging. After two hours, you must either reheat the food to above 63°C, serve it immediately, or cool it down and store it safely.
 

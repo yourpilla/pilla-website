@@ -136,6 +136,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 When your front of house (FOH) looks clean but customers or staff start noticing issues, it might mean your cleaning schedule needs a check. Look for signs like tasks being skipped, complaints about cleanliness, or visible dirt on supposedly clean surfaces. These are red flags that your current system isn't keeping up.
 

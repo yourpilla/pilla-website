@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 At the end of a busy day, a Chef de Partie is responsible for ensuring the kitchen is prepped for the next service. This includes cleaning workstations, storing ingredients properly, and participating in temperature and sanitation checks. These tasks are crucial to maintain a high standard of hygiene and order in the kitchen.
 

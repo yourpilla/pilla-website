@@ -106,6 +106,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing about training opportunities in a barista job description, be clear about any training you provide, like on-the-job training, optional certifications, or mentorship programs. This shows candidates you're invested in their growth and helps attract those eager to develop their skills.
 

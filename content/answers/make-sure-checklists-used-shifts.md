@@ -123,6 +123,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Ensuring checklists are used during shifts is all about making them a seamless part of the daily routine. Assign clear responsibilities and integrate the checklist into the workflow so it becomes a natural and essential part of each shift. This helps maintain high standards and consistency, no matter how busy it gets.
 

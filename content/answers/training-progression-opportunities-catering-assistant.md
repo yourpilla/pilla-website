@@ -122,6 +122,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Catering Assistant, it's helpful to include specific training and progression opportunities. This not only attracts candidates but also sets clear expectations about growth within the company. For instance, you could mention on-site training sessions, opportunities for gaining certifications relevant to the catering industry, or clear paths to supervisory roles.
 

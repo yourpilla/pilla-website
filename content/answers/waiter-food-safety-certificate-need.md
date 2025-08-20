@@ -77,6 +77,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Yes, as a waiter you need a Level 1 food hygiene certificate, even if you're not directly handling food. This basic certification ensures everyone in the food service environment understands fundamental hygiene practices and contributes to overall food safety. Your certificate will need to be renewed every 3 years to stay current.
 

@@ -123,6 +123,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Using clear, direct language with strong action verbs makes checklists easier to follow. For example, instead of saying "Make sure the fridges are cold," it's better to say "Check all fridges are below 5°C and record temperatures." This tells exactly what to do, how to do it, and what the expected result should be.
 

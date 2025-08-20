@@ -106,6 +106,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 When creating a job description for a barista, it's essential to reflect the specific needs and style of your venue. Start by listing the daily tasks that are truly relevant to your setup. Think about your service style, customer interaction, and the pace of your venue. This ensures the responsibilities align with your actual operational needs.
 

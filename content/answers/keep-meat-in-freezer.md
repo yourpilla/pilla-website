@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 When freezing fresh meat, it's best to use it within one month. The meat needs to be properly wrapped and date labeled before freezing. For best results, make sure the meat is properly chilled (below 5°C) before placing it in the freezer - this helps the freezing process happen faster and maintains better quality.
 

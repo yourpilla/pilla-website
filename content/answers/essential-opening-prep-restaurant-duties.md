@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 At the start of the day, a Restaurant Duty Manager has key tasks to ensure everything runs smoothly. These include preparing dining areas, kitchens, and bars, and conducting staff briefings to set daily goals and communicate specials. This sets the stage for a successful service, ensuring all areas are ready and staff are informed and motivated.
 

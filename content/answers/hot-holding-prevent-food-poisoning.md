@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Hot holding is the process of keeping cooked food at a high temperature to ensure it remains safe to eat until it's served. This method is important because it prevents the growth of harmful bacteria that can cause food poisoning. By maintaining food at the correct temperature, hot holding ensures that the food stays not only warm but also safe for consumption over a period of time.
 

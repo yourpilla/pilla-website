@@ -115,6 +115,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 You need to ensure there's adequate space around all sides of items in your fridge, particularly at the back and sides of the unit. This allows cold air to flow freely throughout the fridge, preventing hot spots and maintaining consistent temperatures. Never stack items right against the walls of the fridge. Overcrowding can lead to temperature fluctuations which increases the risk of bacterial growth in your food items.
 

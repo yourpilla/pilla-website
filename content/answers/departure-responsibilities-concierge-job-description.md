@@ -122,6 +122,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When guests are ready to leave, the concierge plays a key role in ensuring their departure is smooth and memorable. Include responsibilities like managing efficient check-outs, handling any last-minute guest inquiries, and updating guest preferences in your records for future visits. This helps maintain a high standard of service and encourages guests to return.
 

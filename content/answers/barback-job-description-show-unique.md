@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 To make your bar stand out in a job description, start by clearly describing the type of venue, the service style, and what makes your bar special. For example, mention if your bar is a "bustling urban lounge" or a "classic cocktail bar," and highlight unique aspects like sourcing local spirits or commitment to zero waste.
 

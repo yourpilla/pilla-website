@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Keeping accurate records is a key part of any HACCP plan. These records help prove that your food safety processes are effective and that you're complying with safety standards. You'll need to document everything from your hazard analysis to the monitoring of critical control points and any corrective actions taken.
 

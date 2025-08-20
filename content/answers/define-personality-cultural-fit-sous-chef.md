@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Sous Chef, it's key to describe the personality traits and cultural fit that will mesh well with your kitchen's environment. Think about the qualities that make your current team successful and the atmosphere in your kitchen. Is it fast-paced and innovative, or more detail-oriented and traditional? Specify these traits to attract candidates who will thrive in your setting.
 

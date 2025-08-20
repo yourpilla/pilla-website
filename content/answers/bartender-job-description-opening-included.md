@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 The opening of a Bartender job description should set the stage for what it's like to work at your venue. It should include a brief introduction to your bar's atmosphere, the type of service you offer, and what makes your place unique. This helps potential candidates quickly understand if they might be a good fit for your team.
 

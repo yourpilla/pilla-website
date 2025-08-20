@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Hotel General Manager, it's important to clearly specify the type and amount of experience required. Focus on practical exposure rather than just years in the industry. For example, if the role is for a luxury hotel, you might require experience in managing high-end services and guest relations.
 

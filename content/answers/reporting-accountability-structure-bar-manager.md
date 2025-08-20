@@ -123,6 +123,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Bar Manager, it's important to clearly outline who they will report to and how they are accountable within the bar's structure. This helps set clear expectations and supports effective management. Typically, a Bar Manager reports to the owner or the general manager of the establishment.
 

@@ -69,6 +69,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Your existing food hygiene certificate is valid as long as it's the correct level for your role and hasn't expired. Food hygiene certificates need to be renewed every 3 years for Level 1 and Level 2. If you're moving into a supervisory role, you'll need Level 3, even if your Level 2 is still valid.
 

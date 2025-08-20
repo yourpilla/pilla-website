@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly mention any training opportunities available. This could include on-the-job training, access to courses or workshops, and any support for gaining additional qualifications. Highlighting these opportunities shows your commitment to staff development and can attract candidates who are eager to learn and grow.
 

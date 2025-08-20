@@ -124,6 +124,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Critical limits are specific thresholds that must be met to ensure food safety during production. These limits are set based on scientific research and are expressed as numerical values, such as temperatures or time limits. For example, cooking poultry to a minimum internal temperature is a critical limit that prevents harmful bacteria from surviving.
 

@@ -120,6 +120,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When hiring a Head Waiter, look for someone who is calm under pressure, has excellent guest communication skills, and can lead a team effectively. These traits ensure they can manage the dining floor smoothly and handle any service issues that arise.
 

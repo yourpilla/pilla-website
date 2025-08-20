@@ -112,6 +112,8 @@ subtitle: >-
   Date modified: 1st April 2025 | This FAQ page has been written by Pilla
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 The Food Safety Act 1990 is a key law in the UK that sets the standards for food safety. It helps ensure that all food sold and consumed is safe, not harmful, and is what it says it is. This Act makes it illegal to sell or process food that could harm people's health. It covers everything from how food is labeled to how it's stored and handled.
 

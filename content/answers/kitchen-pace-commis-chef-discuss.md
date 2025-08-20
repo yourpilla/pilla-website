@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Commis Chef, it's important to clearly describe the pace of your kitchen. This helps potential candidates understand what will be expected of them. For example, you might describe your kitchen as "fast-paced with a high volume of orders" or "a more deliberate pace focusing on intricate dish preparation." This clarity helps set the right expectations and attracts candidates who can thrive in your environment.
 

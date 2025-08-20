@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Head Waiter, it's important to clearly describe the atmosphere of your venue. Include details about the dining environment, whether it's formal, casual, or family-friendly, and the type of dining experience you offer, such as intimate, bustling, or themed. This helps candidates understand the setting they will be working in and the guest expectations they need to meet.
 

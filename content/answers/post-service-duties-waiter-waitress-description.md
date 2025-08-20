@@ -123,6 +123,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 After a busy shift, it's crucial for waitstaff to handle post-service duties to ensure the restaurant is ready for the next service. Include tasks like clearing and resetting tables, conducting daily maintenance of service areas, completing end-of-day side work, and handling cash-out procedures if necessary. These responsibilities help maintain the restaurant's cleanliness and order, preparing it for the next day or shift.
 

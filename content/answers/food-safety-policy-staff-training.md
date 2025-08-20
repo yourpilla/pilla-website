@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Your food safety policy should clearly state that all staff members receive thorough training on food safety practices. This includes initial training for new employees and ongoing training for all staff to ensure everyone is up-to-date with the latest food safety standards and practices. The policy should outline the responsibility of management to provide this training and ensure compliance.
 

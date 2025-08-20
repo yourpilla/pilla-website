@@ -122,6 +122,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Describing the work environment clearly in a job description helps potential candidates understand what to expect and decide if they would be a good fit. For example, knowing whether they will be working in a fast-paced, high-volume restaurant or a more relaxed, fine dining setting can influence someone's decision to apply. This clarity helps attract candidates who are more likely to enjoy and excel in the specific setting of your restaurant.
 

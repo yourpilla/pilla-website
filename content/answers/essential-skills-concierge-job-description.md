@@ -123,6 +123,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When creating a job description for a concierge, it's important to think about the specific skills that match your venue's style and guest expectations. Start by listing skills that are crucial for daily tasks such as guest interaction, problem-solving, and coordination with other staff. For example, strong communication skills, problem-solving abilities, and proficiency with technology are often essential.
 

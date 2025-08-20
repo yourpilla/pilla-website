@@ -113,6 +113,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 The Head Chef, also known as the Chef de Cuisine, is primarily responsible for overseeing the kitchen staff, setting the menu, and ensuring each dish meets high standards. They manage the kitchen’s budget, order food supplies, and liaise with suppliers. Their role blends culinary skills with leadership and business management to keep the restaurant competitive and efficient.
 

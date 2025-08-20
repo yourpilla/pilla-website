@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 There are several signs to look out for when checking if frozen food has gone bad. Look for grayish-brown leathery spots, which indicate freezer burn. While freezer burn doesn't make food unsafe, it can significantly affect quality. If there's slight freezer burn, you can cut away these areas before or after cooking. However, if the food is heavily freezer burnt, it's best to discard it.
 

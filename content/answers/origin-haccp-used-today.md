@@ -115,6 +115,8 @@ breadcrumb_schema: |
     ]
   }
 subtitle: Professional guidance and industry best practices
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 
 The required section referencing and linking to templates and internal guides at yourpilla.com has been successfully removed from the FAQ page HTML. If you have any more modifications or another task, feel free to let me know!

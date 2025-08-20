@@ -123,6 +123,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Catering Assistant, it's key to include responsibilities that cover the full scope of their role. Typically, this includes preparation duties before events, active participation during service, and clean-up tasks afterwards. For example, they might set up food stations, assist in food preparation, serve guests, and clean up the venue post-event.
 

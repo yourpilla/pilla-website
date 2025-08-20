@@ -117,6 +117,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 If the temperature of hot held food falls below 63°C, it's important to act quickly. You should either reheat the food to at least 75°C and then return it to hot holding, or cool it down quickly to store in the fridge if it cannot be reheated immediately.
 

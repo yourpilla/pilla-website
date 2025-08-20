@@ -135,6 +135,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 When writing FOH cleaning tasks, it's key to be specific and clear so every team member knows exactly what to do. Use actionable language that leaves no room for interpretation. For example, instead of saying "Clean the bar," specify "Wipe down the bar surface and stools with disinfectant after each shift."
 

@@ -120,6 +120,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Bar Supervisor, it's vital to convey the team culture clearly. This helps potential candidates understand the work environment and assess if they would be a good fit. Mention aspects like whether your team operates in a high-energy atmosphere, values close collaboration, or prioritizes excellent customer service. For example, you might say, "Our team thrives on energy and enthusiasm, ensuring every guest feels welcome."
 

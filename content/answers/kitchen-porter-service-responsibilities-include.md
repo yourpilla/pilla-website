@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing the service responsibilities for a Kitchen Porter, include essential tasks such as maintaining cleanliness, dishwashing, and basic food preparation support. It's important to clearly outline these duties to set clear expectations and help in finding candidates who are prepared for the role. Not being specific can lead to confusion and inefficiency.
 

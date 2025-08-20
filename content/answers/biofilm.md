@@ -112,6 +112,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Biofilm in commercial dishwashers is a problem because it forms a protective layer that harbours harmful bacteria. This can lead to contamination of dishes and utensils, posing a risk to food safety. Biofilm is resistant to regular cleaning chemicals, making it difficult to remove once established.
 

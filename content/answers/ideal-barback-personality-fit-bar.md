@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 Describing the ideal Barback personality starts by understanding your bar's atmosphere and the dynamics of your existing team. Focus on traits that align with your bar's pace and service style. For instance, if your bar is fast-paced, look for someone who remains calm under pressure, can prioritize tasks quickly, and enjoys a lively team environment.
 

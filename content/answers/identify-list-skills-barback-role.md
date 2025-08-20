@@ -120,6 +120,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When you're setting up a job description for a Barback, it's crucial to think about the specific tasks they'll be doing. Start by reviewing the daily responsibilities and then think about what skills are needed to perform these tasks well. For example, if the Barback needs to quickly restock items during busy periods, they'll need good organisational and time management skills.
 

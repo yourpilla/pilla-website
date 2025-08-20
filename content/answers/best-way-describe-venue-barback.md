@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Start by clearly defining the type of venue you operate, such as a bustling urban lounge, a classic cocktail bar, or a casual seaside pub. Highlight the unique aspects of your venue that make it special, like your commitment to zero waste, your support for local distilleries, or your team's collaborative spirit. This helps potential applicants understand the setting they'll be working in and align their expectations with your bar's ethos.
 

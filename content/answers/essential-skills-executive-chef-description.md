@@ -58,6 +58,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for an Executive Chef, it's important to list skills that are crucial for the daily operations and success of your kitchen. Essential skills often include advanced culinary techniques, leadership and team management, kitchen workflow and operational efficiency, as well as budget and stock management. These skills ensure the chef can handle both the creative and administrative aspects of the kitchen.
 

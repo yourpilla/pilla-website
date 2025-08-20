@@ -117,6 +117,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Isolating your coffee machine from power and water is crucial for safety during maintenance or in case of an emergency. Ensure that all staff know where the isolation points are and how to operate them. This involves turning off the machine at the main power switch and closing the water supply valve, typically located under the counter or near the machine.
 

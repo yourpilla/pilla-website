@@ -135,6 +135,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 When setting up a cleaning schedule for your restaurant's front of house (FOH), focus on areas that guests will notice immediately or that could pose hygiene risks. Start by identifying what guests see first and what they touch. Tasks like wiping down tables and sanitising door handles should be top priority because they impact guest experience and safety directly.
 

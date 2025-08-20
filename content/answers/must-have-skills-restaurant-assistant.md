@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When hiring a Restaurant Assistant Manager, it's important to look for candidates who have specific skills that are essential from day one. These skills include strong organisational abilities, effective verbal and written communication, leadership and team development skills, knowledge of restaurant management software, solid understanding of financial management, conflict resolution, guest complaints management, and adherence to health and safety regulations.
 

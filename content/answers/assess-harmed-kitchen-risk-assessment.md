@@ -112,6 +112,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 When conducting a kitchen risk assessment, it's crucial to identify not just the hazards, but also who could be harmed by them. This involves thinking about all the different types of people who interact with your kitchen, from staff to occasional visitors, and how they might be affected by the specific hazards present.
 

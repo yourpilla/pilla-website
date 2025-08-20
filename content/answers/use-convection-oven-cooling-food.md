@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Using a convection oven for cooling can be a quick way to bring down the temperature of food. Some convection ovens have a specific setting to remove heat and steam, allowing you to set a temperature as low as 30°C. This method can cool food rapidly within 5-10 minutes to this temperature, but remember to further cool the food to below 20°C quickly, ideally within 90 minutes total.
 

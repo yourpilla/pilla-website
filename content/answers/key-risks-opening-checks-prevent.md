@@ -124,6 +124,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 Opening checks in a kitchen are designed to prevent several key risks that can compromise food safety and kitchen efficiency. These include the use of unsafe food, cross-contamination, equipment failure, and staff illness spreading to food. By conducting thorough opening checks, you ensure that the kitchen is clean, stocked, and fully operational, which helps in avoiding these risks and starting the service on a strong note.
 

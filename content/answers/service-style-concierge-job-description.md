@@ -121,6 +121,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Concierge, start by clearly describing the service style of your hotel. This helps potential hires understand the type of customer interaction and environment they'll be working in. For example, mention if your hotel offers a luxury, personalised service or a fast-paced, high-volume guest interaction. This sets clear expectations and attracts candidates who are a good fit for your service style.
 

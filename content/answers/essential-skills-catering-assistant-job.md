@@ -122,6 +122,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When you're putting together a job description for a Catering Assistant, it's crucial to list the skills that are necessary for success in your specific catering environment. Essential skills often include basic food preparation, effective time management, strong customer service abilities, and a focus on hygiene and safety standards.
 

@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for an Executive Chef, it's important to include personality traits that match your kitchen's culture and operational style. Traits like resilience, leadership, creativity, and the ability to work under pressure are often crucial. These qualities help ensure the chef can handle the demands of the role and fit well with the existing team.
 

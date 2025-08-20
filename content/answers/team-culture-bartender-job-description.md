@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Describing your team culture in a job description helps potential bartenders understand the work environment and decide if they would be a good fit. Start by reflecting on what makes your team unique. Is it the lively, fast-paced atmosphere or a more relaxed, detail-oriented approach? Mention how the team collaborates, handles busy periods, and any shared values or goals.
 

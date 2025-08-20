@@ -121,6 +121,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Bar Manager, it's essential to showcase your bar's team culture to attract candidates who will fit in well. Start by describing the atmosphere, the team's working style, and what makes your bar a unique place to work. Mention specific cultural elements like teamwork, creativity, or customer interaction that are valued at your bar.
 

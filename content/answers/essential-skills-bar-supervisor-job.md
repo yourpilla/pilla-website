@@ -121,6 +121,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Bar Supervisor, it's important to include skills that directly relate to the daily operations and challenges of the role. Essential skills often include leadership and team management, inventory control, customer service, and conflict resolution. These skills ensure the supervisor can manage the bar effectively, maintain service standards, and handle any issues that arise.
 

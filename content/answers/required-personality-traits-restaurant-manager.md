@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Restaurant Duty Manager, it's important to clearly outline the personality traits that will best fit the role and your restaurant's environment. Start by thinking about the daily challenges and the team dynamics. For example, if your restaurant is fast-paced, you might look for someone who is adaptable and thrives under pressure.
 

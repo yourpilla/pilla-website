@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 Alongside the Food Safety Act 1990, several other laws help ensure food safety in the UK. These include the General Food Law Regulation (EC) No 178/2002 and the Food Safety and Hygiene (England) Regulations 2013. These laws complement the Food Safety Act by setting additional standards and requirements for food businesses to maintain high levels of food safety and hygiene.
 

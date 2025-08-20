@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Head Waiter, it's important to highlight opportunities for growth to attract ambitious candidates. Mention clear paths for advancement within the restaurant, such as potential promotions to higher management roles like Restaurant Manager or Maître d'. Also, include opportunities for professional development through training programmes and the chance to lead projects or special events.
 

@@ -111,6 +111,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 When your kitchen undergoes any changes, it's essential to update your risk assessment to reflect these new conditions. Start by reviewing the existing document and noting any new hazards introduced by the changes. Adjust the risk levels and control measures accordingly. It’s a good practice to involve your team in this process, as they might provide insights into potential risks and effective precautions.
 

@@ -126,6 +126,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 For large venues that can host 800 or more people at once, Martyn's Law imposes additional security requirements. These venues must not only meet the Standard Tier duties but also take further steps to reduce their vulnerability to terrorist attacks. This includes implementing specific security measures tailored to the risks identified in a thorough risk assessment.
 

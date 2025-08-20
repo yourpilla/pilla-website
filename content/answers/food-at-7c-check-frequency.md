@@ -104,6 +104,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 When food temperature is between 6-8°C, you need to monitor it hourly to ensure it doesn't exceed 8°C. This is because 8°C is the critical limit - if food goes above this temperature, you'll need to take immediate corrective action.
 

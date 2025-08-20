@@ -139,6 +139,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 Updating your cleaning schedule is key to maintaining high standards in your hospitality business. Start by reviewing the current effectiveness and gather feedback from your team. Look for patterns in missed tasks and areas that need more attention, then adjust the schedule accordingly to cover all necessary aspects of cleanliness.
 

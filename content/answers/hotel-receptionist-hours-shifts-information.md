@@ -123,6 +123,8 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a
   demo](https://calendly.com/pilla/demo) to see how hospitality businesses use
   Pilla to create and record job descriptions.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Hotel Receptionist, it's important to clearly state the hours and shifts they will be expected to work. This helps potential candidates understand their work schedule and assess if it fits their personal commitments. Include details about the shift patterns (morning, afternoon, night), the expected number of hours per week, and any requirements for weekends or holidays.
 

@@ -118,6 +118,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Bar service and hospitality operations
 ---
 It's important to service your commercial coffee machine regularly to keep it running smoothly and safely. The frequency of servicing should follow the manufacturer's recommendations, which is typically every 3 to 6 months depending on usage. Regular servicing helps prevent issues like leaks, pressure problems, and electrical faults.
 

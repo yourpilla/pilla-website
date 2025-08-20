@@ -121,6 +121,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 Yes, including long-term professional growth opportunities in a Sous Chef job description is very important. It not only attracts candidates who are looking for a place to develop their skills but also shows that your kitchen values progression and personal development. This can help you attract ambitious chefs who are eager to advance their careers.
 

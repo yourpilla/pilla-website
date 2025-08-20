@@ -138,6 +138,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality cleaning and maintenance procedures
 ---
 Identifying what needs cleaning in your kitchen starts with a thorough inspection. Look at all surfaces, equipment, and hard-to-reach areas. Check for any visible dirt, grease, or food particles. Remember, a clean kitchen is crucial for food safety and helps create a pleasant working environment.
 

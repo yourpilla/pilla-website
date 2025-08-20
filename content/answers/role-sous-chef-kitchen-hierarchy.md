@@ -112,6 +112,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional kitchen and culinary operations
 ---
 In a busy restaurant kitchen, the Sous Chef plays an important role as the second-in-command. They assist the Head Chef in various aspects of kitchen management, including menu planning, inventory control, and staff supervision. The Sous Chef helps ensure that every dish served meets the high standards of the restaurant.
 

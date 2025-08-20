@@ -119,6 +119,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Food safety and hygiene in hospitality settings
 ---
 If reheated food fails to reach the required safe temperature, it's important to take immediate corrective actions to prevent food-borne illness. Continue cooking the food until it reaches a minimum temperature of 75°C in England, Wales, and Northern Ireland, and 82°C in Scotland. If the equipment is faulty, use alternative equipment or divide the food into smaller portions to speed up the reheating process. Always ensure that the equipment is functioning properly, and if not, it may need to be repaired or replaced. Additionally, increase staff training and supervision to prevent future occurrences.
 

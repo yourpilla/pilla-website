@@ -113,6 +113,8 @@ subtitle: >-
   [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every
   email. Or [book a demo](https://calendly.com/pilla/demo) to see how
   hospitality businesses use Pilla to manage food safety.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Hospitality industry guidance and best practices
 ---
 You should inform your head chef if you notice any issues with your probe thermometer. They will need to verify the problem by rechecking the probe's accuracy. If they confirm the probe is faulty, they'll ensure it's taken out of service and arrange for a replacement probe to be made available.
 

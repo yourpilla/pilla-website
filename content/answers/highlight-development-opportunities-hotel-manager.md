@@ -122,6 +122,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
+sidebar_image_alt: Professional hospitality job roles and responsibilities
 ---
 When writing a job description for a Hotel General Manager, it's important to clearly outline the development opportunities available. This includes mentioning any leadership programs, chances for promotion, or skills training that are part of working at your hotel. Highlighting these opportunities can make the role more attractive to ambitious candidates who are looking for growth in their careers.
 
