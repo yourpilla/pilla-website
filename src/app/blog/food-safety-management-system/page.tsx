@@ -41,19 +41,6 @@ export default function FoodSafetyManagementSystemPage() {
                 </h3>
                 <p className="mt-5 line-clamp-3 text-sm/6 text-muted">{post.meta || post.content.slice(0, 160)}</p>
               </div>
-              <div className="relative mt-8 flex items-center gap-x-4 justify-self-end">
-                <div className="size-10 rounded-full bg-blue-600 flex items-center justify-center">
-                  <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
-                  </svg>
-                </div>
-                <div className="text-sm/6">
-                  <p className="font-semibold text-gray-900">
-                    Pilla Team
-                  </p>
-                  <p className="text-muted">Food Safety Expert</p>
-                </div>
-              </div>
             </article>
           ))}
         </div>

@@ -35,19 +35,6 @@ export default function AnswersPage() {
                 </h3>
                 <p className="mt-5 line-clamp-3 text-sm/6 text-muted">{faq.meta || faq.content.slice(0, 160)}</p>
               </div>
-              <div className="relative mt-8 flex items-center gap-x-4 justify-self-end">
-                <div className="size-10 rounded-full bg-blue-600 flex items-center justify-center">
-                  <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V21C3 22.11 3.89 23 5 23H19C20.11 23 21 22.11 21 21V9M19 9H14V4H19V9Z"/>
-                  </svg>
-                </div>
-                <div className="text-sm/6">
-                  <p className="font-semibold text-gray-900">
-                    Pilla Team
-                  </p>
-                  <p className="text-muted">Hospitality Expert</p>
-                </div>
-              </div>
             </article>
           ))}
         </div>
