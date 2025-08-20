@@ -1,19 +1,24 @@
 ---
-title: "What is the best way to define the responsibilities in a Bar Manager job description?"
-meta: |
-  Discover how to craft a precise Bar Manager job description, focusing on clear responsibilities and tailoring it to your venue's specific needs to attract suitable candidates.
-slug: "best-way-define-responsibilities-bar-manager"
-unique id: "1748626151253x779192196900537700"
+title: >-
+  What is the best way to define the responsibilities in a Bar Manager job
+  description?
+meta: >
+  Discover how to craft a precise Bar Manager job description, focusing on clear
+  responsibilities and tailoring it to your venue's specific needs to attract
+  suitable candidates.
+slug: best-way-define-responsibilities-bar-manager
+unique id: 1748626151253x779192196900537700
 featured: false
-breadcrumb short: "Responsibilities"
-pillar text: "Job Descriptions"
+breadcrumb short: Responsibilities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Manager Job Descriptions"
+subpage text: Bar Manager Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bar-manager-duties
-blog: |
-  How to write a bar manager job description: bar manager job description template included.
+blog: >
+  How to write a bar manager job description: bar manager job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

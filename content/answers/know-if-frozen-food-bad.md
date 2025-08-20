@@ -1,18 +1,20 @@
 ---
-title: "How do I know if frozen food has gone bad?"
-meta: |
-  Learn how to spot signs of spoilage in frozen food, such as freezer burn, and what to do if food starts to defrost. Discover best practices for storing and labelling frozen items.
-slug: "know-if-frozen-food-bad"
-unique id: "1733824585510x742075809892704000"
+title: How do I know if frozen food has gone bad?
+meta: >
+  Learn how to spot signs of spoilage in frozen food, such as freezer burn, and
+  what to do if food starts to defrost. Discover best practices for storing and
+  labelling frozen items.
+slug: know-if-frozen-food-bad
+unique id: 1733824585510x742075809892704000
 featured: false
-breadcrumb short: "Gone Bad"
-pillar text: "Food Safety System"
+breadcrumb short: Gone Bad
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Identification methods and quality indicators
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

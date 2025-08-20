@@ -1,18 +1,19 @@
 ---
-title: "What should I do if I find the fridge temperature is over 8°C?"
-meta: |
-  Learn what to do if your fridge temperature rises above 8C, including checking food temperature, moving food, and discarding unsafe items.
-slug: "fridge-temperature-over-8c"
-unique id: "1732637342148x234387460589972960"
+title: What should I do if I find the fridge temperature is over 8°C?
+meta: >
+  Learn what to do if your fridge temperature rises above 8C, including checking
+  food temperature, moving food, and discarding unsafe items.
+slug: fridge-temperature-over-8c
+unique id: 1732637342148x234387460589972960
 featured: false
-breadcrumb short: "Fridge Over 8°C"
-pillar text: "Food Safety System"
+breadcrumb short: Fridge Over 8°C
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Fridge Temperatures"
+subpage text: Fridge Temperatures
 subpage link: |
   https://yourpilla.com/blog/fridge-temperature-checks
-blog: "How to Set Up Fridge Temperature Checks"
+blog: How to Set Up Fridge Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

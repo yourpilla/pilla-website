@@ -1,19 +1,22 @@
 ---
-title: "What essential skills should I include in a Bar Supervisor job description?"
-meta: |
-  Discover essential skills for a Bar Supervisor, including leadership, inventory control, and regulatory compliance, to enhance job descriptions effectively.
-slug: "essential-skills-bar-supervisor-job"
-unique id: "1748855872930x219225351958298620"
+title: What essential skills should I include in a Bar Supervisor job description?
+meta: >
+  Discover essential skills for a Bar Supervisor, including leadership,
+  inventory control, and regulatory compliance, to enhance job descriptions
+  effectively.
+slug: essential-skills-bar-supervisor-job
+unique id: 1748855872930x219225351958298620
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Supervisor Job Description"
+subpage text: Bar Supervisor Job Description
 subpage link: |
   https://yourpilla.com/blog/bar-supervisor-duties
-blog: |
-  How to write a bar supervisor job description: bar supervisor job description template included.
+blog: >
+  How to write a bar supervisor job description: bar supervisor job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Essential competencies and qualifications for effective performance
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

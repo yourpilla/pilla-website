@@ -1,15 +1,16 @@
 ---
-title: "What is the role of the Entremétier?"
-meta: |
-  Explore the multifaceted role of the Entremétier, or Vegetable Chef, in professional kitchens, focusing on vegetables, soups, and egg dishes.
-slug: "role-entremetier-what-isthe"
-unique id: "1745420497013x674399499604641000"
+title: What is the role of the Entremétier?
+meta: >
+  Explore the multifaceted role of the Entremétier, or Vegetable Chef, in
+  professional kitchens, focusing on vegetables, soups, and egg dishes.
+slug: role-entremetier-what-isthe
+unique id: 1745420497013x674399499604641000
 featured: false
-breadcrumb short: "Entremétier (Vegetable Chef)"
-pillar text: "Job Descriptions"
+breadcrumb short: Entremétier (Vegetable Chef)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

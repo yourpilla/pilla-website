@@ -1,18 +1,20 @@
 ---
-title: "What are the signs that your FOH cleaning schedule isn’t working?"
-meta: |
-  Discover the signs your front of house cleaning schedule might be failing, including unnoticed dirt and unvoiced customer complaints, and learn effective corrective actions.
-slug: "signs-foh-cleaning-schedule-working"
-unique id: "1746627231148x203527217666757950"
+title: What are the signs that your FOH cleaning schedule isn’t working?
+meta: >
+  Discover the signs your front of house cleaning schedule might be failing,
+  including unnoticed dirt and unvoiced customer complaints, and learn effective
+  corrective actions.
+slug: signs-foh-cleaning-schedule-working
+unique id: 1746627231148x203527217666757950
 featured: false
-breadcrumb short: "Corrections"
-pillar text: "Daily Operations"
+breadcrumb short: Corrections
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -129,6 +131,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Warning signs and identification criteria
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

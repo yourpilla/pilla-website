@@ -1,19 +1,23 @@
 ---
-title: "How do I define the pre-service responsibilities in a Waiter/Waitress job description?"
-meta: |
-  Explore the key pre-service responsibilities for waitstaff and why detailing them in job descriptions is crucial for restaurant success.
-slug: "define-pre-service-responsibilities-waiter-waitress"
-unique id: "1748867762950x602335568364830700"
+title: >-
+  How do I define the pre-service responsibilities in a Waiter/Waitress job
+  description?
+meta: >
+  Explore the key pre-service responsibilities for waitstaff and why detailing
+  them in job descriptions is crucial for restaurant success.
+slug: define-pre-service-responsibilities-waiter-waitress
+unique id: 1748867762950x602335568364830700
 featured: false
-breadcrumb short: "Pre-Service"
-pillar text: "Job Descriptions"
+breadcrumb short: Pre-Service
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Waiter/Waitress Job Description"
+subpage text: Waiter/Waitress Job Description
 subpage link: |
   https://yourpilla.com/blog/waiter-job-description
-blog: |
-  How to write a waiter job description: waiter job description template included.
+blog: >
+  How to write a waiter job description: waiter job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

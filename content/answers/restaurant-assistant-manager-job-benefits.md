@@ -1,19 +1,22 @@
 ---
-title: "What benefits can I include in a Restaurant Assistant Manager job description?"
-meta: |
-  Discover how to craft an attractive Restaurant Assistant Manager job description by including both monetary and non-monetary benefits, team events, and social aspects.
-slug: "restaurant-assistant-manager-job-benefits"
-unique id: "1750236208498x593293033289285600"
+title: What benefits can I include in a Restaurant Assistant Manager job description?
+meta: >
+  Discover how to craft an attractive Restaurant Assistant Manager job
+  description by including both monetary and non-monetary benefits, team events,
+  and social aspects.
+slug: restaurant-assistant-manager-job-benefits
+unique id: 1750236208498x593293033289285600
 featured: false
-breadcrumb short: "Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

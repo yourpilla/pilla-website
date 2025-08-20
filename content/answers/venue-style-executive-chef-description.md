@@ -1,19 +1,24 @@
 ---
-title: "What should I include about my venue style section of an Executive Chef job description?"
-meta: |
-  Discover how to craft the venue style section of an Executive Chef job description, effectively conveying culinary style and kitchen culture to attract ideal candidates.
-slug: "venue-style-executive-chef-description"
-unique id: "1750064046647x963651044972167200"
+title: >-
+  What should I include about my venue style section of an Executive Chef job
+  description?
+meta: >
+  Discover how to craft the venue style section of an Executive Chef job
+  description, effectively conveying culinary style and kitchen culture to
+  attract ideal candidates.
+slug: venue-style-executive-chef-description
+unique id: 1750064046647x963651044972167200
 featured: false
-breadcrumb short: "Venue Style"
-pillar text: "Job Descriptions"
+breadcrumb short: Venue Style
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Executive Chef Job Description"
+subpage text: Executive Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/executive-chef-job-description
-blog: |
-  How to write a executive chef job description: executive chef job description template included.
+blog: >
+  How to write a executive chef job description: executive chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

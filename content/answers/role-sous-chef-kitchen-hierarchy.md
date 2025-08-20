@@ -1,15 +1,16 @@
 ---
-title: "What is the role of a Sous Chef in a kitchen hierarchy?"
-meta: |
-  Discover the multifaceted role of a Sous Chef in restaurant kitchens, encompassing management, creative input, and culinary expertise.
-slug: "role-sous-chef-kitchen-hierarchy"
-unique id: "1745420497011x699978092953500700"
+title: What is the role of a Sous Chef in a kitchen hierarchy?
+meta: >
+  Discover the multifaceted role of a Sous Chef in restaurant kitchens,
+  encompassing management, creative input, and culinary expertise.
+slug: role-sous-chef-kitchen-hierarchy
+unique id: 1745420497011x699978092953500700
 featured: false
-breadcrumb short: "Sous Chef"
-pillar text: "Job Descriptions"
+breadcrumb short: Sous Chef
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

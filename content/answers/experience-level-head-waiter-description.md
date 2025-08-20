@@ -1,12 +1,14 @@
 ---
-title: "What experience level should I put in a Head Waiter job description?"
-meta: |
-  Discover how to define the experience level for a Head Waiter position, including common misconceptions and the impact of different dining environments.
-slug: "experience-level-head-waiter-description"
-unique id: "1749721814092x350991536136912900"
+title: What experience level should I put in a Head Waiter job description?
+meta: >
+  Discover how to define the experience level for a Head Waiter position,
+  including common misconceptions and the impact of different dining
+  environments.
+slug: experience-level-head-waiter-description
+unique id: 1749721814092x350991536136912900
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Interviews"
+breadcrumb short: Experience
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
 subpage text: |
@@ -113,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

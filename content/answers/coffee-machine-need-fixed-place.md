@@ -1,18 +1,19 @@
 ---
-title: "Does a coffee machine need to be fixed in place?"
-meta: |
-  Discover the importance of securing commercial coffee machines in place for safety, and learn the correct setup to prevent accidents and ensure stability.
-slug: "coffee-machine-need-fixed-place"
-unique id: "1745226754641x819695357803466900"
+title: Does a coffee machine need to be fixed in place?
+meta: >
+  Discover the importance of securing commercial coffee machines in place for
+  safety, and learn the correct setup to prevent accidents and ensure stability.
+slug: coffee-machine-need-fixed-place
+unique id: 1745226754641x819695357803466900
 featured: false
-breadcrumb short: "Installation"
-pillar text: "Health & Safety System"
+breadcrumb short: Installation
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

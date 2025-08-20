@@ -1,15 +1,17 @@
 ---
-title: "What should an EHO do during a visit? "
-meta: |
-  Discover what to expect during an Environmental Health Officer visit, including inspection areas, post-visit reports, and your rights if you disagree with findings.
-slug: "eho-visit-should-do-during"
-unique id: "1746109267529x155087920633725220"
+title: 'What should an EHO do during a visit? '
+meta: >
+  Discover what to expect during an Environmental Health Officer visit,
+  including inspection areas, post-visit reports, and your rights if you
+  disagree with findings.
+slug: eho-visit-should-do-during
+unique id: 1746109267529x155087920633725220
 featured: false
-breadcrumb short: "Visits"
-pillar text: "Food Safety System"
+breadcrumb short: Visits
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "EHOs"
+subpage text: EHOs
 subpage link: |
   https://yourpilla.com/blog/know-about-environment-health-officer
 blog: |
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

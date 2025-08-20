@@ -1,19 +1,21 @@
 ---
-title: "What personality traits should I include in a Chef de Partie job description?"
-meta: |
-  Discover the importance of specifying personality traits in a Chef de Partie job description to ensure a good fit with your kitchen's culture and dynamics.
-slug: "personality-traits-chef-de-partie-job-description"
-unique id: "1749803889399x532552727919329300"
+title: What personality traits should I include in a Chef de Partie job description?
+meta: >
+  Discover the importance of specifying personality traits in a Chef de Partie
+  job description to ensure a good fit with your kitchen's culture and dynamics.
+slug: personality-traits-chef-de-partie-job-description
+unique id: 1749803889399x532552727919329300
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef de Partie Job Description"
+subpage text: Chef de Partie Job Description
 subpage link: |
   https://yourpilla.com/blog/chef-de-partie-job-description
-blog: |
-  How to write a chef de partie job description: chef de partie job description template included.
+blog: >
+  How to write a chef de partie job description: chef de partie job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

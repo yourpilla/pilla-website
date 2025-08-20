@@ -1,19 +1,24 @@
 ---
-title: "What pay and benefits information should I include Hotel Receptionist job description?"
-meta: |
-  Discover essential details to include in a Hotel Receptionist job description, such as salary, benefits, tips handling, shift perks, and team culture to attract suitable candidates.
-slug: "pay-benefits-hotel-receptionist-job"
-unique id: "1748768543069x355350608832941900"
+title: >-
+  What pay and benefits information should I include Hotel Receptionist job
+  description?
+meta: >
+  Discover essential details to include in a Hotel Receptionist job description,
+  such as salary, benefits, tips handling, shift perks, and team culture to
+  attract suitable candidates.
+slug: pay-benefits-hotel-receptionist-job
+unique id: 1748768543069x355350608832941900
 featured: false
-breadcrumb short: "Pay and Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay and Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel Receptionist Job Descriptions"
+subpage text: Hotel Receptionist Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/hotel-receptionist-duties
-blog: |
-  How to write a hotel receptionist job description: hotel receptionist job description template included.
+blog: >
+  How to write a hotel receptionist job description: hotel receptionist job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

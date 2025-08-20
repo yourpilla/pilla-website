@@ -1,18 +1,20 @@
 ---
-title: "What are typical wine service responsibilities in a sommelier job description?"
-meta: |
-  Since the article content is marked as "null," there is no specific information provided to create a meta description. Please provide the article content for an accurate summary.
-slug: "wine-service-sommelier-job-responsibilities"
-unique id: "1749719753891x159538137104908300"
+title: What are typical wine service responsibilities in a sommelier job description?
+meta: >
+  Since the article content is marked as "null," there is no specific
+  information provided to create a meta description. Please provide the article
+  content for an accurate summary.
+slug: wine-service-sommelier-job-responsibilities
+unique id: 1749719753891x159538137104908300
 featured: false
-breadcrumb short: "Wine Service"
-pillar text: "Job Interviews"
+breadcrumb short: Wine Service
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

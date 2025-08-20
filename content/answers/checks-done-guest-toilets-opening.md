@@ -1,18 +1,20 @@
 ---
-title: "What checks should be done in guest toilets before opening?"
-meta: |
-  Discover essential pre-opening checks for restaurant guest toilets, including cleanliness, functionality, and stock levels, to enhance guest experience and hygiene ratings.
-slug: "checks-done-guest-toilets-opening"
-unique id: "1746611300644x904138321398177000"
+title: What checks should be done in guest toilets before opening?
+meta: >
+  Discover essential pre-opening checks for restaurant guest toilets, including
+  cleanliness, functionality, and stock levels, to enhance guest experience and
+  hygiene ratings.
+slug: checks-done-guest-toilets-opening
+unique id: 1746611300644x904138321398177000
 featured: false
-breadcrumb short: "Toilets"
-pillar text: "Daily Operations"
+breadcrumb short: Toilets
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Opening/Closing"
+subpage text: FOH Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create Restaurant Opening and Closing Checklists "
+blog: 'How to Create Restaurant Opening and Closing Checklists '
 schema: |
   {
     "@context": "https://schema.org",
@@ -123,6 +125,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

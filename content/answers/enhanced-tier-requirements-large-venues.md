@@ -1,13 +1,15 @@
 ---
 title: |
   What are the Enhanced Tier requirements for large venues under Martyn's Law?
-meta: |
-  Explore the Enhanced Tier requirements of Martyn's Law for large venues, mandatory security measures, and the importance of a comprehensive security plan.
-slug: "enhanced-tier-requirements-large-venues"
-unique id: "1744633430850x420340326895030800"
+meta: >
+  Explore the Enhanced Tier requirements of Martyn's Law for large venues,
+  mandatory security measures, and the importance of a comprehensive security
+  plan.
+slug: enhanced-tier-requirements-large-venues
+unique id: 1744633430850x420340326895030800
 featured: false
-breadcrumb short: "Enhanced Tier"
-pillar text: "Health & Safety System"
+breadcrumb short: Enhanced Tier
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +122,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

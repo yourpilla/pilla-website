@@ -1,18 +1,20 @@
 ---
-title: "What should I check during weekly freezer maintenance?"
-meta: |
-  Learn the key areas to check during weekly freezer maintenance, including condensers, vents, and door seals, to ensure optimal performance and prevent breakdowns.
-slug: "weekly-freezer-maintenance-checklist"
-unique id: "1733824589751x115769178800925630"
+title: What should I check during weekly freezer maintenance?
+meta: >
+  Learn the key areas to check during weekly freezer maintenance, including
+  condensers, vents, and door seals, to ensure optimal performance and prevent
+  breakdowns.
+slug: weekly-freezer-maintenance-checklist
+unique id: 1733824589751x115769178800925630
 featured: false
-breadcrumb short: "Weekly Maintenance"
-pillar text: "Food Safety System"
+breadcrumb short: Weekly Maintenance
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Equipment operation and maintenance procedures
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

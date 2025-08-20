@@ -1,15 +1,16 @@
 ---
-title: "When can an Environmental Health Officer enter my premises? "
-meta: |
-  Explore the rights of Environmental Health Officers (EHOs) to enter business premises without prior notice to ensure compliance with food safety laws.
-slug: "environmental-health-officer-enter-premises"
-unique id: "1746109267528x883747986205720300"
+title: 'When can an Environmental Health Officer enter my premises? '
+meta: >
+  Explore the rights of Environmental Health Officers (EHOs) to enter business
+  premises without prior notice to ensure compliance with food safety laws.
+slug: environmental-health-officer-enter-premises
+unique id: 1746109267528x883747986205720300
 featured: false
-breadcrumb short: "Entry"
-pillar text: "Food Safety System"
+breadcrumb short: Entry
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "EHOs"
+subpage text: EHOs
 subpage link: |
   https://yourpilla.com/blog/know-about-environment-health-officer
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

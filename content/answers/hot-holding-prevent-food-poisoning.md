@@ -1,18 +1,19 @@
 ---
-title: "What is hot holding and why is it important?"
-meta: |
-  Discover the importance of hot holding in food safety, maintaining temperatures above 63°C to prevent bacterial growth and foodborne illnesses.
-slug: "hot-holding-prevent-food-poisoning"
-unique id: "1744190546777x570394005889917760"
+title: What is hot holding and why is it important?
+meta: >
+  Discover the importance of hot holding in food safety, maintaining
+  temperatures above 63°C to prevent bacterial growth and foodborne illnesses.
+slug: hot-holding-prevent-food-poisoning
+unique id: 1744190546777x570394005889917760
 featured: false
-breadcrumb short: "Why"
-pillar text: "Food Safety System"
+breadcrumb short: Why
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Hot Holding"
+subpage text: Hot Holding
 subpage link: |
   https://yourpilla.com/blog/hot-holding
-blog: "How to Set Up Hot Holding Temperature Checks"
+blog: How to Set Up Hot Holding Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

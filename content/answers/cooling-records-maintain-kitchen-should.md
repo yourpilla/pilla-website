@@ -1,18 +1,20 @@
 ---
-title: "What cooling records should I maintain in the kitchen?"
-meta: |
-  Learn the importance of maintaining detailed cooling records in the kitchen for all food types, documenting blast chiller faults, and recording corrective actions.
-slug: "cooling-records-maintain-kitchen-should"
-unique id: "1748966667484x784312431839543300"
+title: What cooling records should I maintain in the kitchen?
+meta: >
+  Learn the importance of maintaining detailed cooling records in the kitchen
+  for all food types, documenting blast chiller faults, and recording corrective
+  actions.
+slug: cooling-records-maintain-kitchen-should
+unique id: 1748966667484x784312431839543300
 featured: false
-breadcrumb short: "Records"
-pillar text: "Food Safety System"
+breadcrumb short: Records
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooling Foods"
+subpage text: Cooling Foods
 subpage link: |
   https://yourpilla.com/blog/cooling-food-safely
-blog: "How to Set Up Cooled Food Temperature Checks"
+blog: How to Set Up Cooled Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

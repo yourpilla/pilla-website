@@ -1,19 +1,22 @@
 ---
-title: "What Barback duties happen during active service?"
-meta: |
-  Explore the vital role of barbacks during active bar service, highlighting their responsibilities in restocking, cleaning, and supporting bartenders to enhance service efficiency.
-slug: "barback-duties-active-service-during"
-unique id: "1747841008446x651878571093156100"
+title: What Barback duties happen during active service?
+meta: >
+  Explore the vital role of barbacks during active bar service, highlighting
+  their responsibilities in restocking, cleaning, and supporting bartenders to
+  enhance service efficiency.
+slug: barback-duties-active-service-during
+unique id: 1747841008446x651878571093156100
 featured: false
-breadcrumb short: "Service Key Responsibilities"
-pillar text: "Job Descriptions"
+breadcrumb short: Service Key Responsibilities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barback Job Descriptions"
+subpage text: Barback Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barback-job-description
-blog: |
-  How to write a barback job description: barback job description template included.
+blog: >
+  How to write a barback job description: barback job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

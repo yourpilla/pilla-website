@@ -1,19 +1,24 @@
 ---
-title: "What pre-service responsibilities should I list in a Bar Supervisor job description?"
-meta: |
-  Explore key pre-service responsibilities for Bar Supervisors, including inventory management and essential setup tasks, to ensure efficient bar operations.
-slug: "pre-service-responsibilities-bar-supervisor"
-unique id: "1748855806375x273138595990339600"
+title: >-
+  What pre-service responsibilities should I list in a Bar Supervisor job
+  description?
+meta: >
+  Explore key pre-service responsibilities for Bar Supervisors, including
+  inventory management and essential setup tasks, to ensure efficient bar
+  operations.
+slug: pre-service-responsibilities-bar-supervisor
+unique id: 1748855806375x273138595990339600
 featured: false
-breadcrumb short: "Pre-Service"
-pillar text: "Job Descriptions"
+breadcrumb short: Pre-Service
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Supervisor Job Description"
+subpage text: Bar Supervisor Job Description
 subpage link: |
   https://yourpilla.com/blog/bar-supervisor-duties
-blog: |
-  How to write a bar supervisor job description: bar supervisor job description template included.
+blog: >
+  How to write a bar supervisor job description: bar supervisor job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

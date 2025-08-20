@@ -1,19 +1,23 @@
 ---
-title: "What skills should I include in a Waiter/Waitress job description for my restaurant?"
-meta: |
-  Discover essential skills to include in a Waiter/Waitress job description, and learn to differentiate must-have and nice-to-have skills for effective hiring.
-slug: "skills-waiter-waitress-job-description"
-unique id: "1748867838218x860885753798328300"
+title: >-
+  What skills should I include in a Waiter/Waitress job description for my
+  restaurant?
+meta: >
+  Discover essential skills to include in a Waiter/Waitress job description, and
+  learn to differentiate must-have and nice-to-have skills for effective hiring.
+slug: skills-waiter-waitress-job-description
+unique id: 1748867838218x860885753798328300
 featured: false
-breadcrumb short: "Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Waiter/Waitress Job Description"
+subpage text: Waiter/Waitress Job Description
 subpage link: |
   https://yourpilla.com/blog/waiter-job-description
-blog: |
-  How to write a waiter job description: waiter job description template included.
+blog: >
+  How to write a waiter job description: waiter job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Essential competencies and qualifications for effective performance
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

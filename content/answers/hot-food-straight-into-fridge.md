@@ -1,18 +1,20 @@
 ---
-title: "Can we put hot food straight into the fridge?"
-meta: |
-  Learn how to safely store cooked food in the fridge and what to do if you accidentally put hot food in the fridge, which can affect the temperature and spoil other foods.
-slug: "hot-food-straight-into-fridge"
-unique id: "1732637351714x891096092718798100"
+title: Can we put hot food straight into the fridge?
+meta: >
+  Learn how to safely store cooked food in the fridge and what to do if you
+  accidentally put hot food in the fridge, which can affect the temperature and
+  spoil other foods.
+slug: hot-food-straight-into-fridge
+unique id: 1732637351714x891096092718798100
 featured: false
-breadcrumb short: "Hot Food in Fridge"
-pillar text: "Food Safety System"
+breadcrumb short: Hot Food in Fridge
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Fridge Temperatures"
+subpage text: Fridge Temperatures
 subpage link: |
   https://yourpilla.com/blog/fridge-temperature-checks
-blog: "How to Set Up Fridge Temperature Checks"
+blog: How to Set Up Fridge Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

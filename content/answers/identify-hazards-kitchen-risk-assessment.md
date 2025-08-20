@@ -1,18 +1,19 @@
 ---
-title: "How do I identify hazards for a kitchen risk assessment?"
-meta: |
-  Discover how to identify and assess kitchen hazards effectively, including common risks and misconceptions about kitchen safety evaluations.
-slug: "identify-hazards-kitchen-risk-assessment"
-unique id: "1744799372653x600777353914366000"
+title: How do I identify hazards for a kitchen risk assessment?
+meta: >
+  Discover how to identify and assess kitchen hazards effectively, including
+  common risks and misconceptions about kitchen safety evaluations.
+slug: identify-hazards-kitchen-risk-assessment
+unique id: 1744799372653x600777353914366000
 featured: false
-breadcrumb short: "How To"
-pillar text: "Health & Safety System"
+breadcrumb short: How To
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

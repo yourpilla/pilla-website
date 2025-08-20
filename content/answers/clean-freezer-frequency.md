@@ -1,18 +1,20 @@
 ---
-title: "How often should I clean the freezer?"
-meta: |
-  Learn how to clean your freezer properly to maintain optimal temperature and prevent high energy bills. Regular cleaning is key to extending appliance life.
-slug: "clean-freezer-frequency"
-unique id: "1733824589748x839729736182750700"
+title: How often should I clean the freezer?
+meta: >
+  Learn how to clean your freezer properly to maintain optimal temperature and
+  prevent high energy bills. Regular cleaning is key to extending appliance
+  life.
+slug: clean-freezer-frequency
+unique id: 1733824589748x839729736182750700
 featured: false
-breadcrumb short: "Cleaning"
-pillar text: "Food Safety System"
+breadcrumb short: Cleaning
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

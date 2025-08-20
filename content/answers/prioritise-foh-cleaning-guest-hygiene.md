@@ -1,18 +1,19 @@
 ---
-title: "How do I prioritise FOH cleaning tasks by guest visibility and hygiene risk?"
-meta: |
-  Learn how to prioritise FOH cleaning tasks in a restaurant by guest visibility and hygiene risk, ensuring optimal cleanliness and safety.
-slug: "prioritise-foh-cleaning-guest-hygiene"
-unique id: "1746627231148x797293858735376400"
+title: How do I prioritise FOH cleaning tasks by guest visibility and hygiene risk?
+meta: >
+  Learn how to prioritise FOH cleaning tasks in a restaurant by guest visibility
+  and hygiene risk, ensuring optimal cleanliness and safety.
+slug: prioritise-foh-cleaning-guest-hygiene
+unique id: 1746627231148x797293858735376400
 featured: false
-breadcrumb short: "Priorities"
-pillar text: "Daily Operations"
+breadcrumb short: Priorities
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -129,6 +130,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

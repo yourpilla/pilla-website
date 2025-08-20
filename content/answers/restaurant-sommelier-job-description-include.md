@@ -1,18 +1,22 @@
 ---
-title: "What should I include about my restaurant when writing a sommelier job description?"
-meta: |
-  Discover how to craft an effective sommelier job description for your restaurant, including details on atmosphere, wine program, and unique venue features.
-slug: "restaurant-sommelier-job-description-include"
-unique id: "1749719388029x629574019060334600"
+title: >-
+  What should I include about my restaurant when writing a sommelier job
+  description?
+meta: >
+  Discover how to craft an effective sommelier job description for your
+  restaurant, including details on atmosphere, wine program, and unique venue
+  features.
+slug: restaurant-sommelier-job-description-include
+unique id: 1749719388029x629574019060334600
 featured: false
-breadcrumb short: "Business"
-pillar text: "Job Interviews"
+breadcrumb short: Business
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

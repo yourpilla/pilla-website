@@ -1,19 +1,23 @@
 ---
-title: "How do I define the personality traits needed for a Restaurant Manager job description?"
-meta: |
-  Learn how to define essential personality traits for a Restaurant Manager, ensuring they align with your restaurant's culture and operational style.
-slug: "personality-traits-restaurant-manager-job"
-unique id: "1750065111186x882531305502277600"
+title: >-
+  How do I define the personality traits needed for a Restaurant Manager job
+  description?
+meta: >
+  Learn how to define essential personality traits for a Restaurant Manager,
+  ensuring they align with your restaurant's culture and operational style.
+slug: personality-traits-restaurant-manager-job
+unique id: 1750065111186x882531305502277600
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Manager Job Description"
+subpage text: Restaurant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-manager-job-description
-blog: |
-  How to write a restaurant manager job description: restaurant manager job description template included.
+blog: >
+  How to write a restaurant manager job description: restaurant manager job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

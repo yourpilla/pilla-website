@@ -1,18 +1,22 @@
 ---
-title: "If I already have a food hygiene certificate from another job, do I need a new one?"
-meta: |
-  Do you need a new food hygiene certificate when starting a new job? Find out if your existing qualification is valid and what to do if you can't get your certificate from your previous employer.
-slug: "food-hygiene-certificate-new-job"
-unique id: "1734014568333x898829622637475100"
+title: >-
+  If I already have a food hygiene certificate from another job, do I need a new
+  one?
+meta: >
+  Do you need a new food hygiene certificate when starting a new job? Find out
+  if your existing qualification is valid and what to do if you can't get your
+  certificate from your previous employer.
+slug: food-hygiene-certificate-new-job
+unique id: 1734014568333x898829622637475100
 featured: false
-breadcrumb short: "Current"
-pillar text: "Food Safety System"
+breadcrumb short: Current
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -60,6 +64,7 @@ schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

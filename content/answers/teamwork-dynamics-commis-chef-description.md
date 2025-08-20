@@ -1,19 +1,22 @@
 ---
-title: "How should I describe the teamwork dynamics in a Commis Chef job description?"
-meta: |
-  Explore how to effectively describe teamwork dynamics in a Commis Chef job description, emphasizing collaboration, communication, and support within the kitchen environment.
-slug: "teamwork-dynamics-commis-chef-description"
-unique id: "1749803219647x293738628267114500"
+title: How should I describe the teamwork dynamics in a Commis Chef job description?
+meta: >
+  Explore how to effectively describe teamwork dynamics in a Commis Chef job
+  description, emphasizing collaboration, communication, and support within the
+  kitchen environment.
+slug: teamwork-dynamics-commis-chef-description
+unique id: 1749803219647x293738628267114500
 featured: false
-breadcrumb short: "Teamwork"
-pillar text: "Job Descriptions"
+breadcrumb short: Teamwork
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

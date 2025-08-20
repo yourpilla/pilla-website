@@ -1,18 +1,20 @@
 ---
-title: "How should deep fat fryers be maintained and used?"
-meta: |
-  Explore essential cooking temperatures and safety practices to prevent foodborne illnesses, ensuring all food is cooked to safe, bacteria-reducing levels.
-slug: "deep-fat-fryers-maintained-used"
-unique id: "1743670469423x569383949652702900"
+title: How should deep fat fryers be maintained and used?
+meta: >
+  Explore essential cooking temperatures and safety practices to prevent
+  foodborne illnesses, ensuring all food is cooked to safe, bacteria-reducing
+  levels.
+slug: deep-fat-fryers-maintained-used
+unique id: 1743670469423x569383949652702900
 featured: false
-breadcrumb short: "Fat Fryers"
-pillar text: "Food Safety System"
+breadcrumb short: Fat Fryers
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Maintenance procedures and schedules
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

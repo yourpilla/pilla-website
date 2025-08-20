@@ -1,19 +1,21 @@
 ---
-title: "What should I include under pay and benefits in a Commis Chef job description?"
-meta: |
-  Discover how to effectively detail pay and benefits in a Commis Chef job description to attract qualified candidates and avoid common pitfalls.
-slug: "pay-benefits-commis-chef-job-description"
-unique id: "1749803162486x781959530633232400"
+title: What should I include under pay and benefits in a Commis Chef job description?
+meta: >
+  Discover how to effectively detail pay and benefits in a Commis Chef job
+  description to attract qualified candidates and avoid common pitfalls.
+slug: pay-benefits-commis-chef-job-description
+unique id: 1749803162486x781959530633232400
 featured: false
-breadcrumb short: "Pay"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

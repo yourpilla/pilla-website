@@ -1,18 +1,19 @@
 ---
-title: "How often should a front of house risk assessment be reviewed?"
-meta: |
-  Discover the importance of reviewing front of house risk assessments annually and what triggers an early review in hospitality venues.
-slug: "front-house-risk-assessment-reviewed"
-unique id: "1744896519240x906794690537488600"
+title: How often should a front of house risk assessment be reviewed?
+meta: >
+  Discover the importance of reviewing front of house risk assessments annually
+  and what triggers an early review in hospitality venues.
+slug: front-house-risk-assessment-reviewed
+unique id: 1744896519240x906794690537488600
 featured: false
-breadcrumb short: "Reviewing"
-pillar text: "Health & Safety System"
+breadcrumb short: Reviewing
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Restaurant Risk Assessments"
+subpage text: Restaurant Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/restaurant-risk-assessment
-blog: "How to Do a Restaurant Risk Assessment"
+blog: How to Do a Restaurant Risk Assessment
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

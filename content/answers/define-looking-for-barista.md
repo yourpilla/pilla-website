@@ -1,19 +1,20 @@
 ---
 title: |
   How do I define what I'm looking for in a Barista?
-meta: |
-  Learn how to define essential and desirable traits for a Barista, and why using a requirements table can streamline your hiring process.
-slug: "define-looking-for-barista"
-unique id: "1747318595789x923834122477418200"
+meta: >
+  Learn how to define essential and desirable traits for a Barista, and why
+  using a requirements table can streamline your hiring process.
+slug: define-looking-for-barista
+unique id: 1747318595789x923834122477418200
 featured: false
-breadcrumb short: "Candidate "
-pillar text: "Job Interviews"
+breadcrumb short: 'Candidate '
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Barista Interviews"
+subpage text: Barista Interviews
 subpage link: |
   https://yourpilla.com/blog/barista-interview-questions
-blog: "How to Decide on Barista Interview Questions and Trial Activities"
+blog: How to Decide on Barista Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -124,6 +125,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,19 +1,22 @@
 ---
-title: "What essential skills should I look for in a Commis Chef job description?"
-meta: |
-  Discover essential skills for Commis Chefs, including basic culinary techniques and food safety, and learn how to differentiate must-have skills from nice-to-haves.
-slug: "essential-skills-commis-chef-job"
-unique id: "1749803106217x531974433559543800"
+title: What essential skills should I look for in a Commis Chef job description?
+meta: >
+  Discover essential skills for Commis Chefs, including basic culinary
+  techniques and food safety, and learn how to differentiate must-have skills
+  from nice-to-haves.
+slug: essential-skills-commis-chef-job
+unique id: 1749803106217x531974433559543800
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

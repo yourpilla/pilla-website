@@ -1,13 +1,15 @@
 ---
 title: |
   What is Martyn's Law and why was it introduced?
-meta: |
-  Explore the specifics of Martyn's Law, its mandatory security measures for UK venues, and the influence of Martyn Hett's advocacy following the Manchester Arena bombing.
-slug: "martyns-law-why-introduced"
-unique id: "1744633430849x660585466517936600"
+meta: >
+  Explore the specifics of Martyn's Law, its mandatory security measures for UK
+  venues, and the influence of Martyn Hett's advocacy following the Manchester
+  Arena bombing.
+slug: martyns-law-why-introduced
+unique id: 1744633430849x660585466517936600
 featured: false
-breadcrumb short: "Why"
-pillar text: "Health & Safety System"
+breadcrumb short: Why
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +122,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

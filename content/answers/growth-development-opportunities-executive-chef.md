@@ -1,19 +1,24 @@
 ---
-title: "What growth and development opportunities should I include in an Executive Chef job description?"
-meta: |
-  Discover essential growth and development opportunities to include in an Executive Chef job description, such as training, mentorship, and career progression paths.
-slug: "growth-development-opportunities-executive-chef"
-unique id: "1750064197378x264125108144832500"
+title: >-
+  What growth and development opportunities should I include in an Executive
+  Chef job description?
+meta: >
+  Discover essential growth and development opportunities to include in an
+  Executive Chef job description, such as training, mentorship, and career
+  progression paths.
+slug: growth-development-opportunities-executive-chef
+unique id: 1750064197378x264125108144832500
 featured: false
-breadcrumb short: "Opportunities"
-pillar text: "Job Descriptions"
+breadcrumb short: Opportunities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Executive Chef Job Description"
+subpage text: Executive Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/executive-chef-job-description
-blog: |
-  How to write a executive chef job description: executive chef job description template included.
+blog: >
+  How to write a executive chef job description: executive chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,15 +1,16 @@
 ---
-title: "What format do EHOs follow when inspecting a business? "
-meta: |
-  Understand how EHOs conduct inspections in hospitality businesses, focusing on food safety, premises' structure, and management systems.
-slug: "ehos-inspecting-business-format-follow"
-unique id: "1746109267528x265493544528897280"
+title: 'What format do EHOs follow when inspecting a business? '
+meta: >
+  Understand how EHOs conduct inspections in hospitality businesses, focusing on
+  food safety, premises' structure, and management systems.
+slug: ehos-inspecting-business-format-follow
+unique id: 1746109267528x265493544528897280
 featured: false
-breadcrumb short: "Inspecting"
-pillar text: "Food Safety System"
+breadcrumb short: Inspecting
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "EHOs"
+subpage text: EHOs
 subpage link: |
   https://yourpilla.com/blog/know-about-environment-health-officer
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

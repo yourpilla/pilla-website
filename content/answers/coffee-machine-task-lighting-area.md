@@ -1,18 +1,20 @@
 ---
-title: "Does my coffee machine area need task lighting?"
-meta: |
-  Discover the importance of task lighting for coffee machines, essential safety signage, and the recommended frequency for checks to ensure a safe working environment.
-slug: "coffee-machine-task-lighting-area"
-unique id: "1745226754641x272325406917240060"
+title: Does my coffee machine area need task lighting?
+meta: >
+  Discover the importance of task lighting for coffee machines, essential safety
+  signage, and the recommended frequency for checks to ensure a safe working
+  environment.
+slug: coffee-machine-task-lighting-area
+unique id: 1745226754641x272325406917240060
 featured: false
-breadcrumb short: "Lighting and Signage"
-pillar text: "Health & Safety System"
+breadcrumb short: Lighting and Signage
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,19 @@
 ---
-title: "What personality traits should I include in a sommelier job description?"
-meta: |
-  Discover key personality traits to include in a sommelier job description to match your restaurant's culture and enhance guest experiences.
-slug: "personality-traits-sommelier-job-description"
-unique id: "1749719634786x455447499894685700"
+title: What personality traits should I include in a sommelier job description?
+meta: >
+  Discover key personality traits to include in a sommelier job description to
+  match your restaurant's culture and enhance guest experiences.
+slug: personality-traits-sommelier-job-description
+unique id: 1749719634786x455447499894685700
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Interviews"
+breadcrumb short: Personality
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

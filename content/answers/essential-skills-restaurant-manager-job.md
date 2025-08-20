@@ -1,19 +1,24 @@
 ---
-title: "What essential skills should I list in a Restaurant Manager in a job description?"
-meta: |
-  Discover essential skills for a Restaurant Manager, including how to differentiate must-have from nice-to-have skills and align them with your restaurant's operational needs.
-slug: "essential-skills-restaurant-manager-job"
-unique id: "1750065073388x395787675743289340"
+title: >-
+  What essential skills should I list in a Restaurant Manager in a job
+  description?
+meta: >
+  Discover essential skills for a Restaurant Manager, including how to
+  differentiate must-have from nice-to-have skills and align them with your
+  restaurant's operational needs.
+slug: essential-skills-restaurant-manager-job
+unique id: 1750065073388x395787675743289340
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Manager Job Description"
+subpage text: Restaurant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-manager-job-description
-blog: |
-  How to write a restaurant manager job description: restaurant manager job description template included.
+blog: >
+  How to write a restaurant manager job description: restaurant manager job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

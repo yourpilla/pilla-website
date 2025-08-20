@@ -1,19 +1,22 @@
 ---
-title: |
-  What's the correct temperature reading for boiling water when testing a food probe thermometer?
-meta: |
-  Learn how to properly test your food probe thermometer in boiling water. The correct temperature reading should be between 99°C and 101°C. Follow these steps for accurate results.
-slug: "correct-temperature-boiling-water-test"
-unique id: "1734019663903x942661327946382100"
+title: >
+  What's the correct temperature reading for boiling water when testing a food
+  probe thermometer?
+meta: >
+  Learn how to properly test your food probe thermometer in boiling water. The
+  correct temperature reading should be between 99°C and 101°C. Follow these
+  steps for accurate results.
+slug: correct-temperature-boiling-water-test
+unique id: 1734019663903x942661327946382100
 featured: false
-breadcrumb short: "Hot Temperature"
-pillar text: "Food Safety System"
+breadcrumb short: Hot Temperature
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Probe Thermometer"
+subpage text: Food Probe Thermometer
 subpage link: |
   https://yourpilla.com/blog/using-food-temperature-probes
-blog: "How to Set Up Legionella Temperature Testing Checks"
+blog: How to Set Up Legionella Temperature Testing Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -98,6 +101,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

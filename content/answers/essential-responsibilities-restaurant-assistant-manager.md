@@ -1,19 +1,24 @@
 ---
-title: "What are the essential responsibilities in a Restaurant Assistant Manager job description?"
-meta: |
-  Explore the key responsibilities of a Restaurant Assistant Manager, including administrative, operational, and customer service duties, and common misconceptions about the role.
-slug: "essential-responsibilities-restaurant-assistant-manager"
-unique id: "1750236009590x432804736021299200"
+title: >-
+  What are the essential responsibilities in a Restaurant Assistant Manager job
+  description?
+meta: >
+  Explore the key responsibilities of a Restaurant Assistant Manager, including
+  administrative, operational, and customer service duties, and common
+  misconceptions about the role.
+slug: essential-responsibilities-restaurant-assistant-manager
+unique id: 1750236009590x432804736021299200
 featured: false
-breadcrumb short: "Essential Responsibilities"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Responsibilities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

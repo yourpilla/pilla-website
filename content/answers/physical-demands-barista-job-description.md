@@ -1,19 +1,24 @@
 ---
-title: "What physical demands of the job should I include in a Barista job description?"
-meta: |
-  Discover key insights on including physical demands in a barista job description, ensuring candidates understand the stamina and strength required for the role.
-slug: "physical-demands-barista-job-description"
-unique id: "1748534800136x955240058498393700"
+title: >-
+  What physical demands of the job should I include in a Barista job
+  description?
+meta: >
+  Discover key insights on including physical demands in a barista job
+  description, ensuring candidates understand the stamina and strength required
+  for the role.
+slug: physical-demands-barista-job-description
+unique id: 1748534800136x955240058498393700
 featured: false
-breadcrumb short: "Physical Demans"
-pillar text: "Job Descriptions"
+breadcrumb short: Physical Demans
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barista Job Descriptions"
+subpage text: Barista Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barista-job-description
-blog: |
-  How to write a barista job description: barista job description template included.
+blog: >
+  How to write a barista job description: barista job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -98,6 +103,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

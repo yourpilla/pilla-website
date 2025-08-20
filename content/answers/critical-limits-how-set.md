@@ -1,15 +1,16 @@
 ---
-title: "What are critical limits and how are they set?"
-meta: |
-  Understand the importance of critical limits in food safety, how they are set based on scientific research, and their role in HACCP compliance.
-slug: "critical-limits-how-set"
-unique id: "1745929282548x575040775335399900"
+title: What are critical limits and how are they set?
+meta: >
+  Understand the importance of critical limits in food safety, how they are set
+  based on scientific research, and their role in HACCP compliance.
+slug: critical-limits-how-set
+unique id: 1745929282548x575040775335399900
 featured: false
-breadcrumb short: "Critical Limits"
-pillar text: "Food Safety System"
+breadcrumb short: Critical Limits
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "HACCP Meaning"
+subpage text: HACCP Meaning
 subpage link: |
   https://yourpilla.com/blog/haccp-meaning
 blog: |
@@ -118,6 +119,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

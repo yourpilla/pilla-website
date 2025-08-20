@@ -1,18 +1,19 @@
 ---
-title: "What interview structure should I use for hiring a Barista?"
-meta: |
-  Explore how to structure Barista interviews, decide on the interview length, and factors influencing the interview format.
-slug: "interview-structure-hiring-barista-use"
-unique id: "1747318595789x881401793080378600"
+title: What interview structure should I use for hiring a Barista?
+meta: >
+  Explore how to structure Barista interviews, decide on the interview length,
+  and factors influencing the interview format.
+slug: interview-structure-hiring-barista-use
+unique id: 1747318595789x881401793080378600
 featured: false
-breadcrumb short: "Structure"
-pillar text: "Job Interviews"
+breadcrumb short: Structure
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Barista Interviews"
+subpage text: Barista Interviews
 subpage link: |
   https://yourpilla.com/blog/barista-interview-questions
-blog: "How to Decide on Barista Interview Questions and Trial Activities"
+blog: How to Decide on Barista Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +118,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

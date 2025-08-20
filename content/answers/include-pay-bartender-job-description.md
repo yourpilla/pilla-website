@@ -1,19 +1,21 @@
 ---
-title: "What should I include about pay in a Bartender job description?"
-meta: |
-  Discover how to craft an effective bartender job description, including clear pay details, tipping structures, and perks to attract the right candidates.
-slug: "include-pay-bartender-job-description"
-unique id: "1748429917193x676835460974528000"
+title: What should I include about pay in a Bartender job description?
+meta: >
+  Discover how to craft an effective bartender job description, including clear
+  pay details, tipping structures, and perks to attract the right candidates.
+slug: include-pay-bartender-job-description
+unique id: 1748429917193x676835460974528000
 featured: false
-breadcrumb short: "Pay"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

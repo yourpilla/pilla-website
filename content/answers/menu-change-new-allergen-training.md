@@ -1,18 +1,19 @@
 ---
-title: "If we change the menu, do we need to do new allergen training?"
-meta: |
-  Ensure your staff are up to date with allergen training whenever your menu changes. Learn how to document these quick training sessions using Pilla.
-slug: "menu-change-new-allergen-training"
-unique id: "1734014563443x696112809154422100"
+title: 'If we change the menu, do we need to do new allergen training?'
+meta: >
+  Ensure your staff are up to date with allergen training whenever your menu
+  changes. Learn how to document these quick training sessions using Pilla.
+slug: menu-change-new-allergen-training
+unique id: 1734014563443x696112809154422100
 featured: false
-breadcrumb short: "Menu Change"
-pillar text: "Food Safety System"
+breadcrumb short: Menu Change
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -68,6 +69,7 @@ schema: |
       }
     ]
   }
+subtitle: Training requirements and certification procedures
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

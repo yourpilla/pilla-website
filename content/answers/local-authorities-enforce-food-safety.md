@@ -1,15 +1,17 @@
 ---
-title: "How do local authorities enforce the Food Safety Act 1990?"
-meta: |
-  Explore how local authorities enforce the Food Safety Act 1990, the role of the Food Hygiene Rating Scheme, and the support provided by environmental health services.
-slug: "local-authorities-enforce-food-safety"
-unique id: "1745921768614x612680802943813500"
+title: How do local authorities enforce the Food Safety Act 1990?
+meta: >
+  Explore how local authorities enforce the Food Safety Act 1990, the role of
+  the Food Hygiene Rating Scheme, and the support provided by environmental
+  health services.
+slug: local-authorities-enforce-food-safety
+unique id: 1745921768614x612680802943813500
 featured: false
-breadcrumb short: "Enforcement"
-pillar text: "Food Safety System"
+breadcrumb short: Enforcement
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Act 1990"
+subpage text: Food Safety Act 1990
 subpage link: |
   https://yourpilla.com/blog/legislation-food-standards
 blog: |
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

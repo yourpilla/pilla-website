@@ -1,18 +1,20 @@
 ---
-title: "How often should dishwasher temperatures be checked and recorded?"
-meta: |
-  Discover how to maintain the correct temperature in commercial dishwashers for optimal cleanliness and food safety, and learn the steps to take if issues arise.
-slug: "dishwasher-freqency"
-unique id: "1743586900089x524360296916559300"
+title: How often should dishwasher temperatures be checked and recorded?
+meta: >
+  Discover how to maintain the correct temperature in commercial dishwashers for
+  optimal cleanliness and food safety, and learn the steps to take if issues
+  arise.
+slug: dishwasher-freqency
+unique id: 1743586900089x524360296916559300
 featured: false
-breadcrumb short: "Checking Frequency"
-pillar text: "Food Safety System"
+breadcrumb short: Checking Frequency
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Dishwasher Temperatures"
+subpage text: Dishwasher Temperatures
 subpage link: |
   https://yourpilla.com/blog/dishwasher-temperature
-blog: "How to Set Up Dishwasher Temperature Checks"
+blog: How to Set Up Dishwasher Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -97,6 +99,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Temperature monitoring guidelines and procedures
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

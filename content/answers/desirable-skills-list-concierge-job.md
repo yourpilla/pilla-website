@@ -1,19 +1,22 @@
 ---
-title: "What desirable skills should I list for a Concierge job description?"
-meta: |
-  Discover essential skills for a Concierge role, including strong communication, technical proficiency, multilingual capabilities, and local area knowledge.
-slug: "desirable-skills-list-concierge-job"
-unique id: "1748867428755x813229583446310900"
+title: What desirable skills should I list for a Concierge job description?
+meta: >
+  Discover essential skills for a Concierge role, including strong
+  communication, technical proficiency, multilingual capabilities, and local
+  area knowledge.
+slug: desirable-skills-list-concierge-job
+unique id: 1748867428755x813229583446310900
 featured: false
-breadcrumb short: "Desirable Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Desirable Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Concierge Job Description"
+subpage text: Concierge Job Description
 subpage link: |
   https://yourpilla.com/blog/concierge-job-description
-blog: |
-  How to write a concierge job description: concierge job description template included.
+blog: >
+  How to write a concierge job description: concierge job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

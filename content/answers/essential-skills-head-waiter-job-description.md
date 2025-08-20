@@ -1,12 +1,14 @@
 ---
-title: "What essential skills should be listed in a Head Waiter job description?"
-meta: |
-  Discover essential skills for a Head Waiter, including leadership, communication, and organisational abilities, critical for effective team and guest management.
-slug: "essential-skills-head-waiter-job-description"
-unique id: "1749721764941x292722808475090940"
+title: What essential skills should be listed in a Head Waiter job description?
+meta: >
+  Discover essential skills for a Head Waiter, including leadership,
+  communication, and organisational abilities, critical for effective team and
+  guest management.
+slug: essential-skills-head-waiter-job-description
+unique id: 1749721764941x292722808475090940
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Interviews"
+breadcrumb short: Essential Skills
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
 subpage text: |
@@ -113,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

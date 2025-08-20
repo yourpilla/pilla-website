@@ -1,19 +1,24 @@
 ---
-title: "How do I include professional growth and training opportunities in a Bar Manager job description?"
-meta: |
-  Learn how to effectively include training and professional growth opportunities in a Bar Manager job description to attract a broad range of candidates.
-slug: "professional-growth-training-bar-manager"
-unique id: "1748626151257x743306030893681000"
+title: >-
+  How do I include professional growth and training opportunities in a Bar
+  Manager job description?
+meta: >
+  Learn how to effectively include training and professional growth
+  opportunities in a Bar Manager job description to attract a broad range of
+  candidates.
+slug: professional-growth-training-bar-manager
+unique id: 1748626151257x743306030893681000
 featured: false
-breadcrumb short: "Training"
-pillar text: "Job Descriptions"
+breadcrumb short: Training
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Manager Job Descriptions"
+subpage text: Bar Manager Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bar-manager-duties
-blog: |
-  How to write a bar manager job description: bar manager job description template included.
+blog: >
+  How to write a bar manager job description: bar manager job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.

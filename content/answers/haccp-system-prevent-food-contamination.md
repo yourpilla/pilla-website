@@ -1,15 +1,16 @@
 ---
-title: "How does a HACCP system help prevent food contamination?"
-meta: |
-  Discover how a HACCP system proactively prevents food contamination, ensuring food safety and regulatory compliance in all types of food businesses.
-slug: "haccp-system-prevent-food-contamination"
-unique id: "1745929282547x104848707706481920"
+title: How does a HACCP system help prevent food contamination?
+meta: >
+  Discover how a HACCP system proactively prevents food contamination, ensuring
+  food safety and regulatory compliance in all types of food businesses.
+slug: haccp-system-prevent-food-contamination
+unique id: 1745929282547x104848707706481920
 featured: false
-breadcrumb short: "Steps"
-pillar text: "Food Safety System"
+breadcrumb short: Steps
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "HACCP Meaning"
+subpage text: HACCP Meaning
 subpage link: |
   https://yourpilla.com/blog/haccp-meaning
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Prevention strategies and control measures
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

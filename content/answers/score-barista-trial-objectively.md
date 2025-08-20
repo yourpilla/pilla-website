@@ -1,18 +1,19 @@
 ---
-title: "How do I score a Barista trial objectively?"
-meta: |
-  Discover how to objectively score a Barista trial using a structured scorecard, focusing on key skills like espresso making and customer service.
-slug: "score-barista-trial-objectively"
-unique id: "1747318595790x938284936591902000"
+title: How do I score a Barista trial objectively?
+meta: >
+  Discover how to objectively score a Barista trial using a structured
+  scorecard, focusing on key skills like espresso making and customer service.
+slug: score-barista-trial-objectively
+unique id: 1747318595790x938284936591902000
 featured: false
-breadcrumb short: "Trial Scoring"
-pillar text: "Job Interviews"
+breadcrumb short: Trial Scoring
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Barista Interviews"
+subpage text: Barista Interviews
 subpage link: |
   https://yourpilla.com/blog/barista-interview-questions
-blog: "How to Decide on Barista Interview Questions and Trial Activities"
+blog: How to Decide on Barista Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -123,6 +124,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

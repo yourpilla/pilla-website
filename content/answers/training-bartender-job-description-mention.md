@@ -1,19 +1,21 @@
 ---
-title: "What kind of training should I mention in a Bartender job description?"
-meta: |
-  Explore the benefits of including training in bartender job descriptions, from mixology to customer service, to attract and develop skilled staff.
-slug: "training-bartender-job-description-mention"
-unique id: "1748429917194x830600240725013500"
+title: What kind of training should I mention in a Bartender job description?
+meta: >
+  Explore the benefits of including training in bartender job descriptions, from
+  mixology to customer service, to attract and develop skilled staff.
+slug: training-bartender-job-description-mention
+unique id: 1748429917194x830600240725013500
 featured: false
-breadcrumb short: "Training"
-pillar text: "Job Descriptions"
+breadcrumb short: Training
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Training requirements and certification guidelines
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

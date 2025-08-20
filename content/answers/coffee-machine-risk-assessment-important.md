@@ -1,18 +1,19 @@
 ---
-title: "What is a coffee machine risk assessment and why is it important?"
-meta: |
-  Discover the importance of conducting a coffee machine risk assessment in hospitality to ensure safety, legal compliance, and prevent potential hazards.
-slug: "coffee-machine-risk-assessment-important"
-unique id: "1745226754640x164622301956232060"
+title: What is a coffee machine risk assessment and why is it important?
+meta: >
+  Discover the importance of conducting a coffee machine risk assessment in
+  hospitality to ensure safety, legal compliance, and prevent potential hazards.
+slug: coffee-machine-risk-assessment-important
+unique id: 1745226754640x164622301956232060
 featured: false
-breadcrumb short: "Legality"
-pillar text: "Health & Safety System"
+breadcrumb short: Legality
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

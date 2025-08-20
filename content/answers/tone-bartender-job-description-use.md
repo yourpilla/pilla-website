@@ -1,19 +1,22 @@
 ---
-title: "What tone should I use in a Bartender job description?"
-meta: |
-  Explore how to craft a Bartender job description that aligns with your bar's atmosphere, balancing professionalism with the unique personality of your venue.
-slug: "tone-bartender-job-description-use"
-unique id: "1748429917195x299749602540364540"
+title: What tone should I use in a Bartender job description?
+meta: >
+  Explore how to craft a Bartender job description that aligns with your bar's
+  atmosphere, balancing professionalism with the unique personality of your
+  venue.
+slug: tone-bartender-job-description-use
+unique id: 1748429917195x299749602540364540
 featured: false
-breadcrumb short: "Tone"
-pillar text: "Job Descriptions"
+breadcrumb short: Tone
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

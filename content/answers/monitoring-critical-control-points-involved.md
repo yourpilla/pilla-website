@@ -1,15 +1,17 @@
 ---
-title: "What is involved in monitoring critical control points?"
-meta: |
-  Explore the essentials of monitoring critical control points (CCPs) in food safety, including common misconceptions and the importance of verification and record-keeping.
-slug: "monitoring-critical-control-points-involved"
-unique id: "1745929282548x990653794253991300"
+title: What is involved in monitoring critical control points?
+meta: >
+  Explore the essentials of monitoring critical control points (CCPs) in food
+  safety, including common misconceptions and the importance of verification and
+  record-keeping.
+slug: monitoring-critical-control-points-involved
+unique id: 1745929282548x990653794253991300
 featured: false
-breadcrumb short: "Monitoring"
-pillar text: "Food Safety System"
+breadcrumb short: Monitoring
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "HACCP Meaning"
+subpage text: HACCP Meaning
 subpage link: |
   https://yourpilla.com/blog/haccp-meaning
 blog: |
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

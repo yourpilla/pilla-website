@@ -1,18 +1,20 @@
 ---
-title: "How should checklist tasks be written to make them effective?"
-meta: |
-  Discover why specific checklist tasks are crucial for effectiveness, the issues with vague items like 'Check fridges', and the three essential elements every task should include.
-slug: "checklist-tasks-written-effective-make"
-unique id: "1746609287201x558008362329757100"
+title: How should checklist tasks be written to make them effective?
+meta: >
+  Discover why specific checklist tasks are crucial for effectiveness, the
+  issues with vague items like 'Check fridges', and the three essential elements
+  every task should include.
+slug: checklist-tasks-written-effective-make
+unique id: 1746609287201x558008362329757100
 featured: false
-breadcrumb short: "Writing"
-pillar text: "Food Safety System"
+breadcrumb short: Writing
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Opening/Closing"
+subpage text: Kitchen Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/kitchen-opening-closing-checklists
-blog: "How to Write a Kitchen a Opening and Closing Checklist"
+blog: How to Write a Kitchen a Opening and Closing Checklist
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +119,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

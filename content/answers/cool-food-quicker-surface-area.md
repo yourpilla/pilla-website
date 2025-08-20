@@ -1,18 +1,19 @@
 ---
-title: "How can I cool food quicker using the surface area?"
-meta: |
-  Discover how increasing the surface area of food can accelerate cooling, enhancing food safety by reducing the risk of bacterial growth.
-slug: "cool-food-quicker-surface-area"
-unique id: "1748966341931x817031299671785500"
+title: How can I cool food quicker using the surface area?
+meta: >
+  Discover how increasing the surface area of food can accelerate cooling,
+  enhancing food safety by reducing the risk of bacterial growth.
+slug: cool-food-quicker-surface-area
+unique id: 1748966341931x817031299671785500
 featured: false
-breadcrumb short: "Surface Area"
-pillar text: "Food Safety System"
+breadcrumb short: Surface Area
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooling Foods"
+subpage text: Cooling Foods
 subpage link: |
   https://yourpilla.com/blog/cooling-food-safely
-blog: "How to Set Up Cooled Food Temperature Checks"
+blog: How to Set Up Cooled Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +107,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

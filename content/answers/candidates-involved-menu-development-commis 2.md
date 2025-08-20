@@ -1,18 +1,23 @@
 ---
-title: "If candidates will be involved in menu development, how should I write this in a Commis Chef job description?"
-meta: "Discover how to accurately include menu development roles in a Commis Chef job description, highlighting creativity and collaboration with senior chefs."
-slug: "candidates-involved-menu-development-commis"
-unique id: "1749803242557x497721846079160300"
-featured: "false"
-breadcrumb short: "Menu Development"
-pillar text: "Job Descriptions"
+title: >-
+  If candidates will be involved in menu development, how should I write this in
+  a Commis Chef job description?
+meta: >-
+  Discover how to accurately include menu development roles in a Commis Chef job
+  description, highlighting creativity and collaboration with senior chefs.
+slug: candidates-involved-menu-development-commis
+unique id: 1749803242557x497721846079160300
+featured: 'false'
+breadcrumb short: Menu Development
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

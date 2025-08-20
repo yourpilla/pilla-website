@@ -1,19 +1,22 @@
 ---
-title: "How should I start writing a bartender job description?"
-meta: |
-  Discover how to craft an effective bartender job description, focusing on setting the right tone with your bar's atmosphere and detailing specific responsibilities and skills.
-slug: "start-writing-bartender-job-description"
-unique id: "1748429917192x906915539657525600"
+title: How should I start writing a bartender job description?
+meta: >
+  Discover how to craft an effective bartender job description, focusing on
+  setting the right tone with your bar's atmosphere and detailing specific
+  responsibilities and skills.
+slug: start-writing-bartender-job-description
+unique id: 1748429917192x906915539657525600
 featured: false
-breadcrumb short: "Pre Service Tasks"
-pillar text: "Job Descriptions"
+breadcrumb short: Pre Service Tasks
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

@@ -1,18 +1,19 @@
 ---
-title: "How can I clearly write FOH cleaning tasks to avoid confusion?"
-meta: |
-  Discover how to write clear and specific FOH cleaning tasks to eliminate confusion and ensure consistent cleaning standards in your restaurant.
-slug: "clearly-write-foh-cleaning-tasks"
-unique id: "1746627231148x462308625714568300"
+title: How can I clearly write FOH cleaning tasks to avoid confusion?
+meta: >
+  Discover how to write clear and specific FOH cleaning tasks to eliminate
+  confusion and ensure consistent cleaning standards in your restaurant.
+slug: clearly-write-foh-cleaning-tasks
+unique id: 1746627231148x462308625714568300
 featured: false
-breadcrumb short: "Instructions"
-pillar text: "Daily Operations"
+breadcrumb short: Instructions
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -129,6 +130,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

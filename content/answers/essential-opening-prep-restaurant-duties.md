@@ -1,20 +1,23 @@
 ---
-title: |
-  What are the essential opening and prep responsibilities in a Restaurant Duty Manager job description?
-meta: |
-  Discover the essential opening, service, and closing duties for a Restaurant Duty Manager, including common misconceptions about each role.
-slug: "essential-opening-prep-restaurant-duties"
-unique id: "1750237130838x841925184358449200"
+title: >
+  What are the essential opening and prep responsibilities in a Restaurant Duty
+  Manager job description?
+meta: >
+  Discover the essential opening, service, and closing duties for a Restaurant
+  Duty Manager, including common misconceptions about each role.
+slug: essential-opening-prep-restaurant-duties
+unique id: 1750237130838x841925184358449200
 featured: false
-breadcrumb short: "Opening and Prep"
-pillar text: "Job Descriptions"
+breadcrumb short: Opening and Prep
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Duty Manager Job Description"
+subpage text: Restaurant Duty Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-duty-manager-duties
-blog: |
-  How to write a restaurant duty manager job description: restaurant duty manager job description template included.
+blog: >
+  How to write a restaurant duty manager job description: restaurant duty
+  manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -113,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

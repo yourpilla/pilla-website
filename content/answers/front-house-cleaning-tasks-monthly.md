@@ -1,18 +1,19 @@
 ---
-title: "Which FOH cleaning tasks should be done monthly?"
-meta: |
-  Discover essential monthly FOH cleaning tasks for restaurants, debunking common myths about their necessity and impact on hygiene and aesthetics.
-slug: "front-house-cleaning-tasks-monthly"
-unique id: "1746627231147x423093750645270340"
+title: Which FOH cleaning tasks should be done monthly?
+meta: >
+  Discover essential monthly FOH cleaning tasks for restaurants, debunking
+  common myths about their necessity and impact on hygiene and aesthetics.
+slug: front-house-cleaning-tasks-monthly
+unique id: 1746627231147x423093750645270340
 featured: false
-breadcrumb short: "Monthly"
-pillar text: "Daily Operations"
+breadcrumb short: Monthly
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -130,6 +131,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

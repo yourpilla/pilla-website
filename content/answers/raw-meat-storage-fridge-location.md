@@ -1,18 +1,20 @@
 ---
-title: "Where exactly should raw meat be stored in the fridge?"
-meta: |
-  Learn where to store raw meat in the fridge to prevent contamination and ensure food safety. Discover best practices for defrosting and covering raw meat.
-slug: "raw-meat-storage-fridge-location"
-unique id: "1732637342185x121885788605962560"
+title: Where exactly should raw meat be stored in the fridge?
+meta: >
+  Learn where to store raw meat in the fridge to prevent contamination and
+  ensure food safety. Discover best practices for defrosting and covering raw
+  meat.
+slug: raw-meat-storage-fridge-location
+unique id: 1732637342185x121885788605962560
 featured: false
-breadcrumb short: "Fridge Raw Meat"
-pillar text: "Food Safety System"
+breadcrumb short: Fridge Raw Meat
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Fridge Temperatures"
+subpage text: Fridge Temperatures
 subpage link: |
   https://yourpilla.com/blog/fridge-temperature-checks
-blog: "How to Set Up Fridge Temperature Checks"
+blog: How to Set Up Fridge Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

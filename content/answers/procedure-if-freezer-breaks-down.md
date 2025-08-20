@@ -1,19 +1,21 @@
 ---
 title: |
   What's the procedure if the freezer breaks down?
-meta: |
-  Learn the proper procedure for handling food during a freezer breakdown, including what to discard, what can be saved, and how to document it all in Pilla.
-slug: "procedure-if-freezer-breaks-down"
-unique id: "1733824585672x403949758299094700"
+meta: >
+  Learn the proper procedure for handling food during a freezer breakdown,
+  including what to discard, what can be saved, and how to document it all in
+  Pilla.
+slug: procedure-if-freezer-breaks-down
+unique id: 1733824585672x403949758299094700
 featured: false
-breadcrumb short: "Break Down"
-pillar text: "Food Safety System"
+breadcrumb short: Break Down
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step procedures and protocols
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

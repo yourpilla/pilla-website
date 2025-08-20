@@ -1,18 +1,19 @@
 ---
-title: "How do I isolate a coffee machine from power and water?"
-meta: |
-  Discover how to safely isolate a coffee machine from power and water for maintenance and the importance of an emergency stop feature.
-slug: "isolate-coffee-machine-power-water"
-unique id: "1745226754641x508462129203332030"
+title: How do I isolate a coffee machine from power and water?
+meta: >
+  Discover how to safely isolate a coffee machine from power and water for
+  maintenance and the importance of an emergency stop feature.
+slug: isolate-coffee-machine-power-water
+unique id: 1745226754641x508462129203332030
 featured: false
-breadcrumb short: "Shutdown"
-pillar text: "Health & Safety System"
+breadcrumb short: Shutdown
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

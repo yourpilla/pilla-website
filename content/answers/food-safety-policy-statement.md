@@ -1,18 +1,19 @@
 ---
-title: "What is a food safety policy statement?"
-meta: |
-  Explore the importance of a food safety policy statement in hospitality, outlining staff responsibilities and the need for regular updates.
-slug: "food-safety-policy-statement"
-unique id: "1746538990379x219765694240846800"
+title: What is a food safety policy statement?
+meta: >
+  Explore the importance of a food safety policy statement in hospitality,
+  outlining staff responsibilities and the need for regular updates.
+slug: food-safety-policy-statement
+unique id: 1746538990379x219765694240846800
 featured: false
-breadcrumb short: "Why Needed"
-pillar text: "Food Safety System"
+breadcrumb short: Why Needed
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Policy"
+subpage text: Food Safety Policy
 subpage link: |
   https://yourpilla.com/blog/food-safety-policy-example
-blog: "Health and safety policy statement template for hospitality."
+blog: Health and safety policy statement template for hospitality.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +113,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-01-04"
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

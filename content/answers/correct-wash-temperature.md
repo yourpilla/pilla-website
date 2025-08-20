@@ -1,18 +1,19 @@
 ---
-title: "What is the correct wash temperature for a commercial dishwasher?"
-meta: |
-  Discover how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and safety, including essential maintenance tips.
-slug: "correct-wash-temperature"
-unique id: "1743583658471x126922145977166780"
+title: What is the correct wash temperature for a commercial dishwasher?
+meta: >
+  Discover how to maintain the correct temperatures in commercial dishwashers
+  for optimal cleanliness and safety, including essential maintenance tips.
+slug: correct-wash-temperature
+unique id: 1743583658471x126922145977166780
 featured: false
-breadcrumb short: "Correct Wash Temperature"
-pillar text: "Food Safety System"
+breadcrumb short: Correct Wash Temperature
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Dishwasher Temperatures"
+subpage text: Dishwasher Temperatures
 subpage link: |
   https://yourpilla.com/blog/dishwasher-temperature
-blog: "How to Set Up Dishwasher Temperature Checks"
+blog: How to Set Up Dishwasher Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

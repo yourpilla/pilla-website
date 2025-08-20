@@ -1,13 +1,14 @@
 ---
 title: |
   What documentation is needed to demonstrate compliance under Martyn's Law?
-meta: |
-  Explore the documentation required under Martyn's Law, including security plans and training records, to ensure venue compliance and safety.
-slug: "documentation-compliance-martyns-law-needed"
-unique id: "1744633430856x426114294548744400"
+meta: >
+  Explore the documentation required under Martyn's Law, including security
+  plans and training records, to ensure venue compliance and safety.
+slug: documentation-compliance-martyns-law-needed
+unique id: 1744633430856x426114294548744400
 featured: false
-breadcrumb short: "Documentation"
-pillar text: "Health & Safety System"
+breadcrumb short: Documentation
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +121,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

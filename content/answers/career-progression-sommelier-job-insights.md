@@ -1,18 +1,22 @@
 ---
-title: "How do I provide insights into career progression in a sommelier job description?"
-meta: |
-  Discover how to enhance a sommelier job description by outlining clear career progression paths, including leadership roles and professional development opportunities.
-slug: "career-progression-sommelier-job-insights"
-unique id: "1749719691484x296454155417944060"
+title: >-
+  How do I provide insights into career progression in a sommelier job
+  description?
+meta: >
+  Discover how to enhance a sommelier job description by outlining clear career
+  progression paths, including leadership roles and professional development
+  opportunities.
+slug: career-progression-sommelier-job-insights
+unique id: 1749719691484x296454155417944060
 featured: false
-breadcrumb short: "Career"
-pillar text: "Job Interviews"
+breadcrumb short: Career
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

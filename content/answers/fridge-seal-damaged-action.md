@@ -1,18 +1,20 @@
 ---
-title: "What should I do if I notice the fridge seal is damaged?"
-meta: |
-  Learn what to do if you notice a damaged fridge seal, including monitoring temperatures, moving food if necessary, and preventing future damage through regular inspections.
-slug: "fridge-seal-damaged-action"
-unique id: "1732637351822x474101319672824300"
+title: What should I do if I notice the fridge seal is damaged?
+meta: >
+  Learn what to do if you notice a damaged fridge seal, including monitoring
+  temperatures, moving food if necessary, and preventing future damage through
+  regular inspections.
+slug: fridge-seal-damaged-action
+unique id: 1732637351822x474101319672824300
 featured: false
-breadcrumb short: "Fridge Seals Damaged"
-pillar text: "Food Safety System"
+breadcrumb short: Fridge Seals Damaged
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Fridge Temperatures"
+subpage text: Fridge Temperatures
 subpage link: |
   https://yourpilla.com/blog/fridge-temperature-checks
-blog: "How to Set Up Fridge Temperature Checks"
+blog: How to Set Up Fridge Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Emergency procedures and corrective actions
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

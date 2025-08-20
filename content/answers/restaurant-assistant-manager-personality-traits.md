@@ -1,19 +1,23 @@
 ---
-title: "What personality traits should I add to a Restaurant Assistant Manager job description?"
-meta: |
-  Discover how to effectively define personality traits for a Restaurant Assistant Manager to match your restaurant's culture and operational style.
-slug: "restaurant-assistant-manager-personality-traits"
-unique id: "1750236126791x375979477492564000"
+title: >-
+  What personality traits should I add to a Restaurant Assistant Manager job
+  description?
+meta: >
+  Discover how to effectively define personality traits for a Restaurant
+  Assistant Manager to match your restaurant's culture and operational style.
+slug: restaurant-assistant-manager-personality-traits
+unique id: 1750236126791x375979477492564000
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

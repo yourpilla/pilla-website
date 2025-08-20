@@ -1,15 +1,17 @@
 ---
-title: "What does a Chef de Tournant do?"
-meta: |
-  Explore the versatile role of a Chef de Tournant, a key figure in the kitchen who adapts to various culinary stations, ensuring smooth operations and high-quality food preparation.
-slug: "chef-de-tournant-does-what"
-unique id: "1745420497012x539050201066304560"
+title: What does a Chef de Tournant do?
+meta: >
+  Explore the versatile role of a Chef de Tournant, a key figure in the kitchen
+  who adapts to various culinary stations, ensuring smooth operations and
+  high-quality food preparation.
+slug: chef-de-tournant-does-what
+unique id: 1745420497012x539050201066304560
 featured: false
-breadcrumb short: "Chef de Tournant"
-pillar text: "Job Descriptions"
+breadcrumb short: Chef de Tournant
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

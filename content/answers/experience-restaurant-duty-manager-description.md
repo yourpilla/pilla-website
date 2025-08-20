@@ -1,19 +1,24 @@
 ---
-title: "What level of experience should I include in a Restaurant Duty Manager job description?"
-meta: |
-  Discover how to effectively define experience requirements in a Restaurant Duty Manager job description, emphasising industry-specific skills over mere tenure.
-slug: "experience-restaurant-duty-manager-description"
-unique id: "1750237169526x677619072852033500"
+title: >-
+  What level of experience should I include in a Restaurant Duty Manager job
+  description?
+meta: >
+  Discover how to effectively define experience requirements in a Restaurant
+  Duty Manager job description, emphasising industry-specific skills over mere
+  tenure.
+slug: experience-restaurant-duty-manager-description
+unique id: 1750237169526x677619072852033500
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Duty Manager Job Description"
+subpage text: Restaurant Duty Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-duty-manager-duties
-blog: |
-  How to write a restaurant duty manager job description: restaurant duty manager job description template included.
+blog: >
+  How to write a restaurant duty manager job description: restaurant duty
+  manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

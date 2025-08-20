@@ -1,18 +1,20 @@
 ---
-title: "How do I identify hazards in my front of house risk assessment?"
-meta: |
-  Discover effective strategies for identifying hazards in front-of-house areas during various service times, and learn about common misunderstandings in risk assessments.
-slug: "identify-hazards-front-house-risk"
-unique id: "1744896519240x733363053796624600"
+title: How do I identify hazards in my front of house risk assessment?
+meta: >
+  Discover effective strategies for identifying hazards in front-of-house areas
+  during various service times, and learn about common misunderstandings in risk
+  assessments.
+slug: identify-hazards-front-house-risk
+unique id: 1744896519240x733363053796624600
 featured: false
-breadcrumb short: "Hazards"
-pillar text: "Health & Safety System"
+breadcrumb short: Hazards
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Restaurant Risk Assessments"
+subpage text: Restaurant Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/restaurant-risk-assessment
-blog: "How to Do a Restaurant Risk Assessment"
+blog: How to Do a Restaurant Risk Assessment
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

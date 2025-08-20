@@ -1,19 +1,23 @@
 ---
-title: "How can I describe my venue atmosphere in a Restaurant Assistant Manager job description?"
-meta: |
-  Explore how to effectively describe your restaurant's atmosphere, culinary theme, and cultural traits in a Restaurant Assistant Manager job description.
-slug: "venue-atmosphere-restaurant-assistant-manager"
-unique id: "1750235986854x442983654482509800"
+title: >-
+  How can I describe my venue atmosphere in a Restaurant Assistant Manager job
+  description?
+meta: >
+  Explore how to effectively describe your restaurant's atmosphere, culinary
+  theme, and cultural traits in a Restaurant Assistant Manager job description.
+slug: venue-atmosphere-restaurant-assistant-manager
+unique id: 1750235986854x442983654482509800
 featured: false
-breadcrumb short: "Venue"
-pillar text: "Job Descriptions"
+breadcrumb short: Venue
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

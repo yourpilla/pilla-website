@@ -1,20 +1,23 @@
 ---
-title: |
-  How should staff management responsibilities be outlined in a Restaurant Assistant Manager job description?
-meta: |
-  Discover how to accurately define a Restaurant Assistant Manager's role in staff management, team development, and motivation in a job description.
-slug: "staff-management-assistant-manager-responsibilities"
-unique id: "1750236038367x439081992568176640"
+title: >
+  How should staff management responsibilities be outlined in a Restaurant
+  Assistant Manager job description?
+meta: >
+  Discover how to accurately define a Restaurant Assistant Manager's role in
+  staff management, team development, and motivation in a job description.
+slug: staff-management-assistant-manager-responsibilities
+unique id: 1750236038367x439081992568176640
 featured: false
-breadcrumb short: "Management"
-pillar text: "Job Descriptions"
+breadcrumb short: Management
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -113,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

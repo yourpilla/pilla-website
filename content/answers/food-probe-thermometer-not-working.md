@@ -1,19 +1,21 @@
 ---
 title: |
   Who should I tell if my food probe thermometer isn't working properly?
-meta: |
-  Learn what to do if your food probe thermometer is faulty, including who to tell, signs to look for, and why you shouldn't keep using it. Always record issues in Pilla for a complete record.
-slug: "food-probe-thermometer-not-working"
-unique id: "1734019673649x351827975716650050"
+meta: >
+  Learn what to do if your food probe thermometer is faulty, including who to
+  tell, signs to look for, and why you shouldn't keep using it. Always record
+  issues in Pilla for a complete record.
+slug: food-probe-thermometer-not-working
+unique id: 1734019673649x351827975716650050
 featured: false
-breadcrumb short: "Reporting Errors"
-pillar text: "Food Safety System"
+breadcrumb short: Reporting Errors
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Probe Thermometer"
+subpage text: Food Probe Thermometer
 subpage link: |
   https://yourpilla.com/blog/using-food-temperature-probes
-blog: "How to Set Up Legionella Temperature Testing Checks"
+blog: How to Set Up Legionella Temperature Testing Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

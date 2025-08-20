@@ -1,15 +1,17 @@
 ---
-title: "What are the main responsibilities of a Head Chef?"
-meta: |
-  Discover the multifaceted role of a Head Chef, encompassing kitchen management, menu setting, and ensuring high culinary standards in a restaurant.
-slug: "main-responsibilities-head-chef"
-unique id: "1745420497011x670961943492159900"
+title: What are the main responsibilities of a Head Chef?
+meta: >
+  Discover the multifaceted role of a Head Chef, encompassing kitchen
+  management, menu setting, and ensuring high culinary standards in a
+  restaurant.
+slug: main-responsibilities-head-chef
+unique id: 1745420497011x670961943492159900
 featured: false
-breadcrumb short: "Head Chef (Chef de Cuisine)"
-pillar text: "Job Descriptions"
+breadcrumb short: Head Chef (Chef de Cuisine)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

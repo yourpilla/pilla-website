@@ -1,18 +1,22 @@
 ---
-title: "What do I do if the food probe thermometer reading is off by more than 1 degree?"
-meta: |
-  Learn what to do if your food probe thermometer is off by more than 1C during calibration testing, including taking it out of service and replacing it immediately.
-slug: "food-probe-thermometer-reading-off"
-unique id: "1734019668737x716752198749315300"
+title: >-
+  What do I do if the food probe thermometer reading is off by more than 1
+  degree?
+meta: >
+  Learn what to do if your food probe thermometer is off by more than 1C during
+  calibration testing, including taking it out of service and replacing it
+  immediately.
+slug: food-probe-thermometer-reading-off
+unique id: 1734019668737x716752198749315300
 featured: false
-breadcrumb short: "Incorrect 1C"
-pillar text: "Food Safety System"
+breadcrumb short: Incorrect 1C
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Probe Thermometer"
+subpage text: Food Probe Thermometer
 subpage link: |
   https://yourpilla.com/blog/using-food-temperature-probes
-blog: "How to Set Up Legionella Temperature Testing Checks"
+blog: How to Set Up Legionella Temperature Testing Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +109,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Emergency procedures and corrective actions
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

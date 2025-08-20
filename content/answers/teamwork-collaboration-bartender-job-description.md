@@ -1,19 +1,23 @@
 ---
-title: "How should I phrase teamwork and collaboration expectations in a Bartender job description?"
-meta: |
-  Discover how to effectively outline teamwork and collaboration in a bartender job description, including team size and interaction with floor staff.
-slug: "teamwork-collaboration-bartender-job-description"
-unique id: "1748429917194x911815410489825900"
+title: >-
+  How should I phrase teamwork and collaboration expectations in a Bartender job
+  description?
+meta: >
+  Discover how to effectively outline teamwork and collaboration in a bartender
+  job description, including team size and interaction with floor staff.
+slug: teamwork-collaboration-bartender-job-description
+unique id: 1748429917194x911815410489825900
 featured: false
-breadcrumb short: "Teamwork"
-pillar text: "Job Descriptions"
+breadcrumb short: Teamwork
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

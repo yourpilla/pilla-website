@@ -1,15 +1,16 @@
 ---
-title: "What does an Environmental Health Officer do?"
-meta: |
-  Discover the role of Environmental Health Officers in ensuring public health within the hospitality sector, including their inspection duties and powers.
-slug: "environmental-health-officer-does-what"
-unique id: "1746109267527x936466138928877600"
+title: What does an Environmental Health Officer do?
+meta: >
+  Discover the role of Environmental Health Officers in ensuring public health
+  within the hospitality sector, including their inspection duties and powers.
+slug: environmental-health-officer-does-what
+unique id: 1746109267527x936466138928877600
 featured: false
-breadcrumb short: "Duties"
-pillar text: "Food Safety System"
+breadcrumb short: Duties
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "EHOs"
+subpage text: EHOs
 subpage link: |
   https://yourpilla.com/blog/know-about-environment-health-officer
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

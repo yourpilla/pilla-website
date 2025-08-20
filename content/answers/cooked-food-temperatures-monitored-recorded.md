@@ -1,18 +1,20 @@
 ---
-title: "How should cooked food temperatures be monitored and recorded?"
-meta: |
-  Discover essential food safety practices, including correct cooking temperatures and handling guidelines to prevent contamination and ensure meals are safe to consume.
-slug: "cooked-food-temperatures-monitored-recorded"
-unique id: "1743670469423x257747307593127800"
+title: How should cooked food temperatures be monitored and recorded?
+meta: >
+  Discover essential food safety practices, including correct cooking
+  temperatures and handling guidelines to prevent contamination and ensure meals
+  are safe to consume.
+slug: cooked-food-temperatures-monitored-recorded
+unique id: 1743670469423x257747307593127800
 featured: false
-breadcrumb short: "How"
-pillar text: "Food Safety System"
+breadcrumb short: How
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Temperature monitoring guidelines and procedures
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

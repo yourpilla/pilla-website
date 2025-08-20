@@ -1,18 +1,20 @@
 ---
-title: "What if I find pest damage in a food delivery?"
-meta: |
-  Learn what to do if you find pest damage in a food delivery, including rejecting affected items, inspecting the entire delivery, and working with reputable suppliers to prevent future issues.
-slug: "pest-damage-food-delivery"
-unique id: "1734097894704x511230194721136200"
+title: What if I find pest damage in a food delivery?
+meta: >
+  Learn what to do if you find pest damage in a food delivery, including
+  rejecting affected items, inspecting the entire delivery, and working with
+  reputable suppliers to prevent future issues.
+slug: pest-damage-food-delivery
+unique id: 1734097894704x511230194721136200
 featured: false
-breadcrumb short: "Pest Delivery"
-pillar text: "Food Safety System"
+breadcrumb short: Pest Delivery
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Delivery Records"
+subpage text: Delivery Records
 subpage link: |
   https://yourpilla.com/blog/delivery-records
-blog: "How to Set Up Food Delivery Checks"
+blog: How to Set Up Food Delivery Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -119,6 +121,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 \`\`\`html

@@ -76,6 +76,11 @@ export default async function FAQPage({ params }: FAQPageProps) {
               <h1 className="mt-2 h1">
                 {faq.title}
               </h1>
+              {faq.frontmatter.subtitle && (
+                <p className="mt-6 small-grey">
+                  {faq.frontmatter.subtitle}
+                </p>
+              )}
             </div>
           </div>
         </div>
@@ -145,6 +150,7 @@ export default async function FAQPage({ params }: FAQPageProps) {
 
 ### Header Section (Fixed Layout)
 - **title_source**: `{faq.title}` | **typography**: `h1 + text-4xl font-semibold` *(Dynamic from content system)*
+- **subtitle_source**: `{faq.frontmatter.subtitle}` | **typography**: `small-grey` *(Dynamic from YAML frontmatter)*
 
 ### Background Pattern (SVG)
 - **background_style**: "Grid pattern with radial gradient mask" | **color**: `stroke-gray-200 fill-gray-50`

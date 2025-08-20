@@ -1,19 +1,21 @@
 ---
-title: "What core responsibilities should be listed in a Head Chef job description?"
-meta: |
-  Learn essential elements to include in a Head Chef job description, covering culinary innovation, team management, and operational duties.
-slug: "core-responsibilities-head-chef-job"
-unique id: "1750063288126x538503817845014500"
+title: What core responsibilities should be listed in a Head Chef job description?
+meta: >
+  Learn essential elements to include in a Head Chef job description, covering
+  culinary innovation, team management, and operational duties.
+slug: core-responsibilities-head-chef-job
+unique id: 1750063288126x538503817845014500
 featured: false
-breadcrumb short: "Responsibilities "
-pillar text: "Job Descriptions"
+breadcrumb short: 'Responsibilities '
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Head Chef Job Description"
+subpage text: Head Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/head-chef-job-description
-blog: |
-  How to write a head chef job description: head chef job description template included.
+blog: >
+  How to write a head chef job description: head chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

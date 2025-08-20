@@ -1,15 +1,16 @@
 ---
-title: "What are food safety management procedures under the Food Safety Act 1990?"
-meta: |
-  Explore the essential food safety management procedures under the Food Safety Act 1990, focusing on HACCP principles for businesses of all sizes.
-slug: "food-safety-management-procedures-act"
-unique id: "1745921768614x859694439656708600"
+title: What are food safety management procedures under the Food Safety Act 1990?
+meta: >
+  Explore the essential food safety management procedures under the Food Safety
+  Act 1990, focusing on HACCP principles for businesses of all sizes.
+slug: food-safety-management-procedures-act
+unique id: 1745921768614x859694439656708600
 featured: false
-breadcrumb short: "Procedures"
-pillar text: "Food Safety System"
+breadcrumb short: Procedures
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Act 1990"
+subpage text: Food Safety Act 1990
 subpage link: |
   https://yourpilla.com/blog/legislation-food-standards
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step procedures and protocols
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.

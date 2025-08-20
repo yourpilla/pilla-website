@@ -1,19 +1,24 @@
 ---
-title: "How can I detail customer service expectations in a Restaurant Assistant Manager job description?"
-meta: |
-  Discover how to detail customer service expectations in a Restaurant Assistant Manager job description to enhance guest experiences and manage feedback effectively.
-slug: "detail-customer-service-restaurant-assistant-manager"
-unique id: "1750236060036x692343991353999400"
+title: >-
+  How can I detail customer service expectations in a Restaurant Assistant
+  Manager job description?
+meta: >
+  Discover how to detail customer service expectations in a Restaurant Assistant
+  Manager job description to enhance guest experiences and manage feedback
+  effectively.
+slug: detail-customer-service-restaurant-assistant-manager
+unique id: 1750236060036x692343991353999400
 featured: false
-breadcrumb short: "Customer Service"
-pillar text: "Job Descriptions"
+breadcrumb short: Customer Service
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

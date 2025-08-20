@@ -1,19 +1,21 @@
 ---
-title: "What legal or compliance information belongs in a Bartender job description?"
-meta: |
-  Explore essential legal and compliance details to include in a bartender job description, such as age limits, licensing, and mandatory safety training.
-slug: "legal-compliance-bartender-job-description"
-unique id: "1748429917193x851450468369604500"
+title: What legal or compliance information belongs in a Bartender job description?
+meta: >
+  Explore essential legal and compliance details to include in a bartender job
+  description, such as age limits, licensing, and mandatory safety training.
+slug: legal-compliance-bartender-job-description
+unique id: 1748429917193x851450468369604500
 featured: false
-breadcrumb short: "Compliance"
-pillar text: "Job Descriptions"
+breadcrumb short: Compliance
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Legal requirements and compliance obligations
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

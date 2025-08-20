@@ -1,18 +1,20 @@
 ---
-title: "How should hot holding equipment be maintained and cleaned?"
-meta: |
-  Discover essential tips for maintaining and cleaning hot holding equipment to ensure food safety, including common misconceptions and necessary deep cleaning practices.
-slug: "maintaining-cleaning-hot-holding-equipment"
-unique id: "1744190546780x592352550857575000"
+title: How should hot holding equipment be maintained and cleaned?
+meta: >
+  Discover essential tips for maintaining and cleaning hot holding equipment to
+  ensure food safety, including common misconceptions and necessary deep
+  cleaning practices.
+slug: maintaining-cleaning-hot-holding-equipment
+unique id: 1744190546780x592352550857575000
 featured: false
-breadcrumb short: "Equipment Maintenance"
-pillar text: "Food Safety System"
+breadcrumb short: Equipment Maintenance
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Hot Holding"
+subpage text: Hot Holding
 subpage link: |
   https://yourpilla.com/blog/hot-holding
-blog: "How to Set Up Hot Holding Temperature Checks"
+blog: How to Set Up Hot Holding Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

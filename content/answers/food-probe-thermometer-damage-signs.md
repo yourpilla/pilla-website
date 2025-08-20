@@ -1,18 +1,19 @@
 ---
-title: "How do I know if my food probe thermometer is damaged?"
-meta: |
-  Learn how to spot signs of damage in your food probe thermometer and what steps to take if you suspect it's faulty. Includes tips on proper maintenance.
-slug: "food-probe-thermometer-damage-signs"
-unique id: "1734019664111x807757715247392500"
+title: How do I know if my food probe thermometer is damaged?
+meta: >
+  Learn how to spot signs of damage in your food probe thermometer and what
+  steps to take if you suspect it's faulty. Includes tips on proper maintenance.
+slug: food-probe-thermometer-damage-signs
+unique id: 1734019664111x807757715247392500
 featured: false
-breadcrumb short: "Damaged"
-pillar text: "Food Safety System"
+breadcrumb short: Damaged
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Probe Thermometer"
+subpage text: Food Probe Thermometer
 subpage link: |
   https://yourpilla.com/blog/using-food-temperature-probes
-blog: "How to Set Up Legionella Temperature Testing Checks"
+blog: How to Set Up Legionella Temperature Testing Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Identification methods and quality indicators
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

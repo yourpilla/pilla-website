@@ -1,12 +1,15 @@
 ---
-title: "What opportunities for growth should I mention in a Head Waiter job description?"
-meta: |
-  Discover how to effectively outline growth opportunities in a Head Waiter job description to attract and retain ambitious candidates.
-slug: "opportunities-growth-head-waiter-description"
-unique id: "1749721903626x966548572712730600"
+title: >-
+  What opportunities for growth should I mention in a Head Waiter job
+  description?
+meta: >
+  Discover how to effectively outline growth opportunities in a Head Waiter job
+  description to attract and retain ambitious candidates.
+slug: opportunities-growth-head-waiter-description
+unique id: 1749721903626x966548572712730600
 featured: false
-breadcrumb short: "Career Growth"
-pillar text: "Job Interviews"
+breadcrumb short: Career Growth
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
 subpage text: |
@@ -113,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

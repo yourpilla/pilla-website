@@ -1,13 +1,14 @@
 ---
 title: |
   When does Martyn's Law come into force?
-meta: |
-  Explore the implementation timeline of Martyn's Law, its enforcement date, and the reasons behind the grace period before it comes into force.
-slug: "martyns-law-come-into-force"
-unique id: "1744633430849x778928489698018700"
+meta: >
+  Explore the implementation timeline of Martyn's Law, its enforcement date, and
+  the reasons behind the grace period before it comes into force.
+slug: martyns-law-come-into-force
+unique id: 1744633430849x778928489698018700
 featured: false
-breadcrumb short: "When"
-pillar text: "Health & Safety System"
+breadcrumb short: When
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +121,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

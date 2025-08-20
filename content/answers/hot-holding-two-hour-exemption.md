@@ -1,18 +1,20 @@
 ---
-title: "What is the hot holding two-hour exemption?"
-meta: |
-  Understand the hot holding two-hour exemption, which allows food to be kept below 63°C for up to two hours during events, and learn the correct procedures to follow once the exemption period ends.
-slug: "hot-holding-two-hour-exemption"
-unique id: "1744190546778x602602803625264900"
+title: What is the hot holding two-hour exemption?
+meta: >
+  Understand the hot holding two-hour exemption, which allows food to be kept
+  below 63°C for up to two hours during events, and learn the correct procedures
+  to follow once the exemption period ends.
+slug: hot-holding-two-hour-exemption
+unique id: 1744190546778x602602803625264900
 featured: false
-breadcrumb short: "Hot Holding Two Hour Exception"
-pillar text: "Food Safety System"
+breadcrumb short: Hot Holding Two Hour Exception
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Hot Holding"
+subpage text: Hot Holding
 subpage link: |
   https://yourpilla.com/blog/hot-holding
-blog: "How to Set Up Hot Holding Temperature Checks"
+blog: How to Set Up Hot Holding Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

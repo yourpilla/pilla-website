@@ -1,15 +1,16 @@
 ---
-title: "What are the responsibilities of a Patissier?"
-meta: |
-  Discover the role and unique responsibilities of a Patissier, including their creative and managerial duties, and the necessary skills and training.
-slug: "responsibilities-patissier-what-are"
-unique id: "1745420497013x275210973088673160"
+title: What are the responsibilities of a Patissier?
+meta: >
+  Discover the role and unique responsibilities of a Patissier, including their
+  creative and managerial duties, and the necessary skills and training.
+slug: responsibilities-patissier-what-are
+unique id: 1745420497013x275210973088673160
 featured: false
-breadcrumb short: "Patissier (Pastry Chef)"
-pillar text: "Job Descriptions"
+breadcrumb short: Patissier (Pastry Chef)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

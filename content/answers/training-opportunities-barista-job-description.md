@@ -1,19 +1,21 @@
 ---
-title: "What should I write about training opportunities in a Barista job description?"
-meta: |
-  Discover how to effectively include training and growth opportunities in a barista job description to attract and retain skilled candidates.
-slug: "training-opportunities-barista-job-description"
-unique id: "1748534800136x181613154942179100"
+title: What should I write about training opportunities in a Barista job description?
+meta: >
+  Discover how to effectively include training and growth opportunities in a
+  barista job description to attract and retain skilled candidates.
+slug: training-opportunities-barista-job-description
+unique id: 1748534800136x181613154942179100
 featured: false
-breadcrumb short: "Training"
-pillar text: "Job Descriptions"
+breadcrumb short: Training
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barista Job Descriptions"
+subpage text: Barista Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barista-job-description
-blog: |
-  How to write a barista job description: barista job description template included.
+blog: >
+  How to write a barista job description: barista job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -98,6 +100,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Training requirements and certification guidelines
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

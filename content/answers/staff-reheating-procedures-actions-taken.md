@@ -1,18 +1,20 @@
 ---
-title: "What actions should be taken if staff do not follow reheating procedures?"
-meta: |
-  Understand the legal reheating temperatures for foods, how to monitor compliance using a digital task template, and corrective actions for reheating errors.
-slug: "staff-reheating-procedures-actions-taken"
-unique id: "1744115592502x271865920951998000"
+title: What actions should be taken if staff do not follow reheating procedures?
+meta: >
+  Understand the legal reheating temperatures for foods, how to monitor
+  compliance using a digital task template, and corrective actions for reheating
+  errors.
+slug: staff-reheating-procedures-actions-taken
+unique id: 1744115592502x271865920951998000
 featured: false
-breadcrumb short: "Staff Training"
-pillar text: "Food Safety System"
+breadcrumb short: Staff Training
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step procedures and protocols
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

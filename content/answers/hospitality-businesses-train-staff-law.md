@@ -1,13 +1,14 @@
 ---
 title: |
   How should hospitality businesses train staff under Martyn's Law?
-meta: |
-  Explore training guidelines for hospitality staff under Martyn's Law, focusing on suspicious behaviour awareness and emergency procedures.
-slug: "hospitality-businesses-train-staff-law"
-unique id: "1744633430850x291480292688021300"
+meta: >
+  Explore training guidelines for hospitality staff under Martyn's Law, focusing
+  on suspicious behaviour awareness and emergency procedures.
+slug: hospitality-businesses-train-staff-law
+unique id: 1744633430850x291480292688021300
 featured: false
-breadcrumb short: "Training"
-pillar text: "Health & Safety System"
+breadcrumb short: Training
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +121,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

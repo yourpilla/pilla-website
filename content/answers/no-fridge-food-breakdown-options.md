@@ -1,19 +1,22 @@
 ---
-title: |
-  What happens if we don't have another fridge to move food to during a breakdown?
-meta: |
-  Learn what to do if your fridge breaks down and you can't move food to another unit. Find out which foods are affected and how to document the incident correctly in Pilla.
-slug: "no-fridge-food-breakdown-options"
-unique id: "1732637351762x839386587469218600"
+title: >
+  What happens if we don't have another fridge to move food to during a
+  breakdown?
+meta: >
+  Learn what to do if your fridge breaks down and you can't move food to another
+  unit. Find out which foods are affected and how to document the incident
+  correctly in Pilla.
+slug: no-fridge-food-breakdown-options
+unique id: 1732637351762x839386587469218600
 featured: false
-breadcrumb short: "Fridge Breakdown Move"
-pillar text: "Food Safety System"
+breadcrumb short: Fridge Breakdown Move
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Fridge Temperatures"
+subpage text: Fridge Temperatures
 subpage link: |
   https://yourpilla.com/blog/fridge-temperature-checks
-blog: "How to Set Up Fridge Temperature Checks"
+blog: How to Set Up Fridge Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +109,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

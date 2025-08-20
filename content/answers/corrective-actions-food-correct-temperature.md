@@ -1,19 +1,22 @@
 ---
-title: |
-  What corrective actions should be taken if food doesn't reach the correct temperature?
-meta: |
-  Discover the essential time and temperature combinations for safely cooking foods to prevent foodborne illnesses, and learn best practices for food handling.
-slug: "corrective-actions-food-correct-temperature"
-unique id: "1743670469430x216709060494547420"
+title: >
+  What corrective actions should be taken if food doesn't reach the correct
+  temperature?
+meta: >
+  Discover the essential time and temperature combinations for safely cooking
+  foods to prevent foodborne illnesses, and learn best practices for food
+  handling.
+slug: corrective-actions-food-correct-temperature
+unique id: 1743670469430x216709060494547420
 featured: false
-breadcrumb short: "Corrective Action"
-pillar text: "Food Safety System"
+breadcrumb short: Corrective Action
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

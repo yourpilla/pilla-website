@@ -1,19 +1,23 @@
 ---
-title: "What should I discuss in the cooking responsibilities in a Chef de Partie job description?"
-meta: |
-  Explore key responsibilities of a Chef de Partie, including dish preparation, kitchen team coordination, and maintaining high service standards.
-slug: "chef-de-partie-cooking-responsibilities-discuss"
-unique id: "1749803811121x311964499986612200"
+title: >-
+  What should I discuss in the cooking responsibilities in a Chef de Partie job
+  description?
+meta: >
+  Explore key responsibilities of a Chef de Partie, including dish preparation,
+  kitchen team coordination, and maintaining high service standards.
+slug: chef-de-partie-cooking-responsibilities-discuss
+unique id: 1749803811121x311964499986612200
 featured: false
-breadcrumb short: "Cooking"
-pillar text: "Job Descriptions"
+breadcrumb short: Cooking
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef de Partie Job Description"
+subpage text: Chef de Partie Job Description
 subpage link: |
   https://yourpilla.com/blog/chef-de-partie-job-description
-blog: |
-  How to write a chef de partie job description: chef de partie job description template included.
+blog: >
+  How to write a chef de partie job description: chef de partie job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,19 @@
 ---
-title: "How many times can food be reheated safely?"
-meta: |
-  Discover the specific reheating temperatures required for food safety, the importance of using the correct equipment, and steps to document compliance.
-slug: "reheated-food-safety-dangers-times"
-unique id: "1744115592498x268781220942310370"
+title: How many times can food be reheated safely?
+meta: >
+  Discover the specific reheating temperatures required for food safety, the
+  importance of using the correct equipment, and steps to document compliance.
+slug: reheated-food-safety-dangers-times
+unique id: 1744115592498x268781220942310370
 featured: false
-breadcrumb short: "Frequency"
-pillar text: "Food Safety System"
+breadcrumb short: Frequency
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +113,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "1/4/2025"
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,19 +1,21 @@
 ---
-title: "What pay details need to be included in a Restaurant Manager job description?"
-meta: |
-  Discover the importance of specifying salary details in a Restaurant Manager job description to attract the right candidates and ensure transparency.
-slug: "restaurant-manager-job-pay-details"
-unique id: "1750065128625x555394943575621600"
+title: What pay details need to be included in a Restaurant Manager job description?
+meta: >
+  Discover the importance of specifying salary details in a Restaurant Manager
+  job description to attract the right candidates and ensure transparency.
+slug: restaurant-manager-job-pay-details
+unique id: 1750065128625x555394943575621600
 featured: false
-breadcrumb short: "Pay"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Manager Job Description"
+subpage text: Restaurant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-manager-job-description
-blog: |
-  How to write a restaurant manager job description: restaurant manager job description template included.
+blog: >
+  How to write a restaurant manager job description: restaurant manager job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

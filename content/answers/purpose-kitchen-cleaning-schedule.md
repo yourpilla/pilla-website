@@ -1,18 +1,20 @@
 ---
-title: "What is the purpose of a kitchen cleaning schedule?"
-meta: |
-  Discover the importance of a kitchen cleaning schedule to maintain hygiene, ensure food safety, and comply with health standards in both commercial and small kitchens.
-slug: "purpose-kitchen-cleaning-schedule"
-unique id: "1746622446224x399964018560991600"
+title: What is the purpose of a kitchen cleaning schedule?
+meta: >
+  Discover the importance of a kitchen cleaning schedule to maintain hygiene,
+  ensure food safety, and comply with health standards in both commercial and
+  small kitchens.
+slug: purpose-kitchen-cleaning-schedule
+unique id: 1746622446224x399964018560991600
 featured: false
-breadcrumb short: "Purpose"
-pillar text: "Food Safety System"
+breadcrumb short: Purpose
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Cleaning"
+subpage text: Kitchen Cleaning
 subpage link: |
   https://yourpilla.com/blog/kitchen-cleaning-checklist
-blog: "How to create a Kitchen Cleaning Schedule"
+blog: How to create a Kitchen Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -131,6 +133,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

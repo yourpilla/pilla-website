@@ -1,19 +1,21 @@
 ---
-title: "What types of benefits should we include a Barback job description?"
-meta: |
-  Explore effective benefits for Barbacks, including both monetary and non-monetary perks, and learn how these can attract and retain staff.
-slug: "benefits-include-barback-job-description"
-unique id: "1747841008450x519561364158294800"
+title: What types of benefits should we include a Barback job description?
+meta: >
+  Explore effective benefits for Barbacks, including both monetary and
+  non-monetary perks, and learn how these can attract and retain staff.
+slug: benefits-include-barback-job-description
+unique id: 1747841008450x519561364158294800
 featured: false
-breadcrumb short: "Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barback Job Descriptions"
+subpage text: Barback Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barback-job-description
-blog: |
-  How to write a barback job description: barback job description template included.
+blog: >
+  How to write a barback job description: barback job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -98,6 +100,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

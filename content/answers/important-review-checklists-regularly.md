@@ -1,18 +1,19 @@
 ---
-title: "Why is it important to review your checklists regularly?"
-meta: |
-  Discover why regularly reviewing your kitchen checklists is crucial for maintaining safety and efficiency, and learn what triggers a checklist review.
-slug: "important-review-checklists-regularly"
-unique id: "1746609287201x318849071836565060"
+title: Why is it important to review your checklists regularly?
+meta: >
+  Discover why regularly reviewing your kitchen checklists is crucial for
+  maintaining safety and efficiency, and learn what triggers a checklist review.
+slug: important-review-checklists-regularly
+unique id: 1746609287201x318849071836565060
 featured: false
-breadcrumb short: "Review"
-pillar text: "Food Safety System"
+breadcrumb short: Review
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Opening/Closing"
+subpage text: Kitchen Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/kitchen-opening-closing-checklists
-blog: "How to Write a Kitchen a Opening and Closing Checklist"
+blog: How to Write a Kitchen a Opening and Closing Checklist
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +118,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

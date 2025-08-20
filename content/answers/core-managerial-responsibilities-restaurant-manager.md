@@ -1,19 +1,24 @@
 ---
-title: "What core managerial responsibilities should I include in a Restaurant Manager job description?"
-meta: |
-  Discover how to craft a Restaurant Manager job description that includes essential responsibilities for daily operations, staff management, and financial tasks.
-slug: "core-managerial-responsibilities-restaurant-manager"
-unique id: "1750065039549x158625156020830200"
+title: >-
+  What core managerial responsibilities should I include in a Restaurant Manager
+  job description?
+meta: >
+  Discover how to craft a Restaurant Manager job description that includes
+  essential responsibilities for daily operations, staff management, and
+  financial tasks.
+slug: core-managerial-responsibilities-restaurant-manager
+unique id: 1750065039549x158625156020830200
 featured: false
-breadcrumb short: "Managerial"
-pillar text: "Job Descriptions"
+breadcrumb short: Managerial
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Manager Job Description"
+subpage text: Restaurant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-manager-job-description
-blog: |
-  How to write a restaurant manager job description: restaurant manager job description template included.
+blog: >
+  How to write a restaurant manager job description: restaurant manager job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

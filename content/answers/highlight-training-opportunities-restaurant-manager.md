@@ -1,19 +1,24 @@
 ---
-title: "How can I highlight training opportunities in a Restaurant Manager job description?"
-meta: |
-  Discover how to enhance a Restaurant Manager job description by clearly detailing training and career development opportunities to attract skilled candidates.
-slug: "highlight-training-opportunities-restaurant-manager"
-unique id: "1750065152882x929623954302435300"
+title: >-
+  How can I highlight training opportunities in a Restaurant Manager job
+  description?
+meta: >
+  Discover how to enhance a Restaurant Manager job description by clearly
+  detailing training and career development opportunities to attract skilled
+  candidates.
+slug: highlight-training-opportunities-restaurant-manager
+unique id: 1750065152882x929623954302435300
 featured: false
-breadcrumb short: "Opportunities"
-pillar text: "Job Descriptions"
+breadcrumb short: Opportunities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Manager Job Description"
+subpage text: Restaurant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-manager-job-description
-blog: |
-  How to write a restaurant manager job description: restaurant manager job description template included.
+blog: >
+  How to write a restaurant manager job description: restaurant manager job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

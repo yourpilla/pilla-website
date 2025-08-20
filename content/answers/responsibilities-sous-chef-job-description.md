@@ -1,19 +1,21 @@
 ---
-title: "How do I effectively list key responsibilities in a Sous Chef job description?"
-meta: |
-  Discover how to craft an effective Sous Chef job description, focusing on specific pre-service, active service, and post-service responsibilities.
-slug: "responsibilities-sous-chef-job-description"
-unique id: "1749805178830x493034065963253760"
+title: How do I effectively list key responsibilities in a Sous Chef job description?
+meta: >
+  Discover how to craft an effective Sous Chef job description, focusing on
+  specific pre-service, active service, and post-service responsibilities.
+slug: responsibilities-sous-chef-job-description
+unique id: 1749805178830x493034065963253760
 featured: false
-breadcrumb short: "Key Responsibilities"
-pillar text: "Job Descriptions"
+breadcrumb short: Key Responsibilities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Sous Chef Job Description"
+subpage text: Sous Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/sous-chef-job-description
-blog: |
-  How to write a sous chef job description: sous chef job description template included.
+blog: >
+  How to write a sous chef job description: sous chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

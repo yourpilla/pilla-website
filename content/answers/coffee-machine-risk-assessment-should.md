@@ -1,18 +1,19 @@
 ---
-title: "What should be included in a coffee machine risk assessment?"
-meta: |
-  Discover essential daily safety and performance checks for coffee machines, including common misconceptions and the importance of using a checklist.
-slug: "coffee-machine-risk-assessment-should"
-unique id: "1745226754641x644433002790528500"
+title: What should be included in a coffee machine risk assessment?
+meta: >
+  Discover essential daily safety and performance checks for coffee machines,
+  including common misconceptions and the importance of using a checklist.
+slug: coffee-machine-risk-assessment-should
+unique id: 1745226754641x644433002790528500
 featured: false
-breadcrumb short: "Safety Checks"
-pillar text: "Health & Safety System"
+breadcrumb short: Safety Checks
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

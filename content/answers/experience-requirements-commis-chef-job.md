@@ -1,21 +1,23 @@
 ---
-title: |
-  How can I set appropriate experience requirements for a Commis Chef job description?
-  
-meta: |
-  Learn how to set appropriate experience requirements for a Commis Chef, including prioritising relevant culinary experience over duration.
-slug: "experience-requirements-commis-chef-job"
-unique id: "1749803125788x785699920599842800"
+title: >
+  How can I set appropriate experience requirements for a Commis Chef job
+  description?
+meta: >
+  Learn how to set appropriate experience requirements for a Commis Chef,
+  including prioritising relevant culinary experience over duration.
+slug: experience-requirements-commis-chef-job
+unique id: 1749803125788x785699920599842800
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -114,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

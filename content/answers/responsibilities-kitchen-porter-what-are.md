@@ -1,15 +1,16 @@
 ---
-title: "What are the responsibilities of a Kitchen Porter?"
-meta: |
-  Explore the key responsibilities of a Kitchen Porter, how they assist the chef team, and the differences between a Kitchen Porter and a Commis Chef.
-slug: "responsibilities-kitchen-porter-what-are"
-unique id: "1745420497014x699979671103381900"
+title: What are the responsibilities of a Kitchen Porter?
+meta: >
+  Explore the key responsibilities of a Kitchen Porter, how they assist the chef
+  team, and the differences between a Kitchen Porter and a Commis Chef.
+slug: responsibilities-kitchen-porter-what-are
+unique id: 1745420497014x699979671103381900
 featured: false
-breadcrumb short: "Kitchen Porter"
-pillar text: "Job Descriptions"
+breadcrumb short: Kitchen Porter
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

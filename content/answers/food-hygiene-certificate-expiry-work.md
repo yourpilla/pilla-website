@@ -1,19 +1,21 @@
 ---
-title: |
-  What happens if someone's food hygiene certificate expires - can they still work?
-meta: |
-  What happens if a food hygiene certificate expires? Staff can still work but must renew training ASAP. Online courses available for quick renewal.
-slug: "food-hygiene-certificate-expiry-work"
-unique id: "1734014563603x595631935925293000"
+title: >
+  What happens if someone's food hygiene certificate expires - can they still
+  work?
+meta: >
+  What happens if a food hygiene certificate expires? Staff can still work but
+  must renew training ASAP. Online courses available for quick renewal.
+slug: food-hygiene-certificate-expiry-work
+unique id: 1734014563603x595631935925293000
 featured: false
-breadcrumb short: "Expiration"
-pillar text: "Food Safety System"
+breadcrumb short: Expiration
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -53,6 +55,7 @@ schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

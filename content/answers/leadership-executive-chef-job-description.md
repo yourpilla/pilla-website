@@ -1,19 +1,24 @@
 ---
-title: "How do I describe leadership expectations in an Executive Chef job description?"
-meta: |
-  Explore how to effectively outline leadership expectations in an Executive Chef job description, emphasizing key qualities and mentoring responsibilities.
-slug: "leadership-executive-chef-job-description"
-unique id: "1750064236120x198289973874524160"
+title: >-
+  How do I describe leadership expectations in an Executive Chef job
+  description?
+meta: >
+  Explore how to effectively outline leadership expectations in an Executive
+  Chef job description, emphasizing key qualities and mentoring
+  responsibilities.
+slug: leadership-executive-chef-job-description
+unique id: 1750064236120x198289973874524160
 featured: false
-breadcrumb short: "Leadership"
-pillar text: "Job Descriptions"
+breadcrumb short: Leadership
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Executive Chef Job Description"
+subpage text: Executive Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/executive-chef-job-description
-blog: |
-  How to write a executive chef job description: executive chef job description template included.
+blog: >
+  How to write a executive chef job description: executive chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

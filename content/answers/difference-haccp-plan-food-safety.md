@@ -1,15 +1,19 @@
 ---
-title: "What is the difference between a HACCP plan and a Food Safety Management System?"
-meta: |
-  Explore the differences between a HACCP plan and a Food Safety Management System (FSMS), and understand why both are essential for comprehensive food safety.
-slug: "difference-haccp-plan-food-safety"
-unique id: "1745929282547x480222248246502140"
+title: >-
+  What is the difference between a HACCP plan and a Food Safety Management
+  System?
+meta: >
+  Explore the differences between a HACCP plan and a Food Safety Management
+  System (FSMS), and understand why both are essential for comprehensive food
+  safety.
+slug: difference-haccp-plan-food-safety
+unique id: 1745929282547x480222248246502140
 featured: false
-breadcrumb short: "HACCP vs FSMS"
-pillar text: "Food Safety System"
+breadcrumb short: HACCP vs FSMS
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "HACCP Meaning"
+subpage text: HACCP Meaning
 subpage link: |
   https://yourpilla.com/blog/haccp-meaning
 blog: |
@@ -118,6 +122,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Key distinctions and comparative analysis
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

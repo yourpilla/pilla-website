@@ -1,19 +1,23 @@
 ---
-title: "What experience should I ask for in a Bar Supervisor Bar Supervisor job description?"
-meta: |
-  Discover how to effectively specify experience requirements in a Bar Supervisor job description to attract suitable candidates.
-slug: "bar-supervisor-experience-job-description"
-unique id: "1748855959138x503531384328683500"
+title: >-
+  What experience should I ask for in a Bar Supervisor Bar Supervisor job
+  description?
+meta: >
+  Discover how to effectively specify experience requirements in a Bar
+  Supervisor job description to attract suitable candidates.
+slug: bar-supervisor-experience-job-description
+unique id: 1748855959138x503531384328683500
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Supervisor Job Description"
+subpage text: Bar Supervisor Job Description
 subpage link: |
   https://yourpilla.com/blog/bar-supervisor-duties
-blog: |
-  How to write a bar supervisor job description: bar supervisor job description template included.
+blog: >
+  How to write a bar supervisor job description: bar supervisor job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

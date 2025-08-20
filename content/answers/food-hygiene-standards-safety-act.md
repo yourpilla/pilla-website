@@ -1,15 +1,18 @@
 ---
-title: "What hygiene standards must food businesses meet under the Food Safety Act 1990?"
-meta: |
-  Discover the hygiene standards UK food businesses must meet under the Food Safety Act 1990, including continuous compliance and temperature control.
-slug: "food-hygiene-standards-safety-act"
-unique id: "1745921768614x905212563531775100"
+title: >-
+  What hygiene standards must food businesses meet under the Food Safety Act
+  1990?
+meta: >
+  Discover the hygiene standards UK food businesses must meet under the Food
+  Safety Act 1990, including continuous compliance and temperature control.
+slug: food-hygiene-standards-safety-act
+unique id: 1745921768614x905212563531775100
 featured: false
-breadcrumb short: "Hygiene"
-pillar text: "Food Safety System"
+breadcrumb short: Hygiene
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Act 1990"
+subpage text: Food Safety Act 1990
 subpage link: |
   https://yourpilla.com/blog/legislation-food-standards
 blog: |
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

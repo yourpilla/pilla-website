@@ -1,21 +1,24 @@
 ---
-title: |
-  What are examples of incentives that I could include in a Concierge job description?
-  
-meta: |
-  Discover effective incentives for Concierge job descriptions, including non-financial perks and flexible work conditions, to attract and retain top talent.
-slug: "incentives-concierge-job-description-examples"
-unique id: "1748867559768x697368315816575000"
+title: >
+  What are examples of incentives that I could include in a Concierge job
+  description?
+meta: >
+  Discover effective incentives for Concierge job descriptions, including
+  non-financial perks and flexible work conditions, to attract and retain top
+  talent.
+slug: incentives-concierge-job-description-examples
+unique id: 1748867559768x697368315816575000
 featured: false
-breadcrumb short: "Incentives"
-pillar text: "Job Descriptions"
+breadcrumb short: Incentives
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Concierge Job Description"
+subpage text: Concierge Job Description
 subpage link: |
   https://yourpilla.com/blog/concierge-job-description
-blog: |
-  How to write a concierge job description: concierge job description template included.
+blog: >
+  How to write a concierge job description: concierge job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -114,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

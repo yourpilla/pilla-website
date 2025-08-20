@@ -1,18 +1,19 @@
 ---
-title: "How should I carry out manual dishwashing when the dishwasher is broken?"
-meta: |
-  Discover how to maintain correct dishwasher temperatures for optimal hygiene and food safety, including essential maintenance tips and corrective actions.
-slug: "manual-washing"
-unique id: "1743586900090x350183526055095000"
+title: How should I carry out manual dishwashing when the dishwasher is broken?
+meta: >
+  Discover how to maintain correct dishwasher temperatures for optimal hygiene
+  and food safety, including essential maintenance tips and corrective actions.
+slug: manual-washing
+unique id: 1743586900090x350183526055095000
 featured: false
-breadcrumb short: "Manual Washing"
-pillar text: "Food Safety System"
+breadcrumb short: Manual Washing
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Dishwasher Temperatures"
+subpage text: Dishwasher Temperatures
 subpage link: |
   https://yourpilla.com/blog/dishwasher-temperature
-blog: "How to Set Up Dishwasher Temperature Checks"
+blog: How to Set Up Dishwasher Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -97,6 +98,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

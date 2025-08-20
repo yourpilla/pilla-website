@@ -1,15 +1,16 @@
 ---
-title: "What is a Hygiene Improvement Notice? "
-meta: |
-  Understand what a Hygiene Improvement Notice is, when it's issued, and the legal requirements for food businesses to comply.
-slug: "hygiene-improvement-notice-what-is"
-unique id: "1746109267529x636937649358549600"
+title: 'What is a Hygiene Improvement Notice? '
+meta: >
+  Understand what a Hygiene Improvement Notice is, when it's issued, and the
+  legal requirements for food businesses to comply.
+slug: hygiene-improvement-notice-what-is
+unique id: 1746109267529x636937649358549600
 featured: false
-breadcrumb short: "Improvement Notice"
-pillar text: "Food Safety System"
+breadcrumb short: Improvement Notice
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "EHOs"
+subpage text: EHOs
 subpage link: |
   https://yourpilla.com/blog/know-about-environment-health-officer
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

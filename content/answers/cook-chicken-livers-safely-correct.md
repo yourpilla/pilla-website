@@ -1,18 +1,19 @@
 ---
-title: "What is the correct way to cook chicken livers safely?"
-meta: |
-  Learn about scientifically proven time-temperature combinations to ensure food safety and how to implement effective food handling practices.
-slug: "cook-chicken-livers-safely-correct"
-unique id: "1743670469428x830881597009896000"
+title: What is the correct way to cook chicken livers safely?
+meta: >
+  Learn about scientifically proven time-temperature combinations to ensure food
+  safety and how to implement effective food handling practices.
+slug: cook-chicken-livers-safely-correct
+unique id: 1743670469428x830881597009896000
 featured: false
-breadcrumb short: "Chicken Livers"
-pillar text: "Food Safety System"
+breadcrumb short: Chicken Livers
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

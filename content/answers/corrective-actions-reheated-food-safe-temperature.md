@@ -1,18 +1,21 @@
 ---
-title: "What corrective actions should be taken if reheated food does not reach the safe temperature?"
-meta: |
-  Explore the specific reheating temperatures required for food safety, and learn about the procedures and records needed for compliance.
-slug: "corrective-actions-reheated-food-safe-temperature"
-unique id: "1744115592500x295689536309998100"
+title: >-
+  What corrective actions should be taken if reheated food does not reach the
+  safe temperature?
+meta: >
+  Explore the specific reheating temperatures required for food safety, and
+  learn about the procedures and records needed for compliance.
+slug: corrective-actions-reheated-food-safe-temperature
+unique id: 1744115592500x295689536309998100
 featured: false
-breadcrumb short: "Corrective Action"
-pillar text: "Food Safety System"
+breadcrumb short: Corrective Action
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

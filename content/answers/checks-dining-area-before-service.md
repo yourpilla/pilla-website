@@ -1,18 +1,20 @@
 ---
-title: "What checks should be done in the dining area before service begins?"
-meta: |
-  Explore essential pre-service checks for dining areas, including table setup, cutlery polishing, and adjusting lighting and music for optimal guest experience.
-slug: "checks-dining-area-before-service"
-unique id: "1746611300644x110869047513533890"
+title: What checks should be done in the dining area before service begins?
+meta: >
+  Explore essential pre-service checks for dining areas, including table setup,
+  cutlery polishing, and adjusting lighting and music for optimal guest
+  experience.
+slug: checks-dining-area-before-service
+unique id: 1746611300644x110869047513533890
 featured: false
-breadcrumb short: "Dining Area"
-pillar text: "Daily Operations"
+breadcrumb short: Dining Area
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Opening/Closing"
+subpage text: FOH Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create Restaurant Opening and Closing Checklists "
+blog: 'How to Create Restaurant Opening and Closing Checklists '
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +119,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

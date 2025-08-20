@@ -1,18 +1,20 @@
 ---
-title: "What core responsibilities should be listed in a sommelier job description?"
-meta: |
-  Explore the essential responsibilities for a sommelier, including wine knowledge, inventory management, and guest interaction, plus common misconceptions about the role.
-slug: "core-responsibilities-sommelier-job-description"
-unique id: "1749719503894x494095970293514240"
+title: What core responsibilities should be listed in a sommelier job description?
+meta: >
+  Explore the essential responsibilities for a sommelier, including wine
+  knowledge, inventory management, and guest interaction, plus common
+  misconceptions about the role.
+slug: core-responsibilities-sommelier-job-description
+unique id: 1749719503894x494095970293514240
 featured: false
-breadcrumb short: "Core Responsibilities"
-pillar text: "Job Interviews"
+breadcrumb short: Core Responsibilities
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

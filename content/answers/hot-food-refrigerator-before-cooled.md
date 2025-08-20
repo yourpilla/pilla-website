@@ -1,19 +1,21 @@
 ---
 title: |
   Why can't I place hot food in the refrigerator before it's thoroughly cooled?
-meta: |
-  Discover why cooling hot food before refrigeration is crucial to prevent temperature fluctuations that can lead to food spoilage and increased bacteria growth.
-slug: "hot-food-refrigerator-before-cooled"
-unique id: "1748966587385x609844322742829000"
+meta: >
+  Discover why cooling hot food before refrigeration is crucial to prevent
+  temperature fluctuations that can lead to food spoilage and increased bacteria
+  growth.
+slug: hot-food-refrigerator-before-cooled
+unique id: 1748966587385x609844322742829000
 featured: false
-breadcrumb short: "Hot Food Fridge"
-pillar text: "Food Safety System"
+breadcrumb short: Hot Food Fridge
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooling Foods"
+subpage text: Cooling Foods
 subpage link: |
   https://yourpilla.com/blog/cooling-food-safely
-blog: "How to Set Up Cooled Food Temperature Checks"
+blog: How to Set Up Cooled Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

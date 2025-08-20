@@ -1,19 +1,24 @@
 ---
-title: "What salary and benefits information should I make transparent in a Head Chef job description?"
-meta: |
-  Discover key insights on crafting an effective Head Chef job description, including salary transparency, benefits, and the importance of mentioning bonuses.
-slug: "salary-benefits-head-chef-description"
-unique id: "1750063388024x178602809909051400"
+title: >-
+  What salary and benefits information should I make transparent in a Head Chef
+  job description?
+meta: >
+  Discover key insights on crafting an effective Head Chef job description,
+  including salary transparency, benefits, and the importance of mentioning
+  bonuses.
+slug: salary-benefits-head-chef-description
+unique id: 1750063388024x178602809909051400
 featured: false
-breadcrumb short: "Pay and Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay and Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Head Chef Job Description"
+subpage text: Head Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/head-chef-job-description
-blog: |
-  How to write a head chef job description: head chef job description template included.
+blog: >
+  How to write a head chef job description: head chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -113,6 +118,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

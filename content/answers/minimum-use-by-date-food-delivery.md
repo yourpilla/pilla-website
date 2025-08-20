@@ -1,19 +1,21 @@
 ---
 title: |
   What's the minimum use-by date we should accept on a food delivery?
-meta: |
-  Ensure food safety by checking use-by and best before dates on deliveries. Reject items with less than 5 days (use-by) or 1 month (best before) remaining.
-slug: "minimum-use-by-date-food-delivery"
-unique id: "1734097900719x487462979394438500"
+meta: >
+  Ensure food safety by checking use-by and best before dates on deliveries.
+  Reject items with less than 5 days (use-by) or 1 month (best before)
+  remaining.
+slug: minimum-use-by-date-food-delivery
+unique id: 1734097900719x487462979394438500
 featured: false
-breadcrumb short: "Use-By-Date"
-pillar text: "Food Safety System"
+breadcrumb short: Use-By-Date
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Delivery Records"
+subpage text: Delivery Records
 subpage link: |
   https://yourpilla.com/blog/delivery-records
-blog: "How to Set Up Food Delivery Checks"
+blog: How to Set Up Food Delivery Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

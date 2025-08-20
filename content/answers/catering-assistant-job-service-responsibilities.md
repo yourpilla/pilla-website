@@ -1,19 +1,24 @@
 ---
-title: "What service responsibilities should be included in a Catering Assistant job description?"
-meta: |
-  Explore the key service responsibilities of a Catering Assistant, including setting up, managing food displays, guest interaction, and maintaining cleanliness during events.
-slug: "catering-assistant-job-service-responsibilities"
-unique id: "1748596461531x647207981020881000"
+title: >-
+  What service responsibilities should be included in a Catering Assistant job
+  description?
+meta: >
+  Explore the key service responsibilities of a Catering Assistant, including
+  setting up, managing food displays, guest interaction, and maintaining
+  cleanliness during events.
+slug: catering-assistant-job-service-responsibilities
+unique id: 1748596461531x647207981020881000
 featured: false
-breadcrumb short: "Service"
-pillar text: "Job Descriptions"
+breadcrumb short: Service
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Catering Assistant Job Descriptions"
+subpage text: Catering Assistant Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/catering-assistant-job-description
-blog: |
-  How to write a catering assistant job description: catering assistant job description template included.
+blog: >
+  How to write a catering assistant job description: catering assistant job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

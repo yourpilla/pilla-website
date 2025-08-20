@@ -1,18 +1,20 @@
 ---
-title: "Why are kitchen opening and closing checklists important for food safety?"
-meta: |
-  Explore the significance of kitchen opening and closing checklists for ensuring food safety, hygiene, and operational consistency in busy service times.
-slug: "kitchen-opening-closing-checklists-safety"
-unique id: "1746609287200x298046459956782000"
+title: Why are kitchen opening and closing checklists important for food safety?
+meta: >
+  Explore the significance of kitchen opening and closing checklists for
+  ensuring food safety, hygiene, and operational consistency in busy service
+  times.
+slug: kitchen-opening-closing-checklists-safety
+unique id: 1746609287200x298046459956782000
 featured: false
-breadcrumb short: "Food Safety"
-pillar text: "Food Safety System"
+breadcrumb short: Food Safety
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Opening/Closing"
+subpage text: Kitchen Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/kitchen-opening-closing-checklists
-blog: "How to Write a Kitchen a Opening and Closing Checklist"
+blog: How to Write a Kitchen a Opening and Closing Checklist
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +119,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

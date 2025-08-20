@@ -1,18 +1,20 @@
 ---
-title: "Why are opening and closing checks important for front of house staff?"
-meta: |
-  Explore why opening and closing checks are vital for front of house staff, ensuring high standards in cleanliness, safety, and service for a better guest experience.
-slug: "opening-closing-checks-important-house"
-unique id: "1746611300643x918670112148310900"
+title: Why are opening and closing checks important for front of house staff?
+meta: >
+  Explore why opening and closing checks are vital for front of house staff,
+  ensuring high standards in cleanliness, safety, and service for a better guest
+  experience.
+slug: opening-closing-checks-important-house
+unique id: 1746611300643x918670112148310900
 featured: false
-breadcrumb short: "Importance"
-pillar text: "Daily Operations"
+breadcrumb short: Importance
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Opening/Closing"
+subpage text: FOH Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create Restaurant Opening and Closing Checklists "
+blog: 'How to Create Restaurant Opening and Closing Checklists '
 schema: |
   {
     "@context": "https://schema.org",
@@ -123,6 +125,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

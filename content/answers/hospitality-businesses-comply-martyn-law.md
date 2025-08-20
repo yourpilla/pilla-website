@@ -1,13 +1,15 @@
 ---
 title: |
   Which hospitality businesses must comply with Martyn's Law?
-meta: |
-  Explore which UK hospitality venues must comply with Martyn's Law, including those with a capacity of 200 or more people, and debunk common misconceptions about the law.
-slug: "hospitality-businesses-comply-martyn-law"
-unique id: "1744633430849x247744503199287970"
+meta: >
+  Explore which UK hospitality venues must comply with Martyn's Law, including
+  those with a capacity of 200 or more people, and debunk common misconceptions
+  about the law.
+slug: hospitality-businesses-comply-martyn-law
+unique id: 1744633430849x247744503199287970
 featured: false
-breadcrumb short: "Applies to who"
-pillar text: "Health & Safety System"
+breadcrumb short: Applies to who
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +122,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

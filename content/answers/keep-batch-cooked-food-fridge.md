@@ -1,18 +1,20 @@
 ---
-title: "How long can we keep batch-cooked food in the fridge?"
-meta: |
-  Discover how long batch-cooked food can be safely stored in the fridge or freezer, and learn the proper procedures for covering and labelling to prevent contamination.
-slug: "keep-batch-cooked-food-fridge"
-unique id: "1732637347060x156236054758772220"
+title: How long can we keep batch-cooked food in the fridge?
+meta: >
+  Discover how long batch-cooked food can be safely stored in the fridge or
+  freezer, and learn the proper procedures for covering and labelling to prevent
+  contamination.
+slug: keep-batch-cooked-food-fridge
+unique id: 1732637347060x156236054758772220
 featured: false
-breadcrumb short: "Batch-Cook Cooling"
-pillar text: "Food Safety System"
+breadcrumb short: Batch-Cook Cooling
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Fridge Temperatures"
+subpage text: Fridge Temperatures
 subpage link: |
   https://yourpilla.com/blog/fridge-temperature-checks
-blog: "How to Set Up Fridge Temperature Checks"
+blog: How to Set Up Fridge Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safe cooking procedures and temperature requirements
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

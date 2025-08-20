@@ -1,19 +1,21 @@
 ---
 title: |
   What's the correct temperature for a freezer?
-meta: |
-  Maintain optimal freezer temperature at -18C (0F) for food safety. Regularly check temperature, avoid overloading, and keep seals clean to ensure efficiency.
-slug: "correct-temperature-for-freezer"
-unique id: "1733824505493x334721320070916500"
+meta: >
+  Maintain optimal freezer temperature at -18C (0F) for food safety. Regularly
+  check temperature, avoid overloading, and keep seals clean to ensure
+  efficiency.
+slug: correct-temperature-for-freezer
+unique id: 1733824505493x334721320070916500
 featured: false
-breadcrumb short: "Temperature"
-pillar text: "Food Safety System"
+breadcrumb short: Temperature
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -104,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

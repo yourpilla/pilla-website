@@ -1,15 +1,17 @@
 ---
-title: "What is a Chef de Partie responsible for?"
-meta: |
-  Explore the role of a Chef de Partie, including their responsibilities, the variety of Station Chef types, and the career progression opportunities in the culinary field.
-slug: "chef-de-partie-responsible-for"
-unique id: "1745420497012x766715941358327900"
+title: What is a Chef de Partie responsible for?
+meta: >
+  Explore the role of a Chef de Partie, including their responsibilities, the
+  variety of Station Chef types, and the career progression opportunities in the
+  culinary field.
+slug: chef-de-partie-responsible-for
+unique id: 1745420497012x766715941358327900
 featured: false
-breadcrumb short: "Station Chefs (Chefs de Partie)"
-pillar text: "Job Descriptions"
+breadcrumb short: Station Chefs (Chefs de Partie)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

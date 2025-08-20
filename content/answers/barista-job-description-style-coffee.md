@@ -1,19 +1,21 @@
 ---
-title: "How do I ensure the Barista job description fits our style of coffee service?"
-meta: |
-  Learn how to craft a barista job description that aligns with your café's specific service style and coffee service demands.
-slug: "barista-job-description-style-coffee"
-unique id: "1748534800136x748028982391587700"
+title: How do I ensure the Barista job description fits our style of coffee service?
+meta: >
+  Learn how to craft a barista job description that aligns with your café's
+  specific service style and coffee service demands.
+slug: barista-job-description-style-coffee
+unique id: 1748534800136x748028982391587700
 featured: false
-breadcrumb short: "Service"
-pillar text: "Job Descriptions"
+breadcrumb short: Service
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barista Job Descriptions"
+subpage text: Barista Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barista-job-description
-blog: |
-  How to write a barista job description: barista job description template included.
+blog: >
+  How to write a barista job description: barista job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -98,6 +100,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Quality assurance methods and verification
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

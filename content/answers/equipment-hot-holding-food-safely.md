@@ -1,18 +1,20 @@
 ---
-title: "What equipment should be used for hot holding food safely?"
-meta: |
-  Discover the right equipment for hot holding food safely, including bain-maries and hot holding cabinets, and learn why ovens and hobs aren't suitable for this purpose.
-slug: "equipment-hot-holding-food-safely"
-unique id: "1744190546778x159930955189319780"
+title: What equipment should be used for hot holding food safely?
+meta: >
+  Discover the right equipment for hot holding food safely, including
+  bain-maries and hot holding cabinets, and learn why ovens and hobs aren't
+  suitable for this purpose.
+slug: equipment-hot-holding-food-safely
+unique id: 1744190546778x159930955189319780
 featured: false
-breadcrumb short: "Hot Holding Equipment"
-pillar text: "Food Safety System"
+breadcrumb short: Hot Holding Equipment
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Hot Holding"
+subpage text: Hot Holding
 subpage link: |
   https://yourpilla.com/blog/hot-holding
-blog: "How to Set Up Hot Holding Temperature Checks"
+blog: How to Set Up Hot Holding Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Equipment specifications and usage guidelines
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

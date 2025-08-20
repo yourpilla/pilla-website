@@ -1,18 +1,20 @@
 ---
-title: "How do I tailor interview questions for different café styles?"
-meta: |
-  Discover how to tailor barista interview questions for different café styles, including fast-paced environments and artisan coffee shops, to assess key skills and fit.
-slug: "interview-questions-tailor-cafe-styles"
-unique id: "1747318595790x641997523054240800"
+title: How do I tailor interview questions for different café styles?
+meta: >
+  Discover how to tailor barista interview questions for different café styles,
+  including fast-paced environments and artisan coffee shops, to assess key
+  skills and fit.
+slug: interview-questions-tailor-cafe-styles
+unique id: 1747318595790x641997523054240800
 featured: false
-breadcrumb short: "Tailoring Questions"
-pillar text: "Job Interviews"
+breadcrumb short: Tailoring Questions
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Barista Interviews"
+subpage text: Barista Interviews
 subpage link: |
   https://yourpilla.com/blog/barista-interview-questions
-blog: "How to Decide on Barista Interview Questions and Trial Activities"
+blog: How to Decide on Barista Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -123,6 +125,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

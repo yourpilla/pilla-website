@@ -1,18 +1,20 @@
 ---
-title: "How should I record my front of house risk assessment?"
-meta: |
-  Discover how to accurately record a front of house risk assessment, choose between table or listicle formats, and understand common misconceptions about the process.
-slug: "record-front-house-risk-assessment"
-unique id: "1744896519240x565938957540802500"
+title: How should I record my front of house risk assessment?
+meta: >
+  Discover how to accurately record a front of house risk assessment, choose
+  between table or listicle formats, and understand common misconceptions about
+  the process.
+slug: record-front-house-risk-assessment
+unique id: 1744896519240x565938957540802500
 featured: false
-breadcrumb short: "Recording"
-pillar text: "Health & Safety System"
+breadcrumb short: Recording
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Restaurant Risk Assessments"
+subpage text: Restaurant Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/restaurant-risk-assessment
-blog: "How to Do a Restaurant Risk Assessment"
+blog: How to Do a Restaurant Risk Assessment
 schema: |
   {
     "@context": "https://schema.org",
@@ -74,6 +76,7 @@ schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

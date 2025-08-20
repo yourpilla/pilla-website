@@ -1,18 +1,19 @@
 ---
-title: "What do I do if the freezer temperature goes above -15°C?"
-meta: |
-  Learn what to do if your freezer temperature rises above -15C, including moving food to another freezer or fridge and preventing future issues.
-slug: "freezer-temperature-above-minus-15c"
-unique id: "1733824580391x967473568044575400"
+title: What do I do if the freezer temperature goes above -15°C?
+meta: >
+  Learn what to do if your freezer temperature rises above -15C, including
+  moving food to another freezer or fridge and preventing future issues.
+slug: freezer-temperature-above-minus-15c
+unique id: 1733824580391x967473568044575400
 featured: false
-breadcrumb short: "Above 15C"
-pillar text: "Food Safety System"
+breadcrumb short: Above 15C
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

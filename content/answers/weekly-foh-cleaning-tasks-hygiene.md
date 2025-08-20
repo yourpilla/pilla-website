@@ -1,18 +1,22 @@
 ---
-title: "What weekly FOH cleaning tasks should be scheduled to maintain hygiene standards?"
-meta: |
-  Discover essential weekly FOH cleaning tasks for restaurants, including deep cleaning areas often overlooked, and best practices for scheduling and assigning these tasks.
-slug: "weekly-foh-cleaning-tasks-hygiene"
-unique id: "1746627231147x160580175308917540"
+title: >-
+  What weekly FOH cleaning tasks should be scheduled to maintain hygiene
+  standards?
+meta: >
+  Discover essential weekly FOH cleaning tasks for restaurants, including deep
+  cleaning areas often overlooked, and best practices for scheduling and
+  assigning these tasks.
+slug: weekly-foh-cleaning-tasks-hygiene
+unique id: 1746627231147x160580175308917540
 featured: false
-breadcrumb short: "Weekly"
-pillar text: "Daily Operations"
+breadcrumb short: Weekly
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -129,6 +133,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,20 @@
 ---
-title: "How do you write clear kitchen cleaning tasks that get done properly?"
-meta: |
-  Discover how to write clear and effective cleaning tasks using the "What–How–When–Who" model to ensure tasks are completed accurately and efficiently.
-slug: "write-clear-cleaning-tasks-done"
-unique id: "1746622446226x145249938435676260"
+title: How do you write clear kitchen cleaning tasks that get done properly?
+meta: >
+  Discover how to write clear and effective cleaning tasks using the
+  "What–How–When–Who" model to ensure tasks are completed accurately and
+  efficiently.
+slug: write-clear-cleaning-tasks-done
+unique id: 1746622446226x145249938435676260
 featured: false
-breadcrumb short: "Instructions"
-pillar text: "Food Safety System"
+breadcrumb short: Instructions
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Cleaning"
+subpage text: Kitchen Cleaning
 subpage link: |
   https://yourpilla.com/blog/kitchen-cleaning-checklist
-blog: "How to create a Kitchen Cleaning Schedule"
+blog: How to create a Kitchen Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -131,6 +133,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

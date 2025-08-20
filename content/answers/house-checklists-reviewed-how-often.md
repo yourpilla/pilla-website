@@ -1,18 +1,19 @@
 ---
-title: "How often should front of house checklists be reviewed?"
-meta: |
-  Learn the recommended frequency for reviewing front of house checklists and the importance of staff feedback in maintaining their effectiveness.
-slug: "house-checklists-reviewed-how-often"
-unique id: "1746611300644x866019154624950000"
+title: How often should front of house checklists be reviewed?
+meta: >
+  Learn the recommended frequency for reviewing front of house checklists and
+  the importance of staff feedback in maintaining their effectiveness.
+slug: house-checklists-reviewed-how-often
+unique id: 1746611300644x866019154624950000
 featured: false
-breadcrumb short: "Reviewed"
-pillar text: "Daily Operations"
+breadcrumb short: Reviewed
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Opening/Closing"
+subpage text: FOH Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create Restaurant Opening and Closing Checklists "
+blog: 'How to Create Restaurant Opening and Closing Checklists '
 schema: |
   {
     "@context": "https://schema.org",
@@ -123,6 +124,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Monitoring frequency and compliance requirements
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

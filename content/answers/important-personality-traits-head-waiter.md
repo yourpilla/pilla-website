@@ -1,12 +1,14 @@
 ---
-title: "What personality traits are important for a Head Waiter job description?"
-meta: |
-  Discover key personality traits essential for a Head Waiter, including leadership and communication, and how to align these traits with your restaurant's dynamics.
-slug: "important-personality-traits-head-waiter"
-unique id: "1749721845669x359090527687933950"
+title: What personality traits are important for a Head Waiter job description?
+meta: >
+  Discover key personality traits essential for a Head Waiter, including
+  leadership and communication, and how to align these traits with your
+  restaurant's dynamics.
+slug: important-personality-traits-head-waiter
+unique id: 1749721845669x359090527687933950
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Interviews"
+breadcrumb short: Personality
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
 subpage text: |
@@ -113,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

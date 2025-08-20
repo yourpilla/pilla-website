@@ -1,15 +1,16 @@
 ---
-title: "What are the penalties for not complying with the Food Safety Act 1990?"
-meta: |
-  Explore the penalties for non-compliance with the Food Safety Act 1990, including fines, prison time, and the use of Emergency Prohibition Notices.
-slug: "penalties-complying-food-safety-act"
-unique id: "1745921768614x470384743368947840"
+title: What are the penalties for not complying with the Food Safety Act 1990?
+meta: >
+  Explore the penalties for non-compliance with the Food Safety Act 1990,
+  including fines, prison time, and the use of Emergency Prohibition Notices.
+slug: penalties-complying-food-safety-act
+unique id: 1745921768614x470384743368947840
 featured: false
-breadcrumb short: "Penalties"
-pillar text: "Food Safety System"
+breadcrumb short: Penalties
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Act 1990"
+subpage text: Food Safety Act 1990
 subpage link: |
   https://yourpilla.com/blog/legislation-food-standards
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

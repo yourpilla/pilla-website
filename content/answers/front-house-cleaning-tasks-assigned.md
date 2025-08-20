@@ -1,18 +1,19 @@
 ---
-title: "How should front of house cleaning tasks be assigned to specific roles?"
-meta: |
-  Discover how assigning specific cleaning roles enhances efficiency in front of house operations, and learn key training tips for new staff.
-slug: "front-house-cleaning-tasks-assigned"
-unique id: "1746627231148x287584775996622140"
+title: How should front of house cleaning tasks be assigned to specific roles?
+meta: >
+  Discover how assigning specific cleaning roles enhances efficiency in front of
+  house operations, and learn key training tips for new staff.
+slug: front-house-cleaning-tasks-assigned
+unique id: 1746627231148x287584775996622140
 featured: false
-breadcrumb short: "Assigning"
-pillar text: "Daily Operations"
+breadcrumb short: Assigning
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -129,6 +130,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

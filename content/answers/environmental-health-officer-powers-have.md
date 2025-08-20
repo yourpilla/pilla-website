@@ -1,15 +1,17 @@
 ---
-title: "What powers does an Environmental Health Officer have? "
-meta: |
-  Explore the powers of Environmental Health Officers (EHOs) in enforcing food safety, including their rights to enter premises, take samples, and seize items without prior notice.
-slug: "environmental-health-officer-powers-have"
-unique id: "1746109267528x799286123642853000"
+title: 'What powers does an Environmental Health Officer have? '
+meta: >
+  Explore the powers of Environmental Health Officers (EHOs) in enforcing food
+  safety, including their rights to enter premises, take samples, and seize
+  items without prior notice.
+slug: environmental-health-officer-powers-have
+unique id: 1746109267528x799286123642853000
 featured: false
-breadcrumb short: "Powers"
-pillar text: "Food Safety System"
+breadcrumb short: Powers
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "EHOs"
+subpage text: EHOs
 subpage link: |
   https://yourpilla.com/blog/know-about-environment-health-officer
 blog: |
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,15 +1,17 @@
 ---
-title: "What records must be kept under a HACCP plan?"
-meta: |
-  Discover the essential records required under a HACCP plan, including how to document hazard analyses, critical control points, and corrective actions effectively.
-slug: "records-kept-under-haccp-plan"
-unique id: "1745929282548x814301649566789600"
+title: What records must be kept under a HACCP plan?
+meta: >
+  Discover the essential records required under a HACCP plan, including how to
+  document hazard analyses, critical control points, and corrective actions
+  effectively.
+slug: records-kept-under-haccp-plan
+unique id: 1745929282548x814301649566789600
 featured: false
-breadcrumb short: "Recod Keeping"
-pillar text: "Food Safety System"
+breadcrumb short: Recod Keeping
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "HACCP Meaning"
+subpage text: HACCP Meaning
 subpage link: |
   https://yourpilla.com/blog/haccp-meaning
 blog: |
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

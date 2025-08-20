@@ -1,19 +1,23 @@
 ---
-title: "What personality traits should I look for when writing a Hotel General Manager job description?"
-meta: |
-  Discover essential personality traits to include in a Hotel General Manager job description to align with your hotel's culture and operational needs.
-slug: "personality-traits-hotel-general-manager"
-unique id: "1750240351188x444278179367485400"
+title: >-
+  What personality traits should I look for when writing a Hotel General Manager
+  job description?
+meta: >
+  Discover essential personality traits to include in a Hotel General Manager
+  job description to align with your hotel's culture and operational needs.
+slug: personality-traits-hotel-general-manager
+unique id: 1750240351188x444278179367485400
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel General Manager Job Description"
+subpage text: Hotel General Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/hotel-manager-duties
-blog: |
-  How to write a hotel general manager job description: hotel general manager job description template included.
+blog: >
+  How to write a hotel general manager job description: hotel general manager
+  job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -113,6 +117,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

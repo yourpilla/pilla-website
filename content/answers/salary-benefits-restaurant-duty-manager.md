@@ -1,19 +1,23 @@
 ---
-title: "What salary and benefits should I state in a Restaurant Duty Manager job description?"
-meta: |
-  Discover how to effectively specify salary, benefits, and bonus structures in a Restaurant Duty Manager job description to attract top candidates.
-slug: "salary-benefits-restaurant-duty-manager"
-unique id: "1750237209802x225087924334231550"
+title: >-
+  What salary and benefits should I state in a Restaurant Duty Manager job
+  description?
+meta: >
+  Discover how to effectively specify salary, benefits, and bonus structures in
+  a Restaurant Duty Manager job description to attract top candidates.
+slug: salary-benefits-restaurant-duty-manager
+unique id: 1750237209802x225087924334231550
 featured: false
-breadcrumb short: "Pay"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Duty Manager Job Description"
+subpage text: Restaurant Duty Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-duty-manager-duties
-blog: |
-  How to write a restaurant duty manager job description: restaurant duty manager job description template included.
+blog: >
+  How to write a restaurant duty manager job description: restaurant duty
+  manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

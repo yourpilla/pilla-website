@@ -1,18 +1,21 @@
 ---
-title: "What specific tasks should be completed at the bar or service station before opening?"
-meta: |
-  Learn essential pre-opening tasks for bars to ensure smooth operations, including cleaning, stocking, and checking electronic systems.
-slug: "tasks-bar-service-station-opening"
-unique id: "1746611300644x612782380060905600"
+title: >-
+  What specific tasks should be completed at the bar or service station before
+  opening?
+meta: >
+  Learn essential pre-opening tasks for bars to ensure smooth operations,
+  including cleaning, stocking, and checking electronic systems.
+slug: tasks-bar-service-station-opening
+unique id: 1746611300644x612782380060905600
 featured: false
-breadcrumb short: "Bar"
-pillar text: "Daily Operations"
+breadcrumb short: Bar
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Opening/Closing"
+subpage text: FOH Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create Restaurant Opening and Closing Checklists "
+blog: 'How to Create Restaurant Opening and Closing Checklists '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,14 +1,17 @@
 ---
-title: "What is the Food Safety Act 1990?"
-meta: "Explore the essentials of the UK's Food Safety Act 1990, its impact on consumer protection, and the role of the Food Standards Agency in enforcing food safety."
-slug: "food-safety-act-1990"
-unique id: "1745921768613x825155043066166000"
-featured: "false"
-breadcrumb short: "Law"
-pillar text: "Food Safety System"
+title: What is the Food Safety Act 1990?
+meta: >-
+  Explore the essentials of the UK's Food Safety Act 1990, its impact on
+  consumer protection, and the role of the Food Standards Agency in enforcing
+  food safety.
+slug: food-safety-act-1990
+unique id: 1745921768613x825155043066166000
+featured: 'false'
+breadcrumb short: Law
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Act 1990"
+subpage text: Food Safety Act 1990
 subpage link: |
   https://yourpilla.com/blog/legislation-food-standards
 blog: |
@@ -105,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.

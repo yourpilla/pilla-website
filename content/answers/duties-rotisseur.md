@@ -1,15 +1,17 @@
 ---
-title: "What are the duties of a Rotisseur?"
-meta: |
-  Discover the multifaceted role of a Rotisseur, including their techniques in roasting meats and vegetables, and their crucial contributions to menu development.
-slug: "duties-rotisseur"
-unique id: "1745420497012x737906980340375700"
+title: What are the duties of a Rotisseur?
+meta: >
+  Discover the multifaceted role of a Rotisseur, including their techniques in
+  roasting meats and vegetables, and their crucial contributions to menu
+  development.
+slug: duties-rotisseur
+unique id: 1745420497012x737906980340375700
 featured: false
-breadcrumb short: "Rotisseur (Roast Chef)"
-pillar text: "Job Descriptions"
+breadcrumb short: Rotisseur (Roast Chef)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

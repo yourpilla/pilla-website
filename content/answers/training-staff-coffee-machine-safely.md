@@ -1,18 +1,19 @@
 ---
-title: "What training should staff receive to use a coffee machine safely?"
-meta: |
-  Discover essential safety training for staff using coffee machines, including operation procedures, emergency protocols, and compliance with regulations.
-slug: "training-staff-coffee-machine-safely"
-unique id: "1745226754640x299919890793163260"
+title: What training should staff receive to use a coffee machine safely?
+meta: >
+  Discover essential safety training for staff using coffee machines, including
+  operation procedures, emergency protocols, and compliance with regulations.
+slug: training-staff-coffee-machine-safely
+unique id: 1745226754640x299919890793163260
 featured: false
-breadcrumb short: "Training"
-pillar text: "Health & Safety System"
+breadcrumb short: Training
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Training requirements and certification guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.

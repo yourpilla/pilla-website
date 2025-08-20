@@ -1,18 +1,20 @@
 ---
-title: "How do I choose the best control measures for front of house risks?"
-meta: |
-  Discover effective control measures for managing front of house risks in hospitality, including simple, cost-effective strategies and regular review practices.
-slug: "best-control-measures-front-house"
-unique id: "1744896519240x895898534733455600"
+title: How do I choose the best control measures for front of house risks?
+meta: >
+  Discover effective control measures for managing front of house risks in
+  hospitality, including simple, cost-effective strategies and regular review
+  practices.
+slug: best-control-measures-front-house
+unique id: 1744896519240x895898534733455600
 featured: false
-breadcrumb short: "Control Measures"
-pillar text: "Health & Safety System"
+breadcrumb short: Control Measures
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Restaurant Risk Assessments"
+subpage text: Restaurant Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/restaurant-risk-assessment
-blog: "How to Do a Restaurant Risk Assessment"
+blog: How to Do a Restaurant Risk Assessment
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

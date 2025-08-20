@@ -1,19 +1,24 @@
 ---
-title: "How can I describe customer service expectations in a Catering Assistant job description?"
-meta: |
-  Discover how to effectively outline customer service expectations in a Catering Assistant job description, ensuring candidates understand both kitchen and front-of-house roles.
-slug: "customer-service-catering-assistant-description"
-unique id: "1748596461538x960012617679002500"
+title: >-
+  How can I describe customer service expectations in a Catering Assistant job
+  description?
+meta: >
+  Discover how to effectively outline customer service expectations in a
+  Catering Assistant job description, ensuring candidates understand both
+  kitchen and front-of-house roles.
+slug: customer-service-catering-assistant-description
+unique id: 1748596461538x960012617679002500
 featured: false
-breadcrumb short: "Customer Service"
-pillar text: "Job Descriptions"
+breadcrumb short: Customer Service
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Catering Assistant Job Descriptions"
+subpage text: Catering Assistant Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/catering-assistant-job-description
-blog: |
-  How to write a catering assistant job description: catering assistant job description template included.
+blog: >
+  How to write a catering assistant job description: catering assistant job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

@@ -1,19 +1,23 @@
 ---
-title: "What are the main preparation tasks to include in a Chef de Partie job description?"
-meta: |
-  Discover essential preparation tasks for a Chef de Partie, including ingredient prep, kitchen setup, and segmenting duties to streamline workflow.
-slug: "preparation-tasks-chef-de-partie-job"
-unique id: "1749803794116x235204527943843840"
+title: >-
+  What are the main preparation tasks to include in a Chef de Partie job
+  description?
+meta: >
+  Discover essential preparation tasks for a Chef de Partie, including
+  ingredient prep, kitchen setup, and segmenting duties to streamline workflow.
+slug: preparation-tasks-chef-de-partie-job
+unique id: 1749803794116x235204527943843840
 featured: false
-breadcrumb short: "Preparation"
-pillar text: "Job Descriptions"
+breadcrumb short: Preparation
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef de Partie Job Description"
+subpage text: Chef de Partie Job Description
 subpage link: |
   https://yourpilla.com/blog/chef-de-partie-job-description
-blog: |
-  How to write a chef de partie job description: chef de partie job description template included.
+blog: >
+  How to write a chef de partie job description: chef de partie job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

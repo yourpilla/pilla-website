@@ -1,15 +1,16 @@
 ---
-title: "What does the Garde Manger prepare?"
-meta: |
-  Explore the role of a Garde Manger, the importance of a Pantry Chef in a restaurant, and the essential skills required for this culinary position.
-slug: "garde-manger-prepare-what-does"
-unique id: "1745420497015x107534357964819800"
+title: What does the Garde Manger prepare?
+meta: >
+  Explore the role of a Garde Manger, the importance of a Pantry Chef in a
+  restaurant, and the essential skills required for this culinary position.
+slug: garde-manger-prepare-what-does
+unique id: 1745420497015x107534357964819800
 featured: false
-breadcrumb short: "Garde Manger (Pantry Chef)"
-pillar text: "Job Descriptions"
+breadcrumb short: Garde Manger (Pantry Chef)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

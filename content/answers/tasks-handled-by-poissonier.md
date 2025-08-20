@@ -1,15 +1,17 @@
 ---
-title: "What tasks are handled by the Poissonier?"
-meta: |
-  Discover the comprehensive role of a Poissonier, encompassing fish selection, butchering, cooking techniques, and perfecting sauces for exquisite fish dishes.
-slug: "tasks-handled-by-poissonier"
-unique id: "1745420497012x101022211655597220"
+title: What tasks are handled by the Poissonier?
+meta: >
+  Discover the comprehensive role of a Poissonier, encompassing fish selection,
+  butchering, cooking techniques, and perfecting sauces for exquisite fish
+  dishes.
+slug: tasks-handled-by-poissonier
+unique id: 1745420497012x101022211655597220
 featured: false
-breadcrumb short: "Poissonier (Fish Chef)"
-pillar text: "Job Descriptions"
+breadcrumb short: Poissonier (Fish Chef)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -104,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

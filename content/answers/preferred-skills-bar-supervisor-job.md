@@ -1,19 +1,22 @@
 ---
-title: "What preferred skills should I mention in a Bar Supervisor job description?"
-meta: |
-  Explore essential and preferred skills for a Bar Supervisor, including POS system expertise and knowledge of wines and spirits, to enhance job descriptions.
-slug: "preferred-skills-bar-supervisor-job"
-unique id: "1748855896163x852660052150976500"
+title: What preferred skills should I mention in a Bar Supervisor job description?
+meta: >
+  Explore essential and preferred skills for a Bar Supervisor, including POS
+  system expertise and knowledge of wines and spirits, to enhance job
+  descriptions.
+slug: preferred-skills-bar-supervisor-job
+unique id: 1748855896163x852660052150976500
 featured: false
-breadcrumb short: "Preferred Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Preferred Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Supervisor Job Description"
+subpage text: Bar Supervisor Job Description
 subpage link: |
   https://yourpilla.com/blog/bar-supervisor-duties
-blog: |
-  How to write a bar supervisor job description: bar supervisor job description template included.
+blog: >
+  How to write a bar supervisor job description: bar supervisor job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email.

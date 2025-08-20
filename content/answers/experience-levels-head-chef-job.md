@@ -1,19 +1,22 @@
 ---
-title: "What experience levels should I specify in a Head Chef job description?"
-meta: |
-  Discover how to effectively specify experience levels in a Head Chef job description, focusing on the relevance and quality of experience over duration.
-slug: "experience-levels-head-chef-job"
-unique id: "1750063342989x345864424235466750"
+title: What experience levels should I specify in a Head Chef job description?
+meta: >
+  Discover how to effectively specify experience levels in a Head Chef job
+  description, focusing on the relevance and quality of experience over
+  duration.
+slug: experience-levels-head-chef-job
+unique id: 1750063342989x345864424235466750
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Head Chef Job Description"
+subpage text: Head Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/head-chef-job-description
-blog: |
-  How to write a head chef job description: head chef job description template included.
+blog: >
+  How to write a head chef job description: head chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

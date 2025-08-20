@@ -1,18 +1,20 @@
 ---
-title: "What should be included in a daily FOH opening and closing cleaning checklist?"
-meta: |
-  Explore essential daily FOH cleaning tasks to maintain hygiene and guest confidence, including wiping, polishing, and restocking, as outlined by Pilla Founder Liam Jones.
-slug: "daily-foh-opening-closing-checklist"
-unique id: "1746627231147x965929779254142800"
+title: What should be included in a daily FOH opening and closing cleaning checklist?
+meta: >
+  Explore essential daily FOH cleaning tasks to maintain hygiene and guest
+  confidence, including wiping, polishing, and restocking, as outlined by Pilla
+  Founder Liam Jones.
+slug: daily-foh-opening-closing-checklist
+unique id: 1746627231147x965929779254142800
 featured: false
-breadcrumb short: "Daily"
-pillar text: "Daily Operations"
+breadcrumb short: Daily
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -129,6 +131,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

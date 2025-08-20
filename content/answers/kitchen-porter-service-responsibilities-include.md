@@ -1,18 +1,21 @@
 ---
-title: "What should I include in the service responsibilities section of a Kitchen Porter job description?"
-meta: |
-  Discover how to craft a detailed Kitchen Porter job description, including essential tasks and common misconceptions about the role.
-slug: "kitchen-porter-service-responsibilities-include"
-unique id: "1749723243178x455325843728891900"
+title: >-
+  What should I include in the service responsibilities section of a Kitchen
+  Porter job description?
+meta: >
+  Discover how to craft a detailed Kitchen Porter job description, including
+  essential tasks and common misconceptions about the role.
+slug: kitchen-porter-service-responsibilities-include
+unique id: 1749723243178x455325843728891900
 featured: false
-breadcrumb short: "Service"
-pillar text: "Job Interviews"
+breadcrumb short: Service
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Kitchen Porter Interviews"
+subpage text: Kitchen Porter Interviews
 subpage link: |
   https://yourpilla.com/blog/kitchen-porter-interviews
-blog: "How to Decide on Kitchen Porter Interview Questions and Trial Activities"
+blog: How to Decide on Kitchen Porter Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

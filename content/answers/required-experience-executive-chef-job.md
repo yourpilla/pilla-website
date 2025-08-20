@@ -1,19 +1,23 @@
 ---
-title: "How do I specify the required experience for an Executive Chef in a job description?"
-meta: |
-  Discover how to effectively specify experience requirements for an Executive Chef in your job descriptions, including common misconceptions.
-slug: "required-experience-executive-chef-job"
-unique id: "1750064136169x233578463104598000"
+title: >-
+  How do I specify the required experience for an Executive Chef in a job
+  description?
+meta: >
+  Discover how to effectively specify experience requirements for an Executive
+  Chef in your job descriptions, including common misconceptions.
+slug: required-experience-executive-chef-job
+unique id: 1750064136169x233578463104598000
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Executive Chef Job Description"
+subpage text: Executive Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/executive-chef-job-description
-blog: |
-  How to write a executive chef job description: executive chef job description template included.
+blog: >
+  How to write a executive chef job description: executive chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

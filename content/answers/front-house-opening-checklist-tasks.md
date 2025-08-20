@@ -1,18 +1,20 @@
 ---
-title: "What tasks should be included in a front of house opening checklist?"
-meta: |
-  Discover essential tasks for a front of house opening checklist, including preparing outdoor areas, entrance, dining spaces, and maintaining cleanliness and functionality throughout the day.
-slug: "front-house-opening-checklist-tasks"
-unique id: "1746611300643x540565330740909800"
+title: What tasks should be included in a front of house opening checklist?
+meta: >
+  Discover essential tasks for a front of house opening checklist, including
+  preparing outdoor areas, entrance, dining spaces, and maintaining cleanliness
+  and functionality throughout the day.
+slug: front-house-opening-checklist-tasks
+unique id: 1746611300643x540565330740909800
 featured: false
-breadcrumb short: "Tasks"
-pillar text: "Daily Operations"
+breadcrumb short: Tasks
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Opening/Closing"
+subpage text: FOH Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create Restaurant Opening and Closing Checklists "
+blog: 'How to Create Restaurant Opening and Closing Checklists '
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +119,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

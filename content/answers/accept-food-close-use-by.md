@@ -1,19 +1,21 @@
 ---
 title: |
   Can I accept food from a supplier that's close to its use-by date?
-meta: |
-  Discover why accepting food deliveries close to their use-by dates is not recommended, even with discounts, and learn what to do if you receive short-dated items.
-slug: "accept-food-close-use-by"
-unique id: "1734097894567x512710053027572540"
+meta: >
+  Discover why accepting food deliveries close to their use-by dates is not
+  recommended, even with discounts, and learn what to do if you receive
+  short-dated items.
+slug: accept-food-close-use-by
+unique id: 1734097894567x512710053027572540
 featured: false
-breadcrumb short: "Accepting"
-pillar text: "Food Safety System"
+breadcrumb short: Accepting
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Delivery Records"
+subpage text: Delivery Records
 subpage link: |
   https://yourpilla.com/blog/delivery-records
-blog: "How to Set Up Food Delivery Checks"
+blog: How to Set Up Food Delivery Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

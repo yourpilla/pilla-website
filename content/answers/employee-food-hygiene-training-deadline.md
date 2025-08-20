@@ -1,18 +1,22 @@
 ---
-title: "How soon after starting does a new employee need to complete food hygiene training?"
-meta: |
-  Ensure new staff complete food hygiene training before handling food. Agency and part-time workers need the same certification as full-time staff, depending on their role.
-slug: "employee-food-hygiene-training-deadline"
-unique id: "1734014558525x609916315682662400"
+title: >-
+  How soon after starting does a new employee need to complete food hygiene
+  training?
+meta: >
+  Ensure new staff complete food hygiene training before handling food. Agency
+  and part-time workers need the same certification as full-time staff,
+  depending on their role.
+slug: employee-food-hygiene-training-deadline
+unique id: 1734014558525x609916315682662400
 featured: false
-breadcrumb short: "New Starter"
-pillar text: "Food Safety System"
+breadcrumb short: New Starter
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -68,6 +72,7 @@ schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

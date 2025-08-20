@@ -1,15 +1,17 @@
 ---
-title: "How does the Food Safety Act 1990 protect consumers?"
-meta: |
-  Explore how the Food Safety Act 1990 ensures consumer protection in the UK through strict food safety standards, regular inspections, and legal obligations for food businesses.
-slug: "food-safety-act-1990-protect"
-unique id: "1745921768615x844097993585679700"
+title: How does the Food Safety Act 1990 protect consumers?
+meta: >
+  Explore how the Food Safety Act 1990 ensures consumer protection in the UK
+  through strict food safety standards, regular inspections, and legal
+  obligations for food businesses.
+slug: food-safety-act-1990-protect
+unique id: 1745921768615x844097993585679700
 featured: false
-breadcrumb short: "Consumers"
-pillar text: "Food Safety System"
+breadcrumb short: Consumers
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Act 1990"
+subpage text: Food Safety Act 1990
 subpage link: |
   https://yourpilla.com/blog/legislation-food-standards
 blog: |
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,19 +1,23 @@
 ---
-title: "What levels of experience are appropriate to list in a Restaurant Manager job description?"
-meta: |
-  Discover how to define experience levels in a Restaurant Manager job description, focusing on relevance and quality over mere years of service.
-slug: "experience-restaurant-manager-job-list"
-unique id: "1750065092333x667923879082590200"
+title: >-
+  What levels of experience are appropriate to list in a Restaurant Manager job
+  description?
+meta: >
+  Discover how to define experience levels in a Restaurant Manager job
+  description, focusing on relevance and quality over mere years of service.
+slug: experience-restaurant-manager-job-list
+unique id: 1750065092333x667923879082590200
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Manager Job Description"
+subpage text: Restaurant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-manager-job-description
-blog: |
-  How to write a restaurant manager job description: restaurant manager job description template included.
+blog: >
+  How to write a restaurant manager job description: restaurant manager job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

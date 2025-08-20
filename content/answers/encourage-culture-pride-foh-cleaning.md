@@ -1,18 +1,19 @@
 ---
-title: "How do I encourage a culture of pride in FOH cleaning, not just compliance?"
-meta: |
-  Discover effective strategies to foster a culture of pride in front-of-house cleaning among staff, ensuring high standards and positive guest experiences.
-slug: "encourage-culture-pride-foh-cleaning"
-unique id: "1746627231148x119612501518829860"
+title: 'How do I encourage a culture of pride in FOH cleaning, not just compliance?'
+meta: >
+  Discover effective strategies to foster a culture of pride in front-of-house
+  cleaning among staff, ensuring high standards and positive guest experiences.
+slug: encourage-culture-pride-foh-cleaning
+unique id: 1746627231148x119612501518829860
 featured: false
-breadcrumb short: "Culture"
-pillar text: "Daily Operations"
+breadcrumb short: Culture
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -129,6 +130,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,13 +1,14 @@
 ---
 title: |
   What practical steps can venues take to comply with Martyn's Law?
-meta: |
-  Discover practical steps for venues to comply with Martyn's Law, focusing on procedural readiness, staff training, and appropriate security measures.
-slug: "practical-steps-venues-comply-martyn-law"
-unique id: "1744633430850x726729964499918700"
+meta: >
+  Discover practical steps for venues to comply with Martyn's Law, focusing on
+  procedural readiness, staff training, and appropriate security measures.
+slug: practical-steps-venues-comply-martyn-law
+unique id: 1744633430850x726729964499918700
 featured: false
-breadcrumb short: "Practical Steps"
-pillar text: "Health & Safety System"
+breadcrumb short: Practical Steps
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +121,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

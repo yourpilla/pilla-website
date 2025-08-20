@@ -1,18 +1,19 @@
 ---
-title: "How should I date label food after it has cooled?"
-meta: |
-  Learn the correct methods for date labelling and storing cooled food, including the importance of covering food before refrigeration.
-slug: "date-label-food-after-cooled"
-unique id: "1748966521629x484014754913845250"
+title: How should I date label food after it has cooled?
+meta: >
+  Learn the correct methods for date labelling and storing cooled food,
+  including the importance of covering food before refrigeration.
+slug: date-label-food-after-cooled
+unique id: 1748966521629x484014754913845250
 featured: false
-breadcrumb short: "Date Labelling"
-pillar text: "Food Safety System"
+breadcrumb short: Date Labelling
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooling Foods"
+subpage text: Cooling Foods
 subpage link: |
   https://yourpilla.com/blog/cooling-food-safely
-blog: "How to Set Up Cooled Food Temperature Checks"
+blog: How to Set Up Cooled Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

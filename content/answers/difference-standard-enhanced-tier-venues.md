@@ -1,13 +1,15 @@
 ---
-title: |
-  What is the difference between Standard and Enhanced Tier venues under Martyn's Law?
-meta: |
-  Understand the differences between Standard and Enhanced Tier venues under Martyn's Law, including their security obligations and common misconceptions.
-slug: "difference-standard-enhanced-tier-venues"
-unique id: "1744633430849x138141997045227340"
+title: >
+  What is the difference between Standard and Enhanced Tier venues under
+  Martyn's Law?
+meta: >
+  Understand the differences between Standard and Enhanced Tier venues under
+  Martyn's Law, including their security obligations and common misconceptions.
+slug: difference-standard-enhanced-tier-venues
+unique id: 1744633430849x138141997045227340
 featured: false
-breadcrumb short: "Different tiers"
-pillar text: "Health & Safety System"
+breadcrumb short: Different tiers
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +122,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Key distinctions and comparative analysis
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

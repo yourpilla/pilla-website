@@ -1,15 +1,16 @@
 ---
-title: "What is a Hygiene Emergency Prohibition Notice? "
-meta: |
-  Understand what a Hygiene Emergency Prohibition Notice is, when it is issued, and the process for reopening a food business post-notice.
-slug: "hygiene-emergency-prohibition-notice"
-unique id: "1746109267529x546813865682600260"
+title: 'What is a Hygiene Emergency Prohibition Notice? '
+meta: >
+  Understand what a Hygiene Emergency Prohibition Notice is, when it is issued,
+  and the process for reopening a food business post-notice.
+slug: hygiene-emergency-prohibition-notice
+unique id: 1746109267529x546813865682600260
 featured: false
-breadcrumb short: "Prohibition Notice"
-pillar text: "Food Safety System"
+breadcrumb short: Prohibition Notice
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "EHOs"
+subpage text: EHOs
 subpage link: |
   https://yourpilla.com/blog/know-about-environment-health-officer
 blog: |
@@ -112,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

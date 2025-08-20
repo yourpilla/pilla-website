@@ -1,19 +1,21 @@
 ---
-title: "How should I explain required experience in a Bartender job description?"
-meta: |
-  Learn how to effectively specify experience requirements in bartender job descriptions to attract suitable candidates for your bar's unique environment.
-slug: "explain-required-experience-bartender-job"
-unique id: "1748429917193x424039539995080700"
+title: How should I explain required experience in a Bartender job description?
+meta: >
+  Learn how to effectively specify experience requirements in bartender job
+  descriptions to attract suitable candidates for your bar's unique environment.
+slug: explain-required-experience-bartender-job
+unique id: 1748429917193x424039539995080700
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

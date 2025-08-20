@@ -1,18 +1,19 @@
 ---
-title: "What is a kitchen risk assessment in hospitality?"
-meta: |
-  Explore the importance of conducting a kitchen risk assessment in hospitality to identify and manage unique hazards effectively.
-slug: "kitchen-risk-assessment-hospitality"
-unique id: "1744799372653x806956111805522800"
+title: What is a kitchen risk assessment in hospitality?
+meta: >
+  Explore the importance of conducting a kitchen risk assessment in hospitality
+  to identify and manage unique hazards effectively.
+slug: kitchen-risk-assessment-hospitality
+unique id: 1744799372653x806956111805522800
 featured: false
-breadcrumb short: "What Is It"
-pillar text: "Health & Safety System"
+breadcrumb short: What Is It
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

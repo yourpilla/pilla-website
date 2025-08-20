@@ -1,18 +1,19 @@
 ---
-title: "What PPE is needed when cleaning or descaling a coffee machine?"
-meta: |
-  Discover essential PPE for safely cleaning coffee machines, including heat-resistant gloves and goggles, and learn why COSHH training is crucial.
-slug: "cleaning-descaling-coffee-machine-ppe"
-unique id: "1745226754641x354553544418096960"
+title: What PPE is needed when cleaning or descaling a coffee machine?
+meta: >
+  Discover essential PPE for safely cleaning coffee machines, including
+  heat-resistant gloves and goggles, and learn why COSHH training is crucial.
+slug: cleaning-descaling-coffee-machine-ppe
+unique id: 1745226754641x354553544418096960
 featured: false
-breadcrumb short: "PPE"
-pillar text: "Health & Safety System"
+breadcrumb short: PPE
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

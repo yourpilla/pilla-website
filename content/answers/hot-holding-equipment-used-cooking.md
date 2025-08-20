@@ -1,19 +1,21 @@
 ---
 title: |
   Why can't hot holding equipment be used for cooking?
-meta: |
-  Discover essential guidelines for cooking food safely, including proper temperatures to eliminate harmful bacteria and practices to prevent contamination.
-slug: "hot-holding-equipment-used-cooking"
-unique id: "1743670469424x381802113107883460"
+meta: >
+  Discover essential guidelines for cooking food safely, including proper
+  temperatures to eliminate harmful bacteria and practices to prevent
+  contamination.
+slug: hot-holding-equipment-used-cooking
+unique id: 1743670469424x381802113107883460
 featured: false
-breadcrumb short: "Hot Hold "
-pillar text: "Food Safety System"
+breadcrumb short: 'Hot Hold '
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Equipment operation and maintenance procedures
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

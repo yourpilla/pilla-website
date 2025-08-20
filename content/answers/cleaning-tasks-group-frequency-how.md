@@ -1,18 +1,19 @@
 ---
-title: "How should you group kitchen cleaning tasks by frequency?"
-meta: |
-  Discover how to effectively group kitchen cleaning tasks by frequency—daily, weekly, monthly, and less frequent—to enhance safety and efficiency.
-slug: "cleaning-tasks-group-frequency-how"
-unique id: "1746622446225x661874423128558100"
+title: How should you group kitchen cleaning tasks by frequency?
+meta: >
+  Discover how to effectively group kitchen cleaning tasks by frequency—daily,
+  weekly, monthly, and less frequent—to enhance safety and efficiency.
+slug: cleaning-tasks-group-frequency-how
+unique id: 1746622446225x661874423128558100
 featured: false
-breadcrumb short: "Grouping"
-pillar text: "Food Safety System"
+breadcrumb short: Grouping
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Cleaning"
+subpage text: Kitchen Cleaning
 subpage link: |
   https://yourpilla.com/blog/kitchen-cleaning-checklist
-blog: "How to create a Kitchen Cleaning Schedule"
+blog: How to create a Kitchen Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -131,6 +132,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Step-by-step cleaning procedures and best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

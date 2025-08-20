@@ -1,15 +1,16 @@
 ---
-title: "What does an Executive Chef do in a restaurant kitchen?"
-meta: |
-  Explore the role of an Executive Chef, focusing on their managerial responsibilities, necessary skills, and distinctions from a Head Chef.
-slug: "executive-chef-restaurant-kitchen-do"
-unique id: "1745420497011x798442193345038100"
+title: What does an Executive Chef do in a restaurant kitchen?
+meta: >
+  Explore the role of an Executive Chef, focusing on their managerial
+  responsibilities, necessary skills, and distinctions from a Head Chef.
+slug: executive-chef-restaurant-kitchen-do
+unique id: 1745420497011x798442193345038100
 featured: false
-breadcrumb short: "Executive Chef"
-pillar text: "Job Descriptions"
+breadcrumb short: Executive Chef
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

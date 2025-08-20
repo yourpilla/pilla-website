@@ -1,19 +1,22 @@
 ---
-title: "What essential skills should I include Hotel Receptionist job description?"
-meta: |
-  Discover essential skills for a Hotel Receptionist job description, including key distinctions between must-have and nice-to-have skills, and why communication often trumps tech abilities.
-slug: "essential-skills-hotel-receptionist-job"
-unique id: "1748768543069x632553502264299200"
+title: What essential skills should I include Hotel Receptionist job description?
+meta: >
+  Discover essential skills for a Hotel Receptionist job description, including
+  key distinctions between must-have and nice-to-have skills, and why
+  communication often trumps tech abilities.
+slug: essential-skills-hotel-receptionist-job
+unique id: 1748768543069x632553502264299200
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel Receptionist Job Descriptions"
+subpage text: Hotel Receptionist Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/hotel-receptionist-duties
-blog: |
-  How to write a hotel receptionist job description: hotel receptionist job description template included.
+blog: >
+  How to write a hotel receptionist job description: hotel receptionist job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Essential competencies and qualifications for effective performance
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

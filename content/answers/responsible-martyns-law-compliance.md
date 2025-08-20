@@ -1,13 +1,14 @@
 ---
 title: |
   Who should be responsible for Martyn's Law compliance?
-meta: |
-  Explore who should ensure compliance with Martyn's Law, detailing the responsibilities of the Responsible Person and the Designated Senior Officer.
-slug: "responsible-martyns-law-compliance"
-unique id: "1744633430850x228585098900108580"
+meta: >
+  Explore who should ensure compliance with Martyn's Law, detailing the
+  responsibilities of the Responsible Person and the Designated Senior Officer.
+slug: responsible-martyns-law-compliance
+unique id: 1744633430850x228585098900108580
 featured: false
-breadcrumb short: "Responsible Person"
-pillar text: "Health & Safety System"
+breadcrumb short: Responsible Person
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +121,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

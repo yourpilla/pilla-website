@@ -1,19 +1,22 @@
 ---
-title: "What preparation tasks should I include in a Commis Chef job description?"
-meta: |
-  Discover essential tasks for Commis Chefs in preparation, service, and post-service cleaning to ensure efficient kitchen operations and hygiene standards.
-slug: "commis-chef-job-preparation-tasks"
-unique id: "1749803087073x834340507823898600"
+title: What preparation tasks should I include in a Commis Chef job description?
+meta: >
+  Discover essential tasks for Commis Chefs in preparation, service, and
+  post-service cleaning to ensure efficient kitchen operations and hygiene
+  standards.
+slug: commis-chef-job-preparation-tasks
+unique id: 1749803087073x834340507823898600
 featured: false
-breadcrumb short: "Preparation "
-pillar text: "Job Descriptions"
+breadcrumb short: 'Preparation '
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

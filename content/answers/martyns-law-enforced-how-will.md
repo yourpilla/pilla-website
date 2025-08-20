@@ -1,13 +1,14 @@
 ---
 title: |
   How will Martyn's Law be enforced?
-meta: |
-  Explore the enforcement of Martyn's Law, including the inspection powers of the SIA regulator and the penalties for non-compliance at venues.
-slug: "martyns-law-enforced-how-will"
-unique id: "1744633430856x391859705361858400"
+meta: >
+  Explore the enforcement of Martyn's Law, including the inspection powers of
+  the SIA regulator and the penalties for non-compliance at venues.
+slug: martyns-law-enforced-how-will
+unique id: 1744633430856x391859705361858400
 featured: false
-breadcrumb short: "Enforcement"
-pillar text: "Health & Safety System"
+breadcrumb short: Enforcement
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +121,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,20 @@
 ---
-title: "What temperature should frozen deliveries be when they arrive?"
-meta: |
-  Ensure frozen deliveries arrive at -18C or colder. Check temperatures between packs and reject anything warmer than -15C. Transfer to storage within 15 minutes.
-slug: "frozen-deliveries-arrival-temperature"
-unique id: "1734097884413x987369042459971700"
+title: What temperature should frozen deliveries be when they arrive?
+meta: >
+  Ensure frozen deliveries arrive at -18C or colder. Check temperatures between
+  packs and reject anything warmer than -15C. Transfer to storage within 15
+  minutes.
+slug: frozen-deliveries-arrival-temperature
+unique id: 1734097884413x987369042459971700
 featured: false
-breadcrumb short: "Frozen Delivery"
-pillar text: "Food Safety System"
+breadcrumb short: Frozen Delivery
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Delivery Records"
+subpage text: Delivery Records
 subpage link: |
   https://yourpilla.com/blog/delivery-records
-blog: "How to Set Up Food Delivery Checks"
+blog: How to Set Up Food Delivery Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -118,6 +120,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-05-01T09:00:00+01:00"
   }
+subtitle: Required temperature standards and monitoring
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

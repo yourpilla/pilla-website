@@ -1,18 +1,20 @@
 ---
-title: "What control measures should I include in a kitchen risk assessment?"
-meta: |
-  Discover essential control measures for kitchen risk assessments, including the differentiation between existing and additional controls, and the importance of detailed, tailored safety measures.
-slug: "control-measures-kitchen-risk-assessment"
-unique id: "1744799372654x139294100003905400"
+title: What control measures should I include in a kitchen risk assessment?
+meta: >
+  Discover essential control measures for kitchen risk assessments, including
+  the differentiation between existing and additional controls, and the
+  importance of detailed, tailored safety measures.
+slug: control-measures-kitchen-risk-assessment
+unique id: 1744799372654x139294100003905400
 featured: false
-breadcrumb short: "Control Measures"
-pillar text: "Health & Safety System"
+breadcrumb short: Control Measures
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

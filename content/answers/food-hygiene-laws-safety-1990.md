@@ -1,15 +1,17 @@
 ---
-title: "What other food hygiene laws work alongside the Food Safety Act 1990?"
-meta: |
-  Explore key UK food safety laws that work with the Food Safety Act 1990, including the General Food Law Regulation and Food Safety and Hygiene Regulations.
-slug: "food-hygiene-laws-safety-1990"
-unique id: "1745921768614x264000046958463580"
+title: What other food hygiene laws work alongside the Food Safety Act 1990?
+meta: >
+  Explore key UK food safety laws that work with the Food Safety Act 1990,
+  including the General Food Law Regulation and Food Safety and Hygiene
+  Regulations.
+slug: food-hygiene-laws-safety-1990
+unique id: 1745921768614x264000046958463580
 featured: false
-breadcrumb short: "Accompanying Laws"
-pillar text: "Food Safety System"
+breadcrumb short: Accompanying Laws
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Act 1990"
+subpage text: Food Safety Act 1990
 subpage link: |
   https://yourpilla.com/blog/legislation-food-standards
 blog: |
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

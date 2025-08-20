@@ -1,18 +1,20 @@
 ---
-title: "How should rolled joints of meat be cooked safely?"
-meta: |
-  Discover essential cooking temperatures and practices to ensure food safety, including scientifically proven time-temperature combinations and hygiene tips.
-slug: "rolled-joints-meat-cooked-safely"
-unique id: "1743670469424x583753380037317800"
+title: How should rolled joints of meat be cooked safely?
+meta: >
+  Discover essential cooking temperatures and practices to ensure food safety,
+  including scientifically proven time-temperature combinations and hygiene
+  tips.
+slug: rolled-joints-meat-cooked-safely
+unique id: 1743670469424x583753380037317800
 featured: false
-breadcrumb short: "Rolled Joints"
-pillar text: "Food Safety System"
+breadcrumb short: Rolled Joints
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safe cooking procedures and temperature requirements
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

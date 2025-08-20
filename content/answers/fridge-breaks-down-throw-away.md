@@ -1,18 +1,20 @@
 ---
-title: "If the fridge breaks down overnight, do we have to throw everything away?"
-meta: |
-  Learn what to do if your fridge breaks down overnight, including how to properly document the incident using Pilla software to ensure food safety compliance.
-slug: "fridge-breaks-down-throw-away"
-unique id: "1732637347145x654181966716193400"
+title: 'If the fridge breaks down overnight, do we have to throw everything away?'
+meta: >
+  Learn what to do if your fridge breaks down overnight, including how to
+  properly document the incident using Pilla software to ensure food safety
+  compliance.
+slug: fridge-breaks-down-throw-away
+unique id: 1732637347145x654181966716193400
 featured: false
-breadcrumb short: "Fridge Broken Overnight"
-pillar text: "Food Safety System"
+breadcrumb short: Fridge Broken Overnight
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Fridge Temperatures"
+subpage text: Fridge Temperatures
 subpage link: |
   https://yourpilla.com/blog/fridge-temperature-checks
-blog: "How to Set Up Fridge Temperature Checks"
+blog: How to Set Up Fridge Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -103,6 +105,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

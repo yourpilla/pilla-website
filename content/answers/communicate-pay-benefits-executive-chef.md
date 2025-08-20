@@ -1,19 +1,21 @@
 ---
-title: "How should I communicate pay and benefits in a Executive Chef job description?"
-meta: |
-  Explore effective strategies for communicating pay and benefits in an Executive Chef job description to attract top talent.
-slug: "communicate-pay-benefits-executive-chef"
-unique id: "1750064173045x370064115920011260"
+title: How should I communicate pay and benefits in a Executive Chef job description?
+meta: >
+  Explore effective strategies for communicating pay and benefits in an
+  Executive Chef job description to attract top talent.
+slug: communicate-pay-benefits-executive-chef
+unique id: 1750064173045x370064115920011260
 featured: false
-breadcrumb short: "Pay and Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay and Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Executive Chef Job Description"
+subpage text: Executive Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/executive-chef-job-description
-blog: |
-  How to write a executive chef job description: executive chef job description template included.
+blog: >
+  How to write a executive chef job description: executive chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -113,6 +115,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

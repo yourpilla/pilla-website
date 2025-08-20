@@ -1,19 +1,23 @@
 ---
-title: "How do I describe the necessary experience in a Hotel General Manager job description?"
-meta: |
-  Learn how to specify necessary experience in a Hotel General Manager job description, focusing on practical and relevant industry experience.
-slug: "hotel-general-manager-experience-description"
-unique id: "1750239688368x295021156923080700"
+title: >-
+  How do I describe the necessary experience in a Hotel General Manager job
+  description?
+meta: >
+  Learn how to specify necessary experience in a Hotel General Manager job
+  description, focusing on practical and relevant industry experience.
+slug: hotel-general-manager-experience-description
+unique id: 1750239688368x295021156923080700
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel General Manager Job Description"
+subpage text: Hotel General Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/hotel-manager-duties
-blog: |
-  How to write a hotel general manager job description: hotel general manager job description template included.
+blog: >
+  How to write a hotel general manager job description: hotel general manager
+  job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

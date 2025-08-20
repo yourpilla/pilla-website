@@ -1,19 +1,22 @@
 ---
-title: "How should I list the core responsibilities in a Commis Chef job description?"
-meta: |
-  Discover how to effectively list core responsibilities for a Commis Chef, focusing on preparation, service, and closing tasks for clear job expectations.
-slug: "core-responsibilities-commis-chef-job"
-unique id: "1749803066636x753923318236053500"
+title: How should I list the core responsibilities in a Commis Chef job description?
+meta: >
+  Discover how to effectively list core responsibilities for a Commis Chef,
+  focusing on preparation, service, and closing tasks for clear job
+  expectations.
+slug: core-responsibilities-commis-chef-job
+unique id: 1749803066636x753923318236053500
 featured: false
-breadcrumb short: "Core Responsibilities"
-pillar text: "Job Descriptions"
+breadcrumb short: Core Responsibilities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

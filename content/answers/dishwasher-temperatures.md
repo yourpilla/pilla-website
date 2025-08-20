@@ -1,18 +1,19 @@
 ---
-title: "How does hard water affect commercial dishwashers?"
-meta: |
-  Learn how to maintain the correct temperatures in commercial dishwashers for optimal cleanliness and food safety, and what steps to take if issues arise.
-slug: "dishwasher-temperatures"
-unique id: "1743586900087x934929461321076000"
+title: How does hard water affect commercial dishwashers?
+meta: >
+  Learn how to maintain the correct temperatures in commercial dishwashers for
+  optimal cleanliness and food safety, and what steps to take if issues arise.
+slug: dishwasher-temperatures
+unique id: 1743586900087x934929461321076000
 featured: false
-breadcrumb short: "Hard Water"
-pillar text: "Food Safety System"
+breadcrumb short: Hard Water
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Dishwasher Temperatures"
+subpage text: Dishwasher Temperatures
 subpage link: |
   https://yourpilla.com/blog/dishwasher-temperature
-blog: "How to Set Up Dishwasher Temperature Checks"
+blog: How to Set Up Dishwasher Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

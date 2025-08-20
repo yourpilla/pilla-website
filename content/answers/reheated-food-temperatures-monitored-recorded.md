@@ -1,18 +1,19 @@
 ---
-title: "How should reheated food temperatures be monitored and recorded?"
-meta: |
-  Explore the specific reheating temperatures required for food safety, the importance of proper equipment, and procedures for recording compliance.
-slug: "reheated-food-temperatures-monitored-recorded"
-unique id: "1744115592498x620952744076484600"
+title: How should reheated food temperatures be monitored and recorded?
+meta: >
+  Explore the specific reheating temperatures required for food safety, the
+  importance of proper equipment, and procedures for recording compliance.
+slug: reheated-food-temperatures-monitored-recorded
+unique id: 1744115592498x620952744076484600
 featured: false
-breadcrumb short: "Monitoring"
-pillar text: "Food Safety System"
+breadcrumb short: Monitoring
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Temperature monitoring guidelines and procedures
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,20 @@
 ---
-title: "What are good Barista interview questions to ask?"
-meta: |
-  Discover effective interview questions for baristas that assess real-world skills in customer service, teamwork, and coffee making, along with tips on using behavioural questions.
-slug: "barista-interview-questions-to-ask"
-unique id: "1747318595790x793619724938764400"
+title: What are good Barista interview questions to ask?
+meta: >
+  Discover effective interview questions for baristas that assess real-world
+  skills in customer service, teamwork, and coffee making, along with tips on
+  using behavioural questions.
+slug: barista-interview-questions-to-ask
+unique id: 1747318595790x793619724938764400
 featured: false
-breadcrumb short: "Behavioural Questions"
-pillar text: "Job Interviews"
+breadcrumb short: Behavioural Questions
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Barista Interviews"
+subpage text: Barista Interviews
 subpage link: |
   https://yourpilla.com/blog/barista-interview-questions
-blog: "How to Decide on Barista Interview Questions and Trial Activities"
+blog: How to Decide on Barista Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -123,6 +125,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,20 @@
 ---
-title: "What equipment should be used to reheat food safely?"
-meta: |
-  Understand the required reheating temperatures for foods, how to use the Reheated Food Temperature Task Template, and corrective actions for non-compliance.
-slug: "equipment-reheat-food-safely-used"
-unique id: "1744115592499x200547080460388380"
+title: What equipment should be used to reheat food safely?
+meta: >
+  Understand the required reheating temperatures for foods, how to use the
+  Reheated Food Temperature Task Template, and corrective actions for
+  non-compliance.
+slug: equipment-reheat-food-safely-used
+unique id: 1744115592499x200547080460388380
 featured: false
-breadcrumb short: "Equipment"
-pillar text: "Food Safety System"
+breadcrumb short: Equipment
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Equipment specifications and usage guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,19 +1,23 @@
 ---
-title: "What pay and benefits details should I include in a Hotel General Manager job description?"
-meta: |
-  Discover how to effectively detail pay, benefits, and work-life balance perks in a Hotel General Manager job description to attract top candidates.
-slug: "pay-benefits-hotel-general-manager"
-unique id: "1750240366376x442582030956625900"
+title: >-
+  What pay and benefits details should I include in a Hotel General Manager job
+  description?
+meta: >
+  Discover how to effectively detail pay, benefits, and work-life balance perks
+  in a Hotel General Manager job description to attract top candidates.
+slug: pay-benefits-hotel-general-manager
+unique id: 1750240366376x442582030956625900
 featured: false
-breadcrumb short: "Pay"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel General Manager Job Description"
+subpage text: Hotel General Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/hotel-manager-duties
-blog: |
-  How to write a hotel general manager job description: hotel general manager job description template included.
+blog: >
+  How to write a hotel general manager job description: hotel general manager
+  job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

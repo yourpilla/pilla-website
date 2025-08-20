@@ -1,18 +1,19 @@
 ---
-title: "Does my coffee machine need a Written Scheme of Examination (WSE)?"
-meta: |
-  Discover if your commercial coffee machine requires a Written Scheme of Examination under the Pressure Systems Safety Regulations 2000.
-slug: "coffee-machine-written-scheme-examination"
-unique id: "1745226754640x793854548562066300"
+title: Does my coffee machine need a Written Scheme of Examination (WSE)?
+meta: >
+  Discover if your commercial coffee machine requires a Written Scheme of
+  Examination under the Pressure Systems Safety Regulations 2000.
+slug: coffee-machine-written-scheme-examination
+unique id: 1745226754640x793854548562066300
 featured: false
-breadcrumb short: "Pressure Safety Regulations"
-pillar text: "Health & Safety System"
+breadcrumb short: Pressure Safety Regulations
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Coffee Machine Risk Assessment"
+subpage text: Coffee Machine Risk Assessment
 subpage link: |
   https://yourpilla.com/blog/coffee-machine-risk-assessment
-blog: "How to Do a Coffee Machine Risk Assessment "
+blog: 'How to Do a Coffee Machine Risk Assessment '
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

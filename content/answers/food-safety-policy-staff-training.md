@@ -1,18 +1,19 @@
 ---
-title: "What should your food safety policy say about staff training?"
-meta: |
-  Explore the importance of continuous staff training and supervision in your food safety policy, including key topics and common misconceptions.
-slug: "food-safety-policy-staff-training"
-unique id: "1746538990380x102621958127048450"
+title: What should your food safety policy say about staff training?
+meta: >
+  Explore the importance of continuous staff training and supervision in your
+  food safety policy, including key topics and common misconceptions.
+slug: food-safety-policy-staff-training
+unique id: 1746538990380x102621958127048450
 featured: false
-breadcrumb short: "Training"
-pillar text: "Food Safety System"
+breadcrumb short: Training
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Policy"
+subpage text: Food Safety Policy
 subpage link: |
   https://yourpilla.com/blog/food-safety-policy-example
-blog: "Health and safety policy statement template for hospitality."
+blog: Health and safety policy statement template for hospitality.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Training requirements and certification guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

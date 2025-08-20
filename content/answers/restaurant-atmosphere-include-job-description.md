@@ -1,20 +1,24 @@
 ---
-title: |
-  What should I include when describing my restaurant's atmosphere in a Restaurant Manager job description?
-meta: |
-  Discover how to effectively describe your restaurant's atmosphere, service style, and unique features in a Restaurant Manager job description to attract ideal candidates.
-slug: "restaurant-atmosphere-include-job-description"
-unique id: "1750065020816x237804308583415800"
+title: >
+  What should I include when describing my restaurant's atmosphere in a
+  Restaurant Manager job description?
+meta: >
+  Discover how to effectively describe your restaurant's atmosphere, service
+  style, and unique features in a Restaurant Manager job description to attract
+  ideal candidates.
+slug: restaurant-atmosphere-include-job-description
+unique id: 1750065020816x237804308583415800
 featured: false
-breadcrumb short: "Atmosphere"
-pillar text: "Job Descriptions"
+breadcrumb short: Atmosphere
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Manager Job Description"
+subpage text: Restaurant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-manager-job-description
-blog: |
-  How to write a restaurant manager job description: restaurant manager job description template included.
+blog: >
+  How to write a restaurant manager job description: restaurant manager job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -113,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

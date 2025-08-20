@@ -1,19 +1,23 @@
 ---
-title: "What departure responsibilities should I incorporate into a Concierge job description?"
-meta: |
-  Explore the key departure responsibilities for a concierge, including managing check-outs, handling feedback, and ensuring a memorable guest experience.
-slug: "departure-responsibilities-concierge-job-description"
-unique id: "1748867376106x237790088222736400"
+title: >-
+  What departure responsibilities should I incorporate into a Concierge job
+  description?
+meta: >
+  Explore the key departure responsibilities for a concierge, including managing
+  check-outs, handling feedback, and ensuring a memorable guest experience.
+slug: departure-responsibilities-concierge-job-description
+unique id: 1748867376106x237790088222736400
 featured: false
-breadcrumb short: "Departure Responsibilities"
-pillar text: "Job Descriptions"
+breadcrumb short: Departure Responsibilities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Concierge Job Description"
+subpage text: Concierge Job Description
 subpage link: |
   https://yourpilla.com/blog/concierge-job-description
-blog: |
-  How to write a concierge job description: concierge job description template included.
+blog: >
+  How to write a concierge job description: concierge job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

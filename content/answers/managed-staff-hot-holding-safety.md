@@ -1,18 +1,19 @@
 ---
-title: "How should staff be managed to ensure hot holding safety?"
-meta: |
-  Discover effective strategies for managing staff to ensure hot holding safety, including the importance of training, supervision, and regular retraining.
-slug: "managed-staff-hot-holding-safety"
-unique id: "1744190546780x792391837919545900"
+title: How should staff be managed to ensure hot holding safety?
+meta: >
+  Discover effective strategies for managing staff to ensure hot holding safety,
+  including the importance of training, supervision, and regular retraining.
+slug: managed-staff-hot-holding-safety
+unique id: 1744190546780x792391837919545900
 featured: false
-breadcrumb short: "Staff Training"
-pillar text: "Food Safety System"
+breadcrumb short: Staff Training
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Hot Holding"
+subpage text: Hot Holding
 subpage link: |
   https://yourpilla.com/blog/hot-holding
-blog: "How to Set Up Hot Holding Temperature Checks"
+blog: How to Set Up Hot Holding Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Quality assurance methods and verification
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

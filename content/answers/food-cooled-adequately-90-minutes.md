@@ -1,19 +1,21 @@
 ---
 title: |
   What should I do if food isn't adequately cooled after 90 minutes?
-meta: |
-  Discover essential actions if food fails to cool within 90 minutes, including safe disposal and revising cooling methods, plus tips for optimizing your cooling setup.
-slug: "food-cooled-adequately-90-minutes"
-unique id: "1748966649645x906846244359372800"
+meta: >
+  Discover essential actions if food fails to cool within 90 minutes, including
+  safe disposal and revising cooling methods, plus tips for optimizing your
+  cooling setup.
+slug: food-cooled-adequately-90-minutes
+unique id: 1748966649645x906846244359372800
 featured: false
-breadcrumb short: "After 90 Minuts"
-pillar text: "Food Safety System"
+breadcrumb short: After 90 Minuts
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooling Foods"
+subpage text: Cooling Foods
 subpage link: |
   https://yourpilla.com/blog/cooling-food-safely
-blog: "How to Set Up Cooled Food Temperature Checks"
+blog: How to Set Up Cooled Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Emergency procedures and corrective actions
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

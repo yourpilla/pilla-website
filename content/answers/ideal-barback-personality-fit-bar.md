@@ -1,19 +1,22 @@
 ---
-title: "How can we describe the ideal Barback personality fit for our Bar?"
-meta: |
-  Discover how to identify the ideal Barback personality for your bar, focusing on specific traits and behaviours that match your venue's atmosphere and team dynamics.
-slug: "ideal-barback-personality-fit-bar"
-unique id: "1747841008447x870518750833937800"
+title: How can we describe the ideal Barback personality fit for our Bar?
+meta: >
+  Discover how to identify the ideal Barback personality for your bar, focusing
+  on specific traits and behaviours that match your venue's atmosphere and team
+  dynamics.
+slug: ideal-barback-personality-fit-bar
+unique id: 1747841008447x870518750833937800
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barback Job Descriptions"
+subpage text: Barback Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barback-job-description
-blog: |
-  How to write a barback job description: barback job description template included.
+blog: >
+  How to write a barback job description: barback job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

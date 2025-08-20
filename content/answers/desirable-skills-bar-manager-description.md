@@ -1,19 +1,24 @@
 ---
-title: "What desirable or nice-to-have skills should I include in a Bar Manager job description?"
-meta: |
-  Discover key desirable skills for a Bar Manager, including craft beer knowledge and event planning, to enhance your job description and attract top talent.
-slug: "desirable-skills-bar-manager-description"
-unique id: "1748626151254x532975160895702500"
+title: >-
+  What desirable or nice-to-have skills should I include in a Bar Manager job
+  description?
+meta: >
+  Discover key desirable skills for a Bar Manager, including craft beer
+  knowledge and event planning, to enhance your job description and attract top
+  talent.
+slug: desirable-skills-bar-manager-description
+unique id: 1748626151254x532975160895702500
 featured: false
-breadcrumb short: "Desirable Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Desirable Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Manager Job Descriptions"
+subpage text: Bar Manager Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bar-manager-duties
-blog: |
-  How to write a bar manager job description: bar manager job description template included.
+blog: >
+  How to write a bar manager job description: bar manager job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Essential competencies and qualifications for effective performance
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

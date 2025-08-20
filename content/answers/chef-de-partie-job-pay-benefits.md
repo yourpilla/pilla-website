@@ -1,19 +1,23 @@
 ---
-title: "What pay and benefits information should I include in a Chef de Partie job description?"
-meta: |
-  Explore essential guidance on including precise pay and benefits in a Chef de Partie job description to attract well-suited candidates.
-slug: "chef-de-partie-job-pay-benefits"
-unique id: "1749803905595x170276529538072580"
+title: >-
+  What pay and benefits information should I include in a Chef de Partie job
+  description?
+meta: >
+  Explore essential guidance on including precise pay and benefits in a Chef de
+  Partie job description to attract well-suited candidates.
+slug: chef-de-partie-job-pay-benefits
+unique id: 1749803905595x170276529538072580
 featured: false
-breadcrumb short: "Pay and Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay and Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef de Partie Job Description"
+subpage text: Chef de Partie Job Description
 subpage link: |
   https://yourpilla.com/blog/chef-de-partie-job-description
-blog: |
-  How to write a chef de partie job description: chef de partie job description template included.
+blog: >
+  How to write a chef de partie job description: chef de partie job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

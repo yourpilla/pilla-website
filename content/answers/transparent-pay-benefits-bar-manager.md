@@ -1,19 +1,21 @@
 ---
-title: "How transparent should I be about pay and benefits for the Bar Manager role?"
-meta: |
-  Discover the importance of transparency in disclosing salary and benefits for a Bar Manager role to attract the right candidates and set clear expectations.
-slug: "transparent-pay-benefits-bar-manager"
-unique id: "1748626151254x516535833203674500"
+title: How transparent should I be about pay and benefits for the Bar Manager role?
+meta: >
+  Discover the importance of transparency in disclosing salary and benefits for
+  a Bar Manager role to attract the right candidates and set clear expectations.
+slug: transparent-pay-benefits-bar-manager
+unique id: 1748626151254x516535833203674500
 featured: false
-breadcrumb short: "Pay & Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay & Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Manager Job Descriptions"
+subpage text: Bar Manager Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bar-manager-duties
-blog: |
-  How to write a bar manager job description: bar manager job description template included.
+blog: >
+  How to write a bar manager job description: bar manager job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

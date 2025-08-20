@@ -1,15 +1,17 @@
 ---
-title: "What is the job of an Aboyeur in a kitchen?"
-meta: |
-  Discover the role of an Aboyeur (Expediter) in a kitchen, focusing on their duties in coordinating orders and ensuring quality control in dish presentation.
-slug: "aboyeur-kitchen-job-what-is"
-unique id: "1745420497015x491348842857156400"
+title: What is the job of an Aboyeur in a kitchen?
+meta: >
+  Discover the role of an Aboyeur (Expediter) in a kitchen, focusing on their
+  duties in coordinating orders and ensuring quality control in dish
+  presentation.
+slug: aboyeur-kitchen-job-what-is
+unique id: 1745420497015x491348842857156400
 featured: false
-breadcrumb short: "Aboyeur (Expediter)"
-pillar text: "Job Descriptions"
+breadcrumb short: Aboyeur (Expediter)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

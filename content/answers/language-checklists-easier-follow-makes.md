@@ -1,18 +1,19 @@
 ---
-title: "What kind of language makes checklists easier to follow?"
-meta: |
-  Discover how using clear, direct language with strong action verbs can make checklists more effective and easier to follow in the workplace.
-slug: "language-checklists-easier-follow-makes"
-unique id: "1746609287201x827428643557090800"
+title: What kind of language makes checklists easier to follow?
+meta: >
+  Discover how using clear, direct language with strong action verbs can make
+  checklists more effective and easier to follow in the workplace.
+slug: language-checklists-easier-follow-makes
+unique id: 1746609287201x827428643557090800
 featured: false
-breadcrumb short: "Language"
-pillar text: "Food Safety System"
+breadcrumb short: Language
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Opening/Closing"
+subpage text: Kitchen Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/kitchen-opening-closing-checklists
-blog: "How to Write a Kitchen a Opening and Closing Checklist"
+blog: How to Write a Kitchen a Opening and Closing Checklist
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +118,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

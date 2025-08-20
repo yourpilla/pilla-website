@@ -1,18 +1,19 @@
 ---
-title: "How should I format my kitchen risk assessment?"
-meta: |
-  Learn the best practices for formatting a kitchen risk assessment, including choosing between list and table formats and customizing templates.
-slug: "kitchen-risk-assessment-how-format"
-unique id: "1744799372654x815001140341564400"
+title: How should I format my kitchen risk assessment?
+meta: >
+  Learn the best practices for formatting a kitchen risk assessment, including
+  choosing between list and table formats and customizing templates.
+slug: kitchen-risk-assessment-how-format
+unique id: 1744799372654x815001140341564400
 featured: false
-breadcrumb short: "Format"
-pillar text: "Health & Safety System"
+breadcrumb short: Format
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

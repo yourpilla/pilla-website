@@ -1,19 +1,24 @@
 ---
-title: "How can I describe required personality traits in a Restaurant Duty Manager job description?"
-meta: |
-  Discover how to effectively describe essential personality traits for a Restaurant Duty Manager, ensuring a perfect fit for your team and service style.
-slug: "required-personality-traits-restaurant-manager"
-unique id: "1750237190568x675362201261310000"
+title: >-
+  How can I describe required personality traits in a Restaurant Duty Manager
+  job description?
+meta: >
+  Discover how to effectively describe essential personality traits for a
+  Restaurant Duty Manager, ensuring a perfect fit for your team and service
+  style.
+slug: required-personality-traits-restaurant-manager
+unique id: 1750237190568x675362201261310000
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Duty Manager Job Description"
+subpage text: Restaurant Duty Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-duty-manager-duties
-blog: |
-  How to write a restaurant duty manager job description: restaurant duty manager job description template included.
+blog: >
+  How to write a restaurant duty manager job description: restaurant duty
+  manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

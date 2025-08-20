@@ -1,18 +1,19 @@
 ---
-title: "What is the first step in writing effective opening and closing checklists?"
-meta: |
-  Discover the importance of conducting regular kitchen walkthroughs before creating opening and closing checklists to ensure safety and efficiency.
-slug: "first-step-writing-opening-closing"
-unique id: "1746609287200x618846711493837600"
+title: What is the first step in writing effective opening and closing checklists?
+meta: >
+  Discover the importance of conducting regular kitchen walkthroughs before
+  creating opening and closing checklists to ensure safety and efficiency.
+slug: first-step-writing-opening-closing
+unique id: 1746609287200x618846711493837600
 featured: false
-breadcrumb short: "Walkthrough"
-pillar text: "Food Safety System"
+breadcrumb short: Walkthrough
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Opening/Closing"
+subpage text: Kitchen Opening/Closing
 subpage link: |
   https://yourpilla.com/blog/kitchen-opening-closing-checklists
-blog: "How to Write a Kitchen a Opening and Closing Checklist"
+blog: How to Write a Kitchen a Opening and Closing Checklist
 schema: |
   {
     "@context": "https://schema.org",
@@ -117,6 +118,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

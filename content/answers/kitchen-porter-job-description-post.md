@@ -1,18 +1,22 @@
 ---
-title: "What post-service responsibilities should I include in a Kitchen Porter job description?"
-meta: |
-  Discover essential post-service responsibilities for Kitchen Porters, including detailed clean-up processes and how to organise closing duties efficiently.
-slug: "kitchen-porter-job-description-post"
-unique id: "1749723295240x902743476277870600"
+title: >-
+  What post-service responsibilities should I include in a Kitchen Porter job
+  description?
+meta: >
+  Discover essential post-service responsibilities for Kitchen Porters,
+  including detailed clean-up processes and how to organise closing duties
+  efficiently.
+slug: kitchen-porter-job-description-post
+unique id: 1749723295240x902743476277870600
 featured: false
-breadcrumb short: "Post-Service"
-pillar text: "Job Interviews"
+breadcrumb short: Post-Service
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Kitchen Porter Interviews"
+subpage text: Kitchen Porter Interviews
 subpage link: |
   https://yourpilla.com/blog/kitchen-porter-interviews
-blog: "How to Decide on Kitchen Porter Interview Questions and Trial Activities"
+blog: How to Decide on Kitchen Porter Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
     ],
     "dateModified": "2025-06-01T09:00:00+01:00"
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

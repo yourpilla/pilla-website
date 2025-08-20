@@ -1,18 +1,19 @@
 ---
-title: "Why is preheating cooking equipment important?"
-meta: |
-  Discover the essential time and temperature combinations for safely cooking foods, and learn how to monitor and record temperatures to ensure food safety.
-slug: "preheating-cooking-equipment-important-why"
-unique id: "1743670469423x698565767579134600"
+title: Why is preheating cooking equipment important?
+meta: >
+  Discover the essential time and temperature combinations for safely cooking
+  foods, and learn how to monitor and record temperatures to ensure food safety.
+slug: preheating-cooking-equipment-important-why
+unique id: 1743670469423x698565767579134600
 featured: false
-breadcrumb short: "Pre-heating"
-pillar text: "Food Safety System"
+breadcrumb short: Pre-heating
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Equipment operation and maintenance procedures
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

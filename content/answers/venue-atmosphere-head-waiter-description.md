@@ -1,12 +1,16 @@
 ---
-title: "What should I include about the venue atmosphere in a Head Waiter job description?"
-meta: |
-  Discover how to effectively describe the venue atmosphere, service style, and unique aspects in a Head Waiter job description to attract the right candidates.
-slug: "venue-atmosphere-head-waiter-description"
-unique id: "1749721669180x826967139140239400"
+title: >-
+  What should I include about the venue atmosphere in a Head Waiter job
+  description?
+meta: >
+  Discover how to effectively describe the venue atmosphere, service style, and
+  unique aspects in a Head Waiter job description to attract the right
+  candidates.
+slug: venue-atmosphere-head-waiter-description
+unique id: 1749721669180x826967139140239400
 featured: false
-breadcrumb short: "Business"
-pillar text: "Job Interviews"
+breadcrumb short: Business
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
 subpage text: |
@@ -113,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

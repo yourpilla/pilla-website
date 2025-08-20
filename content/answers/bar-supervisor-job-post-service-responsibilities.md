@@ -1,19 +1,24 @@
 ---
-title: "What post-service responsibilities should I include in a Bar Supervisor job description?"
-meta: |
-  Learn about the essential post-service responsibilities for a Bar Supervisor, including closing procedures, reporting, and preparing the bar for the next day.
-slug: "bar-supervisor-job-post-service-responsibilities"
-unique id: "1748855853577x794263432030322700"
+title: >-
+  What post-service responsibilities should I include in a Bar Supervisor job
+  description?
+meta: >
+  Learn about the essential post-service responsibilities for a Bar Supervisor,
+  including closing procedures, reporting, and preparing the bar for the next
+  day.
+slug: bar-supervisor-job-post-service-responsibilities
+unique id: 1748855853577x794263432030322700
 featured: false
-breadcrumb short: "Post-Service"
-pillar text: "Job Descriptions"
+breadcrumb short: Post-Service
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Supervisor Job Description"
+subpage text: Bar Supervisor Job Description
 subpage link: |
   https://yourpilla.com/blog/bar-supervisor-duties
-blog: |
-  How to write a bar supervisor job description: bar supervisor job description template included.
+blog: >
+  How to write a bar supervisor job description: bar supervisor job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

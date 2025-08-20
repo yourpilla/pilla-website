@@ -1,19 +1,24 @@
 ---
-title: "How much autonomy should I include in a Restaurant Assistant Manager job description?"
-meta: |
-  Explore how to define autonomy in a Restaurant Assistant Manager job description, balancing leadership with team collaboration and decision-making responsibilities.
-slug: "autonomy-restaurant-assistant-manager-job"
-unique id: "1750236244540x477666755959324700"
+title: >-
+  How much autonomy should I include in a Restaurant Assistant Manager job
+  description?
+meta: >
+  Explore how to define autonomy in a Restaurant Assistant Manager job
+  description, balancing leadership with team collaboration and decision-making
+  responsibilities.
+slug: autonomy-restaurant-assistant-manager-job
+unique id: 1750236244540x477666755959324700
 featured: false
-breadcrumb short: "Autonomy"
-pillar text: "Job Descriptions"
+breadcrumb short: Autonomy
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

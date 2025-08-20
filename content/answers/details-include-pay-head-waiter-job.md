@@ -1,12 +1,13 @@
 ---
-title: "What details should I include about pay in a Head Waiter job description?"
-meta: |
-  Explore how to effectively outline salary, bonuses, and tips in a Head Waiter job description to attract suitable candidates.
-slug: "details-include-pay-head-waiter-job"
-unique id: "1749721865495x221041664947650560"
+title: What details should I include about pay in a Head Waiter job description?
+meta: >
+  Explore how to effectively outline salary, bonuses, and tips in a Head Waiter
+  job description to attract suitable candidates.
+slug: details-include-pay-head-waiter-job
+unique id: 1749721865495x221041664947650560
 featured: false
-breadcrumb short: "Pay"
-pillar text: "Job Interviews"
+breadcrumb short: Pay
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
 subpage text: |
@@ -113,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

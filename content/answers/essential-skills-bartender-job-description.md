@@ -1,19 +1,22 @@
 ---
-title: "What essential skills should I list in a Bartender job description?"
-meta: |
-  Discover essential and desirable skills to include in a bartender job description, focusing on both hard and soft skills crucial for effective bar operations.
-slug: "essential-skills-bartender-job-description"
-unique id: "1748429917193x545648274165620800"
+title: What essential skills should I list in a Bartender job description?
+meta: >
+  Discover essential and desirable skills to include in a bartender job
+  description, focusing on both hard and soft skills crucial for effective bar
+  operations.
+slug: essential-skills-bartender-job-description
+unique id: 1748429917193x545648274165620800
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

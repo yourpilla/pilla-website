@@ -1,18 +1,19 @@
 ---
-title: "How should whole cuts of meat be cooked safely?"
-meta: |
-  Ensure proper food safety by cooking foods to specific temperatures and times to eliminate bacteria, with guidelines on handling and equipment use.
-slug: "whole-cuts-meat-cooked-safely"
-unique id: "1743670469427x877961128936662300"
+title: How should whole cuts of meat be cooked safely?
+meta: >
+  Ensure proper food safety by cooking foods to specific temperatures and times
+  to eliminate bacteria, with guidelines on handling and equipment use.
+slug: whole-cuts-meat-cooked-safely
+unique id: 1743670469427x877961128936662300
 featured: false
-breadcrumb short: "Whole Cuts"
-pillar text: "Food Safety System"
+breadcrumb short: Whole Cuts
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Cooked Food Temperatures"
+subpage text: Cooked Food Temperatures
 subpage link: |
   https://yourpilla.com/blog/safe-food-temperatures
-blog: "How to Set Up Cooked Food Temperature Checks"
+blog: How to Set Up Cooked Food Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safe cooking procedures and temperature requirements
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

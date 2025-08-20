@@ -1,19 +1,21 @@
 ---
-title: "How do I identify and list the right skills for our Barback role?"
-meta: |
-  Learn how to accurately identify and list essential skills for a Barback role, addressing common misconceptions about skills versus traits.
-slug: "identify-list-skills-barback-role"
-unique id: "1747841008447x401153702826782000"
+title: How do I identify and list the right skills for our Barback role?
+meta: >
+  Learn how to accurately identify and list essential skills for a Barback role,
+  addressing common misconceptions about skills versus traits.
+slug: identify-list-skills-barback-role
+unique id: 1747841008447x401153702826782000
 featured: false
-breadcrumb short: "Right Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Right Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barback Job Descriptions"
+subpage text: Barback Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barback-job-description
-blog: |
-  How to write a barback job description: barback job description template included.
+blog: >
+  How to write a barback job description: barback job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

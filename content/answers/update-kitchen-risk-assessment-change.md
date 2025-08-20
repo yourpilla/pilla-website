@@ -1,18 +1,19 @@
 ---
-title: "How do I update my kitchen risk assessment when things change?"
-meta: |
-  Discover how to update your kitchen risk assessment with any changes, including new equipment or layout modifications, to maintain safety standards.
-slug: "update-kitchen-risk-assessment-change"
-unique id: "1744799372654x904677169391059400"
+title: How do I update my kitchen risk assessment when things change?
+meta: >
+  Discover how to update your kitchen risk assessment with any changes,
+  including new equipment or layout modifications, to maintain safety standards.
+slug: update-kitchen-risk-assessment-change
+unique id: 1744799372654x904677169391059400
 featured: false
-breadcrumb short: "Updating"
-pillar text: "Health & Safety System"
+breadcrumb short: Updating
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

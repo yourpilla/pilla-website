@@ -1,18 +1,19 @@
 ---
-title: "Can I refreeze food that has started to defrost?"
-meta: |
-  Learn why you should never refreeze food that has started to defrost and what to do with partially or fully defrosted food to ensure food safety.
-slug: "refreeze-food-started-defrost"
-unique id: "1733824580231x611909568983350000"
+title: Can I refreeze food that has started to defrost?
+meta: >
+  Learn why you should never refreeze food that has started to defrost and what
+  to do with partially or fully defrosted food to ensure food safety.
+slug: refreeze-food-started-defrost
+unique id: 1733824580231x611909568983350000
 featured: false
-breadcrumb short: "Refreezing"
-pillar text: "Food Safety System"
+breadcrumb short: Refreezing
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

@@ -1,18 +1,20 @@
 ---
-title: "How do I assess who might be harmed in a kitchen risk assessment?"
-meta: |
-  Learn how to identify who might be harmed in a kitchen risk assessment, including staff and visitors, and the importance of specific injury descriptions.
-slug: "assess-harmed-kitchen-risk-assessment"
-unique id: "1744799372654x372478131209774900"
+title: How do I assess who might be harmed in a kitchen risk assessment?
+meta: >
+  Learn how to identify who might be harmed in a kitchen risk assessment,
+  including staff and visitors, and the importance of specific injury
+  descriptions.
+slug: assess-harmed-kitchen-risk-assessment
+unique id: 1744799372654x372478131209774900
 featured: false
-breadcrumb short: "Who Could be Harmed"
-pillar text: "Health & Safety System"
+breadcrumb short: Who Could be Harmed
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,19 @@
 ---
-title: "Why is it important to reheat food to the correct temperature?"
-meta: |
-  Learn about the required reheating temperatures for foods, how to monitor and record them, and corrective actions for non-compliance.
-slug: "important-reheat-food-correct-temperature"
-unique id: "1744115592500x788601097276885100"
+title: Why is it important to reheat food to the correct temperature?
+meta: >
+  Learn about the required reheating temperatures for foods, how to monitor and
+  record them, and corrective actions for non-compliance.
+slug: important-reheat-food-correct-temperature
+unique id: 1744115592500x788601097276885100
 featured: false
-breadcrumb short: "Why"
-pillar text: "Food Safety System"
+breadcrumb short: Why
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

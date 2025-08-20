@@ -1,18 +1,19 @@
 ---
-title: "How does time impact the safety and quality of hot held food?"
-meta: |
-  Explore the impact of time on the safety and quality of hot held food, including common misconceptions and risks of extended hot holding.
-slug: "time-impact-safety-quality-food"
-unique id: "1744190546778x652856389129357040"
+title: How does time impact the safety and quality of hot held food?
+meta: >
+  Explore the impact of time on the safety and quality of hot held food,
+  including common misconceptions and risks of extended hot holding.
+slug: time-impact-safety-quality-food
+unique id: 1744190546778x652856389129357040
 featured: false
-breadcrumb short: "Time and Quality"
-pillar text: "Food Safety System"
+breadcrumb short: Time and Quality
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Hot Holding"
+subpage text: Hot Holding
 subpage link: |
   https://yourpilla.com/blog/hot-holding
-blog: "How to Set Up Hot Holding Temperature Checks"
+blog: How to Set Up Hot Holding Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

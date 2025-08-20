@@ -1,5 +1,6 @@
 ---
 title: "What essential skills should I include in a Hotel General Manager job description?"
+subtitle: "Key competencies and qualifications for effective hotel management leadership"
 meta: |
   Discover the essential skills for a Hotel General Manager, including leadership, financial management, and guest relations, to ensure effective hotel operations.
 slug: "essential-skills-hotel-general-manager"

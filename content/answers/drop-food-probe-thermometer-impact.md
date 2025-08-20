@@ -1,18 +1,19 @@
 ---
-title: "What happens if I drop my food probe thermometer?"
-meta: |
-  Learn what to do if you drop your food probe thermometer, how to test its accuracy, and the importance of cleaning it before testing.
-slug: "drop-food-probe-thermometer-impact"
-unique id: "1734019668712x605693406275106000"
+title: What happens if I drop my food probe thermometer?
+meta: >
+  Learn what to do if you drop your food probe thermometer, how to test its
+  accuracy, and the importance of cleaning it before testing.
+slug: drop-food-probe-thermometer-impact
+unique id: 1734019668712x605693406275106000
 featured: false
-breadcrumb short: "Dropped Probe"
-pillar text: "Food Safety System"
+breadcrumb short: Dropped Probe
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Probe Thermometer"
+subpage text: Food Probe Thermometer
 subpage link: |
   https://yourpilla.com/blog/using-food-temperature-probes
-blog: "How to Set Up Legionella Temperature Testing Checks"
+blog: How to Set Up Legionella Temperature Testing Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

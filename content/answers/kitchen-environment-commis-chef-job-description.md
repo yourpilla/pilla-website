@@ -1,19 +1,24 @@
 ---
-title: "What should I include about my kitchen environment in a Commis Chef job description?"
-meta: |
-  Discover how to craft a compelling Commis Chef job description by detailing your kitchen's environment, dining style, and unique aspects to attract the right candidates.
-slug: "kitchen-environment-commis-chef-job-description"
-unique id: "1749803042243x986596658006196200"
+title: >-
+  What should I include about my kitchen environment in a Commis Chef job
+  description?
+meta: >
+  Discover how to craft a compelling Commis Chef job description by detailing
+  your kitchen's environment, dining style, and unique aspects to attract the
+  right candidates.
+slug: kitchen-environment-commis-chef-job-description
+unique id: 1749803042243x986596658006196200
 featured: false
-breadcrumb short: "Environment"
-pillar text: "Job Descriptions"
+breadcrumb short: Environment
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

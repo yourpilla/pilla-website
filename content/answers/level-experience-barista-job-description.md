@@ -1,19 +1,21 @@
 ---
-title: "How can I explain the level of experience needed in a Barista job description?"
-meta: |
-  Learn how to specify the right level of experience in a barista job description, balancing time-based experience with situational familiarity.
-slug: "level-experience-barista-job-description"
-unique id: "1748534800136x658449311563220600"
+title: How can I explain the level of experience needed in a Barista job description?
+meta: >
+  Learn how to specify the right level of experience in a barista job
+  description, balancing time-based experience with situational familiarity.
+slug: level-experience-barista-job-description
+unique id: 1748534800136x658449311563220600
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barista Job Descriptions"
+subpage text: Barista Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barista-job-description
-blog: |
-  How to write a barista job description: barista job description template included.
+blog: >
+  How to write a barista job description: barista job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -98,6 +100,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

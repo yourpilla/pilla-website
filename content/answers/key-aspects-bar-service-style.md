@@ -1,19 +1,23 @@
 ---
-title: "What should I include in the venue overview for a Bar Supervisor job description?"
-meta: |
-  Learn how to effectively describe your bar in a Bar Supervisor job description, including the venue's unique aspects, type, and service style.
-slug: "key-aspects-bar-service-style"
-unique id: "1748855589055x710030416160751600"
+title: >-
+  What should I include in the venue overview for a Bar Supervisor job
+  description?
+meta: >
+  Learn how to effectively describe your bar in a Bar Supervisor job
+  description, including the venue's unique aspects, type, and service style.
+slug: key-aspects-bar-service-style
+unique id: 1748855589055x710030416160751600
 featured: false
-breadcrumb short: "Bar Style"
-pillar text: "Job Descriptions"
+breadcrumb short: Bar Style
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Supervisor Job Description"
+subpage text: Bar Supervisor Job Description
 subpage link: |
   https://yourpilla.com/blog/bar-supervisor-duties
-blog: |
-  How to write a bar supervisor job description: bar supervisor job description template included.
+blog: >
+  How to write a bar supervisor job description: bar supervisor job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

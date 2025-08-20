@@ -1,18 +1,19 @@
 ---
-title: "How should a food safety policy describe risk management?"
-meta: |
-  Discover how a food safety policy should effectively manage risks, detailing proactive measures, hazard control, and consistent monitoring practices.
-slug: "food-safety-policy-risk-management"
-unique id: "1746538990380x641385930821802600"
+title: How should a food safety policy describe risk management?
+meta: >
+  Discover how a food safety policy should effectively manage risks, detailing
+  proactive measures, hazard control, and consistent monitoring practices.
+slug: food-safety-policy-risk-management
+unique id: 1746538990380x641385930821802600
 featured: false
-breadcrumb short: "Risk Management"
-pillar text: "Food Safety System"
+breadcrumb short: Risk Management
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Policy"
+subpage text: Food Safety Policy
 subpage link: |
   https://yourpilla.com/blog/food-safety-policy-example
-blog: "Health and safety policy statement template for hospitality."
+blog: Health and safety policy statement template for hospitality.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

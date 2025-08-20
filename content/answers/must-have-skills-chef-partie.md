@@ -1,19 +1,24 @@
 ---
-title: "What must-have skills should I include in a Chef de Partie job description for my kitchen?"
-meta: |
-  Discover essential skills to include in a Chef de Partie job description, differentiating between must-have and bonus skills for optimal kitchen performance.
-slug: "must-have-skills-chef-partie"
-unique id: "1749803856022x858056465221681200"
+title: >-
+  What must-have skills should I include in a Chef de Partie job description for
+  my kitchen?
+meta: >
+  Discover essential skills to include in a Chef de Partie job description,
+  differentiating between must-have and bonus skills for optimal kitchen
+  performance.
+slug: must-have-skills-chef-partie
+unique id: 1749803856022x858056465221681200
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef de Partie Job Description"
+subpage text: Chef de Partie Job Description
 subpage link: |
   https://yourpilla.com/blog/chef-de-partie-job-description
-blog: |
-  How to write a chef de partie job description: chef de partie job description template included.
+blog: >
+  How to write a chef de partie job description: chef de partie job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Essential competencies and qualifications for effective performance
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

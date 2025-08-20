@@ -1,19 +1,22 @@
 ---
-title: "What are the main duties a Hotel Receptionist handles during a typical shift?"
-meta: |
-  Discover the key responsibilities of a hotel receptionist, including task division across guest interaction stages and the importance of specific job descriptions.
-slug: "main-duties-hotel-receptionist-shift"
-unique id: "1748768543069x455539792863663740"
+title: What are the main duties a Hotel Receptionist handles during a typical shift?
+meta: >
+  Discover the key responsibilities of a hotel receptionist, including task
+  division across guest interaction stages and the importance of specific job
+  descriptions.
+slug: main-duties-hotel-receptionist-shift
+unique id: 1748768543069x455539792863663740
 featured: false
-breadcrumb short: "Duties"
-pillar text: "Job Descriptions"
+breadcrumb short: Duties
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel Receptionist Job Descriptions"
+subpage text: Hotel Receptionist Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/hotel-receptionist-duties
-blog: |
-  How to write a hotel receptionist job description: hotel receptionist job description template included.
+blog: >
+  How to write a hotel receptionist job description: hotel receptionist job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

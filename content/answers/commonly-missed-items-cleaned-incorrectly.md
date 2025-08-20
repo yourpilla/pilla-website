@@ -1,18 +1,19 @@
 ---
-title: "What items are commonly missed or cleaned incorrectly in a kitchen?"
-meta: |
-  Discover key areas and items in your kitchen that are frequently overlooked during cleaning, raising the risk of bacterial contamination.
-slug: "commonly-missed-items-cleaned-incorrectly"
-unique id: "1746622446225x493129322532377400"
+title: What items are commonly missed or cleaned incorrectly in a kitchen?
+meta: >
+  Discover key areas and items in your kitchen that are frequently overlooked
+  during cleaning, raising the risk of bacterial contamination.
+slug: commonly-missed-items-cleaned-incorrectly
+unique id: 1746622446225x493129322532377400
 featured: false
-breadcrumb short: "Mistakes"
-pillar text: "Food Safety System"
+breadcrumb short: Mistakes
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Cleaning"
+subpage text: Kitchen Cleaning
 subpage link: |
   https://yourpilla.com/blog/kitchen-cleaning-checklist
-blog: "How to create a Kitchen Cleaning Schedule"
+blog: How to create a Kitchen Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -131,6 +132,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 The requested section linking to templates or internal guides at yourpilla.com has been removed from the HTML document. Here is the revised version: \`\`\`html

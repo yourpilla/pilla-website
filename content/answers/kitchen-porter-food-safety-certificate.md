@@ -1,18 +1,20 @@
 ---
-title: "What level food safety certificate does a kitchen porter need?"
-meta: |
-  Kitchen porters need a Level 1 food hygiene certificate, renewed every 3 years. Regular in-house training on personal hygiene and allergens is also required.
-slug: "kitchen-porter-food-safety-certificate"
-unique id: "1734014558526x724920099765408100"
+title: What level food safety certificate does a kitchen porter need?
+meta: >
+  Kitchen porters need a Level 1 food hygiene certificate, renewed every 3
+  years. Regular in-house training on personal hygiene and allergens is also
+  required.
+slug: kitchen-porter-food-safety-certificate
+unique id: 1734014558526x724920099765408100
 featured: false
-breadcrumb short: "Kitchen Porter"
-pillar text: "Food Safety System"
+breadcrumb short: Kitchen Porter
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -60,6 +62,7 @@ schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

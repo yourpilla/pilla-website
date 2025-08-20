@@ -1,19 +1,22 @@
 ---
-title: "Should I include menu innovation play in an Executive Chef job description?"
-meta: |
-  Explore why including menu innovation in an Executive Chef's job description is essential for fostering culinary creativity and aligning with dining trends.
-slug: "menu-innovation-executive-chef-description"
-unique id: "1750064219496x220167820821659650"
+title: Should I include menu innovation play in an Executive Chef job description?
+meta: >
+  Explore why including menu innovation in an Executive Chef's job description
+  is essential for fostering culinary creativity and aligning with dining
+  trends.
+slug: menu-innovation-executive-chef-description
+unique id: 1750064219496x220167820821659650
 featured: false
-breadcrumb short: "Menu Innovation"
-pillar text: "Job Descriptions"
+breadcrumb short: Menu Innovation
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Executive Chef Job Description"
+subpage text: Executive Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/executive-chef-job-description
-blog: |
-  How to write a executive chef job description: executive chef job description template included.
+blog: >
+  How to write a executive chef job description: executive chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

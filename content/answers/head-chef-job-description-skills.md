@@ -1,19 +1,22 @@
 ---
-title: "What skills should I detail in a Head Chef job description?"
-meta: |
-  Discover how to craft an effective Head Chef job description, focusing on essential skills, differentiating key abilities, and tailoring to your venue's needs.
-slug: "head-chef-job-description-skills"
-unique id: "1750063326134x734481385447227400"
+title: What skills should I detail in a Head Chef job description?
+meta: >
+  Discover how to craft an effective Head Chef job description, focusing on
+  essential skills, differentiating key abilities, and tailoring to your venue's
+  needs.
+slug: head-chef-job-description-skills
+unique id: 1750063326134x734481385447227400
 featured: false
-breadcrumb short: "Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Head Chef Job Description"
+subpage text: Head Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/head-chef-job-description
-blog: |
-  How to write a head chef job description: head chef job description template included.
+blog: >
+  How to write a head chef job description: head chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,21 @@
 ---
-title: "What post-service tasks should I include in a sommelier job description?"
-meta: |
-  Unfortunately, you have provided the word "null" as the content for the article, which means there is no information to create a meta description from. Please provide the actual content or details of the article for me to assist you effectively.
-slug: "sommelier-job-description-post-service-tasks"
-unique id: "1749721044134x804894032927916000"
+title: What post-service tasks should I include in a sommelier job description?
+meta: >
+  Unfortunately, you have provided the word "null" as the content for the
+  article, which means there is no information to create a meta description
+  from. Please provide the actual content or details of the article for me to
+  assist you effectively.
+slug: sommelier-job-description-post-service-tasks
+unique id: 1749721044134x804894032927916000
 featured: false
-breadcrumb short: "Post-Service"
-pillar text: "Job Interviews"
+breadcrumb short: Post-Service
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -35,6 +35,10 @@ export default async function FAQPage({ params }: FAQPageProps) {
     notFound();
   }
 
+  const subtitle = faq.frontmatter.subtitle && typeof faq.frontmatter.subtitle === 'string' 
+    ? faq.frontmatter.subtitle 
+    : null;
+
   return (
     <>
       {/* Render exact schema from YAML frontmatter */}
@@ -91,6 +95,11 @@ export default async function FAQPage({ params }: FAQPageProps) {
               <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
                 {faq.title}
               </h1>
+              {subtitle && (
+                <p className="mt-6 small-grey">
+                  {subtitle}
+                </p>
+              )}
             </div>
           </div>
         </div>

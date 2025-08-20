@@ -1,19 +1,23 @@
 ---
-title: "How can I articulate personality and cultural fit in a Head Chef job description?"
-meta: |
-  Discover how to effectively describe personality and cultural fit in a Head Chef job description, avoiding vague terms and focusing on specific traits.
-slug: "articulate-personality-cultural-fit-chef"
-unique id: "1750063366922x581800917267120100"
+title: >-
+  How can I articulate personality and cultural fit in a Head Chef job
+  description?
+meta: >
+  Discover how to effectively describe personality and cultural fit in a Head
+  Chef job description, avoiding vague terms and focusing on specific traits.
+slug: articulate-personality-cultural-fit-chef
+unique id: 1750063366922x581800917267120100
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Head Chef Job Description"
+subpage text: Head Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/head-chef-job-description
-blog: |
-  How to write a head chef job description: head chef job description template included.
+blog: >
+  How to write a head chef job description: head chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

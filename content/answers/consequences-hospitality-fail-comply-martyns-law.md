@@ -1,13 +1,16 @@
 ---
-title: |
-  What are the potential consequences for hospitality businesses that fail to comply with Martyn's Law?
-meta: |
-  Discover the legal and operational consequences for hospitality businesses failing to comply with Martyn's Law, including fines, notices, and potential closure.
-slug: "consequences-hospitality-fail-comply-martyns-law"
-unique id: "1744633430857x216535927510210340"
+title: >
+  What are the potential consequences for hospitality businesses that fail to
+  comply with Martyn's Law?
+meta: >
+  Discover the legal and operational consequences for hospitality businesses
+  failing to comply with Martyn's Law, including fines, notices, and potential
+  closure.
+slug: consequences-hospitality-fail-comply-martyns-law
+unique id: 1744633430857x216535927510210340
 featured: false
-breadcrumb short: "Consequences"
-pillar text: "Health & Safety System"
+breadcrumb short: Consequences
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
 subpage text: |
@@ -120,6 +123,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

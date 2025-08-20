@@ -1,19 +1,21 @@
 ---
-title: "What skills are essential to include in an Executive Chef a job description?"
-meta: |
-  Discover the essential and desirable skills to include in an Executive Chef job description to ensure operational success and innovation in your kitchen.
-slug: "essential-skills-executive-chef-description"
-unique id: "1750064118782x535027310861746200"
+title: What skills are essential to include in an Executive Chef a job description?
+meta: >
+  Discover the essential and desirable skills to include in an Executive Chef
+  job description to ensure operational success and innovation in your kitchen.
+slug: essential-skills-executive-chef-description
+unique id: 1750064118782x535027310861746200
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Executive Chef Job Description"
+subpage text: Executive Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/executive-chef-job-description
-blog: |
-  How to write a executive chef job description: executive chef job description template included.
+blog: >
+  How to write a executive chef job description: executive chef job description
+  template included.
 breadcrumb_schema: |
   {
     "@context": "https://schema.org",
@@ -51,6 +53,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

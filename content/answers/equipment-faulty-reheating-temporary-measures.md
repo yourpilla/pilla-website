@@ -1,18 +1,19 @@
 ---
-title: "What should be done if reheating equipment is faulty?"
-meta: |
-  Discover key reheating temperatures for food safety, including regional variations, and how to properly document reheating processes.
-slug: "equipment-faulty-reheating-temporary-measures"
-unique id: "1744115592500x118402639481692380"
+title: What should be done if reheating equipment is faulty?
+meta: >
+  Discover key reheating temperatures for food safety, including regional
+  variations, and how to properly document reheating processes.
+slug: equipment-faulty-reheating-temporary-measures
+unique id: 1744115592500x118402639481692380
 featured: false
-breadcrumb short: "Faulty Equipment"
-pillar text: "Food Safety System"
+breadcrumb short: Faulty Equipment
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Emergency procedures and corrective actions
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

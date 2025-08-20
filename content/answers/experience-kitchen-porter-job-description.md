@@ -1,18 +1,20 @@
 ---
-title: "What type of experience should I specify in a Kitchen Porter job description?"
-meta: |
-  Explore how to effectively specify experience in Kitchen Porter job descriptions, decide between entry-level or experienced candidates, and the benefits of offering training.
-slug: "experience-kitchen-porter-job-description"
-unique id: "1749723355302x812080062985928700"
+title: What type of experience should I specify in a Kitchen Porter job description?
+meta: >
+  Explore how to effectively specify experience in Kitchen Porter job
+  descriptions, decide between entry-level or experienced candidates, and the
+  benefits of offering training.
+slug: experience-kitchen-porter-job-description
+unique id: 1749723355302x812080062985928700
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Interviews"
+breadcrumb short: Experience
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Kitchen Porter Interviews"
+subpage text: Kitchen Porter Interviews
 subpage link: |
   https://yourpilla.com/blog/kitchen-porter-interviews
-blog: "How to Decide on Kitchen Porter Interview Questions and Trial Activities"
+blog: How to Decide on Kitchen Porter Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,18 +1,19 @@
 ---
-title: "What is a front of house risk assessment in hospitality?"
-meta: |
-  Discover the importance of a front of house risk assessment in hospitality, focusing on safety and compliance in customer-facing areas.
-slug: "front-house-risk-assessment-hospitality"
-unique id: "1744896519239x907897255878200300"
+title: What is a front of house risk assessment in hospitality?
+meta: >
+  Discover the importance of a front of house risk assessment in hospitality,
+  focusing on safety and compliance in customer-facing areas.
+slug: front-house-risk-assessment-hospitality
+unique id: 1744896519239x907897255878200300
 featured: false
-breadcrumb short: "What Is It"
-pillar text: "Health & Safety System"
+breadcrumb short: What Is It
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Restaurant Risk Assessments"
+subpage text: Restaurant Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/restaurant-risk-assessment
-blog: "How to Do a Restaurant Risk Assessment"
+blog: How to Do a Restaurant Risk Assessment
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

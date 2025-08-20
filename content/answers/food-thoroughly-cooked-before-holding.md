@@ -1,18 +1,20 @@
 ---
-title: "Why must food be thoroughly cooked before hot holding?"
-meta: |
-  Learn why food must be thoroughly cooked before hot holding, the misconceptions about using bain-maries and soup kettles for cooking, and the correct hot holding procedures.
-slug: "food-thoroughly-cooked-before-holding"
-unique id: "1744190546779x874081889722588800"
+title: Why must food be thoroughly cooked before hot holding?
+meta: >
+  Learn why food must be thoroughly cooked before hot holding, the
+  misconceptions about using bain-maries and soup kettles for cooking, and the
+  correct hot holding procedures.
+slug: food-thoroughly-cooked-before-holding
+unique id: 1744190546779x874081889722588800
 featured: false
-breadcrumb short: "Prior Cooking"
-pillar text: "Food Safety System"
+breadcrumb short: Prior Cooking
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Hot Holding"
+subpage text: Hot Holding
 subpage link: |
   https://yourpilla.com/blog/hot-holding
-blog: "How to Set Up Hot Holding Temperature Checks"
+blog: How to Set Up Hot Holding Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

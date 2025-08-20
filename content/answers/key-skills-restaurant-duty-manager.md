@@ -1,19 +1,21 @@
 ---
-title: "What key skills should I include in a Restaurant Duty Manager job description?"
-meta: |
-  Discover the essential skills for a Restaurant Duty Manager, including leadership, customer service, and specific capabilities for high-end dining.
-slug: "key-skills-restaurant-duty-manager"
-unique id: "1750237151511x797999432630272000"
+title: What key skills should I include in a Restaurant Duty Manager job description?
+meta: >
+  Discover the essential skills for a Restaurant Duty Manager, including
+  leadership, customer service, and specific capabilities for high-end dining.
+slug: key-skills-restaurant-duty-manager
+unique id: 1750237151511x797999432630272000
 featured: false
-breadcrumb short: "Key Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Key Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Duty Manager Job Description"
+subpage text: Restaurant Duty Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-duty-manager-duties
-blog: |
-  How to write a restaurant duty manager job description: restaurant duty manager job description template included.
+blog: >
+  How to write a restaurant duty manager job description: restaurant duty
+  manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Essential competencies and qualifications for effective performance
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

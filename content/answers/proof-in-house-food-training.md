@@ -1,19 +1,21 @@
 ---
 title: |
   What proof do I need to show I've completed in-house food hygiene training?
-meta: |
-  Learn what proof you need to show for in-house food hygiene training, including digital records, certificates, and training matrices. Pilla helps track renewal dates.
-slug: "proof-in-house-food-training"
-unique id: "1734014568513x913951379432603500"
+meta: >
+  Learn what proof you need to show for in-house food hygiene training,
+  including digital records, certificates, and training matrices. Pilla helps
+  track renewal dates.
+slug: proof-in-house-food-training
+unique id: 1734014568513x913951379432603500
 featured: false
-breadcrumb short: "In-House Certificate"
-pillar text: "Food Safety System"
+breadcrumb short: In-House Certificate
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -69,6 +71,7 @@ schema: |
       }
     ]
   }
+subtitle: Training requirements and certification guidelines
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

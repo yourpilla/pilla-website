@@ -1,19 +1,24 @@
 ---
-title: "How do I define the personality and cultural fit for a Sous Chef in our job description?"
-meta: |
-  Discover how to define the ideal personality traits and cultural fit for a Sous Chef in your job description to enhance team integration and kitchen success.
-slug: "define-personality-cultural-fit-sous-chef"
-unique id: "1749805239744x155426051169452030"
+title: >-
+  How do I define the personality and cultural fit for a Sous Chef in our job
+  description?
+meta: >
+  Discover how to define the ideal personality traits and cultural fit for a
+  Sous Chef in your job description to enhance team integration and kitchen
+  success.
+slug: define-personality-cultural-fit-sous-chef
+unique id: 1749805239744x155426051169452030
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Sous Chef Job Description"
+subpage text: Sous Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/sous-chef-job-description
-blog: |
-  How to write a sous chef job description: sous chef job description template included.
+blog: >
+  How to write a sous chef job description: sous chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

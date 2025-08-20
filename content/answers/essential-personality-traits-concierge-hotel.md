@@ -1,19 +1,22 @@
 ---
-title: "What personality traits are essential for a Concierge in our hotel setting?"
-meta: |
-  Discover essential personality traits for hotel concierges, including adaptability and resourcefulness, and learn effective hiring practices to ensure candidates align with these qualities.
-slug: "essential-personality-traits-concierge-hotel"
-unique id: "1748867485202x292625764736565250"
+title: What personality traits are essential for a Concierge in our hotel setting?
+meta: >
+  Discover essential personality traits for hotel concierges, including
+  adaptability and resourcefulness, and learn effective hiring practices to
+  ensure candidates align with these qualities.
+slug: essential-personality-traits-concierge-hotel
+unique id: 1748867485202x292625764736565250
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Concierge Job Description"
+subpage text: Concierge Job Description
 subpage link: |
   https://yourpilla.com/blog/concierge-job-description
-blog: |
-  How to write a concierge job description: concierge job description template included.
+blog: >
+  How to write a concierge job description: concierge job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

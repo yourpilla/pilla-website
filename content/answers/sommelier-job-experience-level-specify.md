@@ -1,18 +1,20 @@
 ---
-title: "What experience level should I specify in a sommelier job description?"
-meta: |
-  Discover how to specify the right experience level for a sommelier role, including common misconceptions about qualifications and the value of diverse experience.
-slug: "sommelier-job-experience-level-specify"
-unique id: "1749719609289x831309636806901800"
+title: What experience level should I specify in a sommelier job description?
+meta: >
+  Discover how to specify the right experience level for a sommelier role,
+  including common misconceptions about qualifications and the value of diverse
+  experience.
+slug: sommelier-job-experience-level-specify
+unique id: 1749719609289x831309636806901800
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Interviews"
+breadcrumb short: Experience
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

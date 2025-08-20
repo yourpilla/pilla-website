@@ -1,21 +1,23 @@
 ---
-title: |
-  What key responsibilities should I include in a Hotel General Manager job description?
-  
-meta: |
-  Discover the essential responsibilities for a Hotel General Manager, including operational management, strategic planning, and leadership duties.
-slug: "hotel-general-manager-key-responsibilities"
-unique id: "1750239638166x720132358409551900"
+title: >
+  What key responsibilities should I include in a Hotel General Manager job
+  description?
+meta: >
+  Discover the essential responsibilities for a Hotel General Manager, including
+  operational management, strategic planning, and leadership duties.
+slug: hotel-general-manager-key-responsibilities
+unique id: 1750239638166x720132358409551900
 featured: false
-breadcrumb short: "Key Responsibilities"
-pillar text: "Job Descriptions"
+breadcrumb short: Key Responsibilities
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel General Manager Job Description"
+subpage text: Hotel General Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/hotel-manager-duties
-blog: |
-  How to write a hotel general manager job description: hotel general manager job description template included.
+blog: >
+  How to write a hotel general manager job description: hotel general manager
+  job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -114,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

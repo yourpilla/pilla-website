@@ -1,15 +1,17 @@
 ---
-title: "What does a Saucier do in a professional kitchen?"
-meta: |
-  Discover the vital role of a Saucier in professional kitchens, including their responsibilities in crafting complex sauces and the skills required for this prestigious position.
-slug: "saucier-professional-kitchen-role"
-unique id: "1745420497012x119732122485185500"
+title: What does a Saucier do in a professional kitchen?
+meta: >
+  Discover the vital role of a Saucier in professional kitchens, including their
+  responsibilities in crafting complex sauces and the skills required for this
+  prestigious position.
+slug: saucier-professional-kitchen-role
+unique id: 1745420497012x119732122485185500
 featured: false
-breadcrumb short: "Saucier (Sauce Chef)"
-pillar text: "Job Descriptions"
+breadcrumb short: Saucier (Sauce Chef)
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +108,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

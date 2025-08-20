@@ -1,18 +1,20 @@
 ---
-title: "What skills are essential when writing a sommelier job description?"
-meta: |
-  Discover essential skills for a sommelier job description, including wine knowledge, customer service, and effective communication, plus tips on categorising skills.
-slug: "essential-skills-writing-sommelier-job"
-unique id: "1749719532992x588833524781154300"
+title: What skills are essential when writing a sommelier job description?
+meta: >
+  Discover essential skills for a sommelier job description, including wine
+  knowledge, customer service, and effective communication, plus tips on
+  categorising skills.
+slug: essential-skills-writing-sommelier-job
+unique id: 1749719532992x588833524781154300
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Interviews"
+breadcrumb short: Essential Skills
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

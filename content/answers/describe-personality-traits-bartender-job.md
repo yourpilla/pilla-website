@@ -1,19 +1,21 @@
 ---
-title: "How do I describe personality traits in a Bartender job description?"
-meta: |
-  Discover how to effectively describe essential personality traits in a bartender job description to enhance team dynamics and customer service.
-slug: "describe-personality-traits-bartender-job"
-unique id: "1748429917193x613723466588959200"
+title: How do I describe personality traits in a Bartender job description?
+meta: >
+  Discover how to effectively describe essential personality traits in a
+  bartender job description to enhance team dynamics and customer service.
+slug: describe-personality-traits-bartender-job
+unique id: 1748429917193x613723466588959200
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

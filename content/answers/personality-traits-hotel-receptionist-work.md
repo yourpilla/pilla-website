@@ -1,19 +1,22 @@
 ---
-title: "What kind of personality traits work well for a Hotel Receptionist?"
-meta: |
-  Discover essential personality traits for hotel receptionists, how to define them clearly in job descriptions, and the key guest-facing behaviours to look for.
-slug: "personality-traits-hotel-receptionist-work"
-unique id: "1748768543069x230492553965381470"
+title: What kind of personality traits work well for a Hotel Receptionist?
+meta: >
+  Discover essential personality traits for hotel receptionists, how to define
+  them clearly in job descriptions, and the key guest-facing behaviours to look
+  for.
+slug: personality-traits-hotel-receptionist-work
+unique id: 1748768543069x230492553965381470
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel Receptionist Job Descriptions"
+subpage text: Hotel Receptionist Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/hotel-receptionist-duties
-blog: |
-  How to write a hotel receptionist job description: hotel receptionist job description template included.
+blog: >
+  How to write a hotel receptionist job description: hotel receptionist job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

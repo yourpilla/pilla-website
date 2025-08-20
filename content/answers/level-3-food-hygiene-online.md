@@ -1,18 +1,22 @@
 ---
-title: "Can I do my Level 3 food hygiene certificate online or does it have to be in person?"
-meta: |
-  Can Level 3 food hygiene certificates be done online? Learn about the differences between online and in-person training for Level 1, 2 and 3 food safety courses.
-slug: "level-3-food-hygiene-online"
-unique id: "1734014563411x713383460524359200"
+title: >-
+  Can I do my Level 3 food hygiene certificate online or does it have to be in
+  person?
+meta: >
+  Can Level 3 food hygiene certificates be done online? Learn about the
+  differences between online and in-person training for Level 1, 2 and 3 food
+  safety courses.
+slug: level-3-food-hygiene-online
+unique id: 1734014563411x713383460524359200
 featured: false
-breadcrumb short: "Level 3 Online"
-pillar text: "Food Safety System"
+breadcrumb short: Level 3 Online
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -60,6 +64,7 @@ schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

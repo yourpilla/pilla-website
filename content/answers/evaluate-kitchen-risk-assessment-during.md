@@ -1,18 +1,19 @@
 ---
-title: "How do I evaluate risks during a kitchen risk assessment?"
-meta: |
-  Discover how to conduct a thorough kitchen risk assessment, focusing on evaluating and prioritizing potential hazards to enhance safety.
-slug: "evaluate-kitchen-risk-assessment-during"
-unique id: "1744799372654x902211204347639600"
+title: How do I evaluate risks during a kitchen risk assessment?
+meta: >
+  Discover how to conduct a thorough kitchen risk assessment, focusing on
+  evaluating and prioritizing potential hazards to enhance safety.
+slug: evaluate-kitchen-risk-assessment-during
+unique id: 1744799372654x902211204347639600
 featured: false
-breadcrumb short: "Evaluating Risk"
-pillar text: "Health & Safety System"
+breadcrumb short: Evaluating Risk
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +106,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

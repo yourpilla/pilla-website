@@ -1,17 +1,19 @@
 ---
-title: "How often should I check the freezer temperature?"
-meta: "Check and record freezer temperatures twice daily to maintain the ideal -18C (0F) or below. Use Pilla's pre-built task for proper record-keeping."
-slug: "check-freezer-temperature-frequency"
-unique id: "1733824580203x111952485805647540"
-featured: "false"
-breadcrumb short: "Checks"
-pillar text: "Food Safety System"
+title: How often should I check the freezer temperature?
+meta: >-
+  Check and record freezer temperatures twice daily to maintain the ideal -18C
+  (0F) or below. Use Pilla's pre-built task for proper record-keeping.
+slug: check-freezer-temperature-frequency
+unique id: 1733824580203x111952485805647540
+featured: 'false'
+breadcrumb short: Checks
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -96,6 +98,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Temperature monitoring guidelines and procedures
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

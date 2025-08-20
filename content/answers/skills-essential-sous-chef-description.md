@@ -1,19 +1,22 @@
 ---
-title: "What skills are essential to include for a Sous Chef in our job description?"
-meta: |
-  Discover essential skills for a Sous Chef job description, including leadership, culinary techniques, and how to differentiate must-have and nice-to-have skills.
-slug: "skills-essential-sous-chef-description"
-unique id: "1749805199230x771144955004715000"
+title: What skills are essential to include for a Sous Chef in our job description?
+meta: >
+  Discover essential skills for a Sous Chef job description, including
+  leadership, culinary techniques, and how to differentiate must-have and
+  nice-to-have skills.
+slug: skills-essential-sous-chef-description
+unique id: 1749805199230x771144955004715000
 featured: false
-breadcrumb short: "Essential Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Essential Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Sous Chef Job Description"
+subpage text: Sous Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/sous-chef-job-description
-blog: |
-  How to write a sous chef job description: sous chef job description template included.
+blog: >
+  How to write a sous chef job description: sous chef job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

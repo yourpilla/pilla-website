@@ -1,19 +1,24 @@
 ---
-title: "What operational management skills should I include in a Hotel General Manager job description?"
-meta: |
-  Explore essential operational management skills for a Hotel General Manager, including crisis handling, facility oversight, and ensuring guest satisfaction.
-slug: "operational-management-skills-hotel-manager"
-unique id: "1750240405741x299756802590638100"
+title: >-
+  What operational management skills should I include in a Hotel General Manager
+  job description?
+meta: >
+  Explore essential operational management skills for a Hotel General Manager,
+  including crisis handling, facility oversight, and ensuring guest
+  satisfaction.
+slug: operational-management-skills-hotel-manager
+unique id: 1750240405741x299756802590638100
 featured: false
-breadcrumb short: "Management Skills"
-pillar text: "Job Descriptions"
+breadcrumb short: Management Skills
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel General Manager Job Description"
+subpage text: Hotel General Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/hotel-manager-duties
-blog: |
-  How to write a hotel general manager job description: hotel general manager job description template included.
+blog: >
+  How to write a hotel general manager job description: hotel general manager
+  job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Essential competencies and qualifications for effective performance
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

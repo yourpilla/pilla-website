@@ -1,19 +1,24 @@
 ---
-title: "What opportunities for advancement should be highlighted in a Chef de Partie job description?"
-meta: |
-  Discover how to effectively outline career progression opportunities in a Chef de Partie job description, including promotions, skill development, and special projects.
-slug: "advancement-opportunities-chef-de-partie"
-unique id: "1749803928713x187532142489370620"
+title: >-
+  What opportunities for advancement should be highlighted in a Chef de Partie
+  job description?
+meta: >
+  Discover how to effectively outline career progression opportunities in a Chef
+  de Partie job description, including promotions, skill development, and
+  special projects.
+slug: advancement-opportunities-chef-de-partie
+unique id: 1749803928713x187532142489370620
 featured: false
-breadcrumb short: "Career Growth"
-pillar text: "Job Descriptions"
+breadcrumb short: Career Growth
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef de Partie Job Description"
+subpage text: Chef de Partie Job Description
 subpage link: |
   https://yourpilla.com/blog/chef-de-partie-job-description
-blog: |
-  How to write a chef de partie job description: chef de partie job description template included.
+blog: >
+  How to write a chef de partie job description: chef de partie job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

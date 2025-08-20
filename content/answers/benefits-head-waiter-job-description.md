@@ -1,12 +1,14 @@
 ---
-title: "What benefits should I outline in a Head Waiter job description?"
-meta: |
-  Discover how to craft a compelling Head Waiter job description by effectively outlining both monetary and non-monetary benefits to attract the right candidates.
-slug: "benefits-head-waiter-job-description"
-unique id: "1749721883279x908423376760995800"
+title: What benefits should I outline in a Head Waiter job description?
+meta: >
+  Discover how to craft a compelling Head Waiter job description by effectively
+  outlining both monetary and non-monetary benefits to attract the right
+  candidates.
+slug: benefits-head-waiter-job-description
+unique id: 1749721883279x908423376760995800
 featured: false
-breadcrumb short: "Benefits"
-pillar text: "Job Interviews"
+breadcrumb short: Benefits
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
 subpage text: |
@@ -113,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

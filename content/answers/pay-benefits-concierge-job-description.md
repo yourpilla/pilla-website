@@ -1,19 +1,23 @@
 ---
-title: "What should I explicitly state about pay and benefits in a Concierge job description?"
-meta: |
-  Discover essential tips on including salary and benefits in a Concierge job description to attract the right candidates effectively.
-slug: "pay-benefits-concierge-job-description"
-unique id: "1748867508419x473997470678908900"
+title: >-
+  What should I explicitly state about pay and benefits in a Concierge job
+  description?
+meta: >
+  Discover essential tips on including salary and benefits in a Concierge job
+  description to attract the right candidates effectively.
+slug: pay-benefits-concierge-job-description
+unique id: 1748867508419x473997470678908900
 featured: false
-breadcrumb short: "Pay and Benefits"
-pillar text: "Job Descriptions"
+breadcrumb short: Pay and Benefits
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Concierge Job Description"
+subpage text: Concierge Job Description
 subpage link: |
   https://yourpilla.com/blog/concierge-job-description
-blog: |
-  How to write a concierge job description: concierge job description template included.
+blog: >
+  How to write a concierge job description: concierge job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 # What should I explicitly state about pay and benefits in a Concierge job description?

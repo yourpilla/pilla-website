@@ -1,15 +1,17 @@
 ---
-title: "What does conducting a hazard analysis involve in HACCP?"
-meta: |
-  Explore the essential steps of conducting a hazard analysis in HACCP, including identifying and evaluating food safety risks throughout the production process.
-slug: "hazard-analysis-involve-haccp-conducting"
-unique id: "1745929282547x608087143954090200"
+title: What does conducting a hazard analysis involve in HACCP?
+meta: >
+  Explore the essential steps of conducting a hazard analysis in HACCP,
+  including identifying and evaluating food safety risks throughout the
+  production process.
+slug: hazard-analysis-involve-haccp-conducting
+unique id: 1745929282547x608087143954090200
 featured: false
-breadcrumb short: "Hazard Analysis"
-pillar text: "Food Safety System"
+breadcrumb short: Hazard Analysis
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "HACCP Meaning"
+subpage text: HACCP Meaning
 subpage link: |
   https://yourpilla.com/blog/haccp-meaning
 blog: |
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

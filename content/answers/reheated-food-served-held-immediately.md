@@ -1,18 +1,19 @@
 ---
-title: "When should reheated food be served?"
-meta: |
-  Learn about the specific reheating temperatures, proper reheating techniques, and how to document compliance using a digital task template.
-slug: "reheated-food-served-held-immediately"
-unique id: "1744115592499x513747905619680500"
+title: When should reheated food be served?
+meta: >
+  Learn about the specific reheating temperatures, proper reheating techniques,
+  and how to document compliance using a digital task template.
+slug: reheated-food-served-held-immediately
+unique id: 1744115592499x513747905619680500
 featured: false
-breadcrumb short: "Serving"
-pillar text: "Food Safety System"
+breadcrumb short: Serving
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Reheating Food"
+subpage text: Reheating Food
 subpage link: |
   https://yourpilla.com/blog/reheating-food-safely
-blog: "How to safely reheat foods in your hospitality business."
+blog: How to safely reheat foods in your hospitality business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

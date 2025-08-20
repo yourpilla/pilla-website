@@ -1,19 +1,22 @@
 ---
-title: "What are some mistakes to avoid when writing a Bartender job description?"
-meta: |
-  Discover key insights on crafting effective Bartender job descriptions to attract qualified candidates by avoiding common mistakes and embracing specificity.
-slug: "mistakes-avoid-writing-bartender-description"
-unique id: "1748429917195x629155501875220000"
+title: What are some mistakes to avoid when writing a Bartender job description?
+meta: >
+  Discover key insights on crafting effective Bartender job descriptions to
+  attract qualified candidates by avoiding common mistakes and embracing
+  specificity.
+slug: mistakes-avoid-writing-bartender-description
+unique id: 1748429917195x629155501875220000
 featured: false
-breadcrumb short: "Mistakes"
-pillar text: "Job Descriptions"
+breadcrumb short: Mistakes
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bartender Job Descriptions"
+subpage text: Bartender Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bartender-job-description
-blog: |
-  How to write a bartender job description: bartender job description template included.
+blog: >
+  How to write a bartender job description: bartender job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

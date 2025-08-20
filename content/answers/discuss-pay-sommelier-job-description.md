@@ -1,18 +1,19 @@
 ---
-title: "How should I discuss pay in a sommelier job description?"
-meta: |
-  Explore how to effectively include salary and benefits in a sommelier job description to attract the right candidates and maintain transparency.
-slug: "discuss-pay-sommelier-job-description"
-unique id: "1749719668778x726706731044307000"
+title: How should I discuss pay in a sommelier job description?
+meta: >
+  Explore how to effectively include salary and benefits in a sommelier job
+  description to attract the right candidates and maintain transparency.
+slug: discuss-pay-sommelier-job-description
+unique id: 1749719668778x726706731044307000
 featured: false
-breadcrumb short: "Pay"
-pillar text: "Job Interviews"
+breadcrumb short: Pay
+pillar text: Job Interviews
 pillar link: |
   https://yourpilla.com/blog/interviews
-subpage text: "Sommelier Interviews"
+subpage text: Sommelier Interviews
 subpage link: |
   https://yourpilla.com/blog/sommelier-interviews
-blog: "How to Decide on Sommelier Interview Questions and Trial Activities"
+blog: How to Decide on Sommelier Interview Questions and Trial Activities
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

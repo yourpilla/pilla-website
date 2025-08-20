@@ -1,19 +1,23 @@
 ---
-title: "How can I clearly communicate the service style of my bar in a Bar Manager job description?"
-meta: |
-  Explore why detailing your bar's service style, culture, and pace in a Bar Manager job description attracts the right candidates.
-slug: "service-style-bar-manager-description"
-unique id: "1748626151253x392977159970564030"
+title: >-
+  How can I clearly communicate the service style of my bar in a Bar Manager job
+  description?
+meta: >
+  Explore why detailing your bar's service style, culture, and pace in a Bar
+  Manager job description attracts the right candidates.
+slug: service-style-bar-manager-description
+unique id: 1748626151253x392977159970564030
 featured: false
-breadcrumb short: "Service Style"
-pillar text: "Job Descriptions"
+breadcrumb short: Service Style
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Bar Manager Job Descriptions"
+subpage text: Bar Manager Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/bar-manager-duties
-blog: |
-  How to write a bar manager job description: bar manager job description template included.
+blog: >
+  How to write a bar manager job description: bar manager job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

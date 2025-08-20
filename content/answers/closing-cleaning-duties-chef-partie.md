@@ -1,19 +1,24 @@
 ---
-title: "What closing and cleaning duties should be included in a Chef de Partie job description?"
-meta: |
-  Discover the essential closing and cleaning duties for a Chef de Partie, including sanitation responsibilities and setting expectations for end-of-day routines.
-slug: "closing-cleaning-duties-chef-partie"
-unique id: "1749803830633x877283984642932700"
+title: >-
+  What closing and cleaning duties should be included in a Chef de Partie job
+  description?
+meta: >
+  Discover the essential closing and cleaning duties for a Chef de Partie,
+  including sanitation responsibilities and setting expectations for end-of-day
+  routines.
+slug: closing-cleaning-duties-chef-partie
+unique id: 1749803830633x877283984642932700
 featured: false
-breadcrumb short: "Closing and Cleaning"
-pillar text: "Job Descriptions"
+breadcrumb short: Closing and Cleaning
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef de Partie Job Description"
+subpage text: Chef de Partie Job Description
 subpage link: |
   https://yourpilla.com/blog/chef-de-partie-job-description
-blog: |
-  How to write a chef de partie job description: chef de partie job description template included.
+blog: >
+  How to write a chef de partie job description: chef de partie job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

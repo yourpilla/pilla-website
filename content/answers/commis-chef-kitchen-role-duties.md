@@ -1,15 +1,16 @@
 ---
-title: "What does a Commis Chef do in a kitchen?"
-meta: |
-  Explore the role of a Commis Chef, their essential tasks in the kitchen, the importance of their foundational work, and career progression opportunities.
-slug: "commis-chef-kitchen-role-duties"
-unique id: "1745420497014x233964608208584670"
+title: What does a Commis Chef do in a kitchen?
+meta: >
+  Explore the role of a Commis Chef, their essential tasks in the kitchen, the
+  importance of their foundational work, and career progression opportunities.
+slug: commis-chef-kitchen-role-duties
+unique id: 1745420497014x233964608208584670
 featured: false
-breadcrumb short: "Commis Chef"
-pillar text: "Job Descriptions"
+breadcrumb short: Commis Chef
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Chef Hierarchy"
+subpage text: Chef Hierarchy
 subpage link: |
   https://yourpilla.com/blog/ranking-chefs
 blog: |
@@ -106,6 +107,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

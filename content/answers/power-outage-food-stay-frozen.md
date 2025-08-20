@@ -1,18 +1,19 @@
 ---
-title: "If the power goes out, how long will food stay frozen?"
-meta: |
-  Learn what to do with frozen food during a power outage. Find out how long it stays safe and when to discard it for quality and safety reasons.
-slug: "power-outage-food-stay-frozen"
-unique id: "1733824589762x466432242225067700"
+title: 'If the power goes out, how long will food stay frozen?'
+meta: >
+  Learn what to do with frozen food during a power outage. Find out how long it
+  stays safe and when to discard it for quality and safety reasons.
+slug: power-outage-food-stay-frozen
+unique id: 1733824589762x466432242225067700
 featured: false
-breadcrumb short: "Power Outage"
-pillar text: "Food Safety System"
+breadcrumb short: Power Outage
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Freezer Temperatures"
+subpage text: Freezer Temperatures
 subpage link: |
   https://yourpilla.com/blog/freezer-temperature
-blog: "How to Set Up Freezer Temperature Checks"
+blog: How to Set Up Freezer Temperature Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -110,6 +111,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.

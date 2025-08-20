@@ -1,18 +1,19 @@
 ---
-title: "How often does my kitchen risk assessment need reviewing?"
-meta: |
-  Discover the importance of regularly reviewing kitchen risk assessments every 12 months and learn what triggers require an immediate reassessment.
-slug: "kitchen-risk-assessment-reviewing-often"
-unique id: "1744799372654x942496062395041500"
+title: How often does my kitchen risk assessment need reviewing?
+meta: >
+  Discover the importance of regularly reviewing kitchen risk assessments every
+  12 months and learn what triggers require an immediate reassessment.
+slug: kitchen-risk-assessment-reviewing-often
+unique id: 1744799372654x942496062395041500
 featured: false
-breadcrumb short: "Reviewing"
-pillar text: "Health & Safety System"
+breadcrumb short: Reviewing
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Kitchen Risk Assessments"
+subpage text: Kitchen Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/kitchen-risk-assessment
-blog: "How to Do a Kitchen Risk Assessment in Hospitality"
+blog: How to Do a Kitchen Risk Assessment in Hospitality
 schema: |
   {
     "@context": "https://schema.org",
@@ -97,6 +98,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

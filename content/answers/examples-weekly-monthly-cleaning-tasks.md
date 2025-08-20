@@ -1,18 +1,20 @@
 ---
-title: "What are examples of weekly and monthly kitchen cleaning tasks?"
-meta: |
-  Discover essential weekly and monthly cleaning tasks for restaurants, including deep cleaning floors and sanitising less accessible areas to maintain hygiene.
-slug: "examples-weekly-monthly-cleaning-tasks"
-unique id: "1746622446226x671173480358444200"
+title: What are examples of weekly and monthly kitchen cleaning tasks?
+meta: >
+  Discover essential weekly and monthly cleaning tasks for restaurants,
+  including deep cleaning floors and sanitising less accessible areas to
+  maintain hygiene.
+slug: examples-weekly-monthly-cleaning-tasks
+unique id: 1746622446226x671173480358444200
 featured: false
-breadcrumb short: "Weekly"
-pillar text: "Food Safety System"
+breadcrumb short: Weekly
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Kitchen Cleaning"
+subpage text: Kitchen Cleaning
 subpage link: |
   https://yourpilla.com/blog/kitchen-cleaning-checklist
-blog: "How to create a Kitchen Cleaning Schedule"
+blog: How to create a Kitchen Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -131,6 +133,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

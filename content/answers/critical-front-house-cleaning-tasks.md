@@ -1,18 +1,19 @@
 ---
-title: "What are the most critical FOH cleaning tasks to complete after every guest?"
-meta: |
-  Discover essential FOH cleaning tasks to perform after each guest, including sanitising touchpoints and ensuring high chairs meet hygiene standards.
-slug: "critical-front-house-cleaning-tasks"
-unique id: "1746627231147x598791415147686900"
+title: What are the most critical FOH cleaning tasks to complete after every guest?
+meta: >
+  Discover essential FOH cleaning tasks to perform after each guest, including
+  sanitising touchpoints and ensuring high chairs meet hygiene standards.
+slug: critical-front-house-cleaning-tasks
+unique id: 1746627231147x598791415147686900
 featured: false
-breadcrumb short: "After Each Guest"
-pillar text: "Daily Operations"
+breadcrumb short: After Each Guest
+pillar text: Daily Operations
 pillar link: |
   https://yourpilla.com/blog/daily-operations
-subpage text: "FOH Cleaning"
+subpage text: FOH Cleaning
 subpage link: |
   https://yourpilla.com/blog/restaurant-cleaning-checklists
-blog: "How to Create a Restaurant Cleaning Schedule"
+blog: How to Create a Restaurant Cleaning Schedule
 schema: |
   {
     "@context": "https://schema.org",
@@ -121,6 +122,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

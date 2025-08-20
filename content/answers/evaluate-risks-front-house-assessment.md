@@ -1,18 +1,19 @@
 ---
-title: "How do I evaluate risks in a front of house risk assessment?"
-meta: |
-  Learn how to conduct a front of house risk assessment, evaluate existing safety controls, and decide on new safety measures effectively.
-slug: "evaluate-risks-front-house-assessment"
-unique id: "1744896519240x793756218390371200"
+title: How do I evaluate risks in a front of house risk assessment?
+meta: >
+  Learn how to conduct a front of house risk assessment, evaluate existing
+  safety controls, and decide on new safety measures effectively.
+slug: evaluate-risks-front-house-assessment
+unique id: 1744896519240x793756218390371200
 featured: false
-breadcrumb short: "Risk"
-pillar text: "Health & Safety System"
+breadcrumb short: Risk
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Restaurant Risk Assessments"
+subpage text: Restaurant Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/restaurant-risk-assessment
-blog: "How to Do a Restaurant Risk Assessment"
+blog: How to Do a Restaurant Risk Assessment
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +112,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Professional guidance and industry best practices
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

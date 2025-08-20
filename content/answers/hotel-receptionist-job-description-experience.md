@@ -1,19 +1,21 @@
 ---
-title: "How experience should I ask for in a Hotel Receptionist job description?"
-meta: |
-  Discover how to determine the right experience level for hotel receptionist roles and the importance of personality fit in the hospitality industry.
-slug: "hotel-receptionist-job-description-experience"
-unique id: "1748768543069x579087600693825500"
+title: How experience should I ask for in a Hotel Receptionist job description?
+meta: >
+  Discover how to determine the right experience level for hotel receptionist
+  roles and the importance of personality fit in the hospitality industry.
+slug: hotel-receptionist-job-description-experience
+unique id: 1748768543069x579087600693825500
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Hotel Receptionist Job Descriptions"
+subpage text: Hotel Receptionist Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/hotel-receptionist-duties
-blog: |
-  How to write a hotel receptionist job description: hotel receptionist job description template included.
+blog: >
+  How to write a hotel receptionist job description: hotel receptionist job
+  description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

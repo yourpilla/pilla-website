@@ -1,19 +1,21 @@
 ---
-title: "What personality traits are important in a Commis Chef job description?"
-meta: |
-  Discover essential personality traits for Commis Chefs and how to effectively communicate these in your job descriptions to attract suitable candidates.
-slug: "personality-traits-commis-chef-job"
-unique id: "1749803142135x877011738395410400"
+title: What personality traits are important in a Commis Chef job description?
+meta: >
+  Discover essential personality traits for Commis Chefs and how to effectively
+  communicate these in your job descriptions to attract suitable candidates.
+slug: personality-traits-commis-chef-job
+unique id: 1749803142135x877011738395410400
 featured: false
-breadcrumb short: "Personality"
-pillar text: "Job Descriptions"
+breadcrumb short: Personality
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Commis Chef Job Description"
+subpage text: Commis Chef Job Description
 subpage link: |
   https://yourpilla.com/blog/commis-chef-job-description
-blog: |
-  How to write a commis chef job description: commis chef job description template included.
+blog: >
+  How to write a commis chef job description: commis chef job description
+  template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +114,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

@@ -1,20 +1,23 @@
 ---
-title: |
-  How should I define the level of experience needed in a Restaurant Assistant Manager job description?
-meta: |
-  Explore how to effectively define experience levels in a Restaurant Assistant Manager job description to attract suitable candidates.
-slug: "experience-restaurant-assistant-manager-level"
-unique id: "1750236100689x524585826895265800"
+title: >
+  How should I define the level of experience needed in a Restaurant Assistant
+  Manager job description?
+meta: >
+  Explore how to effectively define experience levels in a Restaurant Assistant
+  Manager job description to attract suitable candidates.
+slug: experience-restaurant-assistant-manager-level
+unique id: 1750236100689x524585826895265800
 featured: false
-breadcrumb short: "Experience"
-pillar text: "Job Descriptions"
+breadcrumb short: Experience
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Restaurant Assistant Manager Job Description"
+subpage text: Restaurant Assistant Manager Job Description
 subpage link: |
   https://yourpilla.com/blog/restaurant-assistant-manager-duties
-blog: |
-  How to write a restaurant assistant manager job description: restaurant assistant manager job description template included.
+blog: >
+  How to write a restaurant assistant manager job description: restaurant
+  assistant manager job description template included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -113,6 +116,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

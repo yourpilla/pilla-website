@@ -1,19 +1,24 @@
 ---
-title: "What should I include in the introduction section of a Waiter/Waitress job description?"
-meta: |
-  Discover essential tips for crafting an engaging Waiter/Waitress job description, focusing on restaurant atmosphere, team culture, and dining experience.
-slug: "include-waiter-waitress-job-description"
-unique id: "1748867739082x104999133667393540"
+title: >-
+  What should I include in the introduction section of a Waiter/Waitress job
+  description?
+meta: >
+  Discover essential tips for crafting an engaging Waiter/Waitress job
+  description, focusing on restaurant atmosphere, team culture, and dining
+  experience.
+slug: include-waiter-waitress-job-description
+unique id: 1748867739082x104999133667393540
 featured: false
-breadcrumb short: "Introduction"
-pillar text: "Job Descriptions"
+breadcrumb short: Introduction
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Waiter/Waitress Job Description"
+subpage text: Waiter/Waitress Job Description
 subpage link: |
   https://yourpilla.com/blog/waiter-job-description
-blog: |
-  How to write a waiter job description: waiter job description template included.
+blog: >
+  How to write a waiter job description: waiter job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +117,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

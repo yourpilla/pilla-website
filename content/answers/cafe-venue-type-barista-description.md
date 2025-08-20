@@ -1,19 +1,24 @@
 ---
-title: "How can I explain the type of cafe or venue we operate in a Barista job description?"
-meta: |
-  Discover how to craft a compelling barista job description by clearly defining your cafe's type, service style, and unique role aspects to attract suitable candidates.
-slug: "cafe-venue-type-barista-description"
-unique id: "1748534800135x601800190045206500"
+title: >-
+  How can I explain the type of cafe or venue we operate in a Barista job
+  description?
+meta: >
+  Discover how to craft a compelling barista job description by clearly defining
+  your cafe's type, service style, and unique role aspects to attract suitable
+  candidates.
+slug: cafe-venue-type-barista-description
+unique id: 1748534800135x601800190045206500
 featured: false
-breadcrumb short: "Our Venue"
-pillar text: "Job Descriptions"
+breadcrumb short: Our Venue
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Barista Job Descriptions"
+subpage text: Barista Job Descriptions
 subpage link: |
   https://yourpilla.com/blog/barista-job-description
-blog: |
-  How to write a barista job description: barista job description template included.
+blog: >
+  How to write a barista job description: barista job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -98,6 +103,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st May 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

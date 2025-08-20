@@ -1,18 +1,20 @@
 ---
-title: "What equipment helps control front of house risks in hospitality?"
-meta: |
-  Discover essential equipment for managing front of house risks in hospitality, including slip-resistant gear and sturdy trays, to enhance safety and efficiency.
-slug: "equipment-control-front-house-risks"
-unique id: "1744896519240x292106532504849100"
+title: What equipment helps control front of house risks in hospitality?
+meta: >
+  Discover essential equipment for managing front of house risks in hospitality,
+  including slip-resistant gear and sturdy trays, to enhance safety and
+  efficiency.
+slug: equipment-control-front-house-risks
+unique id: 1744896519240x292106532504849100
 featured: false
-breadcrumb short: "Equiment"
-pillar text: "Health & Safety System"
+breadcrumb short: Equiment
+pillar text: Health & Safety System
 pillar link: |
   https://yourpilla.com/blog/hospitality-risks
-subpage text: "Restaurant Risk Assessments"
+subpage text: Restaurant Risk Assessments
 subpage link: |
   https://yourpilla.com/blog/restaurant-risk-assessment
-blog: "How to Do a Restaurant Risk Assessment"
+blog: How to Do a Restaurant Risk Assessment
 schema: |
   {
     "@context": "https://schema.org",
@@ -111,6 +113,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Equipment specifications and usage guidelines
 ---
 
 Date modified: 1st April 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

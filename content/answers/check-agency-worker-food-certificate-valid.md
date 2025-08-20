@@ -1,19 +1,20 @@
 ---
 title: |
   How do I check if an agency worker's food hygiene certificate is valid?
-meta: |
-  Ensure agency workers have valid food hygiene certificates before handling food. Learn about the required training levels for different roles.
-slug: "check-agency-worker-food-certificate-valid"
-unique id: "1734014558515x978917562177728000"
+meta: >
+  Ensure agency workers have valid food hygiene certificates before handling
+  food. Learn about the required training levels for different roles.
+slug: check-agency-worker-food-certificate-valid
+unique id: 1734014558515x978917562177728000
 featured: false
-breadcrumb short: "Agency Staff"
-pillar text: "Food Safety System"
+breadcrumb short: Agency Staff
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Safety Training"
+subpage text: Food Safety Training
 subpage link: |
   https://yourpilla.com/blog/food-hygiene-training
-blog: "Food hygiene certificate requirements in your business."
+blog: Food hygiene certificate requirements in your business.
 schema: |
   {
     "@context": "https://schema.org",
@@ -61,6 +62,7 @@ schema: |
       }
     ]
   }
+subtitle: Safety procedures and compliance guidelines
 ---
 
 Date modified: 17th March 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email.

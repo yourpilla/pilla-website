@@ -1,19 +1,22 @@
 ---
-title: "How do I describe the service style when writing a Concierge job description?"
-meta: |
-  Explore how to effectively describe service styles in Concierge job descriptions and highlight unique aspects of your venue to attract suitable candidates.
-slug: "service-style-concierge-job-description"
-unique id: "1748867281985x454293709510148100"
+title: How do I describe the service style when writing a Concierge job description?
+meta: >
+  Explore how to effectively describe service styles in Concierge job
+  descriptions and highlight unique aspects of your venue to attract suitable
+  candidates.
+slug: service-style-concierge-job-description
+unique id: 1748867281985x454293709510148100
 featured: false
-breadcrumb short: "Service Style"
-pillar text: "Job Descriptions"
+breadcrumb short: Service Style
+pillar text: Job Descriptions
 pillar link: |
   https://yourpilla.com/blog/hospitality-job-roles
-subpage text: "Concierge Job Description"
+subpage text: Concierge Job Description
 subpage link: |
   https://yourpilla.com/blog/concierge-job-description
-blog: |
-  How to write a concierge job description: concierge job description template included.
+blog: >
+  How to write a concierge job description: concierge job description template
+  included.
 schema: |
   {
     "@context": "https://schema.org",
@@ -112,6 +115,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: 'Key responsibilities, qualifications and requirements'
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to create and record job descriptions.

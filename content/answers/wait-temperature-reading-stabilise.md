@@ -1,18 +1,22 @@
 ---
-title: "How long should I wait for the temperature reading on my food probe thermometer to stabilise?"
-meta: |
-  Learn how long to wait for your food probe thermometer reading to stabilise and what to do if it won't stop fluctuating. Always test probes in boiling water and ice baths.
-slug: "wait-temperature-reading-stabilise"
-unique id: "1734019673646x814126759514640600"
+title: >-
+  How long should I wait for the temperature reading on my food probe
+  thermometer to stabilise?
+meta: >
+  Learn how long to wait for your food probe thermometer reading to stabilise
+  and what to do if it won't stop fluctuating. Always test probes in boiling
+  water and ice baths.
+slug: wait-temperature-reading-stabilise
+unique id: 1734019673646x814126759514640600
 featured: false
-breadcrumb short: "Stabilising"
-pillar text: "Food Safety System"
+breadcrumb short: Stabilising
+pillar text: Food Safety System
 pillar link: |
   https://yourpilla.com/blog/food-safety-management-system
-subpage text: "Food Probe Thermometer"
+subpage text: Food Probe Thermometer
 subpage link: |
   https://yourpilla.com/blog/using-food-temperature-probes
-blog: "How to Set Up Legionella Temperature Testing Checks"
+blog: How to Set Up Legionella Temperature Testing Checks
 schema: |
   {
     "@context": "https://schema.org",
@@ -105,6 +109,7 @@ breadcrumb_schema: |
       }
     ]
   }
+subtitle: Temperature monitoring guidelines and procedures
 ---
 
 Date modified: 1st June 2025 | This FAQ page has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](https://mailto:liam@yourpilla.com/), he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage food safety.
