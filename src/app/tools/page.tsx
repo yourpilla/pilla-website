@@ -14,7 +14,7 @@ export default function ToolsPage() {
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {tools.map((tool) => (
             <article key={tool.slug} className="flex max-w-xl flex-col items-start justify-between relative white-card p-6 rounded-lg">
-              {tool.featured && (
+              {tool.featured === true && (
                 <div className="absolute top-2 right-2 z-10">
                   <span className="small-blue green-card px-2 py-1">Featured</span>
                 </div>
