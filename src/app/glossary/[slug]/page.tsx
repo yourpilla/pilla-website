@@ -65,36 +65,6 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
       {/* Main Content */}
       <div className="max-w-4xl mx-auto px-4 py-12">
         <div className="bg-card border-default rounded-default shadow-sm overflow-hidden">
-          {/* Breadcrumb */}
-          <div className="px-8 pt-6 pb-2">
-            <nav aria-label="Breadcrumb">
-              <ol className="flex items-center space-x-2 text-sm">
-                <li>
-                  <Link href="/" className="text-blue-600 hover:text-blue-800">
-                    Home
-                  </Link>
-                </li>
-                <li>
-                  <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                    <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-                  </svg>
-                </li>
-                <li>
-                  <Link href="/glossary" className="text-blue-600 hover:text-blue-800">
-                    Glossary
-                  </Link>
-                </li>
-                <li>
-                  <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                    <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-                  </svg>
-                </li>
-                <li aria-current="page" className="text-gray-600">
-                  {term.title}
-                </li>
-              </ol>
-            </nav>
-          </div>
           {/* Header */}
           <div className="bg-header-group px-8 py-12 text-center">
             <h1 className="mb-4 leading-tight">
