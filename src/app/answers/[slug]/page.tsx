@@ -40,6 +40,15 @@ export default async function FAQPage({ params }: FAQPageProps) {
     ? faq.frontmatter.subtitle 
     : null;
 
+  // Get dynamic image from YAML or use default
+  const sidebarImage = faq.frontmatter.sidebar_image && typeof faq.frontmatter.sidebar_image === 'string'
+    ? faq.frontmatter.sidebar_image
+    : "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format";
+  
+  const sidebarImageAlt = faq.frontmatter.sidebar_image_alt && typeof faq.frontmatter.sidebar_image_alt === 'string'
+    ? faq.frontmatter.sidebar_image_alt
+    : "Hospitality FAQ and support";
+
   return (
     <>
       {/* Render exact schema from YAML frontmatter */}
@@ -105,8 +114,8 @@ export default async function FAQPage({ params }: FAQPageProps) {
             </div>
             <div className="p-4">
               <Image
-                src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format" 
-                alt="Hospitality FAQ and support" 
+                src={sidebarImage} 
+                alt={sidebarImageAlt} 
                 width={400}
                 height={192}
                 className="w-full h-48 object-cover rounded-lg mb-4"

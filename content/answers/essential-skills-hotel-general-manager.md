@@ -7,6 +7,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
+sidebar_image: "https://ucarecdn.com/your-uploadcare-uuid-here/your-image.jpg"
+sidebar_image_alt: "Hotel General Manager in professional setting"
 meta: >
   Discover the essential skills for a Hotel General Manager, including
   leadership, financial management, and guest relations, to ensure effective

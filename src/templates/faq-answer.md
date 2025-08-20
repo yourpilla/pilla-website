@@ -152,6 +152,10 @@ export default async function FAQPage({ params }: FAQPageProps) {
 - **title_source**: `{faq.title}` | **typography**: `h1 + text-4xl font-semibold` *(Dynamic from content system)*
 - **subtitle_source**: `{faq.frontmatter.subtitle}` | **typography**: `small-grey` *(Dynamic from YAML frontmatter)*
 
+### Dynamic Sidebar Image (Optional YAML Fields)
+- **sidebar_image**: `{faq.frontmatter.sidebar_image}` | **source**: Uploadcare URL or any image URL *(Optional - falls back to default)*
+- **sidebar_image_alt**: `{faq.frontmatter.sidebar_image_alt}` | **description**: Alt text for accessibility *(Optional - falls back to default)*
+
 ### Background Pattern (SVG)
 - **background_style**: "Grid pattern with radial gradient mask" | **color**: `stroke-gray-200 fill-gray-50`
 - **pattern_id**: "e813992c-7d03-4cc4-a2bd-151760b470a0" *(Keep unique)*
