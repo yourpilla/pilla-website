@@ -4,27 +4,26 @@ import Link from 'next/link'
 
 const navigation = {
   solutions: [
-    { name: 'Marketing', href: '#' },
-    { name: 'Analytics', href: '#' },
-    { name: 'Automation', href: '#' },
-    { name: 'Commerce', href: '#' },
-    { name: 'Insights', href: '#' },
+    { name: 'Job Descriptions', href: 'https://yourpilla.com/blog/hospitality-job-roles' },
+    { name: 'Job Interviews', href: 'https://yourpilla.com/blog/interviews' },
+    { name: 'Start Onboarding', href: 'https://yourpilla.com/blog/restaurant-staff-onboarding' },
+    { name: 'Food Hygiene', href: 'https://yourpilla.com/blog/food-safety-management-system' },
+    { name: 'Health and Safety', href: 'https://yourpilla.com/blog/hospitality-risks' },
+    { name: 'Daily Operations', href: 'https://yourpilla.com/blog/operations' },
   ],
   support: [
-    { name: 'Submit ticket', href: '#' },
-    { name: 'Documentation', href: '#' },
-    { name: 'Guides', href: '#' },
+    { name: 'Problem and Solution', href: 'https://yourpilla.com/about' },
+    { name: 'How it Works', href: 'https://yourpilla.com/how-it-works' },
+    { name: 'Pilla vs Others', href: 'https://yourpilla.com/pricing/compare' },
   ],
   company: [
-    { name: 'About', href: '#' },
-    { name: 'Blog', href: '#' },
-    { name: 'Jobs', href: '#' },
-    { name: 'Press', href: '#' },
+    { name: 'Shift Scheduling App', href: '#' },
+    { name: 'Food Hygiene App', href: '#' },
   ],
   legal: [
-    { name: 'Terms of service', href: '#' },
-    { name: 'Privacy policy', href: '#' },
-    { name: 'License', href: '#' },
+    { name: 'Terms of Use', href: 'https://yourpilla.com/legal/terms-of-use' },
+    { name: 'Privacy Policy', href: 'https://yourpilla.com/legal/privacy-policy' },
+    { name: 'Right to Forget', href: 'https://yourpilla.com/legal/right-forgotten' },
   ],
 }
 
@@ -41,7 +40,7 @@ export default function Footer() {
           <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <div>
-                <h3 className="h6">Solutions</h3>
+                <h3 className="h6">Templates</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {navigation.solutions.map((item) => (
                     <li key={item.name}>
@@ -53,7 +52,7 @@ export default function Footer() {
                 </ul>
               </div>
               <div className="mt-10 md:mt-0">
-                <h3 className="h6">Support</h3>
+                <h3 className="h6">Why Pilla</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {navigation.support.map((item) => (
                     <li key={item.name}>
@@ -67,7 +66,7 @@ export default function Footer() {
             </div>
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <div>
-                <h3 className="h6">Company</h3>
+                <h3 className="h6">Use Cases</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {navigation.company.map((item) => (
                     <li key={item.name}>
