@@ -13,7 +13,12 @@ export default function FoodSafetyManagementSystemPage() {
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {posts.map((post) => (
-            <article key={post.slug} className="flex max-w-xl flex-col items-start justify-between">
+            <article key={post.slug} className="flex max-w-xl flex-col items-start justify-between relative">
+              {post.featured && (
+                <div className="absolute top-0 right-0 z-10">
+                  <span className="small-blue green-card px-2 py-1 rounded-bl-md">Featured</span>
+                </div>
+              )}
               <div className="flex items-center gap-x-4 text-xs">
                 <span className="text-muted">
                   Food Safety Guide
