@@ -19,19 +19,7 @@ export default function FoodSafetyManagementSystemPage() {
                   <span className="small-blue green-card px-2 py-1">Featured</span>
                 </div>
               )}
-              <div className="flex items-center gap-x-4 text-xs mt-6">
-                <span className="text-muted">
-                  Food Safety Guide
-                </span>
-                {post.blogCategory && !post.featured && (
-                  <>
-                    <span className="text-gray-400">•</span>
-                    <span className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600">
-                      {post.blogCategory.title}
-                    </span>
-                  </>
-                )}
-              </div>
+              <div className="mt-6"></div>
               <div className="group relative grow">
                 <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
                   <a href={`/blog/${post.slug}`}>

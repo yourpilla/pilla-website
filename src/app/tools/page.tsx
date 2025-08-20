@@ -19,18 +19,7 @@ export default function ToolsPage() {
                   <span className="small-blue green-card px-2 py-1">Featured</span>
                 </div>
               )}
-              <div className="flex items-center gap-x-4 text-xs mt-6">
-                <time dateTime={tool.frontmatter.date as string} className="text-muted">
-                  {new Date(tool.frontmatter.date as string).toLocaleDateString('en-GB', {
-                    year: 'numeric',
-                    month: 'short',
-                    day: 'numeric'
-                  })}
-                </time>
-                <span className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600">
-                  {tool.frontmatter.category as string}
-                </span>
-              </div>
+              <div className="mt-6"></div>
               <div className="group relative grow">
                 <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
                   <Link href={`/tools/${tool.slug}`}>

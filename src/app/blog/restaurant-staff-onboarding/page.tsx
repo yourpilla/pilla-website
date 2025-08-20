@@ -67,17 +67,7 @@ export default function RestaurantStaffOnboardingPage() {
                   <span className="small-blue green-card px-2 py-1">Featured</span>
                 </div>
               )}
-              <div className="flex items-center gap-x-4 text-xs mt-6">
-                <time dateTime={post.datetime} className="text-muted">
-                  {post.date}
-                </time>
-                <a
-                  href={post.category.href}
-                  className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
-                >
-                  {post.category.title}
-                </a>
-              </div>
+              <div className="mt-6"></div>
               <div className="group relative grow">
                 <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
                   <a href={post.href}>
