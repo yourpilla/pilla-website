@@ -117,7 +117,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
               
               {/* Blog Intro */}
               {intro && (
-                <div className="blog-intro small-blue">
+                <div className="blog-intro h6">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => <p className="mb-4 last:mb-0">{children}</p>,
@@ -140,8 +140,8 @@ export default async function BlogPage({ params }: BlogPageProps) {
               
               {/* Blog TLDR */}
               {tldr && (
-                <div className="blog-tldr small-blue">
-                  <h3 className="tldr-heading big-blue">TLDR</h3>
+                <div className="blog-tldr small-blue" style={{ marginTop: '40px' }}>
+                  <h3 className="tldr-heading h6">TLDR</h3>
                   <div className="tldr-content small-blue">
                     <ReactMarkdown
                       components={{

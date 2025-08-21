@@ -236,9 +236,9 @@ slug: "url-slug"
 ### Current Typography Styles:
 - **Title**: `.h1` and '<h1>
 - **Subtitle**: `.small-grey` (custom class)
-- **Intro**: `.small-blue'
+- **Intro**: `.h6`
 - **TLDR Box**: `.small-blue'
-- **TLDR Heading**: `.big-blue'
+- **TLDR Heading**: `.h6`
 - **TLDR Content**: `.small-blue'
 
 ---
