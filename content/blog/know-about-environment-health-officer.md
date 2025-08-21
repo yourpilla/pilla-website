@@ -27,15 +27,36 @@ sidebar_image_alt: Health inspection and regulatory compliance procedures
 title: >-
   An interview with an Environmental Health Officers (EHOs): Everything You Need
   To Know
+tldr: >-
+  - Environmental Health Officers in the UK work directly for the local
+  authority and carry out unannounced inspections on hospitality businesses.
+
+  - These inspections are to judge the level of food safety against the Food
+  Hygiene Rating Scheme. The Officer will provide every businesses with a score
+  0-5 which displays the businesses level of food safety.
+
+  - During the inspections, EHO will look at food processes, building condition
+  and management processes. They are looking to see that a business has a [food
+  safety management system
+  ](https://yourpilla.com/blog/food-safety-management-system)and is carrying out
+  daily due diligence checks.
+
+  - EHOs can arrive at anytime and have powers which range from making
+  suggestions to closing your business but they do not have the power to arrest
+  anybody.&nbsp;
+
+  Hospitality businesses have a responsibility to protect their guests from
+  harm. One of the biggest risks to customers is poor food safety practices and
+  this is the very thing which Environmental Health Officers work to reduce.
+
+  You implement a food safety management system system which aims to ensure the
+  safety of your guests (including preventing food poisoning) but as you will
+  recognise in hospitality, things can go wrong. EHOs, like me, play in
+  important role in protecting the health of the public. Working with them is
+  beneficial and can help to ensure high standards of food safety in your
+  business.Let's dive in and learn a bit more about EHOs, including their
+  duties, powers and training. I'm an EHO and I spent 11 years working for local
+  authorities, so I'll also share some of my insights with you too.
+intro: ''
 ---
-## TLDR;
-
- - Environmental Health Officers in the UK work directly for the local authority and carry out unannounced inspections on hospitality businesses.
-- These inspections are to judge the level of food safety against the Food Hygiene Rating Scheme. The Officer will provide every businesses with a score 0-5 which displays the businesses level of food safety.
-- During the inspections, EHO will look at food processes, building condition and management processes. They are looking to see that a business has a [food safety management system ](https://yourpilla.com/blog/food-safety-management-system)and is carrying out daily due diligence checks.
-- EHOs can arrive at anytime and have powers which range from making suggestions to closing your business but they do not have the power to arrest anybody.&nbsp;
-
- Hospitality businesses have a responsibility to protect their guests from harm. One of the biggest risks to customers is poor food safety practices and this is the very thing which Environmental Health Officers work to reduce.
-You implement a food safety management system system which aims to ensure the safety of your guests (including preventing food poisoning) but as you will recognise in hospitality, things can go wrong. EHOs, like me, play in important role in protecting the health of the public. Working with them is beneficial and can help to ensure high standards of food safety in your business.Let's dive in and learn a bit more about EHOs, including their duties, powers and training. I'm an EHO and I spent 11 years working for local authorities, so I'll also share some of my insights with you too.
-
- ## What does an Environmental Health Officer do?
+## What does an Environmental Health Officer do?

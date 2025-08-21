@@ -23,14 +23,18 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-food-safety/hospitality-food-safety.jpg'
 sidebar_image_alt: Food safety procedures and hygiene practices in hospitality
 title: How to Write a Food Safety Policy Statement
+tldr: >-
+  - A food safety policy statement is a short, clear statement that shows your
+  business is committed to keeping food safe and meeting legal duties.
+
+  - A food safety policy statement sets out your approach to managing food
+  safety risks, training your team, and following best practices like HACCP.
+
+  - Every team member should know what it says, and it should be reviewed
+  regularly to stay up to date.
+intro: ''
 ---
-## TLDR: About safety policy statements
-
- - A food safety policy statement is a short, clear statement that shows your business is committed to keeping food safe and meeting legal duties.
-- A food safety policy statement sets out your approach to managing food safety risks, training your team, and following best practices like HACCP.
-- Every team member should know what it says, and it should be reviewed regularly to stay up to date.
-
- ## What to do in Pilla
+## What to do in Pilla
 
  1. $1
 2. $1

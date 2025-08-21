@@ -18,14 +18,21 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional hospitality operations and best practices
 title: How to serve raw egg cocktails safely.
+intro: >-
+  Raw eggs are a classic ingredient in many traditional cocktails. Many recipes
+  can be enhanced by nature of flavour and appearance by use of raw eggs in
+  cocktails. When raw eggs are shaken in a cocktail the protein is agitated and
+  when it mixes with air it produces a foamy layer on top.
+
+  It is essential that the hygiene policy is in place to ensure that staff
+  follow strict procedures and guidelines so that cross contamination of food
+  with pathogenic bacteria does not occur.
+
+  Staff must follow the following safety points in order to achieve a consistent
+  level of safety.
+tldr: ''
 ---
-Raw eggs are a classic ingredient in many traditional cocktails. Many recipes can be enhanced by nature of flavour and appearance by use of raw eggs in cocktails. When raw eggs are shaken in a cocktail the protein is agitated and when it mixes with air it produces a foamy layer on top.
-
- It is essential that the hygiene policy is in place to ensure that staff follow strict procedures and guidelines so that cross contamination of food with pathogenic bacteria does not occur.
-
- Staff must follow the following safety points in order to achieve a consistent level of safety.
-
- ## Pasteurised eggs
+## Pasteurised eggs
 
  Pasteurised liquid egg is an alternative to shell eggs, they can provide a safer alternative as a previous heat treatment will kill off pathogenic bacteria.
 

@@ -20,14 +20,23 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-food-safety/hospitality-food-safety.jpg'
 sidebar_image_alt: Food safety procedures and hygiene practices in hospitality
 title: How to Carry out Food Safety Audits
+tldr: >-
+  - At some point, your food business will be inspected by your local authority.
+  This inspection will determine your level of food safety compliance and
+  general food hygiene standards for your customers. The best way to remain
+  compliant and food safe is to carry out your own food safety audits.
+
+  - Carrying out your own food safety audits means regularly checking the food
+  hygiene standards within your own sites. This should be done by weekly or
+  fortnightly by somebody in your management (usually a Head Chef or General
+  Manager).
+
+  - Carrying out regular food safety audits will mean that you become aware of
+  areas for improvement much more quickly and can maintain high food safety
+  standards all the time.
+intro: ''
 ---
-## TLDR: About Food Safety Audits
-
- - At some point, your food business will be inspected by your local authority. This inspection will determine your level of food safety compliance and general food hygiene standards for your customers. The best way to remain compliant and food safe is to carry out your own food safety audits.
-- Carrying out your own food safety audits means regularly checking the food hygiene standards within your own sites. This should be done by weekly or fortnightly by somebody in your management (usually a Head Chef or General Manager).
-- Carrying out regular food safety audits will mean that you become aware of areas for improvement much more quickly and can maintain high food safety standards all the time.
-
- ## Demo: Setting up Food Safety Audits in Pilla
+## Demo: Setting up Food Safety Audits in Pilla
 
  Using the pre-built food hygiene audit template inside Pilla as a starting point. It has been created by an Environmental Health Officer named Natalie Stanton and includes all the things that you should be checking regularly internally.&nbsp;
 

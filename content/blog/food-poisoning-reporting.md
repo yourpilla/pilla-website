@@ -19,5 +19,7 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
+tldr: ''
+intro: ''
 ---
 

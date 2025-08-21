@@ -18,12 +18,17 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-cooking/food-preparation.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to cook problem foods safely in your hospitality business.
+intro: >-
+  Some types of foods will require extra care to ensure food safety, in
+  particular eggs and egg products, pulses and rice. Steps must be taken within
+  the processes and procedures to ensure that these particular foods do not
+  present a risk to consumers.
+
+  Staff must follow the safety points below to ensure that a consistent level of
+  safety is achieved.
+tldr: ''
 ---
-Some types of foods will require extra care to ensure food safety, in particular eggs and egg products, pulses and rice. Steps must be taken within the processes and procedures to ensure that these particular foods do not present a risk to consumers.
-
- Staff must follow the safety points below to ensure that a consistent level of safety is achieved.
-
- ## Raw egg products
+## Raw egg products
 
  Raw eggs and lightly cooked eggs are commonly used in catering; however, they are considered too high of a risk to be served to vulnerable or risk groups such as pregnant and nursing mothers, very young children and infants, the elderly and immunocompromised individuals.
 

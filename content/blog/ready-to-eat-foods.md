@@ -19,12 +19,18 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to manage ready to eat foods safely in your business.
+intro: >-
+  Ready to eat foods can be high risk and must be handled and stored
+  appropriately to ensure contamination does not occur. These foods will not
+  undergo any further processing to remove the hazard, so the prevention of
+  hazards is essential.
+
+  Staff who handle high risk foods must undergo extra training to understand the
+  hazards and risks so staff must follow the safety points in order to achieve a
+  consistent level of safety.
+tldr: ''
 ---
-Ready to eat foods can be high risk and must be handled and stored appropriately to ensure contamination does not occur. These foods will not undergo any further processing to remove the hazard, so the prevention of hazards is essential.
-
- Staff who handle high risk foods must undergo extra training to understand the hazards and risks so staff must follow the safety points in order to achieve a consistent level of safety.
-
- ## Food handlers
+## Food handlers
 
  Ready to eat foods will not undergo any further processing therefore they are extremely vulnerable to hazards such as contamination and multiplication of bacteria. The handling of these foods safely is critical to the safety of the product, therefore extreme care must be taken and extra supervision and training given to ensure compliance with safety procedures.
 

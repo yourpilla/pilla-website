@@ -27,14 +27,25 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-temperature/kitchen-temperature.jpg'
 sidebar_image_alt: Kitchen equipment and temperature monitoring systems
 title: How to Set Up Freezer Temperature Checks
+tldr: >-
+  - Freezer's temperature is an important factor in maintaining the quality and
+  safety of frozen food. The ideal freezer temperature is -18°C (0°F) or below
+  or colder.
+
+  - Freezing foods to a minimum of -18°C ensures that all bacterial activity
+  ceases, both pathogenic and spoilage organisms are rendered dormant. Higher
+  temperatures above -15°C will allow spoilage organisms to start multiplying
+  very slowly. Food not stored correctly at -18°C or colder will undergo
+  spoilage affecting the food's quality.
+
+  - You should check and record the temperature of every freezer unit twice per
+  day.&nbsp;Pilla has a pre-built fridge temperature check inside which includes
+  all of the  inputs for staff to record compliant checks.
+
+  - If anything goes wrong such as a freezer breakdown, highlight the issue
+  using the using 'Issue' button and follow the corrective actions below. Record
+  everything that you do as a post inside the freezer temperature check so you
+  are create a full digital paper-trail of compliance.
+intro: ''
 ---
-## TLDR:&nbsp;About Freezer Temperature Checks
-
- - Freezer's temperature is an important factor in maintaining the quality and safety of frozen food. The ideal freezer temperature is -18°C (0°F) or below or colder.
-
- - Freezing foods to a minimum of -18°C ensures that all bacterial activity ceases, both pathogenic and spoilage organisms are rendered dormant. Higher temperatures above -15°C will allow spoilage organisms to start multiplying very slowly. Food not stored correctly at -18°C or colder will undergo spoilage affecting the food's quality.
-- You should check and record the temperature of every freezer unit twice per day.&nbsp;Pilla has a pre-built fridge temperature check inside which includes all of the  inputs for staff to record compliant checks.
-
- - If anything goes wrong such as a freezer breakdown, highlight the issue using the using 'Issue' button and follow the corrective actions below. Record everything that you do as a post inside the freezer temperature check so you are create a full digital paper-trail of compliance.
-
- ## Demo: Setting up Freezer Temperature Checks in Pilla
+## Demo: Setting up Freezer Temperature Checks in Pilla

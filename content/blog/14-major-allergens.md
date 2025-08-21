@@ -19,15 +19,36 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-allergen/allergen-management.jpg'
 sidebar_image_alt: Allergen management and food safety protocols
 title: How to create an allergen matrix in your food business.
+intro: >-
+  Managing food safety is critical to any hospitality business or for that
+  matter any business in the food industry. Managing allergens in food and drink
+  is part of managing food safety. This includes being aware of the 14 major
+  food allergens.
+
+  The Food Information Regulations 2014 set out the requirements in relation to
+  managing the 14 allergens in the food and drink that you sell or provide to
+  your customers. The regulations require that food businesses provide accurate
+  information to their customers about the presence of any of the 14 allergens
+  in food and drink they sell/provide.  This is important so that customers with
+  food allergies can make an informed decision about whether to consume food and
+  drink from your business and what food and drink is safe for them to consume.
+  The way allergen information is provided will vary based on whether food is
+  pre-packed, non pre-packed (loose) or pre-packed for direct sale (PPDS). For
+  hospitality and catering businesses that serve and cook meals on site, these
+  meals would be classified as non-packed foods. Therefore, the allergen
+  information can be provided verbally to a customer or in writing (for example;
+  on the menu next to each dish or by showing the customer an allergen matrix
+  that lists all or your dishes). Many people in the U.K. suffer from severe
+  reactions to allergens in food and drink so it's extremely important that you
+  manage the process of storing, handling, cooking and serving food and drink
+  correctly and safely.
+
+  Click here for guidance on [allergen management
+  procedures](https://yourpilla.com/blog/allergen-management) in your food
+  business.
+tldr: ''
 ---
-
-
- Managing food safety is critical to any hospitality business or for that matter any business in the food industry. Managing allergens in food and drink is part of managing food safety. This includes being aware of the 14 major food allergens.
-The Food Information Regulations 2014 set out the requirements in relation to managing the 14 allergens in the food and drink that you sell or provide to your customers. The regulations require that food businesses provide accurate information to their customers about the presence of any of the 14 allergens in food and drink they sell/provide.  This is important so that customers with food allergies can make an informed decision about whether to consume food and drink from your business and what food and drink is safe for them to consume. The way allergen information is provided will vary based on whether food is pre-packed, non pre-packed (loose) or pre-packed for direct sale (PPDS). For hospitality and catering businesses that serve and cook meals on site, these meals would be classified as non-packed foods. Therefore, the allergen information can be provided verbally to a customer or in writing (for example; on the menu next to each dish or by showing the customer an allergen matrix that lists all or your dishes). Many people in the U.K. suffer from severe reactions to allergens in food and drink so it's extremely important that you manage the process of storing, handling, cooking and serving food and drink correctly and safely.
-
- Click here for guidance on [allergen management procedures](https://yourpilla.com/blog/allergen-management) in your food business.
-
- ## Use this allergen matrix
+## Use this allergen matrix
 
  You must keep an allergen matrix like the one below which clearly shows which allergens are in which dishes. Add your menu items to the chart below and note which allergens are included in each dish by adding an 'x'. Examples shown below:
 

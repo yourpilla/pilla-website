@@ -43,6 +43,14 @@ export default async function BlogPage({ params }: BlogPageProps) {
     ? post.frontmatter.subtitle 
     : null;
 
+  const intro = post.frontmatter.intro && typeof post.frontmatter.intro === 'string' 
+    ? post.frontmatter.intro 
+    : null;
+
+  const tldr = post.frontmatter.tldr && typeof post.frontmatter.tldr === 'string' 
+    ? post.frontmatter.tldr 
+    : null;
+
   // Get dynamic image from YAML or use default
   const sidebarImage = post.frontmatter.sidebar_image && typeof post.frontmatter.sidebar_image === 'string'
     ? post.frontmatter.sidebar_image
@@ -79,11 +87,14 @@ export default async function BlogPage({ params }: BlogPageProps) {
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="lg:max-w-4xl">
-              <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+              {/* Blog Title */}
+              <h1 className="blog-title mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
                 {post.title}
               </h1>
+              
+              {/* Blog Subtitle */}
               {subtitle && (
-                <div className="mt-6 small-grey">
+                <div className="blog-subtitle mt-6 small-grey">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => <>{children}</>,
@@ -101,6 +112,57 @@ export default async function BlogPage({ params }: BlogPageProps) {
                   >
                     {subtitle}
                   </ReactMarkdown>
+                </div>
+              )}
+              
+              {/* Blog Intro */}
+              {intro && (
+                <div className="blog-intro mt-8 text-xl text-gray-700 leading-relaxed font-light">
+                  <ReactMarkdown
+                    components={{
+                      p: ({ children }) => <p className="mb-4 last:mb-0">{children}</p>,
+                      a: ({ href, children }) => (
+                        <a
+                          href={href}
+                          className="text-blue-600 underline hover:text-blue-800 transition-colors"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {children}
+                        </a>
+                      )
+                    }}
+                  >
+                    {intro}
+                  </ReactMarkdown>
+                </div>
+              )}
+              
+              {/* Blog TLDR */}
+              {tldr && (
+                <div className="blog-tldr mt-8 bg-blue-50 border-l-4 border-blue-400 p-6 rounded-r-lg">
+                  <h3 className="tldr-heading text-lg font-semibold text-blue-900 mb-4">TLDR</h3>
+                  <div className="tldr-content">
+                    <ReactMarkdown
+                      components={{
+                        p: ({ children }) => <div className="mb-3 last:mb-0 text-blue-800 leading-relaxed">{children}</div>,
+                        ul: ({ children }) => <ul className="list-disc list-inside space-y-2 text-blue-800">{children}</ul>,
+                        li: ({ children }) => <li className="leading-relaxed">{children}</li>,
+                        a: ({ href, children }) => (
+                          <a
+                            href={href}
+                            className="text-blue-600 underline hover:text-blue-800 transition-colors"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            {children}
+                          </a>
+                        )
+                      }}
+                    >
+                      {tldr}
+                    </ReactMarkdown>
+                  </div>
                 </div>
               )}
             </div>

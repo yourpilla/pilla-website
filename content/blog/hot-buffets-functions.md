@@ -18,12 +18,16 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional hospitality operations and best practices
 title: How to manage hot buffets and functions safely in your business.
+intro: >-
+  Poor handling and storage procedures when holding functions and buffets can
+  lead to food borne illness. Temperature control and contamination controls
+  need to be robust.
+
+  Staff must follow the safety points below in order to maintain a consistent
+  level of food safety.
+tldr: ''
 ---
-Poor handling and storage procedures when holding functions and buffets can lead to food borne illness. Temperature control and contamination controls need to be robust.
-
- Staff must follow the safety points below in order to maintain a consistent level of food safety.
-
- ## Chilled storage
+## Chilled storage
 
  Prior to display for a function or buffet ensure that foods are kept under strict temperature control until immediately before service, that is, chilled, frozen or held hot.
 

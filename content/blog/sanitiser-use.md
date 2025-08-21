@@ -19,10 +19,33 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-cleaning/kitchen-cleaning.jpg'
 sidebar_image_alt: Professional cleaning and sanitation practices
 title: How to implement proper sanitiser use and method.&nbsp;
----
-Sanitiser chemicals are used in the catering industry, along with hard surface cleaners/degreasers to clean and disinfect surfaces and equipment.
+intro: >-
+  Sanitiser chemicals are used in the catering industry, along with hard surface
+  cleaners/degreasers to clean and disinfect surfaces and equipment.
 
- Sanitisers can, if used correctly, reduce bacteria to a safe level on surfaces but can present hazards if not used correctly.
+  Sanitisers can, if used correctly, reduce bacteria to a safe level on surfaces
+  but can present hazards if not used correctly.
+
+  Training of staff in how to carry out cleaning procedures is very important
+  and well as staff understanding how cleaners and sanitisers work.
+
+  Sanitisers are mainly disinfectants, with limited cleaning ability on lightly
+  soiled surfaces. When surfaces that are highly contaminated, have allergen
+  residues present on them or have tenacious or heavy soiling, then a hard
+  surface cleaner/degreaser should be used every time before the sanitiser is
+  used to ensure thorough cleaning has removed residues before the sanitizer can
+  be applied.
+
+  Sanitisers cannot disinfect properly if food residues and chemical residues
+  remain on a surface.
+
+  Safety points
+
+  Sanitiser chemicals are used in the catering industry, along with hard surface
+  cleaners/degreasers to clean and disinfect surfaces and equipment.
+tldr: ''
+---
+Sanitisers can, if used correctly, reduce bacteria to a safe level on surfaces but can present hazards if not used correctly.
 
  Training of staff in how to carry out cleaning procedures is very important and well as staff understanding how cleaners and sanitisers work.
 

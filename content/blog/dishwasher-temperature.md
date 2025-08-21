@@ -25,15 +25,23 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-temperature/kitchen-temperature.jpg'
 sidebar_image_alt: Kitchen equipment and temperature monitoring systems
 title: How to Set Up Dishwasher Temperature Checks
+tldr: >-
+  - Commercial dishwashers need to run at high temperatures to eliminate 99% of
+  microorganisms and bacteria in commercial dishwashers. Wash temperatures
+  should be&nbsp;55-60°C and final rinse temperature should be&nbsp;82-88°C.
+
+  - You need to check and record the temperature of every dishwasher unit twice
+  per day, usually once in the morning and once in the afternoon.Pilla has a
+  pre-built dishwasher temperature check inside which includes all of the inputs
+  for staff to record compliant checks.
+
+  - If anything goes wrong, highlight the issue using the using 'Issue' button
+  and follow the corrective actions below. Record everything that you do as a
+  post inside the dishwasher temperature task so you are create a full digital
+  paper-trail of compliance.
+intro: ''
 ---
-## TLDR:&nbsp;About Dishwasher Temperature Checks
-
- - Commercial dishwashers need to run at high temperatures to eliminate 99% of microorganisms and bacteria in commercial dishwashers. Wash temperatures should be&nbsp;55-60°C and final rinse temperature should be&nbsp;82-88°C.
-
- - You need to check and record the temperature of every dishwasher unit twice per day, usually once in the morning and once in the afternoon.Pilla has a pre-built dishwasher temperature check inside which includes all of the inputs for staff to record compliant checks.
-- If anything goes wrong, highlight the issue using the using 'Issue' button and follow the corrective actions below. Record everything that you do as a post inside the dishwasher temperature task so you are create a full digital paper-trail of compliance.
-
- ## Demo: Setting up Dishwasher Temperature Checks in Pilla
+## Demo: Setting up Dishwasher Temperature Checks in Pilla
 
  1. $1
 2. $1

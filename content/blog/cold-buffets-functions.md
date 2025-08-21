@@ -18,10 +18,14 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional hospitality operations and best practices
 title: How to manage cold buffets and functions safely in your business.
+intro: >-
+  Poor handling and storage practices of food used for functions and buffets can
+  lead to food borne illness so temperature control and protection from
+  contamination is essential to food safety. Staff must follow the safety points
+  in order to achieve a consistent level of food safety.
+tldr: ''
 ---
-Poor handling and storage practices of food used for functions and buffets can lead to food borne illness so temperature control and protection from contamination is essential to food safety. Staff must follow the safety points in order to achieve a consistent level of food safety.
-
- ## Essential storage conditions
+## Essential storage conditions
 
  Prior to display ensure that all food to be used are kept under the appropriate storage conditions until immediately before service i.e. Chilled, frozen or hot storage.
 

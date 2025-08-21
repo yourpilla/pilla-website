@@ -19,15 +19,23 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-food-safety/hospitality-food-safety.jpg'
 sidebar_image_alt: Food safety procedures and hygiene practices in hospitality
 title: How to use barbecues to improve food safety.&nbsp;
+intro: >-
+  If barbecues are used on site, then special steps must be taken to ensure the
+  safety of food produced.
+
+  Unlike cooking foods in an oven, the cooking temperature of barbequed food is
+  difficult to control. Often foods will cook relatively quick at the surface
+  but remain raw or semi cooked in other parts of the food.
+
+  Other hazards to cooking outside include foreign body contamination as well as
+  pests such as flies contaminating foods. Also, sometimes the strict hygiene
+  controls carried out in a kitchen can be more difficult to maintain outside in
+  the open.
+
+  Staff must follow the safety points below in order to maintain a consistent
+  level of food safety.
+tldr: ''
 ---
-If barbecues are used on site, then special steps must be taken to ensure the safety of food produced.
-
- Unlike cooking foods in an oven, the cooking temperature of barbequed food is difficult to control. Often foods will cook relatively quick at the surface but remain raw or semi cooked in other parts of the food.
-
- Other hazards to cooking outside include foreign body contamination as well as pests such as flies contaminating foods. Also, sometimes the strict hygiene controls carried out in a kitchen can be more difficult to maintain outside in the open.
-
- Staff must follow the safety points below in order to maintain a consistent level of food safety.
-
- ## Hygiene procedure
+## Hygiene procedure
 
  Ensure that food handlers maintain high standards of personal hygiene and maintain recommended hand washing frequencies, especially when handling raw products and high risk cooked or RTE products.

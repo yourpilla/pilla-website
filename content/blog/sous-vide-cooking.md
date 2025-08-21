@@ -16,10 +16,15 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-cooking/food-preparation.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to cook sous vide safely in your food business.
+intro: >-
+  Sous vide is French for ‘under vacuum’ and describes a method of cooking in
+  vacuum sealed plastic pouches at low temperatures for long periods. Sous vide
+  cooking differs from conventional cooking methods as the raw food is vacuum
+  sealed in a plastic bag and the food is cooked using more precise temperature
+  control.
+tldr: ''
 ---
-Sous vide is French for ‘under vacuum’ and describes a method of cooking in vacuum sealed plastic pouches at low temperatures for long periods. Sous vide cooking differs from conventional cooking methods as the raw food is vacuum sealed in a plastic bag and the food is cooked using more precise temperature control.
-
- ## Benefits of a sous vide cook
+## Benefits of a sous vide cook
 
  The sous vide method of cooking is said to maintain the integrity of the ingredients and therefore should produce foods with enhanced flavours. 
 A sous vide cooker gives the chef more control over the cooking of a dish. Sous vide techniques are often used in fine dining restaurants and more professional kitchens because it offers a more luxury finish to the dish. Steak cooked via the sous vide method is more consistent than traditionally cooked steak and the same can be said for any other sous vide recipes. 

@@ -18,15 +18,22 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to vacuum pack food properly.
+intro: >-
+  Vacuum packed cooked foods can have their normal shelf life extended by using
+  this method.
+
+  Vacuum packed raw food use by date will not change.
+
+  Vacuum packing food involves the removal of air from packaging that the food
+  has been contained in under an airtight seal. However, this process can
+  increase the risk to the food from anaerobic organisms, particularly
+  clostridium botulinum and listeria monocytogenes, both of which are
+  psychrotrophic organisms i.e. Capable of multiplication at low temperatures.
+
+  Consequently, very strict controls must be exercised to avoid contamination,
+  multiplication, spore and toxin formation.
+
+  For more information see food standards agency website.
+tldr: ''
 ---
-Vacuum packed cooked foods can have their normal shelf life extended by using this method.
-
- Vacuum packed raw food use by date will not change.
-
- Vacuum packing food involves the removal of air from packaging that the food has been contained in under an airtight seal. However, this process can increase the risk to the food from anaerobic organisms, particularly clostridium botulinum and listeria monocytogenes, both of which are psychrotrophic organisms i.e. Capable of multiplication at low temperatures.
-
- Consequently, very strict controls must be exercised to avoid contamination, multiplication, spore and toxin formation.
-
- For more information see food standards agency website.
-
- ## Raw materials
+## Raw materials

@@ -18,10 +18,16 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to deal with food complaints and incidents.
+intro: >-
+  Maintaining high standards in food safety and customer satisfaction is at the
+  heart of your responsibilities. Effective complaint handling is essential, not
+  only to resolve issues promptly but also to uphold the reputation of your
+  business. Various types of customer complaints, from general grievances about
+  service or food quality to serious allegations of food poisoning or allergen
+  incidents, may occur so you need to know how to deal with each.&nbsp;
+tldr: ''
 ---
-Maintaining high standards in food safety and customer satisfaction is at the heart of your responsibilities. Effective complaint handling is essential, not only to resolve issues promptly but also to uphold the reputation of your business. Various types of customer complaints, from general grievances about service or food quality to serious allegations of food poisoning or allergen incidents, may occur so you need to know how to deal with each.&nbsp;
-
- ## General complaints
+## General complaints
 
  Listen carefully to the nature of the complaint by the customer, it is very important that we keep customers happy so that they will return.
 

@@ -19,14 +19,18 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to manage food waste in your hospitality business
+intro: >-
+  Refuse and food waste must be handled and disposed of appropriately and
+  frequently.
+
+  Extra vigilance must be taken to ensure that food does not become cross
+  contaminated by waste products.
+
+  The buildup of kitchen waste both inside the building but also external waste
+  areas will attract pests as a ready source of available food.
+tldr: ''
 ---
-Refuse and food waste must be handled and disposed of appropriately and frequently.
-
- Extra vigilance must be taken to ensure that food does not become cross contaminated by waste products.
-
- The buildup of kitchen waste both inside the building but also external waste areas will attract pests as a ready source of available food.
-
- ## Staff
+## Staff
 
  After waste handling, staff must wash hands on re-entering the kitchen before handling any food, equipment, utensils or touching work surfaces.
 

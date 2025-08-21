@@ -28,14 +28,32 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-temperature/kitchen-temperature.jpg'
 sidebar_image_alt: Kitchen equipment and temperature monitoring systems
 title: How to Set Up Cooled Food Temperature Checks
+tldr: >-
+  It's important to cool food quickly to avoid the risk of bacterial spores
+  germinating, becoming viable and then multiplying and releasing toxins into
+  the food.
+
+  Toxins are generally heat stable and not removed by cooking, reheating or
+  microwaving. It's important to cool food quickly as non-spore forming bacteria
+  can multiply rapidly once temperatures fall below 63°C - between 20-50°c
+  presents the greatest risk. C- All foods should be cooled to
+  below&nbsp;20-50°C within 90 minutes. You can use a variety of different
+  cooling methods to do this.&nbsp;Once cooled, food must be kept chilled prior
+  to serving or reheating. Cooling food should always be protected from external
+  contamination during the cooling process.
+
+  - You should record information about a selection of cooled foods every day.
+  Pilla has a pre-built cooled food temperature check inside which includes all
+  of the inputs for staff to record compliant checks. Create five of these
+  Cooled Food Tasks per day so you can record up to five examples of cooled
+  foods. The check will record all of the required information including cooling
+  start time and temperature, cooling end time and temperature, the food item
+  and the name of the person carrying out the cooling.
+
+  - If anything goes wrong, highlight the issue using the using 'Issue' button
+  and follow the corrective actions below. Record everything that you do as a
+  post inside the cooled food temperature check so you are create a full digital
+  paper-trail of compliance.
+intro: ''
 ---
-## TLDR: About Food Cooling Time and Temperature&nbsp;
-
- It's important to cool food quickly to avoid the risk of bacterial spores germinating, becoming viable and then multiplying and releasing toxins into the food.
-Toxins are generally heat stable and not removed by cooking, reheating or microwaving. It's important to cool food quickly as non-spore forming bacteria can multiply rapidly once temperatures fall below 63°C - between 20-50°c presents the greatest risk. C- All foods should be cooled to below&nbsp;20-50°C within 90 minutes. You can use a variety of different cooling methods to do this.&nbsp;Once cooled, food must be kept chilled prior to serving or reheating. Cooling food should always be protected from external contamination during the cooling process.
-
- - You should record information about a selection of cooled foods every day. Pilla has a pre-built cooled food temperature check inside which includes all of the inputs for staff to record compliant checks. Create five of these Cooled Food Tasks per day so you can record up to five examples of cooled foods. The check will record all of the required information including cooling start time and temperature, cooling end time and temperature, the food item and the name of the person carrying out the cooling.
-
- - If anything goes wrong, highlight the issue using the using 'Issue' button and follow the corrective actions below. Record everything that you do as a post inside the cooled food temperature check so you are create a full digital paper-trail of compliance.
-
- ## Demo: Setting up Cooled Food Checks in Pilla&nbsp;
+## Demo: Setting up Cooled Food Checks in Pilla&nbsp;

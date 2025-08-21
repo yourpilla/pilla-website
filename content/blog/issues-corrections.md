@@ -18,10 +18,16 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional hospitality operations and best practices
 title: How to deal with issues in hospitality.
+intro: >-
+  The hospitality industry is fast paced and ever changing, one of the hardest
+  to get right. With so many moving parts, from guest services to kitchen
+  operations, things can and do go wrong, often out of the blue. In a business
+  where guest satisfaction, health and safety are paramount, even small things
+  can quickly spiral and impact reputation, compliance and profit. For
+  operators, staying on top of this is key but it’s not easy.
+tldr: ''
 ---
-The hospitality industry is fast paced and ever changing, one of the hardest to get right. With so many moving parts, from guest services to kitchen operations, things can and do go wrong, often out of the blue. In a business where guest satisfaction, health and safety are paramount, even small things can quickly spiral and impact reputation, compliance and profit. For operators, staying on top of this is key but it’s not easy.
-
- ## Issues that can occur
+## Issues that can occur
 
  Hospitality teams face many challenges, but compliance is one of the biggest. Here are some of the most common compliance issues:
 Food safety: Fridges and freezers not monitored regularly can lead to wrong temperatures and food spoilage and health risks for guests.Poor record keeping: Not logging cleaning schedules, food storage or equipment maintenance can lead to failed health inspections, fines and closures.Out of date equipment: Not maintaining or replacing faulty equipment like fire alarms or fridges can lead to safety risks, compliance breaches and operational downtime.Missed audits and inspections: Falling behind on safety audits like fire safety checks or health department inspections can mean fines, penalties and damage to your reputation.Each of these can spiral out of control if not addressed quickly so you need systems in place to manage and track.  ## How Health Authorities See Mistakes: An Opportunity Not a Crisis

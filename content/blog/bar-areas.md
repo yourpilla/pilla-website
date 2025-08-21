@@ -19,15 +19,21 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional hospitality operations and best practices
 title: How to manage cross contamination in bar areas.
+intro: >-
+  Bar areas, service areas, ice machines and post mix soft drinks
+
+  Alcoholic drinks, soft drinks, tea, coffee, water and ice are classified as
+  food.
+
+  In addition to the control measures within food production areas, bar and food
+  service areas are also critical to food safety and these areas would be privy
+  to inspection by local authority officers carrying out food safety inspections
+  of the premises as a whole.
+
+  Food and beverage managers and bar managers must liaise closely with senior
+  chefs and management to ensure that these areas are not overlooked.
+
+  The following safety points must be considered:
+tldr: ''
 ---
-Bar areas, service areas, ice machines and post mix soft drinks
-
- Alcoholic drinks, soft drinks, tea, coffee, water and ice are classified as food.
-
- In addition to the control measures within food production areas, bar and food service areas are also critical to food safety and these areas would be privy to inspection by local authority officers carrying out food safety inspections of the premises as a whole.
-
- Food and beverage managers and bar managers must liaise closely with senior chefs and management to ensure that these areas are not overlooked.
-
- The following safety points must be considered:
-
- ## Personal hygiene
+## Personal hygiene

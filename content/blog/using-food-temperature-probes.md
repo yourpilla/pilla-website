@@ -27,15 +27,20 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to Set Up Food Probe Thermometer Checks
+tldr: >-
+  - Food probe thermometers should be used to test all food temperatures before
+  serving. In order to work properly the probes must be tested and maintained.
+
+  - You should test one or two probes per week.&nbsp;Pilla has a pre-built
+  fridge probe accuracy check inside which includes all of the inputs for staff
+  to record compliant checks.
+
+  - Each probe should be tested in hot and cold water using the methods
+  described below. A correct reading for hot water test should be&nbsp;100°C and
+  a correct reading for cold water test should be&nbsp;0°C.
+intro: ''
 ---
-## TLDR: About&nbsp;Food Probe Thermometers
-
- - Food probe thermometers should be used to test all food temperatures before serving. In order to work properly the probes must be tested and maintained.
-
- - You should test one or two probes per week.&nbsp;Pilla has a pre-built fridge probe accuracy check inside which includes all of the inputs for staff to record compliant checks.
-- Each probe should be tested in hot and cold water using the methods described below. A correct reading for hot water test should be&nbsp;100°C and a correct reading for cold water test should be&nbsp;0°C.
-
- ## Demo: Setting up Food Probe Thermometer Checks in Pilla
+## Demo: Setting up Food Probe Thermometer Checks in Pilla
 
  1. $1
 2. $1

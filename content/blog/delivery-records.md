@@ -28,15 +28,32 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Professional food preparation and cooking techniques
 title: How to Set Up Food Delivery Checks
+tldr: >-
+  - Ingredients should be traceable in case of a food borne illness, an allergic
+  reaction, foreign body or chemical contamination incident. Without proper
+  traceability, your can't notify the relevant supplier and they can't be
+  investigated by the local authority to check if the source of the problem is
+  traced back to them.
+
+  - Your food suppliers must carry out their own due diligence in their supply
+  chains and must have robust food safety management systems and HACCP
+  procedures in place.&nbsp;It is good practice to work with food suppliers who
+  have external accreditations such as the British retail consortium (BRC) and
+  safe and local supplier approval (SALSA). These suppliers will have had to
+  undertake very strict audits to obtain their accreditations.
+
+  - Incoming food deliveries should be checked to make sure they have been
+  transported properly and the quality is high.&nbsp;Pilla has a pre-built food
+  delivery temperature check inside which includes all of the inputs for staff
+  to record compliant checks including delivery vehicle temperature and
+  condition.
+
+  - You should aim to record all high risk deliveries such as meats. Set up
+  enough daily recurring food delivery checks so that your teams can do
+  this.&nbsp;
+intro: ''
 ---
-## TLDR: About Fridge Temperature Checks
-
- - Ingredients should be traceable in case of a food borne illness, an allergic reaction, foreign body or chemical contamination incident. Without proper traceability, your can't notify the relevant supplier and they can't be investigated by the local authority to check if the source of the problem is traced back to them.
-- Your food suppliers must carry out their own due diligence in their supply chains and must have robust food safety management systems and HACCP procedures in place.&nbsp;It is good practice to work with food suppliers who have external accreditations such as the British retail consortium (BRC) and safe and local supplier approval (SALSA). These suppliers will have had to undertake very strict audits to obtain their accreditations.
-- Incoming food deliveries should be checked to make sure they have been transported properly and the quality is high.&nbsp;Pilla has a pre-built food delivery temperature check inside which includes all of the inputs for staff to record compliant checks including delivery vehicle temperature and condition.
-- You should aim to record all high risk deliveries such as meats. Set up enough daily recurring food delivery checks so that your teams can do this.&nbsp;
-
- ## Demo: Setting up Food Delivery Checks in Pilla
+## Demo: Setting up Food Delivery Checks in Pilla
 
  1. $1
 2. $1

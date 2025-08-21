@@ -18,12 +18,16 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Food safety procedures and hygiene practices in hospitality
 title: How to manage personal hygiene in the kitchen.
+intro: >-
+  Poor personal hygiene can seriously impact the safety of food we prepare and
+  serve to our customers.
+
+  The personal hygiene policy is in place to ensure that food handlers follow
+  strict protocols so that you can ensure that food is safe and hygienic to
+  eat.&nbsp;
+tldr: ''
 ---
-Poor personal hygiene can seriously impact the safety of food we prepare and serve to our customers.
-
- The personal hygiene policy is in place to ensure that food handlers follow strict protocols so that you can ensure that food is safe and hygienic to eat.&nbsp;
-
- ## Handwashing best practices
+## Handwashing best practices
 
  Diligent hand washing procedures can help to control contamination hazards – microbiological, allergenic, physical and chemical and can prevent a staggering one in three diarrhoea illnesses and one in five respiratory infections. By thoroughly washing our hands with hot soapy water, you can battle harmful bacteria growth before it spreads.
 

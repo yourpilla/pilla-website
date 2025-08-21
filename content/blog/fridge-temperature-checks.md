@@ -28,15 +28,29 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-temperature/kitchen-temperature.jpg'
 sidebar_image_alt: Kitchen equipment and temperature monitoring systems
 title: How to Set Up Fridge Temperature Checks
+tldr: >-
+  - Certain types of foods, especially high protein and high moisture foods
+  provide perfect growth conditions for micro-organisms, both pathogenic and
+  spoilage types. These foods can be both ready to eat and raw, bacteria will
+  not distinguish between the two.
+
+  - The ideal refrigerator temperature is between 37°F (3°C) and 40°F (5°C).
+  These temperatures help to slow down the growth of harmful bacteria, ensuring
+  that your food stays fresh for longer. In the UK the legal upper limit for
+  fridge temperatures is 8°C
+
+  - You need to check and record the temperature of every fridge unit twice per
+  day, usually once in the morning and once in the afternoon. Pilla has a
+  pre-built fridge temperature check inside which includes all of the inputs for
+  staff to record compliant checks.
+
+  - If anything goes wrong, highlight the issue using the using 'Issue' button
+  and follow the corrective actions below. Record everything that you do as a
+  post inside the fridge temperature check so you are create a full digital
+  paper-trail of compliance.
+intro: ''
 ---
-## TLDR: About Fridge Temperature Checks
-
- - Certain types of foods, especially high protein and high moisture foods provide perfect growth conditions for micro-organisms, both pathogenic and spoilage types. These foods can be both ready to eat and raw, bacteria will not distinguish between the two.
-- The ideal refrigerator temperature is between 37°F (3°C) and 40°F (5°C). These temperatures help to slow down the growth of harmful bacteria, ensuring that your food stays fresh for longer. In the UK the legal upper limit for fridge temperatures is 8°C
-- You need to check and record the temperature of every fridge unit twice per day, usually once in the morning and once in the afternoon. Pilla has a pre-built fridge temperature check inside which includes all of the inputs for staff to record compliant checks.
-- If anything goes wrong, highlight the issue using the using 'Issue' button and follow the corrective actions below. Record everything that you do as a post inside the fridge temperature check so you are create a full digital paper-trail of compliance.
-
- ## Demo: Setting up Fridge Temperature Checks in Pilla&nbsp;
+## Demo: Setting up Fridge Temperature Checks in Pilla&nbsp;
 
  1. $1
 2. $1

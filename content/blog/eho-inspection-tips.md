@@ -17,5 +17,7 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
 sidebar_image_alt: Food safety procedures and hygiene practices in hospitality
+tldr: ''
+intro: ''
 ---
 

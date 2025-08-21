@@ -26,15 +26,31 @@ subtitle: >-
 sidebar_image: 'https://ucarecdn.com/placeholder-temperature/kitchen-temperature.jpg'
 sidebar_image_alt: Kitchen equipment and temperature monitoring systems
 title: How to Set Up Cooked Food Temperature Checks
+tldr: >-
+  - It's important that foods are cooked to a time and temperature combination
+  that has been scientifically proven to reduce bacteria to a safe level for
+  human to eat. Cooking food to the appropriate temperature for a sufficient
+  time period eliminates harmful bacteria and makes sure food is safe.
+
+  - The following time and temperature combinations have been scientifically
+  proven to reduce bacteria to a safe level:
+
+  80°c for 6 seconds
+
+  75°c for 30 seconds
+
+  70°c for 2 minutes
+
+  - You should record the temperature of five cooked foods every day. Pilla has
+  a pre-built cooked food temperature check inside which includes all of the
+  inputs for staff to record compliant checks.The check will record all of the
+  required information including the food item, the food temperature, the
+  date/time and the person who recorded the reheated food each time.
+
+  - If anything goes wrong, highlight the issue using the using 'Issue' button
+  and follow the corrective actions below. Record everything that you do as a
+  post inside the cooked food temperature check so you are create a full digital
+  paper-trail of compliance.
+intro: ''
 ---
-## TLDR:&nbsp;About Safe Cooking Temperatures&nbsp;
 
- - It's important that foods are cooked to a time and temperature combination that has been scientifically proven to reduce bacteria to a safe level for human to eat. Cooking food to the appropriate temperature for a sufficient time period eliminates harmful bacteria and makes sure food is safe.
-- The following time and temperature combinations have been scientifically proven to reduce bacteria to a safe level:
-80°c for 6 seconds
-75°c for 30 seconds
-70°c for 2 minutes
-
- - You should record the temperature of five cooked foods every day. Pilla has a pre-built cooked food temperature check inside which includes all of the inputs for staff to record compliant checks.The check will record all of the required information including the food item, the food temperature, the date/time and the person who recorded the reheated food each time.
-
- - If anything goes wrong, highlight the issue using the using 'Issue' button and follow the corrective actions below. Record everything that you do as a post inside the cooked food temperature check so you are create a full digital paper-trail of compliance.
