@@ -234,12 +234,12 @@ slug: "url-slug"
 - **`.tldr-content`** - TLDR content wrapper
 
 ### Current Typography Styles:
-- **Title**: `text-4xl font-semibold tracking-tight sm:text-5xl`
-- **Subtitle**: `small-grey` (custom class)
-- **Intro**: `text-xl text-gray-700 leading-relaxed font-light`
-- **TLDR Box**: `bg-blue-50 border-l-4 border-blue-400 p-6`
-- **TLDR Heading**: `text-lg font-semibold text-blue-900`
-- **TLDR Content**: `text-blue-800 leading-relaxed`
+- **Title**: `.h1` and '<h1>
+- **Subtitle**: `.small-grey` (custom class)
+- **Intro**: `.small-blue'
+- **TLDR Box**: `.small-blue'
+- **TLDR Heading**: `.big-blue'
+- **TLDR Content**: `.small-blue'
 
 ---
 

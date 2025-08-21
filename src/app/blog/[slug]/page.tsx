@@ -88,13 +88,13 @@ export default async function BlogPage({ params }: BlogPageProps) {
           <div className="lg:pr-4">
             <div className="lg:max-w-4xl">
               {/* Blog Title */}
-              <h1 className="blog-title mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+              <h1 className="blog-title h1">
                 {post.title}
               </h1>
               
               {/* Blog Subtitle */}
               {subtitle && (
-                <div className="blog-subtitle mt-6 small-grey">
+                <div className="blog-subtitle small-grey">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => <>{children}</>,
@@ -117,14 +117,14 @@ export default async function BlogPage({ params }: BlogPageProps) {
               
               {/* Blog Intro */}
               {intro && (
-                <div className="blog-intro mt-8 text-xl text-gray-700 leading-relaxed font-light">
+                <div className="blog-intro small-blue">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => <p className="mb-4 last:mb-0">{children}</p>,
                       a: ({ href, children }) => (
                         <a
                           href={href}
-                          className="text-blue-600 underline hover:text-blue-800 transition-colors"
+                          className="underline hover:opacity-80 transition-opacity"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -140,18 +140,18 @@ export default async function BlogPage({ params }: BlogPageProps) {
               
               {/* Blog TLDR */}
               {tldr && (
-                <div className="blog-tldr mt-8 bg-blue-50 border-l-4 border-blue-400 p-6 rounded-r-lg">
-                  <h3 className="tldr-heading text-lg font-semibold text-blue-900 mb-4">TLDR</h3>
-                  <div className="tldr-content">
+                <div className="blog-tldr small-blue">
+                  <h3 className="tldr-heading big-blue">TLDR</h3>
+                  <div className="tldr-content small-blue">
                     <ReactMarkdown
                       components={{
-                        p: ({ children }) => <div className="mb-3 last:mb-0 text-blue-800 leading-relaxed">{children}</div>,
-                        ul: ({ children }) => <ul className="list-disc list-inside space-y-2 text-blue-800">{children}</ul>,
-                        li: ({ children }) => <li className="leading-relaxed">{children}</li>,
+                        p: ({ children }) => <div className="mb-3 last:mb-0">{children}</div>,
+                        ul: ({ children }) => <ul className="list-disc list-inside space-y-2">{children}</ul>,
+                        li: ({ children }) => <li>{children}</li>,
                         a: ({ href, children }) => (
                           <a
                             href={href}
-                            className="text-blue-600 underline hover:text-blue-800 transition-colors"
+                            className="underline hover:opacity-80 transition-opacity"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
