@@ -1,22 +1,23 @@
 ---
-breadcrumb schema: ""
-breadcrumb short: "E-Coli"
-meta: "Understand e coli control measures to prepare food safely."
-questions: ""
-schema: ""
-secondary tag: "Food Hygiene"
-template actual: ""
-Title: "How to manage E coli in food businesses."
-Slug: "e-coli-control"
-unique id: "1691659962617x292857067431301400"
+breadcrumb schema: ''
+breadcrumb short: E-Coli
+meta: Understand e coli control measures to prepare food safely.
+questions: ''
+schema: ''
+secondary tag: Food Hygiene
+template actual: ''
+Slug: e-coli-control
+unique id: 1691659962617x292857067431301400
 featured: false
+subtitle: >-
+  This article has been written by Pilla Founder, [Liam
+  Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](mailto:liam@yourpilla.com), he reads every email.
+sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
+sidebar_image_alt: Professional food preparation and cooking techniques
+title: How to manage E coli in food businesses.
 ---
-
-# How to manage E coli in food businesses.
-
- This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
-
- E. coli stands for Escherichia coli. E coli is an extremely dangerous organism and eating food with e coli present can cause food poisoning, leading to long term life changing illness or even death.
+E. coli stands for Escherichia coli. E coli is an extremely dangerous organism and eating food with e coli present can cause food poisoning, leading to long term life changing illness or even death.
 E coli is of such concern that local authority officers will inspect e coli control measures very specifically and if suitable and sufficient control measures are found to be lacking, they are very likely to serve an emergency hygiene prohibition notice which may lead to closure of a business.E coli is commonly found in the intestines of farm animals and can potentially contaminate all types of meat due to the processes found in slaughterhouses and butchers. All meats should be considered with particular emphasis on burgers and ground beef, sausages and minced meats. Food handlers should also be aware that e coli is also potentially found in soil, so it is possible for vegetables and salad to have e coli contamination on their surfaces too. ## Preparation of raw meat and e coli
 
  When preparing food is this type it is best practice is that raw food should be prepared in a separate room to ready to eat foods wherever possible. If this is not possible because of space constraints, then a permanent raw preparation area should be found. 
@@ -27,11 +28,3 @@ Ideally veg preparation sinks should be used for that purpose only and should ha
 
  Equipment and utensils that come into contact with raw foods must undergo robust disinfection using heat e.g. Steam or a dishwasher that can rinse with water at a minimum temperature of 82°c for 15 seconds (thermal disinfection).
 It is not acceptable to rely on the use of a sanitiser or disinfectant for washing these items, this includes chopping boards and knives.If it is not possible to do this, you should use colour coded equipment and use it for raw or ready to eat foods only. ## Complex equipment and e coli
-
- If meat slicers, mincers, vacuum packers or other complex equipment is used, they should be sanitised/disinfected before and after every use and they must only be used for cooked foods. If raw or undercooked products will come into contact with the equipment, then separate equipment should be used. Raw and ready to eat products must never be prepared in the same complex equipment.
-
- ## Corrective actions if things go wrong
-
- - If ready to eat foods become contaminated with soil, blood or other contamination from both direct and indirect contact with raw foods, they must be discarded.
-- If the dishwasher breaks down, you must resort to using separate equipment for raw and ready to  eat foods until it has been repaired and is in full working order.
-- If food handlers do not follow the safety points and safe methodology, they must be retrained, and extra supervision given if not showing full competency.

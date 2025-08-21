@@ -1,22 +1,25 @@
 ---
-breadcrumb schema: ""
-breadcrumb short: "Issues and Corrections"
-meta: "Issues happen in hospitality, but having a solid plan fir reporting and correcting those issues is where the difference is made."
-questions: ""
-schema: ""
-secondary tag: "Food Hygiene"
-template actual: ""
-Title: "How to deal with issues in hospitality."
-Slug: "issues-corrections"
-unique id: "1726753667267x910212376181665700"
+breadcrumb schema: ''
+breadcrumb short: Issues and Corrections
+meta: >-
+  Issues happen in hospitality, but having a solid plan fir reporting and
+  correcting those issues is where the difference is made.
+questions: ''
+schema: ''
+secondary tag: Food Hygiene
+template actual: ''
+Slug: issues-corrections
+unique id: 1726753667267x910212376181665700
 featured: false
+subtitle: >-
+  This article has been written by Pilla Founder, [Liam
+  Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam
+  directly](mailto:liam@yourpilla.com), he reads every email.
+sidebar_image: 'https://ucarecdn.com/placeholder-default/hospitality-operations.jpg'
+sidebar_image_alt: Professional hospitality operations and best practices
+title: How to deal with issues in hospitality.
 ---
-
-# How to deal with issues in hospitality.
-
- This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
-
- The hospitality industry is fast paced and ever changing, one of the hardest to get right. With so many moving parts, from guest services to kitchen operations, things can and do go wrong, often out of the blue. In a business where guest satisfaction, health and safety are paramount, even small things can quickly spiral and impact reputation, compliance and profit. For operators, staying on top of this is key but it’s not easy.
+The hospitality industry is fast paced and ever changing, one of the hardest to get right. With so many moving parts, from guest services to kitchen operations, things can and do go wrong, often out of the blue. In a business where guest satisfaction, health and safety are paramount, even small things can quickly spiral and impact reputation, compliance and profit. For operators, staying on top of this is key but it’s not easy.
 
  ## Issues that can occur
 
