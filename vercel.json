@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/mobile/:path*",
-      "destination": "https://yourpilla.com/mobile/:path*"
-    }
-  ]
-}
