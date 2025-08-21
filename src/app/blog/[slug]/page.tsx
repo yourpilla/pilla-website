@@ -141,28 +141,25 @@ export default async function BlogPage({ params }: BlogPageProps) {
               {/* Blog TLDR */}
               {tldr && (
                 <div className="blog-tldr small-blue" style={{ marginTop: '40px' }}>
-                  <h3 className="tldr-heading h6">TLDR</h3>
-                  <div className="tldr-content small-blue">
-                    <ReactMarkdown
-                      components={{
-                        p: ({ children }) => <div className="mb-3 last:mb-0">{children}</div>,
-                        ul: ({ children }) => <ul className="list-disc list-inside space-y-2">{children}</ul>,
-                        li: ({ children }) => <li>{children}</li>,
-                        a: ({ href, children }) => (
-                          <a
-                            href={href}
-                            className="underline hover:opacity-80 transition-opacity"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            {children}
-                          </a>
-                        )
-                      }}
-                    >
-                      {tldr}
-                    </ReactMarkdown>
-                  </div>
+                  <ReactMarkdown
+                    components={{
+                      p: ({ children }) => <div className="mb-3 last:mb-0">{children}</div>,
+                      ul: ({ children }) => <ul className="list-disc list-inside space-y-2">{children}</ul>,
+                      li: ({ children }) => <li>{children}</li>,
+                      a: ({ href, children }) => (
+                        <a
+                          href={href}
+                          className="underline hover:opacity-80 transition-opacity"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {children}
+                        </a>
+                      )
+                    }}
+                  >
+                    {tldr}
+                  </ReactMarkdown>
                 </div>
               )}
             </div>
