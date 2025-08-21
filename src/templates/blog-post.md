@@ -34,6 +34,9 @@ export async function generateStaticParams() {
   return slugs.map((slug) => ({ slug }));
 }
 
+// ISR: Revalidate blog posts every 1 hour
+export const revalidate = 3600;
+
 export default async function BlogPage({ params }: BlogPageProps) {
   const { slug } = await params;
   const post = getContentBySlug('blog', slug);
@@ -65,7 +68,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
 
   return (
     <>
-      {/* Schema markup */}
+      {/* Render exact schema from YAML frontmatter */}
       {post.frontmatter.schema && (
         <script
           type="application/ld+json"
@@ -75,6 +78,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
         />
       )}
       
+      {/* Render exact breadcrumb schema from YAML frontmatter */}
       {post.frontmatter.breadcrumb_schema && (
         <script
           type="application/ld+json"
@@ -84,20 +88,19 @@ export default async function BlogPage({ params }: BlogPageProps) {
         />
       )}
       
-      {/* Top Section - Title, Subtitle, Intro, TLDR + Image */}
       <div className="relative isolate overflow-hidden bg-main px-6 py-24 sm:py-32 lg:overflow-visible lg:px-18">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:items-start lg:gap-y-10">
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className="lg:max-w-4xl">
               {/* Blog Title */}
-              <h1 className="blog-title mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+              <h1 className="blog-title h1">
                 {post.title}
               </h1>
               
               {/* Blog Subtitle */}
               {subtitle && (
-                <div className="blog-subtitle mt-6 small-grey">
+                <div className="blog-subtitle small-grey">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => <>{children}</>,
@@ -120,14 +123,14 @@ export default async function BlogPage({ params }: BlogPageProps) {
               
               {/* Blog Intro */}
               {intro && (
-                <div className="blog-intro mt-8 text-xl text-gray-700 leading-relaxed font-light">
+                <div className="blog-intro h6">
                   <ReactMarkdown
                     components={{
                       p: ({ children }) => <p className="mb-4 last:mb-0">{children}</p>,
                       a: ({ href, children }) => (
                         <a
                           href={href}
-                          className="text-blue-600 underline hover:text-blue-800 transition-colors"
+                          className="underline hover:opacity-80 transition-opacity"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -143,36 +146,31 @@ export default async function BlogPage({ params }: BlogPageProps) {
               
               {/* Blog TLDR */}
               {tldr && (
-                <div className="blog-tldr mt-8 bg-blue-50 border-l-4 border-blue-400 p-6 rounded-r-lg">
-                  <h3 className="tldr-heading text-lg font-semibold text-blue-900 mb-4">TLDR</h3>
-                  <div className="tldr-content">
-                    <ReactMarkdown
-                      components={{
-                        p: ({ children }) => <div className="mb-3 last:mb-0 text-blue-800 leading-relaxed">{children}</div>,
-                        ul: ({ children }) => <ul className="list-disc list-inside space-y-2 text-blue-800">{children}</ul>,
-                        li: ({ children }) => <li className="leading-relaxed">{children}</li>,
-                        a: ({ href, children }) => (
-                          <a
-                            href={href}
-                            className="text-blue-600 underline hover:text-blue-800 transition-colors"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            {children}
-                          </a>
-                        )
-                      }}
-                    >
-                      {tldr}
-                    </ReactMarkdown>
-                  </div>
+                <div className="blog-tldr small-blue" style={{ marginTop: '40px' }}>
+                  <ReactMarkdown
+                    components={{
+                      p: ({ children }) => <div className="mb-3 last:mb-0">{children}</div>,
+                      ul: ({ children }) => <ul className="list-disc list-inside space-y-2">{children}</ul>,
+                      li: ({ children }) => <li>{children}</li>,
+                      a: ({ href, children }) => (
+                        <a
+                          href={href}
+                          className="underline hover:opacity-80 transition-opacity"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {children}
+                        </a>
+                      )
+                    }}
+                  >
+                    {tldr}
+                  </ReactMarkdown>
                 </div>
               )}
             </div>
           </div>
         </div>
-        
-        {/* Sidebar Image */}
         <div className="flex justify-center lg:sticky lg:top-4 lg:col-start-3 lg:row-span-2 lg:row-start-1 lg:justify-start">
           <Image
             src={sidebarImage} 
@@ -182,21 +180,133 @@ export default async function BlogPage({ params }: BlogPageProps) {
             className="w-full max-w-sm object-cover rounded-lg"
           />
         </div>
-        
-        {/* Main Content Section - Full Width */}
-        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
-          <div className="lg:pr-4">
-            <div className="max-w-4xl text-base/7 text-gray-600">
-              <MarkdownContent content={post.content} />
-            </div>
-          </div>
-        </div>
       </div>
+      </div>
+      
+      {/* Main Content Section - Centered Layout */}
+      <div className="bg-white px-6 py-32 lg:px-8">
+        <div className="mx-auto max-w-3xl text-base/7 text-gray-700">
+          <MarkdownContent content={post.content} />
+        </div>
       </div>
     </>
   );
 }
 ```
+import { CheckCircleIcon, InformationCircleIcon } from '@heroicons/react/20/solid'
+
+export default function Example() {
+  return (
+    <div className="bg-white px-6 py-32 lg:px-8">
+      <div className="mx-auto max-w-3xl text-base/7 text-gray-700">
+        <p className="text-base/7 font-semibold text-indigo-600">Introducing</p>
+        <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+          JavaScript for beginners
+        </h1>
+        <p className="mt-6 text-xl/8">
+          Aliquet nec orci mattis amet quisque ullamcorper neque, nibh sem. At arcu, sit dui mi, nibh dui, diam eget
+          aliquam. Quisque id at vitae feugiat egestas ac. Diam nulla orci at in viverra scelerisque eget. Eleifend
+          egestas fringilla sapien.
+        </p>
+        <div className="mt-10 max-w-2xl text-gray-600">
+          <p>
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id.
+          </p>
+          <ul role="list" className="mt-8 max-w-xl space-y-8 text-gray-600">
+            <li className="flex gap-x-3">
+              <CheckCircleIcon aria-hidden="true" className="mt-1 size-5 flex-none text-indigo-600" />
+              <span>
+                <strong className="font-semibold text-gray-900">Data types.</strong> Lorem ipsum, dolor sit amet
+                consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate
+                blanditiis ratione.
+              </span>
+            </li>
+            <li className="flex gap-x-3">
+              <CheckCircleIcon aria-hidden="true" className="mt-1 size-5 flex-none text-indigo-600" />
+              <span>
+                <strong className="font-semibold text-gray-900">Loops.</strong> Anim aute id magna aliqua ad ad non
+                deserunt sunt. Qui irure qui lorem cupidatat commodo.
+              </span>
+            </li>
+            <li className="flex gap-x-3">
+              <CheckCircleIcon aria-hidden="true" className="mt-1 size-5 flex-none text-indigo-600" />
+              <span>
+                <strong className="font-semibold text-gray-900">Events.</strong> Ac tincidunt sapien vehicula erat
+                auctor pellentesque rhoncus. Et magna sit morbi lobortis.
+              </span>
+            </li>
+          </ul>
+          <p className="mt-8">
+            Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor
+            fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac
+            adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.
+          </p>
+          <h2 className="mt-16 text-3xl font-semibold tracking-tight text-pretty text-gray-900">
+            From beginner to expert in 3 hours
+          </h2>
+          <p className="mt-6">
+            Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh.
+            Pharetra, euismod vitae interdum mauris enim, consequat vulputate nibh. Maecenas pellentesque id sed tellus
+            mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam turpis
+            ipsum eu a sed convallis diam.
+          </p>
+          <figure className="mt-10 border-l border-indigo-600 pl-9">
+            <blockquote className="font-semibold text-gray-900">
+              <p>
+                "Vel ultricies morbi odio facilisi ultrices accumsan donec lacus purus. Lectus nibh ullamcorper ac
+                dictum justo in euismod. Risus aenean ut elit massa. In amet aliquet eget cras. Sem volutpat enim
+                tristique."
+              </p>
+            </blockquote>
+            <figcaption className="mt-6 flex gap-x-4">
+              <img
+                alt=""
+                src="https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+                className="size-6 flex-none rounded-full bg-gray-50"
+              />
+              <div className="text-sm/6">
+                <strong className="font-semibold text-gray-900">Maria Hill</strong> – Marketing Manager
+              </div>
+            </figcaption>
+          </figure>
+          <p className="mt-10">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
+        </div>
+        <figure className="mt-16">
+          <img
+            alt=""
+            src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3"
+            className="aspect-video rounded-xl bg-gray-50 object-cover"
+          />
+          <figcaption className="mt-4 flex gap-x-2 text-sm/6 text-gray-500">
+            <InformationCircleIcon aria-hidden="true" className="mt-0.5 size-5 flex-none text-gray-300" />
+            Faucibus commodo massa rhoncus, volutpat.
+          </figcaption>
+        </figure>
+        <div className="mt-16 max-w-2xl text-gray-600">
+          <h2 className="text-3xl font-semibold tracking-tight text-pretty text-gray-900">
+            Everything you need to get up and running
+          </h2>
+          <p className="mt-6">
+            Purus morbi dignissim senectus mattis adipiscing. Amet, massa quam varius orci dapibus volutpat cras. In
+            amet eu ridiculus leo sodales cursus tristique. Tincidunt sed tempus ut viverra ridiculus non molestie.
+            Gravida quis fringilla amet eget dui tempor dignissim. Facilisis auctor venenatis varius nunc, congue erat
+            ac. Cras fermentum convallis quam.
+          </p>
+          <p className="mt-8">
+            Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae
+            sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit.
+          </p>
+        </div>
+      </div>
+    </div>
+  )
+}
 
 ---
 
@@ -230,16 +340,16 @@ slug: "url-slug"
 - **`.blog-subtitle`** - Author/date info
 - **`.blog-intro`** - Opening summary content  
 - **`.blog-tldr`** - TLDR container box
-- **`.tldr-heading`** - "TLDR" section header
-- **`.tldr-content`** - TLDR content wrapper
 
 ### Current Typography Styles:
-- **Title**: `.h1` and '<h1>
+- **Title**: `.h1` class
 - **Subtitle**: `.small-grey` (custom class)
-- **Intro**: `.h6`
-- **TLDR Box**: `.small-blue'
-- **TLDR Heading**: `.h6`
-- **TLDR Content**: `.small-blue'
+- **Intro**: `.h6` (custom class)
+- **TLDR Content**: `.small-blue` (custom class, no heading)
+
+### Main Content Section Styles:
+- **Main Content Container**: `bg-white px-6 py-32 lg:px-8`
+- **Content Wrapper**: `mx-auto max-w-3xl text-base/7 text-gray-700`
 
 ---
 
@@ -249,11 +359,14 @@ slug: "url-slug"
 - **Left Column (2/3)**: Title, subtitle, intro, TLDR
 - **Right Column (1/3)**: Sidebar image (sticky)
 - **Background**: Clean `bg-main` (no patterns)
+- **Container**: `relative isolate overflow-hidden bg-main px-6 py-24 sm:py-32 lg:overflow-visible lg:px-18`
 
-### Bottom Section (Full Width):
-- **Content**: Main markdown content
-- **Width**: Full width with proper constraints
-- **Typography**: Standard content styling
+### Bottom Section (Centered Content):
+- **Content**: Main markdown content from `.md` file body
+- **Layout**: Centered with `max-w-3xl` constraint
+- **Background**: Clean `bg-white`
+- **Container**: `bg-white px-6 py-32 lg:px-8`
+- **Typography**: `text-base/7 text-gray-700`
 
 ---
 
@@ -283,15 +396,32 @@ slug: "url-slug"
 .blog-subtitle { /* Adjust author/date */ }
 .blog-intro { /* Adjust intro paragraph */ }
 .blog-tldr { /* Adjust TLDR box */ }
-.tldr-heading { /* Adjust TLDR heading */ }
-.tldr-content { /* Adjust TLDR content */ }
 ```
 
+### Layout Customization Variables:
+
+#### Top Section (Header):
+- **Background**: `bg-main` → change to any background class
+- **Padding**: `px-6 py-24 sm:py-32 lg:px-18` → adjust spacing
+- **Grid**: `grid-cols-3` → change column layout
+- **Content Width**: `max-w-7xl` and `lg:max-w-4xl` → adjust max widths
+
+#### Bottom Section (Main Content):
+- **Background**: `bg-white` → change content background
+- **Padding**: `px-6 py-32 lg:px-8` → adjust vertical/horizontal spacing
+- **Content Width**: `max-w-3xl` → adjust reading width
+- **Typography**: `text-base/7 text-gray-700` → adjust font size and color
+
+#### Sidebar Image:
+- **Sticky Position**: `lg:sticky lg:top-4` → adjust stickiness
+- **Image Size**: `w-full max-w-sm` → change image constraints
+- **Border Radius**: `rounded-lg` → adjust corner rounding
+
 ### Color Scheme:
-- **Primary**: Blue tones (`text-blue-600`, `bg-blue-50`)
-- **Text**: Gray scale (`text-gray-700`, `text-gray-900`)
-- **Links**: Blue with hover states
-- **Background**: Main brand color (`bg-main`)
+- **Header Background**: `bg-main` (brand color)
+- **Content Background**: `bg-white` (clean content area)
+- **Text**: Gray scale (`text-gray-700`, `text-gray-900`)  
+- **Links**: Underline with opacity hover states
 
 ---
 

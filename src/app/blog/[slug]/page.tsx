@@ -174,14 +174,14 @@ export default async function BlogPage({ params }: BlogPageProps) {
             className="w-full max-w-sm object-cover rounded-lg"
           />
         </div>
-        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
-          <div className="lg:pr-4">
-            <div className="max-w-4xl text-base/7 text-gray-600">
-              <MarkdownContent content={post.content} />
-            </div>
-          </div>
-        </div>
       </div>
+      </div>
+      
+      {/* Main Content Section - Centered Layout */}
+      <div className="bg-white px-6 py-32 lg:px-8">
+        <div className="mx-auto max-w-3xl text-base/7 text-gray-700">
+          <MarkdownContent content={post.content} />
+        </div>
       </div>
     </>
   );
