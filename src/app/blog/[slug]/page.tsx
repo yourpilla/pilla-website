@@ -210,10 +210,16 @@ export default async function BlogPage({ params }: BlogPageProps) {
                     <dt className="h6">{faq.title}</dt>
                     <dd className="mt-2 small-blue">
                       {faq.frontmatter.summary && typeof faq.frontmatter.summary === 'string'
-                        ? (faq.frontmatter.summary.length > 120 
-                            ? faq.frontmatter.summary.substring(0, 120) + '...' 
-                            : faq.frontmatter.summary)
+                        ? faq.frontmatter.summary
                         : 'No summary available'}
+                    </dd>
+                    <dd className="mt-3">
+                      <a 
+                        href={`/answers/${faq.slug}`}
+                        className="text-sm font-semibold text-indigo-600 hover:text-indigo-500"
+                      >
+                        Read more →
+                      </a>
                     </dd>
                   </div>
                 ))}
