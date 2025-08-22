@@ -204,11 +204,11 @@ export default async function BlogPage({ params }: BlogPageProps) {
               and we&apos;ll get back to you as soon as we can.
             </p>
             <div className="mt-20">
-              <dl className="columns-1 gap-8 sm:columns-2 lg:columns-3">
+              <dl className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
                 {faqs.map((faq, index) => (
-                  <div key={faq.uniqueId || index} className="break-inside-avoid mb-8">
+                  <div key={faq.uniqueId || index} className="flex flex-col">
                     <dt className="h6">{faq.title}</dt>
-                    <dd className="mt-2 small-blue">
+                    <dd className="mt-2 small-blue flex-1">
                       {faq.frontmatter.summary && typeof faq.frontmatter.summary === 'string'
                         ? faq.frontmatter.summary
                         : 'No summary available'}
