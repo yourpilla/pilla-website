@@ -204,7 +204,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
               and we&apos;ll get back to you as soon as we can.
             </p>
             <div className="mt-20">
-              <dl className="columns-1 gap-8 sm:columns-2 lg:columns-3 space-y-8">
+              <dl className="columns-1 gap-8 sm:columns-2 lg:columns-3">
                 {faqs.map((faq, index) => (
                   <div key={faq.uniqueId || index} className="break-inside-avoid mb-8">
                     <dt className="h6">{faq.title}</dt>
