@@ -193,8 +193,8 @@ export default async function BlogPage({ params }: BlogPageProps) {
 
       {/* FAQ Section */}
       {faqs && faqs.length > 0 && (
-        <div className="bg-white">
-          <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
+        <div className="bg-main px-6 py-16 sm:py-24 lg:px-8">
+          <div className="mx-auto max-w-7xl">
             <h2 className="h2">Frequently asked questions</h2>
             <p className="mt-6 max-w-2xl small-grey">
               Have a different question and can&apos;t find the answer you&apos;re looking for? Reach out to our support team by{' '}
@@ -204,9 +204,9 @@ export default async function BlogPage({ params }: BlogPageProps) {
               and we&apos;ll get back to you as soon as we can.
             </p>
             <div className="mt-20">
-              <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:space-y-0 sm:gap-x-6 sm:gap-y-16 lg:grid-cols-3 lg:gap-x-10">
+              <dl className="columns-1 gap-8 sm:columns-2 lg:columns-3 space-y-8">
                 {faqs.map((faq, index) => (
-                  <div key={faq.uniqueId || index}>
+                  <div key={faq.uniqueId || index} className="break-inside-avoid mb-8">
                     <dt className="h6">{faq.title}</dt>
                     <dd className="mt-2 small-blue">
                       {faq.frontmatter.summary && typeof faq.frontmatter.summary === 'string'
