@@ -106,6 +106,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Your food probe thermometer should be tested regularly using both hot and cold
+  calibration methods.
 ---
 Your probe thermometer needs to be tested using both hot and cold calibration methods regularly. You should test one or two different food probe thermometers every week which mean that every food probe thermometer gets tested every regularly.
 

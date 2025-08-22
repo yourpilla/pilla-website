@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Environmental Health Officers follow a specific format during inspections as
+  outlined in the Food Law Code of Practice.
 ---
 When an Environmental Health Officer (EHO) inspects your hospitality business, they follow a specific format outlined in the Food Law Code of Practice. This includes assessing your food safety and hygiene practices, the structure and cleanliness of your premises, and your management systems to ensure compliance with food safety laws.
 

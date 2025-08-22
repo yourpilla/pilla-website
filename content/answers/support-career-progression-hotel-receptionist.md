@@ -125,6 +125,14 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Hotel Receptionist, it is important to
+  include aspects of support and career progression such as specific training
+  programmes, potential for promotions, and other professional development
+  opportunities. Career progression should be viewed as encompassing more than
+  just promotions, including various development opportunities like
+  cross-training in different departments, leadership training, and special
+  projects that enhance skills and knowledge.
 ---
 When writing a job description for a Hotel Receptionist, it's important to include details about support and career progression. This not only attracts candidates who are looking for growth but also shows that your hotel values employee development. Mention specific training programs, potential for promotions, and any other professional development opportunities.
 

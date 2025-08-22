@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If the fridge seal is damaged, it's important to address the issue immediately
+  as it can lead to warm air entering the fridge and cause temperature
+  fluctuations.
 ---
 A damaged fridge seal needs immediate attention as it can let warm air in and cause temperature fluctuations. You should arrange to have it replaced as soon as possible. In the meantime, monitor the fridge temperature more frequently as the faulty seal could be affecting the unit's ability to maintain the correct temperature.
 

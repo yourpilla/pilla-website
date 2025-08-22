@@ -124,6 +124,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Concierge, it is essential to detail
+  specific training and progression opportunities.
 ---
 When writing a job description for a Concierge, it's important to include specific training and progression opportunities. This not only attracts candidates who are eager to grow but also sets clear expectations about their career path. Highlight structured training programs, chances for skill enhancement, and potential progression to supervisory or managerial roles.
 

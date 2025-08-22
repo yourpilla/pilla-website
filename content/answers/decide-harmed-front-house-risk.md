@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  In a front of house risk assessment, consider all people who interact with the
+  space, including staff, customers, and any other visitors.
 ---
 When conducting a front of house risk assessment, think about all the different groups of people who interact with the space. This includes staff, customers, and any other visitors. Consider how each group uses the space and what specific risks they might face. For example, staff might be at risk from carrying heavy trays, while customers could slip on a wet floor.
 

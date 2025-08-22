@@ -125,6 +125,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Bar Manager, it's vital to clearly
+  outline their reporting relationships and accountability within the bar's
+  structure.
 ---
 When writing a job description for a Bar Manager, it's important to clearly outline who they will report to and how they are accountable within the bar's structure. This helps set clear expectations and supports effective management. Typically, a Bar Manager reports to the owner or the general manager of the establishment.
 

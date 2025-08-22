@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  After a busy shift, a bartender's responsibilities include cleaning the bar
+  area, securing all stock, and preparing for the next day.
 ---
 After a busy night, a bartender has several important tasks to wrap up before closing. These include cleaning the bar area, securing all stock, and preparing for the next day. It's essential to ensure everything is ready for a smooth start the next service day.
 

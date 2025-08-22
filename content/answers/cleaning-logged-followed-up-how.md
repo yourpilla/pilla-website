@@ -139,6 +139,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  Every cleaning task in a hospitality setting must be recorded using a logbook
+  or digital system to ensure no tasks are missed and standards are maintained.
 ---
 Every cleaning task in a hospitality setting should be recorded in a logbook or digital tracking system. This helps ensure that nothing is missed and standards are maintained. After logging, a manager or supervisor should follow up to check the quality of the cleaning.
 

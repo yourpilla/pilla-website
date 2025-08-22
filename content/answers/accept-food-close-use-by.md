@@ -121,6 +121,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  No, you should not accept deliveries that are close to their use-by dates.
+  Ensure use-by dates have a minimum of 5 days remaining and best-before dates
+  have at least 1 month remaining.
 ---
 No, you should not accept deliveries that are close to their use-by dates. When checking deliveries, use-by dates must have a minimum of 5 days usage remaining. For best-before dates, you need at least 1 month remaining.
 

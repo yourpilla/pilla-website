@@ -115,6 +115,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Local authorities enforce the Food Safety Act 1990 by conducting inspections
+  focused on various aspects of food handling, storage, and preparation.
 ---
 Local authorities play a crucial role in making sure that food businesses follow the Food Safety Act 1990. They conduct inspections focusing on food handling, storage, and preparation practices. If a business doesn't meet the standards, local authorities can take action to ensure public safety and compliance.
 

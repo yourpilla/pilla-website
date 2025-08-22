@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a sommelier job description, clearly specify the experience level
+  required based on your establishment's type and expectations.
 ---
 When writing a job description for a sommelier, it's important to be clear about the experience level required. This depends on the type of establishment and the expectations for the role. For instance, upscale dining might require a sommelier with extensive experience and possibly a certification, while a casual venue might be open to someone with less formal experience but a strong passion and foundational knowledge of wines.
 

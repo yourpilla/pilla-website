@@ -121,6 +121,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  For food deliveries, ensure that products have at least 5 days of usage
+  remaining on their use-by dates.
 ---
 When accepting food deliveries, you should ensure that products with use-by dates have a minimum of 5 days usage remaining. This gives you enough time to safely use the products before they expire while maintaining food safety standards.
 

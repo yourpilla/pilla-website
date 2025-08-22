@@ -129,6 +129,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If you find pest damage in a food delivery, immediately reject the affected
+  items.
 ---
 \`\`\`html
 

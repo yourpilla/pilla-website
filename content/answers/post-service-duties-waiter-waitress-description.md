@@ -125,6 +125,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A waiter/waitress job description should include various post-service duties
+  to ensure the restaurant is ready for the next service.
 ---
 After a busy shift, it's crucial for waitstaff to handle post-service duties to ensure the restaurant is ready for the next service. Include tasks like clearing and resetting tables, conducting daily maintenance of service areas, completing end-of-day side work, and handling cash-out procedures if necessary. These responsibilities help maintain the restaurant's cleanliness and order, preparing it for the next day or shift.
 

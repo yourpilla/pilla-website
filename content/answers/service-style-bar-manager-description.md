@@ -124,6 +124,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In the job description for a Bar Manager, it's essential to clearly describe
+  your bar's service style to help potential candidates understand the type of
+  service they will manage.
 ---
 When writing a job description for a Bar Manager, it's vital to describe your bar's service style clearly. This helps potential candidates understand the type of service they will be expected to manage. For example, you might say, "We serve a high volume of creative cocktails nightly with a focus on speedy service and guest interaction," if that describes your bar well.
 

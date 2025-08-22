@@ -116,6 +116,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  The correct temperature reading for testing a probe thermometer in cold water
+  is 0°C (32°F).
 ---
 When testing a probe thermometer in cold water, you should get a reading of 0°C (32°F). To achieve this accurate reading, you'll need to create a proper ice bath by filling a vessel with crushed ice and adding just enough water to make the ice float. Let it stabilise before testing.
 

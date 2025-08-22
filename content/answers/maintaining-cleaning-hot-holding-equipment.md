@@ -115,6 +115,15 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To keep hot holding equipment in excellent condition and ensure food safety,
+  follow these steps: (1) Turn off the equipment after each use, allow it to
+  cool down, then clean it thoroughly to remove all food particles and grease.
+  (2) Use a mild detergent and warm water for effective cleaning. (3) Complete
+  the process by drying the equipment completely to prevent rust and corrosion.
+  It's vital to carry out regular deep cleaning as well, as this prevents the
+  buildup of oils and unseen food particles, thereby maintaining safety and
+  functionality.
 ---
 To keep your hot holding equipment in top condition and ensure food safety, regular maintenance and cleaning are essential. After each use, turn off the unit, allow it to cool, and then clean it thoroughly to remove food particles and grease. Use a mild detergent and warm water for cleaning, and make sure to dry the unit completely to prevent rust and corrosion.
 

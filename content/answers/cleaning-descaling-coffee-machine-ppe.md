@@ -119,6 +119,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  When cleaning or descaling a coffee machine, it is crucial to wear appropriate
+  Personal Protective Equipment (PPE) to safeguard against chemical burns and
+  scalds.
 ---
 When cleaning or descaling your coffee machine, wearing the right Personal Protective Equipment (PPE) is crucial to protect against chemical burns and scalds. Typically, you should wear heat-resistant gloves, safety goggles, and aprons. These items protect your skin and eyes from chemical splashes and hot water.
 

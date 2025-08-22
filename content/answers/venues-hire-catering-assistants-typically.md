@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Catering Assistants are commonly employed by various venues that offer food
+  services.
 ---
 Catering Assistants are hired by a variety of venues that provide food services. These include corporate catering firms, wedding service providers, school lunch suppliers, and meal prep businesses. Each type of venue has different service styles and expectations, which influence the specific tasks and responsibilities of a Catering Assistant.
 

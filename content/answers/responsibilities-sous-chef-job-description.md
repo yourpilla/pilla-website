@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To effectively list key responsibilities for a Sous Chef, focus on specific
+  duties that reflect your kitchen's unique needs.
 ---
 When listing key responsibilities for a Sous Chef, focus on clear, specific duties that reflect your kitchen's unique environment and needs. Start by breaking down the role into different parts of the service, such as pre-service prep, active service duties, and post-service tasks. Use bullet points to make each responsibility clear and easy to understand.
 

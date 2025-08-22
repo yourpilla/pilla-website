@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Use a walk-in fridge to finish cooling hot food if nearing the 90-minute time
+  limit and the food has not cooled enough.
 ---
 Use a walk-in fridge to finish cooling hot food if you're approaching the 90-minute time limit and the food hasn't cooled sufficiently. This method helps ensure that the food reaches a safe storage temperature quickly without raising the temperature inside the fridge.
 

@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Commis Chef, it is crucial to clearly
+  state the pay and any additional benefits.
 ---
 When writing a job description for a Commis Chef, it's important to clearly outline the pay and any additional benefits. Include specific details like the salary range or hourly rate, and mention any extra perks such as health benefits, tips, or meal provisions. This helps set clear expectations and attracts candidates who are looking for what you offer.
 

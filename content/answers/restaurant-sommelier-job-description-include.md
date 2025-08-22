@@ -122,6 +122,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a sommelier job description, provide details about the dining
+  experience offered (casual, upscale, or fine dining), the size and focus of
+  the wine list (e.g.
 ---
 When writing a sommelier job description, it's important to provide a clear picture of your restaurant. Include details about the type of dining experience you offer, whether it's casual, upscale, or fine dining. Mention the size of your wine list and any special focus it might have, like local or international wines. Also, describe the atmosphere and customer base to give candidates a sense of the environment they'll be working in.
 

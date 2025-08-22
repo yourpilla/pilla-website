@@ -125,6 +125,12 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Catering Assistant, it is crucial to
+  clearly outline the physical demands of the position, such as standing for
+  long periods, moving quickly during peak hours, and lifting heavy items. Being
+  explicit about these requirements helps potential candidates assess if they
+  are well-suited for the role.
 ---
 When writing a job description for a Catering Assistant, it's important to clearly outline the physical demands of the job. This might include tasks like standing for long periods, moving quickly during busy times, and lifting heavy items. Being upfront about these requirements helps potential candidates understand if they're a good fit for the role.
 

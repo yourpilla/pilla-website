@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Head Chef job description should include responsibilities that cover all
+  aspects of kitchen operations.
 ---
 When writing a job description for a Head Chef, it's important to include responsibilities that cover the entire scope of kitchen operations. Typically, this includes menu planning, team management, and overseeing kitchen processes. This ensures candidates understand the breadth of the role and can gauge if they're a good fit.
 

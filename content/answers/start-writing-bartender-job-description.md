@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Begin your bartender job description by describing your bar's unique
+  atmosphere and the type of customer base it attracts.
 ---
 Begin by describing your bar's unique atmosphere and the type of customer base it attracts. This helps potential candidates understand the environment they might be working in and sets the tone for the rest of the job description.
 

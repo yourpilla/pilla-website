@@ -125,6 +125,12 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Bar Manager, consider including
+  nice-to-have skills such as craft beer or cocktail mixology knowledge, prior
+  event coordination experience, or advanced customer service skills. These
+  skills can help a Bar Manager excel by enhancing the quality of service and
+  customer experience at your bar.
 ---
 When writing a job description for a Bar Manager, it's useful to include skills that enhance their performance, even if they aren't essential from day one. These nice-to-have skills can include knowledge in craft beer or cocktail mixology, previous event coordination experience, or advanced customer service skills. These skills can help a Bar Manager excel in their role by adding value to your bar's service and customer experience.
 

@@ -124,6 +124,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Restaurant Assistant Manager job description should include a range of
+  duties that span administrative, operational, and customer service areas.
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to cover a range of duties that span across administrative, operational, and customer service areas. These responsibilities ensure the restaurant operates smoothly and maintains high standards of service. Key responsibilities typically include overseeing daily restaurant operations, managing staff, and ensuring customer satisfaction.
 

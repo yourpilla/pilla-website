@@ -124,6 +124,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Start your Bar Supervisor job description with a detailed and engaging venue
+  overview. Include the type of bar (e.g.
 ---
 When writing a job description for a Bar Supervisor, start with a clear and engaging overview of your venue. Include the type of bar, the style of service, and the unique atmosphere or culture. This helps potential candidates understand what makes your bar special and whether they might be a good fit.
 

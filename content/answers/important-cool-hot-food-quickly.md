@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Yes, it is essential to cool hot food rapidly to prevent bacteria from
+  growing.
 ---
 Yes, cooling hot food quickly is crucial to prevent the growth of bacteria. Bacterial spores can start to germinate and multiply if the food remains warm for too long. This can lead to foodborne illnesses. Foods should be cooled to below 20°C within 90 minutes to ensure safety.
 

@@ -121,6 +121,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To ascertain the freshness of poultry upon delivery, check for the following
+  attributes: The skin should be creamy in colour and free from blemishes or
+  bruises.
 ---
 When checking poultry deliveries, look for these key characteristics:
 

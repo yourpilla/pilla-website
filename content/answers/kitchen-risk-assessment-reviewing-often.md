@@ -105,6 +105,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  Your kitchen risk assessment should be reviewed at least once every 12 months
+  to account for any changes in operations or the environment that could affect
+  safety.
 ---
 It's essential to review your kitchen risk assessment at least once every 12 months. This regular check helps ensure that any changes in operations or the environment that could impact safety are accounted for. If you use a system like Pilla, it can remind you automatically, making it easier to stay on top of this important task.
 

@@ -119,6 +119,9 @@ breadcrumb_schema: |
 subtitle: 'Key responsibilities, qualifications and requirements'
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Concierge job description, it's crucial to be clear about the salary and
+  benefits to set the right expectations and attract the right candidates.
 ---
 When writing a Concierge job description, it's important to be clear about the salary and benefits. This helps set the right expectations and attracts suitable candidates. Always include the salary range or hourly rate, and detail any additional financial incentives like tips or bonuses. Also, describe non-monetary perks such as meals, discounts, or wellness programs.
 

@@ -117,6 +117,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If you don't have access to an alternative refrigeration unit during a
+  breakdown, you must use the affected food within 4 hours if the temperature
+  rises above 8°C.
 ---
 If you don't have access to another refrigeration unit, you'll need to use the affected food within 4 hours of it being exposed to temperatures above 8°C. If you can't use it within this 4-hour window, you must discard it.
 

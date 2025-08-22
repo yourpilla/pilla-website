@@ -119,6 +119,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  A front of house risk assessment in hospitality is a thorough process to
+  identify, evaluate, and address potential hazards in public-facing areas of
+  venues like restaurants or bars.
 ---
 A front of house (FOH) risk assessment in hospitality is a process used to identify, analyze, and manage potential risks in the public-facing areas of a restaurant, bar, or similar venue. This includes evaluating hazards that could affect customers and staff during service hours. The assessment aims to ensure safety and compliance with legal requirements by documenting hazards, assessing who might be harmed, and determining necessary control measures.
 

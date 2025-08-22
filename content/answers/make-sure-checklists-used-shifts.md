@@ -125,6 +125,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To ensure checklists are used during shifts, integrate them into the daily
+  routines by assigning clear responsibilities and making the checklist a
+  seamless part of the workflow.
 ---
 Ensuring checklists are used during shifts is all about making them a seamless part of the daily routine. Assign clear responsibilities and integrate the checklist into the workflow so it becomes a natural and essential part of each shift. This helps maintain high standards and consistency, no matter how busy it gets.
 

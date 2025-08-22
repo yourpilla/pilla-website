@@ -124,6 +124,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Chef de Partie job description should highlight clear career progression
+  paths, including potential promotions to roles like Sous Chef or Head Chef,
+  and opportunities for gaining additional responsibilities or leading a team.
+  It's also beneficial to mention the opportunities for developing new skills,
+  leading projects, or expanding into new culinary areas, showcasing the varied
+  paths for professional growth.
 ---
 When writing a job description for a Chef de Partie, it's important to highlight clear career progression paths. This could include potential promotions to senior roles like Sous Chef or Head Chef, and opportunities for gaining additional responsibilities or leading a team. Mentioning these opportunities can attract ambitious candidates who are looking for a place to grow professionally.
 

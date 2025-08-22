@@ -127,6 +127,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Hospitality businesses must ensure staff are comprehensively trained to
+  respond to terrorism threats under Martyn's Law.
 ---
 Under Martyn's Law, hospitality businesses must ensure their staff are well-trained to respond to terrorism threats. This involves comprehensive training that covers both awareness of suspicious behaviours and specific emergency procedures. The training should be regular and updated to keep pace with current threats, ensuring all staff from managers to front-line workers understand their roles during an emergency.
 

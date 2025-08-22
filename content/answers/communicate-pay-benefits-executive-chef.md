@@ -124,6 +124,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for an Executive Chef, clearly and upfront mention the
+  salary range or specific figures and list all additional benefits.
 ---
 When writing a job description for an Executive Chef, it's important to be clear and upfront about the salary and benefits. State the salary range or specific figures, and list all additional benefits clearly. This transparency helps set clear expectations and attracts the right candidates who are comfortable with the package offered.
 

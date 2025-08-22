@@ -77,6 +77,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  All training activities should be documented digitally using the designated
+  Training activity.
 ---
 All training activities need to be documented using the 'Training' activity in Pilla. This creates a digital record of your training completion. For each training session, photos of written registers should be uploaded, and any certificates from external training should be added to the content section. This documentation serves as your proof of completion.
 

@@ -119,6 +119,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To cook chicken livers safely, sauté them in batches for a minimum of 5
+  minutes or until the internal temperature is above 70°C for at least 2
+  minutes.
 ---
 To cook chicken livers safely, sauté them in batches for a minimum of 5 minutes or until their internal temperature is above 70°C for at least 2 minutes. This ensures that the livers are hot all the way through, effectively killing any harmful bacteria.
 

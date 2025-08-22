@@ -108,6 +108,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  To tailor barista responsibilities to suit your venue's needs, start by
+  listing daily tasks that align with your service style, customer interaction,
+  and operational pace.
 ---
 When creating a job description for a barista, it's essential to reflect the specific needs and style of your venue. Start by listing the daily tasks that are truly relevant to your setup. Think about your service style, customer interaction, and the pace of your venue. This ensures the responsibilities align with your actual operational needs.
 

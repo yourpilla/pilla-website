@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  The introduction of your Head Chef job description should provide a clear and
+  engaging overview of your venue.
 ---
 The introduction of your Head Chef job description should give a clear and engaging overview of your venue. Start by describing the type of culinary business you operate, the dining experience and culinary style you offer, and the vibe and values your kitchen embodies. This helps potential candidates quickly understand if they might be a good fit for your team.
 

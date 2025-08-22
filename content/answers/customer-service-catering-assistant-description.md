@@ -125,6 +125,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Catering Assistant, clearly specify the
+  required customer service skills.
 ---
 When writing a job description for a Catering Assistant, clearly outline the customer service skills required. Mention how they should interact with guests, manage inquiries, and handle any issues that arise. This helps potential candidates understand what will be expected from them in terms of guest interaction and service quality.
 

@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  A HACCP system identifies potential food safety issues and implements
+  preventative measures to avoid problems before they start, significantly
+  reducing the risk of food contamination and ensuring customer safety.
 ---
 A HACCP system helps you identify where things might go wrong with food safety and put steps in place to stop problems before they start. This means less chance of food contamination, keeping your customers safe and happy.
 

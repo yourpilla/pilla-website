@@ -114,6 +114,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  If you discover that the fridge temperature is above 8°C, you should
+  immediately take the following steps: (1) Check the actual food temperature
+  using a clean, sanitised probe thermometer.
 ---
 If you find a fridge temperature over 8°C, you need to take immediate action:
 

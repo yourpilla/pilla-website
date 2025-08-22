@@ -123,6 +123,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  If food has not reached the safe temperature, continue cooking it until it
+  does. Always use a food thermometer to accurately check the food's internal
+  temperature.
 ---
 If food hasn't reached the correct temperature to be safe, you should continue cooking it until it reaches the required temperature and duration. It's important to use a food thermometer to check the internal temperature of the food. Make sure you follow these steps to ensure food safety and compliance.
 

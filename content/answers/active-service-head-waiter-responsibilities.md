@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  The active service responsibilities of a Head Waiter in a job description
+  include leading the floor team, ensuring guest satisfaction, and managing the
+  service flow.
 ---
 When writing a job description for a Head Waiter, it's important to highlight their active roles during service. These include leading the floor team, ensuring guest satisfaction, and managing service flow. They are also responsible for addressing any issues that arise, such as guest complaints or unexpected changes in service demand.
 

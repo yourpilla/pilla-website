@@ -114,6 +114,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  In the kitchen hierarchy of a busy restaurant, the Sous Chef serves as the
+  second-in-command. Their duties extend beyond cooking; they assist the Head
+  Chef in managing the kitchen's daily operations.
 ---
 In a busy restaurant kitchen, the Sous Chef plays an important role as the second-in-command. They assist the Head Chef in various aspects of kitchen management, including menu planning, inventory control, and staff supervision. The Sous Chef helps ensure that every dish served meets the high standards of the restaurant.
 

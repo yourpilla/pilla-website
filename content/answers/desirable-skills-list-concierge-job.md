@@ -123,6 +123,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Concierge job description, include skills that enhance guest experiences
+  and streamline service delivery.
 ---
 When writing a job description for a Concierge, include skills that enhance guest experiences and streamline service delivery. Desirable skills often include strong communication abilities, proficiency with booking systems, and excellent organisational skills. These skills help Concierges manage guest requests efficiently and provide exceptional service.
 

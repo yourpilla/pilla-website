@@ -120,6 +120,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A sommelier job description should include responsibilities that are essential
+  to the role, such as possessing in-depth wine knowledge, providing exceptional
+  customer service, managing and updating the wine list effectively, and
+  expertise in wine pairing. A sommelier should also have the ability to educate
+  both staff and guests about wine selections, ensuring deep understanding and
+  enhancing the dining experience.
 ---
 When drafting a job description for a sommelier, it's crucial to include responsibilities that reflect the essential functions of the role. Key responsibilities should include in-depth wine knowledge, exceptional customer service, and the ability to manage and update a wine list effectively. Additionally, the sommelier should have expertise in wine pairing and the capability to educate staff and guests about wine selections.
 

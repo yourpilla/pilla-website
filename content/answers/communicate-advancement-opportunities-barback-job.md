@@ -124,6 +124,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a Barback job description, clearly mention any advancement
+  opportunities to show candidates the potential for career growth within your
+  establishment.
 ---
 When writing a Barback job description, it's important to clearly mention any advancement opportunities. This shows candidates that there is potential for career growth within your establishment. For example, you might include information about in-house training sessions, mentorship programs, or a path to higher positions like bartending or management roles.
 

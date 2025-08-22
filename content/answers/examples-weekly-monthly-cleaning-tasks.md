@@ -140,6 +140,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  Weekly and monthly kitchen cleaning tasks are crucial in a busy restaurant to
+  maintain safety and customer satisfaction.
 ---
 In a busy restaurant, keeping on top of cleaning is crucial for safety and customer satisfaction. Weekly tasks might include deep cleaning the kitchen floors and sanitising the restrooms thoroughly. Monthly tasks often involve cleaning areas that don't get daily attention, like the tops of shelves and behind large appliances.
 

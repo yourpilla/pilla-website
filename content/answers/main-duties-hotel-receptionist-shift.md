@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hotel management and guest services
+summary: >-
+  During a typical shift, a hotel receptionist is responsible for a range of
+  tasks to enhance guest experience.
 ---
 During a typical shift, a hotel receptionist manages a variety of tasks that ensure guests have a smooth and pleasant experience. These include welcoming guests, handling check-ins and check-outs, addressing guest queries, and maintaining the appearance and functionality of the reception area.
 

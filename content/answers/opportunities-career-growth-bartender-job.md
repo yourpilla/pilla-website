@@ -124,6 +124,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a bartender job description, prominently describe the advancement
+  opportunities available within your establishment.
 ---
 When writing a job description for a bartender, it's important to clearly describe the potential for career growth within your establishment. This not only attracts candidates who are looking for long-term opportunities but also shows that your venue invests in its staff. Mention specific advancement pathways like moving from a bartender to a senior bartender, or eventually to a bar manager, and highlight any training or development programs that support these progressions.
 

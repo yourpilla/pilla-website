@@ -141,6 +141,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  To update and improve your cleaning schedule, begin by assessing the current
+  effectiveness and gathering feedback from your team. Identify patterns in
+  missed tasks and areas needing additional focus.
 ---
 Updating your cleaning schedule is key to maintaining high standards in your hospitality business. Start by reviewing the current effectiveness and gather feedback from your team. Look for patterns in missed tasks and areas that need more attention, then adjust the schedule accordingly to cover all necessary aspects of cleanliness.
 

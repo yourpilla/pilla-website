@@ -115,6 +115,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  The Rotisseur, also known as the Roast Chef, is responsible for roasting meats
+  and vegetables and creating sauces to complement these dishes.
 ---
 The Rotisseur, also known as the Roast Chef, is primarily responsible for roasting meats and vegetables and preparing appropriate sauces to accompany these dishes. This chef ensures that meat cuts are properly prepared, selects suitable oils and spices to enhance the flavours, and delivers perfectly roasted dishes that meet the restaurant's high standards. Their role is crucial for maintaining the quality of the restaurant’s dishes.
 

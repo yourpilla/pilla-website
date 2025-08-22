@@ -123,6 +123,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a Hotel General Manager, include the salary range,
+  potential performance bonuses, and benefits such as health insurance, pension
+  plans, and discounts on hotel services.
 ---
 When writing a job description for a Hotel General Manager, it's important to be clear about the salary range, bonuses, and benefits. This transparency helps attract the right candidates and sets clear expectations. Include details such as the base salary, potential for performance bonuses, and any benefits like health insurance, pension plans, or discounts on hotel services.
 

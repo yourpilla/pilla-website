@@ -123,6 +123,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a Hotel Receptionist, begin with a brief
+  overview of your hotel, detailing compensation and benefits to attract
+  suitable candidates.
 ---
 When writing a job description for a Hotel Receptionist, start by giving a brief overview of your hotel. Then, list the core responsibilities, required skills, necessary experience, and personality traits you're looking for. Don’t forget to include details about compensation and benefits to attract the right candidates. This approach helps potential applicants understand what the job entails and whether they might be a good fit.
 

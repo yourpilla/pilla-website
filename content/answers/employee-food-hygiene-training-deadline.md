@@ -79,6 +79,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  New staff must complete food hygiene training before handling any food. This
+  initial training ensures they understand basic food hygiene practices and can
+  work safely from day one.
 ---
 New staff must complete food hygiene training before they start handling any food. This initial training ensures they understand basic food hygiene practices and can work safely from their first day. Even if they have previous experience, they need to demonstrate they have valid certifications before starting.
 

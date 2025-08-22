@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Restaurant Manager job description should include core managerial
+  responsibilities that ensure effective daily operations, staff management, and
+  financial oversight.
 ---
 When writing a job description for a Restaurant Manager, include responsibilities that cover daily operations, staff management, and financial oversight. These should reflect the specific needs of your restaurant to ensure the manager can handle all aspects of running the establishment effectively.
 

@@ -122,6 +122,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To reflect your company culture in a Catering Assistant job description, start
+  by describing the work atmosphere, team dynamics, and core values.
 ---
 When writing a job description for a Catering Assistant, it's essential to convey your company's culture to attract candidates who will thrive in your environment. Start by describing the work atmosphere, team dynamics, and core values. For example, if your team is dynamic and fast-paced, highlight how staff members support each other and manage high-energy events successfully.
 

@@ -131,6 +131,14 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  When interviewing a Barista, aim to ask questions that probe their real-world
+  skills and attitude, such as their experience with customer service, ability
+  to manage busy periods, teamwork, and coffee-making skills. Asking questions
+  like, 'Tell me about a time you turned an unhappy customer into a regular
+  guest. What did you do?', provides insights into their customer service skills
+  and problem-solving approach. It is essential to balance technical questions
+  with those that assess service and teamwork skills.
 ---
 When interviewing a Barista, it's key to ask questions that reveal their real-world skills and attitude. Focus on their experience with customer service, their ability to handle busy periods, teamwork, and their coffee making skills. For instance, you might ask, "Tell me about a time you turned an unhappy customer into a regular guest. What did you do?" This type of question helps you understand their approach to customer service and problem-solving.
 

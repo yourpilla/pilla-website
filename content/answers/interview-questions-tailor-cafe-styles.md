@@ -131,6 +131,9 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To tailor interview questions effectively for different café styles, consider
+  the specific pace and challenges of each environment.
 ---
 When interviewing baristas, it's crucial to ask questions that reflect the specific style and pace of your café. This means focusing on the real-world challenges they'll face in your environment. For example, if your café is fast-paced, ask about their ability to handle high volumes of orders quickly. If it's more artisan or focused on customer interaction, inquire about their knowledge of coffee and their ability to engage with customers.
 

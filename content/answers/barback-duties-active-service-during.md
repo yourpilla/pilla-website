@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  During busy service periods, barbacks are essential in supporting the bar's
+  operations.
 ---
 During a busy service, barbacks play a crucial role in maintaining the flow and efficiency of the bar. Their responsibilities include fetching spirits and mixers for bartenders, changing kegs, restocking refrigerators, maintaining the cleanliness of the bar counter, and washing glassware. This ensures that bartenders can focus on serving customers without interruption.
 

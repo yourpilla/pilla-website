@@ -140,6 +140,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  A kitchen cleaning schedule is essential for ensuring the kitchen is safe,
+  hygienic, and pleasant for cooking and dining.
 ---
 A kitchen cleaning schedule is a plan that helps staff know when and how to clean different areas and equipment in the kitchen. This ensures that the kitchen remains safe, hygienic, and pleasant for both cooking and dining. Without a schedule, important tasks might be forgotten or done poorly.
 

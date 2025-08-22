@@ -122,6 +122,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a hotel receptionist, clarify the level of
+  experience required, whether it's for an entry-level, mid-level, or a position
+  requiring advanced expertise.
 ---
 When writing a job description for a hotel receptionist, it's important to clearly state the experience required. This helps ensure that you attract candidates who are capable of handling the responsibilities of the job. Consider whether the role is entry-level, mid-level, or requires advanced experience, and specify the nature of the experience needed, such as familiarity with hotel management systems or guest service expertise.
 

@@ -114,6 +114,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  A Commis Chef, also known as a junior chef, is a key member of a professional
+  kitchen.
 ---
 A Commis Chef, often known as a junior chef, is important in a professional kitchen, helping senior chefs by performing basic cooking tasks. Their responsibilities include preparing ingredients, such as washing, peeling, cutting, and measuring foods. They also assist in basic cooking under supervision, learning the ropes of more complex culinary skills. This role is fundamental for anyone starting out in the culinary world, providing a solid foundation in kitchen operations.
 

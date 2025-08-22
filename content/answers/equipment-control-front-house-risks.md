@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To effectively manage risks in the front of house areas of hospitality
+  settings, choose equipment designed for safety.
 ---
 Choosing the right equipment is key to managing risks in the front of house areas of hospitality settings. Equipment like sturdy trays, lighter glassware, slip-resistant shoes, and drop-proof POS stands can significantly reduce the likelihood of accidents and injuries.
 

@@ -123,6 +123,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a Commis Chef, define the level of
+  experience required clearly. Determine if you need a trainee, someone with
+  mid-level experience, or a senior chef.
 ---
 When writing a job description for a Commis Chef, it's important to clearly define the level of experience needed. This helps ensure that the candidates who apply are well-suited for the role and understand what is expected of them. Specify whether you're looking for a trainee, someone with mid-level experience, or a senior chef, and describe the type of kitchen exposure required.
 

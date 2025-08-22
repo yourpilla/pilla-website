@@ -129,6 +129,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  A HACCP plan specifically focuses on identifying and controlling critical
+  points in the food production process to prevent safety hazards.
 ---
 A HACCP plan focuses on identifying and controlling critical points in the food production process to prevent safety hazards. A Food Safety Management System (FSMS) is a broader set of procedures that includes the HACCP plan but also covers other daily operational practices like personal hygiene and pest control. Essentially, while HACCP is about critical control points, FSMS is about the overall management of food safety.
 

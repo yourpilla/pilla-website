@@ -124,6 +124,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a Commis Chef, it's vital to describe the
+  kitchen environment in detail.
 ---
 When writing a job description for a Commis Chef, it's important to clearly describe your kitchen's environment. This includes the type of restaurant, the culinary style, and what it's like to work in your kitchen. This helps potential candidates understand if they'll fit well with your team and operations.
 

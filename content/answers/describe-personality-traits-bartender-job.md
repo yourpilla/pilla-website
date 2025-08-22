@@ -122,6 +122,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a bartender job description, emphasise personality traits
+  essential to your bar's team and venue.
 ---
 When writing a job description for a bartender, it's important to clearly describe the personality traits that will fit well with your team and venue. Start by thinking about the traits that make your best team members successful and the overall atmosphere of your bar. Use specific adjectives and examples to paint a clear picture of the type of person you're looking for.
 

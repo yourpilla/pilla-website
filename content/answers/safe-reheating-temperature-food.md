@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  To ensure food safety, reheated foods must reach a core temperature that is
+  high enough to effectively kill harmful bacteria.
 ---
 To ensure food safety, reheated foods must reach a temperature that is high enough to kill harmful bacteria and reduce them to safe levels. The safe core temperature for reheated food is generally 75°C, but this can vary depending on local regulations.
 

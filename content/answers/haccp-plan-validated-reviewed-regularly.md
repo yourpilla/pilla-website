@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Regular validation and review of a HACCP plan are crucial to ensure the
+  effectiveness and relevance of food safety measures.
 ---
 Regular validation and review of a HACCP plan are essential to ensure that food safety measures remain effective and up to date. This process checks that the plan is scientifically and technically sound, and that it effectively controls identified hazards. It's like a regular health check-up for your food safety system, catching potential problems before they affect your customers.
 

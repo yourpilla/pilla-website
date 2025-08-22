@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Commis Chef job description, it's essential to highlight personality
+  traits that match the kitchen's pace and atmosphere.
 ---
 When writing a job description for a Commis Chef, it's crucial to highlight specific personality traits that align with your kitchen's atmosphere and pace. Traits like adaptability, resilience under pressure, and a positive attitude can help ensure a good fit within your team. For example, in a high-pressure, fast-paced kitchen, you might look for someone who remains calm and efficient during busy times.
 

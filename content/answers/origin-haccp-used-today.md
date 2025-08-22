@@ -117,6 +117,10 @@ breadcrumb_schema: |
 subtitle: Professional guidance and industry best practices
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  HACCP, which stands for Hazard Analysis and Critical Control Point, was
+  created in the 1960s by the Pillsbury Company alongside NASA. Its initial
+  purpose was to secure food safety for space missions.
 ---
 
 The required section referencing and linking to templates and internal guides at yourpilla.com has been successfully removed from the FAQ page HTML. If you have any more modifications or another task, feel free to let me know!

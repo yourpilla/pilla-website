@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To cook whole cuts of meat safely, seal the outside by cooking at high
+  temperatures to kill bacteria on the surface.
 ---
 To cook whole cuts of meat safely, ensure that the outside is fully sealed by cooking at high temperatures. This process kills any bacteria present on the surface of the meat. It's also crucial to use a food thermometer to check that the meat has reached the appropriate internal temperature for safe consumption.
 

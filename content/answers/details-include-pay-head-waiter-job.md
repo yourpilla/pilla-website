@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a Head Waiter, clearly state the salary range,
+  including any bonuses and benefits.
 ---
 When writing a job description for a Head Waiter, it's important to clearly state the salary range. Include any bonuses or benefits that are part of the compensation package. This helps potential candidates understand their earnings and assess if the job meets their financial needs.
 

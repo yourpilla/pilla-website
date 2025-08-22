@@ -126,6 +126,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Training new team members on completing checklists is vital for ensuring
+  understanding and accurate performance of tasks.
 ---
 Training new team members on completing checklists is crucial to ensure they understand each task's importance and how to perform it correctly. Start by walking them through each item on the checklist, showing them what a properly completed task looks like, and explaining why it's necessary. This hands-on approach helps them grasp the standards expected in your kitchen.
 

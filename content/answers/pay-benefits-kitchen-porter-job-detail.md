@@ -119,6 +119,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a Kitchen Porter, it is important to
+  clearly state the salary, whether it is hourly or salary-based, and list all
+  benefits such as health insurance, paid time off, or meal discounts.
+  Transparency in outlining the total compensation package including all perks
+  enhances the appeal of the position and attracts candidates who value clarity
+  and security in their employment.
 ---
 When writing a job description for a Kitchen Porter, it's important to clearly state the salary and any benefits. Include the base pay and mention whether it's hourly or salary. Also, list any benefits like health insurance, paid time off, or meal discounts. Being transparent about these details helps attract candidates who are looking for clarity and security in their job choice.
 

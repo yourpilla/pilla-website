@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If the blast chiller stops working, quickly switch to alternative cooling
+  methods to ensure food safety.
 ---
 If your blast chiller stops working, you need to switch to alternative cooling methods quickly to keep food safe. Use methods like spreading food out to increase surface area, stirring liquids, or using ice water baths to cool food rapidly. Remember, food must reach a safe temperature within 90 minutes to prevent bacteria growth.
 

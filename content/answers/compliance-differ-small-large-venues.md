@@ -127,6 +127,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Under Martyn's Law, the compliance requirements differ based on the venue
+  size.
 ---
 Under Martyn's Law, the compliance requirements for hospitality venues vary based on their size. Small venues (with a capacity of 200-799 people) have less stringent requirements compared to large venues (800+ people). Small venues focus on basic, cost-effective security measures and emergency procedures, while large venues must implement more comprehensive security measures and document their security plans in detail.
 

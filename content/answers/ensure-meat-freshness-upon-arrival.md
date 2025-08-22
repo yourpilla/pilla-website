@@ -112,6 +112,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To determine if meat is fresh upon delivery, look for these signs of
+  freshness: (1) An even red/brown colour on all meat surfaces. (2) Moistness to
+  the touch but not slimy.
 ---
 When checking meat deliveries, there are several key signs of freshness to look for:
 

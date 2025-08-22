@@ -114,6 +114,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Over time, holding food at hot temperatures can reduce both its safety and
+  quality. Extended periods of hot holding can allow bacteria to grow,
+  increasing the risk of foodborne illnesses.
 ---
 Holding food at hot temperatures over time can affect both its safety and quality. The longer food is kept hot, the more likely it is for harmful bacteria to grow, especially if the temperature isn't high enough. This can lead to foodborne illnesses. Additionally, extended hot holding can degrade the quality of food, making it dry, overcooked, or less flavourful.
 

@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hotel management and guest services
+summary: >-
+  Effective personality traits for a hotel receptionist include being calm under
+  pressure, organised, and having a teamwork-centric attitude.
 ---
 For a hotel receptionist, the right personality traits are key to success. Traits like being calm under pressure, organised, and having a teamwork-centric attitude help in managing the busy environment of a hotel reception. These traits ensure that guests are welcomed warmly and efficiently, contributing to a positive guest experience.
 

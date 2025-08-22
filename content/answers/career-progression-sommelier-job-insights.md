@@ -122,6 +122,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When detailing career progression in a sommelier job description, it is vital
+  to outline the growth opportunities within the establishment.
 ---
 When writing a job description for a sommelier, it's important to clearly outline the career progression opportunities available within your establishment. This helps attract candidates who are not just looking for a job, but a career path. Mention specific training programs, potential for promotions, and any unique opportunities like international wine tours or advanced certification support.
 

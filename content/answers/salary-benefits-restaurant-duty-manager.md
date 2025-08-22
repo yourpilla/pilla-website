@@ -123,6 +123,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a Restaurant Duty Manager, clearly state the salary,
+  preferably as a range, e.g., £28,000 - £32,000 per annum, plus service charge
+  allocation.
 ---
 When writing a job description for a Restaurant Duty Manager, it's important to be clear about the salary and benefits. State the exact salary or a reasonable range, such as £28,000 - £32,000 per annum, plus service charge allocation. Include other benefits like holiday entitlements, training opportunities, and meal discounts to make the role more attractive.
 

@@ -122,6 +122,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To identify and list the right skills for a Barback role, start by reviewing
+  the daily responsibilities of the position.
 ---
 When you're setting up a job description for a Barback, it's crucial to think about the specific tasks they'll be doing. Start by reviewing the daily responsibilities and then think about what skills are needed to perform these tasks well. For example, if the Barback needs to quickly restock items during busy periods, they'll need good organisational and time management skills.
 

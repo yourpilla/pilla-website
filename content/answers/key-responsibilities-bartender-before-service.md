@@ -122,6 +122,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  During active service, a bartender is responsible for creating drinks, taking
+  orders, and managing the bar area.
 ---
 During active service, a bartender is mainly responsible for creating drinks, engaging with customers, and managing the bar area efficiently. They mix and serve both alcoholic and non-alcoholic beverages, take orders, and ensure that customers are satisfied with their service. It's a busy time where speed and accuracy are key.
 

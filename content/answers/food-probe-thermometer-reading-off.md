@@ -117,6 +117,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If your probe thermometer shows a discrepancy of more than 1 degree during
+  calibration, follow these steps: (1) Have the head chef verify the reading to
+  confirm the discrepancy.
 ---
 If your probe thermometer shows a reading that's off by more than 1 degree during calibration testing, you'll need to take these steps:
 

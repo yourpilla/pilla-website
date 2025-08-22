@@ -125,6 +125,10 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  The introduction of a Waiter/Waitress job description should describe the
+  restaurant’s atmosphere, work pace, and culture to set clear expectations for
+  potential candidates.
 ---
 The introduction of a Waiter/Waitress job description should set the scene for potential candidates. It's important to describe your restaurant’s atmosphere, the pace of work, and the culture. This helps candidates understand what to expect and whether they'd be a good fit. Start by mentioning the type of dining venue, the style of service, and unique aspects of your workplace environment.
 

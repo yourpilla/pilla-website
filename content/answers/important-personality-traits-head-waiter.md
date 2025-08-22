@@ -122,6 +122,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When hiring a Head Waiter, it is essential to look for someone who remains
+  calm under pressure, displays excellent guest communication skills, and can
+  effectively lead a team.
 ---
 When hiring a Head Waiter, look for someone who is calm under pressure, has excellent guest communication skills, and can lead a team effectively. These traits ensure they can manage the dining floor smoothly and handle any service issues that arise.
 

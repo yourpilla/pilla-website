@@ -122,6 +122,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a bartender, it's important to include
+  details about the specific training that will be provided.
 ---
 When writing a job description for a bartender, it's important to mention specific training that will be provided. This includes mixology training, customer service techniques, and any other relevant skills development. Mentioning training not only sets clear expectations but also attracts candidates who are eager to learn and grow in their roles.
 

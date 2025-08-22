@@ -119,6 +119,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To evaluate risks in the front of house of a restaurant, conduct walkthroughs
+  during different service times to observe interactions between staff and
+  customers.
 ---
 When evaluating risks in your restaurant's front of house, walk through the area during various service times to observe how staff and customers interact. This helps you spot potential hazards that could lead to accidents or injuries. Consider factors like floor conditions, equipment layout, and customer flow. It's crucial to assess both the likelihood of an incident occurring and the potential severity of the outcome if it does happen.
 

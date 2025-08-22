@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a Restaurant Duty Manager, specify the required level
+  of experience as entry-level, mid-level, or senior-level based on the role's
+  responsibilities and expectations.
 ---
 When writing a job description for a Restaurant Duty Manager, it's important to specify the level of experience required. This helps to attract candidates who are well-suited for the role. You should decide if the position is suitable for someone at an entry-level, mid-level, or senior-level based on the responsibilities and expectations of the role.
 

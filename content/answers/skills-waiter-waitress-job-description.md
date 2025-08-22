@@ -124,6 +124,12 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for waitstaff, include essential skills such as
+  customer service and interpersonal communication, order accuracy and speed,
+  familiarity with POS and billing systems, teamwork, organisation, and handling
+  customer complaints. Tailor these skills to the needs of your restaurant's
+  service style and customer base.
 ---
 When writing a job description for Waitstaff, focus on skills that are essential for daily operations in your specific restaurant environment. Include customer service and interpersonal communication, order accuracy and speed, familiarity with POS and billing systems, teamwork, organisation, and handling customer complaints. Tailor these skills to reflect the unique demands of your service style and customer base.
 

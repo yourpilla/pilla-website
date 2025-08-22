@@ -122,6 +122,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Catering Assistant job description, it's important to highlight the
+  centrality of teamwork.
 ---
 In your job description, it's important to highlight how teamwork is central to the role of a Catering Assistant. Describe scenarios where teamwork is essential, such as during event setups or when managing multiple tasks simultaneously. Make it clear that being a good team player will involve supporting colleagues, sharing responsibilities, and communicating effectively to ensure smooth operations.
 

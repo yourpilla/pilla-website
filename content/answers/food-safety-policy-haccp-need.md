@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Your food safety policy should clearly outline your commitment to the Hazard
+  Analysis and Critical Control Points (HACCP) system by detailing how hazards
+  will be identified, evaluated, and controlled.
 ---
 Your food safety policy should clearly outline your commitment to the Hazard Analysis and Critical Control Points (HACCP) system. This means stating how you will identify, evaluate, and control hazards that could impact food safety. The policy should detail the processes for monitoring critical control points, corrective actions to be taken when necessary, and the responsibilities of team members in maintaining HACCP standards.
 

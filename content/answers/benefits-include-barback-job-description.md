@@ -106,6 +106,13 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Barback job description, it's beneficial to include a range of attractive
+  and relevant benefits such as competitive pay rates, tips, complimentary meals
+  during shifts, paid leave, and opportunities for training and advancement.
+  Additionally, emphasising the inclusion of non-monetary benefits like flexible
+  schedules and team bonding events can enhance job attractiveness and employee
+  satisfaction.
 ---
 When writing a job description for a Barback, it's important to include benefits that are attractive and relevant to the role. Benefits can range from financial compensation to lifestyle perks. Common examples include competitive pay rates, tips, complimentary meals during shifts, paid leave, and opportunities for training and advancement.
 

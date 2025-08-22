@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Monitoring critical control points (CCPs) is crucial in the HACCP system to
+  ensure food safety.
 ---
 Monitoring critical control points (CCPs) is a key step in the HACCP system to ensure food safety. It involves regularly checking these points to confirm that they are under control and that the food being produced is safe to eat. This could include measuring temperatures, timings, or using specific equipment to test conditions.
 

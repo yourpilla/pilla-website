@@ -124,6 +124,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Restaurant Assistant Manager, clearly
+  outline the customer service expectations.
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly outline the customer service expectations. This includes detailing how they should interact with guests, manage service quality, and ensure guest satisfaction. Start by describing the standard of service your restaurant aims for, and how the Assistant Manager will uphold and enhance this standard.
 

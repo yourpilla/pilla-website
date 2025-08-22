@@ -124,6 +124,9 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  The right interview structure for hiring a Barista depends on your café's
+  style of service, the role's seniority, and specific necessities.
 ---
 Choosing the right interview structure for hiring a Barista depends on your café's service style, the role's seniority, and your specific needs. Common structures include a simple structure for quick hires, a full interview structure for most hires, and an extended structure for senior or lead Baristas.
 

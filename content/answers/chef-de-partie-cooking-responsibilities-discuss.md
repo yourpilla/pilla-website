@@ -123,6 +123,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When detailing the cooking responsibilities for a Chef de Partie, focus on the
+  specific tasks they will handle during service.
 ---
 When detailing the cooking responsibilities for a Chef de Partie, focus on the specific tasks they will handle during service. This includes preparing dishes to the restaurant's standards, coordinating with other station chefs for smooth service, and maintaining hygiene standards throughout food preparation. It's also important to mention any support they might provide to junior station chefs.
 

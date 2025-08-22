@@ -119,6 +119,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  To manage pre-service tasks effectively in a sommelier role, use a clear
+  checklist that includes verifying wine stock, preparing the wine station, and
+  reviewing the day's menu for pairing suggestions.
 ---
 To manage pre-service tasks effectively, it's important to have a clear checklist that your sommelier can follow. This should include tasks like verifying wine stock, preparing the wine station, and reviewing the day's menu for pairing suggestions. Having a structured approach ensures nothing is overlooked and the sommelier is fully prepared for service.
 

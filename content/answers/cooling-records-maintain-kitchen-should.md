@@ -121,6 +121,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  In the kitchen, it is important to maintain detailed cooling records for all
+  types of food to ensure food safety.
 ---
 In your kitchen, it's important to keep detailed records of the cooling times and temperatures for all types of food. This helps ensure food safety and compliance with health regulations. Record the start and end times of cooling, the temperatures at these times, the type of food, and who performed the cooling.
 

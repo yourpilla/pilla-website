@@ -122,6 +122,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When listing core responsibilities for a Commis Chef, be clear and detailed.
+  Break down daily tasks into categories such as preparation, service, and
+  closing.
 ---
 When listing core responsibilities for a Commis Chef, it's key to be clear and detailed. Start by breaking down the daily tasks into categories like preparation, service, and closing. This helps candidates understand what is expected of them and reflects the specific needs of your kitchen. For example, you might include tasks such as preparing ingredients, assisting during service, and cleaning up afterwards.
 

@@ -124,6 +124,11 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a Catering Assistant, clearly outline the
+  pay specifics, whether it's hourly or salaried, and detail any additional
+  benefits like meals, health support, or paid leave. Provide specific pay rates
+  to set clear expectations and attract suitable candidates.
 ---
 When writing a job description for a Catering Assistant, it's important to clearly outline the pay and any additional benefits. This helps set clear expectations and attracts candidates who are a good fit. Include specific pay rates, whether it’s hourly or salaried, and list any benefits like meals, health support, or paid leave.
 

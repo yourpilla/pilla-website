@@ -127,6 +127,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Hospitality operators should stay informed about Martyn's Law by regularly
+  checking official websites like GOV.UK and ProtectUK, and subscribing to
+  updates from relevant authorities.
 ---
 Staying informed about Martyn's Law is crucial for hospitality operators to ensure compliance and enhance the safety of their venues. Regularly checking official websites and subscribing to updates from relevant authorities can keep you up-to-date with the latest information and guidelines.
 

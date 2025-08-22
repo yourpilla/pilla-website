@@ -121,6 +121,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a Restaurant Manager, clarify if the
+  position is salaried or hourly, and provide a specific salary range or hourly
+  rate.
 ---
 When writing a job description for a Restaurant Manager, it's important to be clear about the pay structure. You should specify whether the position is salaried or paid hourly, and provide a specific salary range or hourly rate. This transparency helps potential candidates understand what they can expect and decide if the job fits their financial needs.
 

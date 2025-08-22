@@ -121,6 +121,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  When a supplier substitutes products, it is important that the changes are
+  clearly documented in writing. Verbal notifications are not acceptable.
 ---
 When suppliers substitute products, it's crucial that they clearly indicate these changes in writing - verbal notifications are not acceptable. Any product substitutions must be mutually agreed upon and communicated via email or written documentation. This is particularly important for allergen management, as your allergen files and matrix may need to be updated.
 

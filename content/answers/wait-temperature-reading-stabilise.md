@@ -117,6 +117,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  When using a probe thermometer, you should wait until the temperature reading
+  stabilises for at least 10 seconds before taking your final reading. This
+  delay ensures an accurate measurement.
 ---
 When using a probe thermometer, you need to wait until the temperature reading remains static for at least 10 seconds before taking your reading. This ensures you get an accurate measurement.
 

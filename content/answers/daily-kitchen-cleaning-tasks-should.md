@@ -139,6 +139,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  Daily kitchen cleaning tasks should include wiping down all surfaces, cleaning
+  the floors, and sanitizing equipment that contacts food.
 ---
 Daily kitchen cleaning tasks should include wiping down all surfaces, cleaning the floors, and sanitising equipment that comes into contact with food. It's important to also focus on areas that might be overlooked, like door handles and light switches, to maintain a hygienic environment.
 

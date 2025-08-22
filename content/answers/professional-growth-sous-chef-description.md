@@ -123,6 +123,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Yes, it is very important to include long-term professional growth
+  opportunities in a Sous Chef job description.
 ---
 Yes, including long-term professional growth opportunities in a Sous Chef job description is very important. It not only attracts candidates who are looking for a place to develop their skills but also shows that your kitchen values progression and personal development. This can help you attract ambitious chefs who are eager to advance their careers.
 

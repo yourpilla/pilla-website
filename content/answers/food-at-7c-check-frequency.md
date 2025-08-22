@@ -106,6 +106,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  When food is stored in a fridge and the temperature is between 6-8°C, it
+  should be checked hourly to ensure it doesn't exceed 8°C.
 ---
 When food temperature is between 6-8°C, you need to monitor it hourly to ensure it doesn't exceed 8°C. This is because 8°C is the critical limit - if food goes above this temperature, you'll need to take immediate corrective action.
 

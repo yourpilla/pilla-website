@@ -121,6 +121,14 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Kitchen Porter job description, it is helpful to mention potential
+  advancement opportunities within your kitchen or restaurant, such as
+  progressing to roles like a kitchen supervisor or chef assistant. Highlighting
+  these paths shows candidates there are opportunities for career development,
+  which makes the role more appealing. It's also beneficial to clarify that
+  growth can encompass skills development in team leadership, inventory
+  management, or specialising in health and safety protocols.
 ---
 When writing a job description for a Kitchen Porter, it's helpful to mention potential growth opportunities within your kitchen or restaurant. Highlight possibilities like advancing to higher roles such as kitchen supervisor or chef assistant, especially if your kitchen encourages internal promotions. This shows candidates that there are paths for progression, making the role more appealing.
 

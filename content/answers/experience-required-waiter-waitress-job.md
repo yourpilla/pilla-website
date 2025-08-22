@@ -124,6 +124,10 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a waiter or waitress, clearly define the experience
+  level required. Indicate whether the position is entry-level, mid-level, or
+  senior.
 ---
 When writing a job description for a waiter or waitress, it's important to clearly define the level of experience needed. This helps to attract the right candidates and ensures they are capable of meeting the demands of the role. Consider whether the role is entry-level, mid-level, or senior, and specify the type of dining environment they should be familiar with.
 

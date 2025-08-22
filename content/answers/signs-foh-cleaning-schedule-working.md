@@ -138,6 +138,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  If your front of house appears clean but customers or staff report issues,
+  this may suggest a problem with your cleaning schedule.
 ---
 When your front of house (FOH) looks clean but customers or staff start noticing issues, it might mean your cleaning schedule needs a check. Look for signs like tasks being skipped, complaints about cleanliness, or visible dirt on supposedly clean surfaces. These are red flags that your current system isn't keeping up.
 

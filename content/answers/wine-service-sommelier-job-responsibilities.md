@@ -120,6 +120,14 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Typical responsibilities of a sommelier include selecting and purchasing
+  wines, managing the wine cellar, serving wines correctly, creating wine lists
+  that complement the menu, advising guests on wine pairings, and conducting
+  wine tastings or training sessions for staff. This role requires a broad set
+  of skills beyond extensive wine knowledge, including inventory management,
+  proper storage, and superior guest interaction to enhance the dining
+  experience.
 ---
 In a sommelier's job, the main responsibilities include selecting and purchasing wines, managing the wine cellar, and ensuring wines are served correctly. They also create wine lists that complement the menu, advise guests on the best wine pairings, and sometimes even conduct wine tastings or training sessions for other staff members.
 

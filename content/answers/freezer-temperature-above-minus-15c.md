@@ -120,6 +120,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  If your freezer temperature rises above -15°C, follow these steps: 1. Wait one
+  hour and check the temperature again. 2. If it remains above -15°C, move all
+  food to another freezer. 3.
 ---
 If your freezer temperature rises above -15°C, here's what you need to do:
 

@@ -113,6 +113,13 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If the duration of the fridge outage overnight is unknown and you cannot
+  verify that the food temperature has remained below 8°C using a probe
+  thermometer, it is safer to discard all the food and record it as waste.
+  However, if the temperature checks confirm the food is below 8°C, you can
+  safely transfer it to another working fridge. This approach prevents
+  unnecessary waste while ensuring compliance with food safety standards.
 ---
 If you're unsure how long the fridge has been broken down overnight, you should discard all the food and record it as waste. However, if you can verify the food temperature is still below 8°C using a probe thermometer, you can safely transfer it to another working fridge.
 

@@ -124,6 +124,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Catering Assistant, specify experience
+  based on the needs of your catering service.
 ---
 When writing a job description for a Catering Assistant, it's important to specify the type of experience that matches the needs of your catering service. This helps ensure that the candidates understand what is expected of them and whether they meet the criteria. For example, if your service involves high-volume event catering, you might require experience in a similar fast-paced environment.
 

@@ -114,6 +114,13 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  You can identify damage in a food probe thermometer by looking for bending or
+  physical damage to the probe tip, cracks in the display screen, a foggy or
+  leaked interior, inconsistent or unstable readings, and scale markings that
+  are difficult to read. If you observe any of these issues, immediately take
+  the probe out of service and arrange for a replacement, recording all issues
+  as a comment on a task.
 ---
 There are several key signs to look out for that indicate your probe thermometer might be damaged:
 

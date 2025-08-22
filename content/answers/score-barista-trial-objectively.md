@@ -130,6 +130,9 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  To score a Barista trial objectively, use a structured scoring system with a
+  simple scorecard.
 ---
 When you're running a Barista trial, it's important to use a structured scoring system. This helps you fairly assess each candidate's skills and attitude. Use a simple scorecard where you can rate various aspects like espresso making, milk handling, cleanliness, and customer interaction. Each category should have a clear pass or needs improvement option.
 

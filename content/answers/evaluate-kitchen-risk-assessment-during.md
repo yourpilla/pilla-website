@@ -113,6 +113,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  To evaluate risks during a kitchen risk assessment, consider the likelihood of
+  someone getting hurt and the severity of a potential injury.
 ---
 When you're assessing risks in the kitchen, think about how likely it is that someone could get hurt and how serious the injury could be. This helps you decide which risks need the most attention and what actions you should take to prevent accidents.
 

@@ -110,6 +110,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a barista job description, you should clearly outline the pay
+  and benefits.
 ---
 When writing a job description for a barista, it's important to be very clear about the pay and any benefits. Include the exact pay rate or a realistic range, and list any additional perks like tips, paid breaks, or staff meals. This transparency helps attract the right candidates and sets clear expectations from the start.
 

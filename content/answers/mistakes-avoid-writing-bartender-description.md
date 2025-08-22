@@ -123,6 +123,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a Bartender, be clear and specific. Avoid
+  using vague terms and clearly outline the actual responsibilities and skills
+  required.
 ---
 When writing a job description for a Bartender, it's crucial to be clear and specific. Avoid vague terms and ensure you outline the actual responsibilities and skills needed. This helps attract the right candidates who are a good fit for your bar's environment and service style.
 

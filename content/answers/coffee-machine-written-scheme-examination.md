@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If your coffee machine uses steam under pressure, such as most commercial
+  espresso machines, it likely requires a Written Scheme of Examination (WSE).
 ---
 If your coffee machine uses steam under pressure, such as most commercial espresso machines, it likely requires a Written Scheme of Examination (WSE). This is a legal requirement under the Pressure Systems Safety Regulations 2000 (PSSR) to ensure the machine is safe to operate.
 

@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  You should conduct weekly checks on the freezer's condensers, vents, seals,
+  and lids to ensure they are clean and in good condition.
 ---
 You should perform weekly checks of condensers, vents, seals, and lids to ensure they're clean and in good condition. A deep clean should be done regularly to remove any dirt or debris that could affect airflow or food quality.
 

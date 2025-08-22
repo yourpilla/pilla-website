@@ -125,6 +125,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To define responsibilities clearly in a Bar Manager job description,
+  categorise the tasks into daily and weekly duties across managing, service,
+  and administrative areas.
 ---
 To define responsibilities clearly in a Bar Manager job description, break down the tasks into daily and weekly duties across managing, service, and administrative areas. This approach ensures that the role's expectations are clear and realistic, reflecting the actual needs of your venue.
 

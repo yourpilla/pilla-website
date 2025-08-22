@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A sommelier's post-service tasks are essential for maintaining the quality and
+  readiness of the wine service.
 ---
 After service, a sommelier's tasks are crucial for maintaining the quality and readiness of the wine service. Include responsibilities like restocking wine, updating inventory records, and preparing the wine area for the next service. This ensures everything is in place for seamless operations.
 

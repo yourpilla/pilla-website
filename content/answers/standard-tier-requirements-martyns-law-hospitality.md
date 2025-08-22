@@ -130,6 +130,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If your hospitality venue, such as a restaurant, bar, or hotel, accommodates
+  between 200 and 799 people at any one time, it is required to adhere to the
+  Standard Tier of Martyn's Law.
 ---
 If your hospitality venue, such as a restaurant, bar, or hotel, has a capacity of 200–799 people at any one time, it falls under the Standard Tier of Martyn's Law. This means you need to take specific actions to prepare for potential terrorist threats. These actions include registering your venue with the Security Industry Authority (SIA), developing a terrorism response plan, and ensuring your staff are trained on this plan.
 

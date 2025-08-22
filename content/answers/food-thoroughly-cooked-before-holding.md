@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Food needs to be thoroughly cooked before hot holding to reach a safe internal
+  temperature that kills harmful bacteria. This is vital to prevent foodborne
+  illnesses.
 ---
 Food must be thoroughly cooked before hot holding to ensure it reaches a safe internal temperature that kills harmful bacteria. This step is crucial to prevent foodborne illnesses. Hot holding equipment is designed to keep food warm, not to cook it, so the food must reach the necessary temperature before being placed in these units.
 

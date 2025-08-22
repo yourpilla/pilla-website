@@ -114,6 +114,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If there's only slight freezer burn, you can cut away the affected areas
+  either before or after cooking. For heavily freezer-burned food, it is best to
+  discard it due to quality concerns.
 ---
 If there's only slight freezer burn, you can cut away the affected areas either before or after cooking. However, if the food is heavily affected by freezer burn, it's best to discard it for quality reasons.
 

@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  In food businesses, a HACCP team is vital for ensuring food safety. This team
+  is tasked with developing, implementing, and maintaining the HACCP system.
 ---
 In any food business, a HACCP team plays a crucial role in ensuring food safety. This team is responsible for developing, implementing, and maintaining the HACCP system. They work together to identify potential food safety hazards and establish critical control points to prevent, eliminate, or reduce these hazards to safe levels.
 

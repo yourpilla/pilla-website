@@ -121,6 +121,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  When receiving tins from a food supplier, inspect for these key points: (1)
+  Ensure there is no rust on the tins, as it may indicate compromised metal
+  integrity.
 ---
 When checking tins during delivery, you need to inspect them for several key things: Make sure there's no rust on the tins, check they aren't blown or bulging, verify there are no leaks or damage, and confirm all labels are intact and readable. It's also important to check that best before dates have at least 1 month remaining.
 

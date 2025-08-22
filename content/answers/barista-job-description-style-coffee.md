@@ -108,6 +108,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To ensure the Barista job description aligns with your coffee service style,
+  clearly define your café's service style, pace, and values.
 ---
 Start by clearly defining your café's service style, pace, and values in the job description. This helps potential candidates understand what to expect and ensures they match your specific needs. Include details about the type of coffee service (e.g., fast-paced takeaway, sit-down café), the average number of coffees made per day, and any special practices like seasonal bean rotations or waste reduction efforts.
 

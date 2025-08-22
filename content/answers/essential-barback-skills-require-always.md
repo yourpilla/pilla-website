@@ -123,6 +123,12 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Essential skills for a Barback include organisational and multitasking
+  abilities, physical stamina for handling supplies, attention to cleanliness
+  and detail, basic knowledge of bar equipment, and strong teamwork and
+  communication skills. These skills are fundamental for supporting bartenders
+  and maintaining operational efficiency and safety in a bar.
 ---
 When hiring a Barback, it's crucial to require skills that are fundamental for daily operations. These include organisational and multitasking abilities, physical stamina for lifting and moving supplies, attention to cleanliness and detail, basic knowledge of bar equipment, and strong teamwork and communication skills. These skills ensure that the Barback can effectively support the bartenders and maintain the bar's efficiency and safety.
 

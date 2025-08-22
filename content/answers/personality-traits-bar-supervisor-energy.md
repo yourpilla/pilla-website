@@ -122,6 +122,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  In a high-energy bar, a Bar Supervisor needs to have energy, liveliness, and
+  the ability to perform well under pressure.
 ---
 In a high-energy bar, a Bar Supervisor needs to be energetic, spirited, and able to thrive in a lively setting. They should be able to handle pressure well, communicate clearly, and support their team to keep the atmosphere inviting and vibrant. It's also important for them to bring positivity and quick thinking to manage the fast-paced environment effectively.
 

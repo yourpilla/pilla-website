@@ -120,6 +120,10 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A bartender job description should include legal and compliance details such
+  as necessary certifications, health and safety regulations, and obligations
+  related to serving alcohol.
 ---
 When writing a job description for a bartender, it's important to include specific legal and compliance details to ensure both you and the potential candidates understand the legal requirements. This includes any necessary certifications, health and safety regulations, and legal obligations related to serving alcohol.
 

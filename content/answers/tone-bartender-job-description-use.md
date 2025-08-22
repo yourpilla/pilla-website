@@ -123,6 +123,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  The tone of a Bartender job description should match the atmosphere and style
+  of your venue, combining professionalism with a sense of welcome that reflects
+  the unique personality of your bar.
 ---
 The tone of your Bartender job description should match the atmosphere and style of your venue. It's important to be welcoming and professional, giving potential candidates a real sense of what it's like to work at your bar. This helps attract people who will fit well with your team and customer base.
 

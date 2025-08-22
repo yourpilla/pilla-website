@@ -138,6 +138,14 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  A comprehensive daily FOH cleaning checklist should include: wiping down the
+  host stand and resetting menus, cleaning POS equipment, polishing door glass
+  and handles, checking and cleaning toilets with necessary supplies, restocking
+  napkins, condiments, and tabletop items, vacuuming or mopping key walkways and
+  under tables, emptying bins and cleaning bin lids, and spot-cleaning walls,
+  door frames, and baseboards. This ensures the front of house is welcoming and
+  hygienic for guests.
 ---
 Starting and ending the day with a clean front of house (FOH) is crucial for maintaining a welcoming environment. Your daily FOH cleaning checklist should cover all areas that impact guest perception and hygiene. Here’s what you need to include:
 

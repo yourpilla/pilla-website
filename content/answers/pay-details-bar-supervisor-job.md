@@ -124,6 +124,10 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Bar Supervisor, clearly outline the
+  compensation. Specify the salary range or hourly rate, and include any
+  potential bonuses or performance incentives.
 ---
 When writing a job description for a Bar Supervisor, it's important to be clear about the compensation. Include a specific salary range or hourly rate, and mention any potential bonuses or performance incentives. This transparency helps set clear expectations and attracts candidates who are comfortable with the offered terms.
 

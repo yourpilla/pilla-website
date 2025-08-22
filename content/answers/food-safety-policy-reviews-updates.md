@@ -119,6 +119,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Your food safety policy should specify the frequency of reviews and the
+  procedure for updates to ensure it remains relevant to current regulations and
+  operational changes.
 ---
 Your food safety policy should clearly state how often it will be reviewed and the process for making updates. This ensures that your policy stays current with new regulations and reflects any changes in your operations. It's important to keep this policy up-to-date to maintain high standards of food safety and compliance with the law.
 

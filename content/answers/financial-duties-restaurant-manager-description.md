@@ -122,6 +122,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Restaurant Manager's job description should include key financial
+  responsibilities such as managing budgets, overseeing purchasing and inventory
+  management, and monitoring profitability.
 ---
 When writing a job description for a Restaurant Manager, it's important to clearly outline the financial responsibilities. These typically include managing budgets, overseeing purchasing and inventory management, and monitoring profitability. Ensuring that the manager is responsible for these financial tasks helps keep your restaurant's finances in check and supports efficient operation.
 

@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  An Executive Chef job description should clearly outline key responsibilities
+  such as overseeing daily kitchen operations, developing menus, managing the
+  culinary team, and ensuring quality control.
 ---
 When writing a job description for an Executive Chef, it's important to clearly outline the key responsibilities. These include overseeing daily kitchen operations, menu development, managing the culinary team, and ensuring quality control. This helps candidates understand the scope of the role and what will be expected of them.
 

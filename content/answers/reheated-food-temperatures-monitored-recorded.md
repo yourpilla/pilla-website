@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  To ensure food safety, it's important to monitor and record the temperatures
+  of reheated foods before serving.
 ---
 To ensure food safety, it's important to monitor and record the temperatures of reheated foods. You should monitor the internal temperature of all reheated foods before serving. You should record at least five of these throughout the day. Record the food item, its temperature, the date and time, and the person who recorded the information.
 

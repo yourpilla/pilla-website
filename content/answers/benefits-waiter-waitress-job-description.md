@@ -124,6 +124,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a waiter or waitress, consider including
+  various benefits to enhance its attractiveness.
 ---
 When writing a job description for a waiter or waitress, including benefits can make your offer more attractive. Examples of benefits you might include are free or discounted meals during shifts, paid breaks, structured training sessions, tips distribution, social events, mental health support, flexible scheduling, and generous holiday allocations.
 

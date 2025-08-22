@@ -124,6 +124,14 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When composing a job description for a Restaurant Duty Manager, start by
+  vividly describing your restaurant type, such as if it's a high-end dining
+  establishment, a family-oriented bistro, or a lively pizzeria. Providing this
+  information helps candidates understand the workplace environment and manage
+  their expectations accurately. Include details about the restaurant’s
+  atmosphere, values, and service style to attract candidates who align with
+  your operational pace and values.
 ---
 When writing a job description for a Restaurant Duty Manager, start by clearly describing the type of restaurant you run. Mention whether it's a high-end dining restaurant, a family-friendly bistro, or a bustling pizzeria. This helps candidates understand the environment they might be working in and sets the right expectations.
 

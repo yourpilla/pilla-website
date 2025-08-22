@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  When labelling frozen food, it's important to include three key pieces of
+  information: the production date, a use-by date (generally one month from
+  production), and the allergens present in the food.
 ---
 When labelling frozen food, you need to include three key pieces of information: the date of production, a use-by date (one month from production), and clearly mark any allergens present in the food. Make sure food is properly portioned and thoroughly wrapped before freezing.
 

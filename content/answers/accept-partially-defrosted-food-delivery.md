@@ -123,6 +123,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  No, you should reject any frozen deliveries that show signs of defrosting or
+  refreezing, as they can seriously affect food quality through freezer burn
+  when the product is refrozen.
 ---
 No, you should reject any frozen deliveries that show signs of defrosting or refreezing. This can seriously affect food quality through freezer burn when the product is refrozen. The target temperature for frozen deliveries should be -18°C or slightly below, and you should never accept deliveries above -15°C.
 

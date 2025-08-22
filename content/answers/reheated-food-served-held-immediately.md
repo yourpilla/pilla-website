@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Reheated food should be served immediately after it reaches the correct
+  internal temperature to ensure it is safe to eat and maintains its quality.
 ---
 Reheated food should be served immediately after it reaches the correct internal temperature. This ensures the food is safe to eat and maintains its quality. The correct reheating temperature is a minimum of 75°C in England, Wales, and Northern Ireland, and 82°C in Scotland.
 

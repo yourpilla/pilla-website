@@ -123,6 +123,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To effectively describe your venue in a Barback job description, start by
+  specifying the type of venue you operate, such as a bustling urban lounge or a
+  classic cocktail bar.
 ---
 Start by clearly defining the type of venue you operate, such as a bustling urban lounge, a classic cocktail bar, or a casual seaside pub. Highlight the unique aspects of your venue that make it special, like your commitment to zero waste, your support for local distilleries, or your team's collaborative spirit. This helps potential applicants understand the setting they'll be working in and align their expectations with your bar's ethos.
 

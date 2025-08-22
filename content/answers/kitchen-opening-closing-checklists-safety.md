@@ -126,6 +126,11 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Opening and closing checklists are essential in a kitchen as they ensure all
+  critical safety and hygiene tasks are completed, hence preventing foodborne
+  illnesses and maintaining high cleanliness standards. They act as active tools
+  to ensure crucial safety tasks are not overlooked.
 ---
 Opening and closing checklists are crucial in a kitchen because they ensure that every critical safety and hygiene task is completed. For example, these checklists help staff verify that food is stored correctly, surfaces are sanitised, and equipment is functioning properly. This prevents foodborne illnesses and maintains high standards of cleanliness.
 

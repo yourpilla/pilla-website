@@ -121,6 +121,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  To ensure food safety, monitor and accurately record the temperatures of
+  cooked foods. Use a sanitised food thermometer designed specifically for
+  cooking.
 ---
 To ensure food safety, it's important to monitor and record the temperatures of cooked foods. Recording the food item, its temperature, the date and time, and the person who recorded the data. Use a sanitised food thermometer to check the temperature and make sure it meets the safe cooking temperatures as specified (e.g., 75°C for at least 30 seconds).
 

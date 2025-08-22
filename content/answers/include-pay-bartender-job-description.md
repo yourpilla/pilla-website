@@ -122,6 +122,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a bartender job description, clearly state whether the pay is
+  hourly or salaried, including a specific pay range or rate.
 ---
 When writing a job description for a bartender, it's important to be clear about the pay. You should state whether the pay is hourly or salaried, and provide a specific range or rate. This helps potential candidates understand what they can expect and decide if the job fits their financial needs.
 

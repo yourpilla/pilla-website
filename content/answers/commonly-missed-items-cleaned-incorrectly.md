@@ -139,6 +139,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  In kitchen cleaning, it's easy to overlook smaller tools and hard-to-reach
+  areas such as can openers, blender gaskets, and the undersides of cutting
+  boards.
 ---
 The requested section linking to templates or internal guides at yourpilla.com has been removed from the HTML document. Here is the revised version: \`\`\`html
 

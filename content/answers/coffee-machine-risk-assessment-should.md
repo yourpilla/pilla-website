@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Every day, ensure your coffee machine is safe and functioning properly by
+  conducting these checks: (1) Inspect the machine for visible damage or leaks.
 ---
 Every day, it's important to carry out specific checks to ensure your coffee machine is safe and functioning properly. Start by inspecting the machine for any visible damage or leaks. Check that all controls and emergency stop functions are clearly marked and fully operational. Ensure the steam wand, water nozzles, and filters are clean and clear of obstructions. Finally, verify that the pressure gauge is within safe operating limits.
 

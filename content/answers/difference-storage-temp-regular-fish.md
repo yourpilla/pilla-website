@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Ideally, fresh fish should be stored in a separate fridge set at a temperature
+  below 3°C to meet its specific cooling requirements.
 ---
 Ideally, yes. Since fresh fish requires a lower temperature than other items, it's best to have a dedicated fridge set at the correct temperature. If you must store fish in the same fridge as other items, make sure it's on the lowest shelf to prevent drip contamination, and ensure the fridge can maintain the required temperature below 3°C.
 

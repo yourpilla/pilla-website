@@ -114,6 +114,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Burgers should be cooked to a minimum internal temperature of 75°C for at
+  least 30 seconds to ensure food safety. This temperature eliminates harmful
+  bacteria such as E. coli.
 ---
 Burgers must be cooked to a minimum internal temperature of 75°C (167°F) for at least 30 seconds. This temperature ensures that all harmful bacteria, such as E. coli, are killed. Always use a food thermometer to check the temperature at the thickest part of the burger.
 

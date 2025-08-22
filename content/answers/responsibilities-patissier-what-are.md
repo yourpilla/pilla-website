@@ -114,6 +114,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  The responsibilities of a Patissier, or Pastry Chef, include creating and
+  managing the dessert menu, baking goods, and ensuring each item is both
+  delicious and beautifully presented.
 ---
 The Patissier, or Pastry Chef, is mainly responsible for creating and organising the dessert menu in a restaurant. This includes baking goods, pastries, and desserts. They ensure each item is delicious and looks great. A Patissier often starts early to prepare fresh items for the day and might lead a specific section within the pastry kitchen.
 

@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If food hasn't cooled to the required temperature within 90 minutes, it's
+  crucial to immediately discard the food to prevent food safety risks.
 ---
 If your food hasn't cooled to the required temperature within 90 minutes, it's important to act quickly to prevent food safety risks. Firstly, discard the food as it may not be safe for consumption. Then, review your cooling methods and consider using alternative techniques or adjusting portion sizes for future preparations.
 

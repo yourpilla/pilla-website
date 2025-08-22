@@ -108,6 +108,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When detailing training opportunities in a barista job description, specify
+  any provided training such as on-the-job learning, optional certifications, or
+  mentorship programs.
 ---
 When writing about training opportunities in a barista job description, be clear about any training you provide, like on-the-job training, optional certifications, or mentorship programs. This shows candidates you're invested in their growth and helps attract those eager to develop their skills.
 

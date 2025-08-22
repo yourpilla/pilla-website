@@ -122,6 +122,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a Bar Supervisor, it is crucial to specify the type
+  and level of experience required.
 ---
 When writing a job description for a Bar Supervisor, it's important to specify the type and level of experience needed. This helps ensure that candidates understand what is expected and can self-assess their suitability. For example, you might require experience in a high-volume bar or leadership experience in a similar hospitality setting.
 

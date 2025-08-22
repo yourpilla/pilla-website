@@ -124,6 +124,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a bartender job description, clearly communicate expectations for teamwork
+  and collaboration. Include specifics such as aiding colleagues during busy
+  periods and sharing drink-making knowledge.
 ---
 When writing a job description for a bartender, it's important to clearly communicate how they should work with others. Mention specific teamwork skills like helping colleagues during busy periods or sharing knowledge about drinks. This helps potential candidates understand the collaborative nature of the role.
 

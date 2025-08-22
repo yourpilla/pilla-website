@@ -123,6 +123,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To define the right personality traits for a Restaurant Manager, start by
+  understanding the specific needs and culture of your restaurant.
 ---
 Defining the right personality traits for a Restaurant Manager starts by understanding the specific needs and culture of your restaurant. Think about the traits that have helped your team succeed and those that align with your restaurant's values and customer service style. Include clear examples of these traits in the job description to attract candidates who are a good fit.
 

@@ -109,6 +109,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  When testing a food probe thermometer in boiling water, an accurate reading
+  ranges between 99°C and 101°C.
 ---
 When testing a probe thermometer in boiling water, you should get a reading of 100°C (212°F). A deviation of 1 degree celsius either way is acceptable, so readings between 99°C and 101°C are considered accurate for the boiling water test.
 

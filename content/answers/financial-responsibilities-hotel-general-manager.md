@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Hotel General Manager job description, it's important to include
+  overseeing budgeting, managing operational costs, and ensuring financial
+  reports are accurate and timely.
 ---
 When drafting a job description for a Hotel General Manager, it's important to include specific financial responsibilities. These typically involve overseeing budgeting, managing operational costs, and ensuring financial reports are accurate and timely. This helps the General Manager understand their role in keeping the hotel financially healthy.
 

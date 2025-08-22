@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Restaurant Assistant Manager job description should highlight specific
+  communication skills essential for the role, including strong verbal and
+  written communication abilities.
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to mention specific communication skills that are essential for the role. These include strong verbal and written communication abilities, as these skills are crucial for effective leadership and customer interactions. Mentioning these skills helps attract candidates who can effectively manage your team and ensure excellent guest service.
 

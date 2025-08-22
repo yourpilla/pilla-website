@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  Hot holding equipment, such as bain-maries, is specifically designed to
+  maintain already cooked food at a safe temperature before it is served.
 ---
 Hot holding equipment, like bain-maries, is designed to keep already cooked food at a safe temperature before it's served. It's not suitable for cooking because it doesn't reach high enough temperatures to destroy harmful bacteria in uncooked food. This means using it for cooking can lead to foodborne illnesses.
 

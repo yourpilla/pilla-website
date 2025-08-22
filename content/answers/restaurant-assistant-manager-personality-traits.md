@@ -123,6 +123,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Restaurant Assistant Manager, include
+  personality traits that reflect your restaurant's culture and operational
+  style.
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to include personality traits that align with your restaurant's culture and operational style. Consider traits like proactive engagement, innovative thinking, and effective communication. These traits help ensure the candidate fits well with your team and can handle the responsibilities of the role.
 

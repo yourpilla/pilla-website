@@ -123,6 +123,12 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a Restaurant Manager, you should clearly describe the
+  experience levels required, ranging from trainee roles for beginners to senior
+  positions demanding significant experience in managing high-volume,
+  quality-focused restaurants. Highlight the importance of both the relevance
+  and quality of experience over merely the number of years.
 ---
 When writing a job description for a Restaurant Manager, it's important to clearly define the level of experience needed. This can range from trainee positions, which are open to nurturing someone without managerial experience, to senior roles requiring extensive experience in managing high-volume, quality-oriented restaurants.
 

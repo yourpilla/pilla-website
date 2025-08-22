@@ -121,6 +121,12 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Environmental Health Officers (EHOs) have several powers to ensure compliance
+  with food safety laws, including the ability to enter premises during
+  operating hours without prior notice, investigate complaints, take samples,
+  seize items, take photos, and question staff. These powers are crucial for the
+  effective enforcement of food safety regulations.
 ---
 Environmental Health Officers (EHOs) have several powers to ensure food businesses comply with safety regulations. They can enter your premises during operating hours without prior notice, investigate complaints, take samples, seize items, take photos, and even question staff. These powers help them enforce food safety laws effectively.
 

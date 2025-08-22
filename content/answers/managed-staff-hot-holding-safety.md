@@ -114,6 +114,7 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: Effective management of staff is key to ensuring hot holding safety.
 ---
 Managing staff effectively is important for ensuring hot holding safety. Train your team on the correct temperatures and procedures, and make sure they understand the importance of maintaining these standards. Regularly monitor their performance and provide feedback to keep everyone on track.
 

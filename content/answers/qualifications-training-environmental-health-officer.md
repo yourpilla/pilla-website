@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality training and certification guidance
+summary: >-
+  Environmental Health Officers (EHOs) need a solid educational foundation and
+  must engage in continuous professional development.
 ---
 Environmental Health Officers (EHOs) must have a solid educational background and professional training. Typically, they need a Bachelor's or Master's degree in Environmental Health. Additionally, they must pass professional exams, complete a work placement, often with a local authority, and compile a portfolio demonstrating their competence.
 

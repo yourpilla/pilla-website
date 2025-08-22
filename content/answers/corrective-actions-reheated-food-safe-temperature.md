@@ -121,6 +121,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  If reheated food does not reach the required safe temperature, continue
+  cooking it until it reaches at least 75°C in England, Wales, and Northern
+  Ireland, and 82°C in Scotland.
 ---
 If reheated food fails to reach the required safe temperature, it's important to take immediate corrective actions to prevent food-borne illness. Continue cooking the food until it reaches a minimum temperature of 75°C in England, Wales, and Northern Ireland, and 82°C in Scotland. If the equipment is faulty, use alternative equipment or divide the food into smaller portions to speed up the reheating process. Always ensure that the equipment is functioning properly, and if not, it may need to be repaired or replaced. Additionally, increase staff training and supervision to prevent future occurrences.
 

@@ -76,6 +76,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality training and certification guidance
+summary: >-
+  Yes, you should provide additional allergen training whenever your menu
+  changes to ensure that all staff are aware of the allergens present in the new
+  items.
 ---
 Yes, you should provide additional allergen training whenever your menu changes. This ensures all staff are up to date with the specific allergens in your new menu items. The training can be brief - even just 5 minutes - but it needs to be documented properly using the Training activity in Pilla.
 

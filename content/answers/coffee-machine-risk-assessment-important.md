@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  A coffee machine risk assessment is a thorough evaluation of possible hazards
+  related to operating commercial coffee machines.
 ---
 A coffee machine risk assessment is a detailed evaluation of the potential hazards associated with operating commercial coffee machines in your hospitality business. It helps identify risks to prevent accidents, ensure safety, and comply with legal requirements. This assessment is crucial because it not only protects staff and customers from harm but also safeguards your business against legal issues and potential fines.
 

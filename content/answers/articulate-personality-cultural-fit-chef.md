@@ -123,6 +123,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Head Chef, emphasise personality traits
+  and cultural values that resonate with your venue's ethos.
 ---
 When writing a job description for a Head Chef, it's important to clearly describe the personality traits and cultural values that align with your venue's ethos. Start by reflecting on the behaviours and attitudes that have contributed to the success of your team. Be specific and use examples that illustrate these traits in action. This helps potential candidates understand the kind of environment they would be entering and assess if they would be a good fit.
 

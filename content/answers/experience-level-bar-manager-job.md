@@ -124,6 +124,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Bar Manager, align the required
+  experience level with your venue's demands.
 ---
 When writing a job description for a Bar Manager, it's important to match the experience level required with the demands of your venue. Consider the complexity of the role and the expectations you have for the position. For example, if your bar is high-volume and fast-paced, you might need someone with more experience to handle the pressure.
 

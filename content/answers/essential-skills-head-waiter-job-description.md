@@ -122,6 +122,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Head Waiter job description should include essential skills such as leading
+  a floor team calmly under pressure, effective guest communication, and strong
+  organisational and shift planning abilities.
 ---
 When writing a job description for a Head Waiter, include skills like the ability to lead a floor team calmly under pressure, exceptional guest communication, and strong organisational and shift planning skills. These are crucial for managing the dining area efficiently and ensuring guest satisfaction.
 

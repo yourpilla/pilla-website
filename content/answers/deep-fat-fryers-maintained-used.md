@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Deep fat fryers should be properly maintained and used to ensure food safety
+  and quality.
 ---
 Deep fat fryers should be well maintained and used correctly to ensure food safety and quality. Always preheat the fryer to the correct temperature before adding food. This makes sure that food cooks evenly and quickly, reducing the absorption of oil and preventing undercooking. Regularly check and clean the fryer to avoid oil degradation and potential fire hazards.
 

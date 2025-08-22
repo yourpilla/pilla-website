@@ -126,6 +126,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Checklist tasks should be clearly and specifically written to ensure they are
+  accurately and consistently completed.
 ---
 Checklist tasks should be written clearly and specifically to ensure they are completed accurately and consistently. Start with a strong action verb, describe exactly what needs to be done, and, if possible, explain why it's important. This approach helps everyone understand and follow the tasks without confusion.
 

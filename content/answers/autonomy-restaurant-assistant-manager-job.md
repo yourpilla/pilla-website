@@ -124,6 +124,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Restaurant Assistant Manager, it is
+  vital to clearly define their level of autonomy to set clear expectations.
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly define the level of autonomy they will have. This helps set clear expectations and ensures that candidates understand the scope of their decision-making power. Typically, you should allow autonomy in daily operational decisions, while strategic decisions should be aligned with senior management.
 

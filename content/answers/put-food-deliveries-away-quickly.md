@@ -121,6 +121,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Food deliveries should be transferred from the delivery point to storage areas
+  within 15 minutes, including the time needed for unboxing.
 ---
 Food deliveries should be transferred from the delivery point to storage areas within 15 minutes, including the time needed for unboxing. In exceptional circumstances, you can take up to 30 minutes maximum, but this should not be the norm.
 

@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If your freezer has an auto-defrost feature, it is recommended to use it as
+  this method is the most efficient at maintaining the freezer.
 ---
 If your freezer has an auto-defrost feature, you should use it as this is the most efficient way to maintain your freezer. Auto-defrost helps keep the freezer running efficiently by automatically melting away built-up frost that could impact the unit's performance.
 

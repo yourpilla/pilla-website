@@ -112,6 +112,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a barista, it is important to describe
+  specific behaviours and attitudes that align with your café's service style.
 ---
 When writing a job description for a barista, it's key to clearly outline the personality traits that will fit well with your team and service style. Instead of using vague terms like "hard-working" or "friendly", describe specific behaviours and attitudes that have proven successful in your café. For example, if your café is fast-paced, mention that you value baristas who are calm under pressure and quick to adapt.
 

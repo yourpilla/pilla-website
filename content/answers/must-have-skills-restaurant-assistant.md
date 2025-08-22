@@ -121,6 +121,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When hiring a Restaurant Assistant Manager, essential skills include:
+  organisational abilities, effective communication, leadership, team
+  development, knowledge of restaurant management software, financial management
+  understanding, conflict resolution, guest complaints management, and adherence
+  to health and safety regulations. These skills are crucial from day one to
+  ensure effective job performance.
 ---
 When hiring a Restaurant Assistant Manager, it's important to look for candidates who have specific skills that are essential from day one. These skills include strong organisational abilities, effective verbal and written communication, leadership and team development skills, knowledge of restaurant management software, solid understanding of financial management, conflict resolution, guest complaints management, and adherence to health and safety regulations.
 

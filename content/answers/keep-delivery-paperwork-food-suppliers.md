@@ -121,6 +121,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Yes, retaining all delivery notes and invoices from your food suppliers is
+  essential.
 ---
 Yes, it's essential to keep all delivery notes and invoices from your food suppliers. These documents need to be filed and stored securely as they serve multiple important purposes:
 

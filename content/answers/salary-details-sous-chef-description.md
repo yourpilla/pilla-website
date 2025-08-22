@@ -121,6 +121,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a Sous Chef, clearly state whether the
+  position is salaried or paid by the hour. Include either a specific amount or
+  a realistic salary range.
 ---
 When writing a job description for a Sous Chef, it's important to be clear about the salary. Specify whether the position offers a salary or an hourly rate, and provide a specific amount or a realistic range. This transparency helps potential candidates understand if the role matches their financial expectations and can prevent future misunderstandings.
 

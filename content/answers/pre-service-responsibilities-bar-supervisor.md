@@ -125,6 +125,10 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Bar Supervisor job description, pre-service responsibilities should
+  include overseeing the bar setup, conducting inventory checks, and ensuring
+  all equipment is functioning properly.
 ---
 When writing a job description for a Bar Supervisor, it's important to clearly outline the pre-service responsibilities. These tasks are crucial for ensuring the bar operates smoothly from the moment it opens. Responsibilities should include overseeing the bar's setup, conducting inventory checks, and ensuring all equipment is functioning properly.
 

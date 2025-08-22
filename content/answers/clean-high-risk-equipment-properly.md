@@ -140,6 +140,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  Cleaning high-risk kitchen equipment such as slicers, mixers, and dishwashers
+  is essential to prevent food contamination. Begin by removing any food debris.
 ---
 Cleaning high-risk equipment like slicers, mixers, and dishwashers is crucial to prevent food contamination. Always use the right cleaning agents and follow a thorough cleaning process. Start by removing any food debris, then wash with a suitable detergent, rinse, and finally sanitise using an appropriate sanitiser.
 

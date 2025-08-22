@@ -123,6 +123,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When setting up a Chef de Partie job description, include detailed preparation
+  tasks such as preparing ingredients, organising tools, and setting up kitchen
+  stations.
 ---
 When setting up a Chef de Partie job description, it's key to include specific preparation tasks that are essential before the kitchen opens for service. These tasks typically involve preparing ingredients, organising tools, and setting up the kitchen stations. Common preparation duties include mise en place (setting up ingredients), checking the inventory, and coordinating with the head chef to review the day's menu and specials.
 

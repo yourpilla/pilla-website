@@ -117,6 +117,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To cool joints of meat safely and effectively, they should ideally not exceed
+  2.5kg in weight and 50mm in thickness or height.
 ---
 To cool joints of meat safely and effectively, they should ideally not exceed 2.5kg in weight and 50mm in thickness or height. Keeping within these limits helps ensure that the meat cools down quickly enough to prevent the growth of harmful bacteria.
 

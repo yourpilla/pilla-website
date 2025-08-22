@@ -122,6 +122,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Bar Supervisor's job description, it is vital to list both essential and
+  preferred skills tailored to the specific needs of the bar.
 ---
 When writing a job description for a Bar Supervisor, it's important to include both essential and preferred skills that match the specific needs of your bar. Essential skills are those necessary from day one, such as leadership, customer service, and compliance with safety standards. Preferred skills might include experience with special events, advanced mixology knowledge, or proficiency in a particular type of service.
 

@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To make your bartender job description stand out, include unique
+  venue-specific details.
 ---
 Adding unique venue-specific details to your bartender job description can really make it shine. Describe your bar's atmosphere, the type of customers you attract, and any special services or events you offer. This not only gives potential candidates a clear picture of where they'll be working but also helps attract those who are a good fit for your bar's culture.
 

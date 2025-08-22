@@ -122,6 +122,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Restaurant Assistant Manager job description can include a variety of
+  benefits to attract qualified candidates and set clear expectations.
 ---
 When writing a job description for a Restaurant Assistant Manager, it's important to clearly outline the benefits. This not only attracts qualified candidates but also sets clear expectations. Benefits can include competitive salary, health benefits, paid leave, and flexible scheduling options. Additionally, mentioning unique perks like staff meals, discounts, and professional development opportunities can enhance the appeal of the job.
 

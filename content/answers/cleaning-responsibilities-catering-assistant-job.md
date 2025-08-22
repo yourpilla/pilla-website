@@ -125,6 +125,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a Catering Assistant job description, clearly outline the
+  cleaning responsibilities to ensure candidates understand the expectations.
 ---
 When writing a job description for a Catering Assistant, clearly outline the cleaning responsibilities. This helps potential candidates understand what is expected of them and ensures they are prepared for all aspects of the job. Include specific tasks like sanitising workspaces and equipment, and breaking down tables and serving areas post-service.
 

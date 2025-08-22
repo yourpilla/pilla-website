@@ -123,6 +123,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a Restaurant Assistant Manager, clearly
+  outline the responsibilities related to staff management, such as leading and
+  organising the team, managing shift schedules, and ensuring high service
+  standards. Tailor these duties to fit the specific needs and daily operations
+  of your restaurant, detailing how these responsibilities integrate into your
+  restaurant's operational style and objectives.
 ---
 When writing a job description for a Restaurant Assistant Manager, clearly outline the responsibilities related to staff management. This includes leading and organising the team, managing shift schedules, and ensuring high service standards. It's important to tailor these duties to fit your restaurant's specific needs and daily operations.
 

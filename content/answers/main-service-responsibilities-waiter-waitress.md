@@ -125,6 +125,12 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A comprehensive waiter or waitress job description should clearly outline key
+  responsibilities, including welcoming and seating guests, presenting menus,
+  taking orders, serving food and beverages, and managing payments and feedback.
+  This detailed outline helps candidates understand the scope of the role and
+  the expectations set for them.
 ---
 When writing a job description for a waiter or waitress, it's important to clearly outline the main service responsibilities. These typically include welcoming and seating guests, presenting menus, taking orders, serving food and beverages, and managing payments and feedback. Ensuring these tasks are detailed helps candidates understand what will be expected of them.
 

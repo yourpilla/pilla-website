@@ -115,6 +115,7 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: 'No, regular cleaning wipes should not be used on a food probe thermometer.'
 ---
 No, you shouldn't use regular cleaning wipes on your probe thermometer. Instead, you need to follow a specific two-step cleaning and sanitising process:
 

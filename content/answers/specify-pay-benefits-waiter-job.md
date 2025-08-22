@@ -123,6 +123,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a waiter or waitress, clearly state the
+  pay rate and benefits.
 ---
 When writing a job description for a waiter or waitress, it's important to clearly state the pay rate and benefits. Specify whether the compensation is hourly or salary and provide a realistic pay range if possible. Don’t forget to mention any additional perks like tips or meal discounts. This transparency helps set clear expectations and attracts the right candidates.
 

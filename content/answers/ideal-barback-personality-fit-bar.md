@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  Describing the ideal Barback personality requires considering your bar's pace
+  and service style to determine the right traits that mesh with your team.
 ---
 Describing the ideal Barback personality starts by understanding your bar's atmosphere and the dynamics of your existing team. Focus on traits that align with your bar's pace and service style. For instance, if your bar is fast-paced, look for someone who remains calm under pressure, can prioritize tasks quickly, and enjoys a lively team environment.
 

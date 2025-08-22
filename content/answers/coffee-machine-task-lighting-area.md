@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Yes, task lighting in your coffee machine area is essential for safety and
+  efficiency.
 ---
 Yes, having task lighting in your coffee machine area is crucial. Good lighting ensures that staff can see the machine's controls, identify hazards like steam or spills, and perform cleaning and maintenance safely. This reduces the risk of accidents such as burns or spills during busy shifts.
 

@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  A Hygiene Emergency Prohibition Notice is a serious legal directive issued by
+  an Environmental Health Officer when there is an imminent and severe risk to
+  public health from a food business.
 ---
 A Hygiene Emergency Prohibition Notice is a legal notice issued by an Environmental Health Officer (EHO) when there is a serious risk to public health due to conditions in a food business. This notice can immediately stop the operation of the entire premises, part of the premises, a specific activity, or the use of certain equipment.
 

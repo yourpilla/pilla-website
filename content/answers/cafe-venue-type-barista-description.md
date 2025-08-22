@@ -111,6 +111,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a barista job description, begin by specifying the type of
+  venue, such as an independent cafe, a coffee kiosk, or a hotel coffee bar.
 ---
 When writing a job description for a barista, start by clearly stating what type of venue you operate. This could be an independent café, a fast-paced coffee kiosk, or a hotel coffee bar. Be specific to help potential candidates understand the environment they might be working in.
 

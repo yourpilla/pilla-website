@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  An Environmental Health Officer (EHO) has the right to enter your business
+  premises during any hours of operation, ensuring compliance with food safety
+  laws.
 ---
 An Environmental Health Officer (EHO) has the right to enter your business premises during any reasonable hours of operation. This means they can visit during the times you are open to the public or conducting business activities. They do this to ensure that your business complies with food safety laws.
 

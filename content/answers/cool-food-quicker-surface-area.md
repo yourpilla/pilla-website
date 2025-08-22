@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To cool food more quickly by increasing the surface area, spread the food out
+  in a thin layer or use shallow trays. This method exposes more food to cooler
+  air, speeding up the cooling process.
 ---
 Increasing the surface area of food helps it cool quicker. This can be done by spreading the food out in a thin layer or using shallow trays. This method exposes more of the food to the cooler air, speeding up the cooling process. It's especially useful when you need to cool down large quantities of food quickly to prevent bacteria growth.
 

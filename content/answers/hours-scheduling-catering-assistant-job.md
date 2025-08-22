@@ -125,6 +125,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a Catering Assistant, include details such
+  as the number of hours per week, expected overtime, and typical start and end
+  times for shifts.
 ---
 When writing a job description for a Catering Assistant, it's important to clearly outline the expected work hours and scheduling details. This helps potential candidates understand their commitments and assess if the job fits their availability. Include specifics such as the number of hours per week, any expected overtime, and the typical start and end times for shifts.
 

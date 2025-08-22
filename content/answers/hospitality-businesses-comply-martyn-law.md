@@ -128,6 +128,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Hospitality businesses that anticipate hosting 200 or more individuals,
+  including staff and customers, simultaneously must comply with Martyn's Law.
 ---
 Hospitality businesses that expect to host 200 or more people at the same time, including staff and customers, must comply with Martyn's Law. This includes a range of venues such as restaurants, pubs, bars, hotels, nightclubs, and entertainment venues. The law aims to ensure these places are prepared for potential terrorist attacks by implementing specific security measures.
 

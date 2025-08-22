@@ -123,6 +123,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A job description for a Hotel General Manager should combine daily and
+  strategic responsibilities that encompass managing operations, overseeing
+  personnel, and ensuring customer satisfaction.
 ---
 When writing a job description for a Hotel General Manager, include a mix of daily and strategic responsibilities. These should cover managing operations, overseeing personnel, and ensuring customer satisfaction. For example, you might include overseeing room operations, ensuring compliance with health and safety regulations, managing vendor relationships, leading recruitment and training, and developing financial plans.
 

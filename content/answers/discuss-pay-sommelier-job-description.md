@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a sommelier, it's fundamental to be
+  transparent about the compensation.
 ---
 When writing a job description for a sommelier, it's important to be clear and upfront about the pay. Mention the salary range early in the description to ensure transparency. This helps set expectations and attracts candidates who are comfortable with the offered compensation.
 

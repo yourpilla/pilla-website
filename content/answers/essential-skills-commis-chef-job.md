@@ -122,6 +122,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a Commis Chef, include skills vital for
+  daily kitchen operations.
 ---
 When writing a job description for a Commis Chef, focus on skills that are crucial for daily kitchen operations. Essential skills often include basic culinary techniques, food safety and hygiene knowledge, teamwork, and the ability to follow recipes and instructions accurately.
 

@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  To ensure food safety, the temperatures of hot held foods must be regularly
+  monitored and recorded using a calibrated food thermometer.
 ---
 To ensure food safety, it's important to regularly monitor and record the temperatures of hot held foods. Use a calibrated food thermometer to check the temperature. Record these temperatures at regular intervals to ensure they remain above the minimum required level.
 

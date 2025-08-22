@@ -122,6 +122,7 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: Bar Managers are essential for the efficient operation of a bar.
 ---
 Bar Managers play a crucial role in setting the tone and overseeing the operations of a bar. Their leadership responsibilities include leading and motivating the team during service hours, overseeing staff scheduling to ensure proper coverage, and conducting regular team meetings to align, inform, and train staff. These tasks help maintain a smooth and efficient service, ensuring both staff and customer satisfaction.
 

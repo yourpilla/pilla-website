@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Reheating food to the proper temperature is vital to destroy harmful bacteria
+  and make the food safe to eat.
 ---
 Reheating food to the correct temperature is crucial to ensure that harmful bacteria are killed. In England, Wales, and Northern Ireland, the required minimum temperature is 75°C, while in Scotland, it's 82°C. This process reduces bacteria to safe levels, making the food safe to eat.
 

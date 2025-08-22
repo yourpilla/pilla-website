@@ -114,6 +114,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  A Kitchen Porter plays a crucial role in maintaining the cleanliness and
+  operational efficiency of a kitchen.
 ---
 A Kitchen Porter plays an important role in maintaining the cleanliness and efficiency of a kitchen. Their main responsibilities include cleaning kitchen areas, washing dishes, and assisting with basic food preparation tasks. They also handle receiving and storing food deliveries, ensuring that the kitchen remains organised and operational.
 

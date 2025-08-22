@@ -123,6 +123,14 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a job description for a Restaurant Duty Manager, clearly
+  highlight available growth opportunities, such as specific training sessions,
+  potential promotions, and career development programmes. These details attract
+  ambitious candidates and set clear expectations for career advancement within
+  your organization. Growth is not only about climbing the pay scale or
+  obtaining higher positions; it includes personal and professional development
+  through training, gaining new skills, and taking on more responsibilities.
 ---
 When writing a job description for a Restaurant Duty Manager, it's important to clearly highlight the growth opportunities available. Mention specific training sessions, potential for promotions, and any career development programmes your restaurant offers. This not only attracts candidates who are ambitious and looking for a long-term career but also sets clear expectations about how they can advance within your organization.
 

@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a Barback job description, align the requested experience level
+  with your bar's specific needs.
 ---
 When writing a Barback job description, it's important to match the experience level you ask for with the specific needs of your bar. For instance, if your bar has a complex cocktail menu and a fast-paced environment, you might need someone with more experience. However, if you're willing to provide training, you could consider hiring someone with less experience who is eager to learn.
 

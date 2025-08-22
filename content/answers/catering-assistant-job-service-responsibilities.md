@@ -125,6 +125,13 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Catering Assistant job description should clearly outline service
+  responsibilities which include setting up food and beverage tables, ensuring
+  timely refilling of buffet stations or trays, maintaining cleanliness and
+  order during events, and working closely with the kitchen team to coordinate
+  food releases. These tasks are crucial for smooth operation during service
+  times and maintaining a high standard of service.
 ---
 When writing a job description for a Catering Assistant, it's important to clearly outline the service responsibilities. These typically include setting up food and beverage tables, ensuring timely refilling of buffet stations or trays, maintaining cleanliness and orderliness during events, and working closely with the kitchen team to coordinate food releases. These tasks ensure smooth operation during service times and help maintain a high standard of service.
 

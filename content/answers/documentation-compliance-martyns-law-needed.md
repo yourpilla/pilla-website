@@ -127,6 +127,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Under Martyn's Law, all venues are required to maintain essential
+  documentation to demonstrate legal compliance.
 ---
 Under Martyn's Law, venues must maintain specific documentation to show they're meeting legal requirements. This includes a written security plan, risk assessments, training records, and incident logs. For enhanced-tier venues, this documentation must be submitted to the Security Industry Authority (SIA) regulator.
 

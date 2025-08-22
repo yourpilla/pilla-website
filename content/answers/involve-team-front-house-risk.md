@@ -119,6 +119,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Involving your team in the front of house risk assessment is important for
+  understanding real-world risks and ensuring everyone knows their safety
+  responsibilities.
 ---
 Getting your team involved in the front of house (FOH) risk assessment is crucial for identifying real-world risks and ensuring everyone understands their role in maintaining safety. Start by inviting team members to walk through the FOH area during different service times, encouraging them to share observations and experiences of potential hazards.
 

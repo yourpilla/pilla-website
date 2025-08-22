@@ -106,6 +106,10 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a Barista job description, clearly state the level of experience
+  required by specifying if you need an entry-level, mid-level, or senior
+  Barista.
 ---
 When writing a job description for a Barista, it's important to clearly state the level of experience required. This helps to attract candidates who are a good fit for the role. Specify whether you need an entry-level, mid-level, or senior Barista, and describe the kind of environment or equipment they should have experience with.
 

@@ -123,6 +123,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To effectively reflect your bar's team culture in a Bar Manager job
+  description, start by describing the overall atmosphere, the team's working
+  style, and what makes your bar unique.
 ---
 When writing a job description for a Bar Manager, it's essential to showcase your bar's team culture to attract candidates who will fit in well. Start by describing the atmosphere, the team's working style, and what makes your bar a unique place to work. Mention specific cultural elements like teamwork, creativity, or customer interaction that are valued at your bar.
 

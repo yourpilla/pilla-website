@@ -112,6 +112,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Before a café opens, a barista must complete several key pre-service tasks to
+  prepare for the day.
 ---
 Before the café opens, baristas have several key tasks to prepare for the day. These include setting up the coffee station, dialling in grinders and the espresso machine, and ensuring all supplies like milk, cups, and cleaning materials are fully stocked. It's also crucial to clean and sanitise work surfaces and equipment before service begins.
 

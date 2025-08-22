@@ -122,6 +122,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Commis Chef job description, include preparation tasks such as setting up
+  kitchen stations, prepping ingredients according to recipes, and ensuring all
+  equipment is clean and ready.
 ---
 When detailing preparation tasks for a Commis Chef, focus on the essential activities they need to perform before the kitchen opens or during early shifts. This includes setting up kitchen stations, prepping ingredients according to recipes, and ensuring all equipment is clean and ready. These tasks are crucial for a smooth operation once service begins.
 

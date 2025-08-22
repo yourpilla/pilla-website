@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Your food probe thermometer should be stored in its protective case when not
+  in use to protect it from physical damage, dust, and contaminants.
 ---
 Your food probe thermometer should always be stored in its protective case when not in use. This protects it from physical damage, dust, and other contaminants that could affect its performance. Never store it in extreme temperature environments like fridges, freezers, on hobs, or in ovens as this can damage the probe's sensitivity and accuracy.
 

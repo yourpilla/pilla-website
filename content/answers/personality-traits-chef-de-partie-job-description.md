@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Include personality traits in a Chef de Partie job description that match the
+  dynamics and ethos of your kitchen.
 ---
 When writing a job description for a Chef de Partie, include traits that match the dynamics and ethos of your kitchen. For example, if your kitchen is fast-paced and high-pressure, look for traits like calmness under pressure, quick decision-making, and efficiency. If the environment is more relaxed and focused on customer interaction, traits like warmth, good communication, and approachability are important.
 

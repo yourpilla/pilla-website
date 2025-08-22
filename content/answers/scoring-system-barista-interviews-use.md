@@ -131,6 +131,9 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  Using a scoring system in Barista interviews ensures fair and consistent
+  evaluation of candidates.
 ---
 Using a scoring system in Barista interviews helps you evaluate candidates fairly and consistently. It ensures that each candidate is assessed based on the same criteria, which is crucial for making objective hiring decisions. This method helps you focus on the skills and attributes that are most important for the role.
 

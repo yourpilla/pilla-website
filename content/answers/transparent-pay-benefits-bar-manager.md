@@ -122,6 +122,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  When hiring a Bar Manager, it is essential to be very clear about the salary
+  and benefits. This transparency is vital to attract the right candidates and
+  set clear expectations.
 ---
 Being very clear about the salary and benefits when hiring a Bar Manager is crucial. This transparency helps attract the right candidates and sets clear expectations from the start. It's important to list not only the salary range but also any additional perks such as bonuses, training opportunities, or staff discounts.
 

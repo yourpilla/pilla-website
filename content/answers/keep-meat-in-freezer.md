@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Fresh meat should ideally be used within one month of freezing to maintain
+  optimal quality.
 ---
 When freezing fresh meat, it's best to use it within one month. The meat needs to be properly wrapped and date labeled before freezing. For best results, make sure the meat is properly chilled (below 5°C) before placing it in the freezer - this helps the freezing process happen faster and maintains better quality.
 

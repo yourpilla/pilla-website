@@ -114,6 +114,11 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Reheating and then cooling food a second time is risky because it exposes the
+  food to the danger zone between 5°C and 50°C multiple times, significantly
+  increasing the likelihood of harmful bacterial growth. Once food is reheated,
+  it should be consumed immediately or disposed of if not used.
 ---
 Reheating and then cooling food a second time can be very risky. This process takes the food through the "danger zone" (5°C to 50°C) multiple times, which can increase the chance of harmful bacteria growing. Once food has been reheated, it should either be eaten immediately or discarded if not used.
 

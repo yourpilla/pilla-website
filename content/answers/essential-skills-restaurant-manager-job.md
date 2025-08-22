@@ -122,6 +122,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Restaurant Manager, include skills
+  directly related to the role's daily responsibilities.
 ---
 When writing a job description for a Restaurant Manager, it's important to list skills that are directly related to the daily responsibilities of the role. Essential skills often include leadership, financial management, customer service, and conflict resolution. These skills ensure the manager can handle tasks such as team management, budgeting, and customer interactions effectively.
 

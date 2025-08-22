@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Rolled joints of meat, including beef, pork, lamb, chicken, and turkey, should
+  be thoroughly cooked to ensure safety.
 ---
 Rolled joints of meat, including beef, pork, lamb, chicken, and turkey, must be cooked thoroughly to ensure they are safe to eat. To cook these meats safely, you should cook them until the juices run clear and there is no pinkness inside. Use a clean, disinfected food probe to check that the internal temperature has reached a safe level throughout the product.
 

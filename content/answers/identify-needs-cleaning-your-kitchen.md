@@ -140,6 +140,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  To identify what needs cleaning in your kitchen, conduct a thorough inspection
+  of all surfaces, equipment, and hard-to-reach areas. Check for visible dirt,
+  grease, or food particles.
 ---
 Identifying what needs cleaning in your kitchen starts with a thorough inspection. Look at all surfaces, equipment, and hard-to-reach areas. Check for any visible dirt, grease, or food particles. Remember, a clean kitchen is crucial for food safety and helps create a pleasant working environment.
 

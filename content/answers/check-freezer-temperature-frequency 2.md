@@ -106,6 +106,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  You should check and record freezer temperatures twice per day to ensure they
+  are maintained at -18°C (0°F) or below. Regularly recording this data helps in
+  maintaining optimal food safety conditions.
 ---
 You should check and record freezer temperatures twice per day. The ideal temperature should be -18°C (0°F) or below.
 

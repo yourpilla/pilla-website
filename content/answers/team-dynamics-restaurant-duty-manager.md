@@ -121,6 +121,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To attract the right candidates for a Restaurant Duty Manager role, describe
+  how the team functions together to promote a supportive and enjoyable work
+  environment.
 ---
 Describing team dynamics is key to attracting the right candidate who will fit well with your existing team. Mention how the team works together, supports each other, and the overall atmosphere. For example, you might say "Our team operates like a family, everyone supports each other to ensure a smooth service and an enjoyable work environment."
 

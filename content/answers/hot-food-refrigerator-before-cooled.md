@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Placing hot food directly into a refrigerator can cause the appliance's
+  internal temperature to rise, endangering all stored food by creating an
+  environment conducive to bacteria proliferation.
 ---
 Placing hot food directly into a refrigerator can lead to a rise in the appliance's internal temperature. This can endanger all stored food by creating an environment where bacteria can multiply quickly. It’s important to cool food to room temperature or use rapid cooling methods before refrigerating to maintain food safety and appliance efficiency.
 

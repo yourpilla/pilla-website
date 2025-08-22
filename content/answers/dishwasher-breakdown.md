@@ -113,6 +113,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  If your dishwasher stops working during service, immediately cease its use to
+  prevent worsening the problem.
 ---
 If your dishwasher breaks down during service, immediately stop using it to prevent any further issues. Switch to manual dishwashing and report the breakdown to a manager using the Pilla app. Make sure to follow the corrective actions listed to maintain hygiene and safety standards.
 

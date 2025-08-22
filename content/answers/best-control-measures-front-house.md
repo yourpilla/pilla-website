@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Choosing the right control measures for front of house risks involves
+  understanding the specific hazards and their potential effects on staff and
+  customers.
 ---
 Choosing the right control measures for front of house risks involves understanding the specific hazards and how they can affect your staff and customers. Think about reducing the likelihood of the hazard occurring and minimizing the impact if it does happen. For example, if slippery floors are a concern, consider anti-slip mats or better footwear for staff.
 

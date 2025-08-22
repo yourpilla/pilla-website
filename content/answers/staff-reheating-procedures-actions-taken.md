@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If staff do not follow reheating procedures, take immediate corrective actions
+  to ensure food safety.
 ---
 If staff do not follow reheating procedures, immediate corrective actions must be taken to ensure food safety. These include further cooking of the food to reach the required minimum temperature, using alternative equipment or dividing the food into smaller portions to speed up reheating. Additionally, faulty or broken equipment should be repaired or replaced, and if necessary, an engineer should be called. In cases of potential cross-contamination, the affected food should be discarded.
 

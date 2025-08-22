@@ -122,6 +122,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a job description for a Commis Chef, clearly outline the expected teamwork
+  dynamics within your kitchen.
 ---
 When writing a job description for a Commis Chef, it's key to clearly describe the teamwork dynamics expected in your kitchen. This helps potential candidates understand the collaborative environment they're entering. Mention how team members support each other during busy service times and the importance of communication for efficient kitchen operations.
 

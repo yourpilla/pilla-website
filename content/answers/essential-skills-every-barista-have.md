@@ -109,6 +109,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When hiring a barista, they should have essential skills from the outset to
+  ensure effective service from day one.
 ---
 When you're hiring a barista, it's important they come with certain skills to ensure they can start effectively from day one. Essential skills include basic espresso making, milk steaming, and maintaining a clean and organised workspace. These skills are crucial for any barista to perform daily tasks efficiently and maintain the quality of service expected in a busy café environment.
 

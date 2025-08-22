@@ -122,6 +122,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When crafting a job description for a Head Waiter, it's crucial to clearly
+  outline the benefits associated with the role.
 ---
 When writing a job description for a Head Waiter, it's important to clearly outline the benefits that come with the role. Include standard benefits like health insurance, paid leave, and bonuses. Also, mention unique perks such as staff meals, discounts on dining, and opportunities for professional development. This helps attract candidates who are looking for both financial and professional growth opportunities.
 

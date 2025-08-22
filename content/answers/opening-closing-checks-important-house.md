@@ -132,6 +132,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Opening and closing checks are essential for ensuring everything is ready for
+  guests and that the venue is secure after they leave.
 ---
 Opening and closing checks are crucial because they ensure that everything is ready for guests and that the venue is secure after they leave. These checks help maintain high standards of cleanliness, safety, and service, which are essential for a good customer experience and for the reputation of the business.
 

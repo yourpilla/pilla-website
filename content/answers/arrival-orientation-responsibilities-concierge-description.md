@@ -125,6 +125,9 @@ subtitle: >-
   hospitality businesses use Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Concierge job description should clearly outline responsibilities as guests
+  arrive.
 ---
 When setting up a Concierge job description, it's important to clearly define what the concierge will do as guests arrive. This includes greeting guests, providing a thorough introduction to the hotel’s services and amenities, understanding individual guest needs and preferences, informing guests of local events and attractions, and assisting with luggage and personalised room check-in processes.
 

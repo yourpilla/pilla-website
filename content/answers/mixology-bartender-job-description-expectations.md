@@ -125,6 +125,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  Yes, it's important to include expectations around drink knowledge and
+  mixology skills in a bartender job description.
 ---
 Yes, it's important to include expectations around drink knowledge and mixology skills in a bartender job description. This helps you attract candidates who are prepared for the specific demands of your bar, whether it's crafting classic cocktails or serving a wide range of beers. Clearly outlining these skills ensures applicants understand what's required and can self-assess their suitability.
 

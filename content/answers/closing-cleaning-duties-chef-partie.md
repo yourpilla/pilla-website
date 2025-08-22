@@ -124,6 +124,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  At the end of a busy day, a Chef de Partie should clean workstations, store
+  ingredients properly, participate in temperature and sanitation checks, check
+  stock levels, prepare ingredients for the next service, and ensure equipment
+  is properly shut down and maintained. These duties ensure the kitchen
+  maintains high standards of hygiene and order, preparing it for the next
+  service.
 ---
 At the end of a busy day, a Chef de Partie is responsible for ensuring the kitchen is prepped for the next service. This includes cleaning workstations, storing ingredients properly, and participating in temperature and sanitation checks. These tasks are crucial to maintain a high standard of hygiene and order in the kitchen.
 

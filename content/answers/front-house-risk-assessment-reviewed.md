@@ -119,6 +119,7 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: A front of house risk assessment should be reviewed every 12 months.
 ---
 It's important to review your front of house risk assessment every 12 months. Regular reviews help ensure that any changes in the restaurant environment or operations are accounted for, keeping your staff and customers safe.
 

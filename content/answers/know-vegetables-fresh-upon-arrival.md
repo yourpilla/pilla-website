@@ -121,6 +121,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To assess the freshness of vegetables delivered from a supplier, check for
+  firmness, absence of mold, a fresh smell, and an absence of blemishes,
+  bruising, or discolouration.
 ---
 When checking vegetables on delivery, there are several key indicators of freshness to look for:
 

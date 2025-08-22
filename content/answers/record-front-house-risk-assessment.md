@@ -83,6 +83,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To accurately record a front of house risk assessment, choose between a table
+  style layout or a listicle style document.
 ---
 Recording your front of house (FOH) risk assessment accurately is crucial for ensuring safety and compliance. You can choose between a table style layout or a written listicle style document. Both formats help you organise information about hazards, who might be harmed, existing controls, and additional actions needed.
 

@@ -120,6 +120,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  In a Hazard Analysis and Critical Control Points (HACCP) system, critical
+  control points (CCPs) are stages where control is crucial to prevent, reduce,
+  or eliminate a food safety hazard to an acceptable level. Cooking, for
+  instance, is a CCP because it is essential to cook food to the correct
+  temperature to eliminate harmful bacteria. It is important to identify these
+  points to ensure food safety effectively.
 ---
 In a HACCP system, critical control points (CCPs) are the stages where control is applied to prevent or reduce a food safety hazard to an acceptable level. Identifying these points helps ensure that food is safe to eat. For example, cooking is a CCP because it's crucial to cook food to a certain temperature to kill harmful bacteria.
 

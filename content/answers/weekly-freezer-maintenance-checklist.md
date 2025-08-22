@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  During weekly freezer maintenance, ensure to check: 1. Condensers for
+  cleanliness and unblocked paths, 2. Vents to ensure they are clear of debris
+  and allow proper airflow, 3.
 ---
 During weekly maintenance, you need to check three key areas:
 

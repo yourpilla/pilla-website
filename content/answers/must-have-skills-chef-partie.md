@@ -124,6 +124,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Chef de Partie job description should include essential skills necessary for
+  daily operations in the kitchen.
 ---
 When writing a job description for a Chef de Partie, include skills that are essential for daily operations in your kitchen. These skills should match the specific tasks and responsibilities that the role demands. Common must-have skills include advanced knife skills, knowledge of food safety and hygiene, and the ability to work efficiently under pressure.
 

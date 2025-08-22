@@ -112,6 +112,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  The ideal freezer temperature should be -18°C (0°F) or below to halt all
+  bacterial activity, ensuring food safety and preventing spoilage.
 ---
 The ideal freezer temperature should be -18°C (0°F) or below. At this temperature, all bacterial activity stops completely, keeping your food safe and preventing spoilage. If temperatures rise above -15°C, spoilage organisms can slowly start to multiply.
 

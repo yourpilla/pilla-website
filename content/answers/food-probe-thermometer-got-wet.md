@@ -114,6 +114,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If your food probe thermometer gets wet, you should immediately dry it
+  thoroughly. After drying, check its accuracy by conducting both hot and cold
+  tests.
 ---
 Food probe thermometers should never be immersed in liquids as this can damage the internal components and cause inaccurate readings. If your probe does get wet, you should immediately dry it thoroughly and then test its accuracy using both the hot and cold testing methods.
 

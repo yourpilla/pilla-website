@@ -120,6 +120,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When drafting a sommelier job description, focus primarily on skills that are
+  vital to the role's daily activities and guest interactions.
 ---
 When you're writing a job description for a sommelier, it's important to focus on essential skills that directly impact their role. Key skills include in-depth wine knowledge, exceptional customer service, and a sommelier certification. These are crucial because they ensure the candidate can provide expert advice, handle guests with care, and have a professional understanding of wines.
 

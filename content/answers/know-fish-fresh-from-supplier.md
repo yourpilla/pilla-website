@@ -121,6 +121,14 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To determine the freshness of fish upon delivery, look for several key
+  indicators: Bright, not sunken eyes; firm flesh with a fine layer of sea
+  slime; red-coloured gills; scales that are difficult to remove and appear
+  fresh, not dry; and a neutral to slightly oceanic smell without strong fishy
+  odours. Additionally, fish can be considered fresh if it is flash-frozen
+  immediately after catch and properly thawed, as quick freezing preserves its
+  quality.
 ---
 When checking fish deliveries, there are several key indicators of freshness to look for:
 

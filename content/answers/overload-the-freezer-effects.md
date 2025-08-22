@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  You can determine if your freezer is overloaded by checking for inadequate
+  space around the interior and back of the unit to allow for air circulation.
 ---
 You'll know your freezer is overloaded if there isn't adequate space around the inside and back of the unit for air to circulate. For chest freezers, if you're stacking items above the load line, that's a clear sign of overloading. Another indicator is if you're having trouble closing the door or lid properly.
 

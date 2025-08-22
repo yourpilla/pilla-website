@@ -130,6 +130,12 @@ subtitle: >-
   directly](https://mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  A practical trial for a barista should include key tasks such as pulling
+  espresso shots, steaming and pouring milk, keeping a clean and organised
+  workstation, and managing simple customer interactions. These activities
+  provide insights into the candidate's coffee-making skills, hygiene practices,
+  and customer service skills.
 ---
 When you're looking to hire a new barista, a practical trial is a great way to see their skills in action. A typical trial should include tasks like pulling espresso shots, steaming and pouring milk, maintaining a clean and organised workstation, and handling a simple customer interaction. This setup gives you a clear view of their coffee-making skills, hygiene habits, and customer service approach.
 

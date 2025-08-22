@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Food that has been above 8°C must be discarded after 4 hours. This rule is
+  strictly applicable only once and cannot be applied multiple times for periods
+  under 4 hours each.
 ---
 Food that has been above 8°C must be thrown away after 4 hours. This is known as the 4-hour rule. It's important to note that this is only allowed once - you can't have multiple periods where food is above 8°C, even if each period is less than 4 hours.
 

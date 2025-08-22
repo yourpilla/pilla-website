@@ -127,6 +127,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To comply with Martyn's Law, venues should start by assessing if they fall
+  under the law based on capacity and public access.
 ---
 Preparing for Martyn's Law involves several practical steps to ensure your venue is ready for the new regulations. Start by assessing if your venue falls under the law's requirements based on its capacity and public access. Then, familiarise yourself with the duties you need to perform, whether standard or enhanced, and begin planning your compliance strategy.
 

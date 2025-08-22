@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Chef de Partie job description, clearly state the required experience
+  level—novice, intermediate, or advanced—based on your kitchen's complexity and
+  pace.
 ---
 When writing a job description for a Chef de Partie, it's important to clearly state the experience level needed. This helps ensure that you attract candidates who are capable of handling the responsibilities of the role. Specify whether you need a novice, intermediate, or advanced chef, based on the complexity and pace of your kitchen.
 

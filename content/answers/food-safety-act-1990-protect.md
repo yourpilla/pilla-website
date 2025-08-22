@@ -121,6 +121,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  The Food Safety Act 1990 ensures that all food sold in the UK meets strict
+  safety standards by outlining legal obligations for food businesses.
 ---
 The Food Safety Act 1990 is designed to protect consumers by ensuring that all food sold in the UK meets strict safety standards. It does this by setting out legal obligations for food businesses to prevent the sale or processing of food that could be harmful to health. This includes regulations on hygiene, accurate labelling, and preventing food contamination.
 

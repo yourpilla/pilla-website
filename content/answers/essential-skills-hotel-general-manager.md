@@ -7,8 +7,8 @@ subtitle: >-
   Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to
   [email Liam directly](https://mailto:liam@yourpilla.com), he reads every
   email.
-sidebar_image: "https://ucarecdn.com/your-uploadcare-uuid-here/your-image.jpg"
-sidebar_image_alt: "Hotel General Manager in professional setting"
+sidebar_image: 'https://ucarecdn.com/your-uploadcare-uuid-here/your-image.jpg'
+sidebar_image_alt: Hotel General Manager in professional setting
 meta: >
   Discover the essential skills for a Hotel General Manager, including
   leadership, financial management, and guest relations, to ensure effective
@@ -124,6 +124,14 @@ breadcrumb_schema: |
       }
     ]
   }
+summary: >-
+  A Hotel General Manager job description should include skills directly linked
+  to the role's responsibilities such as leadership, financial management,
+  operational oversight, and excellent communication. These skills are crucial
+  for effectively overseeing hotel operations, managing staff, and ensuring
+  guest satisfaction. Additional specific skills include familiarity with
+  hospitality management software, guest relations, and industry-specific
+  regulatory compliance.
 ---
 When writing a job description for a Hotel General Manager, include skills directly linked to the responsibilities of the role. Essential skills often involve leadership, financial management, operational oversight, and excellent communication. These skills ensure the manager can effectively oversee hotel operations, manage staff, and maintain high levels of guest satisfaction.
 

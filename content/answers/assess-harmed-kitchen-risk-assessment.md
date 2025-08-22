@@ -114,6 +114,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  In conducting a kitchen risk assessment, identify not only the hazards but
+  also those who might be harmed.
 ---
 When conducting a kitchen risk assessment, it's crucial to identify not just the hazards, but also who could be harmed by them. This involves thinking about all the different types of people who interact with your kitchen, from staff to occasional visitors, and how they might be affected by the specific hazards present.
 

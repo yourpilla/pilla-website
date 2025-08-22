@@ -128,6 +128,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Martyn's Law, officially known as the Terrorism (Protection of Premises) Act
+  2025, is UK legislation aimed at enhancing security in public venues to
+  mitigate terrorist threats.
 ---
 Martyn's Law, officially known as the Terrorism (Protection of Premises) Act 2025, is a UK legislation designed to enhance security in public venues to prepare for and mitigate terrorist attacks. It was introduced in response to several terrorist incidents in the UK, aiming to ensure that venues are better prepared to protect the public.
 

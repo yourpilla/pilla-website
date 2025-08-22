@@ -126,6 +126,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Closing checks in a kitchen help prevent several risks including food
+  spoilage, pest infestations, and fire hazards.
 ---
 Closing checks in a kitchen are designed to prevent several risks that can compromise food safety, attract pests, or cause equipment damage. These checks ensure that everything is clean, stored properly, and turned off. This helps avoid problems like food spoilage, pest infestations, and fire hazards.
 

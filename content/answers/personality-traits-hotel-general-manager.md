@@ -124,6 +124,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a Hotel General Manager, focus on traits
+  such as adaptability, leadership, and customer focus.
 ---
 When writing a job description for a Hotel General Manager, focus on personality traits that match the demands of the role and the hotel's environment. Traits like adaptability, leadership, and customer focus are often key. For instance, if your hotel thrives on high-energy and quick decision-making, look for someone who is resilient, decisive, and can handle stress well.
 

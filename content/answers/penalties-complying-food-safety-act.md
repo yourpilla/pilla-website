@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Failure to comply with the Food Safety Act 1990 can result in serious
+  penalties, including the closure of the business, substantial fines, or even
+  imprisonment in severe cases.
 ---
 If a food business doesn't follow the Food Safety Act 1990, it can face serious penalties. These can include closure of the business, heavy fines, or even prison time for the most severe cases. This is to make sure that everyone's health is protected by keeping all food safe and properly managed.
 

@@ -123,6 +123,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When creating a job description for a Sous Chef, describe the service style of
+  your restaurant to set clear expectations.
 ---
 When writing a job description for a Sous Chef, it's important to clearly describe the service style of your restaurant. This helps potential candidates understand the pace and environment they will be working in. For example, specify if your restaurant offers a fine dining experience, a fast-paced bistro setting, or a casual dining atmosphere. This information sets clear expectations and attracts candidates who are comfortable and thrive in your specific service style.
 

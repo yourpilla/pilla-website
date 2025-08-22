@@ -114,6 +114,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  The correct wash temperature for a commercial dishwasher should be between
+  55-60°C to ensure that the alkaline chemicals in the detergents are activated
+  effectively.
 ---
 The correct wash temperature for a commercial dishwasher should be between 55-60°C. This range is crucial to ensure that the alkaline chemicals in detergents work effectively to break down and remove soiling from dishes, cutlery, and other kitchenware.
 

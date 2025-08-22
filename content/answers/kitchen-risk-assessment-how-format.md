@@ -113,6 +113,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  When formatting your kitchen risk assessment, opt for a layout that clearly
+  identifies hazards, affected individuals, and control measures.
 ---
 When formatting your kitchen risk assessment, it's crucial to choose a layout that allows you to clearly identify hazards, who might be harmed, and the controls in place. The format should make it easy to update and refer to, ensuring that all necessary details are accessible and understandable.
 

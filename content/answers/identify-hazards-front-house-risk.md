@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To identify hazards in the front of house area effectively, walk through the
+  space during actual service hours to observe interactions and movements of
+  customers and staff in real-time.
 ---
 To effectively identify hazards in your front of house area, walk through the space during actual service hours. This allows you to observe how customers and staff interact and move in real-time, helping you spot potential risks that might not be apparent when the area is empty.
 

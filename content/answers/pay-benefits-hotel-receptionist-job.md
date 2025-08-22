@@ -125,6 +125,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for a Hotel Receptionist, include the salary
+  range or pay rate, and any additional benefits such as bonuses or health
+  benefits.
 ---
 When writing a job description for a Hotel Receptionist, it's important to clearly include the salary range or pay rate, and any additional benefits. This transparency helps attract the right candidates and sets clear expectations. For example, you might list a pay range of £10.50–£12.00 per hour, depending on experience, and highlight any bonuses or incentives.
 

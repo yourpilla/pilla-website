@@ -130,6 +130,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Hospitality businesses that do not comply with Martyn's Law can face stiff
+  penalties including fines, enforcement notices, and possible closure.
 ---
 For hospitality businesses, not complying with Martyn's Law can lead to serious legal and operational consequences. These include fines, enforcement notices, and even closure of the venue. It's crucial to understand and meet the requirements to avoid these penalties and ensure the safety of your guests and staff.
 

@@ -113,6 +113,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  When changes occur in your kitchen, it is crucial to update your risk
+  assessment. Begin by reviewing the existing document and noting any new
+  hazards that the changes may introduce.
 ---
 When your kitchen undergoes any changes, it's essential to update your risk assessment to reflect these new conditions. Start by reviewing the existing document and noting any new hazards introduced by the changes. Adjust the risk levels and control measures accordingly. It’s a good practice to involve your team in this process, as they might provide insights into potential risks and effective precautions.
 

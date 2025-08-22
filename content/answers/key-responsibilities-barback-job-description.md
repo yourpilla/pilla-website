@@ -123,6 +123,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When composing a Barback job description, clearly outline the key
+  responsibilities in three main categories: pre-service and preparation, active
+  service, and end-of-shift.
 ---
 When writing a job description for a Barback, it's important to clearly outline the key responsibilities. Divide these tasks into three main categories: pre-service and preparation, active service, and end-of-shift. This helps candidates understand what is expected of them at different times during their shift.
 

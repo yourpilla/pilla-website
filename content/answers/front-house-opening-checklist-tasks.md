@@ -126,6 +126,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  A comprehensive front of house opening checklist should include the following
+  tasks: (1) Conduct a guest perspective walkthrough to identify any issues. (2)
+  Clean and set up outdoor areas.
 ---
 When preparing your front of house for opening, it's important to cover all areas that impact guest experience and operational efficiency. Start with a walkthrough from the perspective of a guest to spot any issues. Key tasks should include cleaning and setting up outdoor areas, ensuring the entrance and host stand are welcoming and functional, preparing the dining and seating areas, checking the bar or service station, and making sure the toilets are clean and well-stocked.
 

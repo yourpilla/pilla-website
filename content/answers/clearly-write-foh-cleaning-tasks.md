@@ -137,6 +137,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  To clearly write FOH cleaning tasks, it's important to provide specific and
+  detailed instructions to avoid confusion and ensure consistency in cleaning
+  standards.
 ---
 When writing FOH cleaning tasks, it's key to be specific and clear so every team member knows exactly what to do. Use actionable language that leaves no room for interpretation. For example, instead of saying "Clean the bar," specify "Wipe down the bar surface and stools with disinfectant after each shift."
 

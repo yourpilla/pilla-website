@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  Regular maintenance of a commercial dishwasher is crucial to ensure efficient
+  operation and maintain hygiene standards. Key tasks include checking and
+  cleaning filters, spray arms, and seals.
 ---
 Regular maintenance of a commercial dishwasher is important to make sure it operates efficiently and maintains hygiene standards. Key maintenance tasks include checking and cleaning filters, spray arms, and seals. Running periodic cleaning cycles with specialised dishwasher cleaning agents helps prevent the buildup of food debris and residues. Manual scrubbing may be needed to remove biofilm, especially in hard water areas where scaling can happen.
 

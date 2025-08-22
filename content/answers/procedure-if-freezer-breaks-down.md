@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If your freezer breaks down, you should: 1) Check if the food inside is still
+  frozen solid. If yes, quickly transfer it to another freezer.
 ---
 If your freezer breaks down, here's what you need to do
 

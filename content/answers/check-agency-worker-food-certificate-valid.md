@@ -68,6 +68,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  To ensure food safety, you must obtain written confirmation of an agency
+  worker’s food hygiene qualifications before they work in kitchen areas or
+  handle any food.
 ---
 You must obtain written confirmation of their food hygiene qualifications before allowing them to work in kitchen areas or handle any food. Agency workers cannot handle food until their qualifications have been verified - this is a strict requirement to maintain food safety standards.
 

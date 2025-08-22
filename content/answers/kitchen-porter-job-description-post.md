@@ -123,6 +123,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A comprehensive Kitchen Porter job description should outline key post-service
+  tasks such as washing dishes, sanitising workstations, and resetting the
+  kitchen for the next service.
 ---
 When writing a job description for a Kitchen Porter, it's important to include specific post-service responsibilities. These typically involve cleaning tasks, such as washing dishes and sanitising workstations, and resetting the kitchen for the next service. This ensures everything is clean and organised, ready for another day of service.
 

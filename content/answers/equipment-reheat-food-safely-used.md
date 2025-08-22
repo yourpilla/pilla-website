@@ -120,6 +120,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To reheat food safely, it's crucial to use equipment that's specifically
+  designed for this purpose such as microwave ovens, stovetops, or conventional
+  ovens.
 ---
 To reheat food safely, use equipment specifically designed for reheating, such as microwave ovens, stovetops, or conventional ovens. These devices can quickly reach and maintain the high temperatures needed to bring food up to safe reheating temperatures, ensuring bacteria and spores are effectively reduced.
 

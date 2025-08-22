@@ -128,6 +128,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Frozen deliveries should arrive at a temperature of -18°C or colder, up to a
+  maximum of -15°C.
 ---
 Frozen foods need to be delivered at -18°C or slightly colder. You can accept deliveries up to a maximum temperature of -15°C, but anything warmer than this must be rejected as spoilage organisms may start growing and affect product quality.
 

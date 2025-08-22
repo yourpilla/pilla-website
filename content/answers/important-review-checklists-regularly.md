@@ -125,6 +125,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Regularly reviewing your kitchen checklists ensures they remain relevant and
+  effective as changes occur in the kitchen, such as updates to equipment or
+  menu.
 ---
 Reviewing your kitchen checklists regularly is key to keeping your operations smooth and safe. It ensures that your checklists stay relevant and effective as your kitchen environment changes, such as with new equipment or menu updates. This process helps prevent problems before they start, keeping your team on track and your customers safe.
 

@@ -113,6 +113,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  Identify hazards in a kitchen by actively observing the kitchen environment
+  during different operation times such as prep, service, and clean-down.
 ---
 Identifying hazards in a kitchen is a crucial first step in creating a safe working environment. Start by walking through the kitchen during different times like prep, service, and clean-down to see what potential hazards arise. Observe the tasks being performed, check the condition of equipment, and discuss with the team about their experiences and near misses.
 

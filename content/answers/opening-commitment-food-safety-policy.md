@@ -119,6 +119,12 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  The opening commitment of a food safety policy should explicitly state the
+  company's dedication to the highest standards of food safety, outlining
+  adherence to laws and regulations and prioritising customer and staff health
+  and safety. This is fundamental for establishing the importance of food safety
+  within the company.
 ---
 The opening commitment of a food safety policy should clearly state the company's dedication to maintaining the highest standards of food safety. It should outline the company's commitment to comply with all relevant laws and regulations and to ensure the health and safety of its customers and staff. This sets the tone for the importance of food safety within the business.
 

@@ -123,6 +123,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  To describe your team culture in a bartender job description, start by
+  identifying what makes your team unique, such as a lively, fast-paced
+  atmosphere or a relaxed, detail-oriented approach.
 ---
 Describing your team culture in a job description helps potential bartenders understand the work environment and decide if they would be a good fit. Start by reflecting on what makes your team unique. Is it the lively, fast-paced atmosphere or a more relaxed, detail-oriented approach? Mention how the team collaborates, handles busy periods, and any shared values or goals.
 

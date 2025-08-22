@@ -124,6 +124,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  When writing a job description for an Executive Chef, clearly outline the
+  leadership expectations such as managing the kitchen, interacting with staff,
+  and maintaining high standards.
 ---
 When writing a job description for an Executive Chef, it's important to clearly outline the leadership expectations. This includes detailing how they should manage the kitchen, interact with staff, and uphold standards. For example, you might expect the Executive Chef to lead by example, maintain high culinary standards, and manage the kitchen team effectively.
 

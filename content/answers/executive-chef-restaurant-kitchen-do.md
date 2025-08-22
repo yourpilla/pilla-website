@@ -114,6 +114,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  An Executive Chef is primarily responsible for managing the overall operation
+  of the kitchen.
 ---
 An Executive Chef, often seen as the leader of the kitchen, handles mainly managerial tasks rather than daily cooking duties. They are responsible for the overall operation of the kitchen, including menu creation, kitchen staff management, and ensuring that all dishes meet safety and quality standards. Their role is crucial in shaping the restaurant's culinary direction and maintaining high standards.
 

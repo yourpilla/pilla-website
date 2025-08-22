@@ -77,6 +77,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Your Level 2 food hygiene certificate must be renewed every three years to
+  ensure you remain compliant with current food safety standards.
 ---
 Your Level 2 food hygiene certificate needs to be renewed every 3 years to stay valid and ensure you're up to date with current food safety standards. This applies to all staff who regularly handle open and high-risk foods.
 

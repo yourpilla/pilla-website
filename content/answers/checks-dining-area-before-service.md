@@ -126,6 +126,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  Before service starts, ensure that the dining area is well-prepared to welcome
+  guests. This involves checking that all tables are clean, stable, and
+  completely set with menus, cutlery, and napkins.
 ---
 Before service starts, it's key to ensure the dining area is perfectly set up to welcome guests. This includes checking that all tables are clean, stable, and fully set with menus, cutlery, and napkins. Chairs should be clean and in good repair, and floors should be free from debris and freshly mopped or vacuumed. This sets the stage for a positive dining experience and shows attention to detail, which guests always appreciate.
 

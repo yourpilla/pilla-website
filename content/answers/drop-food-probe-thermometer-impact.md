@@ -114,6 +114,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If you drop your probe thermometer, you should immediately stop using it and
+  inspect it carefully for any visible damage like cracks, chips, or a bent
+  probe tip.
 ---
 If you drop your probe thermometer, you should immediately stop using it and inspect it carefully. Even minor impacts can damage the sensitive equipment inside, which could lead to unreliable temperature readings. Look for any visible damage like cracks, chips, or a bent probe tip.
 

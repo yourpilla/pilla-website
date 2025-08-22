@@ -113,6 +113,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional kitchen and culinary operations
+summary: >-
+  A kitchen risk assessment in hospitality is a comprehensive evaluation of
+  potential hazards in the kitchen.
 ---
 A kitchen risk assessment is a detailed evaluation of potential hazards in the kitchen of a hospitality business. It identifies what could cause harm to staff or visitors, assesses the likelihood and severity of these hazards, and determines necessary precautions to reduce risks. This is crucial because kitchens often have unique and high-risk hazards such as hot surfaces, sharp tools, and heavy lifting.
 

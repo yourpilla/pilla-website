@@ -114,6 +114,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Grey spots on frozen food, known as freezer burn, occur when air reaches the
+  food's surface, causing dehydration and oxidation.
 ---
 Those grey-brown leathery spots you're seeing are called freezer burn. This happens when air reaches the food's surface and causes dehydration and oxidation. While freezer burn doesn't make the food unsafe to eat, it can affect the quality and taste.
 

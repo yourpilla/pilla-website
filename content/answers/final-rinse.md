@@ -115,6 +115,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  The final rinse temperature in a commercial dishwasher should be maintained
+  between 82-88°C to ensure that dishes are not only clean but also sanitised
+  effectively, eliminating harmful pathogens.
 ---
 The final rinse temperature in a commercial dishwasher should be between 82-88°C. This range is important to make sure that your dishes are not only clean but also sanitised properly, eliminating harmful pathogens effectively.
 

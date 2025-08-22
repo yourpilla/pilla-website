@@ -115,6 +115,13 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  To properly clean a food probe thermometer, follow this two-step process: (1)
+  Wash the probe with warm soapy water to remove any visible dirt or debris,
+  then rinse with clean water to eliminate soap residue. (2) Sanitise the probe
+  using alcohol swabs or a bleach solution to remove any remaining bacteria or
+  allergens. This method ensures the thermometer is sufficiently cleaned and
+  sanitised, preventing cross-contamination between different foods.
 ---
 To properly clean a food probe thermometer, you need to follow a two-step process:
 

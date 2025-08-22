@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  In a Kitchen Porter job description, accurately describe your kitchen
+  environment by mentioning the pace, style, and team dynamics.
 ---
 Describing your kitchen environment accurately in a job description helps attract the right candidates. Mention the pace (e.g., fast-paced, high-volume), the style (e.g., casual dining, fine dining), and the team dynamics (e.g., large team, family-style management). This gives potential candidates a clear idea of what to expect and whether they'd be a good fit.
 

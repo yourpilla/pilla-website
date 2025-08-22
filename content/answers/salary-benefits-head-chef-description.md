@@ -125,6 +125,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  A Head Chef job description should clearly state the salary range or fixed
+  salary, along with benefits.
 ---
 When writing a job description for a Head Chef, it's important to clearly state the salary range or fixed salary, along with any benefits. This transparency helps attract the right candidates and sets clear expectations. Include details like health insurance, bonuses, and any special perks like culinary trips or team events.
 

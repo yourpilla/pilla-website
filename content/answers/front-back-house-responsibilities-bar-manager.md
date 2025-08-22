@@ -125,6 +125,10 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  Front-of-house responsibilities for a Bar Manager focus on direct customer
+  interaction, managing the service team, engaging with customers, and
+  maintaining service quality.
 ---
 Front-of-house (FOH) responsibilities focus on direct customer interaction and ensuring an exceptional guest experience. This includes managing the service team, engaging with customers, and maintaining service quality. Back-of-house (BOH) responsibilities, however, deal with behind-the-scenes tasks such as inventory management, scheduling, and compliance with safety regulations. Both areas require the Bar Manager to ensure smooth operation and quality service.
 

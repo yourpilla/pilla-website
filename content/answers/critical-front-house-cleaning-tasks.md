@@ -129,6 +129,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality cleaning and maintenance procedures
+summary: >-
+  After each guest, it is important to reset the area promptly to ensure
+  cleanliness.
 ---
 After each guest leaves, it's vital to quickly reset the area to maintain cleanliness and ensure the next guest walks into a welcoming environment. Key tasks include sanitising table tops, chair backs, and arm rests, wiping and resetting menus, condiments, and cutlery, cleaning and repositioning high chairs or booster seats, checking the floor area under and around the table, sanitising handheld devices like ordering tablets and card machines, and removing any crumbs and fingerprints from tabletop surfaces.
 

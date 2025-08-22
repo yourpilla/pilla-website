@@ -115,6 +115,9 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If you notice any issues with your probe thermometer, you should inform your
+  head chef. They will verify the problem by checking the probe's accuracy.
 ---
 You should inform your head chef if you notice any issues with your probe thermometer. They will need to verify the problem by rechecking the probe's accuracy. If they confirm the probe is faulty, they'll ensure it's taken out of service and arrange for a replacement probe to be made available.
 

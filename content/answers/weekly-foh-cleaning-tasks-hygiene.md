@@ -140,6 +140,13 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Weekly cleaning tasks to maintain cleanliness and hygiene in the front of
+  house (FOH) of a restaurant include: deep vacuuming of carpets, scrubbing hard
+  floors, dusting light fittings, cleaning skirting boards, and wiping down
+  furniture. It is also important to clean high-touch areas like chair legs and
+  bar stools. Schedule these tasks during quieter periods or when the restaurant
+  is closed for efficient cleaning without disrupting service.
 ---
 Weekly cleaning tasks are crucial to keep your restaurant's front of house (FOH) looking sharp and hygienic. These tasks should include deep vacuuming of carpets, scrubbing hard floors, dusting light fittings, cleaning skirting boards, and wiping down furniture. It's also important to clean high-touch areas like chair legs and bar stools.
 

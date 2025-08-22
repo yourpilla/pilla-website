@@ -127,6 +127,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  The UK Security Industry Authority (SIA) will oversee the enforcement of
+  Martyn's Law, including monitoring compliance and ensuring that venues meet
+  the law's requirements.
 ---
 Once Martyn's Law is in force, the UK Security Industry Authority (SIA) will oversee its enforcement. This includes monitoring compliance and taking necessary actions to ensure that venues meet the law's requirements. The SIA's role is to support and guide businesses initially, helping them understand and meet their obligations under the law.
 

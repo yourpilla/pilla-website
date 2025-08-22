@@ -127,6 +127,10 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  Martyn's Law, officially known as the Terrorism (Protection of Premises) Act
+  2025, was granted Royal Assent on 3rd April 2025. However, its requirements
+  will not become enforceable immediately.
 ---
 Martyn's Law, officially known as the Terrorism (Protection of Premises) Act 2025, received Royal Assent on 3rd April 2025. However, the new duties will not apply immediately. The government has set an implementation period, with enforcement expected to begin around 2027. This means that while the law is officially in place, the requirements won't be enforceable until this future date.
 

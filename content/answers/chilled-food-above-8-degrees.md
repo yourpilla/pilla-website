@@ -112,6 +112,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If chilled food arrives above 8°C from a supplier, you must immediately reject
+  the delivery and inform the supplier. This temperature exceeds the critical
+  food safety limit of 8°C.
 ---
 If chilled food arrives above 8°C, you must reject the delivery immediately and contact the supplier. This is a critical food safety limit that cannot be exceeded under any circumstances. Make sure to record the rejection in your delivery checks and note the temperature that was recorded.
 

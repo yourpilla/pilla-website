@@ -106,6 +106,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  When your dishwasher is not working, switch to manual dishwashing by using a
+  three-compartment sink as follows: (1) Wash dishes and utensils with hot,
+  soapy water in the first compartment.
 ---
 When your dishwasher is out of service, switch to manual dishwashing using a three-compartment sink. Start by washing dishes and utensils with hot, soapy water in the first compartment. Rinse them in clean water in the second compartment. Finally, sanitise them in the third compartment using an appropriate chemical sanitiser, like a chlorine solution or quaternary ammonium. Make sure all dishes and utensils air-dry fully on a clean, sanitised surface.
 

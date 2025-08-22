@@ -121,6 +121,10 @@ subtitle: >-
   hospitality businesses use Pilla to manage food safety.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Food safety and hygiene in hospitality settings
+summary: >-
+  Fridge temperatures should be checked and recorded twice per day or once per
+  shift. Regular checking helps identify any issues early, preventing potential
+  food safety problems.
 ---
 Fridge temperatures need to be checked and recorded twice per day - or look at it as once per shift.
 

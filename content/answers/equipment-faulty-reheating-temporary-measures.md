@@ -119,6 +119,9 @@ subtitle: >-
   email.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Hospitality industry guidance and best practices
+summary: >-
+  If you discover any faults with your reheating equipment, promptly cease using
+  it. To ensure food safety, either repair or replace the equipment.
 ---
 If you find that your reheating equipment is not working properly, it's important to take immediate action to ensure food safety. First, stop using the faulty equipment. Then, follow these steps: repair or replace the equipment, use alternative equipment, and increase supervision and retraining of staff if necessary.
 

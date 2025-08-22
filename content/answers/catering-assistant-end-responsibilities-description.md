@@ -125,6 +125,12 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Professional hospitality job roles and responsibilities
+summary: >-
+  At the end of a shift, a Catering Assistant should handle these key tasks:
+  cleaning and sanitising workspaces, breaking down service areas, and disposing
+  of waste in line with environmental guidelines or business policies. These
+  responsibilities ensure a clean and organised environment, crucial for
+  efficient operation and food safety.
 ---
 At the end of a shift, a Catering Assistant should handle several key tasks to ensure everything is set for the next service. This includes cleaning and sanitising workspaces, breaking down service areas, and properly disposing of waste according to environmental guidelines or business policies. These responsibilities help maintain a clean and organised environment, crucial for efficient operation and food safety.
 

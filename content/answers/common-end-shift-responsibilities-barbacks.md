@@ -123,6 +123,9 @@ subtitle: >-
   Pilla to create and record job descriptions.
 sidebar_image: 'https://ucarecdn.com/placeholder-uuid/hospitality-faq-image.jpg'
 sidebar_image_alt: Bar service and hospitality operations
+summary: >-
+  At the end of a busy shift, Barbacks are responsible for several critical
+  tasks to prepare the bar for the next day.
 ---
 At the end of a busy shift, Barbacks have specific tasks to ensure the bar is ready for the next day. These include deep cleaning bar areas and equipment, restocking all necessary items, securing perishable goods, and disposing of waste according to the bar's policies. These responsibilities help maintain the bar's efficiency and cleanliness, crucial for a smooth operation.
 
