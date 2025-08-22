@@ -184,7 +184,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
       </div>
       
       {/* Main Content Section - Centered Layout */}
-      <div className="bg-white px-6 py-32 lg:px-8">
+      <div className="bg-main px-6 py-32 lg:px-8">
         <div className="mx-auto max-w-3xl text-base/7 text-gray-700">
           <MarkdownContent content={post.content} />
         </div>
@@ -348,7 +348,7 @@ slug: "url-slug"
 - **TLDR Content**: `.small-blue` (custom class, no heading)
 
 ### Main Content Section Styles:
-- **Main Content Container**: `bg-white px-6 py-32 lg:px-8`
+- **Main Content Container**: `bg-main px-6 py-32 lg:px-8`
 - **Content Wrapper**: `mx-auto max-w-3xl text-base/7 text-gray-700`
 
 ---
@@ -364,8 +364,8 @@ slug: "url-slug"
 ### Bottom Section (Centered Content):
 - **Content**: Main markdown content from `.md` file body
 - **Layout**: Centered with `max-w-3xl` constraint
-- **Background**: Clean `bg-white`
-- **Container**: `bg-white px-6 py-32 lg:px-8`
+- **Background**: Clean `bg-main`
+- **Container**: `bg-main px-6 py-32 lg:px-8`
 - **Typography**: `text-base/7 text-gray-700`
 
 ---
@@ -407,7 +407,7 @@ slug: "url-slug"
 - **Content Width**: `max-w-7xl` and `lg:max-w-4xl` → adjust max widths
 
 #### Bottom Section (Main Content):
-- **Background**: `bg-white` → change content background
+- **Background**: `bg-main` → change content background
 - **Padding**: `px-6 py-32 lg:px-8` → adjust vertical/horizontal spacing
 - **Content Width**: `max-w-3xl` → adjust reading width
 - **Typography**: `text-base/7 text-gray-700` → adjust font size and color
@@ -419,7 +419,7 @@ slug: "url-slug"
 
 ### Color Scheme:
 - **Header Background**: `bg-main` (brand color)
-- **Content Background**: `bg-white` (clean content area)
+- **Content Background**: `bg-main` (matches header)
 - **Text**: Gray scale (`text-gray-700`, `text-gray-900`)  
 - **Links**: Underline with opacity hover states
 

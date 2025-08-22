@@ -11,13 +11,22 @@ export default function MarkdownContent({ content, className = "" }: MarkdownCon
       <ReactMarkdown
         components={{
           h2: ({ children }) => (
-            <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">{children}</h3>
+            <h2 className="h2">{children}</h2>
           ),
           h3: ({ children }) => (
-            <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">{children}</h4>
+            <h3 className="h3">{children}</h3>
+          ),
+          h4: ({ children }) => (
+            <h4 className="h4">{children}</h4>
+          ),
+          h5: ({ children }) => (
+            <h5 className="h5">{children}</h5>
+          ),
+          h6: ({ children }) => (
+            <h6 className="h6">{children}</h6>
           ),
           p: ({ children }) => (
-            <p className="mb-4 text-lg leading-relaxed text-gray-700">{children}</p>
+            <p className="small-blue">{children}</p>
           ),
           a: ({ href, children }) => (
             <a

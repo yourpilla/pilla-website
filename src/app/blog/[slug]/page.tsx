@@ -178,7 +178,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
       </div>
       
       {/* Main Content Section - Centered Layout */}
-      <div className="bg-white px-6 py-32 lg:px-8">
+      <div className="bg-main px-6 py-32 lg:px-8">
         <div className="mx-auto max-w-3xl text-base/7 text-gray-700">
           <MarkdownContent content={post.content} />
         </div>
