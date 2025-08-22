@@ -209,7 +209,7 @@ export default async function BlogPage({ params }: BlogPageProps) {
                   <div key={faq.uniqueId || index}>
                     <dt className="h6">{faq.title}</dt>
                     <dd className="mt-2 small-blue">
-                      {faq.frontmatter.summary 
+                      {faq.frontmatter.summary && typeof faq.frontmatter.summary === 'string'
                         ? (faq.frontmatter.summary.length > 120 
                             ? faq.frontmatter.summary.substring(0, 120) + '...' 
                             : faq.frontmatter.summary)
