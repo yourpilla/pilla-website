@@ -4,7 +4,7 @@
 *Current blog [slug] page code - working as-is*
 
 ```tsx
-import { getContentBySlug, getAllSlugs } from '@/lib/content';
+import { getContentBySlug, getAllSlugs, getFAQsByUIDs } from '@/lib/content';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Image from 'next/image';
@@ -65,6 +65,13 @@ export default async function BlogPage({ params }: BlogPageProps) {
   const sidebarImageAlt = post.frontmatter.sidebar_image_alt && typeof post.frontmatter.sidebar_image_alt === 'string'
     ? post.frontmatter.sidebar_image_alt
     : "Hospitality blog and insights";
+
+  // Get FAQs by UIDs from the questions field
+  const questionUIDs = post.frontmatter.questions && typeof post.frontmatter.questions === 'string' 
+    ? post.frontmatter.questions.split(',').map((uid: string) => uid.trim()).filter((uid: string) => uid.length > 0)
+    : [];
+  
+  const faqs = getFAQsByUIDs(questionUIDs);
 
   return (
     <>
@@ -189,6 +196,34 @@ export default async function BlogPage({ params }: BlogPageProps) {
           <MarkdownContent content={post.content} />
         </div>
       </div>
+
+      {/* FAQ Section */}
+      {faqs && faqs.length > 0 && (
+        <div className="bg-white">
+          <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
+            <h2 className="h2">Frequently asked questions</h2>
+            <p className="mt-6 max-w-2xl small-grey">
+              Have a different question and can't find the answer you're looking for? Reach out to our support team by{' '}
+              <a href="#" className="font-semibold text-indigo-600 hover:text-indigo-500">
+                sending us an email
+              </a>{' '}
+              and we'll get back to you as soon as we can.
+            </p>
+            <div className="mt-20">
+              <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:space-y-0 sm:gap-x-6 sm:gap-y-16 lg:grid-cols-3 lg:gap-x-10">
+                {faqs.map((faq, index) => (
+                  <div key={faq.uniqueId || index}>
+                    <dt className="h6">{faq.title}</dt>
+                    <dd className="mt-2 small-blue">
+                      <MarkdownContent content={faq.content} />
+                    </dd>
+                  </div>
+                ))}
+              </dl>
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 }
@@ -308,6 +343,72 @@ export default function Example() {
   )
 }
 
+const faqs = [
+  {
+    id: 1,
+    question: "What's the best thing about Switzerland?",
+    answer:
+      "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+  },
+  {
+    id: 2,
+    question: 'How do you make holy water?',
+    answer:
+      'You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
+  },
+  {
+    id: 3,
+    question: 'Why do you never see elephants hiding in trees?',
+    answer:
+      "Because they're so good at it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+  },
+  {
+    id: 4,
+    question: 'What do you call someone with no body and no nose?',
+    answer: 'Nobody knows. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
+  },
+  {
+    id: 5,
+    question: "Why can't you hear a pterodactyl go to the bathroom?",
+    answer:
+      'Because the pee is silent. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.',
+  },
+  {
+    id: 6,
+    question: 'Why did the invisible man turn down the job offer?',
+    answer:
+      "He couldn't see himself doing it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+  },
+]
+
+export default function Example() {
+  return (
+    <div className="bg-white">
+      <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
+        <h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Frequently asked questions</h2>
+        <p className="mt-6 max-w-2xl text-base/7 text-gray-600">
+          Have a different question and can’t find the answer you’re looking for? Reach out to our support team by{' '}
+          <a href="#" className="font-semibold text-indigo-600 hover:text-indigo-500">
+            sending us an email
+          </a>{' '}
+          and we’ll get back to you as soon as we can.
+        </p>
+        <div className="mt-20">
+          <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:space-y-0 sm:gap-x-6 sm:gap-y-16 lg:grid-cols-3 lg:gap-x-10">
+            {faqs.map((faq) => (
+              <div key={faq.id}>
+                <dt className="text-base/7 font-semibold text-gray-900">{faq.question}</dt>
+                <dd className="mt-2 text-base/7 text-gray-600">{faq.answer}</dd>
+              </div>
+            ))}
+          </dl>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+
 ---
 
 ## YAML Frontmatter Structure
@@ -329,6 +430,7 @@ schema: "JSON-LD structured data"
 breadcrumb_schema: "Breadcrumb structured data"
 featured: true/false
 slug: "url-slug"
+questions: "1746538990379x219765694240846800, 1746538990380x102621958127048450"
 ```
 
 ---
@@ -351,6 +453,14 @@ slug: "url-slug"
 - **Main Content Container**: `bg-main px-6 py-32 lg:px-8`
 - **Content Wrapper**: `mx-auto max-w-3xl text-base/7 text-gray-700`
 
+### FAQ Section Styles:
+- **FAQ Container**: `bg-white`
+- **FAQ Wrapper**: `mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8`
+- **FAQ Title**: `.h2` class
+- **FAQ Description**: `.small-grey` class
+- **FAQ Questions**: `.h6` class
+- **FAQ Answers**: `.small-blue` class
+
 ---
 
 ## Layout Structure
@@ -367,6 +477,13 @@ slug: "url-slug"
 - **Background**: Clean `bg-main`
 - **Container**: `bg-main px-6 py-32 lg:px-8`
 - **Typography**: `text-base/7 text-gray-700`
+
+### FAQ Section (Optional):
+- **Content**: FAQ questions and answers from YAML frontmatter
+- **Layout**: 3-column grid on desktop, responsive
+- **Background**: Clean `bg-white`
+- **Container**: `max-w-7xl` with full-width layout
+- **Typography**: Custom classes for all elements
 
 ---
 
@@ -411,6 +528,16 @@ slug: "url-slug"
 - **Padding**: `px-6 py-32 lg:px-8` → adjust vertical/horizontal spacing
 - **Content Width**: `max-w-3xl` → adjust reading width
 - **Typography**: `text-base/7 text-gray-700` → adjust font size and color
+
+#### FAQ Section (Optional):
+- **Background**: `bg-white` → change FAQ section background
+- **Padding**: `px-6 py-16 sm:py-24 lg:px-8` → adjust vertical/horizontal spacing
+- **Content Width**: `max-w-7xl` → adjust container width
+- **Grid**: `sm:grid-cols-2 lg:grid-cols-3` → adjust column layout
+- **FAQ Title**: `.h2` → change FAQ heading typography
+- **FAQ Description**: `.small-grey` → change description typography
+- **FAQ Questions**: `.h6` → change question typography
+- **FAQ Answers**: `.small-blue` → change answer typography
 
 #### Sidebar Image:
 - **Sticky Position**: `lg:sticky lg:top-4` → adjust stickiness

@@ -187,3 +187,32 @@ export function getBlogsByCategory(categorySlug: string): ContentItem[] {
     return a.title.localeCompare(b.title);
   });
 }
+
+// Get FAQ content by UID
+export function getFAQByUID(uid: string): ContentItem | null {
+  const allAnswers = getContentByCategory('answers');
+  
+  const faq = allAnswers.find(answer => 
+    answer.uniqueId === uid || answer.frontmatter['unique id'] === uid
+  );
+  
+  return faq || null;
+}
+
+// Get multiple FAQs by array of UIDs
+export function getFAQsByUIDs(uids: string[]): ContentItem[] {
+  if (!Array.isArray(uids) || uids.length === 0) {
+    return [];
+  }
+  
+  const faqs: ContentItem[] = [];
+  
+  for (const uid of uids) {
+    const faq = getFAQByUID(uid);
+    if (faq) {
+      faqs.push(faq);
+    }
+  }
+  
+  return faqs;
+}

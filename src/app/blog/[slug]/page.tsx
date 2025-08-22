@@ -1,4 +1,4 @@
-import { getContentBySlug, getAllSlugs } from '@/lib/content';
+import { getContentBySlug, getAllSlugs, getFAQsByUIDs } from '@/lib/content';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Image from 'next/image';
@@ -59,6 +59,13 @@ export default async function BlogPage({ params }: BlogPageProps) {
   const sidebarImageAlt = post.frontmatter.sidebar_image_alt && typeof post.frontmatter.sidebar_image_alt === 'string'
     ? post.frontmatter.sidebar_image_alt
     : "Hospitality blog and insights";
+
+  // Get FAQs by UIDs from the questions field
+  const questionUIDs = post.frontmatter.questions && typeof post.frontmatter.questions === 'string' 
+    ? post.frontmatter.questions.split(',').map((uid: string) => uid.trim()).filter((uid: string) => uid.length > 0)
+    : [];
+  
+  const faqs = getFAQsByUIDs(questionUIDs);
 
   return (
     <>
@@ -183,6 +190,34 @@ export default async function BlogPage({ params }: BlogPageProps) {
           <MarkdownContent content={post.content} />
         </div>
       </div>
+
+      {/* FAQ Section */}
+      {faqs && faqs.length > 0 && (
+        <div className="bg-white">
+          <div className="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8">
+            <h2 className="h2">Frequently asked questions</h2>
+            <p className="mt-6 max-w-2xl small-grey">
+              Have a different question and can't find the answer you're looking for? Reach out to our support team by{' '}
+              <a href="#" className="font-semibold text-indigo-600 hover:text-indigo-500">
+                sending us an email
+              </a>{' '}
+              and we'll get back to you as soon as we can.
+            </p>
+            <div className="mt-20">
+              <dl className="space-y-16 sm:grid sm:grid-cols-2 sm:space-y-0 sm:gap-x-6 sm:gap-y-16 lg:grid-cols-3 lg:gap-x-10">
+                {faqs.map((faq, index) => (
+                  <div key={faq.uniqueId || index}>
+                    <dt className="h6">{faq.title}</dt>
+                    <dd className="mt-2 small-blue">
+                      <MarkdownContent content={faq.content} />
+                    </dd>
+                  </div>
+                ))}
+              </dl>
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 }
