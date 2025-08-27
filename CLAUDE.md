@@ -10,6 +10,15 @@ Next.js 15 marketing website for Your Pilla hospitality management platform with
 - **Tools** (9 pages): Calculators at `/tools/[slug]`
 - **Legal** (3 pages): Compliance documents at `/legal/[slug]`
 
+### Blog Categories
+Blog posts are organized by `secondary tag` field with dedicated category pages:
+- **Job Descriptions**: `/blog/hospitality-job-role`
+- **Job Interviews**: `/blog/interviews`
+- **Onboarding**: `/blog/restaurant-staff-onboarding`
+- **Food Hygiene**: `/blog/food-safety-management-system`
+- **Health and Safety**: `/blog/hospitality-risks`
+- **Operations**: `/blog/operations`
+
 ## Recent Enhancements
 
 ### FAQ Page Improvements
