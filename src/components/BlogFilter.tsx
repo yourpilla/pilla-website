@@ -13,8 +13,19 @@ const blogCategories = [
   { name: 'Operations', url: '/blog/operations' }
 ];
 
+interface BlogPost {
+  slug: string;
+  title: string;
+  meta: string;
+  featured?: boolean;
+  frontmatter: {
+    'secondary tag'?: string;
+    [key: string]: unknown;
+  };
+}
+
 interface BlogFilterProps {
-  posts: any[];
+  posts: BlogPost[];
 }
 
 export default function BlogFilter({ posts }: BlogFilterProps) {
