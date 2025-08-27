@@ -28,7 +28,7 @@ export async function middleware(request: NextRequest) {
         response.headers.set('x-track-country', country || 'UNKNOWN');
         response.headers.set('x-track-pathname', pathname);
         response.headers.set('x-track-timestamp', Date.now().toString());
-        response.headers.set('x-track-ip', request.ip || request.headers.get('x-forwarded-for') || 'unknown');
+        response.headers.set('x-track-ip', request.headers.get('x-forwarded-for') || 'unknown');
         response.headers.set('x-track-user-agent', request.headers.get('user-agent') || 'unknown');
         
         return response;
@@ -42,7 +42,7 @@ export async function middleware(request: NextRequest) {
         response.headers.set('x-track-country', country);
         response.headers.set('x-track-pathname', pathname);
         response.headers.set('x-track-timestamp', Date.now().toString());
-        response.headers.set('x-track-ip', request.ip || request.headers.get('x-forwarded-for') || 'unknown');
+        response.headers.set('x-track-ip', request.headers.get('x-forwarded-for') || 'unknown');
         response.headers.set('x-track-user-agent', request.headers.get('user-agent') || 'unknown');
         
         return response;

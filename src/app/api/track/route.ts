@@ -34,7 +34,7 @@ export async function POST(request: NextRequest) {
         clusterId,
         country,
         timestamp: parseInt(timestamp),
-        ip: request.ip || request.headers.get('x-forwarded-for') || ip || 'unknown',
+        ip: request.headers.get('x-forwarded-for') || ip || 'unknown',
         userAgent
       });
 
