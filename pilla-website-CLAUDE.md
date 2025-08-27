@@ -6,7 +6,7 @@ Migrating from Bubble.io to Next.js/Vercel for better AI crawler compatibility a
 The user doesn't want me to reference 'made by claude' or 'made with ai' in the submissions.
 
 ## Page Development Workflow
-The user has Tailwind Plus access for pre-built React components. Our refined workflow:
+The user has Tailwind Plus access for pre-built React components. Our refined workflow to making and updating page layouts and typography:
 
 1. **User**: Adds raw Tailwind Plus React code sections to `/src/templates/[page-name].md`
 2. **Claude**: Processes the code by:
