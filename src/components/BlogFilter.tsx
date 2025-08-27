@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import { ContentItem } from '@/lib/content';
 
 const blogCategories = [
   { name: 'All', url: '/blog' },
@@ -13,19 +14,8 @@ const blogCategories = [
   { name: 'Operations', url: '/blog/operations' }
 ];
 
-interface BlogPost {
-  slug: string;
-  title: string;
-  meta: string;
-  featured?: boolean;
-  frontmatter: {
-    'secondary tag'?: string;
-    [key: string]: unknown;
-  };
-}
-
 interface BlogFilterProps {
-  posts: BlogPost[];
+  posts: ContentItem[];
 }
 
 export default function BlogFilter({ posts }: BlogFilterProps) {
@@ -74,7 +64,7 @@ export default function BlogFilter({ posts }: BlogFilterProps) {
                   {post.title}
                 </Link>
               </h3>
-              <p className="mt-5 line-clamp-3 text-sm/6 text-muted">{post.meta}</p>
+              <p className="mt-5 line-clamp-3 text-sm/6 text-muted">{post.meta || ''}</p>
             </div>
           </article>
         ))}
