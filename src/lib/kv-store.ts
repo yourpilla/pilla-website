@@ -15,9 +15,16 @@ class VercelKVStore implements KVStore {
   private kv: any;
 
   constructor() {
-    // In production, this would be imported from @vercel/kv
-    // For now, we'll use a mock implementation for development
-    this.kv = this.createMockKV();
+    // Use real Vercel KV in production, mock in development
+    if (process.env.KV_REST_API_URL && process.env.KV_REST_API_TOKEN) {
+      // Import Vercel KV dynamically
+      import('@vercel/kv').then(({ kv }) => {
+        this.kv = kv;
+      });
+    } else {
+      console.log('Using mock KV store (development mode)');
+      this.kv = this.createMockKV();
+    }
   }
 
   private createMockKV() {
