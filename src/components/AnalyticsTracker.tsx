@@ -1,24 +1,12 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useCallback } from 'react';
 import { usePathname } from 'next/navigation';
 
 export default function AnalyticsTracker() {
   const pathname = usePathname();
 
-  useEffect(() => {
-    // Only track on blog and FAQ pages
-    const isTrackablePage = pathname.startsWith('/blog/') || pathname.startsWith('/answers/');
-    
-    if (isTrackablePage) {
-      // Small delay to ensure page has loaded
-      setTimeout(() => {
-        trackPageView();
-      }, 100);
-    }
-  }, [pathname]);
-
-  const trackPageView = async () => {
+  const trackPageView = useCallback(async () => {
     try {
       let clusterId: string | null = null;
       let faqSlug: string | null = null;
@@ -54,7 +42,19 @@ export default function AnalyticsTracker() {
     } catch (error) {
       console.error('Analytics tracking error:', error);
     }
-  };
+  }, [pathname]);
+
+  useEffect(() => {
+    // Only track on blog and FAQ pages
+    const isTrackablePage = pathname.startsWith('/blog/') || pathname.startsWith('/answers/');
+    
+    if (isTrackablePage) {
+      // Small delay to ensure page has loaded
+      setTimeout(() => {
+        trackPageView();
+      }, 100);
+    }
+  }, [pathname, trackPageView]);
 
   return null; // This component renders nothing
 }

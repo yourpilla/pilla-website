@@ -55,7 +55,7 @@ export async function GET(request: NextRequest) {
 }
 
 // For testing purposes - DELETE method to clear test data (remove in production)
-export async function DELETE(request: NextRequest) {
+export async function DELETE() {
   if (process.env.NODE_ENV === 'production') {
     return NextResponse.json({ error: 'Not allowed in production' }, { status: 403 });
   }

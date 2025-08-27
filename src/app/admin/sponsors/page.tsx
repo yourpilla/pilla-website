@@ -102,7 +102,7 @@ export default function SponsorsAdminPage() {
   useEffect(() => {
     fetchSponsors();
     fetchMonthlyAnalytics();
-  }, [selectedMonth]);
+  }, [selectedMonth]); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <div className="min-h-screen bg-gray-50 p-8">

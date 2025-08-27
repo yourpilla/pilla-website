@@ -12,6 +12,7 @@ interface KVStore {
 }
 
 class VercelKVStore implements KVStore {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   private kv: any;
 
   constructor() {
