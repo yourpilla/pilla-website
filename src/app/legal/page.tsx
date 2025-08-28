@@ -27,6 +27,7 @@ function extractDescription(content: string): string {
 }
 
 // Function to get category from filename - currently unused but may be needed later
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 function getCategory(slug: string): string {
   if (slug.includes('privacy')) return 'Privacy';
   if (slug.includes('terms')) return 'Terms';

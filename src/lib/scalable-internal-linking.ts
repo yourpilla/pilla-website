@@ -262,7 +262,7 @@ class ScalableInternalLinkingManager {
     const mappings: ScalableLinkMapping[] = [];
     
     // Only generate for top-priority content to avoid overwhelming the index
-    const categories = ['glossary', 'answers', 'blog'];
+    const categories: Array<'glossary' | 'answers' | 'blog'> = ['glossary', 'answers', 'blog'];
     
     for (const category of categories) {
       const content = getContentByCategory(category);
@@ -270,7 +270,7 @@ class ScalableInternalLinkingManager {
       
       for (let i = 0; i < sampleSize; i++) {
         const item = content[i];
-        const phrases = this.extractKeyPhrases(item, category);
+        const phrases = this.extractKeyPhrases(item);
         
         for (const phrase of phrases.slice(0, 3)) { // Limit phrases per item
           mappings.push({
@@ -287,7 +287,7 @@ class ScalableInternalLinkingManager {
     return mappings;
   }
 
-  private extractKeyPhrases(item: {title?: string; 'secondary tag'?: string}, _category: string): string[] {
+  private extractKeyPhrases(item: {title?: string; 'secondary tag'?: string}): string[] {
     const phrases: string[] = [];
     
     // Extract 1-3 key phrases per item (focused approach)
@@ -325,7 +325,7 @@ class ScalableInternalLinkingManager {
 
   private async getTotalPageCount(): Promise<number> {
     try {
-      const categories = ['glossary', 'answers', 'blog'];
+      const categories: Array<'glossary' | 'answers' | 'blog'> = ['glossary', 'answers', 'blog'];
       let total = 0;
       
       for (const category of categories) {
