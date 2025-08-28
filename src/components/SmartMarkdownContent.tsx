@@ -38,8 +38,7 @@ export default function SmartMarkdownContent({
       try {
         // Convert markdown to HTML first
         const htmlContent = await new Promise<string>((resolve) => {
-          // We'll use a temporary div to render markdown and extract HTML
-          const tempDiv = document.createElement('div');
+          // Basic markdown to HTML conversion (tempDiv not needed for this approach)
           
           // Basic markdown to HTML conversion
           const html = content

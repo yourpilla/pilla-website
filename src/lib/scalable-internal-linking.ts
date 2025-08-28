@@ -238,8 +238,8 @@ class ScalableInternalLinkingManager {
         const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
         const type = file.replace('-phrases.json', '') as keyof typeof defaultPriorities;
 
-        for (const [key, config] of Object.entries(data)) {
-          const item = config as any;
+        for (const [, config] of Object.entries(data)) {
+          const item = config as {phrases: string[]; url: string; title: string; priority?: number};
           for (const phrase of item.phrases) {
             mappings.push({
               phrase,
@@ -287,7 +287,7 @@ class ScalableInternalLinkingManager {
     return mappings;
   }
 
-  private extractKeyPhrases(item: any, category: string): string[] {
+  private extractKeyPhrases(item: {title?: string; 'secondary tag'?: string}, _category: string): string[] {
     const phrases: string[] = [];
     
     // Extract 1-3 key phrases per item (focused approach)
@@ -344,7 +344,7 @@ class ScalableInternalLinkingManager {
   }
 
   // Admin methods
-  async getCacheStats(): Promise<any> {
+  async getCacheStats(): Promise<{cacheLoaded: boolean; totalPhrases: number; lastUpdated?: string; totalPages?: number; needsRefresh: boolean}> {
     await this.ensureCacheLoaded();
     
     return {

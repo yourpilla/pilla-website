@@ -60,8 +60,8 @@ class InternalLinkingManager {
       const glossaryPath = path.join(phrasesDir, 'glossary-phrases.json');
       if (fs.existsSync(glossaryPath)) {
         const glossaryPhrases = JSON.parse(fs.readFileSync(glossaryPath, 'utf8'));
-        for (const [key, config] of Object.entries(glossaryPhrases)) {
-          const item = config as any;
+        for (const [, config] of Object.entries(glossaryPhrases)) {
+          const item = config as {phrases: string[]; url: string; title: string; priority?: number};
           for (const phrase of item.phrases) {
             mappings.push({
               phrase,
@@ -78,8 +78,8 @@ class InternalLinkingManager {
       const faqPath = path.join(phrasesDir, 'faq-phrases.json');
       if (fs.existsSync(faqPath)) {
         const faqPhrases = JSON.parse(fs.readFileSync(faqPath, 'utf8'));
-        for (const [key, config] of Object.entries(faqPhrases)) {
-          const item = config as any;
+        for (const [, config] of Object.entries(faqPhrases)) {
+          const item = config as {phrases: string[]; url: string; title: string; priority?: number};
           for (const phrase of item.phrases) {
             mappings.push({
               phrase,
@@ -96,8 +96,8 @@ class InternalLinkingManager {
       const blogPath = path.join(phrasesDir, 'blog-phrases.json');
       if (fs.existsSync(blogPath)) {
         const blogPhrases = JSON.parse(fs.readFileSync(blogPath, 'utf8'));
-        for (const [key, config] of Object.entries(blogPhrases)) {
-          const item = config as any;
+        for (const [, config] of Object.entries(blogPhrases)) {
+          const item = config as {phrases: string[]; url: string; title: string; priority?: number};
           for (const phrase of item.phrases) {
             mappings.push({
               phrase,
@@ -192,7 +192,7 @@ class InternalLinkingManager {
     return mappings;
   }
 
-  private extractPhrasesFromGlossary(glossary: any): string[] {
+  private extractPhrasesFromGlossary(glossary: {title: string; meta?: string; content?: string}): string[] {
     const phrases: string[] = [];
     
     // For glossary terms like "86", also add common variations
@@ -223,7 +223,7 @@ class InternalLinkingManager {
     return phrases.filter(phrase => phrase.length >= 2 && phrase.length <= 50);
   }
 
-  private extractPhrasesFromFAQ(faq: any): string[] {
+  private extractPhrasesFromFAQ(faq: {title: string; meta?: string}): string[] {
     const phrases: string[] = [];
     
     // Extract key phrases from title (remove question words)
@@ -243,7 +243,7 @@ class InternalLinkingManager {
     return phrases.filter(phrase => phrase.length >= 3 && phrase.length <= 40);
   }
 
-  private extractPhrasesFromBlog(blog: any): string[] {
+  private extractPhrasesFromBlog(blog: {title: string; 'secondary tag'?: string}): string[] {
     const phrases: string[] = [];
     
     // Extract key phrases from title

@@ -1,4 +1,4 @@
-import { revalidateTag, revalidatePath } from 'next/cache';
+import { revalidatePath } from 'next/cache';
 import { NextRequest, NextResponse } from 'next/server';
 import crypto from 'crypto';
 
@@ -135,7 +135,7 @@ export async function GET(request: NextRequest) {
         message: `Revalidated ${path}`, 
         timestamp: new Date().toISOString() 
       });
-    } catch (error) {
+    } catch {
       return NextResponse.json({ error: 'Revalidation failed' }, { status: 500 });
     }
   }

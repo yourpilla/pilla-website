@@ -164,7 +164,7 @@ export async function POST(request: NextRequest) {
       }
 
       let processedContent: string;
-      let linksFound: any[] = [];
+      let linksFound: Array<{phrase: string; url: string; title: string; type: string}> = [];
 
       if (testScalable) {
         processedContent = await scalableInternalLinkingManager.processContentFast(

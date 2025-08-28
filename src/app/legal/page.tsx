@@ -26,7 +26,7 @@ function extractDescription(content: string): string {
   return 'Important legal information and policies.';
 }
 
-// Function to get category from filename
+// Function to get category from filename - currently unused but may be needed later
 function getCategory(slug: string): string {
   if (slug.includes('privacy')) return 'Privacy';
   if (slug.includes('terms')) return 'Terms';
