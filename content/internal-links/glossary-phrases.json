@@ -1,0 +1,48 @@
+{
+  "86": {
+    "slug": "86",
+    "url": "/glossary/86",
+    "title": "86 - Restaurant Term",
+    "phrases": [
+      "86",
+      "'86'",
+      "\"86\"",
+      "eighty-six",
+      "86ed",
+      "86'ed",
+      "run out of",
+      "sold out"
+    ],
+    "priority": 10
+  },
+  "food-safety": {
+    "slug": "food-safety",
+    "url": "/glossary/food-safety",
+    "title": "Food Safety",
+    "phrases": [
+      "food safety",
+      "food hygiene",
+      "food handling",
+      "safe food practices",
+      "food contamination",
+      "food poisoning prevention",
+      "HACCP"
+    ],
+    "priority": 9
+  },
+  "allergens": {
+    "slug": "allergens", 
+    "url": "/glossary/allergens",
+    "title": "Food Allergens",
+    "phrases": [
+      "allergens",
+      "food allergies",
+      "allergic reactions",
+      "14 allergens",
+      "major allergens",
+      "allergen management",
+      "cross-contamination"
+    ],
+    "priority": 8
+  }
+}

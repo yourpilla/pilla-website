@@ -1,0 +1,48 @@
+{
+  "hospitality-job-descriptions": {
+    "category": "Job Descriptions",
+    "url": "/blog/hospitality-job-role",
+    "title": "Hospitality Job Descriptions", 
+    "phrases": [
+      "job descriptions",
+      "hospitality jobs",
+      "restaurant jobs",
+      "hotel jobs",
+      "job roles",
+      "employment",
+      "career opportunities",
+      "hiring"
+    ],
+    "priority": 4
+  },
+  "food-safety-management": {
+    "category": "Food Hygiene",
+    "url": "/blog/food-safety-management-system",
+    "title": "Food Safety Management System",
+    "phrases": [
+      "food safety management",
+      "HACCP system",
+      "food safety plan",
+      "management system",
+      "compliance",
+      "food standards",
+      "safety protocols"
+    ],
+    "priority": 5
+  },
+  "restaurant-operations": {
+    "category": "Operations", 
+    "url": "/blog/operations",
+    "title": "Restaurant Operations",
+    "phrases": [
+      "restaurant operations",
+      "daily operations",
+      "operational efficiency",
+      "business operations",
+      "service operations",
+      "kitchen operations",
+      "front of house"
+    ],
+    "priority": 4
+  }
+}

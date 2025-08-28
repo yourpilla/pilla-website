@@ -337,3 +337,117 @@ Headers: {
 - **Incremental Updates**: Only processes new/changed content, reducing API costs
 - **Automatic Processing**: File watcher and webhook integration for hands-off content management
 - **Backward Compatible**: Existing FAQ-specific integrations continue to work seamlessly
+
+## Automated Internal Linking System
+
+### Overview
+Smart internal linking system that automatically creates links between related content (glossary terms, FAQ topics, blog subjects) to improve SEO and user experience.
+
+### Architecture
+- **Phrase Mapping**: Extracts key phrases from all content types (glossary, FAQ, blog)
+- **Smart Linking**: Automatically links matching phrases across all pages
+- **SEO Optimized**: Limits links per page, avoids over-linking, prioritizes important terms
+- **Real-time Processing**: Links are generated when content is rendered
+
+### Components
+
+#### Internal Linking Engine (`src/lib/internal-linking.ts`)
+- **Content Analysis**: Extracts key phrases from titles, meta descriptions, and content
+- **Phrase Prioritization**: Higher priority for glossary terms, lower for blog topics
+- **Smart Filtering**: Removes common words, focuses on meaningful phrases
+- **Link Limits**: Configurable limits per page and per phrase to avoid over-linking
+
+#### Smart Markdown Component (`src/components/SmartMarkdownContent.tsx`)
+- **Enhanced Rendering**: Extends existing markdown with automatic internal links
+- **Client-side Processing**: Links generated in browser for performance
+- **Styling**: Subtle link styling that integrates with existing design
+- **Fallback Graceful**: Falls back to regular markdown if linking fails
+
+#### Admin Management (`/api/admin/internal-links`)
+- **Mapping Overview**: View all phrase-to-content mappings
+- **Statistics**: Track linking effectiveness and coverage
+- **Testing**: Test auto-linking on sample content
+- **Refresh**: Manually refresh mappings when content changes
+
+### Phrase Extraction Rules
+
+#### Glossary Terms (Priority: 10)
+- **Main term**: Exact glossary title (e.g., "86")
+- **Variations**: Quoted versions for slang ("'86'", '"86"')
+- **Context phrases**: Key phrases from definitions
+- **Usage**: Links to `/glossary/[slug]`
+
+#### FAQ Topics (Priority: 6)
+- **Question phrases**: Cleaned FAQ titles (remove "how", "what", etc.)
+- **Key concepts**: Important terms from meta descriptions
+- **Problem areas**: Core topics the FAQ addresses
+- **Usage**: Links to `/answers/[slug]`
+
+#### Blog Topics (Priority: 4)
+- **Subject phrases**: Key phrases from blog titles
+- **Categories**: Blog category tags ("Food Safety", "Operations")
+- **Industry terms**: Hospitality-specific terminology
+- **Usage**: Links to `/blog/[slug]`
+
+### Linking Rules
+- **Max 8-15 links per page** (configurable)
+- **1 link per phrase** maximum to avoid repetition
+- **No self-linking** (skip links to current page)
+- **Skip existing links** (don't double-link)
+- **Priority-based**: Higher priority phrases linked first
+
+### Usage Examples
+
+#### Replace Existing Markdown Component
+```tsx
+// Before
+import MarkdownContent from '@/components/MarkdownContent';
+<MarkdownContent content={faq.content} />
+
+// After (with auto-linking)
+import SmartMarkdownContent from '@/components/SmartMarkdownContent';
+<SmartMarkdownContent 
+  content={faq.content}
+  enableAutoLinking={true}
+  linkingOptions={{ maxLinksPerPage: 10 }}
+/>
+```
+
+#### Admin API Usage
+```javascript
+// View all mappings
+GET /api/admin/internal-links
+Headers: { "X-Admin-Key": "your_admin_key" }
+
+// Refresh mappings after content changes
+POST /api/admin/internal-links
+{ "action": "refresh" }
+
+// Test linking on sample content
+POST /api/admin/internal-links
+{
+  "action": "test",
+  "content": "We need to discuss food safety and the 86 list...",
+  "currentUrl": "/blog/test"
+}
+```
+
+### SEO Benefits
+- **Internal Link Equity**: Distributes page authority across related content
+- **Topic Clustering**: Creates semantic relationships between pages
+- **User Engagement**: Encourages deeper site exploration
+- **Crawl Efficiency**: Helps search engines discover related content
+- **Contextual Relevance**: Links are contextually appropriate and valuable
+
+### Content Examples
+- **"86"** in any content → Links to glossary definition
+- **"food safety"** → Links to relevant blog articles or FAQs
+- **"staff training"** → Links to training-related FAQs
+- **"health and safety"** → Links to blog category page
+- **"restaurant operations"** → Links to operations blog posts
+
+### Performance Considerations
+- **Client-side Processing**: Links generated in browser to reduce server load
+- **Caching**: Phrase mappings cached in memory for fast access
+- **Lazy Loading**: Only processes content when visible
+- **Graceful Degradation**: Shows content even if linking fails

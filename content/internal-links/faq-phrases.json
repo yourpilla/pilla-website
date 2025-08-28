@@ -1,0 +1,48 @@
+{
+  "restaurant-staff-training": {
+    "slug": "restaurant-staff-training",
+    "url": "/answers/restaurant-staff-training",
+    "title": "How to Train Restaurant Staff",
+    "phrases": [
+      "staff training",
+      "employee training",
+      "restaurant training",
+      "server training",
+      "kitchen training",
+      "new employee orientation",
+      "staff development",
+      "training programs"
+    ],
+    "priority": 6
+  },
+  "food-safety-procedures": {
+    "slug": "food-safety-procedures", 
+    "url": "/answers/food-safety-procedures",
+    "title": "Food Safety Procedures",
+    "phrases": [
+      "food safety procedures",
+      "kitchen safety",
+      "safe food handling",
+      "temperature control",
+      "food storage",
+      "cleaning procedures",
+      "sanitization"
+    ],
+    "priority": 7
+  },
+  "inventory-management": {
+    "slug": "inventory-management",
+    "url": "/answers/inventory-management", 
+    "title": "Restaurant Inventory Management",
+    "phrases": [
+      "inventory management",
+      "stock control",
+      "food inventory",
+      "ordering systems",
+      "waste reduction",
+      "cost control",
+      "supplier management"
+    ],
+    "priority": 5
+  }
+}
