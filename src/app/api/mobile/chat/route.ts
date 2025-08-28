@@ -83,7 +83,7 @@ export async function POST(request: NextRequest) {
     // Build conversation history for context
     const conversationContext = conversationHistory
       .slice(-6) // Keep last 6 messages for context
-      .map((msg: any) => `${msg.role}: ${msg.content}`)
+      .map((msg: { role: string; content: string }) => `${msg.role}: ${msg.content}`)
       .join('\n');
 
     // Generate conversational response using GPT

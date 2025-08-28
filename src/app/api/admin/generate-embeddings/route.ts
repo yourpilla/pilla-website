@@ -249,7 +249,7 @@ export async function GET(request: NextRequest) {
       }
     });
 
-  } catch (error) {
+  } catch {
     return NextResponse.json(
       { success: false, error: 'Failed to check embedding status' },
       { status: 500 }
