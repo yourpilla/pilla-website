@@ -73,15 +73,32 @@ export async function POST(request: NextRequest) {
 
   try {
     const answersDir = path.join(process.cwd(), 'content', 'answers');
+    const blogDir = path.join(process.cwd(), 'content', 'blog');
     
-    if (!fs.existsSync(answersDir)) {
+    // Check directories exist
+    const directories = [
+      { path: answersDir, type: 'answers' },
+      { path: blogDir, type: 'blog' }
+    ].filter(dir => fs.existsSync(dir.path));
+
+    if (directories.length === 0) {
       return NextResponse.json(
-        { success: false, error: 'FAQ directory not found' },
+        { success: false, error: 'No content directories found' },
         { status: 404 }
       );
     }
 
-    const faqFiles = fs.readdirSync(answersDir).filter(file => file.endsWith('.md'));
+    // Collect all content files
+    const contentFiles: Array<{ file: string, dir: string, type: 'faq' | 'blog' }> = [];
+    
+    for (const { path: dirPath, type } of directories) {
+      const files = fs.readdirSync(dirPath)
+        .filter(file => file.endsWith('.md'))
+        .map(file => ({ file, dir: dirPath, type: type === 'answers' ? 'faq' as const : 'blog' as const }));
+      
+      contentFiles.push(...files);
+    }
+
     const stats: ProcessingStats = {
       processed: 0,
       errors: 0,
@@ -90,33 +107,35 @@ export async function POST(request: NextRequest) {
       updatedEmbeddings: 0
     };
 
-    console.log(`🚀 Processing ${faqFiles.length} FAQ files (forceRebuild: ${forceRebuild})`);
+    console.log(`🚀 Processing ${contentFiles.length} content files (${directories.map(d => `${d.type}: ${fs.readdirSync(d.path).filter(f => f.endsWith('.md')).length}`).join(', ')}) (forceRebuild: ${forceRebuild})`);
 
-    for (const file of faqFiles) {
+    for (const { file, dir, type } of contentFiles) {
       try {
-        const filePath = path.join(answersDir, file);
+        const filePath = path.join(dir, file);
         const content = fs.readFileSync(filePath, 'utf8');
         const { data: frontmatter, content: markdownContent } = matter(content);
 
-        const faqData = {
+        const contentData = {
           uid: frontmatter['unique id'],
           title: frontmatter.title,
           slug: file.replace('.md', ''),
           meta: frontmatter.meta,
           summary: frontmatter.summary,
           content: markdownContent.substring(0, 2000),
-          fullContent: markdownContent
+          fullContent: markdownContent,
+          type: type, // 'faq' or 'blog'
+          category: frontmatter['secondary tag'] || null
         };
 
-        if (!faqData.uid) {
-          console.warn(`⚠️ No UID found for ${file}, skipping...`);
+        if (!contentData.uid) {
+          console.warn(`⚠️ No UID found for ${file} (${type}), skipping...`);
           stats.skipped++;
           continue;
         }
 
-        // Check if we need to process this FAQ
+        // Check if we need to process this content
         const fileModifiedTime = await getFAQFileModifiedTime(filePath);
-        const storedMetadata = await getStoredFAQMetadata(faqData.uid);
+        const storedMetadata = await getStoredFAQMetadata(contentData.uid);
         
         const needsUpdate = forceRebuild || 
           !storedMetadata || 
@@ -129,10 +148,11 @@ export async function POST(request: NextRequest) {
 
         // Generate embedding
         const embeddingText = [
-          faqData.title,
-          faqData.meta,
-          faqData.summary,
-          faqData.content
+          contentData.title,
+          contentData.meta,
+          contentData.summary,
+          contentData.content,
+          contentData.type === 'blog' ? `Category: ${contentData.category}` : ''
         ].filter(Boolean).join('\n\n');
 
         const { embedding } = await embed({
@@ -140,14 +160,14 @@ export async function POST(request: NextRequest) {
           value: embeddingText,
         });
 
-        // Store in Redis
-        const embeddingKey = `faq:embedding:${faqData.uid}`;
-        const contentKey = `faq:content:${faqData.uid}`;
+        // Store in Redis (use content: prefix for both FAQs and blogs)
+        const embeddingKey = `content:embedding:${contentData.uid}`;
+        const contentKey = `content:data:${contentData.uid}`;
 
         await Promise.all([
           kvStore.set(embeddingKey, JSON.stringify(embedding)),
-          kvStore.set(contentKey, JSON.stringify(faqData)),
-          setStoredFAQMetadata(faqData.uid, { modifiedTime: fileModifiedTime })
+          kvStore.set(contentKey, JSON.stringify(contentData)),
+          setStoredFAQMetadata(contentData.uid, { modifiedTime: fileModifiedTime })
         ]);
 
         if (!storedMetadata) {

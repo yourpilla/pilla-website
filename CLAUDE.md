@@ -149,64 +149,76 @@ Connected via Vercel Marketplace → Upstash Redis integration with auto-generat
 - **Country-specific sponsors**: Different sponsors per cluster per country
 - **Automatic aggregation**: Monthly view counts calculated from daily tracking
 
-## AI FAQ Agent System
+## AI Content Agent System
 
 ### Overview
-Semantic search system for 10,000+ FAQs using OpenAI embeddings, enabling intelligent FAQ discovery via natural language queries.
+Semantic search and conversational AI system for 10,000+ FAQs + blogs using OpenAI embeddings, enabling intelligent content discovery and chat responses via natural language queries.
 
 ### Architecture
 - **Vector Search**: OpenAI text-embedding-3-small for semantic similarity matching
-- **Storage**: FAQ embeddings and content stored in existing Upstash Redis
-- **Dual Interface**: Web chat component + mobile API bridge for Bubble.io integration
+- **Content Coverage**: Both FAQ answers (484 pages) and blog articles (49 pages) 
+- **Storage**: Content embeddings and data stored in existing Upstash Redis
+- **Dual Interface**: Web search (links to pages) + mobile chat (conversational responses)
+- **Smart Behavior**: Web preserves SEO, mobile provides conversational answers
 
 ### Components
 
 #### Embedding Generation
 **Manual Script** (`scripts/generate-faq-embeddings.js`)
 - **Usage**: `npm run generate-embeddings` (one-time setup)
-- **Processing**: Converts ALL FAQ markdown files to vector embeddings
-- **Content Processing**: Combines title + meta + summary + content for embedding
+- **Processing**: Converts ALL FAQ and blog markdown files to vector embeddings
+- **Content Processing**: Combines title + meta + summary + content + category for embedding
 
 **Automatic API** (`/api/admin/generate-embeddings`)
-- **Incremental Processing**: Only processes new/changed FAQs (file modification time detection)
+- **Incremental Processing**: Only processes new/changed content (file modification time detection)
+- **Content Coverage**: Processes both `/content/answers/` (FAQs) and `/content/blog/` (articles)
 - **Admin Protected**: Requires `ADMIN_API_KEY` environment variable
 - **Usage**: `POST /api/admin/generate-embeddings` with `{"forceRebuild": false}`
 - **Performance**: 15ms delay between requests to respect OpenAI rate limits
 
 **Webhook Integration** (`/api/webhooks/faq-updated`)
-- **Auto-trigger**: Automatically generates embeddings when FAQs are added/updated
+- **Auto-trigger**: Automatically generates embeddings when content is added/updated
 - **External Integration**: Webhook endpoint for content management systems
 - **Security**: Optional HMAC signature validation via `WEBHOOK_SECRET`
 
 **Automatic File Watcher** (`src/lib/faq-watcher.ts`)
-- **Real-time Detection**: Monitors `/content/answers/` directory for file changes
+- **Real-time Detection**: Monitors `/content/answers/` and `/content/blog/` directories
 - **Production Only**: Automatically starts when app loads in production environment
 - **Debounced Processing**: 5-second delay after file changes to batch multiple updates
 - **Self-healing**: Automatically restarts on errors with 5-second backoff
 
-#### FAQ Embedding Library (`src/lib/faq-embeddings.ts`)
-- **Vector Search**: Cosine similarity calculations for finding relevant FAQs
-- **Data Access**: Functions for retrieving FAQ content and embeddings from Redis
+#### Content Embedding Library (`src/lib/faq-embeddings.ts`)
+- **Vector Search**: Cosine similarity calculations for finding relevant content
+- **Content Types**: Supports both FAQ answers and blog articles
+- **Data Access**: Functions for retrieving content and embeddings from Redis
 - **Similarity Matching**: Configurable threshold and result limits
-- **Performance**: Batch processing for multiple embedding comparisons
+- **Backward Compatibility**: Legacy FAQ functions maintained
 
-#### Search API (`/api/faq-search`)
+#### Web Search API (`/api/faq-search`)
 - **Query Processing**: Generates embeddings for user queries
-- **Similarity Search**: Returns top matching FAQs with similarity scores
-- **Response Format**: FAQ data + similarity scores + direct links to full answers
-- **Error Handling**: Graceful fallbacks for OpenAI API issues
+- **Similarity Search**: Returns top matching content with similarity scores
+- **Response Format**: Content data + similarity scores + direct links to full pages
+- **SEO Focused**: Designed to drive traffic to actual content pages
 
-#### Chat Interface (`src/components/FAQChat.tsx`)
+#### Web Chat Interface (`src/components/FAQChat.tsx`)
 - **Interactive UI**: Chat-style interface integrated into `/answers` page
-- **Real-time Search**: Live FAQ discovery as users type questions
+- **Real-time Search**: Live content discovery as users type questions
 - **SEO Preservation**: Links to actual FAQ pages rather than generating new content
 - **Mobile Responsive**: Optimized for both desktop and mobile experiences
 
-#### Mobile API Bridge (`/api/mobile/faq-search`)
+#### Mobile Search API (`/api/mobile/faq-search`)
+- **Content Discovery**: Searches both FAQs and blog articles
 - **CORS Support**: Cross-origin requests enabled for Bubble.io mobile app
 - **Authentication**: Optional API key validation via `MOBILE_API_KEY` env var
-- **Mobile Format**: Structured response format optimized for mobile consumption
-- **Error Codes**: Standardized error responses for app integration
+- **Mobile Format**: Includes content type and category information
+- **Link Generation**: Smart URLs for both `/answers/` and `/blog/` pages
+
+#### Mobile Chat API (`/api/mobile/chat`)
+- **Conversational AI**: GPT-4o-mini generates contextual responses
+- **Content Synthesis**: Uses both FAQ and blog content as knowledge base
+- **Context Awareness**: Maintains conversation history for better responses
+- **Source Attribution**: Optional source links with similarity scores
+- **Mobile Optimized**: Concise responses (500 token limit) for mobile UX
 
 ### Environment Configuration
 ```bash
@@ -228,13 +240,15 @@ WEBHOOK_SECRET=your_webhook_secret
 
 ### Redis Data Structure
 ```
-# FAQ embeddings (1536-dimensional vectors)
-faq:embedding:{uid} → JSON array of embedding values
+# Content embeddings (1536-dimensional vectors)
+content:embedding:{uid} → JSON array of embedding values
+faq:embedding:{uid} → JSON array (legacy format, still supported)
 
-# FAQ content data
-faq:content:{uid} → JSON object with FAQ metadata and content
+# Content data (FAQs and blogs)
+content:data:{uid} → JSON object with content metadata {type: 'faq'|'blog', category, etc.}
+faq:content:{uid} → JSON object (legacy format, still supported)
 
-# FAQ file modification tracking (for incremental updates)
+# File modification tracking (for incremental updates)
 faq:meta:{uid} → JSON with {modifiedTime: timestamp}
 
 # Generation metadata
@@ -243,7 +257,7 @@ faq:embeddings:metadata → JSON with generation timestamp and stats
 
 ### API Usage Examples
 
-#### Web Search API
+#### Web Search API (returns links to pages)
 ```javascript
 POST /api/faq-search
 {
@@ -251,9 +265,10 @@ POST /api/faq-search
   "limit": 5,
   "minSimilarity": 0.4
 }
+// Returns: FAQ/blog matches with links to full pages
 ```
 
-#### Mobile API Bridge
+#### Mobile Search API (returns content data)
 ```javascript
 POST /api/mobile/faq-search
 Headers: { "X-API-Key": "your_key" }
@@ -263,6 +278,23 @@ Headers: { "X-API-Key": "your_key" }
   "minSimilarity": 0.4,
   "includeContent": false
 }
+// Returns: FAQ/blog matches with type, category, URLs
+```
+
+#### Mobile Chat API (returns conversational responses)
+```javascript
+POST /api/mobile/chat
+Headers: { "X-API-Key": "your_key" }
+{
+  "message": "How should I train new restaurant staff?",
+  "conversationHistory": [
+    {"role": "user", "content": "Previous question..."},
+    {"role": "assistant", "content": "Previous response..."}
+  ],
+  "maxSources": 3,
+  "includeSourceLinks": true
+}
+// Returns: GPT-generated conversational response + source links
 ```
 
 #### Automatic Embedding Generation
@@ -294,9 +326,14 @@ Headers: {
 ```
 
 ### Integration Benefits
-- **SEO Maintained**: AI directs users to existing FAQ pages, preserving search rankings
-- **Mobile Ready**: API bridge enables Bubble.io mobile app integration
-- **Performance**: Vector search provides sub-second response times
-- **Scalable**: Redis storage supports 10,000+ FAQ embeddings efficiently
-- **Incremental Updates**: Only processes new/changed FAQs, reducing API costs
-- **Automatic Processing**: Webhook integration for hands-off FAQ management
+- **Dual Interface Strategy**: Web preserves SEO with page links, mobile provides conversational AI
+- **Comprehensive Content**: Searches both FAQ answers (484 pages) and blog articles (49 pages)
+- **Mobile-First Chat**: GPT-4o-mini generates contextual responses using your content as knowledge base
+- **SEO Maintained**: Web interface drives traffic to actual pages, preserving search rankings
+- **Context Synthesis**: AI combines information from multiple FAQs/blogs for comprehensive answers
+- **Conversation Memory**: Mobile chat maintains context across message exchanges
+- **Performance**: Vector search provides sub-second response times for both modes
+- **Scalable**: Redis storage supports 10,000+ content embeddings efficiently
+- **Incremental Updates**: Only processes new/changed content, reducing API costs
+- **Automatic Processing**: File watcher and webhook integration for hands-off content management
+- **Backward Compatible**: Existing FAQ-specific integrations continue to work seamlessly

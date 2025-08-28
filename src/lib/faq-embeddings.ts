@@ -1,6 +1,6 @@
 import { kvStore } from './kv-store';
 
-export interface FAQData {
+export interface ContentData {
   uid: string;
   title: string;
   slug: string;
@@ -8,11 +8,24 @@ export interface FAQData {
   summary?: string;
   content: string;
   fullContent: string;
+  type: 'faq' | 'blog';
+  category?: string;
 }
 
-export interface FAQMatch {
-  faq: FAQData;
+// Legacy interface for backward compatibility
+export interface FAQData extends ContentData {
+  type: 'faq';
+}
+
+export interface ContentMatch {
+  content: ContentData;
   similarity: number;
+}
+
+// Legacy interface for backward compatibility
+export interface FAQMatch extends ContentMatch {
+  faq: FAQData;
+  content: FAQData;
 }
 
 // Calculate cosine similarity between two vectors
@@ -34,71 +47,114 @@ function cosineSimilarity(a: number[], b: number[]): number {
   return dotProduct / (Math.sqrt(normA) * Math.sqrt(normB));
 }
 
-// Get FAQ content by UID
-export async function getFAQContent(uid: string): Promise<FAQData | null> {
+// Get content by UID (FAQs and blogs)
+export async function getContentData(uid: string): Promise<ContentData | null> {
   try {
-    const contentKey = `faq:content:${uid}`;
-    const result = await kvStore.get(contentKey);
+    // Try new format first
+    let contentKey = `content:data:${uid}`;
+    let result = await kvStore.get(contentKey);
+    
+    // Fallback to old FAQ format for backward compatibility
+    if (!result) {
+      contentKey = `faq:content:${uid}`;
+      result = await kvStore.get(contentKey);
+    }
     
     if (!result) return null;
     
-    return JSON.parse(result) as FAQData;
+    return JSON.parse(result) as ContentData;
   } catch (error) {
-    console.error(`Error getting FAQ content for ${uid}:`, error);
+    console.error(`Error getting content data for ${uid}:`, error);
     return null;
   }
 }
 
-// Get FAQ embedding by UID
-export async function getFAQEmbedding(uid: string): Promise<number[] | null> {
+// Legacy function for backward compatibility
+export async function getFAQContent(uid: string): Promise<FAQData | null> {
+  const content = await getContentData(uid);
+  return content?.type === 'faq' ? content as FAQData : null;
+}
+
+// Get content embedding by UID
+export async function getContentEmbedding(uid: string): Promise<number[] | null> {
   try {
-    const embeddingKey = `faq:embedding:${uid}`;
-    const result = await kvStore.get(embeddingKey);
+    // Try new format first
+    let embeddingKey = `content:embedding:${uid}`;
+    let result = await kvStore.get(embeddingKey);
+    
+    // Fallback to old FAQ format for backward compatibility
+    if (!result) {
+      embeddingKey = `faq:embedding:${uid}`;
+      result = await kvStore.get(embeddingKey);
+    }
     
     if (!result) return null;
     
     return JSON.parse(result) as number[];
   } catch (error) {
-    console.error(`Error getting FAQ embedding for ${uid}:`, error);
+    console.error(`Error getting content embedding for ${uid}:`, error);
     return null;
   }
 }
 
-// Get all FAQ UIDs (for scanning embeddings)
-export async function getAllFAQUIDs(): Promise<string[]> {
+// Legacy function for backward compatibility
+export async function getFAQEmbedding(uid: string): Promise<number[] | null> {
+  return getContentEmbedding(uid);
+}
+
+// Get all content UIDs (for scanning embeddings)
+export async function getAllContentUIDs(): Promise<string[]> {
   try {
-    const pattern = 'faq:content:*';
-    const keys = await kvStore.scan(pattern);
+    // Get both new and old format keys
+    const [newKeys, oldKeys] = await Promise.all([
+      kvStore.scan('content:data:*'),
+      kvStore.scan('faq:content:*')
+    ]);
     
-    return keys.map(key => key.replace('faq:content:', ''));
+    const newUIDs = newKeys.map(key => key.replace('content:data:', ''));
+    const oldUIDs = oldKeys.map(key => key.replace('faq:content:', ''));
+    
+    // Combine and deduplicate
+    return [...new Set([...newUIDs, ...oldUIDs])];
   } catch (error) {
-    console.error('Error getting all FAQ UIDs:', error);
+    console.error('Error getting all content UIDs:', error);
     return [];
   }
 }
 
-// Find similar FAQs using vector similarity
-export async function findSimilarFAQs(
+// Legacy function for backward compatibility
+export async function getAllFAQUIDs(): Promise<string[]> {
+  return getAllContentUIDs();
+}
+
+// Find similar content using vector similarity
+export async function findSimilarContent(
   queryEmbedding: number[], 
   limit: number = 5, 
-  minSimilarity: number = 0.3
-): Promise<FAQMatch[]> {
+  minSimilarity: number = 0.3,
+  contentType?: 'faq' | 'blog'
+): Promise<ContentMatch[]> {
   try {
-    const allUIDs = await getAllFAQUIDs();
-    const matches: FAQMatch[] = [];
+    const allUIDs = await getAllContentUIDs();
+    const matches: ContentMatch[] = [];
 
     for (const uid of allUIDs) {
-      const [faqEmbedding, faqContent] = await Promise.all([
-        getFAQEmbedding(uid),
-        getFAQContent(uid)
+      const [contentEmbedding, contentData] = await Promise.all([
+        getContentEmbedding(uid),
+        getContentData(uid)
       ]);
 
-      if (faqEmbedding && faqContent) {
-        const similarity = cosineSimilarity(queryEmbedding, faqEmbedding);
+      if (contentEmbedding && contentData) {
+        // Filter by content type if specified
+        if (contentType && contentData.type !== contentType) {
+          continue;
+        }
+
+        const similarity = cosineSimilarity(queryEmbedding, contentEmbedding);
         
         if (similarity >= minSimilarity) {
           matches.push({
-            faq: faqContent,
+            content: contentData,
             similarity
           });
         }
@@ -111,9 +167,23 @@ export async function findSimilarFAQs(
       .slice(0, limit);
 
   } catch (error) {
-    console.error('Error finding similar FAQs:', error);
+    console.error('Error finding similar content:', error);
     return [];
   }
+}
+
+// Legacy function for backward compatibility
+export async function findSimilarFAQs(
+  queryEmbedding: number[], 
+  limit: number = 5, 
+  minSimilarity: number = 0.3
+): Promise<FAQMatch[]> {
+  const matches = await findSimilarContent(queryEmbedding, limit, minSimilarity, 'faq');
+  return matches.map(match => ({
+    faq: match.content as FAQData,
+    content: match.content as FAQData,
+    similarity: match.similarity
+  }));
 }
 
 // Get embedding generation metadata

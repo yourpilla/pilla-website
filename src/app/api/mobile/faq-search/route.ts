@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { openai } from '@ai-sdk/openai';
 import { embed } from 'ai';
-import { findSimilarFAQs } from '@/lib/faq-embeddings';
+import { findSimilarContent } from '@/lib/faq-embeddings';
 
 // CORS headers for mobile app
 const corsHeaders = {
@@ -63,8 +63,8 @@ export async function POST(request: NextRequest) {
       value: query.trim(),
     });
 
-    // Find similar FAQs
-    const matches = await findSimilarFAQs(
+    // Find similar content (FAQs and blogs)
+    const matches = await findSimilarContent(
       queryEmbedding,
       Math.min(Math.max(limit, 1), 10), // 1-10 results
       Math.min(Math.max(minSimilarity, 0.1), 0.9) // 0.1-0.9 similarity
@@ -72,14 +72,16 @@ export async function POST(request: NextRequest) {
 
     // Format response for mobile app
     const results = matches.map(match => ({
-      uid: match.faq.uid,
-      title: match.faq.title,
-      slug: match.faq.slug,
-      summary: match.faq.summary || null,
-      meta: match.faq.meta || null,
+      uid: match.content.uid,
+      title: match.content.title,
+      slug: match.content.slug,
+      type: match.content.type,
+      category: match.content.category,
+      summary: match.content.summary || null,
+      meta: match.content.meta || null,
       similarity: Math.round(match.similarity * 100) / 100, // Round to 2 decimal places
-      url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://yourpilla.com'}/answers/${match.faq.slug}`,
-      ...(includeContent && { content: match.faq.content })
+      url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://yourpilla.com'}/${match.content.type === 'faq' ? 'answers' : 'blog'}/${match.content.slug}`,
+      ...(includeContent && { content: match.content.content })
     }));
 
     return NextResponse.json({
