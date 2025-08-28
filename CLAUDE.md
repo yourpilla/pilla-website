@@ -84,3 +84,67 @@ Blog posts are organized by `secondary tag` field with dedicated category pages:
 - **Dynamic Content**: `getFAQsByUIDs()` resolves UIDs to full FAQ content  
 - **Summary Display**: Extracted from schema's first `acceptedAnswer.text`
 - **Layout**: Masonry-style with CSS columns, background matching (`bg-main`)
+
+## Content Sponsorship System
+
+### Architecture Overview
+Complete monetization system for content clusters (blog + template + FAQs) with country-specific sponsorships at 30p per view.
+
+### Content Cluster Structure
+- **Cluster ID**: Blog slug (e.g., `coffee-machine-risk-assessment`)
+- **Blog**: Main content at `/blog/[slug]` with embedded template
+- **Template**: Referenced via `template actual` UID field in blog frontmatter
+- **FAQs**: Referenced via `questions` field (comma-separated UIDs) in blog frontmatter
+
+### Analytics Tracking System
+
+#### View Tracking Middleware (`src/middleware.ts`)
+- **Non-blocking tracking** on `/blog/*` and `/answers/*` routes
+- **Country detection** from Vercel geo headers (`x-vercel-ip-country`)
+- **Edge Runtime compatible** - no file system access in middleware
+- **Client-side completion** via `/api/track` endpoint for FAQ cluster mapping
+
+#### Analytics Architecture
+```
+User visits page → Middleware detects country → Client tracker sends data to API → 
+API resolves cluster mapping → Redis stores view count
+```
+
+#### Data Storage (Upstash Redis)
+- **View Counters**: `views:{clusterId}:{country}:{YYYY-MM}` → integer count
+- **Sponsor Data**: `sponsor:{clusterId}:{country}` → JSON with Stripe customer + rate
+- **Debug Data**: `pageview:{clusterId}:{timestamp}:{random}` → full page view data (90-day TTL)
+
+### Key Components
+
+#### Analytics Libraries
+- **`src/lib/analytics.ts`**: Public API functions for tracking and querying
+- **`src/lib/kv-store.ts`**: Upstash Redis wrapper with KVStore interface
+- **`src/lib/cluster-utils.ts`**: FAQ-to-cluster mapping via file system
+- **`src/lib/geo-utils.ts`**: Country detection from request headers
+- **`src/components/AnalyticsTracker.tsx`**: Client-side view tracking component
+
+#### API Endpoints
+- **`/api/track`**: Processes page views and cluster mapping
+- **`/api/analytics`**: Retrieves view data for reporting (cluster or monthly billing)
+- **`/api/sponsors`**: CRUD operations for sponsor management
+
+#### Admin Dashboard
+- **`/admin/sponsors`**: Sponsor management interface with billing calculations
+- **Features**: Add sponsors, view monthly analytics, calculate revenue
+- **Real-time billing**: Multiplies view counts by sponsor rates per country
+
+### Environment Setup
+- **Production**: Uses Upstash Redis via Vercel integration
+- **Preview/Development**: Uses mock Redis (no environment variables)
+- **Automatic switching**: Detects `UPSTASH_REDIS_REST_URL` presence
+
+### Redis Integration
+Connected via Vercel Marketplace → Upstash Redis integration with auto-generated environment variables:
+- `UPSTASH_REDIS_REST_URL`: Redis endpoint
+- `UPSTASH_REDIS_REST_TOKEN`: Authentication token
+
+### Billing Model
+- **30p per view** charged monthly via Stripe
+- **Country-specific sponsors**: Different sponsors per cluster per country
+- **Automatic aggregation**: Monthly view counts calculated from daily tracking
