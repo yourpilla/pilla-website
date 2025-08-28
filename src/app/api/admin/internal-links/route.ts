@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { scalableInternalLinkingManager } from '@/lib/scalable-internal-linking';
 import { internalLinkingManager } from '@/lib/internal-linking';
 
 // Admin API key protection
@@ -24,6 +25,27 @@ export async function GET(request: NextRequest) {
   }
 
   try {
+    const { searchParams } = new URL(request.url);
+    const action = searchParams.get('action');
+    const useScalable = searchParams.get('scalable') === 'true';
+
+    if (action === 'stats' || useScalable) {
+      // Use scalable system for stats
+      const stats = await scalableInternalLinkingManager.getCacheStats();
+      return NextResponse.json({ success: true, stats });
+    }
+
+    if (action === 'refresh') {
+      if (useScalable) {
+        await scalableInternalLinkingManager.refreshCache();
+        return NextResponse.json({ success: true, message: 'Scalable cache refreshed successfully' });
+      } else {
+        await internalLinkingManager.refresh();
+        return NextResponse.json({ success: true, message: 'Legacy cache refreshed successfully' });
+      }
+    }
+
+    // Legacy system - get all mappings
     const mappings = await internalLinkingManager.getMappings();
     
     // Group by type for easier viewing
@@ -82,25 +104,57 @@ export async function POST(request: NextRequest) {
   }
 
   try {
-    const { action } = await request.json().catch(() => ({ action: 'refresh' }));
+    const { action, contentType, slug, useScalable } = await request.json().catch(() => ({ action: 'refresh' }));
+
+    if (action === 'add_content' && useScalable) {
+      if (!contentType || !slug) {
+        return NextResponse.json(
+          { success: false, error: 'contentType and slug are required' },
+          { status: 400 }
+        );
+      }
+
+      await scalableInternalLinkingManager.addNewContent(contentType, slug);
+      return NextResponse.json({ success: true, message: 'Content added to scalable phrase index' });
+    }
+
+    if (action === 'rebuild' && useScalable) {
+      await scalableInternalLinkingManager.refreshCache();
+      return NextResponse.json({ success: true, message: 'Scalable phrase index rebuilt' });
+    }
 
     if (action === 'refresh') {
-      await internalLinkingManager.refresh();
-      const mappings = await internalLinkingManager.getMappings();
-      
-      return NextResponse.json({
-        success: true,
-        message: 'Internal link mappings refreshed successfully',
-        data: {
-          totalMappings: mappings.length,
-          refreshedAt: new Date().toISOString()
-        }
-      });
+      if (useScalable) {
+        await scalableInternalLinkingManager.refreshCache();
+        const stats = await scalableInternalLinkingManager.getCacheStats();
+        
+        return NextResponse.json({
+          success: true,
+          message: 'Scalable internal link mappings refreshed successfully',
+          data: {
+            totalPhrases: stats.totalPhrases,
+            totalPages: stats.totalPages,
+            refreshedAt: new Date().toISOString()
+          }
+        });
+      } else {
+        await internalLinkingManager.refresh();
+        const mappings = await internalLinkingManager.getMappings();
+        
+        return NextResponse.json({
+          success: true,
+          message: 'Legacy internal link mappings refreshed successfully',
+          data: {
+            totalMappings: mappings.length,
+            refreshedAt: new Date().toISOString()
+          }
+        });
+      }
     }
 
     // Test linking on sample content
     if (action === 'test') {
-      const { content, currentUrl } = await request.json();
+      const { content, currentUrl, useScalable: testScalable } = await request.json();
       
       if (!content) {
         return NextResponse.json(
@@ -109,24 +163,44 @@ export async function POST(request: NextRequest) {
         );
       }
 
-      const processedContent = await internalLinkingManager.processContent(
-        content,
-        currentUrl || '/test',
-        { maxLinksPerPage: 5 }
-      );
+      let processedContent: string;
+      let linksFound: any[] = [];
+
+      if (testScalable) {
+        processedContent = await scalableInternalLinkingManager.processContentFast(
+          content,
+          currentUrl || '/test',
+          5
+        );
+        
+        // Get the links that would be added
+        linksFound = await scalableInternalLinkingManager.getLinksForContent(
+          content,
+          currentUrl || '/test',
+          5
+        );
+      } else {
+        processedContent = await internalLinkingManager.processContent(
+          content,
+          currentUrl || '/test',
+          { maxLinksPerPage: 5 }
+        );
+      }
 
       return NextResponse.json({
         success: true,
         data: {
           originalContent: content,
           processedContent,
-          linksAdded: (processedContent.match(/<a[^>]+class="internal-link"/g) || []).length
+          linksAdded: (processedContent.match(/<a[^>]+class="internal-link"/g) || []).length,
+          linksFound: testScalable ? linksFound : undefined,
+          systemUsed: testScalable ? 'scalable' : 'legacy'
         }
       });
     }
 
     return NextResponse.json(
-      { success: false, error: 'Invalid action. Use "refresh" or "test"' },
+      { success: false, error: 'Invalid action. Use "refresh", "test", "rebuild", or "add_content"' },
       { status: 400 }
     );
 

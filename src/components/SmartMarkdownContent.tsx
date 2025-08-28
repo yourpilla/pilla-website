@@ -4,19 +4,22 @@ import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import { internalLinkingManager, LinkingOptions } from '@/lib/internal-linking';
+import { scalableInternalLinkingManager } from '@/lib/scalable-internal-linking';
 
 interface SmartMarkdownContentProps {
   content: string;
   className?: string;
   enableAutoLinking?: boolean;
   linkingOptions?: LinkingOptions;
+  useScalableSystem?: boolean; // Use new scalable system for 15,000+ pages
 }
 
 export default function SmartMarkdownContent({ 
   content, 
   className = "",
   enableAutoLinking = true,
-  linkingOptions = {}
+  linkingOptions = {},
+  useScalableSystem = true // Default to scalable for 15K+ pages
 }: SmartMarkdownContentProps) {
   const pathname = usePathname();
   const [processedContent, setProcessedContent] = useState<string>(content);
@@ -53,16 +56,28 @@ export default function SmartMarkdownContent({
           resolve(html);
         });
 
-        const linkedContent = await internalLinkingManager.processContent(
-          htmlContent, 
-          pathname, 
-          {
-            maxLinksPerPage: 8,
-            maxLinksPerPhrase: 1,
-            skipIfAlreadyLinked: true,
-            ...linkingOptions
-          }
-        );
+        let linkedContent: string;
+        
+        if (useScalableSystem) {
+          // Use the scalable system for 15,000+ pages
+          linkedContent = await scalableInternalLinkingManager.processContentFast(
+            htmlContent,
+            pathname,
+            linkingOptions.maxLinksPerPage || 8
+          );
+        } else {
+          // Use legacy system
+          linkedContent = await internalLinkingManager.processContent(
+            htmlContent, 
+            pathname, 
+            {
+              maxLinksPerPage: 8,
+              maxLinksPerPhrase: 1,
+              skipIfAlreadyLinked: true,
+              ...linkingOptions
+            }
+          );
+        }
         
         setProcessedContent(linkedContent);
       } catch (error) {
@@ -74,7 +89,7 @@ export default function SmartMarkdownContent({
     }
 
     processContent();
-  }, [content, pathname, enableAutoLinking, linkingOptions]);
+  }, [content, pathname, enableAutoLinking, linkingOptions, useScalableSystem]);
 
   if (isProcessing) {
     return (

@@ -42,6 +42,7 @@ class ContentWatcher {
 
         this.debounceTimer = setTimeout(() => {
           this.triggerEmbeddingUpdate(eventType, filename, type);
+          this.triggerInternalLinkingUpdate(eventType, filename, type);
         }, this.debounceMs);
       });
 
@@ -93,6 +94,49 @@ class ContentWatcher {
 
     } catch (error) {
       console.error(`💥 Failed to trigger embedding update for ${filename} (${contentType}):`, error);
+    }
+  }
+
+  private async triggerInternalLinkingUpdate(eventType: string, filename: string, contentType: string) {
+    try {
+      console.log(`🔗 Triggering internal linking update for ${filename} (${eventType}, ${contentType})`);
+
+      const baseUrl = process.env.VERCEL_URL 
+        ? `https://${process.env.VERCEL_URL}`
+        : process.env.NEXT_PUBLIC_SITE_URL
+        ? `https://${process.env.NEXT_PUBLIC_SITE_URL}`
+        : 'http://localhost:3000';
+
+      // Get the slug from filename (remove .md extension)
+      const slug = filename.replace('.md', '');
+      
+      // Map content type
+      const mappedType = contentType === 'answers' ? 'faq' : contentType;
+
+      const response = await fetch(`${baseUrl}/api/admin/internal-links`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-Admin-Key': process.env.ADMIN_API_KEY || 'development'
+        },
+        body: JSON.stringify({ 
+          action: 'add_content',
+          contentType: mappedType,
+          slug,
+          useScalable: true
+        })
+      });
+
+      const result = await response.json();
+
+      if (result.success) {
+        console.log(`✅ Internal linking updated for ${filename} (${contentType}): ${result.message}`);
+      } else {
+        console.error(`❌ Internal linking update failed for ${filename} (${contentType}):`, result.error);
+      }
+
+    } catch (error) {
+      console.error(`💥 Failed to trigger internal linking update for ${filename} (${contentType}):`, error);
     }
   }
 
