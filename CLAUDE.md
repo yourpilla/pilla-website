@@ -161,11 +161,28 @@ Semantic search system for 10,000+ FAQs using OpenAI embeddings, enabling intell
 
 ### Components
 
-#### Embedding Generation (`scripts/generate-faq-embeddings.js`)
-- **Processing**: Converts all FAQ markdown files to vector embeddings
+#### Embedding Generation
+**Manual Script** (`scripts/generate-faq-embeddings.js`)
+- **Usage**: `npm run generate-embeddings` (one-time setup)
+- **Processing**: Converts ALL FAQ markdown files to vector embeddings
 - **Content Processing**: Combines title + meta + summary + content for embedding
-- **Storage**: Stores both embeddings and FAQ content in Redis with TTL management
-- **Usage**: `npm run generate-embeddings` (production only - requires OpenAI + Redis)
+
+**Automatic API** (`/api/admin/generate-embeddings`)
+- **Incremental Processing**: Only processes new/changed FAQs (file modification time detection)
+- **Admin Protected**: Requires `ADMIN_API_KEY` environment variable
+- **Usage**: `POST /api/admin/generate-embeddings` with `{"forceRebuild": false}`
+- **Performance**: 15ms delay between requests to respect OpenAI rate limits
+
+**Webhook Integration** (`/api/webhooks/faq-updated`)
+- **Auto-trigger**: Automatically generates embeddings when FAQs are added/updated
+- **External Integration**: Webhook endpoint for content management systems
+- **Security**: Optional HMAC signature validation via `WEBHOOK_SECRET`
+
+**Automatic File Watcher** (`src/lib/faq-watcher.ts`)
+- **Real-time Detection**: Monitors `/content/answers/` directory for file changes
+- **Production Only**: Automatically starts when app loads in production environment
+- **Debounced Processing**: 5-second delay after file changes to batch multiple updates
+- **Self-healing**: Automatically restarts on errors with 5-second backoff
 
 #### FAQ Embedding Library (`src/lib/faq-embeddings.ts`)
 - **Vector Search**: Cosine similarity calculations for finding relevant FAQs
@@ -201,6 +218,12 @@ UPSTASH_REDIS_REST_TOKEN=...
 # Optional for mobile API authentication
 MOBILE_API_KEY=your_mobile_api_key
 NEXT_PUBLIC_SITE_URL=https://yourpilla.com
+
+# Required for automatic embedding generation
+ADMIN_API_KEY=your_secure_admin_key
+
+# Optional for webhook security
+WEBHOOK_SECRET=your_webhook_secret
 ```
 
 ### Redis Data Structure
@@ -210,6 +233,9 @@ faq:embedding:{uid} → JSON array of embedding values
 
 # FAQ content data
 faq:content:{uid} → JSON object with FAQ metadata and content
+
+# FAQ file modification tracking (for incremental updates)
+faq:meta:{uid} → JSON with {modifiedTime: timestamp}
 
 # Generation metadata
 faq:embeddings:metadata → JSON with generation timestamp and stats
@@ -239,8 +265,38 @@ Headers: { "X-API-Key": "your_key" }
 }
 ```
 
+#### Automatic Embedding Generation
+```javascript
+// Trigger incremental embedding update (admin only)
+POST /api/admin/generate-embeddings
+Headers: { "X-Admin-Key": "your_admin_key" }
+{
+  "forceRebuild": false  // Only process new/changed FAQs
+}
+
+// Check embedding status
+GET /api/admin/generate-embeddings
+Headers: { "X-Admin-Key": "your_admin_key" }
+```
+
+#### Webhook Integration
+```javascript
+// Automatically triggered when FAQs are added/updated
+POST /api/webhooks/faq-updated
+Headers: { 
+  "X-Webhook-Signature": "sha256=signature",
+  "Content-Type": "application/json" 
+}
+{
+  "event": "faq_updated",
+  "faq_ids": ["faq-uid-1", "faq-uid-2"]
+}
+```
+
 ### Integration Benefits
 - **SEO Maintained**: AI directs users to existing FAQ pages, preserving search rankings
 - **Mobile Ready**: API bridge enables Bubble.io mobile app integration
 - **Performance**: Vector search provides sub-second response times
 - **Scalable**: Redis storage supports 10,000+ FAQ embeddings efficiently
+- **Incremental Updates**: Only processes new/changed FAQs, reducing API costs
+- **Automatic Processing**: Webhook integration for hands-off FAQ management

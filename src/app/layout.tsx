@@ -5,6 +5,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import AnalyticsTracker from "@/components/AnalyticsTracker";
 
+// Initialize background services (FAQ watcher, etc.)
+import "@/lib/init-watchers";
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
