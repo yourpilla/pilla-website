@@ -148,3 +148,99 @@ Connected via Vercel Marketplace → Upstash Redis integration with auto-generat
 - **30p per view** charged monthly via Stripe
 - **Country-specific sponsors**: Different sponsors per cluster per country
 - **Automatic aggregation**: Monthly view counts calculated from daily tracking
+
+## AI FAQ Agent System
+
+### Overview
+Semantic search system for 10,000+ FAQs using OpenAI embeddings, enabling intelligent FAQ discovery via natural language queries.
+
+### Architecture
+- **Vector Search**: OpenAI text-embedding-3-small for semantic similarity matching
+- **Storage**: FAQ embeddings and content stored in existing Upstash Redis
+- **Dual Interface**: Web chat component + mobile API bridge for Bubble.io integration
+
+### Components
+
+#### Embedding Generation (`scripts/generate-faq-embeddings.js`)
+- **Processing**: Converts all FAQ markdown files to vector embeddings
+- **Content Processing**: Combines title + meta + summary + content for embedding
+- **Storage**: Stores both embeddings and FAQ content in Redis with TTL management
+- **Usage**: `npm run generate-embeddings` (production only - requires OpenAI + Redis)
+
+#### FAQ Embedding Library (`src/lib/faq-embeddings.ts`)
+- **Vector Search**: Cosine similarity calculations for finding relevant FAQs
+- **Data Access**: Functions for retrieving FAQ content and embeddings from Redis
+- **Similarity Matching**: Configurable threshold and result limits
+- **Performance**: Batch processing for multiple embedding comparisons
+
+#### Search API (`/api/faq-search`)
+- **Query Processing**: Generates embeddings for user queries
+- **Similarity Search**: Returns top matching FAQs with similarity scores
+- **Response Format**: FAQ data + similarity scores + direct links to full answers
+- **Error Handling**: Graceful fallbacks for OpenAI API issues
+
+#### Chat Interface (`src/components/FAQChat.tsx`)
+- **Interactive UI**: Chat-style interface integrated into `/answers` page
+- **Real-time Search**: Live FAQ discovery as users type questions
+- **SEO Preservation**: Links to actual FAQ pages rather than generating new content
+- **Mobile Responsive**: Optimized for both desktop and mobile experiences
+
+#### Mobile API Bridge (`/api/mobile/faq-search`)
+- **CORS Support**: Cross-origin requests enabled for Bubble.io mobile app
+- **Authentication**: Optional API key validation via `MOBILE_API_KEY` env var
+- **Mobile Format**: Structured response format optimized for mobile consumption
+- **Error Codes**: Standardized error responses for app integration
+
+### Environment Configuration
+```bash
+# Required for AI agent functionality
+OPENAI_API_KEY=sk-...
+UPSTASH_REDIS_REST_URL=https://...
+UPSTASH_REDIS_REST_TOKEN=...
+
+# Optional for mobile API authentication
+MOBILE_API_KEY=your_mobile_api_key
+NEXT_PUBLIC_SITE_URL=https://yourpilla.com
+```
+
+### Redis Data Structure
+```
+# FAQ embeddings (1536-dimensional vectors)
+faq:embedding:{uid} → JSON array of embedding values
+
+# FAQ content data
+faq:content:{uid} → JSON object with FAQ metadata and content
+
+# Generation metadata
+faq:embeddings:metadata → JSON with generation timestamp and stats
+```
+
+### API Usage Examples
+
+#### Web Search API
+```javascript
+POST /api/faq-search
+{
+  "query": "How do I train restaurant staff?",
+  "limit": 5,
+  "minSimilarity": 0.4
+}
+```
+
+#### Mobile API Bridge
+```javascript
+POST /api/mobile/faq-search
+Headers: { "X-API-Key": "your_key" }
+{
+  "query": "food safety requirements",
+  "limit": 3,
+  "minSimilarity": 0.4,
+  "includeContent": false
+}
+```
+
+### Integration Benefits
+- **SEO Maintained**: AI directs users to existing FAQ pages, preserving search rankings
+- **Mobile Ready**: API bridge enables Bubble.io mobile app integration
+- **Performance**: Vector search provides sub-second response times
+- **Scalable**: Redis storage supports 10,000+ FAQ embeddings efficiently
