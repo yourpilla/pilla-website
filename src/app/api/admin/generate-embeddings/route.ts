@@ -179,7 +179,7 @@ export async function POST(request: NextRequest) {
         stats.processed++;
         
         if (stats.processed % 10 === 0) {
-          console.log(`✅ Processed ${stats.processed}/${faqFiles.length} FAQs`);
+          console.log(`✅ Processed ${stats.processed}/${contentFiles.length} content files`);
         }
 
         // Small delay to avoid rate limits (OpenAI has 5000 RPM limit)
@@ -194,7 +194,7 @@ export async function POST(request: NextRequest) {
     // Update generation metadata
     const metadata = {
       generatedAt: new Date().toISOString(),
-      totalFAQs: faqFiles.length,
+      totalFiles: contentFiles.length,
       processed: stats.processed,
       errors: stats.errors,
       skipped: stats.skipped,
@@ -210,7 +210,7 @@ export async function POST(request: NextRequest) {
       success: true,
       data: {
         ...stats,
-        totalFiles: faqFiles.length,
+        totalFiles: contentFiles.length,
         metadata
       }
     });
