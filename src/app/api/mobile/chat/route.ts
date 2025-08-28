@@ -113,7 +113,7 @@ ${conversationContext ? `Previous conversation:\n${conversationContext}` : ''}`
           content: message
         }
       ],
-      maxTokens: 500, // Keep responses concise for mobile
+      maxOutputTokens: 500, // Keep responses concise for mobile
       temperature: 0.7, // Balanced creativity/accuracy
     });
 
