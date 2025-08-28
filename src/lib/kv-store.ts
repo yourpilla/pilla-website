@@ -11,20 +11,23 @@ interface KVStore {
   del(key: string): Promise<void>;
 }
 
-class VercelKVStore implements KVStore {
+class UpstashRedisStore implements KVStore {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  private kv: any;
+  private redis: any;
 
   constructor() {
-    // Use real Vercel KV in production, mock in development
-    if (process.env.KV_REST_API_URL && process.env.KV_REST_API_TOKEN) {
-      // Import Vercel KV dynamically
-      import('@vercel/kv').then(({ kv }) => {
-        this.kv = kv;
+    // Use Upstash Redis in production, mock in development
+    if (process.env.UPSTASH_REDIS_REST_URL && process.env.UPSTASH_REDIS_REST_TOKEN) {
+      // Import Upstash Redis
+      import('@upstash/redis').then(({ Redis }) => {
+        this.redis = new Redis({
+          url: process.env.UPSTASH_REDIS_REST_URL!,
+          token: process.env.UPSTASH_REDIS_REST_TOKEN!,
+        });
       });
     } else {
-      console.log('Using mock KV store (development mode)');
-      this.kv = this.createMockKV();
+      console.log('Using mock Redis store (development mode)');
+      this.redis = this.createMockKV();
     }
   }
 
@@ -69,9 +72,9 @@ class VercelKVStore implements KVStore {
 
   async get(key: string): Promise<string | null> {
     try {
-      return await this.kv.get(key);
+      return await this.redis.get(key);
     } catch (error) {
-      console.error(`KV get error for key ${key}:`, error);
+      console.error(`Redis get error for key ${key}:`, error);
       return null;
     }
   }
@@ -79,38 +82,39 @@ class VercelKVStore implements KVStore {
   async set(key: string, value: string, ttl?: number): Promise<void> {
     try {
       if (ttl) {
-        await this.kv.set(key, value, { ex: ttl });
+        await this.redis.set(key, value, { ex: ttl });
       } else {
-        await this.kv.set(key, value);
+        await this.redis.set(key, value);
       }
     } catch (error) {
-      console.error(`KV set error for key ${key}:`, error);
+      console.error(`Redis set error for key ${key}:`, error);
     }
   }
 
   async incr(key: string): Promise<number> {
     try {
-      return await this.kv.incr(key);
+      return await this.redis.incr(key);
     } catch (error) {
-      console.error(`KV incr error for key ${key}:`, error);
+      console.error(`Redis incr error for key ${key}:`, error);
       return 0;
     }
   }
 
   async scan(pattern: string): Promise<string[]> {
     try {
-      return await this.kv.scan(pattern);
+      const result = await this.redis.keys(pattern);
+      return Array.isArray(result) ? result : [];
     } catch (error) {
-      console.error(`KV scan error for pattern ${pattern}:`, error);
+      console.error(`Redis scan error for pattern ${pattern}:`, error);
       return [];
     }
   }
 
   async del(key: string): Promise<void> {
     try {
-      await this.kv.del(key);
+      await this.redis.del(key);
     } catch (error) {
-      console.error(`KV del error for key ${key}:`, error);
+      console.error(`Redis del error for key ${key}:`, error);
     }
   }
 }
@@ -118,8 +122,8 @@ class VercelKVStore implements KVStore {
 // Factory function to create the appropriate KV store
 function createKVStore(): KVStore {
   // In production, check environment and return appropriate store
-  // For now, always return VercelKVStore
-  return new VercelKVStore();
+  // For now, always return UpstashRedisStore
+  return new UpstashRedisStore();
 }
 
 export const kvStore = createKVStore();

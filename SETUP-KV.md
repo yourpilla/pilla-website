@@ -1,23 +1,24 @@
-# Setting Up KV Storage for Analytics & Sponsorship
+# Setting Up Redis Storage for Analytics & Sponsorship
 
-## Vercel KV Setup (Recommended)
+## Upstash Redis via Vercel (Recommended)
 
-1. **Install Vercel KV package:**
-   ```bash
-   npm install @vercel/kv
-   ```
-
-2. **Create KV database in Vercel Dashboard:**
+1. **Create Redis via Vercel Integration:**
    - Go to your Vercel project dashboard
-   - Navigate to "Storage" tab
-   - Click "Create Database" → "KV"
-   - Choose a database name (e.g., "pilla-analytics")
+   - Navigate to "Integrations" tab
+   - Search for "Upstash Redis"
+   - Click "Add Integration"
+   - Choose your project and create database
 
-3. **Add environment variables:**
-   Vercel will automatically provide these when you create the KV database:
+2. **Install Upstash Redis package:**
+   ```bash
+   npm install @upstash/redis
    ```
-   KV_REST_API_URL=https://xxxxx.upstash.io
-   KV_REST_API_TOKEN=xxxxx
+
+3. **Environment variables added automatically:**
+   Vercel will automatically add these to your project:
+   ```
+   UPSTASH_REDIS_REST_URL=https://xxxxx.upstash.io
+   UPSTASH_REDIS_REST_TOKEN=xxxxx
    ```
 
 4. **Update KV implementation:**
