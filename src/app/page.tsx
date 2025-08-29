@@ -1,5 +1,3 @@
-'use client'
-
 import Link from 'next/link'
 import { getTestimonials } from '@/lib/content'
 import { ChevronRightIcon } from '@heroicons/react/20/solid'
