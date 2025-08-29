@@ -262,7 +262,7 @@ class ScalableInternalLinkingManager {
     const mappings: ScalableLinkMapping[] = [];
     
     // Only generate for top-priority content to avoid overwhelming the index
-    const categories: Array<'glossary' | 'answers' | 'blog'> = ['glossary', 'answers', 'blog'];
+    const categories: Array<'glossary' | 'answers' | 'blog' | 'testimonials'> = ['glossary', 'answers', 'blog', 'testimonials'];
     
     for (const category of categories) {
       const content = getContentByCategory(category);
@@ -325,7 +325,7 @@ class ScalableInternalLinkingManager {
 
   private async getTotalPageCount(): Promise<number> {
     try {
-      const categories: Array<'glossary' | 'answers' | 'blog'> = ['glossary', 'answers', 'blog'];
+      const categories: Array<'glossary' | 'answers' | 'blog' | 'testimonials'> = ['glossary', 'answers', 'blog', 'testimonials'];
       let total = 0;
       
       for (const category of categories) {
