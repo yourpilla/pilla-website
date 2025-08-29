@@ -80,27 +80,6 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
               <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
                 {term.title} meaning in hospitality
               </h1>
-              {term.meta && (
-                <div className="mt-6 small-grey">
-                  <ReactMarkdown
-                    components={{
-                      p: ({ children }) => <>{children}</>,
-                      a: ({ href, children }) => (
-                        <a
-                          href={href}
-                          className="underline hover:opacity-80 transition-opacity"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          {children}
-                        </a>
-                      )
-                    }}
-                  >
-                    {term.meta}
-                  </ReactMarkdown>
-                </div>
-              )}
               
               {synonyms && synonyms.length > 0 && (
                 <div className="mt-8">
