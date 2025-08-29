@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { getFeaturedTestimonial, getRegularTestimonials } from '@/lib/content'
+import { getTestimonials } from '@/lib/content'
 import { ChevronRightIcon } from '@heroicons/react/20/solid'
 import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid'
 import {
@@ -105,10 +105,6 @@ const faqs = [
     answer: 'Yes, Pilla is fully responsive and optimized for smartphones and tablets for quick reference during service.',
   },
 ]
-
-function classNames(...classes: (string | undefined | null | false)[]) {
-  return classes.filter(Boolean).join(' ')
-}
 
 export default function Example() {
   const featuredTestimonials = getTestimonials().filter(t => t.featured);
