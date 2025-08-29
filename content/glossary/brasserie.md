@@ -1,45 +1,43 @@
 ---
-title: "Brasserie"
-slug: "brasserie"
-meta: |
-  A brasserie is a type of French restaurant offering a relaxed setting with a menu of hearty, traditional dishes and drinks, often served throughout the day.
-seo_title: "What is a Brasserie in the hospitality industry?"
-unique_id: "1723822873863x442486144692895100"
+title: Brasserie
+slug: brasserie
+meta: >
+  A brasserie is a type of French restaurant offering a relaxed setting with a
+  menu of hearty, traditional dishes and drinks, often served throughout the
+  day.
+seo_title: What is a Brasserie in the hospitality industry?
+unique_id: 1723822873863x442486144692895100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Brasserie",
-    "description": "A brasserie is a type of French restaurant that serves simple, hearty meals in a relaxed atmosphere. The term originates from the French word for 'brewery', and today brasseries serve a range of dishes complemented by beers and wines.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/brasserie",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Brasserie
+  description: >-
+    A brasserie is a type of French restaurant that serves simple, hearty meals
+    in a relaxed atmosphere. The term originates from the French word for
+    'brewery', and today brasseries serve a range of dishes complemented by
+    beers and wines.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/brasserie'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Brasserie",
-        "item": "https://yourpilla.com/glossary/brasserie"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Brasserie
+      item: 'https://yourpilla.com/glossary/brasserie'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A brasserie is a type of French restaurant that serves simple, hearty meals in a relaxed atmosphere. The term comes from the French word for 'brewery', as these establishments originally brewed their own beer. Today, brasseries offer a wide range of dishes, from classic French cuisine to more modern interpretations, often accompanied by a selection of beers and wines.

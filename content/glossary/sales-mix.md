@@ -1,45 +1,42 @@
 ---
-title: "Sales Mix"
-slug: "sales-mix"
-meta: |
-  Sales Mix refers to the variety and proportion of different products or services sold. It helps optimise offerings to maximise revenue and meet customer preferences.
-seo_title: "What is Sales Mix in the hospitality industry?"
-unique_id: "1726570457775x975057316889764500"
+title: Sales Mix
+slug: sales-mix
+meta: >
+  Sales Mix refers to the variety and proportion of different products or
+  services sold. It helps optimise offerings to maximise revenue and meet
+  customer preferences.
+seo_title: What is Sales Mix in the hospitality industry?
+unique_id: 1726570457775x975057316889764500
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Sales mix",
-    "description": "Sales mix is the proportion of different products or services a hospitality business sells, representing the split of total sales across menu items, room types, or additional services.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/sales-mix",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Sales mix
+  description: >-
+    Sales mix is the proportion of different products or services a hospitality
+    business sells, representing the split of total sales across menu items,
+    room types, or additional services.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/sales-mix'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Sales Mix",
-        "item": "https://yourpilla.com/glossary/sales-mix"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Sales Mix
+      item: 'https://yourpilla.com/glossary/sales-mix'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Sales mix is the proportion of different products or services a hospitality business sells. It's the split of total sales across different menu items, room types or additional services. For a restaurant it might be the percentage of starters, main courses, desserts and drinks. For a hotel it could be the split between standard rooms, suites and add-on services like spa treatments or room service. Knowing your sales mix helps you see which products are working and which need to be improved or removed.

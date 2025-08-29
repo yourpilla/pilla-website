@@ -1,44 +1,42 @@
 ---
-title: "Sous Chef"
-slug: "sous-chef"
-meta: |
-  A Sous Chef is the second-in-command in a kitchen, assisting the Head Chef with daily operations, managing staff, and ensuring food quality and consistency.
-seo_title: "What is a Sous Chef in the hospitality industry?"
-unique_id: "1722792470259x843174894220350700"
+title: Sous Chef
+slug: sous-chef
+meta: >
+  A Sous Chef is the second-in-command in a kitchen, assisting the Head Chef
+  with daily operations, managing staff, and ensuring food quality and
+  consistency.
+seo_title: What is a Sous Chef in the hospitality industry?
+unique_id: 1722792470259x843174894220350700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Sous Chef",
-    "description": "A Sous Chef is second in command in a professional kitchen, reporting to the Head Chef or Executive Chef. The term 'Sous' means 'under' or 'second' in French. This role oversees daily kitchen operations, staff and food quality and consistency, taking the lead when the Head Chef is away.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/sous-chef"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Sous Chef
+  description: >-
+    A Sous Chef is second in command in a professional kitchen, reporting to the
+    Head Chef or Executive Chef. The term 'Sous' means 'under' or 'second' in
+    French. This role oversees daily kitchen operations, staff and food quality
+    and consistency, taking the lead when the Head Chef is away.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/sous-chef'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Sous Chef",
-        "item": "https://yourpilla.com/glossary/sous-chef"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Sous Chef
+      item: 'https://yourpilla.com/glossary/sous-chef'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Sous Chef is second in command in a professional kitchen, reporting to the Head Chef or Executive Chef. The term 'Sous' means 'under' or 'second' in French. This role oversees daily kitchen operations, staff and food quality and consistency. When the Head Chef is away, the Sous Chef takes the lead so they are a key part of the kitchen hierarchy.

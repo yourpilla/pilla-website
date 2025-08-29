@@ -1,44 +1,41 @@
 ---
-title: "Average Rate Index"
-slug: "average-rate-index"
-meta: |
-  The Average Rate Index (ARI) compares a property's average daily rate (ADR) to its competitive set. An ARI above 100 indicates a higher ADR than competitors.
-seo_title: "What is the Average Rate Index in the hospitality industry?"
-unique_id: "1722522526486x566186761578259840"
+title: Average Rate Index
+slug: average-rate-index
+meta: >
+  The Average Rate Index (ARI) compares a property's average daily rate (ADR) to
+  its competitive set. An ARI above 100 indicates a higher ADR than competitors.
+seo_title: What is the Average Rate Index in the hospitality industry?
+unique_id: 1722522526486x566186761578259840
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "ARI",
-    "description": "ARI is a key performance metric in the hospitality industry that compares your average daily rate to your competitors by dividing your ADR by their ADR and multiplying by 100, indicating whether you are outperforming or need improvement.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/ari"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: ARI
+  description: >-
+    ARI is a key performance metric in the hospitality industry that compares
+    your average daily rate to your competitors by dividing your ADR by their
+    ADR and multiplying by 100, indicating whether you are outperforming or need
+    improvement.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/ari'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Average Rate Index",
-        "item": "https://yourpilla.com/glossary/average-rate-index"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Average Rate Index
+      item: 'https://yourpilla.com/glossary/average-rate-index'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 ARI is a key performance metric in the hospitality industry to compare your average daily rate (ADR) to your competitors. It’s calculated by dividing your ADR by your competitors' ADR and then multiplying by 100. If ARI is above 100 you are outperforming, below 100 you need to improve.

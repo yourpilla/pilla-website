@@ -1,44 +1,41 @@
 ---
-title: "Executive Chef"
-slug: "executive-chef"
-meta: |
-  An Executive Chef oversees kitchen operations, menu planning, and staff management in restaurants, hotels, cafes, and bars, ensuring high-quality food and service.
-seo_title: "What is an Executive Chef in the hospitality industry?"
-unique_id: "1722781990151x732609118868156700"
+title: Executive Chef
+slug: executive-chef
+meta: >
+  An Executive Chef oversees kitchen operations, menu planning, and staff
+  management in restaurants, hotels, cafes, and bars, ensuring high-quality food
+  and service.
+seo_title: What is an Executive Chef in the hospitality industry?
+unique_id: 1722781990151x732609118868156700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Executive Chef",
-    "description": "An Executive Chef leads the kitchen in a restaurant or hotel by managing the team, creating menus, ensuring food quality and safety, and overseeing budgeting, inventory, and supplier relationships.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/executive-chef"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Executive Chef
+  description: >-
+    An Executive Chef leads the kitchen in a restaurant or hotel by managing the
+    team, creating menus, ensuring food quality and safety, and overseeing
+    budgeting, inventory, and supplier relationships.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/executive-chef'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Executive Chef",
-        "item": "https://yourpilla.com/glossary/executive-chef"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Executive Chef
+      item: 'https://yourpilla.com/glossary/executive-chef'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An Executive Chef is the head of the kitchen in a restaurant or hotel. They run the kitchen, manage the team, create menus and ensure food quality and safety standards are met. Executive Chefs also do the budgeting, inventory and supplier relationships.

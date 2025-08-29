@@ -1,45 +1,42 @@
 ---
-title: "Split Shift"
-slug: "split-shift"
-meta: |
-  A split shift is when an employee works two separate shifts in one day, often with a long break in between. This helps cover busy periods in restaurants, cafes, and bars.
-seo_title: "What is a Split Shift in the hospitality industry?"
-unique_id: "1726570617242x628393915250740200"
+title: Split Shift
+slug: split-shift
+meta: >
+  A split shift is when an employee works two separate shifts in one day, often
+  with a long break in between. This helps cover busy periods in restaurants,
+  cafes, and bars.
+seo_title: What is a Split Shift in the hospitality industry?
+unique_id: 1726570617242x628393915250740200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Split shift",
-    "description": "Split shift divides an employee’s workday into two or more distinct periods with a significant break, enabling businesses in hospitality to staff peak hours efficiently.",
-    "inLanguage": "en-GB",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/split-shift"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Split shift
+  description: >-
+    Split shift divides an employee’s workday into two or more distinct periods
+    with a significant break, enabling businesses in hospitality to staff peak
+    hours efficiently.
+  inLanguage: en-GB
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/split-shift'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Split Shift",
-        "item": "https://yourpilla.com/glossary/split-shift"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Split Shift
+      item: 'https://yourpilla.com/glossary/split-shift'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A split shift is a schedule where an employee’s day is split into 2 or more periods, with a significant break in between. In hospitality, this means working peak hours, breakfast and dinner service, with a long break in between. This way businesses can staff up for busy times without overstaffing during quiet times.

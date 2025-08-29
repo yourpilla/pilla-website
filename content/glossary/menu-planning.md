@@ -1,45 +1,44 @@
 ---
-title: "Menu Planning"
-slug: "menu-planning"
-meta: |
-  Menu planning involves selecting dishes and drinks for a restaurant, cafe, or bar, considering cost, seasonality, and customer preferences to enhance dining experiences.
-seo_title: "What is Menu Planning in the hospitality industry?"
-unique_id: "1726569962241x311204791503476350"
+title: Menu Planning
+slug: menu-planning
+meta: >
+  Menu planning involves selecting dishes and drinks for a restaurant, cafe, or
+  bar, considering cost, seasonality, and customer preferences to enhance dining
+  experiences.
+seo_title: What is Menu Planning in the hospitality industry?
+unique_id: 1726569962241x311204791503476350
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Menu planning",
-    "description": "Menu planning is the strategy of deciding what to put on the menu in a restaurant, café or other food service business. It involves choosing recipes, portion sizes, pricing, and the menu layout while considering ingredient availability, seasonality, target market, and the overall business concept.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/menu-planning",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Menu planning
+  description: >-
+    Menu planning is the strategy of deciding what to put on the menu in a
+    restaurant, café or other food service business. It involves choosing
+    recipes, portion sizes, pricing, and the menu layout while considering
+    ingredient availability, seasonality, target market, and the overall
+    business concept.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/menu-planning'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Menu Planning",
-        "item": "https://yourpilla.com/glossary/menu-planning"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Menu Planning
+      item: 'https://yourpilla.com/glossary/menu-planning'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Menu planning is the strategy of deciding what to put on the menu in a restaurant, café or other food service business. It's choosing recipes, portion sizes, pricing and laying out the menu. Menu planning also considers ingredient availability, seasonality, target market and the overall concept of the business.

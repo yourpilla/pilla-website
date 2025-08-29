@@ -1,45 +1,43 @@
 ---
-title: "Accompaniment"
-slug: "accompaniment"
-meta: |
-  Accompaniment refers to a side dish or garnish served alongside the main course in restaurants, cafes, and bars, enhancing the overall dining experience.
-seo_title: "What is Accompaniment in the hospitality industry?"
-unique_id: "1725916361249x286726647675740860"
+title: Accompaniment
+slug: accompaniment
+meta: >
+  Accompaniment refers to a side dish or garnish served alongside the main
+  course in restaurants, cafes, and bars, enhancing the overall dining
+  experience.
+seo_title: What is Accompaniment in the hospitality industry?
+unique_id: 1725916361249x286726647675740860
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Accompaniment",
-    "description": "An accompaniment is a side dish, garnish or extra food item served with the main course to add to the overall dining experience. It includes veggies, sauces, condiments or starches that complement the flavours and textures of the main dish.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/accompaniment",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Accompaniment
+  description: >-
+    An accompaniment is a side dish, garnish or extra food item served with the
+    main course to add to the overall dining experience. It includes veggies,
+    sauces, condiments or starches that complement the flavours and textures of
+    the main dish.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/accompaniment'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Accompaniment",
-        "item": "https://yourpilla.com/glossary/accompaniment"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Accompaniment
+      item: 'https://yourpilla.com/glossary/accompaniment'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An accompaniment is a side dish, garnish or extra food item served with the main course to add to the overall dining experience. This can be veggies, sauces, condiments or starches that complement the flavours and textures of the main dish. Accompaniments add variety, balance and visual appeal to a meal, making it more satisfying and enjoyable for the diner.

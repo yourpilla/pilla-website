@@ -1,44 +1,42 @@
 ---
-title: "Off-site catering"
-slug: "off-site-catering"
-meta: |
-  Off-site catering involves preparing and serving food at a location other than your restaurant, cafe, or bar. It allows you to expand your reach and grow your client base.
-seo_title: "What is Off-site catering in the hospitality industry?"
-unique_id: "1726570171658x292349138963878400"
+title: Off-site catering
+slug: off-site-catering
+meta: >
+  Off-site catering involves preparing and serving food at a location other than
+  your restaurant, cafe, or bar. It allows you to expand your reach and grow
+  your client base.
+seo_title: What is Off-site catering in the hospitality industry?
+unique_id: 1726570171658x292349138963878400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Off site catering",
-    "description": "Off site catering is where you prepare and serve food at a location other than your main restaurant or food service establishment. This process involves transporting food, equipment and staff to alternative venues, expanding the operational reach of a hospitality business.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/off-site-catering"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Off site catering
+  description: >-
+    Off site catering is where you prepare and serve food at a location other
+    than your main restaurant or food service establishment. This process
+    involves transporting food, equipment and staff to alternative venues,
+    expanding the operational reach of a hospitality business.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/off-site-catering'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Off-site catering",
-        "item": "https://yourpilla.com/glossary/off-site-catering"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Off-site catering
+      item: 'https://yourpilla.com/glossary/off-site-catering'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Off site catering is where you prepare and serve food at a location other than your main restaurant or food service establishment. This means transporting food, equipment and staff to private homes, offices or event spaces. Off site catering allows hospitality businesses to extend their reach beyond their four walls and cater to more clients and events.

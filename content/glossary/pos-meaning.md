@@ -1,44 +1,41 @@
 ---
-title: "Point of Sale (POS)"
-slug: "pos-meaning"
-meta: |
-  Discover the importance of POS systems in hospitality. Learn how they enhance efficiency, improve customer experience, and streamline operations
-seo_title: "What is a POS?"
-unique_id: "1722413061695x139259377082485260"
+title: Point of Sale (POS)
+slug: pos-meaning
+meta: >
+  Discover the importance of POS systems in hospitality. Learn how they enhance
+  efficiency, improve customer experience, and streamline operations
+seo_title: What is a POS?
+unique_id: 1722413061695x139259377082485260
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Point of Sale system",
-    "description": "A Point of Sale (POS) system is a combination of hardware and software that allows businesses to process transactions. In hospitality, it typically includes cash registers, computers, or tablets equipped with software to handle sales, track inventory, manage customer data, and generate reports.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/point-of-sale-system"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Point of Sale system
+  description: >-
+    A Point of Sale (POS) system is a combination of hardware and software that
+    allows businesses to process transactions. In hospitality, it typically
+    includes cash registers, computers, or tablets equipped with software to
+    handle sales, track inventory, manage customer data, and generate reports.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/point-of-sale-system'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Point of Sale (POS)",
-        "item": "https://yourpilla.com/glossary/pos-meaning"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Point of Sale (POS)
+      item: 'https://yourpilla.com/glossary/pos-meaning'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Point of Sale (POS) system is a combination of hardware and software that allows businesses to process transactions. In a hospitality setting, this typically includes cash registers, computers, or tablets equipped with software to handle sales, track inventory, manage customer data, and generate reports.

@@ -1,44 +1,42 @@
 ---
-title: "Dunnage Rack"
-slug: "dunnage-rack"
-meta: |
-  A dunnage rack is a raised platform used in restaurants, cafes, and bars to keep items off the floor. It helps maintain cleanliness and organise storage efficiently.
-seo_title: "What is a Dunnage Rack in the hospitality industry?"
-unique_id: "1725200141310x529925457422028200"
+title: Dunnage Rack
+slug: dunnage-rack
+meta: >
+  A dunnage rack is a raised platform used in restaurants, cafes, and bars to
+  keep items off the floor. It helps maintain cleanliness and organise storage
+  efficiently.
+seo_title: What is a Dunnage Rack in the hospitality industry?
+unique_id: 1725200141310x529925457422028200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Dunnage rack",
-    "description": "A dunnage rack is a sturdy, raised platform used in hospitality to store items off the floor. It is made of durable materials like stainless steel or heavy-duty plastic and maintains items at least 6 inches above the ground for hygiene and safety compliance.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/dunnage-rack"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Dunnage rack
+  description: >-
+    A dunnage rack is a sturdy, raised platform used in hospitality to store
+    items off the floor. It is made of durable materials like stainless steel or
+    heavy-duty plastic and maintains items at least 6 inches above the ground
+    for hygiene and safety compliance.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/dunnage-rack'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Dunnage Rack",
-        "item": "https://yourpilla.com/glossary/dunnage-rack"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Dunnage Rack
+      item: 'https://yourpilla.com/glossary/dunnage-rack'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A dunnage rack is a sturdy, raised platform used in hospitality settings to store various items off the floor. These racks are typically made of durable materials like stainless steel or heavy-duty plastic and come in different sizes to suit various storage needs. Dunnage racks keep items at least 6 inches above the ground, helping to maintain cleanliness and comply with health and safety regulations.

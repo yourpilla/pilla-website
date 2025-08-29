@@ -1,45 +1,40 @@
 ---
-title: "Tronc"
-slug: "tronc"
-meta: |
-  A tronc is a system where tips and service charges are pooled and then fairly distributed among staff members in a restaurant, bar, or hotel.
-seo_title: "What is Tronc in the hospitality industry?"
-unique_id: "1722586657111x820672006305382500"
+title: Tronc
+slug: tronc
+meta: >
+  A tronc is a system where tips and service charges are pooled and then fairly
+  distributed among staff members in a restaurant, bar, or hotel.
+seo_title: What is Tronc in the hospitality industry?
+unique_id: 1722586657111x820672006305382500
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Tronc",
-    "description": "Tronc is a system used in hospitality to pool and distribute tips and service charges among staff fairly according to a set system.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/tronc",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Tronc
+  description: >-
+    Tronc is a system used in hospitality to pool and distribute tips and
+    service charges among staff fairly according to a set system.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/tronc'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Tronc",
-        "item": "https://yourpilla.com/glossary/tronc"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Tronc
+      item: 'https://yourpilla.com/glossary/tronc'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Tronc is a system used in hospitality to distribute tips and service charges among staff. It comes from the French word tronc des pauvres meaning poor box. In practice, tronc is where all tips and service charges are pooled and then distributed fairly according to a set system.

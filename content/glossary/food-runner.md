@@ -1,44 +1,41 @@
 ---
-title: "Food Runner"
-slug: "food-runner"
-meta: |
-  A Food Runner delivers food orders from the kitchen to diners, ensuring timely and accurate service. They support servers, enhancing efficiency and guest satisfaction.
-seo_title: "What is a Food Runner in the hospitality industry?"
-unique_id: "1722782150300x511269171796567360"
+title: Food Runner
+slug: food-runner
+meta: >
+  A Food Runner delivers food orders from the kitchen to diners, ensuring timely
+  and accurate service. They support servers, enhancing efficiency and guest
+  satisfaction.
+seo_title: What is a Food Runner in the hospitality industry?
+unique_id: 1722782150300x511269171796567360
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Food runner",
-    "description": "A food runner is a key team member who delivers food from the kitchen to the dining area, assists with table setup and clearing, and answers basic menu queries to ensure smooth service.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/food-runner"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Food runner
+  description: >-
+    A food runner is a key team member who delivers food from the kitchen to the
+    dining area, assists with table setup and clearing, and answers basic menu
+    queries to ensure smooth service.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/food-runner'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Food Runner",
-        "item": "https://yourpilla.com/glossary/food-runner"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Food Runner
+      item: 'https://yourpilla.com/glossary/food-runner'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A food runner is a key part of the team who acts as a link between the kitchen and the dining area. Their main job is to get the food from the kitchen to the customers' table as quick and as smooth as possible. Food runners also help with table setup, clearing plates and sometimes answer basic questions about menu items. They work closely with servers, chefs and other kitchen staff to keep the service flowing.

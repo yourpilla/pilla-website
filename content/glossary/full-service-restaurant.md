@@ -1,45 +1,41 @@
 ---
-title: "Full-Service Restaurant"
-slug: "full-service-restaurant"
-meta: |
-  A Full-Service Restaurant offers a wide range of menu options, table service, and a higher level of customer service, enhancing the dining experience.
-seo_title: "What is a Full-Service Restaurant in the hospitality industry?"
-unique_id: "1722522757095x413323810827732400"
+title: Full-Service Restaurant
+slug: full-service-restaurant
+meta: >
+  A Full-Service Restaurant offers a wide range of menu options, table service,
+  and a higher level of customer service, enhancing the dining experience.
+seo_title: What is a Full-Service Restaurant in the hospitality industry?
+unique_id: 1722522757095x413323810827732400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Full service restaurant",
-    "description": "A full service restaurant offers the complete dining experience with table service, a menu, and drinks. Guests are seated by a host, order from a waiter, and are served in an upscale atmosphere.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/full-service-restaurant",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Full service restaurant
+  description: >-
+    A full service restaurant offers the complete dining experience with table
+    service, a menu, and drinks. Guests are seated by a host, order from a
+    waiter, and are served in an upscale atmosphere.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/full-service-restaurant'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Full-Service Restaurant",
-        "item": "https://yourpilla.com/glossary/full-service-restaurant"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Full-Service Restaurant
+      item: 'https://yourpilla.com/glossary/full-service-restaurant'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A full service restaurant is a restaurant that offers the whole dining experience, table service, menu, drinks. In these restaurants guests are seated by a host, order from a menu presented by a waiter and have food and drinks brought to their table. Full service restaurants often have a more upscale atmosphere and may have special dishes, wine lists and dessert menus.

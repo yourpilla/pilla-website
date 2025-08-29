@@ -1,44 +1,41 @@
 ---
-title: "Bistro"
-slug: "bistro"
-meta: |
-  A bistro is a small, casual restaurant offering simple, affordable meals. It often serves hearty, home-style dishes and provides a relaxed dining atmosphere.
-seo_title: "What is a bistro in the hospitality industry?"
-unique_id: "1725633398387x503705272884625860"
+title: Bistro
+slug: bistro
+meta: >
+  A bistro is a small, casual restaurant offering simple, affordable meals. It
+  often serves hearty, home-style dishes and provides a relaxed dining
+  atmosphere.
+seo_title: What is a bistro in the hospitality industry?
+unique_id: 1725633398387x503705272884625860
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Bistro",
-    "description": "A bistro is a small, casual restaurant that serves simple, comforting food in a warm environment. It originates from France and denotes affordable home cooking with a limited, seasonal menu and an intimate, social vibe.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/bistro"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Bistro
+  description: >-
+    A bistro is a small, casual restaurant that serves simple, comforting food
+    in a warm environment. It originates from France and denotes affordable home
+    cooking with a limited, seasonal menu and an intimate, social vibe.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/bistro'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Bistro",
-        "item": "https://yourpilla.com/glossary/bistro"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Bistro
+      item: 'https://yourpilla.com/glossary/bistro'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A bistro is a small, casual restaurant that serves simple, comforting food in a warm environment. The word comes from France and generally means affordable, home cooking. Bistros have a limited menu that changes often, with seasonal ingredients and local specials. They’re known for being intimate, with tables packed in and a lively, social vibe.

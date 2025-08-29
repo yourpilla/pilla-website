@@ -1,44 +1,43 @@
 ---
-title: "Perishables"
-slug: "perishables"
-meta: |
-  Perishables are food and beverage items that spoil quickly, like fresh produce, dairy, and meats. Managing them well reduces waste and ensures quality service.
-seo_title: "What are Perishables in the hospitality industry?"
-unique_id: "1724412869104x761139370844407700"
+title: Perishables
+slug: perishables
+meta: >
+  Perishables are food and beverage items that spoil quickly, like fresh
+  produce, dairy, and meats. Managing them well reduces waste and ensures
+  quality service.
+seo_title: What are Perishables in the hospitality industry?
+unique_id: 1724412869104x761139370844407700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Perishables",
-    "description": "Perishables are food items with a short life span that will spoil or go off if not stored or used properly. These include fresh fruit, vegetables, dairy, meats and some baked goods. In hospitality, perishables are a key part of food service operations that need careful management to maintain quality and reduce waste.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/perishables"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Perishables
+  description: >-
+    Perishables are food items with a short life span that will spoil or go off
+    if not stored or used properly. These include fresh fruit, vegetables,
+    dairy, meats and some baked goods. In hospitality, perishables are a key
+    part of food service operations that need careful management to maintain
+    quality and reduce waste.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/perishables'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Perishables",
-        "item": "https://yourpilla.com/glossary/perishables"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Perishables
+      item: 'https://yourpilla.com/glossary/perishables'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Perishables are food items with a short life span that will spoil or go off if not stored or used properly. These include fresh fruit, vegetables, dairy, meats and some baked goods. In hospitality perishables are a key part of food service operations and need to be managed carefully to maintain quality and reduce waste.

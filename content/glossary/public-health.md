@@ -1,44 +1,43 @@
 ---
-title: "Public health"
-slug: "public-health"
-meta: |
-  Public health refers to the practices and policies that aim to protect and improve community health. In hospitality, it ensures a safe and hygienic environment for guests and staff.
-seo_title: "What is Public health in the hospitality industry?"
-unique_id: "1726570326928x433049032559971650"
+title: Public health
+slug: public-health
+meta: >
+  Public health refers to the practices and policies that aim to protect and
+  improve community health. In hospitality, it ensures a safe and hygienic
+  environment for guests and staff.
+seo_title: What is Public health in the hospitality industry?
+unique_id: 1726570326928x433049032559971650
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Public health",
-    "description": "Public health is the science and practice of protecting and improving the health of populations through education, policy, and research for disease prevention. In hospitality, it involves measures to keep guests and staff safe through cleanliness standards, food safety protocols, and guidelines to prevent the spread of infectious diseases.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/public-health"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Public health
+  description: >-
+    Public health is the science and practice of protecting and improving the
+    health of populations through education, policy, and research for disease
+    prevention. In hospitality, it involves measures to keep guests and staff
+    safe through cleanliness standards, food safety protocols, and guidelines to
+    prevent the spread of infectious diseases.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/public-health'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Public health",
-        "item": "https://yourpilla.com/glossary/public-health"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Public health
+      item: 'https://yourpilla.com/glossary/public-health'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Public health is the science and practice of protecting and improving the health of populations through education, policy and research for disease prevention. In the hospitality industry, public health means measures taken to keep guests and staff safe. This includes cleanliness standards, food safety protocols and guidelines to prevent the spread of infectious diseases.

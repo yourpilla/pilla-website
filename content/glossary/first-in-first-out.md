@@ -1,45 +1,42 @@
 ---
-title: "FIFO (First In, First Out)"
-slug: "first-in-first-out"
-meta: |
-  FIFO (First In, First Out) means using older stock before newer stock. This reduces waste and ensures freshness, crucial for food and beverage quality in hospitality.
-seo_title: "What is FIFO (First In, First Out) in the hospitality industry?"
-unique_id: "1722782100942x168023042801664030"
+title: 'FIFO (First In, First Out)'
+slug: first-in-first-out
+meta: >
+  FIFO (First In, First Out) means using older stock before newer stock. This
+  reduces waste and ensures freshness, crucial for food and beverage quality in
+  hospitality.
+seo_title: 'What is FIFO (First In, First Out) in the hospitality industry?'
+unique_id: 1722782100942x168023042801664030
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "FIFO",
-    "description": "FIFO stands for First In, First Out; it is an inventory management system used in the hospitality industry that ensures the oldest stock is used or sold first to reduce waste and improve quality.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/fifo",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: FIFO
+  description: >-
+    FIFO stands for First In, First Out; it is an inventory management system
+    used in the hospitality industry that ensures the oldest stock is used or
+    sold first to reduce waste and improve quality.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/fifo'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "FIFO (First In, First Out)",
-        "item": "https://yourpilla.com/glossary/first-in-first-out"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: 'FIFO (First In, First Out)'
+      item: 'https://yourpilla.com/glossary/first-in-first-out'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 FIFO stands for First In, First Out. It’s an inventory management system used in the hospitality industry. It ensures the oldest stock is used or sold first, reducing waste and improving quality. In practice, FIFO means you organise your storage areas so the first items in are the first to be used.

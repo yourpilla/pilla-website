@@ -1,44 +1,42 @@
 ---
-title: "Seasonality"
-slug: "seasonality"
-meta: |
-  Seasonality refers to the fluctuations in demand for hospitality services throughout the year. Understanding seasonality helps optimise staffing, pricing, and inventory management.
-seo_title: "What is Seasonality in the hospitality industry?"
-unique_id: "1726570522107x775981158204489700"
+title: Seasonality
+slug: seasonality
+meta: >
+  Seasonality refers to the fluctuations in demand for hospitality services
+  throughout the year. Understanding seasonality helps optimise staffing,
+  pricing, and inventory management.
+seo_title: What is Seasonality in the hospitality industry?
+unique_id: 1726570522107x775981158204489700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Seasonality",
-    "description": "Seasonality is the predictable fluctuation in demand for hospitality services throughout the year, driven by factors such as weather, holidays, and local events. It guides adjustments in staffing, pricing, and operational strategies.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/seasonality"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Seasonality
+  description: >-
+    Seasonality is the predictable fluctuation in demand for hospitality
+    services throughout the year, driven by factors such as weather, holidays,
+    and local events. It guides adjustments in staffing, pricing, and
+    operational strategies.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/seasonality'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Seasonality",
-        "item": "https://yourpilla.com/glossary/seasonality"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Seasonality
+      item: 'https://yourpilla.com/glossary/seasonality'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Seasonality is the predictable fluctuations in demand for hospitality services throughout the year. These changes are often tied to weather, holidays and local events. For hotels it might mean higher occupancy during summer or holiday periods, for restaurants it might mean more business during certain times of the year. Understanding seasonality helps hospitality businesses know when it's busy and slow and can adjust staffing, pricing and offerings accordingly.

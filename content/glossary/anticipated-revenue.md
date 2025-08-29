@@ -1,44 +1,41 @@
 ---
-title: "Anticipated Revenue"
-slug: "anticipated-revenue"
-meta: |
-  Anticipated Revenue refers to the projected income a hotel, restaurant, café, or bar expects to earn over a specific period, helping with budgeting and planning.
-seo_title: "What is Anticipated Revenue in the hospitality industry?"
-unique_id: "1723805955569x937734779315784400"
+title: Anticipated Revenue
+slug: anticipated-revenue
+meta: >
+  Anticipated Revenue refers to the projected income a hotel, restaurant, café,
+  or bar expects to earn over a specific period, helping with budgeting and
+  planning.
+seo_title: What is Anticipated Revenue in the hospitality industry?
+unique_id: 1723805955569x937734779315784400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Expected revenue",
-    "description": "Expected revenue is the money a hospitality business expects to make over a period of time based on historical data, current bookings, and market trends.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/expected-revenue"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Expected revenue
+  description: >-
+    Expected revenue is the money a hospitality business expects to make over a
+    period of time based on historical data, current bookings, and market
+    trends.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/expected-revenue'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Anticipated Revenue",
-        "item": "https://yourpilla.com/glossary/anticipated-revenue"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Anticipated Revenue
+      item: 'https://yourpilla.com/glossary/anticipated-revenue'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Expected revenue is the money a hospitality business expects to make over a period of time. This is based on historical data, current bookings and market trends. For hotels, it might be room rates, food and beverage sales, and other services. For restaurants, it might be covers, average spend per customer, and special events.

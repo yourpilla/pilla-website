@@ -1,44 +1,42 @@
 ---
-title: "Just-in-time inventory"
-slug: "just-in-time-inventory"
-meta: |
-  Just-in-time inventory is a strategy where supplies are ordered and received only as needed, reducing storage costs and ensuring fresher inventory for guests.
-seo_title: "What is Just-in-time inventory in the hospitality industry?"
-unique_id: "1726569506880x584426688092942100"
+title: Just-in-time inventory
+slug: just-in-time-inventory
+meta: >
+  Just-in-time inventory is a strategy where supplies are ordered and received
+  only as needed, reducing storage costs and ensuring fresher inventory for
+  guests.
+seo_title: What is Just-in-time inventory in the hospitality industry?
+unique_id: 1726569506880x584426688092942100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Just in time inventory",
-    "description": "Just in time inventory is a management strategy in which you order and receive supplies only when needed, minimising storage costs and waste. In hospitality, it means ordering consumables on demand instead of keeping large stocks.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/just-in-time-inventory"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Just in time inventory
+  description: >-
+    Just in time inventory is a management strategy in which you order and
+    receive supplies only when needed, minimising storage costs and waste. In
+    hospitality, it means ordering consumables on demand instead of keeping
+    large stocks.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/just-in-time-inventory'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Just-in-time inventory",
-        "item": "https://yourpilla.com/glossary/just-in-time-inventory"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Just-in-time inventory
+      item: 'https://yourpilla.com/glossary/just-in-time-inventory'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Just in time inventory is a management strategy where you order and receive supplies as and when you need them in the production process. This reduces storage costs and waste by keeping the minimum amount of inventory. In hospitality this means ordering food, beverages and other consumables when you need them and not keeping large stock on hand.

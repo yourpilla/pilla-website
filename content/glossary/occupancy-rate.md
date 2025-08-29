@@ -1,45 +1,42 @@
 ---
-title: "Occupancy rate"
-slug: "occupancy-rate"
-meta: |
-  Occupancy rate measures the percentage of available rooms or tables sold in a hotel, restaurant, or bar. It helps gauge how well a venue attracts guests.
-seo_title: "What is Occupancy rate in the hospitality industry?"
-unique_id: "1722523028049x578925195847168900"
+title: Occupancy rate
+slug: occupancy-rate
+meta: >
+  Occupancy rate measures the percentage of available rooms or tables sold in a
+  hotel, restaurant, or bar. It helps gauge how well a venue attracts guests.
+seo_title: What is Occupancy rate in the hospitality industry?
+unique_id: 1722523028049x578925195847168900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Occupancy rate",
-    "description": "Occupancy rate is a key metric in the hospitality industry that measures the percentage of available rooms or space that is occupied over a period of time. It is calculated by dividing the number of occupied rooms by the total number of available rooms and multiplying by 100.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/occupancy-rate",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Occupancy rate
+  description: >-
+    Occupancy rate is a key metric in the hospitality industry that measures the
+    percentage of available rooms or space that is occupied over a period of
+    time. It is calculated by dividing the number of occupied rooms by the total
+    number of available rooms and multiplying by 100.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/occupancy-rate'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Occupancy rate",
-        "item": "https://yourpilla.com/glossary/occupancy-rate"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Occupancy rate
+      item: 'https://yourpilla.com/glossary/occupancy-rate'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Occupancy rate is a key metric in the hospitality industry that measures the percentage of available rooms or space that's occupied over a period of time. It's calculated by dividing the number of occupied rooms by the total number of available rooms and multiplying by 100. For example, if a hotel has 100 rooms and 75 are occupied, the occupancy rate is 75%.

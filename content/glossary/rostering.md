@@ -1,44 +1,44 @@
 ---
-title: "Rostering"
-slug: "rostering"
-meta: |
-  Rostering involves creating work schedules for staff in hotels, restaurants, cafes, and bars. It ensures optimal coverage, improves productivity, and balances workloads.
-seo_title: "What is rostering in the hospitality industry?"
-unique_id: "1725199866046x707738360648118700"
+title: Rostering
+slug: rostering
+meta: >
+  Rostering involves creating work schedules for staff in hotels, restaurants,
+  cafes, and bars. It ensures optimal coverage, improves productivity, and
+  balances workloads.
+seo_title: What is rostering in the hospitality industry?
+unique_id: 1725199866046x707738360648118700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Rostering",
-    "description": "Rostering is the process of creating and managing employee work schedules in hospitality businesses. It involves assigning staff to specific shifts, ensuring adequate coverage during peak hours, and balancing employee preferences with business needs. Effective rostering considers factors like staff availability, skills, and labour laws to create fair and efficient work schedules.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/rostering"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Rostering
+  description: >-
+    Rostering is the process of creating and managing employee work schedules in
+    hospitality businesses. It involves assigning staff to specific shifts,
+    ensuring adequate coverage during peak hours, and balancing employee
+    preferences with business needs. Effective rostering considers factors like
+    staff availability, skills, and labour laws to create fair and efficient
+    work schedules.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/rostering'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Rostering",
-        "item": "https://yourpilla.com/glossary/rostering"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Rostering
+      item: 'https://yourpilla.com/glossary/rostering'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Rostering is the process of creating and managing employee work schedules in hospitality businesses. It involves assigning staff to specific shifts, ensuring adequate coverage during peak hours, and balancing employee preferences with business needs. Effective rostering considers factors like staff availability, skills, and labour laws to create fair and efficient work schedules.

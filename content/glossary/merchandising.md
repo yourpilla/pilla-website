@@ -1,44 +1,42 @@
 ---
-title: "Merchandising"
-slug: "merchandising"
-meta: |
-  Merchandising involves planning and promoting sales by presenting products attractively. In hospitality, this boosts sales in restaurants, cafes, bars, and hotels.
-seo_title: "What is Merchandising in the hospitality industry?"
-unique_id: "1726569967159x793929450498947200"
+title: Merchandising
+slug: merchandising
+meta: >
+  Merchandising involves planning and promoting sales by presenting products
+  attractively. In hospitality, this boosts sales in restaurants, cafes, bars,
+  and hotels.
+seo_title: What is Merchandising in the hospitality industry?
+unique_id: 1726569967159x793929450498947200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Merchandising in hospitality",
-    "description": "Merchandising in hospitality is the strategic placement and promotion of products or services to increase sales and guest experience. This includes the layout, pricing and visual merchandising that encourages the customer to buy.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/merchandising-in-hospitality"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Merchandising in hospitality
+  description: >-
+    Merchandising in hospitality is the strategic placement and promotion of
+    products or services to increase sales and guest experience. This includes
+    the layout, pricing and visual merchandising that encourages the customer to
+    buy.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/merchandising-in-hospitality'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Merchandising",
-        "item": "https://yourpilla.com/glossary/merchandising"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Merchandising
+      item: 'https://yourpilla.com/glossary/merchandising'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Merchandising in hospitality is the strategic placement and promotion of products or services to increase sales and guest experience. This includes the layout, pricing and visual merchandising that encourages the customer to buy. Good merchandising can turn a simple display into a sales tool, whether it's pastries in a café or spa services in a hotel.

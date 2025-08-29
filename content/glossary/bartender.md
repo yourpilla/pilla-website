@@ -1,44 +1,41 @@
 ---
-title: "Bartender"
-slug: "bartender"
-meta: |
-  A bartender mixes and serves drinks to customers in bars, restaurants, and cafes. They ensure quality service, manage inventory, and maintain a clean workspace.
-seo_title: "What is a Bartender in the hospitality industry?"
-unique_id: "1722781439877x141210361619689360"
+title: Bartender
+slug: bartender
+meta: >
+  A bartender mixes and serves drinks to customers in bars, restaurants, and
+  cafes. They ensure quality service, manage inventory, and maintain a clean
+  workspace.
+seo_title: What is a Bartender in the hospitality industry?
+unique_id: 1722781439877x141210361619689360
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Bartender",
-    "description": "A bartender is a trained professional who makes and serves drinks in hospitality venues, mixing cocktails, pouring beer and wine, and engaging with customers.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/bartender"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Bartender
+  description: >-
+    A bartender is a trained professional who makes and serves drinks in
+    hospitality venues, mixing cocktails, pouring beer and wine, and engaging
+    with customers.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/bartender'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Bartender",
-        "item": "https://yourpilla.com/glossary/bartender"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Bartender
+      item: 'https://yourpilla.com/glossary/bartender'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A bartender is a trained professional who makes and serves drinks in bars, pubs, restaurants, hotels and other hospitality venues. They mix cocktails, pour beer and wine and are often the face of the business, interacting with customers. Bartenders need to know loads of drink recipes, understand flavour profiles and have great customer service skills.

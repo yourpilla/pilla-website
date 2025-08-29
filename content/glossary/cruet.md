@@ -1,44 +1,41 @@
 ---
-title: "Cruet"
-slug: "cruet"
-meta: |
-  A cruet is a small container used in restaurants, cafes, and bars to hold condiments like oil, vinegar, salt, and pepper, enhancing table service efficiency.
-seo_title: "What is a Cruet in the hospitality industry?"
-unique_id: "1725916951664x763416224303723000"
+title: Cruet
+slug: cruet
+meta: >
+  A cruet is a small container used in restaurants, cafes, and bars to hold
+  condiments like oil, vinegar, salt, and pepper, enhancing table service
+  efficiency.
+seo_title: What is a Cruet in the hospitality industry?
+unique_id: 1725916951664x763416224303723000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Cruet",
-    "description": "A cruet is a small container for condiments, oil, vinegar or sometimes soy sauce. They are usually glass or ceramic with a stopper or pourer to control the liquid.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/cruet"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Cruet
+  description: >-
+    A cruet is a small container for condiments, oil, vinegar or sometimes soy
+    sauce. They are usually glass or ceramic with a stopper or pourer to control
+    the liquid.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/cruet'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Cruet",
-        "item": "https://yourpilla.com/glossary/cruet"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Cruet
+      item: 'https://yourpilla.com/glossary/cruet'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A cruet is a small container for condiments, oil, vinegar or sometimes soy sauce. They are usually glass or ceramic and have a stopper or pourer to control the flow of the liquid inside. You see them on dining tables in restaurants, cafes and even at home. They let you add flavour to your meal to your taste.

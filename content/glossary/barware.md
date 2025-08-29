@@ -1,44 +1,42 @@
 ---
-title: "Barware"
-slug: "barware"
-meta: |
-  Barware refers to the tools and equipment used in bars, cafes, and restaurants for preparing and serving drinks. It includes items like shakers, jiggers, and glassware.
-seo_title: "What is Barware in the hospitality industry?"
-unique_id: "1725916546404x322451174664655000"
+title: Barware
+slug: barware
+meta: >
+  Barware refers to the tools and equipment used in bars, cafes, and restaurants
+  for preparing and serving drinks. It includes items like shakers, jiggers, and
+  glassware.
+seo_title: What is Barware in the hospitality industry?
+unique_id: 1725916546404x322451174664655000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Barware",
-    "description": "Barware comprises the tools, equipment and utensils used in bars, pubs and restaurants to prepare, serve and consume drinks, including shakers, strainers, jiggers, muddlers, bar spoons, glassware, ice buckets, bottle openers, and decorative cocktail tools.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/barware"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Barware
+  description: >-
+    Barware comprises the tools, equipment and utensils used in bars, pubs and
+    restaurants to prepare, serve and consume drinks, including shakers,
+    strainers, jiggers, muddlers, bar spoons, glassware, ice buckets, bottle
+    openers, and decorative cocktail tools.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/barware'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Barware",
-        "item": "https://yourpilla.com/glossary/barware"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Barware
+      item: 'https://yourpilla.com/glossary/barware'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Barware is the tools, equipment and utensils used in bars, pubs and restaurants to prepare, serve and consume drinks. This includes things like shakers, strainers, jiggers, muddlers, bar spoons, glassware, ice buckets and bottle openers. Barware also includes decorative items like cocktail picks, stirrers and garnish tools that add to the presentation of drinks.

@@ -1,35 +1,30 @@
 ---
-title: "Revenue Manager"
-slug: "revenue-manager"
-meta: |
-  A revenue manager optimises pricing and inventory to maximise profits for hotels, restaurants, cafes, and bars by analysing demand and market trends.
-seo_title: "What is a Revenue Manager in the hospitality industry?"
-unique_id: "1736957517281x537038183465414800"
+title: Revenue Manager
+slug: revenue-manager
+meta: >
+  A revenue manager optimises pricing and inventory to maximise profits for
+  hotels, restaurants, cafes, and bars by analysing demand and market trends.
+seo_title: What is a Revenue Manager in the hospitality industry?
+unique_id: 1736957517281x537038183465414800
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Revenue Manager",
-        "item": "https://yourpilla.com/glossary/revenue-manager"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Revenue Manager
+      item: 'https://yourpilla.com/glossary/revenue-manager'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Revenue Manager is a hospitality professional responsible for maximising a property's financial performance through strategic pricing and inventory management. They analyse market trends, competitor pricing, and demand patterns to set optimal rates for rooms, services, or products. Revenue Managers also work closely with sales, marketing, and operations teams to develop strategies that increase overall revenue and profitability.

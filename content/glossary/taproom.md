@@ -1,44 +1,42 @@
 ---
-title: "Taproom"
-slug: "taproom"
-meta: |
-  A taproom is a space within a brewery or bar where customers can sample and purchase the brewery's beers. It boosts direct sales and enhances customer experience.
-seo_title: "What is a Taproom in the hospitality industry?"
-unique_id: "1726570717231x601374905122254100"
+title: Taproom
+slug: taproom
+meta: >
+  A taproom is a space within a brewery or bar where customers can sample and
+  purchase the brewery's beers. It boosts direct sales and enhances customer
+  experience.
+seo_title: What is a Taproom in the hospitality industry?
+unique_id: 1726570717231x601374905122254100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Taproom",
-    "description": "A taproom is a dedicated space where breweries, pubs, or bars serve and showcase their beer directly to customers. It offers a casual environment featuring a variety of beers on tap, including seasonal and limited editions.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/taproom"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Taproom
+  description: >-
+    A taproom is a dedicated space where breweries, pubs, or bars serve and
+    showcase their beer directly to customers. It offers a casual environment
+    featuring a variety of beers on tap, including seasonal and limited
+    editions.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/taproom'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Taproom",
-        "item": "https://yourpilla.com/glossary/taproom"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Taproom
+      item: 'https://yourpilla.com/glossary/taproom'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A taproom is a dedicated space where breweries, pubs or bars serve and showcase their beer directly to customers. It's a casual, welcoming space where customers can try different beers, often straight from the source. Taprooms have a range of beers on tap, including seasonal and limited edition ones, so customers can get a unique tasting experience.

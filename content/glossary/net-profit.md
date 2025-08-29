@@ -1,44 +1,40 @@
 ---
-title: "Net Profit"
-slug: "net-profit"
-meta: |
-  Net profit is the total earnings after all expenses, taxes, and costs are deducted from total revenue. It shows a restaurant, cafe, bar, or hotel's profitability.
-seo_title: "What is Net Profit in the hospitality industry?"
-unique_id: "1726570056870x380892999655799700"
+title: Net Profit
+slug: net-profit
+meta: >
+  Net profit is the total earnings after all expenses, taxes, and costs are
+  deducted from total revenue. It shows a restaurant, cafe, bar, or hotel's
+  profitability.
+seo_title: What is Net Profit in the hospitality industry?
+unique_id: 1726570056870x380892999655799700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Net profit",
-    "description": "Net profit is the money left over after subtracting all expenses from total revenue, representing the bottom line on an income statement.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/net-profit"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Net profit
+  description: >-
+    Net profit is the money left over after subtracting all expenses from total
+    revenue, representing the bottom line on an income statement.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/net-profit'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Net Profit",
-        "item": "https://yourpilla.com/glossary/net-profit"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Net Profit
+      item: 'https://yourpilla.com/glossary/net-profit'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Net profit is the money left over after you’ve subtracted all your expenses from your total revenue. It's called the 'bottom line' because it’s at the bottom of your income statement. To calculate net profit you subtract costs like food and beverage, staff wages, rent, utilities and taxes from your total sales. This is how much money your business is actually making after all the bills are paid.

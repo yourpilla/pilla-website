@@ -1,45 +1,43 @@
 ---
-title: "À la carte"
-slug: "à-la-carte"
-meta: |
-  À la carte means offering menu items individually rather than as part of a set meal. Guests choose each dish separately, allowing for personalised dining experiences.
-seo_title: "What is À la carte in the hospitality industry?"
-unique_id: "1725633203490x975085659216627100"
+title: À la carte
+slug: à-la-carte
+meta: >
+  À la carte means offering menu items individually rather than as part of a set
+  meal. Guests choose each dish separately, allowing for personalised dining
+  experiences.
+seo_title: What is À la carte in the hospitality industry?
+unique_id: 1725633203490x975085659216627100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "À la carte",
-    "description": "À la carte means by the card in English. In hospitality, it refers to a menu where each dish is listed separately with its own price, allowing guests to choose individual items to create their meal rather than a set menu or package deal.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/a-la-carte",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: À la carte
+  description: >-
+    À la carte means by the card in English. In hospitality, it refers to a menu
+    where each dish is listed separately with its own price, allowing guests to
+    choose individual items to create their meal rather than a set menu or
+    package deal.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/a-la-carte'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "À la carte",
-        "item": "https://yourpilla.com/glossary/à-la-carte"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: À la carte
+      item: 'https://yourpilla.com/glossary/à-la-carte'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 À la carte means by the card in English. In hospitality, it refers to a menu where each dish is listed separately with its own price. This way guests can choose individual items to create their meal rather than a set menu or package deal. À la carte menus give diners the freedom to mix and match dishes to their taste and budget.

@@ -1,44 +1,42 @@
 ---
-title: "Enophile"
-slug: "enophile"
-meta: |
-  An enophile is someone who loves and appreciates wine. In hospitality, knowing enophiles' preferences helps in offering tailored wine selections and enhancing guest experiences.
-seo_title: "What is an Enophile in the hospitality industry?"
-unique_id: "1725917221442x267127809066136200"
+title: Enophile
+slug: enophile
+meta: >
+  An enophile is someone who loves and appreciates wine. In hospitality, knowing
+  enophiles' preferences helps in offering tailored wine selections and
+  enhancing guest experiences.
+seo_title: What is an Enophile in the hospitality industry?
+unique_id: 1725917221442x267127809066136200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Enophile",
-    "description": "An enophile is someone who loves wine. This comes from the Greek words oinos meaning wine and philos meaning love. Enophiles are passionate about all things wine, including production, history and tasting. They have a deep knowledge of wine regions, grape varieties and winemaking techniques.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/enophile"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Enophile
+  description: >-
+    An enophile is someone who loves wine. This comes from the Greek words oinos
+    meaning wine and philos meaning love. Enophiles are passionate about all
+    things wine, including production, history and tasting. They have a deep
+    knowledge of wine regions, grape varieties and winemaking techniques.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/enophile'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Enophile",
-        "item": "https://yourpilla.com/glossary/enophile"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Enophile
+      item: 'https://yourpilla.com/glossary/enophile'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An enophile is someone who loves wine. This comes from the Greek words oinos meaning wine and philos meaning love. Enophiles are passionate about all things wine, including production, history and tasting. They have a deep knowledge of wine regions, grape varieties and winemaking techniques.

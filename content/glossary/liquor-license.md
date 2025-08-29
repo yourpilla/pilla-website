@@ -1,44 +1,43 @@
 ---
-title: "Liquor License"
-slug: "liquor-license"
-meta: |
-  A liquor license allows a restaurant, bar, or cafe to legally sell alcoholic beverages. It ensures compliance with local laws and regulations, promoting responsible service.
-seo_title: "What is a Liquor License in the hospitality industry?"
-unique_id: "1726569656561x355858037495816900"
+title: Liquor License
+slug: liquor-license
+meta: >
+  A liquor license allows a restaurant, bar, or cafe to legally sell alcoholic
+  beverages. It ensures compliance with local laws and regulations, promoting
+  responsible service.
+seo_title: What is a Liquor License in the hospitality industry?
+unique_id: 1726569656561x355858037495816900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Liquor licence",
-    "description": "A liquor licence is a legal document that allows a business to sell and serve alcohol. It’s issued by local or state authorities and outlines the rules and regulations the business must follow when selling alcohol, specifying what types of alcohol can be sold, when they can be sold, and where on the premises they can be consumed.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/liquor-licence"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Liquor licence
+  description: >-
+    A liquor licence is a legal document that allows a business to sell and
+    serve alcohol. It’s issued by local or state authorities and outlines the
+    rules and regulations the business must follow when selling alcohol,
+    specifying what types of alcohol can be sold, when they can be sold, and
+    where on the premises they can be consumed.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/liquor-licence'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Liquor License",
-        "item": "https://yourpilla.com/glossary/liquor-license"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Liquor License
+      item: 'https://yourpilla.com/glossary/liquor-license'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A liquor licence is a legal document that allows a business to sell and serve alcohol. It’s issued by local or state authorities and outlines the rules and regulations the business must follow when selling alcohol. The licence will specify what types of alcohol can be sold, what hours alcohol can be sold and where on the premises alcohol can be consumed.

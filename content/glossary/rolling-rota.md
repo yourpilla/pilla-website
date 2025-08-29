@@ -1,44 +1,41 @@
 ---
-title: "Rolling rota"
-slug: "rolling-rota"
-meta: |
-  A rolling rota is a schedule that rotates shifts among staff members in restaurants, cafes, bars, and hotels, ensuring fair distribution of work and consistent coverage.
-seo_title: "What is a Rolling rota in the hospitality industry?"
-unique_id: "1725887784059x811893816712493600"
+title: Rolling rota
+slug: rolling-rota
+meta: >
+  A rolling rota is a schedule that rotates shifts among staff members in
+  restaurants, cafes, bars, and hotels, ensuring fair distribution of work and
+  consistent coverage.
+seo_title: What is a Rolling rota in the hospitality industry?
+unique_id: 1725887784059x811893816712493600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Rolling rota",
-    "description": "A rolling rota is where shifts repeat in a cycle. Instead of making a new rota every week or month, managers set up a pattern that rolls over, with staff working the same sequence of shifts, days off and hours in a loop.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/rolling-rota"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Rolling rota
+  description: >-
+    A rolling rota is where shifts repeat in a cycle. Instead of making a new
+    rota every week or month, managers set up a pattern that rolls over, with
+    staff working the same sequence of shifts, days off and hours in a loop.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/rolling-rota'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Rolling rota",
-        "item": "https://yourpilla.com/glossary/rolling-rota"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Rolling rota
+      item: 'https://yourpilla.com/glossary/rolling-rota'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A rolling rota is where shifts repeat in a cycle. Instead of making a new rota every week or month, managers set up a pattern that rolls over. So staff work the same sequence of shifts, days off and hours in a loop.

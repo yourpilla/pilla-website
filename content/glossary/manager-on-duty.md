@@ -1,44 +1,41 @@
 ---
-title: "Manager on Duty"
-slug: "manager-on-duty"
-meta: |
-  Manager on Duty (MOD) refers to the staff member in charge during a specific shift, overseeing operations and addressing guest issues in hotels, restaurants, cafes, or bars.
-seo_title: "What is a Manager on Duty in the hospitality industry?"
-unique_id: "1724413118867x698277574899550200"
+title: Manager on Duty
+slug: manager-on-duty
+meta: >
+  Manager on Duty (MOD) refers to the staff member in charge during a specific
+  shift, overseeing operations and addressing guest issues in hotels,
+  restaurants, cafes, or bars.
+seo_title: What is a Manager on Duty in the hospitality industry?
+unique_id: 1724413118867x698277574899550200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Manager on Duty",
-    "description": "Manager on Duty (MOD) is the senior staff member in charge during a specific hotel shift who handles issues, makes decisions, and maintains service standards.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/manager-on-duty"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Manager on Duty
+  description: >-
+    Manager on Duty (MOD) is the senior staff member in charge during a specific
+    hotel shift who handles issues, makes decisions, and maintains service
+    standards.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/manager-on-duty'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Manager on Duty",
-        "item": "https://yourpilla.com/glossary/manager-on-duty"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Manager on Duty
+      item: 'https://yourpilla.com/glossary/manager-on-duty'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 MOD stands for Manager on Duty. This is the senior staff member in charge of the hotel during a specific shift. This role rotates among managers so there’s always someone to handle issues, make decisions and maintain service standards. The MOD is the point of contact for staff and guests alike, to address concerns and manage any unexpected situations that may arise.

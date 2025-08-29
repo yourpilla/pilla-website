@@ -1,44 +1,41 @@
 ---
-title: "Recipe Costing"
-slug: "recipe-costing"
-meta: |
-  Recipe costing calculates the total cost of ingredients for a dish, helping restaurants, cafes, and bars set menu prices and maintain profitability.
-seo_title: "What is Recipe Costing in the hospitality industry?"
-unique_id: "1726570381834x797020690104892400"
+title: Recipe Costing
+slug: recipe-costing
+meta: >
+  Recipe costing calculates the total cost of ingredients for a dish, helping
+  restaurants, cafes, and bars set menu prices and maintain profitability.
+seo_title: What is Recipe Costing in the hospitality industry?
+unique_id: 1726570381834x797020690104892400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Recipe costing",
-    "description": "Recipe costing is the process of determining the exact cost of each ingredient in a dish by measuring and pricing every component to calculate the total cost, ensuring menu items are correctly priced and margins maintained.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/recipe-costing"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Recipe costing
+  description: >-
+    Recipe costing is the process of determining the exact cost of each
+    ingredient in a dish by measuring and pricing every component to calculate
+    the total cost, ensuring menu items are correctly priced and margins
+    maintained.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/recipe-costing'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Recipe Costing",
-        "item": "https://yourpilla.com/glossary/recipe-costing"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Recipe Costing
+      item: 'https://yourpilla.com/glossary/recipe-costing'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Recipe costing is the process of working out the exact cost of each ingredient in a dish to calculate the total cost. This means measuring and pricing every component, from main ingredients to spices and garnishes. This way you can price your menu items correctly and maintain your margins. Recipe costing helps you understand the financial impact of every dish you serve.

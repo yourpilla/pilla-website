@@ -1,44 +1,43 @@
 ---
-title: "General Manager"
-slug: "general-manager"
-meta: |
-  The General Manager oversees daily operations in hotels, restaurants, cafes, and bars, ensuring efficient service, staff management, and guest satisfaction.
-seo_title: "What is a General Manager in the hospitality industry?"
-unique_id: "1722782230651x278910677795927580"
+title: General Manager
+slug: general-manager
+meta: >
+  The General Manager oversees daily operations in hotels, restaurants, cafes,
+  and bars, ensuring efficient service, staff management, and guest
+  satisfaction.
+seo_title: What is a General Manager in the hospitality industry?
+unique_id: 1722782230651x278910677795927580
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "General Manager",
-    "description": "A General Manager (GM) is the top dog in hospitality, responsible for everything that goes on in a hotel, restaurant or other hospitality business. They manage staff, guest satisfaction, budgets and strategy to drive profitability. The GM is the decision maker and the face of the business, reporting to owners or corporate heads.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/general-manager"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: General Manager
+  description: >-
+    A General Manager (GM) is the top dog in hospitality, responsible for
+    everything that goes on in a hotel, restaurant or other hospitality
+    business. They manage staff, guest satisfaction, budgets and strategy to
+    drive profitability. The GM is the decision maker and the face of the
+    business, reporting to owners or corporate heads.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/general-manager'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "General Manager",
-        "item": "https://yourpilla.com/glossary/general-manager"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: General Manager
+      item: 'https://yourpilla.com/glossary/general-manager'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A General Manager (GM) is the top dog in hospitality, responsible for everything that goes on in a hotel, restaurant or other hospitality business. They manage staff, guest satisfaction, budgets and strategy to drive profitability. The GM is the decision maker and the face of the business, reporting to owners or corporate heads.

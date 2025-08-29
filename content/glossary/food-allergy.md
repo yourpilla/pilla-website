@@ -1,45 +1,42 @@
 ---
-title: "Food Allergy"
-slug: "food-allergy"
-meta: |
-  A food allergy is an adverse immune response to certain foods, causing symptoms like hives, swelling, or anaphylaxis. Staff must know ingredients to prevent reactions.
-seo_title: "What is a Food Allergy in the hospitality industry?"
-unique_id: "1724413478810x315334228997024260"
+title: Food Allergy
+slug: food-allergy
+meta: >
+  A food allergy is an adverse immune response to certain foods, causing
+  symptoms like hives, swelling, or anaphylaxis. Staff must know ingredients to
+  prevent reactions.
+seo_title: What is a Food Allergy in the hospitality industry?
+unique_id: 1724413478810x315334228997024260
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Food allergy",
-    "description": "A food allergy is an immune system reaction that happens within minutes of eating a certain food, triggering symptoms such as digestive issues, hives, swollen airways or anaphylaxis.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/food-allergy",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Food allergy
+  description: >-
+    A food allergy is an immune system reaction that happens within minutes of
+    eating a certain food, triggering symptoms such as digestive issues, hives,
+    swollen airways or anaphylaxis.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/food-allergy'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Food Allergy",
-        "item": "https://yourpilla.com/glossary/food-allergy"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Food Allergy
+      item: 'https://yourpilla.com/glossary/food-allergy'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A food allergy is an immune system reaction that happens within minutes of eating a certain food. Even a tiny amount of the allergy causing food can trigger digestive issues, hives or swollen airways. In some people a food allergy can cause severe symptoms or even anaphylaxis. Common food allergens are peanuts, tree nuts, milk, eggs, fish, shellfish, soy and wheat.

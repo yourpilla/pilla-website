@@ -1,45 +1,41 @@
 ---
-title: "Valet"
-slug: "valet"
-meta: |
-  A valet parks guests' vehicles and retrieves them upon request, enhancing convenience and service quality in hotels, restaurants, cafes, and bars.
-seo_title: "What is Valet in the hospitality industry?"
-unique_id: "1726570907349x404516669582498900"
+title: Valet
+slug: valet
+meta: >
+  A valet parks guests' vehicles and retrieves them upon request, enhancing
+  convenience and service quality in hotels, restaurants, cafes, and bars.
+seo_title: What is Valet in the hospitality industry?
+unique_id: 1726570907349x404516669582498900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Valet",
-    "description": "Valet is a service offered by hotels, restaurants and other hospitality venues where staff park and retrieve vehicles, greet guests, assist with luggage and care for cars.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/valet",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Valet
+  description: >-
+    Valet is a service offered by hotels, restaurants and other hospitality
+    venues where staff park and retrieve vehicles, greet guests, assist with
+    luggage and care for cars.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/valet'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Valet",
-        "item": "https://yourpilla.com/glossary/valet"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Valet
+      item: 'https://yourpilla.com/glossary/valet'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Valet is a service offered by hotels, restaurants and other hospitality venues where staff park and retrieve your car. This service includes greeting you, helping with your luggage and looking after your car. Valets are well trained in customer service and can drive all sorts of cars.

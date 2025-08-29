@@ -1,8 +1,9 @@
 import { getContentBySlug, getAllSlugs } from '@/lib/content';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import Link from 'next/link';
+import Image from 'next/image';
 import MarkdownContent from '@/components/MarkdownContent';
+import ReactMarkdown from 'react-markdown';
 
 interface GlossaryPageProps {
   params: Promise<{ slug: string }>;
@@ -40,6 +41,15 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
 
   const synonyms = Array.isArray(term.frontmatter.synonyms) ? term.frontmatter.synonyms as string[] : [];
 
+  // Get dynamic image from YAML or use default
+  const sidebarImage = term.frontmatter.sidebar_image && typeof term.frontmatter.sidebar_image === 'string'
+    ? term.frontmatter.sidebar_image
+    : "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format";
+  
+  const sidebarImageAlt = term.frontmatter.sidebar_image_alt && typeof term.frontmatter.sidebar_image_alt === 'string'
+    ? term.frontmatter.sidebar_image_alt
+    : "Hospitality glossary term";
+
   return (
     <>
       {/* Render exact schema from YAML frontmatter */}
@@ -61,74 +71,68 @@ export default async function GlossaryPage({ params }: GlossaryPageProps) {
           }}
         />
       )}
-      <div className="min-h-screen" style={{backgroundColor: 'var(--background)'}}>
-      {/* Main Content */}
-      <div className="max-w-4xl mx-auto px-4 py-12">
-        <div className="bg-card border-default rounded-default shadow-sm overflow-hidden">
-          {/* Header */}
-          <div className="bg-header-group px-8 py-12 text-center">
-            <h1 className="mb-4 leading-tight">
-              {term.title} meaning in hospitality
-            </h1>
-            {term.meta && (
-              <p className="text-subtitle max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
-                {term.meta}
-              </p>
-            )}
-            
-            {synonyms && synonyms.length > 0 && (
-              <div className="mt-8">
-                <p className="text-muted mb-3 font-semibold" style={{fontSize: 'var(--text-sm)'}}>Also known as:</p>
-                <div className="flex flex-wrap justify-center gap-2">
-                  {synonyms.map((synonym: string, index: number) => (
-                    <span 
-                      key={index}
-                      className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium"
-                    >
-                      {synonym}
-                    </span>
-                  ))}
+      
+      <div className="relative isolate overflow-hidden bg-main px-6 py-24 sm:py-32 lg:overflow-visible lg:px-18">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:items-start lg:gap-y-10">
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="lg:max-w-4xl">
+              <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+                {term.title} meaning in hospitality
+              </h1>
+              {term.meta && (
+                <div className="mt-6 small-grey">
+                  <ReactMarkdown
+                    components={{
+                      p: ({ children }) => <>{children}</>,
+                      a: ({ href, children }) => (
+                        <a
+                          href={href}
+                          className="underline hover:opacity-80 transition-opacity"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          {children}
+                        </a>
+                      )
+                    }}
+                  >
+                    {term.meta}
+                  </ReactMarkdown>
                 </div>
-              </div>
-            )}
-          </div>
-          
-          {/* Content */}
-          <div className="px-8 py-12">
-            <div className="text-left max-w-3xl mx-auto">
-              <MarkdownContent content={term.content} />
+              )}
+              
+              {synonyms && synonyms.length > 0 && (
+                <div className="mt-8">
+                  <p className="text-gray-600 mb-3 font-semibold text-sm">Also known as:</p>
+                  <div className="flex flex-wrap gap-2">
+                    {synonyms.map((synonym: string, index: number) => (
+                      <span 
+                        key={index}
+                        className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900"
+                      >
+                        {synonym}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
-            
-            {/* Call to Action */}
-            <div className="mt-12 text-center">
-              <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                <h3 className="mb-3 font-semibold" style={{fontSize: 'var(--text-xl)'}}>
-                  Learn More About Hospitality
-                </h3>
-                <p className="text-muted mb-6">
-                  Explore our comprehensive glossary of hospitality terms and boost your industry knowledge.
-                </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <Link
-                    href="/glossary"
-                    className="btn"
-                  >
-                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                    </svg>
-                    Browse All Terms
-                  </Link>
-                  <Link
-                    href="/blog"
-                    className="btn"
-                  >
-                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                    </svg>
-                    Read Our Blog
-                  </Link>
-                </div>
-              </div>
+          </div>
+        </div>
+        <div className="flex justify-center lg:sticky lg:top-4 lg:col-start-3 lg:row-span-2 lg:row-start-1 lg:justify-start">
+          <Image
+            src={sidebarImage} 
+            alt={sidebarImageAlt} 
+            width={400}
+            height={300}
+            className="w-full max-w-sm object-cover rounded-lg"
+          />
+        </div>
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="max-w-4xl text-base/7 text-gray-600">
+              <MarkdownContent content={term.content} />
             </div>
           </div>
         </div>

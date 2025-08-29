@@ -1,45 +1,43 @@
 ---
-title: "Cloche"
-slug: "cloche"
-meta: |
-  A cloche is a bell-shaped cover used in restaurants to keep food warm and present it elegantly to guests. It enhances the dining experience by maintaining dish temperature.
-seo_title: "What is a cloche in the hospitality industry?"
-unique_id: "1725916811449x344156626264907840"
+title: Cloche
+slug: cloche
+meta: >
+  A cloche is a bell-shaped cover used in restaurants to keep food warm and
+  present it elegantly to guests. It enhances the dining experience by
+  maintaining dish temperature.
+seo_title: What is a cloche in the hospitality industry?
+unique_id: 1725916811449x344156626264907840
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Cloche",
-    "description": "A cloche is a dome shaped cover used in food service to keep food warm or to make a big reveal when serving food to guests. It comes from the French word for 'bell' and can be made of silver, glass or plastic. Cloches are used in fine dining restaurants and high end room service in hotels.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/cloche",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Cloche
+  description: >-
+    A cloche is a dome shaped cover used in food service to keep food warm or to
+    make a big reveal when serving food to guests. It comes from the French word
+    for 'bell' and can be made of silver, glass or plastic. Cloches are used in
+    fine dining restaurants and high end room service in hotels.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/cloche'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Cloche",
-        "item": "https://yourpilla.com/glossary/cloche"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Cloche
+      item: 'https://yourpilla.com/glossary/cloche'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A cloche is a dome shaped cover used in food service to keep food warm or to make a big reveal when serving food to guests. It comes from the French word for 'bell' and can be made of silver, glass or plastic. Cloches are used in fine dining restaurants and high end room service in hotels.

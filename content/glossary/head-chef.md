@@ -1,44 +1,41 @@
 ---
-title: "Head Chef"
-slug: "head-chef"
-meta: |
-  The Head Chef leads the kitchen team, oversees food preparation, manages inventory, and ensures high-quality dishes in restaurants, cafes, and bars.
-seo_title: "What is a Head Chef in the hospitality industry?"
-unique_id: "1722782289727x371624893111791360"
+title: Head Chef
+slug: head-chef
+meta: >
+  The Head Chef leads the kitchen team, oversees food preparation, manages
+  inventory, and ensures high-quality dishes in restaurants, cafes, and bars.
+seo_title: What is a Head Chef in the hospitality industry?
+unique_id: 1722782289727x371624893111791360
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Head Chef",
-    "description": "A Head Chef (also Chef de Cuisine) oversees everything from menu planning and ingredient sourcing to staff management and quality control. Head Chefs create the dishes, ensure food safety and the kitchen runs smoothly and efficiently.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/head-chef"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Head Chef
+  description: >-
+    A Head Chef (also Chef de Cuisine) oversees everything from menu planning
+    and ingredient sourcing to staff management and quality control. Head Chefs
+    create the dishes, ensure food safety and the kitchen runs smoothly and
+    efficiently.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/head-chef'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Head Chef",
-        "item": "https://yourpilla.com/glossary/head-chef"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Head Chef
+      item: 'https://yourpilla.com/glossary/head-chef'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Head Chef (also Chef de Cuisine) oversees everything from menu planning and ingredient sourcing to staff management and quality control. Head Chefs create the dishes, ensure food safety and the kitchen runs smoothly and efficiently.

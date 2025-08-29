@@ -1,44 +1,42 @@
 ---
-title: "SOP (Standard Operating Procedure)"
-slug: "sop"
-meta: |
-  SOP, or Standard Operating Procedure, is a set of step-by-step guidelines to ensure consistent and efficient execution of tasks, enhancing service quality and operational efficiency.
-seo_title: "What is an SOP (Standard Operating Procedure) in the hospitality industry?"
-unique_id: "1722587211985x742017192027511600"
+title: SOP (Standard Operating Procedure)
+slug: sop
+meta: >
+  SOP, or Standard Operating Procedure, is a set of step-by-step guidelines to
+  ensure consistent and efficient execution of tasks, enhancing service quality
+  and operational efficiency.
+seo_title: What is an SOP (Standard Operating Procedure) in the hospitality industry?
+unique_id: 1722587211985x742017192027511600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Standard Operating Procedure",
-    "description": "SOP, or Standard Operating Procedure, is a detailed written set of instructions that describes how to perform a routine activity in a hospitality setting, outlining the precise steps required to complete tasks consistently and efficiently.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/standard-operating-procedure"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Standard Operating Procedure
+  description: >-
+    SOP, or Standard Operating Procedure, is a detailed written set of
+    instructions that describes how to perform a routine activity in a
+    hospitality setting, outlining the precise steps required to complete tasks
+    consistently and efficiently.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/standard-operating-procedure'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "SOP (Standard Operating Procedure)",
-        "item": "https://yourpilla.com/glossary/sop"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: SOP (Standard Operating Procedure)
+      item: 'https://yourpilla.com/glossary/sop'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 SOP, or Standard Operating Procedure, is a detailed, written set of instructions that describes how to perform a routine activity in a hospitality setting. SOPs outline the exact steps needed to complete a task consistently and efficiently, ensuring that all staff members follow the same process every time. These procedures cover various aspects of hospitality operations, from check-in processes and room cleaning to food preparation and customer service protocols.

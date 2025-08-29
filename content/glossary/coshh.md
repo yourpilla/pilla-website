@@ -1,45 +1,43 @@
 ---
-title: "COSHH"
-slug: "coshh"
-meta: |
-  COSHH stands for Control of Substances Hazardous to Health. It ensures safe handling, storage, and use of hazardous substances in restaurants, cafes, and hotels.
-seo_title: "What is COSHH in the hospitality industry?"
-unique_id: "1722586657114x477094712862558200"
+title: COSHH
+slug: coshh
+meta: >
+  COSHH stands for Control of Substances Hazardous to Health. It ensures safe
+  handling, storage, and use of hazardous substances in restaurants, cafes, and
+  hotels.
+seo_title: What is COSHH in the hospitality industry?
+unique_id: 1722586657114x477094712862558200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "COSHH",
-    "description": "COSHH is a UK regulation that requires employers to control hazardous substances to protect workers. In hospitality, it covers products from cleaning chemicals to cooking oils and mandates risk assessments, control measures and staff training.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/coshh",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: COSHH
+  description: >-
+    COSHH is a UK regulation that requires employers to control hazardous
+    substances to protect workers. In hospitality, it covers products from
+    cleaning chemicals to cooking oils and mandates risk assessments, control
+    measures and staff training.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/coshh'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "COSHH",
-        "item": "https://yourpilla.com/glossary/coshh"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: COSHH
+      item: 'https://yourpilla.com/glossary/coshh'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 COSHH stands for Control of Substances Hazardous to Health. It's a set of rules in the UK that makes employers control substances that can harm workers' health. In hospitality, this covers a wide range of products from cleaning chemicals to cooking oils and even some foods. COSHH is about assessing risks, implementing controls and training.

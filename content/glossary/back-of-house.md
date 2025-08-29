@@ -1,43 +1,40 @@
 ---
-title: "Back of House (BOH)"
-slug: "back-of-house"
-meta: "Back of house meaning in hospitality, retail and leisure settings including job roles."
-seo_title: "What does Back of House (BOH) mean?"
-unique_id: "1722413327457x276187077103961860"
+title: Back of House (BOH)
+slug: back-of-house
+meta: >-
+  Back of house meaning in hospitality, retail and leisure settings including
+  job roles.
+seo_title: What does Back of House (BOH) mean?
+unique_id: 1722413327457x276187077103961860
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Back of House",
-    "description": "Back of House refers to the operational areas in hospitality and retail settings that customers do not see. It encompasses the environments where food is prepared, stock is managed, and administrative tasks are performed.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/back-of-house"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Back of House
+  description: >-
+    Back of House refers to the operational areas in hospitality and retail
+    settings that customers do not see. It encompasses the environments where
+    food is prepared, stock is managed, and administrative tasks are performed.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/back-of-house'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Back of House (BOH)",
-        "item": "https://yourpilla.com/glossary/back-of-house"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Back of House (BOH)
+      item: 'https://yourpilla.com/glossary/back-of-house'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 The secret sauce happens 'back of house' meaning the area that customers don't see. This article unpacks the back of house in hospitality business and retail settings, its roles, significance, and challenges, providing insight into the invisible force that propels restaurant and retail success.

@@ -1,44 +1,42 @@
 ---
-title: "Tare Weight"
-slug: "tare-weight"
-meta: |
-  Tare weight is the weight of an empty container, such as a glass or plate, used in restaurants and bars. It ensures accurate measurements when serving food or drinks.
-seo_title: "What is Tare Weight in the hospitality industry?"
-unique_id: "1726570717221x340016720771394240"
+title: Tare Weight
+slug: tare-weight
+meta: >
+  Tare weight is the weight of an empty container, such as a glass or plate,
+  used in restaurants and bars. It ensures accurate measurements when serving
+  food or drinks.
+seo_title: What is Tare Weight in the hospitality industry?
+unique_id: 1726570717221x340016720771394240
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Tare weight",
-    "description": "Tare weight is the weight of an empty container or vessel. In hospitality, it often refers to dishes, serving platters, or storage containers in the kitchen and restaurants, and is subtracted from the total weight to determine the true weight of food.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/tare-weight"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Tare weight
+  description: >-
+    Tare weight is the weight of an empty container or vessel. In hospitality,
+    it often refers to dishes, serving platters, or storage containers in the
+    kitchen and restaurants, and is subtracted from the total weight to
+    determine the true weight of food.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/tare-weight'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Tare Weight",
-        "item": "https://yourpilla.com/glossary/tare-weight"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Tare Weight
+      item: 'https://yourpilla.com/glossary/tare-weight'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Tare weight is the weight of an empty container or vessel. In hospitality, this is often dishes, serving platters or storage containers in the kitchen and restaurants. When you weigh ingredients or portions, you subtract the tare weight to get the true weight of the food.

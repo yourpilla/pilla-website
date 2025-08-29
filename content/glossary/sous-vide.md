@@ -1,45 +1,42 @@
 ---
-title: "Sous Vide"
-slug: "sous-vide"
-meta: |
-  Sous Vide is a cooking method where food is vacuum-sealed and cooked in a water bath at a precise, low temperature, ensuring even cooking and enhanced flavour.
-seo_title: "What is Sous Vide in the hospitality industry?"
-unique_id: "1726570591433x659054891379707600"
+title: Sous Vide
+slug: sous-vide
+meta: >
+  Sous Vide is a cooking method where food is vacuum-sealed and cooked in a
+  water bath at a precise, low temperature, ensuring even cooking and enhanced
+  flavour.
+seo_title: What is Sous Vide in the hospitality industry?
+unique_id: 1726570591433x659054891379707600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Sous vide",
-    "description": "Sous vide is a cooking technique that seals food in airtight plastic bags and cooks it in a temperature-controlled water bath for hours, ensuring precise texture and flavour.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/sous-vide",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Sous vide
+  description: >-
+    Sous vide is a cooking technique that seals food in airtight plastic bags
+    and cooks it in a temperature-controlled water bath for hours, ensuring
+    precise texture and flavour.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/sous-vide'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Sous Vide",
-        "item": "https://yourpilla.com/glossary/sous-vide"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Sous Vide
+      item: 'https://yourpilla.com/glossary/sous-vide'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Sous vide means 'under vacuum' in French. It's a cooking technique where you seal food in airtight plastic bags and cook it in a temperature controlled water bath for hours. This gives you precise temperature control resulting in food cooked to the same texture and flavour every time.

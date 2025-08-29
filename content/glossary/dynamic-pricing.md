@@ -1,44 +1,42 @@
 ---
-title: "Dynamic Pricing"
-slug: "dynamic-pricing"
-meta: |
-  Dynamic Pricing adjusts room rates, menu prices, or event fees in real-time based on demand, occupancy, or other factors to maximise revenue and occupancy.
-seo_title: "What is Dynamic Pricing in the hospitality industry?"
-unique_id: "1722589436247x488871386829224700"
+title: Dynamic Pricing
+slug: dynamic-pricing
+meta: >
+  Dynamic Pricing adjusts room rates, menu prices, or event fees in real-time
+  based on demand, occupancy, or other factors to maximise revenue and
+  occupancy.
+seo_title: What is Dynamic Pricing in the hospitality industry?
+unique_id: 1722589436247x488871386829224700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Dynamic pricing",
-    "description": "Dynamic pricing is a hospitality industry strategy to price based on demand, market and other factors. It allows real-time price adjustments to maximise revenue and occupancy, adapting to situations, seasonality, local events, and competitor rates.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/dynamic-pricing"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Dynamic pricing
+  description: >-
+    Dynamic pricing is a hospitality industry strategy to price based on demand,
+    market and other factors. It allows real-time price adjustments to maximise
+    revenue and occupancy, adapting to situations, seasonality, local events,
+    and competitor rates.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/dynamic-pricing'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Dynamic Pricing",
-        "item": "https://yourpilla.com/glossary/dynamic-pricing"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Dynamic Pricing
+      item: 'https://yourpilla.com/glossary/dynamic-pricing'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Dynamic pricing is a hospitality industry strategy to price based on demand, market and other factors. This allows you to change your prices in real time to maximise revenue and occupancy. Unlike fixed pricing, dynamic pricing adapts to many situations, seasonality, local events, and competitor rates.

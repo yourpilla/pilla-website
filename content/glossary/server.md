@@ -1,44 +1,41 @@
 ---
-title: "Server"
-slug: "server"
-meta: |
-  A server in hospitality takes orders, serves food and drinks, and ensures customer satisfaction in restaurants, cafes, and bars. They enhance the guest experience.
-seo_title: "What is a Server in the hospitality industry?"
-unique_id: "1722792470408x377842070267984800"
+title: Server
+slug: server
+meta: >
+  A server in hospitality takes orders, serves food and drinks, and ensures
+  customer satisfaction in restaurants, cafes, and bars. They enhance the guest
+  experience.
+seo_title: What is a Server in the hospitality industry?
+unique_id: 1722792470408x377842070267984800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Server",
-    "description": "A server is a hospitality professional who takes orders, serves food and drink, and attends to guests in restaurants, cafes, bars, and other dining establishments to ensure a great dining experience.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/server"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Server
+  description: >-
+    A server is a hospitality professional who takes orders, serves food and
+    drink, and attends to guests in restaurants, cafes, bars, and other dining
+    establishments to ensure a great dining experience.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/server'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Server",
-        "item": "https://yourpilla.com/glossary/server"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Server
+      item: 'https://yourpilla.com/glossary/server'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A server is a hospitality professional who takes orders, serves food and drink and looks after guests in restaurants, cafes, bars and other dining establishments. Servers are the main point of contact between the customer and the kitchen, to ensure the customer has a great dining experience.

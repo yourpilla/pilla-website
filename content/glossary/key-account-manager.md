@@ -1,44 +1,41 @@
 ---
-title: "Key Account Manager"
-slug: "key-account-manager"
-meta: |
-  A Key Account Manager in hospitality manages relationships with major clients, ensuring their needs are met and driving business growth for hotels, restaurants, and bars.
-seo_title: "What is a Key Account Manager in the hospitality industry?"
-unique_id: "1722782570230x136019385365192750"
+title: Key Account Manager
+slug: key-account-manager
+meta: >
+  A Key Account Manager in hospitality manages relationships with major clients,
+  ensuring their needs are met and driving business growth for hotels,
+  restaurants, and bars.
+seo_title: What is a Key Account Manager in the hospitality industry?
+unique_id: 1722782570230x136019385365192750
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Key Account Manager",
-    "description": "A Key Account Manager in hospitality manages and grows relationships with the most valuable clients or partners, ensuring their needs are met and high value accounts are maintained.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/key-account-manager"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Key Account Manager
+  description: >-
+    A Key Account Manager in hospitality manages and grows relationships with
+    the most valuable clients or partners, ensuring their needs are met and high
+    value accounts are maintained.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/key-account-manager'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Key Account Manager",
-        "item": "https://yourpilla.com/glossary/key-account-manager"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Key Account Manager
+      item: 'https://yourpilla.com/glossary/key-account-manager'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Key Account Manager in hospitality is the person who looks after and grows the relationships with the biggest and most valuable clients or partners of a hotel, restaurant or other hospitality business. They are the main point of contact for these high value accounts, making sure their needs are met and their experience is exceptional. Key Account Managers maintain and grow these relationships, often negotiating contracts, resolving issues and identifying new opportunities for collaboration.

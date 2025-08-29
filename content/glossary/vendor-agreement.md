@@ -1,44 +1,42 @@
 ---
-title: "Vendor Agreement"
-slug: "vendor-agreement"
-meta: |
-  A Vendor Agreement is a contract between a hospitality business and a supplier detailing the terms of goods or services provided, ensuring clear expectations and accountability.
-seo_title: "What is a Vendor Agreement in the hospitality industry?"
-unique_id: "1724412649303x836182560892231000"
+title: Vendor Agreement
+slug: vendor-agreement
+meta: >
+  A Vendor Agreement is a contract between a hospitality business and a supplier
+  detailing the terms of goods or services provided, ensuring clear expectations
+  and accountability.
+seo_title: What is a Vendor Agreement in the hospitality industry?
+unique_id: 1724412649303x836182560892231000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Vendor agreement",
-    "description": "A vendor agreement is a contract between a hospitality business and a supplier that outlines the terms of their business, including product or service specifications, pricing, delivery schedules, payment terms, quality standards, responsibilities, liabilities and dispute resolution.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/vendor-agreement"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Vendor agreement
+  description: >-
+    A vendor agreement is a contract between a hospitality business and a
+    supplier that outlines the terms of their business, including product or
+    service specifications, pricing, delivery schedules, payment terms, quality
+    standards, responsibilities, liabilities and dispute resolution.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/vendor-agreement'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Vendor Agreement",
-        "item": "https://yourpilla.com/glossary/vendor-agreement"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Vendor Agreement
+      item: 'https://yourpilla.com/glossary/vendor-agreement'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A vendor agreement is a contract between a hospitality business and a supplier that outlines the terms of their business. This document will include product or service specifications, pricing, delivery schedules, payment terms and quality standards. It will also cover responsibilities, liabilities and dispute resolution.

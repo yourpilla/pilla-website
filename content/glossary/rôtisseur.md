@@ -1,45 +1,44 @@
 ---
-title: "Rôtisseur"
-slug: "rôtisseur"
-meta: |
-  A rôtisseur, or roast chef, specialises in roasting meats and managing the rotisserie in restaurants. They ensure meats are cooked to perfection, enhancing guest satisfaction.
-seo_title: "What is a Rôtisseur in the hospitality industry?"
-unique_id: "1726570457765x769673756196070700"
+title: Rôtisseur
+slug: rôtisseur
+meta: >
+  A rôtisseur, or roast chef, specialises in roasting meats and managing the
+  rotisserie in restaurants. They ensure meats are cooked to perfection,
+  enhancing guest satisfaction.
+seo_title: What is a Rôtisseur in the hospitality industry?
+unique_id: 1726570457765x769673756196070700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Rôtisseur",
-    "description": "A Rôtisseur is a chef who roasts meats. This chef is an expert in roasting all types of meat to achieve the perfect balance of flavour, texture and presentation. The term originates from the French word 'rôtir', meaning 'to roast', and encompasses knowledge of different cuts, seasoning methods, and precise cooking times and temperatures.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/rôtisseur",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Rôtisseur
+  description: >-
+    A Rôtisseur is a chef who roasts meats. This chef is an expert in roasting
+    all types of meat to achieve the perfect balance of flavour, texture and
+    presentation. The term originates from the French word 'rôtir', meaning 'to
+    roast', and encompasses knowledge of different cuts, seasoning methods, and
+    precise cooking times and temperatures.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/rôtisseur'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Rôtisseur",
-        "item": "https://yourpilla.com/glossary/rôtisseur"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Rôtisseur
+      item: 'https://yourpilla.com/glossary/rôtisseur'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Rôtisseur is a chef who roasts meats. This chef is an expert in roasting all types of meat to get the perfect balance of flavour, texture and presentation. The word comes from the French word 'rôtir' which means 'to roast'. A Rôtisseur's expertise goes beyond cooking; they know the ins and outs of different cuts of meat, seasoning methods and the perfect cooking time and temperature for each type of protein.

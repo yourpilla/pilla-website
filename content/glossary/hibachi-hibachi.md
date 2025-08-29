@@ -1,45 +1,42 @@
 ---
-title: "Hibachi"
-slug: "hibachi-hibachi"
-meta: |
-  Hibachi refers to a Japanese-style grill used in restaurants where chefs cook food directly in front of guests. It enhances the dining experience with entertainment and interaction.
-seo_title: "What is a Hibachi in the hospitality industry?"
-unique_id: "1725994884168x470598708727376000"
+title: Hibachi
+slug: hibachi-hibachi
+meta: >
+  Hibachi refers to a Japanese-style grill used in restaurants where chefs cook
+  food directly in front of guests. It enhances the dining experience with
+  entertainment and interaction.
+seo_title: What is a Hibachi in the hospitality industry?
+unique_id: 1725994884168x470598708727376000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Hibachi",
-    "description": "Hibachi is a Japanese term for a heating device and a style of cooking in the hospitality industry where the chef cooks on a flat open grill in front of guests.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/hibachi",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Hibachi
+  description: >-
+    Hibachi is a Japanese term for a heating device and a style of cooking in
+    the hospitality industry where the chef cooks on a flat open grill in front
+    of guests.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/hibachi'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Hibachi",
-        "item": "https://yourpilla.com/glossary/hibachi-hibachi"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Hibachi
+      item: 'https://yourpilla.com/glossary/hibachi-hibachi'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Hibachi is a Japanese term for a heating device but in the hospitality industry it’s a style of cooking where the chef cooks on a flat open grill in front of the guest. This style of cooking combines culinary skill with entertainment as the chef will often perform tricks and interact with the guest while preparing their meal.

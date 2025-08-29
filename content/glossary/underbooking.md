@@ -1,44 +1,39 @@
 ---
-title: "Underbooking"
-slug: "underbooking"
-meta: |
-  Underbooking occurs when a hotel, restaurant, or bar books fewer reservations than its capacity, leading to unused resources and potential revenue loss.
-seo_title: "What is Underbooking in the hospitality industry?"
-unique_id: "1722586921159x635379474862649000"
+title: Underbooking
+slug: underbooking
+meta: >
+  Underbooking occurs when a hotel, restaurant, or bar books fewer reservations
+  than its capacity, leading to unused resources and potential revenue loss.
+seo_title: What is Underbooking in the hospitality industry?
+unique_id: 1722586921159x635379474862649000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Underbooking",
-    "description": "Underbooking means having fewer reservations or bookings than capacity, leaving available rooms, tables or space unutilised in hospitality venues.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/underbooking"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Underbooking
+  description: >-
+    Underbooking means having fewer reservations or bookings than capacity,
+    leaving available rooms, tables or space unutilised in hospitality venues.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/underbooking'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Underbooking",
-        "item": "https://yourpilla.com/glossary/underbooking"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Underbooking
+      item: 'https://yourpilla.com/glossary/underbooking'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Underbooking means having fewer reservations or bookings than capacity. That’s when the number of guests or customers is less than the available rooms, tables or space. Underbooking can happen in any hospitality business, hotels, restaurants, bars and event venues.

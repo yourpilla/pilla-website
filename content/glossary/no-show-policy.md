@@ -1,44 +1,44 @@
 ---
-title: "No-Show Policy"
-slug: "no-show-policy"
-meta: |
-  A No-Show Policy outlines the charges or penalties applied when a guest does not arrive for their reservation without prior cancellation, helping manage occupancy and revenue.
-seo_title: "What is a No-Show Policy in the hospitality industry?"
-unique_id: "1722524061954x323552606921956300"
+title: No-Show Policy
+slug: no-show-policy
+meta: >
+  A No-Show Policy outlines the charges or penalties applied when a guest does
+  not arrive for their reservation without prior cancellation, helping manage
+  occupancy and revenue.
+seo_title: What is a No-Show Policy in the hospitality industry?
+unique_id: 1722524061954x323552606921956300
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "No-show policy",
-    "description": "A no-show policy is a set of rules and procedures that hotels, restaurants and other hospitality businesses use to manage guests who don’t show up for their bookings without cancelling. This policy outlines the consequences for no-shows which can include charging a fee or cancelling future bookings. The main aim is to minimize lost revenue and protect the business from the financial impact of unused rooms or tables.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/no-show-policy"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: No-show policy
+  description: >-
+    A no-show policy is a set of rules and procedures that hotels, restaurants
+    and other hospitality businesses use to manage guests who don’t show up for
+    their bookings without cancelling. This policy outlines the consequences for
+    no-shows which can include charging a fee or cancelling future bookings. The
+    main aim is to minimize lost revenue and protect the business from the
+    financial impact of unused rooms or tables.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/no-show-policy'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "No-Show Policy",
-        "item": "https://yourpilla.com/glossary/no-show-policy"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: No-Show Policy
+      item: 'https://yourpilla.com/glossary/no-show-policy'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A no-show policy is a set of rules and procedures that hotels, restaurants and other hospitality businesses use to manage guests who don’t show up for their bookings without cancelling. This policy outlines the consequences for no-shows which can include charging a fee or cancelling future bookings. The main aim is to minimize lost revenue and protect the business from the financial impact of unused rooms or tables.

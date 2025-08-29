@@ -1,45 +1,44 @@
 ---
-title: "Ticket Time"
-slug: "ticket-time"
-meta: |
-  Ticket Time refers to the duration between when a customer places an order and when they receive it. Efficient ticket times improve customer satisfaction and table turnover.
-seo_title: "What is Ticket Time in the hospitality industry?"
-unique_id: "1724412279208x156746636809901300"
+title: Ticket Time
+slug: ticket-time
+meta: >
+  Ticket Time refers to the duration between when a customer places an order and
+  when they receive it. Efficient ticket times improve customer satisfaction and
+  table turnover.
+seo_title: What is Ticket Time in the hospitality industry?
+unique_id: 1724412279208x156746636809901300
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Ticket time",
-    "description": "Ticket time is the time between when a customer orders and when that order is ready for service or delivery. In restaurants, it is measured from when a server enters an order into the POS system until the kitchen completes the dish. In bars and hotels, it refers to the time from ordering to receiving a drink or a room service order, respectively.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "inLanguage": "en-GB",
-    "url": "https://yourpilla.com/glossary/ticket-time"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Ticket time
+  description: >-
+    Ticket time is the time between when a customer orders and when that order
+    is ready for service or delivery. In restaurants, it is measured from when a
+    server enters an order into the POS system until the kitchen completes the
+    dish. In bars and hotels, it refers to the time from ordering to receiving a
+    drink or a room service order, respectively.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  inLanguage: en-GB
+  url: 'https://yourpilla.com/glossary/ticket-time'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Ticket Time",
-        "item": "https://yourpilla.com/glossary/ticket-time"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Ticket Time
+      item: 'https://yourpilla.com/glossary/ticket-time'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Ticket time is the time between when a customer orders and when that order is ready for service or delivery. In restaurants it's the time from when a server puts an order into the POS system to when the kitchen finishes the dish. For bars it's the time between ordering a drink and receiving it. In hotels it's the time for room service orders or requests for amenities.

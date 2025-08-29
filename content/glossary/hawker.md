@@ -1,45 +1,42 @@
 ---
-title: "Hawker"
-slug: "hawker"
-meta: |
-  A hawker is a vendor who sells food or goods in public places, often mobile and without a fixed location. They bring diverse offerings directly to customers.
-seo_title: "What is a Hawker in the hospitality industry?"
-unique_id: "1725994838986x260219525959005900"
+title: Hawker
+slug: hawker
+meta: >
+  A hawker is a vendor who sells food or goods in public places, often mobile
+  and without a fixed location. They bring diverse offerings directly to
+  customers.
+seo_title: What is a Hawker in the hospitality industry?
+unique_id: 1725994838986x260219525959005900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Hawker",
-    "description": "A hawker sells food, drinks or other goods from a mobile stall, cart or vehicle, serving local, authentic and affordable fare that contributes to the local food culture and economy.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/hawker",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Hawker
+  description: >-
+    A hawker sells food, drinks or other goods from a mobile stall, cart or
+    vehicle, serving local, authentic and affordable fare that contributes to
+    the local food culture and economy.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/hawker'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Hawker",
-        "item": "https://yourpilla.com/glossary/hawker"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Hawker
+      item: 'https://yourpilla.com/glossary/hawker'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A hawker is someone who sells food, drinks or other goods from a mobile stall, cart or vehicle. In the hospitality industry, hawkers are often associated with street food vendors who serve local, authentic food at affordable prices. They’re everywhere in Asia, Africa and Latin America where they contribute to the local food culture and economy.

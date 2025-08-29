@@ -1,44 +1,40 @@
 ---
-title: "Epicure"
-slug: "epicure"
-meta: |
-  An epicure is someone who has a refined taste for fine food and drink, often seeking high-quality dining experiences in restaurants, cafes, and bars.
-seo_title: "What is an Epicure in the hospitality industry?"
-unique_id: "1725917231556x237110496706155460"
+title: Epicure
+slug: epicure
+meta: >
+  An epicure is someone who has a refined taste for fine food and drink, often
+  seeking high-quality dining experiences in restaurants, cafes, and bars.
+seo_title: What is an Epicure in the hospitality industry?
+unique_id: 1725917231556x237110496706155460
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Epicure",
-    "description": "An epicure is someone who loves good food and drink, appreciates the nuances of flavour, presentation, and the overall dining experience, and seeks high quality, well-prepared meals.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/epicure"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Epicure
+  description: >-
+    An epicure is someone who loves good food and drink, appreciates the nuances
+    of flavour, presentation, and the overall dining experience, and seeks high
+    quality, well-prepared meals.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/epicure'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Epicure",
-        "item": "https://yourpilla.com/glossary/epicure"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Epicure
+      item: 'https://yourpilla.com/glossary/epicure'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An epicure is someone who loves good food and drink. This is someone with good taste who appreciates the nuances of flavour, presentation and the whole dining experience. Epicures are often knowledgeable about food, wine and other gourmet products and look for high quality, well-prepared meals.

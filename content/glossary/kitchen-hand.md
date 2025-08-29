@@ -1,45 +1,41 @@
 ---
-title: "Kitchen Hand"
-slug: "kitchen-hand"
-meta: |
-  A Kitchen Hand assists chefs and kitchen staff with basic tasks like food prep, cleaning, and dishwashing, ensuring smooth kitchen operations.
-seo_title: "What is a Kitchen Hand in the hospitality industry?"
-unique_id: "1722782500400x218665467246750280"
+title: Kitchen Hand
+slug: kitchen-hand
+meta: >
+  A Kitchen Hand assists chefs and kitchen staff with basic tasks like food
+  prep, cleaning, and dishwashing, ensuring smooth kitchen operations.
+seo_title: What is a Kitchen Hand in the hospitality industry?
+unique_id: 1722782500400x218665467246750280
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Kitchen hand",
-    "description": "A kitchen hand is a support role in a commercial kitchen that assists chefs and cooks by cleaning, preparing ingredients, washing dishes, and tidying storage areas to ensure efficient kitchen operations.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/kitchen-hand",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Kitchen hand
+  description: >-
+    A kitchen hand is a support role in a commercial kitchen that assists chefs
+    and cooks by cleaning, preparing ingredients, washing dishes, and tidying
+    storage areas to ensure efficient kitchen operations.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/kitchen-hand'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Kitchen Hand",
-        "item": "https://yourpilla.com/glossary/kitchen-hand"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Kitchen Hand
+      item: 'https://yourpilla.com/glossary/kitchen-hand'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A kitchen hand is a support role in a commercial kitchen, helping chefs and cooks with all the little jobs. They keep the kitchen clean, prep ingredients and make sure everything runs smoothly. Kitchen hands do the dishes, clean the equipment and tidy up the storage areas. They might also help with basic food prep like peeling veggies or measuring ingredients.

@@ -1,44 +1,41 @@
 ---
-title: "Cover"
-slug: "cover"
-meta: |
-  In hospitality, a cover refers to a single guest served during a meal period. Tracking covers helps restaurants, cafes, and bars manage staffing and inventory efficiently.
-seo_title: "What is a Cover in the hospitality industry?"
-unique_id: "1724413269308x399181674297976100"
+title: Cover
+slug: cover
+meta: >
+  In hospitality, a cover refers to a single guest served during a meal period.
+  Tracking covers helps restaurants, cafes, and bars manage staffing and
+  inventory efficiently.
+seo_title: What is a Cover in the hospitality industry?
+unique_id: 1724413269308x399181674297976100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Cover",
-    "description": "A cover is each individual diner or guest in a restaurant or dining establishment, used to measure the number of people served during a specific period.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/cover"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Cover
+  description: >-
+    A cover is each individual diner or guest in a restaurant or dining
+    establishment, used to measure the number of people served during a specific
+    period.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/cover'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Cover",
-        "item": "https://yourpilla.com/glossary/cover"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Cover
+      item: 'https://yourpilla.com/glossary/cover'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 In the hospitality world a 'cover' is each individual diner or guest in a restaurant or dining establishment. This is used to measure the number of people served during a specific period, e.g. lunch or dinner service. So if a restaurant serves 50 people for lunch they would say they had 50 covers for that service.

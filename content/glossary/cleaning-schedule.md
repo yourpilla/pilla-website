@@ -1,45 +1,42 @@
 ---
-title: "Cleaning Schedule"
-slug: "cleaning-schedule"
-meta: |
-  A cleaning schedule outlines the specific times and tasks for cleaning areas in hotels, restaurants, cafes, and bars, ensuring hygiene and efficiency.
-seo_title: "What is a Cleaning Schedule in the hospitality industry?"
-unique_id: "1722523612666x941333074223638100"
+title: Cleaning Schedule
+slug: cleaning-schedule
+meta: >
+  A cleaning schedule outlines the specific times and tasks for cleaning areas
+  in hotels, restaurants, cafes, and bars, ensuring hygiene and efficiency.
+seo_title: What is a Cleaning Schedule in the hospitality industry?
+unique_id: 1722523612666x941333074223638100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Cleaning schedule",
-    "description": "A cleaning schedule is a plan that outlines when and how to clean and maintain specific areas of a hotel or restaurant. It details daily, weekly, and monthly tasks with assigned frequency, methods, and responsibilities to ensure thorough hygiene and presentation.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/cleaning-schedule",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Cleaning schedule
+  description: >-
+    A cleaning schedule is a plan that outlines when and how to clean and
+    maintain specific areas of a hotel or restaurant. It details daily, weekly,
+    and monthly tasks with assigned frequency, methods, and responsibilities to
+    ensure thorough hygiene and presentation.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/cleaning-schedule'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Cleaning Schedule",
-        "item": "https://yourpilla.com/glossary/cleaning-schedule"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Cleaning Schedule
+      item: 'https://yourpilla.com/glossary/cleaning-schedule'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A cleaning schedule is a plan that outlines when and how to clean and maintain specific areas of a hotel or restaurant. It includes daily, weekly and monthly tasks, with frequency, method and staff responsible for each task. This ensures all areas of the property are cleaned regularly and thoroughly, keeping the property hygienic and looking good.

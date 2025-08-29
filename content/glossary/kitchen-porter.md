@@ -1,44 +1,40 @@
 ---
-title: "Kitchen Porter"
-slug: "kitchen-porter"
-meta: |
-  A Kitchen Porter supports chefs and kitchen staff by cleaning, washing dishes, and maintaining kitchen hygiene. This role ensures smooth kitchen operations.
-seo_title: "What is a Kitchen Porter in the hospitality industry?"
-unique_id: "1724413648912x681777444492287700"
+title: Kitchen Porter
+slug: kitchen-porter
+meta: >
+  A Kitchen Porter supports chefs and kitchen staff by cleaning, washing dishes,
+  and maintaining kitchen hygiene. This role ensures smooth kitchen operations.
+seo_title: What is a Kitchen Porter in the hospitality industry?
+unique_id: 1724413648912x681777444492287700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Kitchen Porter",
-    "description": "A Kitchen Porter (KP) cleans and tidies the kitchen by washing dishes, utensils, and work surfaces, assisting with basic food preparation, and ensuring the area remains hygienic.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/kitchen-porter"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Kitchen Porter
+  description: >-
+    A Kitchen Porter (KP) cleans and tidies the kitchen by washing dishes,
+    utensils, and work surfaces, assisting with basic food preparation, and
+    ensuring the area remains hygienic.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/kitchen-porter'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Kitchen Porter",
-        "item": "https://yourpilla.com/glossary/kitchen-porter"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Kitchen Porter
+      item: 'https://yourpilla.com/glossary/kitchen-porter'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Kitchen Porter, or KP, is the person who keeps the kitchen clean and tidy. They wash dishes, pots and utensils, clean work surfaces and help with basic food prep. KPs take out the bins, mop the floors and make sure the kitchen is hygienic.

@@ -1,44 +1,42 @@
 ---
-title: "Hot Line"
-slug: "hot-line"
-meta: |
-  The hot line in a restaurant or hotel's kitchen is the area where chefs prepare and plate hot dishes. Efficient hot lines ensure quick service and high food quality.
-seo_title: "What is a Hot Line in the hospitality industry?"
-unique_id: "1725994969092x874409029128239400"
+title: Hot Line
+slug: hot-line
+meta: >
+  The hot line in a restaurant or hotel's kitchen is the area where chefs
+  prepare and plate hot dishes. Efficient hot lines ensure quick service and
+  high food quality.
+seo_title: What is a Hot Line in the hospitality industry?
+unique_id: 1725994969092x874409029128239400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Hot line",
-    "description": "The hot line, also known as the hot side or hot kitchen, is the area where all cooking occurs. It houses appliances like stoves, ovens, grills, and fryers, and serves as the station where chefs prepare and finish hot dishes before service.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/hot-line"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Hot line
+  description: >-
+    The hot line, also known as the hot side or hot kitchen, is the area where
+    all cooking occurs. It houses appliances like stoves, ovens, grills, and
+    fryers, and serves as the station where chefs prepare and finish hot dishes
+    before service.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/hot-line'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Hot Line",
-        "item": "https://yourpilla.com/glossary/hot-line"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Hot Line
+      item: 'https://yourpilla.com/glossary/hot-line'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 The hot line, also known as the hot side or hot kitchen, is where all the cooking happens. Stoves, ovens, grills and fryers live here. Chefs and cooks prepare hot dishes, sauté ingredients and finish plates before they go out to the customers. This is the busiest and most intense part of the kitchen and requires staff who can work fast and efficiently.

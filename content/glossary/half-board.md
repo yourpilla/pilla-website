@@ -1,44 +1,42 @@
 ---
-title: "Half Board"
-slug: "half-board"
-meta: |
-  Half Board means a meal plan in hotels and resorts that includes breakfast and one other main meal, usually dinner. This offers guests flexibility and value.
-seo_title: "What is Half Board in the hospitality industry?"
-unique_id: "1723824118865x322730622712662700"
+title: Half Board
+slug: half-board
+meta: >
+  Half Board means a meal plan in hotels and resorts that includes breakfast and
+  one other main meal, usually dinner. This offers guests flexibility and value.
+seo_title: What is Half Board in the hospitality industry?
+unique_id: 1723824118865x322730622712662700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Half board",
-    "description": "Half board is a meal plan where hotels and resorts offer 2 meals a day, usually breakfast and dinner in the room rate. This is a convenient and often cost-effective way to manage your meals during your stay. Half board is different from full board, which includes all 3 meals, and bed and breakfast, which is just the morning meal.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/half-board"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Half board
+  description: >-
+    Half board is a meal plan where hotels and resorts offer 2 meals a day,
+    usually breakfast and dinner in the room rate. This is a convenient and
+    often cost-effective way to manage your meals during your stay. Half board
+    is different from full board, which includes all 3 meals, and bed and
+    breakfast, which is just the morning meal.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/half-board'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Half Board",
-        "item": "https://yourpilla.com/glossary/half-board"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Half Board
+      item: 'https://yourpilla.com/glossary/half-board'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Half board is a meal plan where hotels and resorts offer 2 meals a day, usually breakfast and dinner in the room rate. This is a convenient and often cost-effective way to manage your meals during your stay. Half board is different from full board, which includes all 3 meals, and bed and breakfast, which is just the morning meal.

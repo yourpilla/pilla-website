@@ -1,44 +1,43 @@
 ---
-title: "Walk-in"
-slug: "walk-in"
-meta: |
-  A walk-in is a guest who arrives without a reservation. Efficiently managing walk-ins boosts occupancy rates and enhances revenue in hotels, restaurants, cafes, and bars.
-seo_title: "What is a Walk-in in the hospitality industry?"
-unique_id: "1724055056075x586603671059570800"
+title: Walk-in
+slug: walk-in
+meta: >
+  A walk-in is a guest who arrives without a reservation. Efficiently managing
+  walk-ins boosts occupancy rates and enhances revenue in hotels, restaurants,
+  cafes, and bars.
+seo_title: What is a Walk-in in the hospitality industry?
+unique_id: 1724055056075x586603671059570800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Walk-in",
-    "description": "A walk-in is a guest or customer who turns up to a hospitality business without a booking or reservation. This applies to all sorts of businesses, hotels, restaurants, bars and cafes. Walk-ins are spontaneous visitors who decide to come in on the day, often because of convenience, curiosity or need.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/walk-in"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Walk-in
+  description: >-
+    A walk-in is a guest or customer who turns up to a hospitality business
+    without a booking or reservation. This applies to all sorts of businesses,
+    hotels, restaurants, bars and cafes. Walk-ins are spontaneous visitors who
+    decide to come in on the day, often because of convenience, curiosity or
+    need.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/walk-in'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Walk-in",
-        "item": "https://yourpilla.com/glossary/walk-in"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Walk-in
+      item: 'https://yourpilla.com/glossary/walk-in'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A walk-in is a guest or customer who turns up to a hospitality business without a booking or reservation. This applies to all sorts of businesses, hotels, restaurants, bars and cafes. Walk-ins are spontaneous visitors who decide to come in on the day, often because of convenience, curiosity or need.

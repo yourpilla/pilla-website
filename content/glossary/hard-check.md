@@ -1,44 +1,40 @@
 ---
-title: "Hard Check"
-slug: "hard-check"
-meta: |
-  A Hard Check refers to a printed bill presented to guests at the end of their meal in restaurants, cafes, or bars, ensuring accurate billing and payment.
-seo_title: "What is a Hard Check in the hospitality industry?"
-unique_id: "1724413579059x624858201695528400"
+title: Hard Check
+slug: hard-check
+meta: >
+  A Hard Check refers to a printed bill presented to guests at the end of their
+  meal in restaurants, cafes, or bars, ensuring accurate billing and payment.
+seo_title: What is a Hard Check in the hospitality industry?
+unique_id: 1724413579059x624858201695528400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Hard check",
-    "description": "Hard check is a thorough and detailed inspection of a hospitality space that evaluates cleanliness, functionality, and overall quality to ensure guest satisfaction.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/hard-check"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Hard check
+  description: >-
+    Hard check is a thorough and detailed inspection of a hospitality space that
+    evaluates cleanliness, functionality, and overall quality to ensure guest
+    satisfaction.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/hard-check'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Hard Check",
-        "item": "https://yourpilla.com/glossary/hard-check"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Hard Check
+      item: 'https://yourpilla.com/glossary/hard-check'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A hard check in hospitality terms means a thorough and detailed inspection of a room or area of a hospitality business. This involves a full check of everything from cleanliness to functionality to ensure it meets the highest standards of quality and guest satisfaction. During a hard check staff will check everything from the condition of the linen and towels to the functionality of the appliances and fixtures.

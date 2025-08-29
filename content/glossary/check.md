@@ -1,45 +1,43 @@
 ---
-title: "Check"
-slug: "check"
-meta: |
-  Check refers to the bill presented to customers at the end of their meal in restaurants, cafes, and bars. It details the items ordered and the total amount due.
-seo_title: "What are Checks in the hospitality industry?"
-unique_id: "1724413248899x242278375928247650"
+title: Check
+slug: check
+meta: >
+  Check refers to the bill presented to customers at the end of their meal in
+  restaurants, cafes, and bars. It details the items ordered and the total
+  amount due.
+seo_title: What are Checks in the hospitality industry?
+unique_id: 1724413248899x242278375928247650
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Check",
-    "description": "A check in hospitality is the bill or invoice given to the customer at the end of their meal, stay, or service. It details the goods or services provided, their individual costs, and the total amount due, serving as a formal record of the transaction.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/check",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Check
+  description: >-
+    A check in hospitality is the bill or invoice given to the customer at the
+    end of their meal, stay, or service. It details the goods or services
+    provided, their individual costs, and the total amount due, serving as a
+    formal record of the transaction.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/check'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Check",
-        "item": "https://yourpilla.com/glossary/check"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Check
+      item: 'https://yourpilla.com/glossary/check'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A check in hospitality means the bill or invoice given to the customer at the end of their meal, stay or service. It lists the goods or services provided and the cost of each and the total amount due. The check is a formal record of the transaction between the establishment and the customer.

@@ -1,44 +1,43 @@
 ---
-title: "Event Manager"
-slug: "event-manager"
-meta: |
-  An Event Manager plans, coordinates, and oversees events in hotels, restaurants, cafes, and bars, ensuring they run smoothly and meet client expectations.
-seo_title: "What is an Event Manager in the hospitality industry?"
-unique_id: "1722781939968x668157724990333700"
+title: Event Manager
+slug: event-manager
+meta: >
+  An Event Manager plans, coordinates, and oversees events in hotels,
+  restaurants, cafes, and bars, ensuring they run smoothly and meet client
+  expectations.
+seo_title: What is an Event Manager in the hospitality industry?
+unique_id: 1722781939968x668157724990333700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Event Manager",
-    "description": "An Event Manager is a hospitality professional who plans, coordinates and manages events from small meetings to large conferences. They oversee everything from venue selection to catering to entertainment to logistics. Event Managers work with clients to understand their needs and ensure every detail meets expectations.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/event-manager"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Event Manager
+  description: >-
+    An Event Manager is a hospitality professional who plans, coordinates and
+    manages events from small meetings to large conferences. They oversee
+    everything from venue selection to catering to entertainment to logistics.
+    Event Managers work with clients to understand their needs and ensure every
+    detail meets expectations.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/event-manager'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Event Manager",
-        "item": "https://yourpilla.com/glossary/event-manager"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Event Manager
+      item: 'https://yourpilla.com/glossary/event-manager'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An Event Manager is a hospitality professional who plans, coordinates and manages events from small meetings to large conferences. They oversee everything from venue selection to catering to entertainment to logistics. Event Managers work with clients to understand their needs and make sure every detail meets their expectations.

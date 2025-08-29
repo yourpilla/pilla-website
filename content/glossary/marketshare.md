@@ -1,44 +1,41 @@
 ---
-title: "Market share"
-slug: "marketshare"
-meta: |
-  Market share shows the percentage of total sales a hotel, restaurant, cafe, or bar captures within its market. Higher market share means better competitive performance.
-seo_title: "What is Market share in the hospitality industry?"
-unique_id: "1726569903233x606200953454914000"
+title: Market share
+slug: marketshare
+meta: >
+  Market share shows the percentage of total sales a hotel, restaurant, cafe, or
+  bar captures within its market. Higher market share means better competitive
+  performance.
+seo_title: What is Market share in the hospitality industry?
+unique_id: 1726569903233x606200953454914000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Market share",
-    "description": "Market share is the percentage of the market a business or product holds, representing the proportion of total sales or customers a hospitality business captures compared to its competitors.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/market-share"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Market share
+  description: >-
+    Market share is the percentage of the market a business or product holds,
+    representing the proportion of total sales or customers a hospitality
+    business captures compared to its competitors.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/market-share'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Market share",
-        "item": "https://yourpilla.com/glossary/marketshare"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Market share
+      item: 'https://yourpilla.com/glossary/marketshare'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Market share is the percentage of the market a business or product has. In hospitality, it’s the percentage of total sales or customers a hotel, restaurant or other hospitality business has compared to its competitors in an area or market segment. For example, if a hotel chain has 30% of all bookings in a city, that’s its market share in that location.

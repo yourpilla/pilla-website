@@ -1,45 +1,42 @@
 ---
-title: "Budget"
-slug: "budget"
-meta: |
-  A budget in hospitality refers to a financial plan outlining expected revenue and expenses for a specific period, helping manage costs and maximise profits in hotels, restaurants, cafes, and bars.
-seo_title: "What is a Budget in the hospitality industry?"
-unique_id: "1725633428825x713093857649506600"
+title: Budget
+slug: budget
+meta: >
+  A budget in hospitality refers to a financial plan outlining expected revenue
+  and expenses for a specific period, helping manage costs and maximise profits
+  in hotels, restaurants, cafes, and bars.
+seo_title: What is a Budget in the hospitality industry?
+unique_id: 1725633428825x713093857649506600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Budget",
-    "description": "A budget in hospitality is a financial plan that outlines income and expenses for a set period, helping allocate resources, set financial goals, and guide spending decisions through predefined categories.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/budget",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Budget
+  description: >-
+    A budget in hospitality is a financial plan that outlines income and
+    expenses for a set period, helping allocate resources, set financial goals,
+    and guide spending decisions through predefined categories.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/budget'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Budget",
-        "item": "https://yourpilla.com/glossary/budget"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Budget
+      item: 'https://yourpilla.com/glossary/budget'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A budget in hospitality is a financial plan that outlines income and expenses for a certain period, usually a financial year. It helps you allocate resources, set financial goals and make informed decisions on spending and investments. Budgets have categories like revenue, labour costs, food and beverage expenses, utilities, marketing and maintenance.

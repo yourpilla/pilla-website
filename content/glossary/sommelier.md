@@ -1,44 +1,41 @@
 ---
-title: "Sommelier"
-slug: "sommelier"
-meta: |
-  A Sommelier is a trained wine expert in restaurants, cafes, and bars who advises guests on wine selection and pairing, enhancing the dining experience.
-seo_title: "What is a Sommelier in the hospitality industry?"
-unique_id: "1722792630211x795520214413942400"
+title: Sommelier
+slug: sommelier
+meta: >
+  A Sommelier is a trained wine expert in restaurants, cafes, and bars who
+  advises guests on wine selection and pairing, enhancing the dining experience.
+seo_title: What is a Sommelier in the hospitality industry?
+unique_id: 1722792630211x795520214413942400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Sommelier",
-    "description": "A sommelier is a wine trained professional who specialises in wine selection, storage, and service. They possess in depth knowledge of wine regions, grape varieties, and winemaking techniques while curating wine lists, advising guests, and ensuring impeccable wine service.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/sommelier"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Sommelier
+  description: >-
+    A sommelier is a wine trained professional who specialises in wine
+    selection, storage, and service. They possess in depth knowledge of wine
+    regions, grape varieties, and winemaking techniques while curating wine
+    lists, advising guests, and ensuring impeccable wine service.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/sommelier'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Sommelier",
-        "item": "https://yourpilla.com/glossary/sommelier"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Sommelier
+      item: 'https://yourpilla.com/glossary/sommelier'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A sommelier is a wine trained professional who knows everything about wine service and food pairing. They are experts in wine selection, storage and service, with in depth knowledge of wine regions, grape varieties and winemaking techniques. Sommeliers work in high end restaurants, hotels and wine bars where they curate wine lists, advise guests on wine choices and make sure wine service is perfect.

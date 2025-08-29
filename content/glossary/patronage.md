@@ -1,45 +1,43 @@
 ---
-title: "Patronage"
-slug: "patronage"
-meta: |
-  Patronage refers to the regular support and business that customers give to a hospitality establishment, such as a hotel, restaurant, café, or bar.
-seo_title: "What is Patronage in the hospitality industry?"
-unique_id: "1722792370727x617841924793647300"
+title: Patronage
+slug: patronage
+meta: >
+  Patronage refers to the regular support and business that customers give to a
+  hospitality establishment, such as a hotel, restaurant, café, or bar.
+seo_title: What is Patronage in the hospitality industry?
+unique_id: 1722792370727x617841924793647300
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Patronage",
-    "description": "Patronage is the regular custom or support given to a business, especially in the hospitality industry. It's the ongoing relationship between a venue and its customers, where customers keep coming back and spending money at the same place. This goes beyond transactions; it's about loyalty, preference and a connection between the business and its patrons.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/patronage",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Patronage
+  description: >-
+    Patronage is the regular custom or support given to a business, especially
+    in the hospitality industry. It's the ongoing relationship between a venue
+    and its customers, where customers keep coming back and spending money at
+    the same place. This goes beyond transactions; it's about loyalty,
+    preference and a connection between the business and its patrons.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/patronage'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Patronage",
-        "item": "https://yourpilla.com/glossary/patronage"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Patronage
+      item: 'https://yourpilla.com/glossary/patronage'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Patronage is the regular custom or support given to a business, especially in the hospitality industry. It's the ongoing relationship between a venue and its customers, where customers keep coming back and spending money at the same place. This goes beyond transactions; it's about loyalty, preference and a connection between the business and its patrons.

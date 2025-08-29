@@ -1,45 +1,42 @@
 ---
-title: "Vendor"
-slug: "vendor-vendor"
-meta: |
-  A vendor is a business or individual that supplies goods or services to hotels, restaurants, cafes, or bars, ensuring smooth operations and quality offerings.
-seo_title: "What is a Vendor in the hospitality industry?"
-unique_id: "1724055090753x326814115195353200"
+title: Vendor
+slug: vendor-vendor
+meta: >
+  A vendor is a business or individual that supplies goods or services to
+  hotels, restaurants, cafes, or bars, ensuring smooth operations and quality
+  offerings.
+seo_title: What is a Vendor in the hospitality industry?
+unique_id: 1724055090753x326814115195353200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Vendor",
-    "description": "A vendor is someone or some company that supplies to a hospitality business, including food and beverage suppliers, linen services, cleaning product providers, and technology companies offering booking systems.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/vendor",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Vendor
+  description: >-
+    A vendor is someone or some company that supplies to a hospitality business,
+    including food and beverage suppliers, linen services, cleaning product
+    providers, and technology companies offering booking systems.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/vendor'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Vendor",
-        "item": "https://yourpilla.com/glossary/vendor-vendor"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Vendor
+      item: 'https://yourpilla.com/glossary/vendor-vendor'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A vendor is someone or some company that supplies to a hospitality business. This can be food and beverage suppliers, linen services, cleaning product providers or even technology companies that offer booking systems. Vendors are a big part of the daily operations of hotels, restaurants, cafes and bars by making sure they have what they need to run.

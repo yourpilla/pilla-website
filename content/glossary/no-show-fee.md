@@ -1,45 +1,42 @@
 ---
-title: "No-Show Fee"
-slug: "no-show-fee"
-meta: |
-  A no-show fee is a charge applied when a guest fails to arrive for their reservation at a hotel, restaurant, cafe, or bar, ensuring compensation for lost revenue.
-seo_title: "What is a No-Show Fee in the hospitality industry?"
-unique_id: "1726570117747x412522828318705000"
+title: No-Show Fee
+slug: no-show-fee
+meta: >
+  A no-show fee is a charge applied when a guest fails to arrive for their
+  reservation at a hotel, restaurant, cafe, or bar, ensuring compensation for
+  lost revenue.
+seo_title: What is a No-Show Fee in the hospitality industry?
+unique_id: 1726570117747x412522828318705000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "No-show fee",
-    "description": "A no-show fee is charged to a guest who fails to cancel or inform the property of their absence, helping to recoup lost revenue and discourage last-minute cancellations.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/no-show-fee",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: No-show fee
+  description: >-
+    A no-show fee is charged to a guest who fails to cancel or inform the
+    property of their absence, helping to recoup lost revenue and discourage
+    last-minute cancellations.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/no-show-fee'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "No-Show Fee",
-        "item": "https://yourpilla.com/glossary/no-show-fee"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: No-Show Fee
+      item: 'https://yourpilla.com/glossary/no-show-fee'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A no-show fee is a fee charged to a guest who doesn’t show up for their booking without cancelling or informing the property in advance. This fee helps to recoup lost revenue and discourage last minute cancellations or no-shows. The amount can vary but is usually one night’s stay at a hotel or the cost of a meal at a restaurant.

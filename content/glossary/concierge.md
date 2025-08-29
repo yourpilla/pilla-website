@@ -1,44 +1,41 @@
 ---
-title: "Concierge"
-slug: "concierge"
-meta: |
-  A concierge assists guests in hotels, restaurants, and bars by providing local information, booking services, and fulfilling special requests to enhance their experience.
-seo_title: "What is a Concierge in the hospitality industry?"
-unique_id: "1722781830001x598484454565779500"
+title: Concierge
+slug: concierge
+meta: >
+  A concierge assists guests in hotels, restaurants, and bars by providing local
+  information, booking services, and fulfilling special requests to enhance
+  their experience.
+seo_title: What is a Concierge in the hospitality industry?
+unique_id: 1722781830001x598484454565779500
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Concierge",
-    "description": "A concierge is a hotel staff member who assists guests by providing personalised service, information, and problem solving to enhance their stay.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/concierge"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Concierge
+  description: >-
+    A concierge is a hotel staff member who assists guests by providing
+    personalised service, information, and problem solving to enhance their
+    stay.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/concierge'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Concierge",
-        "item": "https://yourpilla.com/glossary/concierge"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Concierge
+      item: 'https://yourpilla.com/glossary/concierge'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A concierge is a hotel staff member who helps with all sorts of requests and services. They’re the person you go to for information, recommendations and problem solving. Concierges book restaurant reservations, arrange transportation, get event tickets and provide local information. They’re usually found in 5 star hotels and resorts but some restaurants and luxury apartment buildings have concierges too.

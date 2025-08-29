@@ -1,37 +1,32 @@
 ---
 title: |
   Maître d'
-slug: "maitre-d"
-meta: |
-  A maitre d' manages the dining room in restaurants, cafes, or bars, ensuring smooth service and guest satisfaction by coordinating staff and seating.
+slug: maitre-d
+meta: >
+  A maitre d' manages the dining room in restaurants, cafes, or bars, ensuring
+  smooth service and guest satisfaction by coordinating staff and seating.
 seo_title: |
   What is a Maitre d' in the hospitality industry?
-unique_id: "1736957020515x345364726707923400"
+unique_id: 1736957020515x345364726707923400
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Maître d'",
-        "item": "https://yourpilla.com/glossary/maitre-d"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Maître d'
+      item: 'https://yourpilla.com/glossary/maitre-d'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Maître d' is a shortened form of 'maître d'hôtel', which translates from French to 'master of the house'. This role is the highest-ranking member of the front-of-house staff in a restaurant or hotel dining room. The maître d' manages reservations, greets and seats guests, oversees the waitstaff, and ensures smooth service throughout the dining experience. They're often the face of the establishment, setting the tone for the entire dining experience.

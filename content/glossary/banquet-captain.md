@@ -1,45 +1,45 @@
 ---
-title: "Banquet Captain"
-slug: "banquet-captain"
-meta: |
-  A Banquet Captain oversees the setup, service, and breakdown of banquet events. They ensure smooth operations, coordinate staff, and maintain high service standards.
-seo_title: "What is a Banquet Captain in the hospitality industry?"
-unique_id: "1723226734930x740153730947728100"
+title: Banquet Captain
+slug: banquet-captain
+meta: >
+  A Banquet Captain oversees the setup, service, and breakdown of banquet
+  events. They ensure smooth operations, coordinate staff, and maintain high
+  service standards.
+seo_title: What is a Banquet Captain in the hospitality industry?
+unique_id: 1723226734930x740153730947728100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Banquet Captain",
-    "description": "A Banquet Captain is a senior team member who oversees the running of banquets and large events in hotels, restaurants and other hospitality venues. They manage the banquet team, liaise with the kitchen and ensure everything runs to plan. Banquet Captains are responsible for maintaining high standards of service, solving any problems that arise and being the link between the guest and the venue management.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/banquet-captain",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Banquet Captain
+  description: >-
+    A Banquet Captain is a senior team member who oversees the running of
+    banquets and large events in hotels, restaurants and other hospitality
+    venues. They manage the banquet team, liaise with the kitchen and ensure
+    everything runs to plan. Banquet Captains are responsible for maintaining
+    high standards of service, solving any problems that arise and being the
+    link between the guest and the venue management.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/banquet-captain'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Banquet Captain",
-        "item": "https://yourpilla.com/glossary/banquet-captain"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Banquet Captain
+      item: 'https://yourpilla.com/glossary/banquet-captain'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Banquet Captain is a senior team member who oversees the running of banquets and large events in hotels, restaurants and other hospitality venues. They manage the banquet team, liaise with the kitchen and ensure everything runs to plan. Banquet Captains are responsible for maintaining high standards of service, solving any problems that arise and being the link between the guest and the venue management.

@@ -1,44 +1,41 @@
 ---
-title: "Rate parity"
-slug: "rate-parity"
-meta: |
-  Rate parity ensures that a hotel offers the same room rates across all distribution channels, like its website and third-party booking sites, maintaining pricing consistency.
-seo_title: "What is Rate parity in the hospitality industry?"
-unique_id: "1722587902846x389832119139953860"
+title: Rate parity
+slug: rate-parity
+meta: >
+  Rate parity ensures that a hotel offers the same room rates across all
+  distribution channels, like its website and third-party booking sites,
+  maintaining pricing consistency.
+seo_title: What is Rate parity in the hospitality industry?
+unique_id: 1722587902846x389832119139953860
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Rate parity",
-    "description": "Rate parity is a pricing strategy where hotel room rates remain uniform across all sales channels, ensuring fairness and transparency for consumers and distribution partners.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/rate-parity"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Rate parity
+  description: >-
+    Rate parity is a pricing strategy where hotel room rates remain uniform
+    across all sales channels, ensuring fairness and transparency for consumers
+    and distribution partners.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/rate-parity'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Rate parity",
-        "item": "https://yourpilla.com/glossary/rate-parity"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Rate parity
+      item: 'https://yourpilla.com/glossary/rate-parity'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Rate parity is a pricing strategy in the hospitality industry where a hotel or accommodation provider has the same room rates across all sales channels. So whether a guest books direct on the hotel’s website, through an online travel agency (OTA) or through a travel agent, they will see the same rate for the same room type and dates. Rate parity is about being fair and transparent to the consumer and to your distribution partners.

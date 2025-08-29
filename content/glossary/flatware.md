@@ -1,44 +1,41 @@
 ---
-title: "Flatware"
-slug: "flatware"
-meta: |
-  Flatware refers to the knives, forks, and spoons used for dining. Quality flatware enhances guest experience in restaurants, cafes, and bars.
-seo_title: "What is Flatware in the hospitality industry?"
-unique_id: "1725994679173x209406177718896030"
+title: Flatware
+slug: flatware
+meta: >
+  Flatware refers to the knives, forks, and spoons used for dining. Quality
+  flatware enhances guest experience in restaurants, cafes, and bars.
+seo_title: What is Flatware in the hospitality industry?
+unique_id: 1725994679173x209406177718896030
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Flatware",
-    "description": "Flatware is the utensils used for eating and serving food, usually metal, including forks, knives, spoons and serving pieces. In the hospitality industry the term flatware is used interchangeably with cutlery or silverware, although it does not have to be made of silver.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/flatware"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Flatware
+  description: >-
+    Flatware is the utensils used for eating and serving food, usually metal,
+    including forks, knives, spoons and serving pieces. In the hospitality
+    industry the term flatware is used interchangeably with cutlery or
+    silverware, although it does not have to be made of silver.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/flatware'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Flatware",
-        "item": "https://yourpilla.com/glossary/flatware"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Flatware
+      item: 'https://yourpilla.com/glossary/flatware'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Flatware is the utensils used for eating and serving food, usually metal. This includes forks, knives, spoons and serving pieces. In the hospitality industry we often use the term flatware interchangeably with cutlery or silverware, although flatware doesn’t have to be made of silver.

@@ -1,45 +1,43 @@
 ---
-title: "Prime cost"
-slug: "prime-cost"
-meta: |
-  Prime cost combines the total of your food, beverage, and labour costs. It helps you manage expenses and maximise profits in restaurants, cafes, and bars.
-seo_title: "What are Prime costs in the hospitality industry?"
-unique_id: "1722588396402x840381410196008100"
+title: Prime cost
+slug: prime-cost
+meta: >
+  Prime cost combines the total of your food, beverage, and labour costs. It
+  helps you manage expenses and maximise profits in restaurants, cafes, and
+  bars.
+seo_title: What are Prime costs in the hospitality industry?
+unique_id: 1722588396402x840381410196008100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Prime cost",
-    "description": "Prime cost is a key metric in hospitality that combines COGS and direct labour costs, representing the expenses related to producing and serving food and beverages in hospitality venues by including the cost of ingredients and wages of staff involved in food preparation and service.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/prime-cost",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Prime cost
+  description: >-
+    Prime cost is a key metric in hospitality that combines COGS and direct
+    labour costs, representing the expenses related to producing and serving
+    food and beverages in hospitality venues by including the cost of
+    ingredients and wages of staff involved in food preparation and service.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/prime-cost'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Prime cost",
-        "item": "https://yourpilla.com/glossary/prime-cost"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Prime cost
+      item: 'https://yourpilla.com/glossary/prime-cost'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Prime cost is a key metric in hospitality that combines COGS and direct labour costs. It’s the cost of producing and serving food and beverage in restaurants, cafes, bars and hotels. COGS is the cost of ingredients and materials to make menu items, and direct labour is the wages of staff involved in food prep and service.

@@ -1,44 +1,40 @@
 ---
-title: "Night Manager"
-slug: "night-manager"
-meta: |
-  A Night Manager oversees hotel or restaurant operations during the night shift, ensuring smooth functioning, guest satisfaction, and handling emergencies efficiently.
-seo_title: "What is a Night Manager in the hospitality industry?"
-unique_id: "1722782740469x763910934400526800"
+title: Night Manager
+slug: night-manager
+meta: >
+  A Night Manager oversees hotel or restaurant operations during the night
+  shift, ensuring smooth functioning, guest satisfaction, and handling
+  emergencies efficiently.
+seo_title: What is a Night Manager in the hospitality industry?
+unique_id: 1722782740469x763910934400526800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Night Manager",
-    "description": "A Night Manager runs a hotel during the night shift by managing staff, addressing guest queries, and ensuring smooth operations.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/night-manager"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Night Manager
+  description: >-
+    A Night Manager runs a hotel during the night shift by managing staff,
+    addressing guest queries, and ensuring smooth operations.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/night-manager'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Night Manager",
-        "item": "https://yourpilla.com/glossary/night-manager"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Night Manager
+      item: 'https://yourpilla.com/glossary/night-manager'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Night Manager is a hospitality professional who runs the hotel during the night shift. They manage staff, deal with guest queries and ensure the hotel runs smoothly when most guests are asleep. Night Managers often deal with the unexpected, handle security, and get the hotel ready for the next day.

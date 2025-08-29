@@ -1,44 +1,43 @@
 ---
-title: "Private dining"
-slug: "private-dining"
-meta: |
-  Private dining offers guests an exclusive space to enjoy meals in a more intimate setting, often with personalised service, ideal for special occasions or business meetings.
-seo_title: "What is Private dining in the hospitality industry?"
-unique_id: "1726570316907x887961368611435800"
+title: Private dining
+slug: private-dining
+meta: >
+  Private dining offers guests an exclusive space to enjoy meals in a more
+  intimate setting, often with personalised service, ideal for special occasions
+  or business meetings.
+seo_title: What is Private dining in the hospitality industry?
+unique_id: 1726570316907x887961368611435800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Variable cost",
-    "description": "Variable cost is a business expense that varies with production or sales. In hospitality, these costs change with how busy your business is. They are things like food ingredients, housekeeping supplies and hourly wages. Unlike fixed costs which are the same regardless of business volume, variable costs go up or down with the number of customers served or rooms occupied.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/variable-cost"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Variable cost
+  description: >-
+    Variable cost is a business expense that varies with production or sales. In
+    hospitality, these costs change with how busy your business is. They are
+    things like food ingredients, housekeeping supplies and hourly wages. Unlike
+    fixed costs which are the same regardless of business volume, variable costs
+    go up or down with the number of customers served or rooms occupied.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/variable-cost'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Private dining",
-        "item": "https://yourpilla.com/glossary/private-dining"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Private dining
+      item: 'https://yourpilla.com/glossary/private-dining'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Variable cost is a business expense that varies with production or sales. In hospitality, these costs change with how busy your business is. They are things like food ingredients, housekeeping supplies and hourly wages. Unlike fixed costs which are the same regardless of business volume, variable costs go up or down with the number of customers served or rooms occupied.

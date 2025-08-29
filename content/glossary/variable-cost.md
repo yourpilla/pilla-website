@@ -1,44 +1,41 @@
 ---
-title: "Variable Cost"
-slug: "variable-cost"
-meta: |
-  Variable cost refers to expenses that change based on the level of business activity, such as food, beverages, and labour in hotels, restaurants, cafes, and bars.
-seo_title: "What are Variable Costs in the hospitality industry?"
-unique_id: "1726570907498x364041034433949950"
+title: Variable Cost
+slug: variable-cost
+meta: >
+  Variable cost refers to expenses that change based on the level of business
+  activity, such as food, beverages, and labour in hotels, restaurants, cafes,
+  and bars.
+seo_title: What are Variable Costs in the hospitality industry?
+unique_id: 1726570907498x364041034433949950
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Variable cost",
-    "description": "Variable cost is a business expense that fluctuates with production or sales. In hospitality, these costs vary with business activity and include items such as food ingredients, housekeeping supplies, and hourly wages.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/variable-cost"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Variable cost
+  description: >-
+    Variable cost is a business expense that fluctuates with production or
+    sales. In hospitality, these costs vary with business activity and include
+    items such as food ingredients, housekeeping supplies, and hourly wages.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/variable-cost'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Variable Cost",
-        "item": "https://yourpilla.com/glossary/variable-cost"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Variable Cost
+      item: 'https://yourpilla.com/glossary/variable-cost'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Variable cost is a business expense that varies with production or sales. In hospitality, these costs change with how busy your business is. They are things like food ingredients, housekeeping supplies and hourly wages. Unlike fixed costs which are the same regardless of business volume, variable costs go up or down with the number of customers served or rooms occupied.

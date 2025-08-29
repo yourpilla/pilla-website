@@ -1,44 +1,43 @@
 ---
-title: "F&B (Food and Beverage)"
-slug: "food-and-beverage"
-meta: |
-  F&B stands for Food and Beverage, covering all dining services in hotels, restaurants, cafes, and bars. It includes everything from meal preparation to service.
-seo_title: "What is F&B (Food and Beverage) in the hospitality industry?"
-unique_id: "1724413389037x889865253090146300"
+title: F&B (Food and Beverage)
+slug: food-and-beverage
+meta: >
+  F&B stands for Food and Beverage, covering all dining services in hotels,
+  restaurants, cafes, and bars. It includes everything from meal preparation to
+  service.
+seo_title: What is F&B (Food and Beverage) in the hospitality industry?
+unique_id: 1724413389037x889865253090146300
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "F&B",
-    "description": "F&B stands for Food and Beverage and encompasses all aspects of food service and drink provision in the hospitality industry. It covers operations from fine dining restaurants and casual cafes to bars, room service, and catering, including menu planning, food preparation, service delivery, and beverage management.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/fnb"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: F&B
+  description: >-
+    F&B stands for Food and Beverage and encompasses all aspects of food service
+    and drink provision in the hospitality industry. It covers operations from
+    fine dining restaurants and casual cafes to bars, room service, and
+    catering, including menu planning, food preparation, service delivery, and
+    beverage management.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/fnb'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "F&B (Food and Beverage)",
-        "item": "https://yourpilla.com/glossary/food-and-beverage"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: F&B (Food and Beverage)
+      item: 'https://yourpilla.com/glossary/food-and-beverage'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 F&B stands for Food and Beverage and encompasses all aspects of food service and drink provision in the hospitality industry. This means everything from fine dining restaurants and casual cafes to bars, room service and catering. F&B covers menu planning, food preparation, service delivery and beverage management including both alcoholic and non-alcoholic drinks.

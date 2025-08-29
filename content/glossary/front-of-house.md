@@ -1,43 +1,40 @@
 ---
-title: "Front of House (FOH)"
-slug: "front-of-house"
-meta: "Front of house meaning in hospitality, retail and leisure settings including job roles."
-seo_title: "What does FOH Mean?"
-unique_id: "1722413228237x822675295818064500"
+title: Front of House (FOH)
+slug: front-of-house
+meta: >-
+  Front of house meaning in hospitality, retail and leisure settings including
+  job roles.
+seo_title: What does FOH Mean?
+unique_id: 1722413228237x822675295818064500
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Front of House",
-    "description": "Front of House represents the customer-facing area in restaurants and retail environments where guests are welcomed, served, and engaged throughout their visit.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/front-of-house"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Front of House
+  description: >-
+    Front of House represents the customer-facing area in restaurants and retail
+    environments where guests are welcomed, served, and engaged throughout their
+    visit.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/front-of-house'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Front of House (FOH)",
-        "item": "https://yourpilla.com/glossary/front-of-house"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Front of House (FOH)
+      item: 'https://yourpilla.com/glossary/front-of-house'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 When you think of a house front, an image of a building’s facade might come to mind. But in the restaurant industry and the retail industry, the front of house is the area where magic happens, where guests are welcomed, wined, dined, served, and bid farewell.

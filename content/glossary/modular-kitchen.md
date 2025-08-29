@@ -1,45 +1,45 @@
 ---
-title: "Modular kitchen"
-slug: "modular-kitchen"
-meta: |
-  A modular kitchen consists of pre-made cabinet parts that fit together to create a functional and efficient kitchen layout, ideal for restaurants and cafes.
-seo_title: "What is a Modular kitchen in the hospitality industry?"
-unique_id: "1724413023849x572388865903917600"
+title: Modular kitchen
+slug: modular-kitchen
+meta: >
+  A modular kitchen consists of pre-made cabinet parts that fit together to
+  create a functional and efficient kitchen layout, ideal for restaurants and
+  cafes.
+seo_title: What is a Modular kitchen in the hospitality industry?
+unique_id: 1724413023849x572388865903917600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Modular kitchen",
-    "description": "A modular kitchen is a flexible and efficient kitchen design concept that uses pre-made units or modules to build a custom kitchen. These units, which include cabinets, countertops, and appliances, can be moved, rearranged, or replaced to suit your needs. Modular kitchens have standardised dimensions and components making installation and maintenance easier and more cost-effective.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/modular-kitchen",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Modular kitchen
+  description: >-
+    A modular kitchen is a flexible and efficient kitchen design concept that
+    uses pre-made units or modules to build a custom kitchen. These units, which
+    include cabinets, countertops, and appliances, can be moved, rearranged, or
+    replaced to suit your needs. Modular kitchens have standardised dimensions
+    and components making installation and maintenance easier and more
+    cost-effective.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/modular-kitchen'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Modular kitchen",
-        "item": "https://yourpilla.com/glossary/modular-kitchen"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Modular kitchen
+      item: 'https://yourpilla.com/glossary/modular-kitchen'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A modular kitchen is a flexible and efficient kitchen design concept that uses pre-made units or modules to build a custom kitchen. These units, which include cabinets, countertops, and appliances, can be moved, rearranged, or replaced to suit your needs. Modular kitchens have standardised dimensions and components making installation and maintenance easier and more cost-effective.

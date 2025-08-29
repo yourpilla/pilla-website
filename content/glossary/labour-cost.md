@@ -1,44 +1,43 @@
 ---
-title: "Labour Cost"
-slug: "labour-cost"
-meta: |
-  Labour cost refers to the total expenses your restaurant, hotel, or bar incurs to pay its staff, including wages, benefits, and taxes. Efficient management boosts profitability.
-seo_title: "What is Labour Cost in the hospitality industry?"
-unique_id: "1726569682314x556073564968417400"
+title: Labour Cost
+slug: labour-cost
+meta: >
+  Labour cost refers to the total expenses your restaurant, hotel, or bar incurs
+  to pay its staff, including wages, benefits, and taxes. Efficient management
+  boosts profitability.
+seo_title: What is Labour Cost in the hospitality industry?
+unique_id: 1726569682314x556073564968417400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Labour cost",
-    "description": "Labour cost is the total amount a hospitality business spends on its people, including wages, salaries, bonuses and benefits for all staff from front line to management. It stands as one of the largest expenses for hotels, restaurants and other hospitality businesses, typically calculated as a percentage of total revenue or sales.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/labour-cost"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Labour cost
+  description: >-
+    Labour cost is the total amount a hospitality business spends on its people,
+    including wages, salaries, bonuses and benefits for all staff from front
+    line to management. It stands as one of the largest expenses for hotels,
+    restaurants and other hospitality businesses, typically calculated as a
+    percentage of total revenue or sales.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/labour-cost'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Labour Cost",
-        "item": "https://yourpilla.com/glossary/labour-cost"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Labour Cost
+      item: 'https://yourpilla.com/glossary/labour-cost'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Labour cost is the total amount a hospitality business spends on its people. This includes wages, salaries, bonuses and benefits for all staff from front line to management. It’s one of the biggest expenses for hotels, restaurants and other hospitality businesses. Labour cost is usually calculated as a percentage of total revenue or sales so businesses can track and manage this big expense.

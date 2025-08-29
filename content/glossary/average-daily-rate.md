@@ -1,44 +1,41 @@
 ---
-title: "Average Daily Rate"
-slug: "average-daily-rate"
-meta: |
-  Average Daily Rate (ADR) is a key metric in hospitality that calculates the average revenue earned from rooms sold per day. It helps gauge pricing strategy effectiveness.
-seo_title: "What is Average Daily Rate in the hospitality industry?"
-unique_id: "1722520646883x124856303244868620"
+title: Average Daily Rate
+slug: average-daily-rate
+meta: >
+  Average Daily Rate (ADR) is a key metric in hospitality that calculates the
+  average revenue earned from rooms sold per day. It helps gauge pricing
+  strategy effectiveness.
+seo_title: What is Average Daily Rate in the hospitality industry?
+unique_id: 1722520646883x124856303244868620
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Average Daily Rate (ADR)",
-    "description": "Average Daily Rate (ADR) is a key hospitality metric that calculates the average revenue per occupied room daily by dividing total room revenue by the number of rooms sold.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/average-daily-rate-adr"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Average Daily Rate (ADR)
+  description: >-
+    Average Daily Rate (ADR) is a key hospitality metric that calculates the
+    average revenue per occupied room daily by dividing total room revenue by
+    the number of rooms sold.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/average-daily-rate-adr'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Average Daily Rate",
-        "item": "https://yourpilla.com/glossary/average-daily-rate"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Average Daily Rate
+      item: 'https://yourpilla.com/glossary/average-daily-rate'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Average Daily Rate (ADR) is a key metric in the hospitality industry that measures the average revenue per room per day. You calculate ADR by dividing total room revenue by number of rooms sold. This will tell you how much revenue you're making from each room occupied.

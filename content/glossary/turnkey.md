@@ -1,45 +1,41 @@
 ---
-title: "Turnkey"
-slug: "turnkey"
-meta: |
-  Turnkey describes a fully equipped and ready-to-operate business, such as a hotel, restaurant, or bar, where everything is set up for immediate use.
-seo_title: "What is a Turnkey operation in the hospitality industry?"
-unique_id: "1724412304346x689455232888820400"
+title: Turnkey
+slug: turnkey
+meta: >
+  Turnkey describes a fully equipped and ready-to-operate business, such as a
+  hotel, restaurant, or bar, where everything is set up for immediate use.
+seo_title: What is a Turnkey operation in the hospitality industry?
+unique_id: 1724412304346x689455232888820400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Turnkey",
-    "description": "Turnkey means a product or service that's ready to go, requiring no work or setup from the buyer. In hospitality, it refers to a fully fitted out and operational business.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/turnkey",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Turnkey
+  description: >-
+    Turnkey means a product or service that's ready to go, requiring no work or
+    setup from the buyer. In hospitality, it refers to a fully fitted out and
+    operational business.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/turnkey'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Turnkey",
-        "item": "https://yourpilla.com/glossary/turnkey"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Turnkey
+      item: 'https://yourpilla.com/glossary/turnkey'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Turnkey means a product or service that's ready to go, no work or setup required from the buyer. In hospitality, this means a fully fitted out and operational business ready to go. For example, a turnkey hotel would come with all the furniture, staff and systems in place.

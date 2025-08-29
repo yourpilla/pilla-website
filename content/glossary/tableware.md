@@ -1,45 +1,43 @@
 ---
-title: "Tableware"
-slug: "tableware"
-meta: |
-  Tableware refers to the dishes, glasses, and utensils used in restaurants, cafes, and bars. It enhances the dining experience and reflects the establishment's style and quality.
-seo_title: "What is Tableware in the hospitality industry?"
-unique_id: "1726570677405x653221895957012600"
+title: Tableware
+slug: tableware
+meta: >
+  Tableware refers to the dishes, glasses, and utensils used in restaurants,
+  cafes, and bars. It enhances the dining experience and reflects the
+  establishment's style and quality.
+seo_title: What is Tableware in the hospitality industry?
+unique_id: 1726570677405x653221895957012600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Tableware",
-    "description": "Tableware is the dishes, utensils and other items used to serve and eat food, including plates, bowls, cups, saucers, cutlery and glassware. In hospitality, it also includes serving dishes, platters, and speciality items such as oyster forks or champagne flutes.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/tableware",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Tableware
+  description: >-
+    Tableware is the dishes, utensils and other items used to serve and eat
+    food, including plates, bowls, cups, saucers, cutlery and glassware. In
+    hospitality, it also includes serving dishes, platters, and speciality items
+    such as oyster forks or champagne flutes.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/tableware'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Tableware",
-        "item": "https://yourpilla.com/glossary/tableware"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Tableware
+      item: 'https://yourpilla.com/glossary/tableware'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Tableware is the dishes, utensils and other things we use to serve and eat our food. This includes plates, bowls, cups, saucers, cutlery and glassware. In hospitality, tableware also includes serving dishes, platters and special items like oyster forks or champagne flutes.

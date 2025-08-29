@@ -1,44 +1,40 @@
 ---
-title: "Assistant Manager"
-slug: "assistant-manager"
-meta: |
-  An Assistant Manager in hospitality supports the General Manager by overseeing daily operations, managing staff, and ensuring excellent guest service.
-seo_title: "What is an Assistant Manager in the hospitality industry?"
-unique_id: "1722854310261x890050260692058000"
+title: Assistant Manager
+slug: assistant-manager
+meta: >
+  An Assistant Manager in hospitality supports the General Manager by overseeing
+  daily operations, managing staff, and ensuring excellent guest service.
+seo_title: What is an Assistant Manager in the hospitality industry?
+unique_id: 1722854310261x890050260692058000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Assistant Manager",
-    "description": "An Assistant Manager is a key leadership role that supports the General Manager in running the day to day operations by managing staff, ensuring customer satisfaction, and maintaining quality across all departments.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/assistant-manager"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Assistant Manager
+  description: >-
+    An Assistant Manager is a key leadership role that supports the General
+    Manager in running the day to day operations by managing staff, ensuring
+    customer satisfaction, and maintaining quality across all departments.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/assistant-manager'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Assistant Manager",
-        "item": "https://yourpilla.com/glossary/assistant-manager"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Assistant Manager
+      item: 'https://yourpilla.com/glossary/assistant-manager'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An Assistant Manager is a key leadership role that supports the General Manager in running the day to day. They manage staff, customer satisfaction and quality across all departments. Assistant Managers are the bridge between front line staff and upper management, translating high level strategy into action.

@@ -1,45 +1,42 @@
 ---
-title: "Buffet"
-slug: "buffet"
-meta: |
-  A buffet is a self-service meal setup where guests choose from a variety of dishes. It speeds up service, reduces labour costs, and enhances guest satisfaction.
-seo_title: "What is a buffet in the hospitality industry?"
-unique_id: "1725633433460x720217940970918800"
+title: Buffet
+slug: buffet
+meta: >
+  A buffet is a self-service meal setup where guests choose from a variety of
+  dishes. It speeds up service, reduces labour costs, and enhances guest
+  satisfaction.
+seo_title: What is a buffet in the hospitality industry?
+unique_id: 1725633433460x720217940970918800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Buffet",
-    "description": "A buffet is a self-serve dining style where food is arranged on a long table or counter, allowing guests to serve themselves a variety of dishes including hot and cold options, salads, desserts and drinks.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/buffet",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Buffet
+  description: >-
+    A buffet is a self-serve dining style where food is arranged on a long table
+    or counter, allowing guests to serve themselves a variety of dishes
+    including hot and cold options, salads, desserts and drinks.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/buffet'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Buffet",
-        "item": "https://yourpilla.com/glossary/buffet"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Buffet
+      item: 'https://yourpilla.com/glossary/buffet'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A buffet is a self-serve style of dining where food is laid out on a long table or counter and guests serve themselves. It has a variety of dishes, hot and cold, salads, desserts and drinks. Buffets can be found in hotels, restaurants, events and catering services, a great way to feed large numbers of people.

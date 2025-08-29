@@ -1,45 +1,43 @@
 ---
-title: "Monthly P&L statement"
-slug: "monthly-pl-statement"
-meta: |
-  A Monthly P&L (Profit and Loss) statement summarises a hotel's revenues, costs, and expenses for the month, helping managers assess financial performance and profitability.
-seo_title: "What is each Monthly P&L statement in the hospitality industry?"
-unique_id: "1726570022669x417695533323188200"
+title: Monthly P&L statement
+slug: monthly-pl-statement
+meta: >
+  A Monthly P&L (Profit and Loss) statement summarises a hotel's revenues,
+  costs, and expenses for the month, helping managers assess financial
+  performance and profitability.
+seo_title: What is each Monthly P&L statement in the hospitality industry?
+unique_id: 1726570022669x417695533323188200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Monthly P&L",
-    "description": "A Monthly P&L is a financial document that summarises revenue, costs and expenses over one month for a hospitality business, detailing income from room sales, food and beverage, and other services, as well as expenses such as labour, utilities, and supplies to reveal the monthly profit or loss.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/monthly-pl",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Monthly P&L
+  description: >-
+    A Monthly P&L is a financial document that summarises revenue, costs and
+    expenses over one month for a hospitality business, detailing income from
+    room sales, food and beverage, and other services, as well as expenses such
+    as labour, utilities, and supplies to reveal the monthly profit or loss.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/monthly-pl'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Monthly P&L statement",
-        "item": "https://yourpilla.com/glossary/monthly-pl-statement"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Monthly P&L statement
+      item: 'https://yourpilla.com/glossary/monthly-pl-statement'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Monthly P&L is a financial document that shows the revenue, costs and expenses of a hospitality business over a 1 month period. It's a snapshot of the business, showing income from room sales, food and beverage and other services and all the expenses like labour, utilities and supplies. The bottom line is whether the business made a profit or loss for that month.

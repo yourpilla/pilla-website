@@ -1,44 +1,38 @@
 ---
-title: "Appetizer"
-slug: "appetizer"
-meta: |
-  An appetizer is a small dish served before the main course to stimulate the guest's appetite. It sets the tone for the meal and enhances the dining experience.
-seo_title: "What is an Appetizer in the hospitality industry?"
-unique_id: "1723805950880x198439372791999300"
+title: Appetizer
+slug: appetizer
+meta: >
+  An appetizer is a small dish served before the main course to stimulate the
+  guest's appetite. It sets the tone for the meal and enhances the dining
+  experience.
+seo_title: What is an Appetizer in the hospitality industry?
+unique_id: 1723805950880x198439372791999300
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Appetizer",
-    "description": "An appetizer is a small dish served before a meal to stimulate the appetite.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/appetizer"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Appetizer
+  description: An appetizer is a small dish served before a meal to stimulate the appetite.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/appetizer'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Appetizer",
-        "item": "https://yourpilla.com/glossary/appetizer"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Appetizer
+      item: 'https://yourpilla.com/glossary/appetizer'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An appetizer is a small dish served before the main event of the meal. It's meant to get your appetite going and set you up for what's to come. Appetizers can be as simple as olives or bread or as complex as soups, salads or small portions of hot or cold food. In some cultures they're called 'starters' or 'hors d'oeuvres.'

@@ -1,44 +1,43 @@
 ---
-title: "Commis Chef"
-slug: "commis-chef"
-meta: |
-  A Commis Chef is a junior chef who assists in food preparation and basic cooking tasks in kitchens of restaurants, cafes, and bars, gaining essential skills and experience.
-seo_title: "What is a Commis Chef in the hospitality industry?"
-unique_id: "1722781779825x247247729642459780"
+title: Commis Chef
+slug: commis-chef
+meta: >
+  A Commis Chef is a junior chef who assists in food preparation and basic
+  cooking tasks in kitchens of restaurants, cafes, and bars, gaining essential
+  skills and experience.
+seo_title: What is a Commis Chef in the hospitality industry?
+unique_id: 1722781779825x247247729642459780
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Commis Chef",
-    "description": "A Commis Chef is an entry level chef who works under the guidance of more senior chefs in the kitchen. They are often recent graduates from culinary school or starting their career in the industry. Commis Chefs do basic food prep, learn kitchen operations and take on more responsibility as they gain experience.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/commis-chef"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Commis Chef
+  description: >-
+    A Commis Chef is an entry level chef who works under the guidance of more
+    senior chefs in the kitchen. They are often recent graduates from culinary
+    school or starting their career in the industry. Commis Chefs do basic food
+    prep, learn kitchen operations and take on more responsibility as they gain
+    experience.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/commis-chef'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Commis Chef",
-        "item": "https://yourpilla.com/glossary/commis-chef"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Commis Chef
+      item: 'https://yourpilla.com/glossary/commis-chef'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Commis Chef is an entry level chef who works under the guidance of more senior chefs in the kitchen. They are often recent graduates from culinary school or starting their career in the industry. Commis Chefs do basic food prep, learn kitchen operations and take on more responsibility as they gain experience.

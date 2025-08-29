@@ -1,44 +1,41 @@
 ---
-title: "Kitchen Manager"
-slug: "kitchen-manager"
-meta: |
-  A Kitchen Manager oversees the daily operations of a kitchen in restaurants, cafes, and bars. They manage staff, inventory, and ensure food quality and safety.
-seo_title: "What is a Kitchen Manager in the hospitality industry?"
-unique_id: "1722855189886x350303579990360000"
+title: Kitchen Manager
+slug: kitchen-manager
+meta: >
+  A Kitchen Manager oversees the daily operations of a kitchen in restaurants,
+  cafes, and bars. They manage staff, inventory, and ensure food quality and
+  safety.
+seo_title: What is a Kitchen Manager in the hospitality industry?
+unique_id: 1722855189886x350303579990360000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Kitchen Manager",
-    "description": "A Kitchen Manager manages daily kitchen operations in a restaurant or food service establishment by supervising staff, ensuring food quality and safety, and overseeing inventory and equipment.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/kitchen-manager"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Kitchen Manager
+  description: >-
+    A Kitchen Manager manages daily kitchen operations in a restaurant or food
+    service establishment by supervising staff, ensuring food quality and
+    safety, and overseeing inventory and equipment.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/kitchen-manager'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Kitchen Manager",
-        "item": "https://yourpilla.com/glossary/kitchen-manager"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Kitchen Manager
+      item: 'https://yourpilla.com/glossary/kitchen-manager'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Kitchen Manager is the person in charge of the day to day running of the kitchen in a restaurant or food service establishment. They manage the kitchen staff, ensure food quality and food safety standards are met, and oversee inventory and equipment in the kitchen. Kitchen Managers also handle menu planning, cost control and staff training.

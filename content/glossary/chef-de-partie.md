@@ -1,45 +1,42 @@
 ---
-title: "Chef de Partie"
-slug: "chef-de-partie"
-meta: |
-  A Chef de Partie, also known as a station chef, manages a specific section of the kitchen, ensuring dishes are prepared to high standards and on time.
-seo_title: "What is a Chef de Partie in the hospitality industry?"
-unique_id: "1725916701507x655921719282296800"
+title: Chef de Partie
+slug: chef-de-partie
+meta: >
+  A Chef de Partie, also known as a station chef, manages a specific section of
+  the kitchen, ensuring dishes are prepared to high standards and on time.
+seo_title: What is a Chef de Partie in the hospitality industry?
+unique_id: 1725916701507x655921719282296800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Chef de Partie",
-    "description": "Chef de Partie, also known as a station chef or line cook, is a senior culinary professional responsible for a specific kitchen station. They work under the Executive Chef and Sous Chef, managing junior cooks, quality control, and maintaining culinary standards.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/chef-de-partie",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Chef de Partie
+  description: >-
+    Chef de Partie, also known as a station chef or line cook, is a senior
+    culinary professional responsible for a specific kitchen station. They work
+    under the Executive Chef and Sous Chef, managing junior cooks, quality
+    control, and maintaining culinary standards.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/chef-de-partie'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Chef de Partie",
-        "item": "https://yourpilla.com/glossary/chef-de-partie"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Chef de Partie
+      item: 'https://yourpilla.com/glossary/chef-de-partie'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Chef de Partie, also known as a station chef or line cook, is a senior culinary professional responsible for a particular part of the kitchen. They work under the Executive Chef and Sous Chef and are in charge of a specific area of food prep such as sauces, fish or pastry. A Chef de Partie manages junior cooks in their section, quality control and maintains the standards set by the head chef.

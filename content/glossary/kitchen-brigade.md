@@ -1,44 +1,40 @@
 ---
-title: "Kitchen Brigade"
-slug: "kitchen-brigade"
-meta: |
-  The Kitchen Brigade is a system of hierarchy in kitchens, ensuring organised roles and responsibilities. It improves efficiency and streamlines operations in restaurants and hotels.
-seo_title: "What is the Kitchen Brigade in the hospitality industry?"
-unique_id: "1722524992159x851889691511636100"
+title: Kitchen Brigade
+slug: kitchen-brigade
+meta: >
+  The Kitchen Brigade is a system of hierarchy in kitchens, ensuring organised
+  roles and responsibilities. It improves efficiency and streamlines operations
+  in restaurants and hotels.
+seo_title: What is the Kitchen Brigade in the hospitality industry?
+unique_id: 1722524992159x851889691511636100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Kitchen Brigade",
-    "description": "Kitchen Brigade is a hierarchical kitchen organisation developed by Auguste Escoffier, dividing the kitchen into roles with a clear chain of command.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/kitchen-brigade"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Kitchen Brigade
+  description: >-
+    Kitchen Brigade is a hierarchical kitchen organisation developed by Auguste
+    Escoffier, dividing the kitchen into roles with a clear chain of command.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/kitchen-brigade'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Kitchen Brigade",
-        "item": "https://yourpilla.com/glossary/kitchen-brigade"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Kitchen Brigade
+      item: 'https://yourpilla.com/glossary/kitchen-brigade'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Kitchen Brigade (also known as Brigade de Cuisine) was developed by Auguste Escoffier in the late 19th century. It’s a hierarchical system of kitchen organisation. The kitchen is divided into roles, each with a clear chain of command. There’s the Executive Chef, Sous Chef, Chef de Partie, Commis Chef and more. Each role has its own duties and areas of responsibility, making the kitchen a well-oiled machine.

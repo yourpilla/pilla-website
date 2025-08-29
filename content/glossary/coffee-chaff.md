@@ -1,44 +1,40 @@
 ---
-title: "Coffee Chaff"
-slug: "coffee-chaff"
-meta: |
-  Coffee chaff is the dry, papery skin that comes off coffee beans during roasting. In cafes, you can use it as compost or a natural mulch for plants.
-seo_title: "What is Coffee Chaff in the hospitality industry?"
-unique_id: "1725957931565x294417212486616450"
+title: Coffee Chaff
+slug: coffee-chaff
+meta: >
+  Coffee chaff is the dry, papery skin that comes off coffee beans during
+  roasting. In cafes, you can use it as compost or a natural mulch for plants.
+seo_title: What is Coffee Chaff in the hospitality industry?
+unique_id: 1725957931565x294417212486616450
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Coffee chaff",
-    "description": "Coffee chaff is the papery skin removed from coffee beans during roasting. It is collected in the roaster's chaff collector, appears light and flaky, and resembles small pieces of paper or leaves.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/coffee-chaff"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Coffee chaff
+  description: >-
+    Coffee chaff is the papery skin removed from coffee beans during roasting.
+    It is collected in the roaster's chaff collector, appears light and flaky,
+    and resembles small pieces of paper or leaves.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/coffee-chaff'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Coffee Chaff",
-        "item": "https://yourpilla.com/glossary/coffee-chaff"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Coffee Chaff
+      item: 'https://yourpilla.com/glossary/coffee-chaff'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Coffee chaff is the papery skin that comes off the coffee beans during the roasting process. It's a by-product that's often discarded but has some uses in the hospitality industry. When coffee beans are roasted, the chaff separates from the bean and is collected in the roaster's chaff collector. It's light, flaky and looks like small pieces of paper or leaves.

@@ -1,45 +1,44 @@
 ---
-title: "Keg"
-slug: "kegkeg"
-meta: |
-  A keg is a small barrel used to store and serve beer, cider, or other beverages in restaurants, bars, and cafes. It helps maintain freshness and ease of dispensing.
-seo_title: "What is a Keg in the hospitality industry?"
-unique_id: "1725994539688x785746833492931000"
+title: Keg
+slug: kegkeg
+meta: >
+  A keg is a small barrel used to store and serve beer, cider, or other
+  beverages in restaurants, bars, and cafes. It helps maintain freshness and
+  ease of dispensing.
+seo_title: What is a Keg in the hospitality industry?
+unique_id: 1725994539688x785746833492931000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Keg",
-    "description": "A keg is a cylindrical container to store, transport and serve beer or other carbonated drinks. Made of stainless steel or aluminium, kegs come in various sizes, with the most common being the half barrel keg which holds 58.6 litres or 15.5 US gallons of beer. They are designed to keep beer fresh and carbonated by using pressure to dispense the drink through a tap system.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/keg",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Keg
+  description: >-
+    A keg is a cylindrical container to store, transport and serve beer or other
+    carbonated drinks. Made of stainless steel or aluminium, kegs come in
+    various sizes, with the most common being the half barrel keg which holds
+    58.6 litres or 15.5 US gallons of beer. They are designed to keep beer fresh
+    and carbonated by using pressure to dispense the drink through a tap system.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/keg'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Keg",
-        "item": "https://yourpilla.com/glossary/kegkeg"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Keg
+      item: 'https://yourpilla.com/glossary/kegkeg'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A keg is a cylindrical container to store, transport and serve beer or other carbonated drinks. Made of stainless steel or aluminium, kegs come in various sizes but the most common is the half barrel keg which holds 58.6 litres or 15.5 US gallons of beer. Kegs are designed to keep beer fresh and carbonated by using pressure to dispense the drink through a tap system.

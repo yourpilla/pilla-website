@@ -1,44 +1,42 @@
 ---
-title: "Stemware"
-slug: "stemware"
-meta: |
-  Stemware refers to glasses with a stem, such as wine glasses and champagne flutes. It enhances the presentation and experience of beverages in restaurants and bars.
-seo_title: "What is Stemware in the hospitality industry?"
-unique_id: "1726570627536x528039631490610800"
+title: Stemware
+slug: stemware
+meta: >
+  Stemware refers to glasses with a stem, such as wine glasses and champagne
+  flutes. It enhances the presentation and experience of beverages in
+  restaurants and bars.
+seo_title: What is Stemware in the hospitality industry?
+unique_id: 1726570627536x528039631490610800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Stemware",
-    "description": "Stemware is glassware designed for serving and drinking various beverages including wine, champagne and cocktails. It features a long stem that prevents warming the drink and leaving fingerprints on the bowl while allowing the drink to be swirled to release its aroma.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/stemware"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Stemware
+  description: >-
+    Stemware is glassware designed for serving and drinking various beverages
+    including wine, champagne and cocktails. It features a long stem that
+    prevents warming the drink and leaving fingerprints on the bowl while
+    allowing the drink to be swirled to release its aroma.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/stemware'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Stemware",
-        "item": "https://yourpilla.com/glossary/stemware"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Stemware
+      item: 'https://yourpilla.com/glossary/stemware'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Stemware is glassware specifically designed for serving and drinking various types of beverages, wine, champagne and cocktails. These glasses have long stems so you can hold the glass without warming the drink or leaving fingerprints on the bowl. The stem also lifts the bowl so you can swirl the drink and smell the aroma.

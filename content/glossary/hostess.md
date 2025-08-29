@@ -1,45 +1,42 @@
 ---
-title: "Hostess"
-slug: "hostess"
-meta: |
-  A hostess greets guests, manages reservations, and ensures smooth seating at restaurants, cafes, and bars. They create a welcoming first impression for patrons.
-seo_title: "What is a Hostess in the hospitality industry?"
-unique_id: "1722854980513x288969537917838100"
+title: Hostess
+slug: hostess
+meta: >
+  A hostess greets guests, manages reservations, and ensures smooth seating at
+  restaurants, cafes, and bars. They create a welcoming first impression for
+  patrons.
+seo_title: What is a Hostess in the hospitality industry?
+unique_id: 1722854980513x288969537917838100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Hostess",
-    "description": "A hostess is a hospitality professional who greets and welcomes guests at a dining establishment, manages the front of house including seating and reservations, and coordinates with wait staff to ensure smooth service.",
-    "inLanguage": "en-GB",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/hostess"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Hostess
+  description: >-
+    A hostess is a hospitality professional who greets and welcomes guests at a
+    dining establishment, manages the front of house including seating and
+    reservations, and coordinates with wait staff to ensure smooth service.
+  inLanguage: en-GB
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/hostess'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Hostess",
-        "item": "https://yourpilla.com/glossary/hostess"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Hostess
+      item: 'https://yourpilla.com/glossary/hostess'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A hostess is a hospitality professional who greets and welcomes guests as they walk in the door of a restaurant, bar or any other dining establishment. They manage the front of house, seating, reservations and coordinate with wait staff to ensure service runs smoothly. The hostess is the first point of contact for the customer and sets the tone for their dining experience.

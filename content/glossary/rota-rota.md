@@ -1,45 +1,44 @@
 ---
-title: "Rota"
-slug: "rota-rota"
-meta: |
-  A rota is a schedule that outlines the working hours and shifts for staff in hotels, restaurants, cafes, and bars, ensuring coverage and efficient operation.
-seo_title: "What is a rota in the hospitality industry?"
-unique_id: "1725199866048x386065476618194100"
+title: Rota
+slug: rota-rota
+meta: >
+  A rota is a schedule that outlines the working hours and shifts for staff in
+  hotels, restaurants, cafes, and bars, ensuring coverage and efficient
+  operation.
+seo_title: What is a rota in the hospitality industry?
+unique_id: 1725199866048x386065476618194100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Rota",
-    "description": "A rota, also known as a roster or schedule, is a timetable that outlines when staff members are expected to work, including employee names, shift times, and assigned duties for a specific period. It helps managers organise staff shifts efficiently to ensure adequate coverage during all operational hours.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/rota",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Rota
+  description: >-
+    A rota, also known as a roster or schedule, is a timetable that outlines
+    when staff members are expected to work, including employee names, shift
+    times, and assigned duties for a specific period. It helps managers organise
+    staff shifts efficiently to ensure adequate coverage during all operational
+    hours.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/rota'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Rota",
-        "item": "https://yourpilla.com/glossary/rota-rota"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Rota
+      item: 'https://yourpilla.com/glossary/rota-rota'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A rota, also known as a roster or schedule, is a timetable that outlines when staff members are expected to work. It typically includes the names of employees, their shift times, and assigned duties for a specific period, usually a week or a month. Rotas help managers organise staff shifts efficiently, ensuring adequate coverage during all operational hours.

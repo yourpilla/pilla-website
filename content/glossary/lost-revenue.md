@@ -1,44 +1,40 @@
 ---
-title: "Lost Revenue"
-slug: "lost-revenue"
-meta: |
-  Lost revenue refers to potential income that a hotel, restaurant, cafe, or bar misses out on due to cancellations, no-shows, or unoccupied rooms and tables.
-seo_title: "What are Lost Revenues in the hospitality industry?"
-unique_id: "1726569751883x389488426275563140"
+title: Lost Revenue
+slug: lost-revenue
+meta: >
+  Lost revenue refers to potential income that a hotel, restaurant, cafe, or bar
+  misses out on due to cancellations, no-shows, or unoccupied rooms and tables.
+seo_title: What are Lost Revenues in the hospitality industry?
+unique_id: 1726569751883x389488426275563140
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Lost revenue",
-    "description": "Lost revenue is the revenue a business misses out on due to unsold rooms, unbooked tables, cancellations, or missed upsell opportunities, representing the difference between potential earnings and actual earnings.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/lost-revenue"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Lost revenue
+  description: >-
+    Lost revenue is the revenue a business misses out on due to unsold rooms,
+    unbooked tables, cancellations, or missed upsell opportunities, representing
+    the difference between potential earnings and actual earnings.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/lost-revenue'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Lost Revenue",
-        "item": "https://yourpilla.com/glossary/lost-revenue"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Lost Revenue
+      item: 'https://yourpilla.com/glossary/lost-revenue'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Lost revenue is the revenue a business misses out on due to various reasons. This can be unsold rooms, unbooked tables, cancellations or missed upsell opportunities. It's the difference between what a business could have earned and what it actually earned.

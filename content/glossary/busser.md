@@ -1,44 +1,40 @@
 ---
-title: "Busser"
-slug: "busser"
-meta: |
-  A busser clears tables, refills water, and supports servers in restaurants, cafes, and bars. They ensure a clean and organised dining area for guests.
-seo_title: "What is a Busser in the hospitality industry?"
-unique_id: "1722781670788x643661695058095400"
+title: Busser
+slug: busser
+meta: >
+  A busser clears tables, refills water, and supports servers in restaurants,
+  cafes, and bars. They ensure a clean and organised dining area for guests.
+seo_title: What is a Busser in the hospitality industry?
+unique_id: 1722781670788x643661695058095400
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Busser",
-    "description": "A busser is a staff member in a restaurant or cafe who clears and cleans tables, restocks supplies and assists waitstaff by removing dirty dishes, wiping down tables, resetting them, and maintaining the dining area.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/busser"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Busser
+  description: >-
+    A busser is a staff member in a restaurant or cafe who clears and cleans
+    tables, restocks supplies and assists waitstaff by removing dirty dishes,
+    wiping down tables, resetting them, and maintaining the dining area.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/busser'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Busser",
-        "item": "https://yourpilla.com/glossary/busser"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Busser
+      item: 'https://yourpilla.com/glossary/busser'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A busser is a staff member in a restaurant or cafe who clears and cleans tables, restocks supplies and helps the waitstaff. Their main jobs are to take away dirty dishes, wipe down tables, reset tables and keep the dining area clean. Bussers work closely with servers and kitchen staff to keep things running smoothly and tables turning.

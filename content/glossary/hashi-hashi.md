@@ -1,45 +1,42 @@
 ---
-title: "Hashi"
-slug: "hashi-hashi"
-meta: |
-  Hashi are traditional Japanese chopsticks used for eating. In restaurants, offering hashi can enhance the dining experience, especially for guests who appreciate authentic Asian cuisine.
-seo_title: "What is Hashi in the hospitality industry?"
-unique_id: "1725994839063x505742644093037250"
+title: Hashi
+slug: hashi-hashi
+meta: >
+  Hashi are traditional Japanese chopsticks used for eating. In restaurants,
+  offering hashi can enhance the dining experience, especially for guests who
+  appreciate authentic Asian cuisine.
+seo_title: What is Hashi in the hospitality industry?
+unique_id: 1725994839063x505742644093037250
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Hashi",
-    "description": "Hashi is the Japanese word for chopsticks, the traditional eating utensils used in many Asian cultures that are usually made of wood or bamboo and used in pairs to pick up food.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/hashi",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Hashi
+  description: >-
+    Hashi is the Japanese word for chopsticks, the traditional eating utensils
+    used in many Asian cultures that are usually made of wood or bamboo and used
+    in pairs to pick up food.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/hashi'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Hashi",
-        "item": "https://yourpilla.com/glossary/hashi-hashi"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Hashi
+      item: 'https://yourpilla.com/glossary/hashi-hashi'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Hashi is the Japanese word for chopsticks, the traditional eating utensils used in many Asian cultures. These little sticks, usually made of wood or bamboo, are used in pairs to pick up food. In Japanese cuisine, hashi are part of the dining experience, used for everything from sushi to noodle dishes.

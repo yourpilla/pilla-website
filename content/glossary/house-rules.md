@@ -1,44 +1,40 @@
 ---
-title: "House Rules"
-slug: "house-rules"
-meta: |
-  House Rules are guidelines set by hotels, restaurants, cafes, and bars to ensure guest safety, comfort, and a pleasant experience for everyone.
-seo_title: "What is House Rules in the hospitality industry?"
-unique_id: "1723824124862x638030362822343800"
+title: House Rules
+slug: house-rules
+meta: >
+  House Rules are guidelines set by hotels, restaurants, cafes, and bars to
+  ensure guest safety, comfort, and a pleasant experience for everyone.
+seo_title: What is House Rules in the hospitality industry?
+unique_id: 1723824124862x638030362822343800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "House rules",
-    "description": "House rules are a set of rules and regulations for a hospitality venue to ensure guest safety, property protection and a peaceful environment, outlining expectations, restrictions and policies for guests.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/house-rules"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: House rules
+  description: >-
+    House rules are a set of rules and regulations for a hospitality venue to
+    ensure guest safety, property protection and a peaceful environment,
+    outlining expectations, restrictions and policies for guests.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/house-rules'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "House Rules",
-        "item": "https://yourpilla.com/glossary/house-rules"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: House Rules
+      item: 'https://yourpilla.com/glossary/house-rules'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 House rules are a set of rules and regulations for a hospitality venue to keep the peace, keep guests safe and protect the property. These rules outline what’s expected, what’s not allowed and what the policies are for guests to follow during their stay or visit. Common house rules are noise restrictions, smoking policies, pet allowance and check out times.

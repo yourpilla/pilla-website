@@ -1,44 +1,41 @@
 ---
-title: "Loyalty Program"
-slug: "loyalty-program"
-meta: |
-  A loyalty program rewards repeat customers in hotels, restaurants, cafes, and bars with points, discounts, or perks, encouraging them to return and spend more.
-seo_title: "What is a Loyalty Program in the hospitality industry?"
-unique_id: "1726569837035x996328429044913900"
+title: Loyalty Program
+slug: loyalty-program
+meta: >
+  A loyalty program rewards repeat customers in hotels, restaurants, cafes, and
+  bars with points, discounts, or perks, encouraging them to return and spend
+  more.
+seo_title: What is a Loyalty Program in the hospitality industry?
+unique_id: 1726569837035x996328429044913900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Loyalty program",
-    "description": "A loyalty program is a marketing tool used by hospitality businesses to build long-term relationships with customers by offering rewards, discounts, or perks.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/loyalty-program"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Loyalty program
+  description: >-
+    A loyalty program is a marketing tool used by hospitality businesses to
+    build long-term relationships with customers by offering rewards, discounts,
+    or perks.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/loyalty-program'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Loyalty Program",
-        "item": "https://yourpilla.com/glossary/loyalty-program"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Loyalty Program
+      item: 'https://yourpilla.com/glossary/loyalty-program'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A loyalty program is a marketing tool used by hospitality businesses to get repeat customers and build long-term relationships. These programs offer rewards, discounts or perks to customers who frequent or buy. Loyalty programs can take many forms, point systems, tiered memberships or exclusive benefits for regulars.

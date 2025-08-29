@@ -1,44 +1,41 @@
 ---
-title: "COGS"
-slug: "cogs"
-meta: |
-  COGS, or Cost of Goods Sold, represents the direct costs of producing the goods sold by restaurants, cafes, and bars, including ingredients and labour.
-seo_title: "What is COGS in the hospitality industry?"
-unique_id: "1722605826122x340936081664618300"
+title: COGS
+slug: cogs
+meta: >
+  COGS, or Cost of Goods Sold, represents the direct costs of producing the
+  goods sold by restaurants, cafes, and bars, including ingredients and labour.
+seo_title: What is COGS in the hospitality industry?
+unique_id: 1722605826122x340936081664618300
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "COGS",
-    "description": "COGS stands for Cost of Goods Sold. In hospitality, it refers to the direct costs of producing and delivering what you sell, including food ingredients, beverages, and sometimes labour for food preparation, as well as the costs of amenities and consumables in hotel rooms.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/cogs"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: COGS
+  description: >-
+    COGS stands for Cost of Goods Sold. In hospitality, it refers to the direct
+    costs of producing and delivering what you sell, including food ingredients,
+    beverages, and sometimes labour for food preparation, as well as the costs
+    of amenities and consumables in hotel rooms.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/cogs'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "COGS",
-        "item": "https://yourpilla.com/glossary/cogs"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: COGS
+      item: 'https://yourpilla.com/glossary/cogs'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 COGS stands for Cost of Goods Sold. In hospitality, it's the direct costs of producing and delivering what you sell. For restaurants, that's the cost of food ingredients, beverages and sometimes labour involved in food prep. For hotels, it's the cost of amenities in the room, breakfast items and other consumables guests use during their stay.

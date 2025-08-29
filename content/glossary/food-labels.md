@@ -1,44 +1,42 @@
 ---
-title: "Food Labels"
-slug: "food-labels"
-meta: |
-  Food labels provide details about a food item's ingredients, nutritional content, and allergens. They help staff in restaurants, cafes, and bars serve customers safely and accurately.
-seo_title: "What are Food Labels in the hospitality industry?"
-unique_id: "1725994713722x812821275333741600"
+title: Food Labels
+slug: food-labels
+meta: >
+  Food labels provide details about a food item's ingredients, nutritional
+  content, and allergens. They help staff in restaurants, cafes, and bars serve
+  customers safely and accurately.
+seo_title: What are Food Labels in the hospitality industry?
+unique_id: 1725994713722x812821275333741600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Food labels",
-    "description": "Food labels are tags on food packaging that provide information about ingredients, nutritional content, allergens, production methods and other details, ensuring guest safety and regulatory compliance in the hospitality industry.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/food-labels"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Food labels
+  description: >-
+    Food labels are tags on food packaging that provide information about
+    ingredients, nutritional content, allergens, production methods and other
+    details, ensuring guest safety and regulatory compliance in the hospitality
+    industry.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/food-labels'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Food Labels",
-        "item": "https://yourpilla.com/glossary/food-labels"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Food Labels
+      item: 'https://yourpilla.com/glossary/food-labels'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Food labels are those little tags or markings on food packaging that tell us about the ingredients, nutritional content, allergens, production methods and other relevant info. They help us make informed choices about our food and comply with regulations. In the hospitality industry food labels are crucial for guest safety, meeting dietary needs and transparency in food service.

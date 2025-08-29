@@ -1,44 +1,42 @@
 ---
-title: "Licensing Fee"
-slug: "licensing-fee"
-meta: |
-  A licensing fee is a regular payment businesses make to use branded names, logos, or software. This helps maintain brand consistency in hotels, restaurants, cafes, and bars.
-seo_title: "What are Licensing Fees in the hospitality industry?"
-unique_id: "1726569806819x337393019650375200"
+title: Licensing Fee
+slug: licensing-fee
+meta: >
+  A licensing fee is a regular payment businesses make to use branded names,
+  logos, or software. This helps maintain brand consistency in hotels,
+  restaurants, cafes, and bars.
+seo_title: What are Licensing Fees in the hospitality industry?
+unique_id: 1726569806819x337393019650375200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Licensing fee",
-    "description": "A licensing fee is a payment to use a brand name, trademark or product. In hospitality this is often paying to operate under a well known hotel or restaurant chain's name, usually structured as a percentage of revenue or a flat rate based on an agreement between the licensor and licensee.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/licensing-fee"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Licensing fee
+  description: >-
+    A licensing fee is a payment to use a brand name, trademark or product. In
+    hospitality this is often paying to operate under a well known hotel or
+    restaurant chain's name, usually structured as a percentage of revenue or a
+    flat rate based on an agreement between the licensor and licensee.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/licensing-fee'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Licensing Fee",
-        "item": "https://yourpilla.com/glossary/licensing-fee"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Licensing Fee
+      item: 'https://yourpilla.com/glossary/licensing-fee'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A licensing fee is a payment to use a brand name, trademark or product. In hospitality this is often paying to operate under a well known hotel or restaurant chain's name. The fee is usually a percentage of revenue or a flat rate dependent on the agreement between the licensor and licensee.

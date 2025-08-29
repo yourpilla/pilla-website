@@ -1,44 +1,42 @@
 ---
-title: "Service Charge"
-slug: "service-charge"
-meta: |
-  A Service Charge is an additional fee added to a guest's bill, typically a percentage of the total, to cover gratuity for staff services provided during their stay.
-seo_title: "What is Service Charge in the hospitality industry?"
-unique_id: "1724412743768x401860088967171700"
+title: Service Charge
+slug: service-charge
+meta: >
+  A Service Charge is an additional fee added to a guest's bill, typically a
+  percentage of the total, to cover gratuity for staff services provided during
+  their stay.
+seo_title: What is Service Charge in the hospitality industry?
+unique_id: 1724412743768x401860088967171700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Service charge",
-    "description": "A service charge is an extra fee added to your bill in a hospitality place. It’s usually a percentage of the total bill, 10-20%. This covers the cost of service provided by staff including waiters, bartenders, and hotel porters, and may be included in the bill or optionally paid.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/service-charge"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Service charge
+  description: >-
+    A service charge is an extra fee added to your bill in a hospitality place.
+    It’s usually a percentage of the total bill, 10-20%. This covers the cost of
+    service provided by staff including waiters, bartenders, and hotel porters,
+    and may be included in the bill or optionally paid.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/service-charge'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Service Charge",
-        "item": "https://yourpilla.com/glossary/service-charge"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Service Charge
+      item: 'https://yourpilla.com/glossary/service-charge'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A service charge is an extra fee added to your bill in a hospitality place. It’s usually a percentage of the total bill, 10-20%. This is to cover the cost of service provided by the staff, waiters, bartenders or hotel porters. In some places it’s included in the bill, in others it’s up to you to decide.

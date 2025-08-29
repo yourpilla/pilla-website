@@ -1,45 +1,42 @@
 ---
-title: "Guest Turnover"
-slug: "guest-turnover"
-meta: |
-  Guest Turnover refers to the rate at which guests check out and new ones check in. High turnover can indicate strong demand but requires efficient room management.
-seo_title: "What is Guest Turnover in the hospitality industry?"
-unique_id: "1722522923129x768785941034205700"
+title: Guest Turnover
+slug: guest-turnover
+meta: >
+  Guest Turnover refers to the rate at which guests check out and new ones check
+  in. High turnover can indicate strong demand but requires efficient room
+  management.
+seo_title: What is Guest Turnover in the hospitality industry?
+unique_id: 1722522923129x768785941034205700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "inLanguage": "en-GB",
-    "name": "Guest turnover",
-    "description": "Guest turnover is the rate at which guests come and go from a business. It measures how frequently guests change in spaces like hotel rooms, restaurant tables, or bar stools, affecting both revenue and operational efficiency.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/guest-turnover"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  inLanguage: en-GB
+  name: Guest turnover
+  description: >-
+    Guest turnover is the rate at which guests come and go from a business. It
+    measures how frequently guests change in spaces like hotel rooms, restaurant
+    tables, or bar stools, affecting both revenue and operational efficiency.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/guest-turnover'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Guest Turnover",
-        "item": "https://yourpilla.com/glossary/guest-turnover"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Guest Turnover
+      item: 'https://yourpilla.com/glossary/guest-turnover'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Guest turnover is the rate at which guests come and go from a business. It’s one guest leaving and another arriving in the same space, whether that’s a hotel room, restaurant table or bar stool. This applies to all types of hospitality businesses, from small cafes to big resorts. High guest turnover means lots of different guests in the same space over a period of time, while low turnover means not many changes.

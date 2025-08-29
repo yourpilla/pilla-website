@@ -1,44 +1,43 @@
 ---
-title: "Executive Housekeeper"
-slug: "executive-housekeeper"
-meta: |
-  The Executive Housekeeper oversees all housekeeping operations, ensuring cleanliness and maintenance standards in hotels, restaurants, cafes, and bars are met.
-seo_title: "What is an Executive Housekeeper in the hospitality industry?"
-unique_id: "1725633598711x997513556000863900"
+title: Executive Housekeeper
+slug: executive-housekeeper
+meta: >
+  The Executive Housekeeper oversees all housekeeping operations, ensuring
+  cleanliness and maintenance standards in hotels, restaurants, cafes, and bars
+  are met.
+seo_title: What is an Executive Housekeeper in the hospitality industry?
+unique_id: 1725633598711x997513556000863900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Executive Housekeeper",
-    "description": "An Executive Housekeeper is a top management role that oversees all housekeeping operations in a hotel or hospitality business. This includes managing staff, standards, budget and guest satisfaction. Executive Housekeepers report to the General Manager and work closely with other department heads to maintain the overall quality of the property.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/executive-housekeeper"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Executive Housekeeper
+  description: >-
+    An Executive Housekeeper is a top management role that oversees all
+    housekeeping operations in a hotel or hospitality business. This includes
+    managing staff, standards, budget and guest satisfaction. Executive
+    Housekeepers report to the General Manager and work closely with other
+    department heads to maintain the overall quality of the property.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/executive-housekeeper'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Executive Housekeeper",
-        "item": "https://yourpilla.com/glossary/executive-housekeeper"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Executive Housekeeper
+      item: 'https://yourpilla.com/glossary/executive-housekeeper'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 An Executive Housekeeper is a top management role that oversees all housekeeping operations in a hotel or hospitality business. This includes managing staff, standards, budget and guest satisfaction. Executive Housekeepers report to the General Manager and work closely with other department heads to maintain the overall quality of the property.

@@ -1,45 +1,42 @@
 ---
-title: "Jockey box"
-slug: "jockey-box"
-meta: |
-  A jockey box is a portable draft beer system used in bars and restaurants, allowing staff to serve cold beer from kegs at events without electricity.
-seo_title: "What is a Jockey box in the hospitality industry?"
-unique_id: "1726569482965x105651573410787000"
+title: Jockey box
+slug: jockey-box
+meta: >
+  A jockey box is a portable draft beer system used in bars and restaurants,
+  allowing staff to serve cold beer from kegs at events without electricity.
+seo_title: What is a Jockey box in the hospitality industry?
+unique_id: 1726569482965x105651573410787000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Jockey box",
-    "description": "A jockey box is a portable draft beer system used to serve cold beer at events or locations without permanent beer taps. It is an insulated container with coils or plates that chill the beer as it flows, ensuring it is served at the perfect temperature.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/jockey-box",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Jockey box
+  description: >-
+    A jockey box is a portable draft beer system used to serve cold beer at
+    events or locations without permanent beer taps. It is an insulated
+    container with coils or plates that chill the beer as it flows, ensuring it
+    is served at the perfect temperature.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/jockey-box'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Jockey box",
-        "item": "https://yourpilla.com/glossary/jockey-box"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Jockey box
+      item: 'https://yourpilla.com/glossary/jockey-box'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A jockey box is a portable draft beer system to serve cold beer at events or locations without permanent beer taps. It’s a cooler or insulated container with coils or plates that chill the beer as it flows through so it’s served at the perfect temperature. The term jockey box likely came from the days when beer was delivered by horse-drawn wagons and the driver (or jockey) sat on a box that held the beer.

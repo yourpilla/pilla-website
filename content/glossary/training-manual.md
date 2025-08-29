@@ -1,45 +1,41 @@
 ---
-title: "Training Manual"
-slug: "training-manual"
-meta: |
-  A training manual is a guide that provides detailed instructions and procedures for staff in hotels, restaurants, cafes, and bars to ensure consistent service quality.
-seo_title: "What is a Training Manual in the hospitality industry?"
-unique_id: "1726570812167x428716235690797440"
+title: Training Manual
+slug: training-manual
+meta: >
+  A training manual is a guide that provides detailed instructions and
+  procedures for staff in hotels, restaurants, cafes, and bars to ensure
+  consistent service quality.
+seo_title: What is a Training Manual in the hospitality industry?
+unique_id: 1726570812167x428716235690797440
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Training manual",
-    "description": "A training manual is a comprehensive document that details procedures, policies and best practices for hospitality employees.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/training-manual",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Training manual
+  description: >-
+    A training manual is a comprehensive document that details procedures,
+    policies and best practices for hospitality employees.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/training-manual'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Training Manual",
-        "item": "https://yourpilla.com/glossary/training-manual"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Training Manual
+      item: 'https://yourpilla.com/glossary/training-manual'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A training manual is a big document that covers all the procedures, policies and best practices for employees in a hospitality environment. It’s the go-to resource for staff, with step-by-step instructions on how to do their job well and consistently. Training manuals cover a wide range of topics from customer service protocols to safety procedures to specific job roles.

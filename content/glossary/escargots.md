@@ -1,45 +1,42 @@
 ---
-title: "Escargots"
-slug: "escargots"
-meta: |
-  Escargots are edible snails, often served as a delicacy in French cuisine. They are typically cooked with garlic, butter, and parsley, offering a unique dining experience.
-seo_title: "What are Escargots in the hospitality industry?"
-unique_id: "1725917231492x171702773306892100"
+title: Escargots
+slug: escargots
+meta: >
+  Escargots are edible snails, often served as a delicacy in French cuisine.
+  They are typically cooked with garlic, butter, and parsley, offering a unique
+  dining experience.
+seo_title: What are Escargots in the hospitality industry?
+unique_id: 1725917231492x171702773306892100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Escargots",
-    "description": "Escargots are land snails that are cooked and served in their shells with butter, garlic and herb sauce. Escargots is French for snails and has become a common term in the culinary world.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/escargots",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Escargots
+  description: >-
+    Escargots are land snails that are cooked and served in their shells with
+    butter, garlic and herb sauce. Escargots is French for snails and has become
+    a common term in the culinary world.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/escargots'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Escargots",
-        "item": "https://yourpilla.com/glossary/escargots"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Escargots
+      item: 'https://yourpilla.com/glossary/escargots'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Escargots are land snails that are cooked and served in their shells with butter, garlic and herb sauce. Escargots is French for snails and has become a common term in the culinary world.

@@ -1,45 +1,43 @@
 ---
-title: "Kitchen Pass"
-slug: "kitchen-pass"
-meta: |
-  The kitchen pass is the counter where chefs place finished dishes for servers to pick up and deliver to guests. It ensures smooth communication and service flow.
-seo_title: "What is a Kitchen Pass in the hospitality industry?"
-unique_id: "1726569591993x744440770040368800"
+title: Kitchen Pass
+slug: kitchen-pass
+meta: >
+  The kitchen pass is the counter where chefs place finished dishes for servers
+  to pick up and deliver to guests. It ensures smooth communication and service
+  flow.
+seo_title: What is a Kitchen Pass in the hospitality industry?
+unique_id: 1726569591993x744440770040368800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Kitchen pass",
-    "description": "The kitchen pass is a counter or window that separates the kitchen from the dining area in a restaurant or food service business. It is where finished dishes are placed for servers to collect and deliver, and may feature a heated surface and overhead lights.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/kitchen-pass",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Kitchen pass
+  description: >-
+    The kitchen pass is a counter or window that separates the kitchen from the
+    dining area in a restaurant or food service business. It is where finished
+    dishes are placed for servers to collect and deliver, and may feature a
+    heated surface and overhead lights.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/kitchen-pass'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Kitchen Pass",
-        "item": "https://yourpilla.com/glossary/kitchen-pass"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Kitchen Pass
+      item: 'https://yourpilla.com/glossary/kitchen-pass'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 The kitchen pass, also known as the pass-through or just the pass, is the counter or window that separates the kitchen from the dining area in a restaurant or food service business. It's where finished dishes are put for servers to pick up and deliver to the customers. The pass may have a heated surface to keep food warm and overhead lights to illuminate the dishes.

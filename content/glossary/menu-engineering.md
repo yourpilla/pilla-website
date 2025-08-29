@@ -1,44 +1,43 @@
 ---
-title: "Menu engineering"
-slug: "menu-engineering"
-meta: |
-  Menu engineering analyses the profitability and popularity of menu items in restaurants, cafes, and bars. It helps optimise the menu to increase revenue and customer satisfaction.
-seo_title: "What is Menu engineering in the hospitality industry?"
-unique_id: "1722589191188x320149412178780700"
+title: Menu engineering
+slug: menu-engineering
+meta: >
+  Menu engineering analyses the profitability and popularity of menu items in
+  restaurants, cafes, and bars. It helps optimise the menu to increase revenue
+  and customer satisfaction.
+seo_title: What is Menu engineering in the hospitality industry?
+unique_id: 1722589191188x320149412178780700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Menu engineering",
-    "description": "Menu engineering is a strategy to design and price menus to maximise profit in hospitality. It involves analysing sales data, food cost and customer preferences to create a menu that encourages customers to order high profit items, categorising dishes to assist informed decisions on pricing, placement and promotion.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/menu-engineering"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Menu engineering
+  description: >-
+    Menu engineering is a strategy to design and price menus to maximise profit
+    in hospitality. It involves analysing sales data, food cost and customer
+    preferences to create a menu that encourages customers to order high profit
+    items, categorising dishes to assist informed decisions on pricing,
+    placement and promotion.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/menu-engineering'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Menu engineering",
-        "item": "https://yourpilla.com/glossary/menu-engineering"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Menu engineering
+      item: 'https://yourpilla.com/glossary/menu-engineering'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Menu engineering is a strategy to design and price menus to maximise profit in hospitality. It involves looking at sales data, food cost and customer preferences to create a menu that encourages customers to order high profit items. This method categorises menu items by popularity and profit to enable managers to make informed decisions on pricing, placement and promotion of dishes.

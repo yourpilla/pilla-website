@@ -1,44 +1,42 @@
 ---
-title: "Off-peak hours"
-slug: "off-peak-hours"
-meta: |
-  Off-peak hours are times when customer demand is lower. In restaurants, cafes, hotels, and bars, this often means fewer guests and less busy periods.
-seo_title: "What are Off-peak hours in the hospitality industry?"
-unique_id: "1726570136964x139759422337806910"
+title: Off-peak hours
+slug: off-peak-hours
+meta: >
+  Off-peak hours are times when customer demand is lower. In restaurants, cafes,
+  hotels, and bars, this often means fewer guests and less busy periods.
+seo_title: What are Off-peak hours in the hospitality industry?
+unique_id: 1726570136964x139759422337806910
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Off-peak hours",
-    "description": "Off-peak hours are periods of time when your hospitality business has fewer customers or foot traffic. These are outside of peak hours or busy times. For hotels, off-peak hours are late at night or early morning. For restaurants, it's between lunch and dinner. Bars and cafes might consider mid-afternoon as their off-peak time.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/off-peak-hours"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Off-peak hours
+  description: >-
+    Off-peak hours are periods of time when your hospitality business has fewer
+    customers or foot traffic. These are outside of peak hours or busy times.
+    For hotels, off-peak hours are late at night or early morning. For
+    restaurants, it's between lunch and dinner. Bars and cafes might consider
+    mid-afternoon as their off-peak time.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/off-peak-hours'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Off-peak hours",
-        "item": "https://yourpilla.com/glossary/off-peak-hours"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Off-peak hours
+      item: 'https://yourpilla.com/glossary/off-peak-hours'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Off-peak hours are periods of time when your hospitality business has fewer customers or foot traffic. These are outside of peak hours or busy times. For hotels, off-peak hours are late at night or early morning. For restaurants, it's between lunch and dinner. Bars and cafes might consider mid-afternoon as their off-peak time.

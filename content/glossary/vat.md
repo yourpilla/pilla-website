@@ -1,45 +1,43 @@
 ---
-title: "VAT"
-slug: "vat"
-meta: |
-  VAT, or Value Added Tax, is a consumption tax added to goods and services, including those in hotels, restaurants, cafes, and bars. It impacts pricing and revenue.
-seo_title: "What is VAT in the hospitality industry?"
-unique_id: "1722935307893x981053603719632900"
+title: VAT
+slug: vat
+meta: >
+  VAT, or Value Added Tax, is a consumption tax added to goods and services,
+  including those in hotels, restaurants, cafes, and bars. It impacts pricing
+  and revenue.
+seo_title: What is VAT in the hospitality industry?
+unique_id: 1722935307893x981053603719632900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "VAT",
-    "description": "VAT is a consumption tax added to the price of goods and services. In the hospitality industry, it applies to items from room rates to food and beverage, and is collected at every stage of the production and distribution process.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/vat",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: VAT
+  description: >-
+    VAT is a consumption tax added to the price of goods and services. In the
+    hospitality industry, it applies to items from room rates to food and
+    beverage, and is collected at every stage of the production and distribution
+    process.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/vat'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "VAT",
-        "item": "https://yourpilla.com/glossary/vat"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: VAT
+      item: 'https://yourpilla.com/glossary/vat'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 VAT is a consumption tax added to the price of goods and services. In the hospitality industry, VAT applies to most of what we sell, from room rates to food and beverage. It's collected at every stage of the production and distribution process and the consumer pays the full amount.

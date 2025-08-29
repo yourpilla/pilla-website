@@ -1,44 +1,42 @@
 ---
-title: "Egress"
-slug: "egress"
-meta: |
-  Egress refers to the safe and accessible exits in a hospitality venue, such as hotels, restaurants, cafes, and bars, used during emergencies for swift evacuation.
-seo_title: "What is Egress in the hospitality industry?"
-unique_id: "1724413329175x382409052977761100"
+title: Egress
+slug: egress
+meta: >
+  Egress refers to the safe and accessible exits in a hospitality venue, such as
+  hotels, restaurants, cafes, and bars, used during emergencies for swift
+  evacuation.
+seo_title: What is Egress in the hospitality industry?
+unique_id: 1724413329175x382409052977761100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Egress",
-    "description": "Egress is an exit or way out of a building or space. In hospitality, it refers to emergency exits, fire escapes or designated paths to exit premises quickly and safely, with egress points marked by illuminated signs and kept clear at all times.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/egress"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Egress
+  description: >-
+    Egress is an exit or way out of a building or space. In hospitality, it
+    refers to emergency exits, fire escapes or designated paths to exit premises
+    quickly and safely, with egress points marked by illuminated signs and kept
+    clear at all times.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/egress'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Egress",
-        "item": "https://yourpilla.com/glossary/egress"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Egress
+      item: 'https://yourpilla.com/glossary/egress'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Egress is an exit or way out of a building or space. In hospitality egress refers to emergency exits, fire escapes or any designated path to get out of a premises quickly and safely. Egress points are marked with illuminated signs and must be kept clear at all times.

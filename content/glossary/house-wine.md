@@ -1,45 +1,45 @@
 ---
-title: "House Wine"
-slug: "house-wine"
-meta: |
-  House Wine refers to the standard wine offered by a restaurant, bar, or café, typically at a lower price. It’s often a reliable, budget-friendly option for guests.
-seo_title: "What are House Wines in the hospitality industry?"
-unique_id: "1724413553893x207049502007186100"
+title: House Wine
+slug: house-wine
+meta: >
+  House Wine refers to the standard wine offered by a restaurant, bar, or café,
+  typically at a lower price. It’s often a reliable, budget-friendly option for
+  guests.
+seo_title: What are House Wines in the hospitality industry?
+unique_id: 1724413553893x207049502007186100
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "House wine",
-    "description": "House wine is the standard, often cheaper wine that restaurants, bars and hotels offer as their go-to option. These wines are chosen by the establishment to provide good value for money and consistency. House wines are available by the glass or bottle and can be red, white or rosé. They're often bought in bulk or through special arrangements with wineries so they can offer them at a competitive price.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/house-wine",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: House wine
+  description: >-
+    House wine is the standard, often cheaper wine that restaurants, bars and
+    hotels offer as their go-to option. These wines are chosen by the
+    establishment to provide good value for money and consistency. House wines
+    are available by the glass or bottle and can be red, white or rosé. They're
+    often bought in bulk or through special arrangements with wineries so they
+    can offer them at a competitive price.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/house-wine'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "House Wine",
-        "item": "https://yourpilla.com/glossary/house-wine"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: House Wine
+      item: 'https://yourpilla.com/glossary/house-wine'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 House wine is the standard, often cheaper wine that restaurants, bars and hotels offer as their go-to option. These wines are chosen by the establishment to provide good value for money and consistency. House wines are available by the glass or bottle and can be red, white or rosé. They're often bought in bulk or through special arrangements with wineries so they can offer them at a competitive price.

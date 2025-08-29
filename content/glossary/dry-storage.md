@@ -1,44 +1,40 @@
 ---
-title: "Dry Storage"
-slug: "dry-storage"
-meta: |
-  Dry storage refers to the designated area in restaurants, cafes, and bars where non-perishable items like canned goods, grains, and spices are stored.
-seo_title: "What is Dry Storage in the hospitality industry?"
-unique_id: "1723823503374x770778692183369700"
+title: Dry Storage
+slug: dry-storage
+meta: >
+  Dry storage refers to the designated area in restaurants, cafes, and bars
+  where non-perishable items like canned goods, grains, and spices are stored.
+seo_title: What is Dry Storage in the hospitality industry?
+unique_id: 1723823503374x770778692183369700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Dry storage",
-    "description": "Dry storage is a designated area in a hospitality business where non-perishable food and supplies are stored at room temperature, kept cool, dry and well ventilated to maintain product quality and extend shelf life.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/dry-storage"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Dry storage
+  description: >-
+    Dry storage is a designated area in a hospitality business where
+    non-perishable food and supplies are stored at room temperature, kept cool,
+    dry and well ventilated to maintain product quality and extend shelf life.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/dry-storage'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Dry Storage",
-        "item": "https://yourpilla.com/glossary/dry-storage"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Dry Storage
+      item: 'https://yourpilla.com/glossary/dry-storage'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Dry storage is a designated area in a hospitality business where non-perishable food and supplies are stored at room temperature. This area is cool, dry and well ventilated to keep products in good condition and extend shelf life. Items found in dry storage are canned goods, grains, pasta, spices and paper products.

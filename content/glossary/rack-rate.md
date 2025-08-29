@@ -1,44 +1,40 @@
 ---
-title: "Rack rate"
-slug: "rack-rate"
-meta: |
-  Rack rate is the standard price for a hotel room before any discounts. It's the highest published rate and often used as a reference for pricing strategies.
-seo_title: "What are Rack rates in the hospitality industry?"
-unique_id: "1722587966749x995669265848421000"
+title: Rack rate
+slug: rack-rate
+meta: >
+  Rack rate is the standard price for a hotel room before any discounts. It's
+  the highest published rate and often used as a reference for pricing
+  strategies.
+seo_title: What are Rack rates in the hospitality industry?
+unique_id: 1722587966749x995669265848421000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Rack rate",
-    "description": "Rack rate is the highest price charged for a room or service, serving as the standard rate for walk-in guests with no reservation or special deal.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/rack-rate"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Rack rate
+  description: >-
+    Rack rate is the highest price charged for a room or service, serving as the
+    standard rate for walk-in guests with no reservation or special deal.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/rack-rate'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Rack rate",
-        "item": "https://yourpilla.com/glossary/rack-rate"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Rack rate
+      item: 'https://yourpilla.com/glossary/rack-rate'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Rack rate is the highest price you charge for a room or service in your business. It’s the rate you’d charge a walk-in guest with no reservation or special deal. Think of it as the 'sticker price' for your rooms or services.

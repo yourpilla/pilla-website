@@ -1,44 +1,40 @@
 ---
-title: "Gratuity"
-slug: "gratuity"
-meta: |
-  Gratuity is an extra sum of money given to service staff by customers as a thank you for excellent service, often boosting staff morale and service quality.
-seo_title: "What is Gratuity in the hospitality industry?"
-unique_id: "1722522802412x984149897878385800"
+title: Gratuity
+slug: gratuity
+meta: >
+  Gratuity is an extra sum of money given to service staff by customers as a
+  thank you for excellent service, often boosting staff morale and service
+  quality.
+seo_title: What is Gratuity in the hospitality industry?
+unique_id: 1722522802412x984149897878385800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Gratuity",
-    "description": "Gratuity is a voluntary payment given by customers to service staff as a show of appreciation for good service.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/gratuity"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Gratuity
+  description: >-
+    Gratuity is a voluntary payment given by customers to service staff as a
+    show of appreciation for good service.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/gratuity'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Gratuity",
-        "item": "https://yourpilla.com/glossary/gratuity"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Gratuity
+      item: 'https://yourpilla.com/glossary/gratuity'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Gratuity, commonly known as a tip, is a voluntary payment given by customers to service staff as a show of appreciation for good service.

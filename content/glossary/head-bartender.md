@@ -1,44 +1,42 @@
 ---
-title: "Head Bartender"
-slug: "head-bartender"
-meta: |
-  A Head Bartender oversees bar operations, manages staff, ensures quality service, and creates drink menus. They maintain inventory and ensure customer satisfaction.
-seo_title: "What is a Head Bartender in the hospitality industry?"
-unique_id: "1723824118317x634110973251496700"
+title: Head Bartender
+slug: head-bartender
+meta: >
+  A Head Bartender oversees bar operations, manages staff, ensures quality
+  service, and creates drink menus. They maintain inventory and ensure customer
+  satisfaction.
+seo_title: What is a Head Bartender in the hospitality industry?
+unique_id: 1723824118317x634110973251496700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Head Bartender",
-    "description": "A Head Bartender is the top bartender in a bar or restaurant, responsible for the overall running of the bar, staff, and service. They create cocktail menus, train other bartenders, manage inventory, and ensure service standards are met.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/head-bartender"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Head Bartender
+  description: >-
+    A Head Bartender is the top bartender in a bar or restaurant, responsible
+    for the overall running of the bar, staff, and service. They create cocktail
+    menus, train other bartenders, manage inventory, and ensure service
+    standards are met.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/head-bartender'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Head Bartender",
-        "item": "https://yourpilla.com/glossary/head-bartender"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Head Bartender
+      item: 'https://yourpilla.com/glossary/head-bartender'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A Head Bartender is the top bartender in a bar or restaurant, responsible for the overall running of the bar, staff and service. They create cocktail menus, train other bartenders, manage inventory and ensure service standards are met. Head Bartenders have years of experience and knowledge of mixology, spirits and customer service.

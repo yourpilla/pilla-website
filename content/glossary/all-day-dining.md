@@ -1,44 +1,42 @@
 ---
-title: "All Day Dining"
-slug: "all-day-dining"
-meta: |
-  All Day Dining refers to a restaurant or cafe that offers a wide range of meals and snacks throughout the entire day, from breakfast to dinner, without specific meal times.
-seo_title: "What is All Day Dining in the hospitality industry?"
-unique_id: "1725199961007x583058030286562200"
+title: All Day Dining
+slug: all-day-dining
+meta: >
+  All Day Dining refers to a restaurant or cafe that offers a wide range of
+  meals and snacks throughout the entire day, from breakfast to dinner, without
+  specific meal times.
+seo_title: What is All Day Dining in the hospitality industry?
+unique_id: 1725199961007x583058030286562200
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "All Day Dining",
-    "description": "All Day Dining is a restaurant or food service concept where meals are served continuously from breakfast through dinner. It offers flexible dining outside traditional meal periods with a diverse menu available throughout operating hours.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/all-day-dining"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: All Day Dining
+  description: >-
+    All Day Dining is a restaurant or food service concept where meals are
+    served continuously from breakfast through dinner. It offers flexible dining
+    outside traditional meal periods with a diverse menu available throughout
+    operating hours.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/all-day-dining'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "All Day Dining",
-        "item": "https://yourpilla.com/glossary/all-day-dining"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: All Day Dining
+      item: 'https://yourpilla.com/glossary/all-day-dining'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 All Day Dining refers to a restaurant or food service concept where meals are served continuously throughout the day, typically from breakfast through dinner. This style of dining offers guests the flexibility to eat at any time, breaking away from traditional meal periods. All Day Dining venues usually feature a diverse menu that includes breakfast items, lunch options, and dinner dishes, available at any time during operating hours.

@@ -1,44 +1,41 @@
 ---
-title: "Night Porter"
-slug: "night-porter"
-meta: |
-  A Night Porter handles tasks during the night shift in hotels, such as guest check-ins, security, and cleaning. They ensure smooth operations while others sleep.
-seo_title: "What is a Night Porter in the hospitality industry?"
-unique_id: "1722782719966x251879427991525500"
+title: Night Porter
+slug: night-porter
+meta: >
+  A Night Porter handles tasks during the night shift in hotels, such as guest
+  check-ins, security, and cleaning. They ensure smooth operations while others
+  sleep.
+seo_title: What is a Night Porter in the hospitality industry?
+unique_id: 1722782719966x251879427991525500
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Night porter",
-    "description": "A night porter is a hospitality professional who works the night shift in hotels, providing support and services to guests by handling check-ins, check-outs, guest requests, and security.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/night-porter"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Night porter
+  description: >-
+    A night porter is a hospitality professional who works the night shift in
+    hotels, providing support and services to guests by handling check-ins,
+    check-outs, guest requests, and security.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/night-porter'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Night Porter",
-        "item": "https://yourpilla.com/glossary/night-porter"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Night Porter
+      item: 'https://yourpilla.com/glossary/night-porter'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A night porter is a hospitality person who works the night shift in hotels, providing services and support to guests in the late hours. They do lots of things, from check-ins and check-outs to guest requests and security. Night porters are often the first point of contact for guests during the quiet hours, so the hotel runs 24/7.

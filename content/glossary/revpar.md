@@ -1,45 +1,43 @@
 ---
-title: "RevPAR"
-slug: "revpar"
-meta: |
-  RevPAR, or Revenue Per Available Room, measures how much revenue each available room generates. It helps hotels, restaurants, cafes, and bars gauge their financial performance.
-seo_title: "What is RevPAR in the hospitality industry?"
-unique_id: "1724412439277x837639206078524000"
+title: RevPAR
+slug: revpar
+meta: >
+  RevPAR, or Revenue Per Available Room, measures how much revenue each
+  available room generates. It helps hotels, restaurants, cafes, and bars gauge
+  their financial performance.
+seo_title: What is RevPAR in the hospitality industry?
+unique_id: 1724412439277x837639206078524000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "RevPAR",
-    "description": "RevPAR stands for Revenue Per Available Room. It is a key metric in the hospitality industry that measures a property's performance by dividing total room revenue by total rooms available or by multiplying ADR by occupancy, providing a snapshot of room inventory utilisation and pricing.",
-    "inLanguage": "en-GB",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/revpar"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: RevPAR
+  description: >-
+    RevPAR stands for Revenue Per Available Room. It is a key metric in the
+    hospitality industry that measures a property's performance by dividing
+    total room revenue by total rooms available or by multiplying ADR by
+    occupancy, providing a snapshot of room inventory utilisation and pricing.
+  inLanguage: en-GB
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/revpar'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "RevPAR",
-        "item": "https://yourpilla.com/glossary/revpar"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: RevPAR
+      item: 'https://yourpilla.com/glossary/revpar'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 RevPAR stands for Revenue Per Available Room. It's a key metric in the hospitality industry to measure a property's performance. You calculate RevPAR by dividing total room revenue by total rooms available or by multiplying ADR by occupancy. This gives you a snapshot of how well you're utilising your room inventory and pricing.

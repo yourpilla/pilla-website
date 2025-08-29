@@ -1,45 +1,42 @@
 ---
-title: "Scullery"
-slug: "scullery"
-meta: |
-  A scullery is a small kitchen area in restaurants, cafes, or bars where staff wash dishes, pots, and pans, keeping the main kitchen clean and efficient.
-seo_title: "What is a Scullery in the hospitality industry?"
-unique_id: "1726570481837x220330139812144220"
+title: Scullery
+slug: scullery
+meta: >
+  A scullery is a small kitchen area in restaurants, cafes, or bars where staff
+  wash dishes, pots, and pans, keeping the main kitchen clean and efficient.
+seo_title: What is a Scullery in the hospitality industry?
+unique_id: 1726570481837x220330139812144220
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "scullery",
-    "description": "A scullery is a small room or area in a kitchen where you wash dishes, utensils and other kitchen equipment. It's separate from the main cooking area and usually has sinks, dishwashers and storage for cleaning products. The word comes from the Latin 'scutella' meaning tray or platter.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/scullery",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: scullery
+  description: >-
+    A scullery is a small room or area in a kitchen where you wash dishes,
+    utensils and other kitchen equipment. It's separate from the main cooking
+    area and usually has sinks, dishwashers and storage for cleaning products.
+    The word comes from the Latin 'scutella' meaning tray or platter.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/scullery'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Scullery",
-        "item": "https://yourpilla.com/glossary/scullery"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Scullery
+      item: 'https://yourpilla.com/glossary/scullery'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A scullery is a small room or area in a kitchen where you wash dishes, utensils and other kitchen equipment. It's separate from the main cooking area and usually has sinks, dishwashers and storage for cleaning products. The word comes from the Latin 'scutella' meaning tray or platter.

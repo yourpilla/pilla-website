@@ -1,44 +1,41 @@
 ---
-title: "Market rate"
-slug: "market-rate"
-meta: |
-  Market rate refers to the standard price for rooms, meals, or services in hotels, restaurants, cafes, and bars based on current demand and competition.
-seo_title: "What is Market rate in the hospitality industry?"
-unique_id: "1726569903063x656158254501479900"
+title: Market rate
+slug: market-rate
+meta: >
+  Market rate refers to the standard price for rooms, meals, or services in
+  hotels, restaurants, cafes, and bars based on current demand and competition.
+seo_title: What is Market rate in the hospitality industry?
+unique_id: 1726569903063x656158254501479900
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Market rate",
-    "description": "Market rate means the current price of a product or service in the market. In hospitality it refers to the average price of similar accommodations or services in a specific area or among competitors, which fluctuates based on seasonality, local events and overall demand.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/market-rate"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Market rate
+  description: >-
+    Market rate means the current price of a product or service in the market.
+    In hospitality it refers to the average price of similar accommodations or
+    services in a specific area or among competitors, which fluctuates based on
+    seasonality, local events and overall demand.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/market-rate'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Market rate",
-        "item": "https://yourpilla.com/glossary/market-rate"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Market rate
+      item: 'https://yourpilla.com/glossary/market-rate'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Market rate means the current price of a product or service in the market. In hospitality it means the average price of similar accommodations or services in a specific area or among competitors. This changes based on seasonality, local events and overall demand.

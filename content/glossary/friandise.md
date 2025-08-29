@@ -1,44 +1,41 @@
 ---
-title: "Friandise"
-slug: "friandise"
-meta: |
-  Friandise refers to small, sweet treats like chocolates or petits fours served at the end of a meal in restaurants and cafes, enhancing the dining experience.
-seo_title: "What are Friandises in the hospitality industry?"
-unique_id: "1725994763860x785007958314367700"
+title: Friandise
+slug: friandise
+meta: >
+  Friandise refers to small, sweet treats like chocolates or petits fours served
+  at the end of a meal in restaurants and cafes, enhancing the dining
+  experience.
+seo_title: What are Friandises in the hospitality industry?
+unique_id: 1725994763860x785007958314367700
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Friandise",
-    "description": "Friandise is a French term for small sweet treats served at the end of a meal. These treats include petit fours, chocolates, macarons, and other small pastries that provide a final flourish to dining.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/friandise"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Friandise
+  description: >-
+    Friandise is a French term for small sweet treats served at the end of a
+    meal. These treats include petit fours, chocolates, macarons, and other
+    small pastries that provide a final flourish to dining.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/friandise'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Friandise",
-        "item": "https://yourpilla.com/glossary/friandise"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Friandise
+      item: 'https://yourpilla.com/glossary/friandise'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Friandise, pronounced 'free-ahn-deez', is a French word for small sweet treats served at the end of a meal. These little goodies can be petit fours, chocolates, macarons or other small pastries. Friandises are usually free and are the final flourish to the meal.

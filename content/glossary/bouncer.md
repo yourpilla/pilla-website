@@ -1,44 +1,43 @@
 ---
-title: "Bouncer"
-slug: "bouncer"
-meta: |
-  A bouncer manages security at bars, clubs, or events, ensuring guests' safety and maintaining order. They check IDs, handle disputes, and prevent unruly behaviour.
-seo_title: "What is a Bouncer in the hospitality industry?"
-unique_id: "1725916602026x478011041313709500"
+title: Bouncer
+slug: bouncer
+meta: >
+  A bouncer manages security at bars, clubs, or events, ensuring guests' safety
+  and maintaining order. They check IDs, handle disputes, and prevent unruly
+  behaviour.
+seo_title: What is a Bouncer in the hospitality industry?
+unique_id: 1725916602026x478011041313709500
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Bouncer",
-    "description": "A bouncer is a security professional that works in bars, nightclubs and other hospitality venues to keep the peace and keep patrons safe. They're usually at the door to control access, check IDs and enforce dress codes. Bouncers also keep an eye out for any trouble and step in when needed to prevent or de‐escalate conflicts.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/bouncer"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Bouncer
+  description: >-
+    A bouncer is a security professional that works in bars, nightclubs and
+    other hospitality venues to keep the peace and keep patrons safe. They're
+    usually at the door to control access, check IDs and enforce dress codes.
+    Bouncers also keep an eye out for any trouble and step in when needed to
+    prevent or de‐escalate conflicts.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/bouncer'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Bouncer",
-        "item": "https://yourpilla.com/glossary/bouncer"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Bouncer
+      item: 'https://yourpilla.com/glossary/bouncer'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A bouncer is a security professional that works in bars, nightclubs and other hospitality venues to keep the peace and keep patrons safe. They're usually at the door to control access, check IDs and enforce dress codes. Bouncers also keep an eye out for any trouble and step in when needed to prevent or de-escalate conflicts.

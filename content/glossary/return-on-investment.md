@@ -1,44 +1,41 @@
 ---
-title: "Return on investment"
-slug: "return-on-investment"
-meta: |
-  Return on Investment (ROI) in hospitality measures the profitability of an investment, calculated by dividing net profit by the initial investment cost.
-seo_title: "What is Return on investment in the hospitality industry?"
-unique_id: "1722587771614x388966669918890050"
+title: Return on investment
+slug: return-on-investment
+meta: >
+  Return on Investment (ROI) in hospitality measures the profitability of an
+  investment, calculated by dividing net profit by the initial investment cost.
+seo_title: What is Return on investment in the hospitality industry?
+unique_id: 1722587771614x388966669918890050
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Return on Investment",
-    "description": "Return on Investment (ROI) is a financial metric that measures the profitability of an investment relative to its cost. In hospitality, it indicates how effectively funds are being utilised by calculating the profit divided by the cost and multiplying by 100 to yield a percentage.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/return-on-investment"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Return on Investment
+  description: >-
+    Return on Investment (ROI) is a financial metric that measures the
+    profitability of an investment relative to its cost. In hospitality, it
+    indicates how effectively funds are being utilised by calculating the profit
+    divided by the cost and multiplying by 100 to yield a percentage.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/return-on-investment'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Return on investment",
-        "item": "https://yourpilla.com/glossary/return-on-investment"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Return on investment
+      item: 'https://yourpilla.com/glossary/return-on-investment'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Return on Investment (ROI) is a financial metric that measures how profitable an investment is compared to its cost. In hospitality, ROI helps us see how our money is working for us. It's calculated by dividing the profit from an investment by the cost, then multiplying by 100 to get a percentage. For example, if you invest £10,000 in new kitchen equipment and it generates £15,000 in extra revenue, your ROI would be 50%.

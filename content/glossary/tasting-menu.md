@@ -1,45 +1,42 @@
 ---
-title: "Tasting Menu"
-slug: "tasting-menu"
-meta: |
-  A Tasting Menu offers a selection of small, diverse dishes in one meal, showcasing the chef's skills and creativity, providing guests with a unique dining experience.
-seo_title: "What is a Tasting Menu in the hospitality industry?"
-unique_id: "1724055165926x566244673025071440"
+title: Tasting Menu
+slug: tasting-menu
+meta: >
+  A Tasting Menu offers a selection of small, diverse dishes in one meal,
+  showcasing the chef's skills and creativity, providing guests with a unique
+  dining experience.
+seo_title: What is a Tasting Menu in the hospitality industry?
+unique_id: 1724055165926x566244673025071440
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Tasting menu",
-    "description": "A tasting menu is a selection of small dishes that showcase a chef's skills and creativity, consisting of multiple courses each with its own flavour profile and presentation, offering a culinary journey.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/tasting-menu",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Tasting menu
+  description: >-
+    A tasting menu is a selection of small dishes that showcase a chef's skills
+    and creativity, consisting of multiple courses each with its own flavour
+    profile and presentation, offering a culinary journey.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/tasting-menu'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Tasting Menu",
-        "item": "https://yourpilla.com/glossary/tasting-menu"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Tasting Menu
+      item: 'https://yourpilla.com/glossary/tasting-menu'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A tasting menu is a selection of small dishes that showcase a chef's skills and creativity. It's multiple courses, each with its own flavour profile and presentation. Tasting menus allow you to try many dishes in one meal, often with seasonal ingredients and new techniques. They can be any length, 5 to 20 courses, and take you on a culinary journey.

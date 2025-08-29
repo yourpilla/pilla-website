@@ -1,44 +1,41 @@
 ---
-title: "Order accuracy"
-slug: "order-accuracy"
-meta: |
-  Order accuracy ensures that customers receive exactly what they ordered, reducing errors and enhancing satisfaction in restaurants, cafes, and bars.
-seo_title: "What is Order accuracy in the hospitality industry?"
-unique_id: "1722523028120x510019318027499000"
+title: Order accuracy
+slug: order-accuracy
+meta: >
+  Order accuracy ensures that customers receive exactly what they ordered,
+  reducing errors and enhancing satisfaction in restaurants, cafes, and bars.
+seo_title: What is Order accuracy in the hospitality industry?
+unique_id: 1722523028120x510019318027499000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Order accuracy",
-    "description": "Order accuracy means getting the customer’s order right. This means every item ordered is prepared, presented and delivered exactly as requested. It’s everything about the order, from food and drink specs to special requests and modifications.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/order-accuracy"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Order accuracy
+  description: >-
+    Order accuracy means getting the customer’s order right. This means every
+    item ordered is prepared, presented and delivered exactly as requested. It’s
+    everything about the order, from food and drink specs to special requests
+    and modifications.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/order-accuracy'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Order accuracy",
-        "item": "https://yourpilla.com/glossary/order-accuracy"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Order accuracy
+      item: 'https://yourpilla.com/glossary/order-accuracy'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Order accuracy means getting the customer’s order right. This means every item ordered is prepared, presented and delivered exactly as requested. It’s everything about the order, from food and drink specs to special requests and modifications.

@@ -1,44 +1,42 @@
 ---
-title: "Section Waiter"
-slug: "section-waiter"
-meta: |
-  A section waiter manages a specific area within a restaurant or café, providing personalised service to guests in that section, ensuring efficient and attentive care.
-seo_title: "What is a Section Waiter in the hospitality industry?"
-unique_id: "1726570526659x305474246502828600"
+title: Section Waiter
+slug: section-waiter
+meta: >
+  A section waiter manages a specific area within a restaurant or café,
+  providing personalised service to guests in that section, ensuring efficient
+  and attentive care.
+seo_title: What is a Section Waiter in the hospitality industry?
+unique_id: 1726570526659x305474246502828600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Section waiter",
-    "description": "A section waiter is a hospitality professional who serves guests in a specific area of a restaurant, café or dining establishment by taking orders, delivering food and drinks, and ensuring overall customer satisfaction.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/section-waiter"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Section waiter
+  description: >-
+    A section waiter is a hospitality professional who serves guests in a
+    specific area of a restaurant, café or dining establishment by taking
+    orders, delivering food and drinks, and ensuring overall customer
+    satisfaction.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/section-waiter'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Section Waiter",
-        "item": "https://yourpilla.com/glossary/section-waiter"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Section Waiter
+      item: 'https://yourpilla.com/glossary/section-waiter'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A section waiter is a hospitality professional who serves guests in a specific area or 'section' of a restaurant, café or dining establishment. This role involves taking orders, delivering food and drinks, answering menu questions and ensuring overall customer satisfaction in their section. Section waiters work as part of a bigger team, each covering different areas of the dining room to provide service to all guests.

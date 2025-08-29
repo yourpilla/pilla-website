@@ -1,45 +1,44 @@
 ---
-title: "Antipasti"
-slug: "antipasti"
-meta: |
-  Antipasti are Italian starters served before the main course. They often include cured meats, cheeses, olives, and marinated vegetables, enhancing the dining experience.
-seo_title: "What is Antipasti in the hospitality industry?"
-unique_id: "1725916451349x814951230431322600"
+title: Antipasti
+slug: antipasti
+meta: >
+  Antipasti are Italian starters served before the main course. They often
+  include cured meats, cheeses, olives, and marinated vegetables, enhancing the
+  dining experience.
+seo_title: What is Antipasti in the hospitality industry?
+unique_id: 1725916451349x814951230431322600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Antipasti",
-    "description": "Antipasti means 'before the meal' in Italian and refers to the appetisers or starters served before the main course in Italian cuisine. These little dishes are meant to whet the appetite and are usually cold, featuring cured meats, cheeses, olives, marinated vegetables and bread, and can be served individually or as part of a larger platter.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/antipasti",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Antipasti
+  description: >-
+    Antipasti means 'before the meal' in Italian and refers to the appetisers or
+    starters served before the main course in Italian cuisine. These little
+    dishes are meant to whet the appetite and are usually cold, featuring cured
+    meats, cheeses, olives, marinated vegetables and bread, and can be served
+    individually or as part of a larger platter.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/antipasti'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Antipasti",
-        "item": "https://yourpilla.com/glossary/antipasti"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Antipasti
+      item: 'https://yourpilla.com/glossary/antipasti'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Antipasti means 'before the meal' in Italian and refers to the appetisers or starters served before the main course in Italian cuisine. These little dishes are meant to whet the appetite and are usually cold. Cured meats, cheeses, olives, marinated vegetables and bread are all common. Antipasti can be served individually or as part of a larger platter, known as an antipasto platter.

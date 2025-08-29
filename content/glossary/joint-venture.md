@@ -1,44 +1,41 @@
 ---
-title: "Joint venture"
-slug: "joint-venture"
-meta: |
-  A joint venture in hospitality is a business arrangement where two or more parties collaborate to share resources, risks, and profits to achieve a common goal.
-seo_title: "What is a Joint venture in the hospitality industry?"
-unique_id: "1726221462412x839493133980090000"
+title: Joint venture
+slug: joint-venture
+meta: >
+  A joint venture in hospitality is a business arrangement where two or more
+  parties collaborate to share resources, risks, and profits to achieve a common
+  goal.
+seo_title: What is a Joint venture in the hospitality industry?
+unique_id: 1726221462412x839493133980090000
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Joint venture",
-    "description": "A joint venture in hospitality is a collaborative agreement where two or more companies share resources, expertise, and responsibility to achieve a common goal, sharing risks and profits.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/joint-venture"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Joint venture
+  description: >-
+    A joint venture in hospitality is a collaborative agreement where two or
+    more companies share resources, expertise, and responsibility to achieve a
+    common goal, sharing risks and profits.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/joint-venture'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Joint venture",
-        "item": "https://yourpilla.com/glossary/joint-venture"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Joint venture
+      item: 'https://yourpilla.com/glossary/joint-venture'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A joint venture in hospitality is where two or more companies come together to share resources, expertise and assets to achieve a common goal. This can involve sharing risk, profit and operational responsibility. Joint ventures allow businesses to combine their strengths, enter new markets or take on projects that are too big or complex for one company to do alone.

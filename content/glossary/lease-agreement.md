@@ -1,45 +1,42 @@
 ---
-title: "Lease Agreement"
-slug: "lease-agreement"
-meta: |
-  A lease agreement is a contract between a property owner and a tenant, outlining terms for renting spaces in hotels, restaurants, cafes, or bars.
-seo_title: "What is a Lease Agreement in the hospitality industry?"
-unique_id: "1726569751839x600737238884424600"
+title: Lease Agreement
+slug: lease-agreement
+meta: >
+  A lease agreement is a contract between a property owner and a tenant,
+  outlining terms for renting spaces in hotels, restaurants, cafes, or bars.
+seo_title: What is a Lease Agreement in the hospitality industry?
+unique_id: 1726569751839x600737238884424600
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Lease agreement",
-    "description": "A lease agreement is a contract between a property owner and a tenant outlining the terms and conditions for renting a property, including lease length, rent amount, payment schedule, maintenance responsibilities and restrictions on use.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/lease-agreement",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Lease agreement
+  description: >-
+    A lease agreement is a contract between a property owner and a tenant
+    outlining the terms and conditions for renting a property, including lease
+    length, rent amount, payment schedule, maintenance responsibilities and
+    restrictions on use.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/lease-agreement'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Lease Agreement",
-        "item": "https://yourpilla.com/glossary/lease-agreement"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Lease Agreement
+      item: 'https://yourpilla.com/glossary/lease-agreement'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 A lease agreement is a contract between a property owner (landlord) and a tenant that outlines the terms and conditions of renting a property. In hospitality, this is often a business owner leasing a space for their restaurant, cafe or hotel. The agreement will state the length of the lease, rent amount, payment schedule, maintenance responsibilities and any restrictions on use of the property.

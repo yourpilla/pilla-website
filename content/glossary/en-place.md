@@ -1,44 +1,42 @@
 ---
-title: "En Place"
-slug: "en-place"
-meta: |
-  En Place means everything is in its place and ready for service. It ensures that staff have all tools and ingredients prepared, leading to efficient operations.
-seo_title: "What is En Place in the hospitality industry?"
-unique_id: "1725917226667x157803060273033150"
+title: En Place
+slug: en-place
+meta: >
+  En Place means everything is in its place and ready for service. It ensures
+  that staff have all tools and ingredients prepared, leading to efficient
+  operations.
+seo_title: What is En Place in the hospitality industry?
+unique_id: 1725917226667x157803060273033150
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Mise en place",
-    "description": "Mise en place, often shortened to en place, is a French term meaning everything in its place. It is the practice of preparing all ingredients and equipment before cooking or serving, including chopping vegetables, measuring spices, and setting up tools.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/mise-en-place"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Mise en place
+  description: >-
+    Mise en place, often shortened to en place, is a French term meaning
+    everything in its place. It is the practice of preparing all ingredients and
+    equipment before cooking or serving, including chopping vegetables,
+    measuring spices, and setting up tools.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/mise-en-place'
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "En Place",
-        "item": "https://yourpilla.com/glossary/en-place"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: En Place
+      item: 'https://yourpilla.com/glossary/en-place'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Mise en place, often shortened to en place, is a French term meaning everything in its place. It's the practice of getting all your ingredients and equipment ready before you start cooking or serving. Chopping veg, measuring out spices, setting up tools, etc.

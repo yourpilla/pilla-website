@@ -1,45 +1,42 @@
 ---
-title: "Dégustation"
-slug: "dégustation"
-meta: |
-  Dégustation is a tasting menu offering small, curated dishes to showcase a chef's skills and creativity. It enhances guests' dining experience with diverse flavours.
-seo_title: "What is Dégustation in the hospitality industry?"
-unique_id: "1725917066386x919681459858923800"
+title: Dégustation
+slug: dégustation
+meta: >
+  Dégustation is a tasting menu offering small, curated dishes to showcase a
+  chef's skills and creativity. It enhances guests' dining experience with
+  diverse flavours.
+seo_title: What is Dégustation in the hospitality industry?
+unique_id: 1725917066386x919681459858923800
 schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "DefinedTerm",
-    "name": "Dégustation",
-    "description": "Dégustation means a carefully selected tasting menu with small portions of many dishes, offering a culinary journey through diverse flavours and textures that showcase the chef’s skills and creativity.",
-    "inDefinedTermSet": "https://yourpilla.com/glossary",
-    "url": "https://yourpilla.com/glossary/degustation",
-    "inLanguage": "en-GB"
-  }
+  '@context': 'https://schema.org'
+  '@type': DefinedTerm
+  name: Dégustation
+  description: >-
+    Dégustation means a carefully selected tasting menu with small portions of
+    many dishes, offering a culinary journey through diverse flavours and
+    textures that showcase the chef’s skills and creativity.
+  inDefinedTermSet: 'https://yourpilla.com/glossary'
+  url: 'https://yourpilla.com/glossary/degustation'
+  inLanguage: en-GB
 breadcrumb_schema:
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://yourpilla.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Glossary",
-        "item": "https://yourpilla.com/glossary"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Dégustation",
-        "item": "https://yourpilla.com/glossary/dégustation"
-      }
-    ]
-  }
+  '@context': 'https://schema.org'
+  '@type': BreadcrumbList
+  itemListElement:
+    - '@type': ListItem
+      position: 1
+      name: Home
+      item: 'https://yourpilla.com'
+    - '@type': ListItem
+      position: 2
+      name: Glossary
+      item: 'https://yourpilla.com/glossary'
+    - '@type': ListItem
+      position: 3
+      name: Dégustation
+      item: 'https://yourpilla.com/glossary/dégustation'
+sidebar_image: >-
+  https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
+sidebar_image_alt: Hospitality glossary term
 ---
 
 Dégustation means a carefully selected tasting menu, with small portions of many dishes. This is a culinary journey to taste many flavours and textures, to see the chef’s skills and creativity. Dégustation menus often have innovative combinations and cooking techniques, to show you the full scope of the restaurant’s cuisine.
