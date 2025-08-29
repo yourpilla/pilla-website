@@ -535,15 +535,8 @@ export default function Example() {
                     <blockquote className="text-gray-900">
                       <p>{`"${testimonial.content}"`}</p>
                     </blockquote>
-                    <figcaption className="mt-6 flex items-center gap-x-4">
-                      {testimonial.imageUrl && (
-                        <img 
-                          alt="" 
-                          src={testimonial.imageUrl} 
-                          className="size-10 rounded-full bg-gray-50" 
-                        />
-                      )}
-                      <div className="flex-auto">
+                    <figcaption className="mt-6 flex items-center justify-between">
+                      <div>
                         <div className="font-semibold text-gray-900">{testimonial.name}</div>
                         {testimonial.role && testimonial.company && (
                           <div className="text-gray-600">{testimonial.role} at {testimonial.company}</div>
