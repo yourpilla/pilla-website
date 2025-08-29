@@ -37,7 +37,6 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 A Point of Sale (POS) system is a combination of hardware and software that allows businesses to process transactions. In a hospitality setting, this typically includes cash registers, computers, or tablets equipped with software to handle sales, track inventory, manage customer data, and generate reports.
 
 A good POS will have three features:
@@ -60,16 +59,3 @@ A POS is important to hospitality and retail because:
 3.  Simplified Operations: Integrated inventory and sales tracking means you can manage your business better, save time and reduce costs.
     
 4.  Data Driven Decisions: Get detailed reports on sales and customer behavior to make informed business decisions.'
-    
-
-## External Reading
-
-
-
-## External Reading
-
-*   [Comprehensive overview of POS systems, detailing their importance and functionality in the hospitality industry.](https://www.revfine.com/pos-systems/)
-*   [Definitive guide explaining the software and hardware components of POS systems for hospitality venues.](https://www.lightspeedhq.com.au/blog/what-is-a-point-of-sale-system/)
-*   [Detailed explanation of POS systems, focusing on their role in managing transactions within the hospitality sector.](https://library.fiveable.me/key-terms/hospitality-management/point-of-sale-pos-system)
-*   [In-depth guide to restaurant POS systems, covering both hardware and software aspects specific to hospitality.](https://pos.toasttab.com/resources/the-definitive-guide-to-restaurant-pos-systems?srsltid=AfmBOoqkyRkTYVSHlmhP9WGIh3tNHJOEuMLueImQImAwJFyo9FD5LqQU)
-*   [Explains the critical role of POS systems in restaurant operations, highlighting their centrality in transaction processing.](https://www.synergysuite.com/blog/what-is-a-restaurant-pos-system-pos-definition-types-and-benefits/)

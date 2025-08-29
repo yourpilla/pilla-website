@@ -38,21 +38,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 House blend means a special mix of ingredients, usually coffee or tea, made and served by a particular place. This blend is usually exclusive to that location and is the flavour profile of the house. In coffee shops, a house blend is a combination of different coffee beans to create a balanced taste. For bars or restaurants, it might be a special mix of spirits or spices used in signature cocktails or dishes.
 
 House blend is important in hospitality because it’s a unique selling point and helps build brand. By creating a blend that can’t be found anywhere else, you encourage customer loyalty and repeat business. House blends also allow you to have consistency of taste across different locations so customers have a familiar experience wherever they go.
 
 Imagine yourself as a bartender at a busy cocktail bar. Your manager asks you to create a new house blend for a signature martini. You try different gins and vermouth ratios and finally settle on a blend that balances juniper notes with herbal undertones. This becomes your bar’s house blend for martinis and you’re now different from the competition. Regulars have a reason to come back for that unique taste they can’t find anywhere else.'
-
-## External Reading
-
-
-
-## External Reading
-
-*   [This blog post from Revolution Ordering explores the meaning of hospitality, providing insights into its significance in the hospitality industry.](https://www.revolutionordering.com/blog/hospitality-meaning)
-*   [BinWise offers a detailed definition of hospitality, explaining its core principles and relevance to the industry.](https://home.binwise.com/blog/hospitality-definition)
-*   [HiJiffy provides a comprehensive glossary of hospitality terms, enhancing understanding of industry-specific language.](https://www.hijiffy.com/resources/glossary)
-*   [Eat App's blog post defines hospitality and discusses its impact on creating positive guest experiences.](https://restaurant.eatapp.co/blog/what-is-hospitality)
-*   [EHL Insights offers a complete guide to hospitality management, covering key aspects of managing hospitality operations.](https://hospitalityinsights.ehl.edu/hospitality-management)

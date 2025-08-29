@@ -38,21 +38,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 Payroll is the process of calculating and paying wages to employees. It's tracking hours worked, calculating gross pay, deducting taxes and other withholdings and paying paycheques or direct deposit. Payroll also means keeping accurate records of all employee compensation and ensuring compliance with labour laws and tax regulations.
 
 In the hospitality industry payroll is a big part of operations. It's often one of the biggest expenses for hotels, restaurants and other hospitality businesses. Getting payroll right means staff are paid correctly and on time which is key to staff satisfaction and retention. It also helps you budget and comply with tax laws and avoid penalties.
 
 Let’s say you're a restaurant manager and you have a busy kitchen to manage. Your head chef Sarah worked 50 hours this week, 10 of which were overtime. When you process payroll you would calculate her regular pay for 40 hours, then add the overtime at 1.5 times her hourly rate. You would also need to add in any tips she's earned and deduct the relevant taxes. By getting payroll right you ensure Sarah is paid fairly for her hard work, which keeps her motivated and committed to your restaurant's success.'
-
-## External Reading
-
-
-
-## External Reading
-
-*   [This article provides a comprehensive guide for hospitality business owners on understanding and implementing effective payroll processing practices.](https://altametrics.com/topics/essential-steps-for-processing-payroll-in-the-hospitality-industry/)
-*   [This guide from Paperchase explains payroll processing in hospitality, covering employee compensation including wages, salaries, and bonuses.](https://www.paperchase.ac/management/paperchase-guide-to-payroll-processing-in-hospitality/)
-*   [Novative offers insights into handling payroll in the hospitality industry, focusing on processes like tracking hours, wages, taxes, and deductions.](https://www.novative.com/en-us/the-most-useful-steps-to-handle-the-hospitality-payroll-scheduling-processes/)
-*   [BC Open Textbooks provides an educational resource on payroll, detailing the function of paying employees in exchange for services rendered.](https://opentextbc.ca/humanresourcesinfoodservices/chapter/payroll/)
-*   [Altametrics offers a guide on conducting payroll in hospitality, with tips on compliance, tax handling, and managing employee information.](https://altametrics.com/topics/how-to-do-payroll-in-the-hospitality-industry/)

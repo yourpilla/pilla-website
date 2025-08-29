@@ -37,21 +37,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 Pour cost is a key metric in the industry that measures the cost of the ingredients to make a drink as a percentage of the selling price. It’s calculated by dividing the cost of the ingredients by the selling price then multiplying by 100. For example if a cocktail costs £2 to make and sells for £10 the pour cost would be 20%.
 
 Pour cost is a vital tool for any hospitality business to manage profit. By tracking pour costs managers can see which drinks are most profitable, spot waste or over pouring and adjust prices or recipes as needed. A low pour cost means higher profit margins, a high pour cost means you need to adjust pricing or portioning.
 
 Let’s say you’re a bar manager at a busy club. You notice your mojitos have a pour cost of 30% which is above your target of 20%. You investigate and find the bartenders are over pouring the rum. You decide to do a training session on measuring techniques and introduce jiggers to ensure consistent pours. A month later you re-calculate the pour cost and it’s down to 22%, much closer to your target. This has increased your bar’s profit without changing the drink’s price or quality.'
-
-## External Reading
-
-
-
-## External Reading
-
-*   [Comprehensive guide from Sculpture Hospitality explaining how to calculate pour cost, a key metric in bar management.](https://www.sculpturehospitality.com/blog/how-to-calculate-pour-cost)
-*   [Detailed explanation of pour cost percentage and its calculation, provided by Sculpture Hospitality.](https://www.sculpturehospitality.com/blog/bar-inventory-what-is-pour-cost-percentage-and-how-is-it-calculated)
-*   [Provi's guide on understanding bar and beverage costs, including pour cost as a percentage of revenue.](https://www.provi.com/blog/operations/understanding-bar-and-beverage-costs)
-*   [Bernick's guide on beverage costing, covering the calculation of cost percentages including pour cost.](https://www.bernicks.com/blog/beverage-costing-guide)
-*   [Perfect Venue's article on drinks pricing, discussing target pour cost and its impact on pricing strategies.](https://www.perfectvenue.com/post/drinks-pricing)

@@ -36,21 +36,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 Turnover in hospitality means two things. One is the rate at which staff leave and are replaced by new ones. The other is the rate at which tables are cleared, reset and filled with new customers. Both are relevant to the industry but context usually clarifies which one is meant.
 
 Turnover is a key metric in hospitality because it directly impacts profitability and operational efficiency. High staff turnover means increased training costs, reduced productivity and potential drop in service quality. Fast table turnover in restaurants means more customers served and more revenue. However, pushing for quicker table turnover can sometimes negatively impact the dining experience, so it’s all about finding the balance.
 
 Let’s say you’re managing a busy café during lunchtime. You notice tables are being occupied long after customers have finished their meals and a queue is forming at the door. You tell your staff, 'We need to increase our turnover. Let’s politely ask finished diners to leave by offering takeaway coffee or to-go desserts.' This way you free up tables faster without rushing customers and potentially increase your lunchtime revenue while keeping the dining experience positive.
-
-## External Reading
-
-
-
-## External Reading
-
-*   [Detailed definition of staff turnover in the hospitality industry, explaining the concept and its implications.](https://www.xotels.com/en/glossary/staff-turnover)
-*   [Explores the causes of employee turnover in the hospitality sector, providing insights into retention strategies.](https://harver.com/blog/causes-of-employee-turnover-in-hospitality/)
-*   [Comprehensive explanation of employee turnover, including how it is measured and its impact on organizations.](https://www.bamboohr.com/resources/hr-glossary/employee-turnover)
-*   [Academic analysis of turnover rates in the hospitality industry, discussing factors and data-driven insights.](https://scholarsarchive.jwu.edu/cgi/viewcontent.cgi?article=1004&context=hosp_graduate)
-*   [A guide to understanding employee turnover, its calculation, and strategies to manage it effectively.](https://www.paylocity.com/resources/resource-library/blog-post/employee-turnover/)

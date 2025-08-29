@@ -40,21 +40,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 A touchpoint is any moment of interaction between a guest and your business. This includes both physical and digital interactions, from the first time they visit your website to check-out. Touchpoints can be direct, like talking to a receptionist, or indirect, like reading reviews. They happen before, during and after a guest's stay and shape their overall experience and perception of your brand.
 
 Touchpoints matter because they are the building blocks of the guest experience. Each interaction is an opportunity to wow, delight or disappoint. By mapping and optimising touchpoints you can create a seamless guest journey and increase satisfaction and loyalty. Well-managed touchpoints can turn first-time visitors into repeat customers and brand advocates.
 
 Let’s say you run a trendy café. You’ve identified several key touchpoints: your social media presence, the greeting at the door, the menu presentation, the food quality, and the payment process. You decide to focus on the menu presentation. You train your staff to enthusiastically describe daily specials, highlighting local ingredients. You also redesign the menu with eye-catching graphics and clear descriptions. As a result, you see an increase in sales of featured items and positive feedback about the dining experience. This touchpoint has increased guest satisfaction and your bottom line, proving that focusing on these moments of interaction works.'
-
-## External Reading
-
-
-
-## External Reading
-
-*   [This resource provides a detailed explanation of guest touchpoints in the hospitality industry, focusing on creating a 5-star experience by mastering key interactions.](https://botshot.ai/resources/blog/guest-touchpoints)
-*   [Offers a comprehensive overview of 19 crucial touchpoints in the hotel guest journey, ensuring positive interactions before, during, and after a guest's stay.](https://operto.com/hotel-guest-journey-touchpoints/)
-*   [Discusses the importance of defining and recognizing customer experience touchpoints to enhance branded and valued experiences, applicable to hospitality settings.](https://www.kimberlysundt.com/blog/customer-experience-touchpoints)
-*   [Provides a definition and exploration of touchpoints within the hospitality and tourism industry, focusing on guest interactions throughout their journey.](https://library.fiveable.me/key-terms/introduction-to-hospitality-and-tourism/touchpoints)
-*   [Explains the difference between touchpoints and channels in customer journey mapping, relevant for understanding customer needs in hospitality.](https://uxpressia.com/blog/touchpoints-and-channels-customer-journey-mapping)

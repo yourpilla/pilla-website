@@ -37,21 +37,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 MOD stands for Manager on Duty. This is the senior staff member in charge of the hotel during a specific shift. This role rotates among managers so there’s always someone to handle issues, make decisions and maintain service standards. The MOD is the point of contact for staff and guests alike, to address concerns and manage any unexpected situations that may arise.
 
 The MOD is the hub of hospitality operations. It provides a clear line of command, simplifies decision making and puts guest satisfaction first. With a MOD, staff have someone to authorise special requests, resolve conflicts or handle emergencies. This role also maintains service standards across different shifts and departments to give a seamless guest experience.
 
 Imagine this: You’re on the front desk of a busy hotel on a Saturday night. A guest comes to you looking upset about the noise from the room next door. You’ve already sent security to check on the situation but the guest is demanding compensation. This is beyond your authority so you call the Manager on Duty. The MOD quickly assesses the situation, talks to the guest and decides to offer a complimentary upgrade to a quieter room. The guest leaves happy and you now know how to handle this situation in the future. This is how the MOD role supports staff, resolves issues quickly and maintains guest satisfaction – all the key elements of good hospitality management.'
-
-## External Reading
-
-
-
-## External Reading
-
-*   [This LinkedIn article provides a detailed explanation of the role of a Manager on Duty (MOD) in the hospitality industry, highlighting their responsibilities and importance.](https://www.linkedin.com/pulse/manager-duty-mod-pritom-baruah#:~:text=In%20the%20hospitality%20industry%2C%20the,or%20emergencies%20that%20may%20arise.)
-*   [This resource offers a comprehensive glossary of hotel terms and acronyms, including a definition of MOD (Manager on Duty), which is crucial for understanding hospitality operations.](https://www.hotelcontractbeds.co.uk/blog/hotel-terms-and-acronyms)
-*   [This study guide from Fiveable Library provides an overview of the hospitality industry's scope, offering foundational knowledge that includes roles like MOD.](https://library.fiveable.me/hospitality-management/unit-1/definition-scope-hospitality-industry/study-guide/u7qtIc5mHWGyrnOK)
-*   [HiJiffy's glossary is a valuable resource for understanding various hospitality terms, including MOD, enhancing industry knowledge.](https://www.hijiffy.com/resources/glossary)
-*   [This document from Uttarakhand Open University offers an in-depth introduction to the hospitality industry, covering key roles and responsibilities such as the MOD.](https://uou.ac.in/sites/default/files/slm/DHA-101.pdf)

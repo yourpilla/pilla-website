@@ -38,21 +38,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 An entremetier is a chef who cooks vegetables, soups, starches and eggs in a professional kitchen. This is a key part of the kitchen brigade system where kitchen staff are divided into specific roles with defined tasks. The entremetier's work is the foundation of many dishes, from sides to main courses, so they are the backbone of any kitchen.
 
 The entremetier is crucial to hospitality because they create the components that can make or break a meal. They cook vegetables to perfection, make flavourful soups and prepare various starches so dishes are balanced and satisfying. In high-end restaurants the entremetier can take simple ingredients and turn them into something extraordinary.
 
 Imagine this: you're the head chef of a busy gastropub on a Friday night. The dining room is full and orders are coming in thick and fast. Your entremetier Sarah is juggling multiple tasks. She's blanching green beans for the fish special, stirring a pot of creamy potato soup and monitoring the risotto for the veggie main course. As you call out orders she responds with precision, her vegetable sides and starters are ready to plate alongside the main proteins. She's keeping the kitchen flowing so you can focus on final presentations and quality control. Without an efficient entremetier like Sarah, service would quickly descend into chaos and the quality of your dishes would suffer.
-
-## External Reading
-
-
-
-## External Reading
-
-*   [This guide from Indeed explains the kitchen brigade system, including the role of the entremetier, providing a comprehensive overview relevant to hospitality.](https://www.indeed.com/hire/c/info/kitchen-brigade-system)
-*   [Chef Sac provides an in-depth look at the entremetier station, detailing the responsibilities and importance within the kitchen brigade system.](https://www.chefsac.com/blogs/news/decoding-professional-kitchens-the-entremetier-station)
-*   [The Morning Advertiser offers an explanation of various chef roles, including the entremetier, within the kitchen hierarchy.](https://www.morningadvertiser.co.uk/Article/2020/07/07/Kitchen-Hierarchy-The-Different-Types-of-Chefs-Titles-Explained/)
-*   [High Speed Training provides a detailed guide on the kitchen hierarchy, explaining the role of the entremetier and its variations in larger kitchens.](https://www.highspeedtraining.co.uk/hub/kitchen-hierarchy-brigade-de-cuisine/)
-*   [BBC Bitesize outlines the roles and responsibilities in hospitality, including the entremetier, offering an educational perspective on kitchen roles.](https://www.bbc.co.uk/bitesize/guides/zb6njhv/revision/1)

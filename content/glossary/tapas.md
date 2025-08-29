@@ -36,21 +36,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 Tapas are small plates of food from Spain. Served in bars and restaurants as snacks or starters, often with drinks. Tapas can be as simple as olives and cheese or as complex as patatas bravas or croquettes. The idea is to share and socialise, so you can try lots of different flavours in one sitting.
 
 Tapas have become a global trend in dining, offering hospitality businesses a way to add variety to their menus and create a more interesting dining experience. By serving tapas, restaurants and bars can increase spend as customers order multiple dishes. Tapas also encourage longer stays and therefore more drink sales. Tapas can also reduce food waste as smaller portions mean better stock control.
 
 So you’re running a wine bar and want to increase food sales? Introduce a tapas menu to match your wine list. Train your staff to suggest tapas to pair with different wines. For example, a server might say, 'Our Albariño goes perfectly with the garlic prawns tapas. The wine’s acidity cuts through the richness of the dish, it’s a match made in heaven.' This will not only increase sales but also make you look knowledgeable and customer centric.
-
-## External Reading
-
-
-
-## External Reading
-
-*   [Detailed description of tapas and how to order them, providing a practical understanding of the concept.](https://azahar-sevilla.com/sevilletapas/tapas-101/)
-*   [Explains the unique dining experience offered by tapas restaurants, highlighting their cultural and social significance.](https://www.cuboh.com/blog/what-is-a-tapas-restaurant)
-*   [Discusses the definition and business potential of tapas as a gastronomic format, offering insights into their application in hospitality.](https://quescrem.es/en/blog-en/training/spanish-tapas-a-perfect-gastronomic-format-for-your-business/)
-*   [Provides an overview of tapas, including their origins and how they are served, useful for understanding their role in hospitality.](https://www.webstaurantstore.com/blog/4456/what-are-tapas.html?srsltid=AfmBOorBvKPxm4Kne-coesCgeT0BzADkmA2U46ZhStXjkbDQpNk7w9xu)
-*   [Offers a comprehensive guide to Spanish tapas, explaining their cultural background and culinary significance.](https://guide.michelin.com/en/article/features/guide-to-spanish-tapas)

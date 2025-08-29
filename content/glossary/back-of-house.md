@@ -36,7 +36,6 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 The secret sauce happens 'back of house' meaning the area that customers don't see. This article unpacks the back of house in hospitality business and retail settings, its roles, significance, and challenges, providing insight into the invisible force that propels restaurant and retail success.
 
 The back of the house (BOH) is all the areas away from the customer's view. It is a bustling environment where food is transformed into dishes and stock is converted into products. It's where the back of house employees, from line cooks to the back of house staff manager, work diligently to get everything ready for customers. The BOH is indeed the lifeblood of the restaurant and retail business, a vital cog in the wheel.
@@ -70,15 +69,3 @@ The line cooks are the foot soldiers of the BOH, responsible for the actual cook
 Inventory specialists ensure that all necessary items, from ingredients to service wear, are adequately stocked. They possess strong organisational skills and a clear understanding of the business's budget and inventory requirements. Inventory specialists have several key responsibilities, including monitoring spending, managing inventory turnover, working on minimising losses within the establishment, handling the placement of orders for inventory and supplies, and maintaining communication with both staff and management regarding inventory levels.
 
 The stockroom manager's responsibilities include overseeing inventory and managing the stockroom, ensuring all stock management procedures are adhered to, maintaining a safe working environment for both staff and customers, and planning the use of storage space to ensure the BOH operates smoothly.
-
-## External Reading
-
-
-
-## External Reading
-
-*   [This guide provides an in-depth look at restaurant back of house operations, offering insights into modern BOH technology and management strategies.](https://www.restaurant365.com/blog/restaurant-back-of-house-guide/)
-*   [An educational resource from Torrens University that explains the roles and responsibilities of back of house teams in hospitality settings.](https://www.torrens.edu.au/stories/blog/hospitality/the-difference-between-the-front-of-house-and-back-of-house)
-*   [This article discusses the differences between front and back of house operations, focusing on the essential roles and functions of BOH in restaurants.](https://www.webstaurantstore.com/article/5/front-of-house-vs-back-of-house.html)
-*   [Indeed provides a comprehensive overview of back of house areas, detailing the various roles and operational aspects within hospitality.](https://www.indeed.com/career-advice/finding-a-job/front-of-house-vs-back-of-house)
-*   [Cuboh's guide explores the meaning and roles of back of house staff, highlighting their contributions to restaurant efficiency and operations.](https://www.cuboh.com/blog/back-of-house-meaning)

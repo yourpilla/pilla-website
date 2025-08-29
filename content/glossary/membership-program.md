@@ -37,21 +37,8 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 A membership programme is a structured way to reward and retain customers by giving them exclusive benefits, discounts or services in return for joining. In hospitality, these programmes often involve point accumulation, tiered status levels and special perks for frequent guests or diners. Membership programmes give a sense of loyalty and encourage repeat business by adding value to customers who choose to opt in.
 
 For hospitality businesses, membership programmes are a powerful way to build relationships and drive revenue. They give you valuable data on customer preferences and behaviour so you can tailor your offerings and marketing. They also help you differentiate your business from the competition, giving members a reason to choose you over others. By giving them exclusive benefits, you can increase customer satisfaction and create a community of loyal customers who will recommend you to others.
 
 Let’s say you’re the manager of a busy local café. You have many regular customers but you want to encourage more frequent visits and bigger spends. You decide to introduce a membership programme where customers earn points for every pound they spend. After 100 points, members get a free coffee and pastry. Members also get early access to seasonal menu items and invitations to special tasting events. You also create a tiered system where customers who visit more frequently or spend more get extra perks like priority seating or a birthday treat. As a result, you see more customer visits, higher average spend per visit, and more positive word of mouth, leading to increased business success.
-
-## External Reading
-
-
-
-## External Reading
-
-*   [This guide from Botshot provides an in-depth look at hotel loyalty programs, detailing how to create effective membership programs to attract and retain guests.](https://botshot.ai/resources/blog/hotel-loyalty-programs)
-*   [Amadeus Hospitality offers a comprehensive guide on creating and optimizing hotel guest loyalty programs, providing insights into effective membership strategies.](https://www.amadeus-hospitality.com/resources/the-hoteliers-guide-to-loyalty/)
-*   [Oracle Help Center provides detailed documentation on guest loyalty programs, explaining how membership programs function across various hospitality sectors.](https://docs.oracle.com/cd/F34189_01/doc.201/f42091/c_loyalty_guest_loyalty_programs.htm)
-*   [eZee Absolute's blog offers a step-by-step guide on implementing hotel loyalty programs, focusing on strategies for guest retention and acquisition.](https://www.ezeeabsolute.com/blog/hotel-loyalty-program/)
-*   [Loyaltyxpert delivers an essential guide for hoteliers on mastering hotel loyalty programs, emphasizing structured rewards and guest engagement strategies.](https://www.loyaltyxpert.com/blog/mastering-hotel-loyalty-programs-essential-guide-for-hoteliers/)

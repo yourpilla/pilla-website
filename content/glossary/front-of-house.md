@@ -36,7 +36,6 @@ sidebar_image: >-
   https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format
 sidebar_image_alt: Hospitality glossary term
 ---
-
 When you think of a house front, an image of a building’s facade might come to mind. But in the restaurant industry and the retail industry, the front of house is the area where magic happens, where guests are welcomed, wined, dined, served, and bid farewell.
 
 FOH stands for Front of House, a term that covers all customer-facing aspects of a restaurant and retail operation. From the waiting area to the dining room, bar and shop floor, these spaces form all of the guest’s experience. The FOH meaning extends beyond these physical spaces, encompassing all actions that a customer can witness during their visit, contrasting with the back of house (BOH), where behind-the-scenes tasks like food preparation and stock control take place.
@@ -90,15 +89,3 @@ Cashier
 Cashiers, being the last point of contact for customers, give them a unique opportunity to leave a lasting impression. They are responsible for handling transactions with efficiency and accuracy, ensuring a smooth checkout process.
 
 Cashiers must be adept at managing cash registers, processing payments, and addressing any billing queries. Their role extends beyond mere transactions; they are ambassadors of customer service, often tasked with answering questions, providing information about loyalty programs, and handling returns or exchanges with a positive attitude that reflects the establishment's commitment to customer satisfaction.
-
-## External Reading
-
-
-
-## External Reading
-
-*   [Comprehensive guide explaining the roles, skills, and challenges of Front of House (FOH) staff in restaurants.](https://www.cuboh.com/blog/front-of-house-meaning)
-*   [Detailed resource outlining the roles and responsibilities of front of house positions in hospitality.](https://www.eposnow.com/ca/resources/front-of-house-positions/)
-*   [Explains the meaning of FOH and its significance in the dining space and bar areas visible to customers.](https://www.7shifts.com/blog/restaurant-lingo-defined/)
-*   [Educational article from Torrens University Australia discussing the differences between front and back of house in hospitality.](https://www.torrens.edu.au/stories/blog/hospitality/the-difference-between-the-front-of-house-and-back-of-house)
-*   [Insightful article from Indeed defining front and back of house roles and offering improvement strategies.](https://www.indeed.com/career-advice/finding-a-job/front-of-house-vs-back-of-house)
