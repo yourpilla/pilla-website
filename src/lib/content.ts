@@ -58,7 +58,18 @@ export interface ContentItem {
   };
 }
 
-export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools' | 'answers'): ContentItem[] {
+export interface TestimonialItem extends ContentItem {
+  name: string;
+  role?: string;
+  company?: string;
+  imageUrl?: string;
+  platform: string;
+  platformUrl: string;
+  platformLogo: string;
+  priority?: number;
+}
+
+export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools' | 'answers' | 'testimonials'): ContentItem[] {
   const categoryPath = path.join(contentDirectory, category);
   
   if (!fs.existsSync(categoryPath)) {
@@ -215,4 +226,44 @@ export function getFAQsByUIDs(uids: string[]): ContentItem[] {
   }
   
   return faqs;
+}
+
+// Get all testimonials with proper typing and sorting
+export function getTestimonials(): TestimonialItem[] {
+  const testimonials = getContentByCategory('testimonials');
+  
+  return testimonials.map(item => ({
+    ...item,
+    name: item.frontmatter.name as string || item.title,
+    role: item.frontmatter.role as string,
+    company: item.frontmatter.company as string,
+    imageUrl: item.frontmatter.imageUrl as string,
+    platform: item.frontmatter.platform as string,
+    platformUrl: item.frontmatter.platformUrl as string,
+    platformLogo: item.frontmatter.platformLogo as string,
+    priority: item.frontmatter.priority as number || 0,
+  } as TestimonialItem))
+  .sort((a, b) => {
+    // Featured testimonials first
+    if (a.featured && !b.featured) return -1;
+    if (!a.featured && b.featured) return 1;
+    
+    // Then by priority (higher first)
+    if (a.priority !== b.priority) return (b.priority || 0) - (a.priority || 0);
+    
+    // Finally alphabetically by name
+    return a.name.localeCompare(b.name);
+  });
+}
+
+// Get featured testimonial
+export function getFeaturedTestimonial(): TestimonialItem | null {
+  const testimonials = getTestimonials();
+  return testimonials.find(t => t.featured) || testimonials[0] || null;
+}
+
+// Get non-featured testimonials for masonry layout
+export function getRegularTestimonials(): TestimonialItem[] {
+  const testimonials = getTestimonials();
+  return testimonials.filter(t => !t.featured);
 }
