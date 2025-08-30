@@ -58,6 +58,13 @@ export interface ContentItem {
   };
 }
 
+export interface DocItem extends ContentItem {
+  order?: number;
+  sidebarImage?: string;
+  sidebarImageAlt?: string;
+  section: string; // e.g., "getting-started", "user-management"
+}
+
 export interface TestimonialItem extends ContentItem {
   name: string;
   role?: string;
@@ -69,7 +76,7 @@ export interface TestimonialItem extends ContentItem {
   priority?: number;
 }
 
-export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools' | 'answers' | 'testimonials'): ContentItem[] {
+export function getContentByCategory(category: 'blog' | 'jobs' | 'glossary' | 'legal' | 'tools' | 'answers' | 'testimonials' | 'docs'): ContentItem[] {
   const categoryPath = path.join(contentDirectory, category);
   
   if (!fs.existsSync(categoryPath)) {
@@ -272,4 +279,51 @@ export function getRegularTestimonials(): TestimonialItem[] {
 export function getFooterTestimonials(): TestimonialItem[] {
   const testimonials = getTestimonials();
   return testimonials.filter(t => t.frontmatter.footer === true);
+}
+
+// Docs functions
+export function getDocs(): DocItem[] {
+  const items = getContentByCategory('docs');
+  return items.map(item => {
+    // Extract section from file path structure
+    const docsPath = path.join(contentDirectory, 'docs');
+    const files = getAllMarkdownFiles(docsPath);
+    const matchingFile = files.find(file => path.basename(file, '.md') === item.slug);
+    
+    let section = 'general';
+    if (matchingFile) {
+      const relativePath = path.relative(docsPath, matchingFile);
+      section = path.dirname(relativePath);
+      if (section === '.') section = 'general';
+    }
+    
+    return {
+      ...item,
+      section,
+      order: item.frontmatter.order as number || 999,
+      sidebarImage: item.frontmatter.sidebar_image as string,
+      sidebarImageAlt: item.frontmatter.sidebar_image_alt as string,
+    } as DocItem;
+  }).sort((a, b) => {
+    // Sort by section first, then by order
+    if (a.section !== b.section) {
+      return a.section.localeCompare(b.section);
+    }
+    return (a.order || 999) - (b.order || 999);
+  });
+}
+
+export function getDocsBySection(section: string): DocItem[] {
+  const docs = getDocs();
+  return docs.filter(doc => doc.section === section);
+}
+
+export function getDocSections(): Array<{section: string, docs: DocItem[]}> {
+  const docs = getDocs();
+  const sections = [...new Set(docs.map(doc => doc.section))];
+  
+  return sections.map(section => ({
+    section,
+    docs: docs.filter(doc => doc.section === section)
+  }));
 }

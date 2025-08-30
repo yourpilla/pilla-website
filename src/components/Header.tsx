@@ -114,6 +114,10 @@ export default function Header() {
               )}
             </div>
 
+            <Link href="/docs" className="h6">
+              Docs
+            </Link>
+
             <Link href="/pricing" className="h6">
               Pricing
             </Link>
@@ -170,6 +174,12 @@ export default function Header() {
                     ))}
                   </DisclosurePanel>
                 </Disclosure>
+                <Link
+                  href="/docs"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                >
+                  Docs
+                </Link>
                 <Link
                   href="/pricing"
                   className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
