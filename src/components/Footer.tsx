@@ -1,8 +1,5 @@
-'use client'
-
 import Link from 'next/link'
 import { getFooterTestimonials } from '@/lib/content'
-import { useEffect, useState } from 'react'
 
 const navigation = {
   solutions: [
@@ -30,12 +27,7 @@ const navigation = {
 }
 
 export default function Footer() {
-  const [footerTestimonials, setFooterTestimonials] = useState<any[]>([])
-
-  useEffect(() => {
-    setFooterTestimonials(getFooterTestimonials())
-  }, [])
-
+  const footerTestimonials = getFooterTestimonials()
   const testimonial = footerTestimonials[0] // Get the first footer testimonial
 
   return (
