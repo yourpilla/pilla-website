@@ -211,6 +211,38 @@ export default function HowItWorksPage() {
                 </p>
               </div>
             </div>
+            
+            {/* Call to Action */}
+            <div className="mt-12 text-center">
+              <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
+                <h3 className="mb-3 subtitle-lg">
+                  Start Your Transformation Today
+                </h3>
+                <p className="text-muted mb-6">
+                  Take the first step toward streamlined operations and enhanced guest experiences with Pilla&rsquo;s comprehensive platform.
+                </p>
+                <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                  <Link
+                    href="/contact"
+                    className="inline-flex items-center px-6 py-3 btn rounded-default transition-colors"
+                  >
+                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                    </svg>
+                    Get Started Now
+                  </Link>
+                  <Link
+                    href="/about"
+                    className="inline-flex items-center px-6 py-3 bg-card link-nav rounded-default border-default hover:bg-blue-50 transition-colors"
+                  >
+                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    Learn More
+                  </Link>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
