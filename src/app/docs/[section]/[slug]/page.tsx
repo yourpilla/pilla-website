@@ -84,10 +84,10 @@ export default async function DocPage({ params }: DocsPageProps) {
   return (
     <>
       <div className="bg-main">
-        <div className="mx-auto max-w-4xl px-6 py-8 pb-24 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <div className="mx-auto max-w-7xl px-6 py-8 pb-24 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
             {/* Main Content */}
-            <div className="lg:col-span-2">
+            <div className="lg:col-span-3">
               <article className="prose prose-lg max-w-none">
                 <MarkdownContent content={doc.content} />
               </article>
@@ -123,37 +123,12 @@ export default async function DocPage({ params }: DocsPageProps) {
               </div>
             </div>
 
-            {/* Sidebar Image & Support */}
+            {/* What's on this page - Table of Contents */}
             <div className="lg:col-span-1">
-              <div className="sticky top-4 space-y-6">
-                <Image
-                  src={sidebarImage}
-                  alt={sidebarImageAlt}
-                  width={400}
-                  height={300}
-                  className="w-full rounded-lg shadow-sm"
-                />
-                
-                {/* Quick Support */}
-                <div className="rounded-lg bg-white p-4 shadow-sm ring-1 ring-gray-200">
-                  <h4 className="text-sm font-semibold text-gray-900">Need help?</h4>
-                  <p className="mt-1 text-sm text-gray-600">
-                    Can&apos;t find what you&apos;re looking for?
-                  </p>
-                  <div className="mt-3 space-y-2">
-                    <Link
-                      href="mailto:support@yourpilla.com"
-                      className="block text-sm text-blue-600 hover:text-blue-800"
-                    >
-                      Email Support
-                    </Link>
-                    <Link
-                      href="/contact"
-                      className="block text-sm text-blue-600 hover:text-blue-800"
-                    >
-                      Contact Us
-                    </Link>
-                  </div>
+              <div className="sticky top-4">
+                <div className="white-card rounded-lg p-4">
+                  <h4 className="text-sm font-semibold text-gray-900 mb-3">What&apos;s on this page</h4>
+                  <TableOfContents content={doc.content} />
                 </div>
               </div>
             </div>

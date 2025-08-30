@@ -89,112 +89,40 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
   return (
     <div className="bg-main">
       {/* Documentation List */}
-      <div className="mx-auto max-w-7xl px-6 py-8 lg:px-8">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-          {/* Main Content */}
-          <div className="lg:col-span-2">
-            <h2 className="text-2xl font-bold text-gray-900 mb-8">
-              Guides in this section
-            </h2>
+      <div className="mx-auto max-w-4xl px-6 py-8 lg:px-8">
+        <h2 className="text-2xl font-bold text-gray-900 mb-8">
+          Guides in this section
+        </h2>
             
-            <div className="space-y-6">
-              {sortedDocs.map((doc, index) => (
-                <Link
-                  key={doc.slug}
-                  href={`/docs/${section}/${doc.slug}`}
-                  className="block group"
-                >
-                  <div className="white-card rounded-lg p-6 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
-                    <div className="flex items-start justify-between">
-                      <div className="flex-1 min-w-0">
-                        <div className="flex items-center space-x-3 mb-2">
-                          <span className="inline-flex items-center justify-center w-6 h-6 text-xs font-medium text-blue-600 bg-blue-100 rounded-full">
-                            {index + 1}
-                          </span>
-                          <h3 className="text-lg font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">
-                            {doc.title}
-                          </h3>
-                        </div>
-                        {doc.meta && (
-                          <p className="text-sm text-gray-600 line-clamp-2">
-                            {doc.meta}
-                          </p>
-                        )}
-                      </div>
-                      <ChevronRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0 ml-4" />
+        <div className="space-y-6">
+          {sortedDocs.map((doc, index) => (
+            <Link
+              key={doc.slug}
+              href={`/docs/${section}/${doc.slug}`}
+              className="block group"
+            >
+              <div className="white-card rounded-lg p-6 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
+                <div className="flex items-start justify-between">
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center space-x-3 mb-2">
+                      <span className="inline-flex items-center justify-center w-6 h-6 text-xs font-medium text-blue-600 bg-blue-100 rounded-full">
+                        {index + 1}
+                      </span>
+                      <h3 className="text-lg font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">
+                        {doc.title}
+                      </h3>
                     </div>
+                    {doc.meta && (
+                      <p className="text-sm text-gray-600 line-clamp-2">
+                        {doc.meta}
+                      </p>
+                    )}
                   </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-
-          {/* Sidebar */}
-          <div className="lg:col-span-1">
-            <div className="sticky top-4 space-y-8">
-              {/* Quick Start */}
-              <div className="bg-blue-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-900 mb-3">
-                  Quick Start
-                </h3>
-                <p className="text-sm text-gray-600 mb-4">
-                  New to this section? Start with the first guide to get up and running quickly.
-                </p>
-                <Link
-                  href={`/docs/${section}/${sortedDocs[0]?.slug}`}
-                  className="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded-md transition-colors"
-                >
-                  Start Here
-                  <ChevronRightIcon className="ml-2 h-4 w-4" />
-                </Link>
-              </div>
-
-              {/* Section Navigation */}
-              <div className="bg-gray-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-900 mb-4">
-                  Other Sections
-                </h3>
-                <nav className="space-y-2">
-                  {Object.entries(SECTION_INFO)
-                    .filter(([key]) => key !== section)
-                    .map(([key, info]) => (
-                      <Link
-                        key={key}
-                        href={`/docs/${key}`}
-                        className="flex items-center space-x-3 text-sm text-gray-600 hover:text-gray-900 transition-colors"
-                      >
-                        <span className="text-base">{info.icon}</span>
-                        <span>{info.title}</span>
-                      </Link>
-                    ))}
-                </nav>
-              </div>
-
-              {/* Support */}
-              <div className="bg-gray-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-900 mb-3">
-                  Need Help?
-                </h3>
-                <p className="text-sm text-gray-600 mb-4">
-                  Can&apos;t find what you&apos;re looking for?
-                </p>
-                <div className="space-y-2">
-                  <Link
-                    href="mailto:support@yourpilla.com"
-                    className="block text-sm text-blue-600 hover:text-blue-800"
-                  >
-                    Email Support
-                  </Link>
-                  <Link
-                    href="/contact"
-                    className="block text-sm text-blue-600 hover:text-blue-800"
-                  >
-                    Contact Us
-                  </Link>
+                  <ChevronRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0 ml-4" />
                 </div>
               </div>
-            </div>
-          </div>
+            </Link>
+          ))}
         </div>
       </div>
     </div>

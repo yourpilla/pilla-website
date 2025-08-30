@@ -78,33 +78,30 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
   };
 
   return (
-    <div className="hidden xl:block">
-      <div className="text-sm">
-        <div className="font-medium text-gray-900 mb-3">On This Page</div>
-        <nav>
-          <ul className="space-y-2">
-            {toc.map(({ id, text, level }) => (
-              <li key={id}>
-                <button
-                  onClick={() => scrollToHeading(id)}
-                  className={`block text-left w-full transition-colors ${
-                    level === 1 ? 'font-medium' : ''
-                  } ${
-                    level === 2 ? 'pl-4' : level === 3 ? 'pl-8' : ''
-                  } ${
-                    activeId === id
-                      ? 'text-blue-600'
-                      : 'text-gray-600 hover:text-gray-900'
-                  }`}
-                  style={{ fontSize: level === 1 ? '0.875rem' : '0.8125rem' }}
-                >
-                  {text}
-                </button>
-              </li>
-            ))}
-          </ul>
-        </nav>
-      </div>
+    <div className="text-sm">
+      <nav>
+        <ul className="space-y-2">
+          {toc.map(({ id, text, level }) => (
+            <li key={id}>
+              <button
+                onClick={() => scrollToHeading(id)}
+                className={`block text-left w-full py-1 transition-colors ${
+                  level === 1 ? 'font-medium' : ''
+                } ${
+                  level === 2 ? 'pl-4' : level === 3 ? 'pl-6' : ''
+                } ${
+                  activeId === id
+                    ? 'text-blue-600 font-medium'
+                    : 'text-gray-600 hover:text-gray-900'
+                }`}
+                style={{ fontSize: level === 1 ? '0.875rem' : '0.8125rem' }}
+              >
+                {text}
+              </button>
+            </li>
+          ))}
+        </ul>
+      </nav>
     </div>
   );
 }

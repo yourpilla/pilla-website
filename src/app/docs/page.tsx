@@ -53,102 +53,51 @@ export default function DocsPage() {
   return (
     <div className="bg-main">
       {/* Documentation Sections */}
-      <div className="mx-auto max-w-7xl px-6 py-8 lg:px-8">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-          {/* Main Content */}
-          <div className="lg:col-span-2">
-            <h2 className="text-2xl font-bold text-gray-900 mb-8">
-              Documentation Sections
-            </h2>
+      <div className="mx-auto max-w-4xl px-6 py-8 lg:px-8">
+        <h2 className="text-2xl font-bold text-gray-900 mb-8">
+          Documentation Sections
+        </h2>
             
-            <div className="space-y-6">
-              {sections.map(({ section, docs }) => {
-                const sectionInfo = SECTION_INFO[section as keyof typeof SECTION_INFO] || {
-                  title: section.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase()),
-                  description: `Documentation for ${section}`,
-                  icon: '📖',
-                  color: 'bg-gray-50',
-                  iconColor: 'text-gray-600',
-                };
+        <div className="space-y-6">
+          {sections.map(({ section, docs }) => {
+            const sectionInfo = SECTION_INFO[section as keyof typeof SECTION_INFO] || {
+              title: section.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase()),
+              description: `Documentation for ${section}`,
+              icon: '📖',
+              color: 'bg-gray-50',
+              iconColor: 'text-gray-600',
+            };
 
-                return (
-                  <Link
-                    key={section}
-                    href={`/docs/${section}`}
-                    className="block group"
-                  >
-                    <div className="white-card rounded-lg p-6 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
-                      <div className="flex items-start justify-between">
-                        <div className="flex-1 min-w-0">
-                          <div className="flex items-center space-x-3 mb-2">
-                            <div className={`text-2xl ${sectionInfo.iconColor}`}>
-                              {sectionInfo.icon}
-                            </div>
-                            <h3 className="text-lg font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">
-                              {sectionInfo.title}
-                            </h3>
-                          </div>
-                          <p className="text-sm text-gray-600 mb-2">
-                            {sectionInfo.description}
-                          </p>
-                          <span className="text-xs text-gray-500">
-                            {docs.length} {docs.length === 1 ? 'guide' : 'guides'}
-                          </span>
+            return (
+              <Link
+                key={section}
+                href={`/docs/${section}`}
+                className="block group"
+              >
+                <div className="white-card rounded-lg p-6 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
+                  <div className="flex items-start justify-between">
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center space-x-3 mb-2">
+                        <div className={`text-2xl ${sectionInfo.iconColor}`}>
+                          {sectionInfo.icon}
                         </div>
-                        <ArrowRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0 ml-4" />
+                        <h3 className="text-lg font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">
+                          {sectionInfo.title}
+                        </h3>
                       </div>
+                      <p className="text-sm text-gray-600 mb-2">
+                        {sectionInfo.description}
+                      </p>
+                      <span className="text-xs text-gray-500">
+                        {docs.length} {docs.length === 1 ? 'guide' : 'guides'}
+                      </span>
                     </div>
-                  </Link>
-                );
-              })}
-            </div>
-          </div>
-
-          {/* Sidebar */}
-          <div className="lg:col-span-1">
-            <div className="sticky top-4 space-y-8">
-              {/* Getting Started */}
-              <div className="bg-blue-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-900 mb-3">
-                  Getting Started
-                </h3>
-                <p className="text-sm text-gray-600 mb-4">
-                  New to Pilla? Start with our introduction guide to get up and running quickly.
-                </p>
-                <Link
-                  href="/docs/getting-started/introduction"
-                  className="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 rounded-md transition-colors"
-                >
-                  Start Here
-                  <ArrowRightIcon className="ml-2 h-4 w-4" />
-                </Link>
-              </div>
-
-              {/* Support */}
-              <div className="bg-gray-50 rounded-lg p-6">
-                <h3 className="text-lg font-semibold text-gray-900 mb-3">
-                  Need Help?
-                </h3>
-                <p className="text-sm text-gray-600 mb-4">
-                  Can&apos;t find what you&apos;re looking for?
-                </p>
-                <div className="space-y-2">
-                  <Link
-                    href="mailto:support@yourpilla.com"
-                    className="block text-sm text-blue-600 hover:text-blue-800"
-                  >
-                    Email Support
-                  </Link>
-                  <Link
-                    href="/contact"
-                    className="block text-sm text-blue-600 hover:text-blue-800"
-                  >
-                    Contact Us
-                  </Link>
+                    <ArrowRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0 ml-4" />
+                  </div>
                 </div>
-              </div>
-            </div>
-          </div>
+              </Link>
+            );
+          })}
         </div>
       </div>
     </div>
