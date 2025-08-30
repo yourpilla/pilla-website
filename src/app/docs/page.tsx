@@ -1,6 +1,6 @@
 import { redirect } from 'next/navigation';
 
-// Redirect /docs to /docs/introduction
+// Redirect /docs to /docs/getting-started/introduction
 export default function DocsPage() {
-  redirect('/docs/introduction');
+  redirect('/docs/getting-started/introduction');
 }
