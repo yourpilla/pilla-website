@@ -3,7 +3,6 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Image from 'next/image';
 import MarkdownContent from '@/components/MarkdownContent';
-import ReactMarkdown from 'react-markdown';
 
 interface GlossaryPageProps {
   params: Promise<{ slug: string }>;

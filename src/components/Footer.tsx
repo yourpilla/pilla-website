@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { getFooterTestimonials } from '@/lib/content'
 
 const navigation = {
@@ -37,7 +38,7 @@ export default function Footer() {
           {testimonial && (
             <div className="space-y-4">
               <blockquote className="text-gray-900">
-                <p>"{testimonial.content}"</p>
+                <p>&ldquo;{testimonial.content}&rdquo;</p>
               </blockquote>
               <figcaption className="flex items-center gap-x-4">
                 <div>
@@ -47,9 +48,11 @@ export default function Footer() {
                   )}
                 </div>
                 <a href={testimonial.platformUrl} target="_blank" rel="noopener noreferrer" className="flex-shrink-0">
-                  <img 
+                  <Image 
                     alt={testimonial.platform} 
                     src={testimonial.platformLogo} 
+                    width={24}
+                    height={24}
                     className="h-6 w-auto" 
                   />
                 </a>
