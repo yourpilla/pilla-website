@@ -267,3 +267,9 @@ export function getRegularTestimonials(): TestimonialItem[] {
   const testimonials = getTestimonials();
   return testimonials.filter(t => !t.featured);
 }
+
+// Get footer testimonials
+export function getFooterTestimonials(): TestimonialItem[] {
+  const testimonials = getTestimonials();
+  return testimonials.filter(t => t.frontmatter.footer === true);
+}

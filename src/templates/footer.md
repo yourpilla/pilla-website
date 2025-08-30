@@ -295,7 +295,8 @@ export default function Example() {
 - **social_icon_style**: "text-gray-600 hover:text-gray-800" | *Social media icon styling*
 
 ### Footer Bottom
-- **copyright_text**: "© 2024 Your Company, Inc. All rights reserved." | **typography**: `text-sm text-muted` | *Copyright notice*
+- **copyright_text**: "© 2025 Your Pilla Ltd. All rights reserved. Company 11639238
+VAT GB310847815" | **typography**: `text-sm text-muted` | *Copyright notice*
 - **footer_divider_style**: "border-t border-gray-900/10" | *Footer section divider styling*
 
 ---

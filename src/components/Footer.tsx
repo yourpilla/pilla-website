@@ -1,6 +1,8 @@
 'use client'
 
 import Link from 'next/link'
+import { getFooterTestimonials } from '@/lib/content'
+import { useEffect, useState } from 'react'
 
 const navigation = {
   solutions: [
@@ -28,15 +30,40 @@ const navigation = {
 }
 
 export default function Footer() {
+  const [footerTestimonials, setFooterTestimonials] = useState<any[]>([])
+
+  useEffect(() => {
+    setFooterTestimonials(getFooterTestimonials())
+  }, [])
+
+  const testimonial = footerTestimonials[0] // Get the first footer testimonial
+
   return (
     <footer className="bg-white border-t border-gray-300" style={{borderColor: 'var(--border)'}}>
       <div className="mx-auto max-w-7xl px-6 pt-16 pb-8 sm:pt-24 lg:px-8 lg:pt-32">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
-          <img
-            alt="Company name"
-            src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=600"
-            className="h-9"
-          />
+          {testimonial && (
+            <div className="space-y-4">
+              <blockquote className="text-gray-900">
+                <p>"{testimonial.content}"</p>
+              </blockquote>
+              <figcaption className="flex items-center gap-x-4">
+                <div>
+                  <div className="font-semibold text-gray-900">{testimonial.name}</div>
+                  {testimonial.role && testimonial.company && (
+                    <div className="text-gray-600 text-sm">{testimonial.role} at {testimonial.company}</div>
+                  )}
+                </div>
+                <a href={testimonial.platformUrl} target="_blank" rel="noopener noreferrer" className="flex-shrink-0">
+                  <img 
+                    alt={testimonial.platform} 
+                    src={testimonial.platformLogo} 
+                    className="h-6 w-auto" 
+                  />
+                </a>
+              </figcaption>
+            </div>
+          )}
           <div className="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
             <div className="md:grid md:grid-cols-2 md:gap-8">
               <div>
@@ -124,7 +151,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 border-t border-gray-900/10 pt-8">
           <p className="small-grey">
-            &copy; 2024 Your Company, Inc. All rights reserved.
+            &copy; 2025 Your Pilla Ltd. All rights reserved. Company 11639238 VAT GB310847815
           </p>
         </div>
       </div>
