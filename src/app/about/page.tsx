@@ -57,24 +57,6 @@ export default function AboutPage() {
                 <div className="mt-6 small-grey">
                   <p>Empowering hospitality professionals with comprehensive management tools, expert guidance, and innovative solutions.</p>
                 </div>
-                
-                {/* Key Values */}
-                <div className="mt-8">
-                  <div className="flex flex-wrap gap-2">
-                    <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
-                      Innovation
-                    </span>
-                    <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
-                      Excellence
-                    </span>
-                    <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
-                      Community
-                    </span>
-                    <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
-                      Growth
-                    </span>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
@@ -124,38 +106,6 @@ export default function AboutPage() {
                     We&rsquo;re committed to continuous improvement and innovation, regularly updating our platform based on 
                     user feedback and industry trends to ensure you always have access to the most current and effective tools.
                   </p>
-                </div>
-              </div>
-              
-              {/* Call to Action */}
-              <div className="mt-12 text-center">
-                <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                  <h3 className="mb-3 subtitle-lg">
-                    Ready to Transform Your Operations?
-                  </h3>
-                  <p className="text-muted mb-6">
-                    Join thousands of hospitality professionals who trust Pilla to streamline their operations and enhance their guest experiences.
-                  </p>
-                  <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                    <Link
-                      href="/contact"
-                      className="inline-flex items-center px-6 py-3 btn rounded-default transition-colors"
-                    >
-                      <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 002 2z" />
-                      </svg>
-                      Get In Touch
-                    </Link>
-                    <Link
-                      href="/blog"
-                      className="inline-flex items-center px-6 py-3 bg-card link-nav rounded-default border-default hover:bg-blue-50 transition-colors"
-                    >
-                      <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                      </svg>
-                      Learn More
-                    </Link>
-                  </div>
                 </div>
               </div>
             </div>
