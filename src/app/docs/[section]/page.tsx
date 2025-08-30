@@ -104,7 +104,7 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
                   href={`/docs/${section}/${doc.slug}`}
                   className="block group"
                 >
-                  <div className="bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
+                  <div className="white-card rounded-lg p-6 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
                     <div className="flex items-start justify-between">
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center space-x-3 mb-2">
