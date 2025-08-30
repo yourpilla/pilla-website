@@ -5,26 +5,51 @@ interface MarkdownContentProps {
   className?: string;
 }
 
+// Helper function to generate heading IDs
+function generateId(text: string): string {
+  return text
+    .toString()
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .trim();
+}
+
 export default function MarkdownContent({ content, className = "" }: MarkdownContentProps) {
   return (
     <div className={`prose prose-lg prose-blue max-w-none ${className}`}>
       <ReactMarkdown
         components={{
-          h2: ({ children }) => (
-            <h2 className="h2">{children}</h2>
-          ),
-          h3: ({ children }) => (
-            <h3 className="h3">{children}</h3>
-          ),
-          h4: ({ children }) => (
-            <h4 className="h4">{children}</h4>
-          ),
-          h5: ({ children }) => (
-            <h5 className="h5">{children}</h5>
-          ),
-          h6: ({ children }) => (
-            <h6 className="h6">{children}</h6>
-          ),
+          h1: ({ children }) => {
+            const text = children?.toString() || '';
+            const id = generateId(text);
+            return <h1 id={id} className="h1">{children}</h1>;
+          },
+          h2: ({ children }) => {
+            const text = children?.toString() || '';
+            const id = generateId(text);
+            return <h2 id={id} className="h2">{children}</h2>;
+          },
+          h3: ({ children }) => {
+            const text = children?.toString() || '';
+            const id = generateId(text);
+            return <h3 id={id} className="h3">{children}</h3>;
+          },
+          h4: ({ children }) => {
+            const text = children?.toString() || '';
+            const id = generateId(text);
+            return <h4 id={id} className="h4">{children}</h4>;
+          },
+          h5: ({ children }) => {
+            const text = children?.toString() || '';
+            const id = generateId(text);
+            return <h5 id={id} className="h5">{children}</h5>;
+          },
+          h6: ({ children }) => {
+            const text = children?.toString() || '';
+            const id = generateId(text);
+            return <h6 id={id} className="h6">{children}</h6>;
+          },
           p: ({ children }) => (
             <p className="small-blue">{children}</p>
           ),
