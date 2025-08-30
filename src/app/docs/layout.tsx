@@ -14,7 +14,7 @@ export default function DocsLayout({
         <div className="flex gap-8">
           {/* Sidebar */}
           <aside className="hidden lg:block w-64 flex-shrink-0">
-            <div className="sticky top-4 h-[calc(100vh-2rem)] overflow-y-auto">
+            <div className="sticky top-8 h-[calc(100vh-2rem)] overflow-y-auto">
               <DocsSidebar sections={sections} />
             </div>
           </aside>
