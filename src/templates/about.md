@@ -64,6 +64,7 @@
 ```tsx
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export const metadata: Metadata = {
   title: 'About Pilla - Hospitality Management Platform',
@@ -109,61 +110,50 @@ export default function AboutPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <div className="min-h-screen" style={{backgroundColor: 'var(--background)'}}>
-      {/* Main Content */}
-      <div className="max-w-4xl mx-auto px-4 py-12">
-        <div className="bg-card border-default rounded-default shadow-sm overflow-hidden">
-          {/* Breadcrumb */}
-          <div className="px-8 pt-6 pb-2">
-            <nav aria-label="Breadcrumb">
-              <ol className="flex items-center space-x-2 small-medium">
-                <li>
-                  <Link href="/" className="link-nav">
-                    Home
-                  </Link>
-                </li>
-                <li>
-                  <svg className="w-4 h-4 text-muted" fill="currentColor" viewBox="0 0 20 20">
-                    <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-                  </svg>
-                </li>
-                <li aria-current="page" className="text-muted">
-                  About
-                </li>
-              </ol>
-            </nav>
-          </div>
-          {/* Header */}
-          <div className="bg-header-group px-8 py-12 text-center">
-            <h1 className="mb-4 leading-tight">
-              About Pilla
-            </h1>
-            <p className="text-subtitle max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
-              Empowering hospitality professionals with comprehensive management tools, expert guidance, and innovative solutions.
-            </p>
-            
-            {/* Key Values */}
-            <div className="mt-8">
-              <div className="flex flex-wrap justify-center gap-2">
-                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
-                  Innovation
-                </span>
-                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
-                  Excellence
-                </span>
-                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
-                  Community
-                </span>
-                <span className="bg-card border-default small-medium px-4 py-2 rounded-default">
-                  Growth
-                </span>
+      <div className="relative isolate overflow-hidden bg-main px-6 py-24 sm:py-32 lg:overflow-visible lg:px-18">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:items-start lg:gap-y-10">
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="lg:max-w-4xl">
+              <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+                About Pilla
+              </h1>
+              <div className="mt-6 small-grey">
+                <p>Empowering hospitality professionals with comprehensive management tools, expert guidance, and innovative solutions.</p>
+              </div>
+              
+              {/* Key Values */}
+              <div className="mt-8">
+                <div className="flex flex-wrap gap-2">
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Innovation
+                  </span>
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Excellence
+                  </span>
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Community
+                  </span>
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Growth
+                  </span>
+                </div>
               </div>
             </div>
           </div>
-          
-          {/* Content */}
-          <div className="px-8 py-12">
-            <div className="text-left max-w-3xl mx-auto">
+        </div>
+        <div className="flex justify-center lg:sticky lg:top-4 lg:col-start-3 lg:row-span-2 lg:row-start-1 lg:justify-start">
+          <Image
+            src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format" 
+            alt="About Pilla - Hospitality management platform" 
+            width={400}
+            height={300}
+            className="w-full max-w-sm object-cover rounded-lg"
+          />
+        </div>
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="max-w-4xl text-base/7 text-gray-600">
               <div className="prose prose-lg max-w-none">
                 <h2>Our Mission</h2>
                 <p>

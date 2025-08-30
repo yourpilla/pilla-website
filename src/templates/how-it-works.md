@@ -76,6 +76,7 @@
 ```tsx
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export const metadata: Metadata = {
   title: 'How Pilla Works - Hospitality Management Platform',
@@ -153,61 +154,50 @@ export default function HowItWorksPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <div className="min-h-screen" style={{backgroundColor: 'var(--background)'}}>
-      {/* Main Content */}
-      <div className="max-w-4xl mx-auto px-4 py-12">
-        <div className="bg-card border-default rounded-default shadow-sm overflow-hidden">
-          {/* Breadcrumb */}
-          <div className="px-8 pt-6 pb-2">
-            <nav aria-label="Breadcrumb">
-              <ol className="flex items-center space-x-2 text-sm">
-                <li>
-                  <Link href="/" className="text-blue-600 hover:text-blue-800">
-                    Home
-                  </Link>
-                </li>
-                <li>
-                  <svg className="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                    <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
-                  </svg>
-                </li>
-                <li aria-current="page" className="text-gray-600">
-                  How It Works
-                </li>
-              </ol>
-            </nav>
-          </div>
-          {/* Header */}
-          <div className="bg-header-group px-8 py-12 text-center">
-            <h1 className="mb-4 leading-tight">
-              How Pilla Works
-            </h1>
-            <p className="text-subtitle max-w-2xl mx-auto leading-relaxed" style={{fontSize: 'var(--text-xl)'}}>
-              Transform your hospitality operations in four simple steps with our comprehensive platform designed for modern businesses.
-            </p>
-            
-            {/* Process Steps */}
-            <div className="mt-8">
-              <div className="flex flex-wrap justify-center gap-2">
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
-                  Setup
-                </span>
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
-                  Train
-                </span>
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
-                  Operate
-                </span>
-                <span className="bg-card border-default text-sm px-4 py-2 rounded-default font-medium">
-                  Improve
-                </span>
+      <div className="relative isolate overflow-hidden bg-main px-6 py-24 sm:py-32 lg:overflow-visible lg:px-18">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:items-start lg:gap-y-10">
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="lg:max-w-4xl">
+              <h1 className="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">
+                How Pilla Works
+              </h1>
+              <div className="mt-6 small-grey">
+                <p>Transform your hospitality operations in four simple steps with our comprehensive platform designed for modern businesses.</p>
+              </div>
+              
+              {/* Process Steps */}
+              <div className="mt-8">
+                <div className="flex flex-wrap gap-2">
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Setup
+                  </span>
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Train
+                  </span>
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Operate
+                  </span>
+                  <span className="bg-white border border-gray-200 text-sm px-4 py-2 rounded-lg font-medium text-gray-900">
+                    Improve
+                  </span>
+                </div>
               </div>
             </div>
           </div>
-          
-          {/* Content */}
-          <div className="px-8 py-12">
-            <div className="text-left max-w-3xl mx-auto">
+        </div>
+        <div className="flex justify-center lg:sticky lg:top-4 lg:col-start-3 lg:row-span-2 lg:row-start-1 lg:justify-start">
+          <Image
+            src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format" 
+            alt="How Pilla Works - Step-by-step hospitality management process" 
+            width={400}
+            height={300}
+            className="w-full max-w-sm object-cover rounded-lg"
+          />
+        </div>
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
+          <div className="lg:pr-4">
+            <div className="max-w-4xl text-base/7 text-gray-600">
               <div className="prose prose-lg max-w-none">
                 <h2>Getting Started is Simple</h2>
                 <p>
@@ -301,7 +291,7 @@ export default function HowItWorksPage() {
             {/* Call to Action */}
             <div className="mt-12 text-center">
               <div className="bg-card border-default rounded-default p-8 max-w-2xl mx-auto">
-                <h3 className="mb-3 font-semibold" style={{fontSize: 'var(--text-xl)'}}>
+                <h3 className="mb-3 subtitle-lg">
                   Start Your Transformation Today
                 </h3>
                 <p className="text-muted mb-6">
@@ -310,7 +300,7 @@ export default function HowItWorksPage() {
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link
                     href="/contact"
-                    className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-default hover:bg-blue-700 transition-colors"
+                    className="inline-flex items-center px-6 py-3 btn rounded-default transition-colors"
                   >
                     <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -319,7 +309,7 @@ export default function HowItWorksPage() {
                   </Link>
                   <Link
                     href="/about"
-                    className="inline-flex items-center px-6 py-3 bg-card text-blue-600 font-medium rounded-default border-default hover:bg-blue-50 transition-colors"
+                    className="inline-flex items-center px-6 py-3 bg-card link-nav rounded-default border-default hover:bg-blue-50 transition-colors"
                   >
                     <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
