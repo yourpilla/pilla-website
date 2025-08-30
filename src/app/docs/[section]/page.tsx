@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { ChevronRightIcon } from '@heroicons/react/24/outline';
+import { ChevronRightIcon, DocumentTextIcon } from '@heroicons/react/24/outline';
 import { getDocsBySection } from '@/lib/content';
 
 interface DocsSectionPageProps {
@@ -93,24 +93,25 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
               href={`/docs/${section}/${doc.slug}`}
               className="block group"
             >
-              <div className="white-card rounded-lg p-6 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
-                <div className="flex items-start justify-between">
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center space-x-3 mb-2">
-                      <span className="inline-flex items-center justify-center w-6 h-6 text-xs font-medium text-blue-600 bg-blue-100 rounded-full">
-                        {index + 1}
-                      </span>
-                      <h3 className="text-lg font-semibold text-gray-900 group-hover:text-blue-600 transition-colors">
-                        {doc.title}
-                      </h3>
-                    </div>
+              <div className="white-card rounded-lg p-4 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
+                <div className="flex items-center gap-x-6">
+                  <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
+                    <DocumentTextIcon aria-hidden="true" className="big-blue-icon" />
+                  </div>
+                  <div className="flex-auto">
+                    <h3 className="small-blue group-hover:text-blue-600 transition-colors">
+                      {doc.title}
+                    </h3>
                     {doc.meta && (
-                      <p className="text-sm text-gray-600 line-clamp-2">
+                      <p className="mt-1 small-grey line-clamp-2">
                         {doc.meta}
                       </p>
                     )}
+                    <span className="text-xs text-gray-500 mt-2 block">
+                      Guide {index + 1} of {sortedDocs.length}
+                    </span>
                   </div>
-                  <ChevronRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0 ml-4" />
+                  <ChevronRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0" />
                 </div>
               </div>
             </Link>
