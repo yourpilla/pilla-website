@@ -42,57 +42,58 @@ export default function DocsSidebar({ sections }: DocsSidebarProps) {
   };
 
   return (
-    <nav className="py-6">
-      <div className="mb-6">
-        <Link href="/docs" className="text-xl font-semibold text-gray-900 hover:text-blue-600">
-          Documentation
-        </Link>
-      </div>
-      
-      <div className="space-y-2">
-        {sections.map(({ section, docs }) => {
-          const isExpanded = expandedSections[section];
-          const sectionName = SECTION_NAMES[section] || section;
-          
-          return (
-            <div key={section}>
-              <button
-                onClick={() => toggleSection(section)}
-                className="flex items-center justify-between w-full py-2 px-3 text-left text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors"
-              >
-                <span>{sectionName}</span>
-                {isExpanded ? (
-                  <ChevronDownIcon className="w-4 h-4" />
-                ) : (
-                  <ChevronRightIcon className="w-4 h-4" />
-                )}
-              </button>
+    <div className="sticky top-4">
+      <div className="white-card rounded-lg p-4">
+        <h4 className="text-sm font-semibold text-gray-900 mb-3">Documentation</h4>
+        
+        <nav className="text-sm">
+          <div className="space-y-2">
+            {sections.map(({ section, docs }) => {
+              const isExpanded = expandedSections[section];
+              const sectionName = SECTION_NAMES[section] || section;
               
-              {isExpanded && (
-                <div className="ml-4 space-y-1">
-                  {docs.map((doc) => {
-                    const isActive = `/docs/${section}/${doc.slug}` === pathname;
-                    
-                    return (
-                      <Link
-                        key={doc.slug}
-                        href={`/docs/${section}/${doc.slug}`}
-                        className={`block py-2 px-3 text-sm rounded-lg transition-colors ${
-                          isActive
-                            ? 'bg-blue-50 text-blue-700 font-medium'
-                            : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
-                        }`}
-                      >
-                        {doc.title}
-                      </Link>
-                    );
-                  })}
+              return (
+                <div key={section}>
+                  <button
+                    onClick={() => toggleSection(section)}
+                    className="flex items-center justify-between w-full py-1 text-left font-medium text-gray-600 hover:text-gray-900 transition-colors"
+                  >
+                    <span style={{ fontSize: '0.875rem' }}>{sectionName}</span>
+                    {isExpanded ? (
+                      <ChevronDownIcon className="w-3 h-3" />
+                    ) : (
+                      <ChevronRightIcon className="w-3 h-3" />
+                    )}
+                  </button>
+                  
+                  {isExpanded && (
+                    <div className="space-y-2 mt-2">
+                      {docs.map((doc) => {
+                        const isActive = `/docs/${section}/${doc.slug}` === pathname;
+                        
+                        return (
+                          <Link
+                            key={doc.slug}
+                            href={`/docs/${section}/${doc.slug}`}
+                            className={`block py-1 pl-4 transition-colors ${
+                              isActive
+                                ? 'text-blue-600 font-medium'
+                                : 'text-gray-600 hover:text-gray-900'
+                            }`}
+                            style={{ fontSize: '0.8125rem' }}
+                          >
+                            {doc.title}
+                          </Link>
+                        );
+                      })}
+                    </div>
+                  )}
                 </div>
-              )}
-            </div>
-          );
-        })}
+              );
+            })}
+          </div>
+        </nav>
       </div>
-    </nav>
+    </div>
   );
 }
