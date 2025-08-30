@@ -210,11 +210,9 @@ export default function HowItWorksPage() {
                   Our team is ready to help you begin your journey toward more efficient, profitable operations.
                 </p>
               </div>
-              </div>
             </div>
           </div>
         </div>
-      </div>
       </div>
     </>
   );

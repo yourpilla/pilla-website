@@ -125,11 +125,9 @@ export default function AboutPage() {
                   user feedback and industry trends to ensure you always have access to the most current and effective tools.
                 </p>
               </div>
-              </div>
             </div>
           </div>
         </div>
-      </div>
       </div>
     </>
   );
