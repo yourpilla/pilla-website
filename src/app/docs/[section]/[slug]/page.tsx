@@ -1,10 +1,10 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import Link from 'next/link';
 import { getContentBySlug, getDocs, getDocsBySection } from '@/lib/content';
 import { DocItem } from '@/lib/content';
 import MarkdownContent from '@/components/MarkdownContent';
+import TableOfContents from '@/components/TableOfContents';
 
 interface DocsPageProps {
   params: Promise<{
@@ -13,14 +13,6 @@ interface DocsPageProps {
   }>;
 }
 
-// Section titles mapping
-const SECTION_TITLES: Record<string, string> = {
-  'getting-started': 'Getting Started',
-  'user-management': 'User Management', 
-  'training': 'Training & Development',
-  'operations': 'Operations',
-  'integrations': 'Integrations & API'
-};
 
 export async function generateStaticParams() {
   const docs = getDocs();
@@ -77,9 +69,6 @@ export default async function DocPage({ params }: DocsPageProps) {
   const currentIndex = sectionDocs.findIndex(d => d.slug === slug);
   const prevDoc = currentIndex > 0 ? sectionDocs[currentIndex - 1] : null;
   const nextDoc = currentIndex < sectionDocs.length - 1 ? sectionDocs[currentIndex + 1] : null;
-
-  const sidebarImage = doc.sidebarImage || 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&auto=format';
-  const sidebarImageAlt = doc.sidebarImageAlt || `${doc.title} - Pilla Documentation`;
 
   return (
     <>

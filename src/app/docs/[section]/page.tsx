@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { ChevronRightIcon, ArrowLeftIcon } from '@heroicons/react/24/outline';
+import { ChevronRightIcon } from '@heroicons/react/24/outline';
 import { getDocsBySection } from '@/lib/content';
 
 interface DocsSectionPageProps {
@@ -74,14 +74,6 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
   if (docs.length === 0) {
     notFound();
   }
-
-  const sectionInfo = SECTION_INFO[section as keyof typeof SECTION_INFO] || {
-    title: section.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase()),
-    description: `Documentation for ${section}`,
-    icon: '📖',
-    color: 'bg-gray-50',
-    iconColor: 'text-gray-600',
-  };
 
   // Sort docs by order
   const sortedDocs = docs.sort((a, b) => (a.order || 999) - (b.order || 999));
