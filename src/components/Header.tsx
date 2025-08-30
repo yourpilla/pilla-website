@@ -18,6 +18,7 @@ import {
   QuestionMarkCircleIcon,
   QueueListIcon,
   CalculatorIcon,
+  BookOpenIcon,
 } from '@heroicons/react/24/outline'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
@@ -26,6 +27,7 @@ const resources = [
   { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon, descClass: 'small-grey' },
   { name: 'Glossary', description: 'Hospitality lingo explained', href: '/glossary', icon: QueueListIcon, descClass: 'small-grey' },
   { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon, descClass: 'small-grey' },
+  { name: 'Docs', description: 'Complete platform documentation', href: '/docs', icon: BookOpenIcon, descClass: 'small-grey' },
 ]
 
 export default function Header() {
@@ -114,10 +116,6 @@ export default function Header() {
               )}
             </div>
 
-            <Link href="/docs" className="h6">
-              Docs
-            </Link>
-
             <Link href="/pricing" className="h6">
               Pricing
             </Link>
@@ -174,12 +172,6 @@ export default function Header() {
                     ))}
                   </DisclosurePanel>
                 </Disclosure>
-                <Link
-                  href="/docs"
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
-                >
-                  Docs
-                </Link>
                 <Link
                   href="/pricing"
                   className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"

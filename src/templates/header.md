@@ -263,6 +263,12 @@ export default function Header() {
 - **resource_4_href**: "/tools" | *Resource URL*
 - **resource_4_icon**: "calculator" | *Heroicon component name* **typography**: .big-blue-icon
 
+#### Resource Item 5 (Docs)
+- **resource_5_name**: "Docs" | **typography**: `.small-blue` | *Resource name*
+- **resource_5_description**: "Complete platform documentation" | **typography**: `.small-grey` | *Resource description*
+- **resource_5_href**: "/docs" | *Resource URL*
+- **resource_5_icon**: "book-open" | *Heroicon component name* **typography**: .big-blue-icon
+
 ### Call-to-Action Button
 - **cta_text**: "Book Demo" | **typography**: `btn` | *CTA button text*
 - **cta_href**: "/demo" | *CTA button destination URL*
