@@ -52,23 +52,8 @@ export default function DocsPage() {
 
   return (
     <div className="bg-white">
-      {/* Header */}
-      <div className="bg-main">
-        <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
-          <div className="mx-auto max-w-3xl text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-              Documentation
-            </h1>
-            <p className="mt-6 text-lg leading-8 text-gray-600">
-              Everything you need to know about using Pilla to streamline your hospitality operations, 
-              train your team, and ensure compliance.
-            </p>
-          </div>
-        </div>
-      </div>
-
       {/* Sections Grid */}
-      <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
+      <div className="mx-auto max-w-7xl px-6 py-8 lg:px-8">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
           {sections.map(({ section, docs }) => {
             const sectionInfo = SECTION_INFO[section as keyof typeof SECTION_INFO] || {

@@ -88,45 +88,8 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
 
   return (
     <div className="bg-white">
-      {/* Header */}
-      <div className={`${sectionInfo.color}`}>
-        <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
-          {/* Breadcrumb */}
-          <nav className="flex mb-8" aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-4">
-              <li>
-                <Link href="/docs" className="text-sm font-medium text-gray-500 hover:text-gray-700 flex items-center">
-                  <ArrowLeftIcon className="h-4 w-4 mr-2" />
-                  Documentation
-                </Link>
-              </li>
-              <li>
-                <ChevronRightIcon className="h-5 w-5 flex-shrink-0 text-gray-400" />
-                <span className="ml-4 text-sm font-medium text-gray-700">
-                  {sectionInfo.title}
-                </span>
-              </li>
-            </ol>
-          </nav>
-
-          <div className="flex items-start space-x-6">
-            <div className={`text-4xl ${sectionInfo.iconColor}`}>
-              {sectionInfo.icon}
-            </div>
-            <div>
-              <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-                {sectionInfo.title}
-              </h1>
-              <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl">
-                {sectionInfo.description}
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-
       {/* Documentation List */}
-      <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
+      <div className="mx-auto max-w-7xl px-6 py-8 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Main Content */}
           <div className="lg:col-span-2">
