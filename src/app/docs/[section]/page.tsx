@@ -87,7 +87,7 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
   const sortedDocs = docs.sort((a, b) => (a.order || 999) - (b.order || 999));
 
   return (
-    <div className="bg-white">
+    <div className="bg-main">
       {/* Documentation List */}
       <div className="mx-auto max-w-7xl px-6 py-8 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
