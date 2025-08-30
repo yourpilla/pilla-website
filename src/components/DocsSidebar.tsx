@@ -42,8 +42,7 @@ export default function DocsSidebar({ sections }: DocsSidebarProps) {
   };
 
   return (
-    <div className="sticky top-8">
-      <div className="white-card rounded-lg p-4">
+    <div className="white-card rounded-lg p-4">
         <h4 className="text-sm font-semibold text-gray-900 mb-3">Documentation</h4>
         
         <nav className="text-sm">
@@ -93,7 +92,6 @@ export default function DocsSidebar({ sections }: DocsSidebarProps) {
             })}
           </div>
         </nav>
-      </div>
     </div>
   );
 }
