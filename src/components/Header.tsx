@@ -56,7 +56,7 @@ export default function Header() {
             <img 
               src="/logo full white 512x512.png" 
               alt="Pilla Logo" 
-              className="w-8 h-8"
+              className="w-12 h-12"
             />
           </Link>
         </div>
@@ -70,54 +70,59 @@ export default function Header() {
             <Bars3Icon aria-hidden="true" className="size-6" />
           </button>
         </div>
-        <PopoverGroup className="hidden lg:flex lg:gap-x-12">
-          <div className="relative">
-            <button
-              type="button"
-              onClick={() => setPopoverOpen(!popoverOpen)}
-              className="flex items-center gap-x-1 h6 focus:outline-none"
-            >
-              Resources
-              <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
-            </button>
-
-            {popoverOpen && (
-              <div
-                ref={popoverRef}
-                className="absolute left-1/2 z-20 mt-3 w-screen max-w-md -translate-x-1/2 overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5"
+        <div className="hidden lg:flex lg:flex-1 lg:justify-end lg:items-center lg:gap-x-12">
+          <PopoverGroup className="flex lg:gap-x-12">
+            <div className="relative">
+              <button
+                type="button"
+                onClick={() => setPopoverOpen(!popoverOpen)}
+                className="flex items-center gap-x-1 h6 focus:outline-none"
               >
-                <div className="p-4">
-                  {resources.map((item) => (
-                    <div
-                      key={item.name}
-                      className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-gray-50"
-                    >
-                      <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
-                        <item.icon aria-hidden="true" className="big-blue-icon" />
-                      </div>
-                      <div className="flex-auto">
-                        <Link
-                          href={item.href}
-                          className="block small-blue"
-                          onClick={() => setPopoverOpen(false)}
-                        >
-                          {item.name}
-                          <span className="absolute inset-0" />
-                        </Link>
-                        <p className={`mt-1 ${item.descClass}`}>{item.description}</p>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
+                Resources
+                <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
+              </button>
 
-          <Link href="/pricing" className="h6">
-            Pricing
-          </Link>
-        </PopoverGroup>
-        <div className="hidden lg:flex lg:flex-1 lg:justify-end">
+              {popoverOpen && (
+                <div
+                  ref={popoverRef}
+                  className="absolute right-0 z-20 mt-3 w-screen max-w-md overflow-hidden rounded-3xl bg-white shadow-lg ring-1 ring-gray-900/5"
+                >
+                  <div className="p-4">
+                    {resources.map((item) => (
+                      <div
+                        key={item.name}
+                        className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm/6 hover:bg-gray-50"
+                      >
+                        <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
+                          <item.icon aria-hidden="true" className="big-blue-icon" />
+                        </div>
+                        <div className="flex-auto">
+                          <Link
+                            href={item.href}
+                            className="block small-blue"
+                            onClick={() => setPopoverOpen(false)}
+                          >
+                            {item.name}
+                            <span className="absolute inset-0" />
+                          </Link>
+                          <p className={`mt-1 ${item.descClass}`}>{item.description}</p>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            <Link href="/pricing" className="h6">
+              Pricing
+            </Link>
+            
+            <Link href="https://dash.yourpilla.com" className="h6">
+              Sign In
+            </Link>
+          </PopoverGroup>
+          
           <Link href="/demo" className="btn">
             Book Demo
           </Link>
@@ -132,7 +137,7 @@ export default function Header() {
               <img 
                 src="/logo full white 512x512.png" 
                 alt="Pilla Logo" 
-                className="w-8 h-8"
+                className="w-12 h-12"
               />
             </Link>
             <button
@@ -170,6 +175,12 @@ export default function Header() {
                   className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
                 >
                   Pricing
+                </Link>
+                <Link
+                  href="https://dash.yourpilla.com"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50"
+                >
+                  Sign In
                 </Link>
               </div>
               <div className="py-6">
