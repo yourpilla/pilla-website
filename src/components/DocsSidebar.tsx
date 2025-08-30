@@ -28,7 +28,7 @@ export default function DocsSidebar({ sections }: DocsSidebarProps) {
     // Auto-expand the section containing the current page
     const initialState: Record<string, boolean> = {};
     sections.forEach(({ section, docs }) => {
-      const hasCurrentPage = docs.some(doc => `/docs/${doc.slug}` === pathname);
+      const hasCurrentPage = docs.some(doc => `/docs/${section}/${doc.slug}` === pathname);
       initialState[section] = hasCurrentPage;
     });
     return initialState;
@@ -71,12 +71,12 @@ export default function DocsSidebar({ sections }: DocsSidebarProps) {
               {isExpanded && (
                 <div className="ml-4 space-y-1">
                   {docs.map((doc) => {
-                    const isActive = `/docs/${doc.slug}` === pathname;
+                    const isActive = `/docs/${section}/${doc.slug}` === pathname;
                     
                     return (
                       <Link
                         key={doc.slug}
-                        href={`/docs/${doc.slug}`}
+                        href={`/docs/${section}/${doc.slug}`}
                         className={`block py-2 px-3 text-sm rounded-lg transition-colors ${
                           isActive
                             ? 'bg-blue-50 text-blue-700 font-medium'

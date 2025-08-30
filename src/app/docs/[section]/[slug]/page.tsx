@@ -105,33 +105,8 @@ export default async function DocPage({ params }: DocsPageProps) {
           </nav>
         </div>
 
-        <div className="mx-auto max-w-7xl px-6 pb-24 lg:px-8">
-          <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-4 lg:items-start lg:gap-y-10">
-            
-            {/* Sidebar Navigation */}
-            <div className="lg:col-span-1">
-              <div className="sticky top-4">
-                <h3 className="text-sm font-semibold text-gray-900 mb-4">
-                  {SECTION_TITLES[section] || section}
-                </h3>
-                <nav className="space-y-2">
-                  {sectionDocs.map((sectionDoc) => (
-                    <Link
-                      key={sectionDoc.slug}
-                      href={`/docs/${section}/${sectionDoc.slug}`}
-                      className={`block text-sm py-1 px-2 rounded-md transition-colors ${
-                        sectionDoc.slug === slug
-                          ? 'bg-blue-50 text-blue-700 font-medium'
-                          : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
-                      }`}
-                    >
-                      {sectionDoc.title}
-                    </Link>
-                  ))}
-                </nav>
-              </div>
-            </div>
-
+        <div className="mx-auto max-w-4xl px-6 pb-24 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             {/* Main Content */}
             <div className="lg:col-span-2">
               <article className="prose prose-lg max-w-none">
@@ -169,9 +144,9 @@ export default async function DocPage({ params }: DocsPageProps) {
               </div>
             </div>
 
-            {/* Sidebar Image */}
+            {/* Sidebar Image & Support */}
             <div className="lg:col-span-1">
-              <div className="sticky top-4">
+              <div className="sticky top-4 space-y-6">
                 <Image
                   src={sidebarImage}
                   alt={sidebarImageAlt}
@@ -181,7 +156,7 @@ export default async function DocPage({ params }: DocsPageProps) {
                 />
                 
                 {/* Quick Support */}
-                <div className="mt-6 rounded-lg bg-white p-4 shadow-sm ring-1 ring-gray-200">
+                <div className="rounded-lg bg-white p-4 shadow-sm ring-1 ring-gray-200">
                   <h4 className="text-sm font-semibold text-gray-900">Need help?</h4>
                   <p className="mt-1 text-sm text-gray-600">
                     Can&apos;t find what you&apos;re looking for?
@@ -203,7 +178,6 @@ export default async function DocPage({ params }: DocsPageProps) {
                 </div>
               </div>
             </div>
-
           </div>
         </div>
       </div>
