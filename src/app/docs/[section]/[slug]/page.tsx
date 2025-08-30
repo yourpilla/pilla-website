@@ -114,7 +114,7 @@ export default async function DocPage({ params }: DocsPageProps) {
 
             {/* What's on this page - Table of Contents */}
             <div className="lg:col-span-1">
-              <div className="sticky top-4">
+              <div className="sticky top-8">
                 <div className="white-card rounded-lg p-4">
                   <h4 className="text-sm font-semibold text-gray-900 mb-3">What&apos;s on this page</h4>
                   <TableOfContents content={doc.content} />
