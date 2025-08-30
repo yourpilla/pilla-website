@@ -28,7 +28,7 @@ const SECTION_INFO = {
   },
   'training': {
     title: 'Training & Development',
-    description: 'Create comprehensive training programs and track your team&apos;s progress and certifications.'
+    description: 'Create comprehensive training programs and track your team&apos;s progress and certifications.',
     icon: '📚',
     color: 'bg-purple-50',
     iconColor: 'text-purple-600',
