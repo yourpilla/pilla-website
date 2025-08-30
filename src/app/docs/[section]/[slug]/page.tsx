@@ -33,7 +33,6 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: DocsPageProps): Promise<Metadata> {
   const { section, slug } = await params;
-  const docPath = `docs/${section}/${slug}`;
   const doc = getContentBySlug('docs', `${section}/${slug}`);
 
   if (!doc) {

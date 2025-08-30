@@ -28,7 +28,7 @@ const SECTION_INFO = {
   },
   'training': {
     title: 'Training & Development',
-    description: 'Create comprehensive training programs and track your team\'s progress and certifications.',
+    description: 'Create comprehensive training programs and track your team&apos;s progress and certifications.'
     icon: '📚',
     color: 'bg-purple-50',
     iconColor: 'text-purple-600',
@@ -213,7 +213,7 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
                   Need Help?
                 </h3>
                 <p className="text-sm text-gray-600 mb-4">
-                  Can't find what you're looking for?
+                  Can&apos;t find what you&apos;re looking for?
                 </p>
                 <div className="space-y-2">
                   <Link
