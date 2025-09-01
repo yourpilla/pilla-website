@@ -86,7 +86,7 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
                       className={`
                         flex items-center justify-center w-10 h-10 text-sm font-medium transition-all duration-200
                         ${hasTerms 
-                          ? (activeSection === letter ? 'orange-card cursor-pointer' : 'white-card cursor-pointer')
+                          ? (activeSection === letter ? 'orange-pill cursor-pointer' : 'white-pill cursor-pointer')
                           : 'bg-gray-50 text-gray-300 cursor-not-allowed'
                         }
                       `}
@@ -128,24 +128,20 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
               
               <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
                 {groupedTerms[letter].map((term) => (
-                  <div 
+                  <Link 
                     key={term.slug} 
-                    className="group white-card p-6"
+                    href={`/glossary/${term.slug}`}
+                    className="group white-card p-6 block hover:shadow-sm transition-shadow"
                   >
                     <h3 className="font-semibold text-lg text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
-                      <Link 
-                        href={`/glossary/${term.slug}`}
-                        className="block"
-                      >
-                        {term.title}
-                      </Link>
+                      {term.title}
                     </h3>
                     {term.meta && (
                       <p className="text-gray-600 text-sm leading-relaxed line-clamp-3">
                         {term.meta}
                       </p>
                     )}
-                  </div>
+                  </Link>
                 ))}
               </div>
             </section>
