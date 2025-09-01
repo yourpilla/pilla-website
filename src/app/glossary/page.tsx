@@ -37,7 +37,7 @@ export default function GlossaryIndex() {
       </div>
 
       {/* Alphabetical Navigation */}
-      <div className="sticky top-0 z-10 border-b border-gray-200 shadow-sm">
+      <div className="sticky top-0 z-10 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="py-4">
             <nav className="flex justify-center">
@@ -49,9 +49,9 @@ export default function GlossaryIndex() {
                       key={letter}
                       href={hasTerms ? `#${letter}` : undefined}
                       className={`
-                        flex items-center justify-center w-10 h-10 text-sm font-medium rounded-lg transition-all duration-200
+                        flex items-center justify-center w-10 h-10 text-sm font-medium transition-all duration-200
                         ${hasTerms 
-                          ? 'bg-blue-50 text-blue-700 hover:bg-blue-100 hover:text-blue-800 cursor-pointer shadow-sm hover:shadow-md' 
+                          ? 'orange-pill cursor-pointer' 
                           : 'bg-gray-50 text-gray-300 cursor-not-allowed'
                         }
                       `}
@@ -113,12 +113,6 @@ export default function GlossaryIndex() {
                         {term.meta}
                       </p>
                     )}
-                    <div className="mt-4 flex items-center text-blue-600 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity">
-                      Learn more
-                      <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                      </svg>
-                    </div>
                   </div>
                 ))}
               </div>
