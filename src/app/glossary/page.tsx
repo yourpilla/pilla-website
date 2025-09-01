@@ -6,20 +6,26 @@ export default function GlossaryIndex() {
     a.title.localeCompare(b.title)
   );
 
-  // Group terms by first letter
+  // Group terms by first letter (numbers grouped under '#')
   const groupedTerms = terms.reduce((acc, term) => {
-    const firstLetter = term.title.charAt(0).toUpperCase();
-    if (!acc[firstLetter]) {
-      acc[firstLetter] = [];
+    const firstChar = term.title.charAt(0);
+    const key = /\d/.test(firstChar) ? '#' : firstChar.toUpperCase();
+    if (!acc[key]) {
+      acc[key] = [];
     }
-    acc[firstLetter].push(term);
+    acc[key].push(term);
     return acc;
   }, {} as Record<string, typeof terms>);
 
-  const letters = Object.keys(groupedTerms).sort();
+  const letters = Object.keys(groupedTerms).sort((a, b) => {
+    // '#' comes first, then alphabetical
+    if (a === '#') return -1;
+    if (b === '#') return 1;
+    return a.localeCompare(b);
+  });
   
-  // Generate all letters A-Z for complete pagination
-  const allLetters = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i));
+  // Generate all letters A-Z plus # for complete pagination
+  const allLetters = ['#', ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))];
 
   return (
     <div className="bg-main py-24 sm:py-32">
@@ -31,7 +37,7 @@ export default function GlossaryIndex() {
       </div>
 
       {/* Alphabetical Navigation */}
-      <div className="sticky top-0 z-10 bg-white border-b border-gray-200 shadow-sm">
+      <div className="sticky top-0 z-10 border-b border-gray-200 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="py-4">
             <nav className="flex justify-center">
@@ -92,7 +98,7 @@ export default function GlossaryIndex() {
                 {groupedTerms[letter].map((term) => (
                   <div 
                     key={term.slug} 
-                    className="group bg-white rounded-xl border border-gray-200 p-6 hover:border-blue-300 hover:shadow-lg transition-all duration-200"
+                    className="group white-card p-6"
                   >
                     <h3 className="font-semibold text-lg text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
                       <Link 
