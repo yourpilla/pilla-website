@@ -549,6 +549,10 @@ p {
 
 /* Pricing Card Responsive Styles */
 @media (min-width: 1024px) {
+  .pricing-container {
+    gap: 0 !important;
+  }
+  
   .tier-1-card {
     border-radius: 40px 0 0 40px !important;
     border-right: none !important;
