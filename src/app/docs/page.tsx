@@ -69,22 +69,24 @@ export default function DocsPage() {
               <Link
                 key={section}
                 href={`/docs/${section}`}
-                className="white-card p-6 group hover:shadow-sm transition-shadow"
+                className="block group"
               >
-                <div className="flex items-center gap-x-6">
-                  <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50">
-                    <sectionInfo.icon aria-hidden="true" className="big-blue-icon" />
-                  </div>
-                  <div className="flex-auto">
-                    <h3 className="h4">
-                      {sectionInfo.title}
-                    </h3>
-                    <p className="mt-1 small-blue">
-                      {sectionInfo.description}
-                    </p>
-                    <span className="text-xs text-gray-500 mt-2 block">
-                      {docs.length} {docs.length === 1 ? 'guide' : 'guides'}
-                    </span>
+                <div className="white-card p-6 hover:shadow-sm transition-shadow">
+                  <div className="flex items-center gap-x-6">
+                    <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50">
+                      <sectionInfo.icon aria-hidden="true" className="big-blue-icon" />
+                    </div>
+                    <div className="flex-auto">
+                      <h3 className="h4">
+                        {sectionInfo.title}
+                      </h3>
+                      <p className="mt-1 small-blue">
+                        {sectionInfo.description}
+                      </p>
+                      <span className="text-xs text-gray-500 mt-2 block">
+                        {docs.length} {docs.length === 1 ? 'guide' : 'guides'}
+                      </span>
+                    </div>
                   </div>
                 </div>
               </Link>
