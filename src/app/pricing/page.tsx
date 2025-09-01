@@ -3,35 +3,35 @@ import { CheckIcon } from '@heroicons/react/20/solid'
 // SEO Metadata
 export const metadata = {
   title: 'Pilla Pricing - Hospitality Management Software Plans',
-  description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Hobby and Enterprise plans with 7-day free trials.',
+  description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic and Plus plans with 7-day free trials.',
   openGraph: {
     title: 'Pilla Pricing Plans',
-    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Hobby and Enterprise plans with 7-day free trials.',
+    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic and Plus plans with 7-day free trials.',
     url: 'https://yourpilla.com/pricing',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Pilla Pricing Plans',
-    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Hobby and Enterprise plans with 7-day free trials.',
+    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic and Plus plans with 7-day free trials.',
   },
 }
 
 const tiers = [
   {
-    name: 'Hobby',
-    id: 'tier-hobby',
+    name: 'Basic',
+    id: 'tier-basic',
     href: '#',
-    priceMonthly: '$29',
+    priceMonthly: '£65',
     description: "The perfect plan if you&apos;re just getting started with our product.",
     features: ['25 products', 'Up to 10,000 subscribers', 'Advanced analytics', '24-hour support response time'],
     featured: false,
   },
   {
-    name: 'Enterprise',
-    id: 'tier-enterprise',
+    name: 'Plus',
+    id: 'tier-plus',
     href: '#',
-    priceMonthly: '$99',
+    priceMonthly: '£95',
     description: 'Dedicated support and infrastructure for your company.',
     features: [
       'Unlimited products',
@@ -97,9 +97,9 @@ export default function PricingPage() {
             "offers": [
               {
                 "@type": "Offer",
-                "name": "Hobby Plan",
-                "price": "29",
-                "priceCurrency": "USD",
+                "name": "Basic Plan",
+                "price": "65",
+                "priceCurrency": "GBP",
                 "priceSpecification": {
                   "@type": "UnitPriceSpecification",
                   "billingIncrement": "P1M"
@@ -107,9 +107,9 @@ export default function PricingPage() {
               },
               {
                 "@type": "Offer",
-                "name": "Enterprise Plan",
-                "price": "99",
-                "priceCurrency": "USD",
+                "name": "Plus Plan",
+                "price": "95",
+                "priceCurrency": "GBP",
                 "priceSpecification": {
                   "@type": "UnitPriceSpecification",
                   "billingIncrement": "P1M"
@@ -146,23 +146,11 @@ export default function PricingPage() {
       />
 
       {/* Section 1: Two-Column Pricing */}
-      <div className="relative isolate bg-white px-6 py-24 sm:py-32 lg:px-8">
-        <div aria-hidden="true" className="absolute inset-x-0 -top-3 -z-10 transform-gpu overflow-hidden px-36 blur-3xl">
-          <div
-            style={{
-              clipPath:
-                'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)',
-            }}
-            className="mx-auto aspect-[1155/678] w-[72.1875rem] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30"
-          />
-        </div>
+      <div className="bg-main px-6 py-24 sm:py-32 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
-          <h2 className="text-base/7 font-semibold text-indigo-600">Pricing</h2>
-          <p className="mt-2 text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl">
-            Choose the right plan for you
-          </p>
+          <h1 className="h1">Pricing</h1>
         </div>
-        <p className="mx-auto mt-6 max-w-2xl text-center text-lg font-medium text-pretty text-gray-600 sm:text-xl/8">
+        <p className="mx-auto mt-6 max-w-2xl text-center big-blue">
           Choose an affordable plan that&apos;s packed with the best features for engaging your audience, creating customer
           loyalty, and driving sales.
         </p>
@@ -182,7 +170,7 @@ export default function PricingPage() {
             >
               <h3
                 id={tier.id}
-                className={classNames(tier.featured ? 'text-indigo-400' : 'text-indigo-600', 'text-base/7 font-semibold')}
+                className={classNames(tier.featured ? 'text-indigo-400' : 'text-indigo-600', 'h3')}
               >
                 {tier.name}
               </h3>
@@ -190,14 +178,14 @@ export default function PricingPage() {
                 <span
                   className={classNames(
                     tier.featured ? 'text-white' : 'text-gray-900',
-                    'text-5xl font-semibold tracking-tight',
+                    'h4',
                   )}
                 >
                   {tier.priceMonthly}
                 </span>
-                <span className={classNames(tier.featured ? 'text-gray-400' : 'text-gray-500', 'text-base')}>/month</span>
+                <span className={classNames(tier.featured ? 'text-gray-400' : 'text-gray-500', 'small-blue')}>/month</span>
               </p>
-              <p className={classNames(tier.featured ? 'text-gray-300' : 'text-gray-600', 'mt-6 text-base/7')}>
+              <p className={classNames(tier.featured ? 'text-gray-300' : 'text-gray-600', 'mt-6 small-blue')}>
                 {tier.description}
               </p>
               <ul
@@ -224,10 +212,10 @@ export default function PricingPage() {
                   tier.featured
                     ? 'bg-indigo-500 text-white shadow-sm hover:bg-indigo-400 focus-visible:outline-indigo-500'
                     : 'text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline-indigo-600',
-                  'mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 sm:mt-10',
+                  'mt-8 block rounded-md px-3.5 py-2.5 text-center h5 focus-visible:outline-2 focus-visible:outline-offset-2 sm:mt-10',
                 )}
               >
-                Get started today
+                7-Day Free Trial
               </a>
             </div>
           ))}

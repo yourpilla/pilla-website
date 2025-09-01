@@ -1,310 +1,184 @@
-# Pricing Page Template
+# New Pricing Page Template
 
-## Section 1: Two-Column Pricing
+## Typography Class Options
 
-### Header Content
-<form>
-  <div>
-    <label>Subtitle (e.g. "Pricing"):</label>
-    <input type="text" name="subtitle" value="Pricing" />
-  </div>
-  <div>
-    <label>Main Heading:</label>
-    <input type="text" name="main_heading" value="Choose the right plan for you" />
-  </div>
-  <div>
-    <label>Description:</label>
-    <textarea name="description">Choose an affordable plan that's packed with the best features for engaging your audience, creating customer loyalty, and driving sales.</textarea>
-  </div>
-</form>
+### Available Typography Classes:
+- **display-1** (64px, 800 weight) - Largest hero text
+- **display-2** (56px, 800 weight) - Large hero text  
+- **h1-h6** - Standard heading sizes (auto-applied)
+- **subtitle** (20px, muted) - Standard subtitle
+- **subtitle-lg** (24px, muted) - Large subtitle  
+- **subtitle-sm** (18px, muted) - Small subtitle
+- **lead** (20px, normal weight) - Introduction paragraphs
+- **eyebrow** (14px, uppercase, muted) - Small labels above headings
+- **text-muted** - Muted gray color
+- **text-sm** - Small text (14px)
+- **text-xs** - Extra small text (12px)
+- **caption** - Small descriptive text
+- **overline** - Tiny uppercase text
 
-### Plan 1 (Left Column)
-<form>
-  <div>
-    <label>Plan Name:</label>
-    <input type="text" name="plan1_name" value="Hobby" />
-  </div>
-  <div>
-    <label>Monthly Price:</label>
-    <input type="text" name="plan1_price" value="$29" />
-  </div>
-  <div>
-    <label>Description:</label>
-    <textarea name="plan1_description">The perfect plan if you're just getting started with our product.</textarea>
-  </div>
-  <div>
-    <label>Features (one per line):</label>
-    <textarea name="plan1_features">25 products
+---
+
+## YAML Frontmatter Forms
+
+### SEO & Meta Data
+- **title**: "Pilla Pricing - Hospitality Management Software Plans" | *Page title for SEO and browser tab*
+- **slug**: "pricing" | *URL slug for the page*
+- **meta**: "Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Hobby and Enterprise plans with 7-day free trials." | *Meta description for search engines (150-160 characters)*
+- **seo_title**: "Pilla Pricing - Hospitality Management Software Plans" | *SEO optimized title tag*
+- **unique_id**: "pricing-page-2025" | *Unique identifier for this page*
+- **featured**: true | *Whether this page should be featured*
+- **category**: "Pricing" | *Page category*
+
+### Navigation & Breadcrumbs
+- **breadcrumb_short**: "Pricing" | *Short text for breadcrumb navigation*
+- **pillar_text**: "Product" | *Parent section name*
+- **pillar_link**: "https://yourpilla.com" | *Link to parent section*
+
+---
+
+## Content & Typography Forms
+
+### Header Section
+- **section_tag**: "Pricing" | **typography**: `.h1` `<h1>` and  *[Options: eyebrow, h2, subtitle]*
+- **main_description**: "Choose an affordable plan that's packed with the best features for engaging your audience, creating customer loyalty, and driving sales." | **typography**: `<.big-blue>` *[Options: lead, subtitle-lg, subtitle]*
+- **background**: `bg-main` *[Options: bg-main, bg-white, bg-gray-50]*
+
+### Two-Column Pricing Plans
+
+#### Plan 1 (Left Column)
+- **plan_1_name**: "Basic" | **typography**: `.h3` *[Options: h2, h3, subtitle]*
+- **plan_1_price**: "£65" | **typography**: `.h4` *[Options: h1, h2, display-1]*
+- **plan_1_period**: "/month" | **typography**: `.small-blue` *[Options: text-sm, text-base]*
+- **plan_1_description**: "The perfect plan if you're just getting started with our product." | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
+- **plan_1_features**: | *One feature per line*
+```
+25 products
 Up to 10,000 subscribers
 Advanced analytics
-24-hour support response time</textarea>
-  </div>
-  <div>
-    <label>Button Text:</label>
-    <input type="text" name="plan1_button_text" value="Get started today" />
-  </div>
-  <div>
-    <label>Button Link:</label>
-    <input type="text" name="plan1_button_link" value="#" />
-  </div>
-  <div>
-    <label>Featured Plan?</label>
-    <input type="checkbox" name="plan1_featured" />
-  </div>
-</form>
+24-hour support response time
+```
+- **plan_1_button_text**: "7-Day Free Trial" | **typography**: `.h3`
+- **plan_1_button_link**: "#" 
+- **plan_1_featured**: false
+- **plan_1_colors**: | *Featured styling colors*
+  - **text_color**: `text-indigo-600` *[when not featured]*
+  - **price_color**: `text-gray-900` *[when not featured]*
+  - **period_color**: `text-gray-500` *[when not featured]*
+  - **description_color**: `text-gray-600` *[when not featured]*
+  - **features_color**: `text-gray-600` *[when not featured]*
+  - **check_icon_color**: `text-indigo-600` *[when not featured]*
+  - **button_style**: `text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300` *[when not featured]*
 
-### Plan 2 (Right Column)
-<form>
-  <div>
-    <label>Plan Name:</label>
-    <input type="text" name="plan2_name" value="Enterprise" />
-  </div>
-  <div>
-    <label>Monthly Price:</label>
-    <input type="text" name="plan2_price" value="$99" />
-  </div>
-  <div>
-    <label>Description:</label>
-    <textarea name="plan2_description">Dedicated support and infrastructure for your company.</textarea>
-  </div>
-  <div>
-    <label>Features (one per line):</label>
-    <textarea name="plan2_features">Unlimited products
+#### Plan 2 (Right Column)
+- **plan_2_name**: "Plus" | **typography**: `.h3` *[Options: h2, h3, subtitle]*
+- **plan_2_price**: "£95" | **typography**: `.h4` *[Options: h1, h2, display-1]*
+- **plan_2_period**: "/month" | **typography**: `.small-blue` *[Options: text-sm, text-base]*
+- **plan_2_description**: "Dedicated support and infrastructure for your company." | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
+- **plan_2_features**: | *One feature per line*
+```
+Unlimited products
 Unlimited subscribers
 Advanced analytics
 Dedicated support representative
 Marketing automations
-Custom integrations</textarea>
-  </div>
-  <div>
-    <label>Button Text:</label>
-    <input type="text" name="plan2_button_text" value="Get started today" />
-  </div>
-  <div>
-    <label>Button Link:</label>
-    <input type="text" name="plan2_button_link" value="#" />
-  </div>
-  <div>
-    <label>Featured Plan?</label>
-    <input type="checkbox" name="plan2_featured" checked />
-  </div>
-</form>
+Custom integrations
+```
+- **plan_2_button_text**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
+- **plan_2_button_link**: "#"
+- **plan_2_featured**: true
+- **plan_2_colors**: | *Featured styling colors*
+  - **background**: `bg-gray-900` *[when featured]*
+  - **text_color**: `text-indigo-400` *[when featured]*
+  - **price_color**: `text-white` *[when featured]*
+  - **period_color**: `text-gray-400` *[when featured]*
+  - **description_color**: `text-gray-300` *[when featured]*
+  - **features_color**: `text-gray-300` *[when featured]*
+  - **check_icon_color**: `text-indigo-400` *[when featured]*
+  - **button_style**: `bg-indigo-500 text-white shadow-sm hover:bg-indigo-400` *[when featured]*
 
-## Section 2: Feature Comparison Table
+### Feature Comparison Table
 
-### Comparison Table Content
-<form>
-  <div>
-    <label>Column 1 Header (Plan Name):</label>
-    <input type="text" name="comparison_plan1_name" value="Starter" />
-  </div>
-  <div>
-    <label>Column 2 Header (Plan Name):</label>
-    <input type="text" name="comparison_plan2_name" value="Enterprise" />
-  </div>
-</form>
-
-### Feature Categories
+#### Comparison Headers
+- **comparison_plan_1_name**: "Starter" | **typography**: `text-sm font-semibold text-gray-900`
+- **comparison_plan_2_name**: "Enterprise" | **typography**: `text-sm font-semibold text-gray-900`
+- **features_header**: "Features" | **typography**: `text-sm font-semibold text-gray-900`
+- **comparison_background**: `bg-gray-50` *[Options: bg-gray-50, bg-white, bg-main]*
 
 #### Features Category
-<form>
-  <div>
-    <label>Category Name:</label>
-    <input type="text" name="features_category_name" value="Features" />
-  </div>
-  <div>
-    <label>Feature 1 Name:</label>
-    <input type="text" name="feature1_name" value="Edge content delivery" />
-  </div>
-  <div>
-    <label>Feature 1 - Plan 1 Value:</label>
-    <input type="text" name="feature1_plan1" value="✓" />
-  </div>
-  <div>
-    <label>Feature 1 - Plan 2 Value:</label>
-    <input type="text" name="feature1_plan2" value="✓" />
-  </div>
-  
-  <div>
-    <label>Feature 2 Name:</label>
-    <input type="text" name="feature2_name" value="Custom domains" />
-  </div>
-  <div>
-    <label>Feature 2 - Plan 1 Value:</label>
-    <input type="text" name="feature2_plan1" value="1" />
-  </div>
-  <div>
-    <label>Feature 2 - Plan 2 Value:</label>
-    <input type="text" name="feature2_plan2" value="Unlimited" />
-  </div>
-  
-  <div>
-    <label>Feature 3 Name:</label>
-    <input type="text" name="feature3_name" value="Team members" />
-  </div>
-  <div>
-    <label>Feature 3 - Plan 1 Value:</label>
-    <input type="text" name="feature3_plan1" value="3" />
-  </div>
-  <div>
-    <label>Feature 3 - Plan 2 Value:</label>
-    <input type="text" name="feature3_plan2" value="Unlimited" />
-  </div>
-  
-  <div>
-    <label>Feature 4 Name:</label>
-    <input type="text" name="feature4_name" value="Single sign-on (SSO)" />
-  </div>
-  <div>
-    <label>Feature 4 - Plan 1 Value:</label>
-    <input type="text" name="feature4_plan1" value="✗" />
-  </div>
-  <div>
-    <label>Feature 4 - Plan 2 Value:</label>
-    <input type="text" name="feature4_plan2" value="✓" />
-  </div>
-</form>
+- **features_category_name**: "Features" | **typography**: `text-sm font-semibold text-gray-900`
+
+- **feature_1_name**: "Edge content delivery" | **typography**: `text-sm text-gray-600`
+- **feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_2_name**: "Custom domains" | **typography**: `text-sm text-gray-600`
+- **feature_2_plan_1_value**: "1" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_plan_2_value**: "Unlimited" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_3_name**: "Team members" | **typography**: `text-sm text-gray-600`
+- **feature_3_plan_1_value**: "3" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "Unlimited" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_4_name**: "Single sign-on (SSO)" | **typography**: `text-sm text-gray-600`
+- **feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
 #### Reporting Category
-<form>
-  <div>
-    <label>Category Name:</label>
-    <input type="text" name="reporting_category_name" value="Reporting" />
-  </div>
-  <div>
-    <label>Feature 1 Name:</label>
-    <input type="text" name="reporting_feature1_name" value="Advanced analytics" />
-  </div>
-  <div>
-    <label>Feature 1 - Plan 1 Value:</label>
-    <input type="text" name="reporting_feature1_plan1" value="✓" />
-  </div>
-  <div>
-    <label>Feature 1 - Plan 2 Value:</label>
-    <input type="text" name="reporting_feature1_plan2" value="✓" />
-  </div>
-  
-  <div>
-    <label>Feature 2 Name:</label>
-    <input type="text" name="reporting_feature2_name" value="Basic reports" />
-  </div>
-  <div>
-    <label>Feature 2 - Plan 1 Value:</label>
-    <input type="text" name="reporting_feature2_plan1" value="✗" />
-  </div>
-  <div>
-    <label>Feature 2 - Plan 2 Value:</label>
-    <input type="text" name="reporting_feature2_plan2" value="✓" />
-  </div>
-  
-  <div>
-    <label>Feature 3 Name:</label>
-    <input type="text" name="reporting_feature3_name" value="Professional reports" />
-  </div>
-  <div>
-    <label>Feature 3 - Plan 1 Value:</label>
-    <input type="text" name="reporting_feature3_plan1" value="✗" />
-  </div>
-  <div>
-    <label>Feature 3 - Plan 2 Value:</label>
-    <input type="text" name="reporting_feature3_plan2" value="✓" />
-  </div>
-  
-  <div>
-    <label>Feature 4 Name:</label>
-    <input type="text" name="reporting_feature4_name" value="Custom report builder" />
-  </div>
-  <div>
-    <label>Feature 4 - Plan 1 Value:</label>
-    <input type="text" name="reporting_feature4_plan1" value="✗" />
-  </div>
-  <div>
-    <label>Feature 4 - Plan 2 Value:</label>
-    <input type="text" name="reporting_feature4_plan2" value="✓" />
-  </div>
-</form>
+- **reporting_category_name**: "Reporting" | **typography**: `text-sm font-semibold text-gray-900`
+
+- **reporting_feature_1_name**: "Advanced analytics" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **reporting_feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **reporting_feature_2_name**: "Basic reports" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_2_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **reporting_feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **reporting_feature_3_name**: "Professional reports" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_3_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **reporting_feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **reporting_feature_4_name**: "Custom report builder" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **reporting_feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
 #### Support Category
-<form>
-  <div>
-    <label>Category Name:</label>
-    <input type="text" name="support_category_name" value="Support" />
-  </div>
-  <div>
-    <label>Feature 1 Name:</label>
-    <input type="text" name="support_feature1_name" value="24/7 online support" />
-  </div>
-  <div>
-    <label>Feature 1 - Plan 1 Value:</label>
-    <input type="text" name="support_feature1_plan1" value="✓" />
-  </div>
-  <div>
-    <label>Feature 1 - Plan 2 Value:</label>
-    <input type="text" name="support_feature1_plan2" value="✓" />
-  </div>
-  
-  <div>
-    <label>Feature 2 Name:</label>
-    <input type="text" name="support_feature2_name" value="Quarterly workshops" />
-  </div>
-  <div>
-    <label>Feature 2 - Plan 1 Value:</label>
-    <input type="text" name="support_feature2_plan1" value="✗" />
-  </div>
-  <div>
-    <label>Feature 2 - Plan 2 Value:</label>
-    <input type="text" name="support_feature2_plan2" value="✓" />
-  </div>
-  
-  <div>
-    <label>Feature 3 Name:</label>
-    <input type="text" name="support_feature3_name" value="Priority phone support" />
-  </div>
-  <div>
-    <label>Feature 3 - Plan 1 Value:</label>
-    <input type="text" name="support_feature3_plan1" value="✗" />
-  </div>
-  <div>
-    <label>Feature 3 - Plan 2 Value:</label>
-    <input type="text" name="support_feature3_plan2" value="✓" />
-  </div>
-  
-  <div>
-    <label>Feature 4 Name:</label>
-    <input type="text" name="support_feature4_name" value="1:1 onboarding tour" />
-  </div>
-  <div>
-    <label>Feature 4 - Plan 1 Value:</label>
-    <input type="text" name="support_feature4_plan1" value="✗" />
-  </div>
-  <div>
-    <label>Feature 4 - Plan 2 Value:</label>
-    <input type="text" name="support_feature4_plan2" value="✓" />
-  </div>
-</form>
+- **support_category_name**: "Support" | **typography**: `text-sm font-semibold text-gray-900`
+
+- **support_feature_1_name**: "24/7 online support" | **typography**: `text-sm text-gray-600`
+- **support_feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **support_feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **support_feature_2_name**: "Quarterly workshops" | **typography**: `text-sm text-gray-600`
+- **support_feature_2_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **support_feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **support_feature_3_name**: "Priority phone support" | **typography**: `text-sm text-gray-600`
+- **support_feature_3_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **support_feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **support_feature_4_name**: "1:1 onboarding tour" | **typography**: `text-sm text-gray-600`
+- **support_feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **support_feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+### Styling Options
+- **main_background**: `bg-main` *[Options: bg-main, bg-white, bg-gray-50]*
+- **comparison_background**: `bg-gray-50` *[Options: bg-gray-50, bg-white, bg-main]*
+- **check_icon_color**: `text-indigo-600` *[Options: text-indigo-600, text-green-600, text-blue-600]*
+- **cross_icon_color**: `text-gray-400` *[Options: text-gray-400, text-red-400]*
 
 ---
 
-## Original React Code Structure
+## Instructions:
+1. Fill out the forms above with your desired content and styling
+2. Update typography classes to match your design system
+3. Customize colors and backgrounds as needed
+4. The pricing page will automatically update with your changes
 
-```javascript
-// Section 1: Two-Column Pricing (keep as-is, but make data dynamic)
+---
 
-// Section 2: Modified Comparison Table (remove header, remove middle column, keep only 2-column comparison)
-```
+## Final React Component Location
+**The processed code will be deployed to:** `/src/app/pricing/page.tsx`
 
-This template structure provides:
-
-1. **Editable Header Content** - Subtitle, main heading, and description for the two-column section
-2. **Two Plan Configuration** - Complete forms for both pricing plans including features, pricing, buttons
-3. **Feature Comparison Table** - Organized by categories (Features, Reporting, Support) with two-column comparison
-4. **Flexible Feature Values** - Support for checkmarks (✓), X marks (✗), numbers, or text values
-
-The mini-forms allow you to:
-- Edit all text content 
-- Add/modify features for each plan
-- Set pricing and button links
-- Configure which plan is "featured"
-- Customize the comparison table with any feature combinations
-
-Would you like me to create the actual pricing page component that reads from this template data?
+*This template file remains as a working document with original code and forms for reference*
