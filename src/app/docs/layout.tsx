@@ -11,12 +11,10 @@ export default function DocsLayout({
   return (
     <div className="bg-main min-h-screen">
       <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex gap-8">
+        <div className="flex gap-8 min-h-screen">
           {/* Sidebar */}
-          <aside className="hidden lg:block w-64 flex-shrink-0">
-            <div className="pt-8">
-              <DocsSidebar sections={sections} />
-            </div>
+          <aside className="hidden lg:block w-64 flex-shrink-0 pt-8">
+            <DocsSidebar sections={sections} />
           </aside>
           
           {/* Main content */}
