@@ -35,15 +35,11 @@ export default function BlogFilter({ posts }: BlogFilterProps) {
             <button
               key={category.name}
               onClick={() => setSelectedCategory(category.name)}
-              className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
+              className={`px-4 py-2 text-sm font-medium transition-colors ${
                 selectedCategory === category.name
-                  ? 'border border-orange-600 text-gray-900'
-                  : 'bg-white text-gray-700 hover:bg-gray-100 border border-gray-300'
+                  ? 'orange-pill text-gray-900'
+                  : 'white-pill text-gray-700 hover:bg-gray-100'
               }`}
-              style={selectedCategory === category.name ? {
-                backgroundColor: '#FFDCB4',
-                borderColor: '#FF7B00'
-              } : {}}
             >
               {category.name}
             </button>
@@ -62,7 +58,7 @@ export default function BlogFilter({ posts }: BlogFilterProps) {
             )}
             <div className="mt-6"></div>
             <div className="group relative grow">
-              <h3 className="mt-3 h6 group-hover:text-gray-600">
+              <h3 className="mt-3 h4 group-hover:text-gray-600">
                 <Link href={`/blog/${post.slug}`}>
                   <span className="absolute inset-0" />
                   {post.title}

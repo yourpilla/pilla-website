@@ -521,3 +521,28 @@ p {
   border: 1px solid #00B36E;
   border-radius: 5px;
 }
+
+/* Pill Classes */
+.white-pill {
+  background-color: #ffffff;
+  border: 1px solid #374151;
+  border-radius: 50px;
+}
+
+.red-pill {
+  background-color: #FEC6D4;
+  border: 1px solid #FB0071;
+  border-radius: 50px;
+}
+
+.orange-pill {
+  background-color: #FFDCB4;
+  border: 1px solid #FF7B00;
+  border-radius: 50px;
+}
+
+.green-pill {
+  background-color: #BAEED9;
+  border: 1px solid #00B36E;
+  border-radius: 50px;
+}
