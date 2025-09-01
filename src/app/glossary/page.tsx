@@ -81,13 +81,10 @@ export default function GlossaryIndex() {
           letters.map((letter) => (
             <section key={letter} id={letter} className="mb-16">
               <div className="flex items-center mb-8">
-                <div className="flex items-center justify-center w-12 h-12 green-pill text-2xl font-bold mr-4">
+                <div className="flex items-center justify-center w-12 h-12 orange-pill text-2xl font-bold mr-4">
                   {letter}
                 </div>
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900">
-                    {letter}
-                  </h2>
                   <p className="text-gray-600">
                     {groupedTerms[letter].length} term{groupedTerms[letter].length !== 1 ? 's' : ''}
                   </p>
