@@ -37,7 +37,7 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
     const observer = new IntersectionObserver(
       (entries) => {
         // Find the entry that's most visible
-        let mostVisibleEntry = null;
+        let mostVisibleEntry: IntersectionObserverEntry | null = null;
         let maxIntersectionRatio = 0;
         
         entries.forEach((entry) => {
