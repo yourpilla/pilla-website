@@ -22,34 +22,11 @@ export default function GlossaryIndex() {
   const allLetters = Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i));
 
   return (
-    <div className="bg-white">
-      {/* Header Section */}
-      <div className="bg-gradient-to-br from-blue-50 via-white to-indigo-50">
-        <div className="max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <div className="flex justify-center mb-6">
-              <div className="p-3 bg-blue-100 rounded-full">
-                <svg className="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V21C3 22.11 3.89 23 5 23H19C20.11 23 21 22.11 21 21V9M19 9H14V4H19V9Z"/>
-                </svg>
-              </div>
-            </div>
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:text-6xl">
-              Hospitality Glossary
-            </h1>
-            <p className="mt-6 max-w-3xl mx-auto text-xl leading-8 text-gray-600">
-              Your comprehensive guide to hospitality industry terminology. From front-of-house operations 
-              to back-office management, find clear definitions for every role and concept.
-            </p>
-            <div className="mt-8 flex justify-center">
-              <div className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-blue-600 bg-blue-100">
-                <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M9 3a1 1 0 012 0v5.5a.5.5 0 001 0V4a1 1 0 112 0v4.5a.5.5 0 001 0V6a1 1 0 112 0v6a6 6 0 01-6 6H9a6 6 0 01-6-6V9a1 1 0 012 0v2.5a.5.5 0 001 0V4a1 1 0 012 0v4.5a.5.5 0 001 0V3z" clipRule="evenodd" />
-                </svg>
-                {terms.length} Terms Available
-              </div>
-            </div>
-          </div>
+    <div className="bg-main py-24 sm:py-32">
+      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+        <div className="mx-auto max-w-2xl lg:mx-0">
+          <h1 className="h1">Hospitality Glossary</h1>
+          <p className="mt-2 big-blue">Your comprehensive guide to hospitality industry terminology. From front-of-house operations to back-office management, find clear definitions for every role and concept.</p>
         </div>
       </div>
 
