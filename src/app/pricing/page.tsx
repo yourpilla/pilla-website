@@ -1,4 +1,4 @@
-import { CheckIcon } from '@heroicons/react/20/solid'
+import { CheckCircleIcon } from '@heroicons/react/20/solid'
 
 // SEO Metadata
 export const metadata = {
@@ -159,7 +159,7 @@ export default function PricingPage() {
             <div
               key={tier.id}
               className={classNames(
-                tierIdx === 0 ? 'orange-card tier-1-card' : 'green-card',
+                tierIdx === 0 ? 'orange-card tier-1-card' : 'green-card tier-2-card',
                 'p-8 sm:p-10'
               )}
               style={{
@@ -187,9 +187,10 @@ export default function PricingPage() {
               >
                 {tier.features.map((feature) => (
                   <li key={feature} className="flex gap-x-3 small-blue">
-                    <CheckIcon
+                    <CheckCircleIcon
                       aria-hidden="true"
-                      className="h-6 w-5 flex-none text-indigo-600"
+                      className="h-6 w-6 flex-none"
+                      style={{ color: '#374151' }}
                     />
                     {feature}
                   </li>
@@ -241,7 +242,7 @@ export default function PricingPage() {
                         {feature.values.map((value, valueIdx) => (
                           <td key={valueIdx} className="px-6 py-4 text-center text-sm">
                             {value === '✓' ? (
-                              <CheckIcon className="mx-auto h-5 w-5 text-indigo-600" />
+                              <CheckCircleIcon className="mx-auto h-5 w-5" style={{ color: '#374151' }} />
                             ) : value === '✗' ? (
                               <span className="mx-auto block h-5 w-5 text-gray-400">×</span>
                             ) : (

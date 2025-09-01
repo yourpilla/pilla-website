@@ -552,5 +552,12 @@ p {
   .tier-1-card {
     border-radius: 40px 0 0 40px !important;
     border-right: none !important;
+    flex: 0 0 45% !important;
+    max-width: 45% !important;
+  }
+  
+  .green-card.tier-2-card {
+    flex: 0 0 55% !important;
+    max-width: 55% !important;
   }
 }
