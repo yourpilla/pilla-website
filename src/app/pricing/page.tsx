@@ -158,17 +158,19 @@ export default function PricingPage() {
           {tiers.map((tier, tierIdx) => (
             <div
               key={tier.id}
-              className={classNames(
-                tierIdx === 0 ? 'white-card' : 'green-card',
-                'p-8 sm:p-10 rounded-3xl',
-              )}
+              className="white-card p-8 sm:p-10 rounded-3xl"
             >
-              <h3
-                id={tier.id}
-                className="h2"
-              >
-                {tier.name}
-              </h3>
+              <div className={classNames(
+                tierIdx === 0 ? 'red-card' : 'green-card',
+                'inline-block px-4 py-2 rounded-lg mb-4'
+              )}>
+                <h3
+                  id={tier.id}
+                  className="h2"
+                >
+                  {tier.name}
+                </h3>
+              </div>
               <p className="mt-4 flex items-baseline gap-x-2">
                 <span className="h4">
                   {tier.priceMonthly}
