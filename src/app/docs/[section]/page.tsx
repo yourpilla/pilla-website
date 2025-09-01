@@ -95,17 +95,17 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
               href={`/docs/${section}/${doc.slug}`}
               className="block group"
             >
-              <div className="white-card rounded-lg p-4 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
+              <div className="white-card p-6 hover:shadow-sm transition-shadow">
                 <div className="flex items-center gap-x-6">
-                  <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
+                  <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50">
                     <DocumentTextIcon aria-hidden="true" className="big-blue-icon" />
                   </div>
                   <div className="flex-auto">
-                    <h3 className="small-blue group-hover:text-blue-600 transition-colors">
+                    <h3 className="h4">
                       {doc.title}
                     </h3>
                     {doc.meta && (
-                      <p className="mt-1 small-grey line-clamp-2">
+                      <p className="mt-1 small-blue line-clamp-2">
                         {doc.meta}
                       </p>
                     )}
@@ -113,7 +113,6 @@ export default async function DocsSectionPage({ params }: DocsSectionPageProps) 
                       Guide {index + 1} of {sortedDocs.length}
                     </span>
                   </div>
-                  <ChevronRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0" />
                 </div>
               </div>
             </Link>
