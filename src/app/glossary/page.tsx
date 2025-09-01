@@ -1,8 +1,8 @@
+'use client';
+
 import { getContentByCategory } from '@/lib/content';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-
-'use client';
 
 export default function GlossaryIndex() {
   const [activeSection, setActiveSection] = useState<string>('');
