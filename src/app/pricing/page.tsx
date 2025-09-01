@@ -1,74 +1,88 @@
-import { Fragment } from 'react'
-import { CheckCircleIcon, MinusIcon } from '@heroicons/react/20/solid'
+import { CheckIcon } from '@heroicons/react/20/solid'
 
 // SEO Metadata
 export const metadata = {
   title: 'Pilla Pricing - Hospitality Management Software Plans',
-  description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic, Plus, and Pro plans with 7-day free trials.',
+  description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Hobby and Enterprise plans with 7-day free trials.',
   openGraph: {
     title: 'Pilla Pricing Plans',
-    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic, Plus, and Pro plans with 7-day free trials.',
+    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Hobby and Enterprise plans with 7-day free trials.',
     url: 'https://yourpilla.com/pricing',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Pilla Pricing Plans',
-    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Basic, Plus, and Pro plans with 7-day free trials.',
+    description: 'Choose the perfect Pilla plan for your hospitality business. Compare features and pricing for Hobby and Enterprise plans with 7-day free trials.',
   },
 }
 
 const tiers = [
-  { name: 'Basic' as const, id: 'tier-basic', href: '#', priceMonthly: '£65', priceYearly: '£595', mostPopular: false, background: 'bg-rose-100', border: '#FB0071' },
-  { name: 'Plus' as const, id: 'tier-plus', href: '#', priceMonthly: '£75', priceYearly: '£695', mostPopular: true, background: 'bg-orange-100', border: '#FF7B00' },
-  { name: 'Pro' as const, id: 'tier-pro', href: '#', priceMonthly: '£85', priceYearly: '£795', mostPopular: false, background: 'bg-emerald-100', border: '#00B36E' },
-]
-const sections = [
   {
-    name: 'Shift scheduling',
-    features: [
-      { name: 'Automatated shift scheduling with templates', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Holiday entitlement calculations', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Location-based clock-in', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Automatic shift adjustment after clock-in', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Push notification shift reminders for staff', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Communicate and leave messages on shifts', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Monday morning round-ups for Managers', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
-      { name: 'Encouragement and feedback for staff', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
-      { name: 'Shift history kept on file', tiers: { Basic: '2 Years', Plus: 'Forever', Pro: 'Forever' } as Record<TierName, string> },
-    ],
+    name: 'Hobby',
+    id: 'tier-hobby',
+    href: '#',
+    priceMonthly: '$29',
+    description: "The perfect plan if you're just getting started with our product.",
+    features: ['25 products', 'Up to 10,000 subscribers', 'Advanced analytics', '24-hour support response time'],
+    featured: false,
   },
   {
-    name: 'Work activities',
+    name: 'Enterprise',
+    id: 'tier-enterprise',
+    href: '#',
+    priceMonthly: '$99',
+    description: 'Dedicated support and infrastructure for your company.',
     features: [
-      { name: 'Build work templates with all elements', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Set repeating work activities', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Highlight issues and corrective actions', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Automatic shift adjustment after clock-in', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Push notification reminders for staff', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Communicate and leave messages on work', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Monday morning round-ups for Managers', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
-      { name: 'Encouragement and feedback for staff', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
-      { name: 'Work history kept on file', tiers: { Basic: '2 Years', Plus: 'Forever', Pro: 'Forever' } as Record<TierName, string> },
+      'Unlimited products',
+      'Unlimited subscribers',
+      'Advanced analytics',
+      'Dedicated support representative',
+      'Marketing automations',
+      'Custom integrations',
     ],
-  },
-  {
-    name: 'Support',
-    features: [
-      { name: 'Email support', tiers: { Basic: true, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Quarterly workshops/adits', tiers: { Basic: false, Plus: true, Pro: true } as Record<TierName, boolean> },
-      { name: 'Priority phone support', tiers: { Basic: false, Plus: false, Pro: true } as Record<TierName, boolean> },
-    ],
+    featured: true,
   },
 ]
 
-type TierName = typeof tiers[number]['name']
+const comparisonData = {
+  planNames: ['Starter', 'Enterprise'],
+  sections: [
+    {
+      name: 'Features',
+      features: [
+        { name: 'Edge content delivery', values: ['✓', '✓'] },
+        { name: 'Custom domains', values: ['1', 'Unlimited'] },
+        { name: 'Team members', values: ['3', 'Unlimited'] },
+        { name: 'Single sign-on (SSO)', values: ['✗', '✓'] },
+      ],
+    },
+    {
+      name: 'Reporting',
+      features: [
+        { name: 'Advanced analytics', values: ['✓', '✓'] },
+        { name: 'Basic reports', values: ['✗', '✓'] },
+        { name: 'Professional reports', values: ['✗', '✓'] },
+        { name: 'Custom report builder', values: ['✗', '✓'] },
+      ],
+    },
+    {
+      name: 'Support',
+      features: [
+        { name: '24/7 online support', values: ['✓', '✓'] },
+        { name: 'Quarterly workshops', values: ['✗', '✓'] },
+        { name: 'Priority phone support', values: ['✗', '✓'] },
+        { name: '1:1 onboarding tour', values: ['✗', '✓'] },
+      ],
+    },
+  ],
+}
 
 function classNames(...classes: (string | undefined | null | false)[]): string {
   return classes.filter(Boolean).join(' ')
 }
 
-export default function Example() {
+export default function PricingPage() {
   return (
     <>
       {/* JSON-LD Structured Data */}
@@ -83,9 +97,9 @@ export default function Example() {
             "offers": [
               {
                 "@type": "Offer",
-                "name": "Basic Plan",
-                "price": "65",
-                "priceCurrency": "GBP",
+                "name": "Hobby Plan",
+                "price": "29",
+                "priceCurrency": "USD",
                 "priceSpecification": {
                   "@type": "UnitPriceSpecification",
                   "billingIncrement": "P1M"
@@ -93,19 +107,9 @@ export default function Example() {
               },
               {
                 "@type": "Offer",
-                "name": "Plus Plan",
-                "price": "75",
-                "priceCurrency": "GBP",
-                "priceSpecification": {
-                  "@type": "UnitPriceSpecification",
-                  "billingIncrement": "P1M"
-                }
-              },
-              {
-                "@type": "Offer",
-                "name": "Pro Plan",
-                "price": "85",
-                "priceCurrency": "GBP",
+                "name": "Enterprise Plan",
+                "price": "99",
+                "priceCurrency": "USD",
                 "priceSpecification": {
                   "@type": "UnitPriceSpecification",
                   "billingIncrement": "P1M"
@@ -141,185 +145,145 @@ export default function Example() {
         }}
       />
 
-      <div className="bg-main py-24 sm:py-32">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="mx-auto max-w-4xl text-center">
-          <h2 className="eyebrow">Pilla Pricing</h2>
-          <h1 className="mt-2">
-            Pilla has changed the way we work, for the better
-          </h1>
+      {/* Section 1: Two-Column Pricing */}
+      <div className="relative isolate bg-white px-6 py-24 sm:py-32 lg:px-8">
+        <div aria-hidden="true" className="absolute inset-x-0 -top-3 -z-10 transform-gpu overflow-hidden px-36 blur-3xl">
+          <div
+            style={{
+              clipPath:
+                'polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)',
+            }}
+            className="mx-auto aspect-[1155/678] w-[72.1875rem] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30"
+          />
         </div>
-        <p className="mx-auto mt-6 max-w-2xl text-center lead">
-          Becky, Operations Manager, The Pen Factory (3 Sites)
+        <div className="mx-auto max-w-4xl text-center">
+          <h2 className="text-base/7 font-semibold text-indigo-600">Pricing</h2>
+          <p className="mt-2 text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl">
+            Choose the right plan for you
+          </p>
+        </div>
+        <p className="mx-auto mt-6 max-w-2xl text-center text-lg font-medium text-pretty text-gray-600 sm:text-xl/8">
+          Choose an affordable plan that's packed with the best features for engaging your audience, creating customer
+          loyalty, and driving sales.
         </p>
-
-        {/* xs to lg */}
-        <div className="mx-auto mt-12 max-w-md space-y-8 sm:mt-16 lg:hidden">
-          {tiers.map((tier) => (
-            <section
+        <div className="mx-auto mt-16 grid max-w-lg grid-cols-1 items-center gap-y-6 sm:mt-20 sm:gap-y-0 lg:max-w-4xl lg:grid-cols-2">
+          {tiers.map((tier, tierIdx) => (
+            <div
               key={tier.id}
               className={classNames(
-                `rounded-xl ${tier.background} p-8 border-2`,
+                tier.featured ? 'relative bg-gray-900 shadow-2xl' : 'bg-white/60 sm:mx-8 lg:mx-0',
+                tier.featured
+                  ? ''
+                  : tierIdx === 0
+                    ? 'rounded-t-3xl sm:rounded-b-none lg:rounded-tr-none lg:rounded-bl-3xl'
+                    : 'sm:rounded-t-none lg:rounded-tr-3xl lg:rounded-bl-none',
+                'rounded-3xl p-8 ring-1 ring-gray-900/10 sm:p-10',
               )}
-              style={{ borderColor: tier.border }}
             >
-              <h2 className="text-center text-gray-900">
-                {tier.name}
-              </h2>
-              <div className="mt-2">
-                <h3 className="flex items-baseline gap-x-1 text-gray-900">
-                  <span>{tier.priceYearly}</span>
-                  <span>/year</span>
-                </h3>
-                <p className="mt-0.5 mb-0.5 text-sm font-normal text-gray-900">
-                  or
-                </p>
-                <h4 className="flex items-baseline gap-x-1 text-gray-900">
-                  <span>{tier.priceMonthly}</span>
-                  <span>/month</span>
-                </h4>
-              </div>
-              <a
-                href={tier.href}
-                aria-describedby={tier.id}
-                className="btn mt-8 block text-center"
+              <h3
+                id={tier.id}
+                className={classNames(tier.featured ? 'text-indigo-400' : 'text-indigo-600', 'text-base/7 font-semibold')}
               >
-                7-Day Free Trial
-              </a>
-              <ul role="list" className="mt-10 space-y-4 text-sm text-gray-900">
-                {sections.map((section) => (
-                  <li key={section.name}>
-                    <ul role="list" className="space-y-4">
-                      {section.features.map((feature) =>
-                        feature.tiers[tier.name] ? (
-                          <li key={feature.name} className="flex gap-x-3">
-                            <CheckCircleIcon aria-hidden="true" className="h-6 w-5 flex-none text-gray-700" />
-                            <span>
-                              {feature.name}{' '}
-                              {typeof feature.tiers[tier.name] === 'string' ? (
-                                <span className="text-sm font-normal text-gray-900">({feature.tiers[tier.name]})</span>
-                              ) : null}
-                            </span>
-                          </li>
-                        ) : null,
-                      )}
-                    </ul>
+                {tier.name}
+              </h3>
+              <p className="mt-4 flex items-baseline gap-x-2">
+                <span
+                  className={classNames(
+                    tier.featured ? 'text-white' : 'text-gray-900',
+                    'text-5xl font-semibold tracking-tight',
+                  )}
+                >
+                  {tier.priceMonthly}
+                </span>
+                <span className={classNames(tier.featured ? 'text-gray-400' : 'text-gray-500', 'text-base')}>/month</span>
+              </p>
+              <p className={classNames(tier.featured ? 'text-gray-300' : 'text-gray-600', 'mt-6 text-base/7')}>
+                {tier.description}
+              </p>
+              <ul
+                role="list"
+                className={classNames(
+                  tier.featured ? 'text-gray-300' : 'text-gray-600',
+                  'mt-8 space-y-3 text-sm/6 sm:mt-10',
+                )}
+              >
+                {tier.features.map((feature) => (
+                  <li key={feature} className="flex gap-x-3">
+                    <CheckIcon
+                      aria-hidden="true"
+                      className={classNames(tier.featured ? 'text-indigo-400' : 'text-indigo-600', 'h-6 w-5 flex-none')}
+                    />
+                    {feature}
                   </li>
                 ))}
               </ul>
-            </section>
+              <a
+                href={tier.href}
+                aria-describedby={tier.id}
+                className={classNames(
+                  tier.featured
+                    ? 'bg-indigo-500 text-white shadow-sm hover:bg-indigo-400 focus-visible:outline-indigo-500'
+                    : 'text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline-indigo-600',
+                  'mt-8 block rounded-md px-3.5 py-2.5 text-center text-sm font-semibold focus-visible:outline-2 focus-visible:outline-offset-2 sm:mt-10',
+                )}
+              >
+                Get started today
+              </a>
+            </div>
           ))}
         </div>
+      </div>
 
-        {/* lg+ */}
-        <div className="isolate mt-20 hidden lg:block">
-          <div className="relative -mx-8">
-            <table className="w-full table-fixed border-separate border-spacing-x-8 text-left">
-              <caption className="sr-only">Pricing plan comparison</caption>
-              <colgroup>
-                <col className="w-1/4" />
-                <col className="w-1/4" />
-                <col className="w-1/4" />
-                <col className="w-1/4" />
-              </colgroup>
+      {/* Section 2: Feature Comparison Table */}
+      <div className="bg-gray-50 py-24 sm:py-32">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="mx-auto max-w-4xl">
+            <table className="w-full border-separate border-spacing-0 text-left">
               <thead>
                 <tr>
-                  <td />
-                  {tiers.map((tier) => (
-                    <th key={tier.id} scope="col" className={`px-6 pt-6 xl:px-8 xl:pt-8 ${tier.background} rounded-t-xl border-2`} style={{ borderColor: tier.border }}>
-                      <h2 className="text-center text-gray-900">{tier.name}</h2>
+                  <th scope="col" className="py-4 pr-8 text-sm font-semibold text-gray-900">
+                    Features
+                  </th>
+                  {comparisonData.planNames.map((planName) => (
+                    <th key={planName} scope="col" className="px-6 py-4 text-center text-sm font-semibold text-gray-900">
+                      {planName}
                     </th>
                   ))}
                 </tr>
               </thead>
               <tbody>
-                <tr>
-                  <th scope="row">
-                    <span className="sr-only">Price</span>
-                  </th>
-                  {tiers.map((tier) => (
-                    <td key={tier.id} className={`px-6 pt-2 pb-4 xl:px-8 ${tier.background} border-l-2 border-r-2`} style={{ borderColor: tier.border }}>
-                      <div>
-                        <h3 className="flex items-baseline gap-x-1 text-gray-900">
-                          <span>{tier.priceYearly}</span>
-                          <span>/year</span>
-                        </h3>
-                        <p className="mt-0.5 mb-0.5 text-sm font-normal text-gray-900">
-                          or
-                        </p>
-                        <h4 className="flex items-baseline gap-x-1 text-gray-900">
-                          <span>{tier.priceMonthly}</span>
-                          <span>/month</span>
-                        </h4>
-                      </div>
-                      <a
-                        href={tier.href}
-                        className="btn mt-4 mb-0 block text-center"
-                      >
-                        7-Day Free Trial
-                      </a>
-                    </td>
-                  ))}
-                </tr>
-                {sections.map((section, sectionIdx) => (
-                  <Fragment key={section.name}>
-                    <tr>
-                      <th
-                        scope="colgroup"
-                        className={classNames(
-                          sectionIdx === 0 ? 'pt-8' : 'pt-16',
-                          'pb-4 text-sm font-semibold text-gray-900',
-                        )}
-                      >
-                        {section.name}
-                        <div className="absolute inset-x-8 mt-4 h-px bg-gray-900/10" />
-                      </th>
-                      {tiers.map((tier) => (
-                        <th
-                          key={tier.id}
-                          className={classNames(
-                            sectionIdx === 0 ? 'pt-8' : 'pt-16',
-                            `pb-4 text-sm font-semibold text-gray-900 ${tier.background} border-l-2 border-r-2`,
-                          )}
-                          style={{ borderColor: tier.border }}
-                        >
-                        </th>
-                      ))}
+                {comparisonData.sections.map((section, sectionIdx) => (
+                  <>
+                    <tr key={section.name}>
+                      <td colSpan={3} className="py-4">
+                        <div className="text-sm font-semibold text-gray-900">{section.name}</div>
+                        <div className="mt-2 h-px bg-gray-200" />
+                      </td>
                     </tr>
-                    {section.features.map((feature) => (
-                      <tr key={feature.name}>
-                        <th scope="row" className="py-4 text-sm font-normal text-gray-900">
+                    {section.features.map((feature, featureIdx) => (
+                      <tr key={feature.name} className="border-t border-gray-200">
+                        <td className="py-4 pr-8 text-sm text-gray-600">
                           {feature.name}
-                          <div className="absolute inset-x-8 mt-4 h-px bg-gray-900/5" />
-                        </th>
-                        {tiers.map((tier) => (
-                          <td key={tier.id} className={`px-6 py-4 xl:px-8 ${tier.background} border-l-2 border-r-2 ${sectionIdx === sections.length - 1 && feature === section.features[section.features.length - 1] ? 'border-b-2 rounded-b-xl' : ''}`} style={{ borderColor: tier.border }}>
-                            {typeof feature.tiers[tier.name] === 'string' ? (
-                              <div className="text-center text-sm font-normal text-gray-900">{feature.tiers[tier.name]}</div>
+                        </td>
+                        {feature.values.map((value, valueIdx) => (
+                          <td key={valueIdx} className="px-6 py-4 text-center text-sm">
+                            {value === '✓' ? (
+                              <CheckIcon className="mx-auto h-5 w-5 text-indigo-600" />
+                            ) : value === '✗' ? (
+                              <span className="mx-auto block h-5 w-5 text-gray-400">×</span>
                             ) : (
-                              <>
-                                {feature.tiers[tier.name] === true ? (
-                                  <CheckCircleIcon aria-hidden="true" className="mx-auto size-5 text-gray-700" />
-                                ) : (
-                                  <MinusIcon aria-hidden="true" className="mx-auto size-5 text-gray-400" />
-                                )}
-
-                                <span className="sr-only">
-                                  {feature.tiers[tier.name] === true ? 'Included' : 'Not included'} in {tier.name}
-                                </span>
-                              </>
+                              <span className="text-gray-900">{value}</span>
                             )}
                           </td>
                         ))}
                       </tr>
                     ))}
-                  </Fragment>
+                  </>
                 ))}
               </tbody>
             </table>
           </div>
         </div>
-      </div>
       </div>
     </>
   )
