@@ -37,7 +37,7 @@ export default function GlossaryIndex() {
       </div>
 
       {/* Alphabetical Navigation */}
-      <div className="sticky top-0 z-10 shadow-sm">
+      <div className="sticky top-0 z-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="py-4">
             <nav className="flex justify-center">
@@ -81,7 +81,7 @@ export default function GlossaryIndex() {
           letters.map((letter) => (
             <section key={letter} id={letter} className="mb-16">
               <div className="flex items-center mb-8">
-                <div className="flex items-center justify-center w-12 h-12 bg-blue-600 text-white text-2xl font-bold rounded-lg mr-4">
+                <div className="flex items-center justify-center w-12 h-12 green-pill text-2xl font-bold mr-4">
                   {letter}
                 </div>
                 <div>
