@@ -173,7 +173,7 @@ export default function SignupForm() {
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-6"></div>
           <h2 className="h2 mb-4">Creating your account...</h2>
           <p className="small-grey">
-            Please don't close this window. We're setting up your Pilla account and processing your payment.
+            Please don&apos;t close this window. We&apos;re setting up your Pilla account and processing your payment.
           </p>
         </div>
       </div>
