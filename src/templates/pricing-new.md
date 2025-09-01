@@ -64,7 +64,7 @@ Advanced analytics
 
 
 #### Plan 2 (Right Column)
-- **plan_2_name**: "Plus" | **typography**: `.h2` *[Options: h2, h3, subtitle]*
+- **plan_2_name**: "Pro" | **typography**: `.h2` *[Options: h2, h3, subtitle]*
 - **plan_2_price**: "£95" | **typography**: `.h4` *[Options: h1, h2, display-1]*
 - **plan_2_period**: "/month" | **typography**: `.small-blue` *[Options: text-sm, text-base]*
 - **plan_2_description**: "Dedicated support and infrastructure for your company." | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
@@ -84,8 +84,8 @@ Custom integrations
 ### Feature Comparison Table
 
 #### Comparison Headers
-- **comparison_plan_1_name**: "Starter" | **typography**: `text-sm font-semibold text-gray-900`
-- **comparison_plan_2_name**: "Enterprise" | **typography**: `text-sm font-semibold text-gray-900`
+- **comparison_plan_1_name**: "Basic" | **typography**: `text-sm font-semibold text-gray-900`
+- **comparison_plan_2_name**: "Pro" | **typography**: `text-sm font-semibold text-gray-900`
 - **features_header**: "Features" | **typography**: `text-sm font-semibold text-gray-900`
 - **comparison_background**: `bg-gray-50` *[Options: bg-gray-50, bg-white, bg-main]*
 
