@@ -23,7 +23,7 @@ const tiers = [
     id: 'tier-hobby',
     href: '#',
     priceMonthly: '$29',
-    description: "The perfect plan if you're just getting started with our product.",
+    description: "The perfect plan if you&apos;re just getting started with our product.",
     features: ['25 products', 'Up to 10,000 subscribers', 'Advanced analytics', '24-hour support response time'],
     featured: false,
   },
@@ -252,7 +252,7 @@ export default function PricingPage() {
                 </tr>
               </thead>
               <tbody>
-                {comparisonData.sections.map((section, sectionIdx) => (
+                {comparisonData.sections.map((section) => (
                   <>
                     <tr key={section.name}>
                       <td colSpan={3} className="py-4">
@@ -260,7 +260,7 @@ export default function PricingPage() {
                         <div className="mt-2 h-px bg-gray-200" />
                       </td>
                     </tr>
-                    {section.features.map((feature, featureIdx) => (
+                    {section.features.map((feature) => (
                       <tr key={feature.name} className="border-t border-gray-200">
                         <td className="py-4 pr-8 text-sm text-gray-600">
                           {feature.name}
