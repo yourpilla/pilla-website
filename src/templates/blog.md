@@ -521,14 +521,9 @@ export default function Example() {
 
 ## Content & Typography Forms
 
-### Header Section (Version A - Left Aligned)
-- **main_title**: "Hospitality Resources & Insights" | **typography**: `h2 + display-2` *[Options: h2 + text-4xl, h2 + display-2, h1]*
-- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `lead` *[Options: lead, subtitle, subtitle-lg]*
-
-### Header Section (Version B - Center Aligned)  
-- **section_tag**: "Resources" | **typography**: `eyebrow` *[Options: eyebrow, small-semibold]*
-- **main_title**: "Hospitality Resources & Insights" | **typography**: `h2 + display-2` *[Options: h2 + display-1, h2 + display-2, h1]*
-- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `lead` *[Options: lead, subtitle, subtitle-lg]*
+### Header Section (Left Aligned)
+- **main_title**: "Hospitality Templates and Guides" | **typography**: `.h1` and `<h1>` *[Options: h2 + text-4xl, h2 + display-2, h1]*
+- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `.big.blue` *[Options: lead, subtitle, subtitle-lg]*
 
 ### Blog Posts Array (3 posts for now)
 #### Post 1
