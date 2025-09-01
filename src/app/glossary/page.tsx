@@ -1,7 +1,12 @@
 import { getContentByCategory } from '@/lib/content';
 import Link from 'next/link';
+import { useState, useEffect } from 'react';
+
+'use client';
 
 export default function GlossaryIndex() {
+  const [activeSection, setActiveSection] = useState<string>('');
+  
   const terms = getContentByCategory('glossary').sort((a, b) => 
     a.title.localeCompare(b.title)
   );
@@ -27,6 +32,40 @@ export default function GlossaryIndex() {
   // Generate all letters A-Z plus # for complete pagination
   const allLetters = ['#', ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))];
 
+  // Intersection Observer for scroll tracking
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setActiveSection(entry.target.id);
+          }
+        });
+      },
+      {
+        rootMargin: '-20% 0px -70% 0px', // Trigger when section is in the top portion of viewport
+        threshold: 0.1
+      }
+    );
+
+    // Observe all letter sections
+    letters.forEach((letter) => {
+      const element = document.getElementById(letter);
+      if (element) {
+        observer.observe(element);
+      }
+    });
+
+    return () => {
+      letters.forEach((letter) => {
+        const element = document.getElementById(letter);
+        if (element) {
+          observer.unobserve(element);
+        }
+      });
+    };
+  }, [letters]);
+
   return (
     <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -51,7 +90,7 @@ export default function GlossaryIndex() {
                       className={`
                         flex items-center justify-center w-10 h-10 text-sm font-medium transition-all duration-200
                         ${hasTerms 
-                          ? 'orange-pill cursor-pointer' 
+                          ? (activeSection === letter ? 'orange-card cursor-pointer' : 'white-card cursor-pointer')
                           : 'bg-gray-50 text-gray-300 cursor-not-allowed'
                         }
                       `}
