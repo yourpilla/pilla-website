@@ -23,11 +23,11 @@ import {
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 const resources = [
-  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: DocumentCheckIcon, descClass: 'small-grey' },
-  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon, descClass: 'small-grey' },
-  { name: 'Glossary', description: 'Hospitality lingo explained', href: '/glossary', icon: QueueListIcon, descClass: 'small-grey' },
-  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon, descClass: 'small-grey' },
-  { name: 'Docs', description: 'Complete platform documentation', href: '/docs', icon: BookOpenIcon, descClass: 'small-grey' },
+  { name: 'How-Tos', description: 'Hospitality templates and guides', href: '/blog', icon: DocumentCheckIcon, descClass: 'small-blue' },
+  { name: 'Docs', description: 'Complete platform documentation', href: '/docs', icon: BookOpenIcon, descClass: 'small-blue' },
+  { name: 'FAQs', description: '(Almost) All your questions answered', href: '/answers', icon: QuestionMarkCircleIcon, descClass: 'small-blue' },
+  { name: 'Glossary', description: 'Hospitality lingo explained', href: '/glossary', icon: QueueListIcon, descClass: 'small-blue' },
+  { name: 'Tools', description: 'Free calculators and other tools', href: '/tools', icon: CalculatorIcon, descClass: 'small-blue' },
 ]
 
 export default function Header() {
@@ -101,7 +101,7 @@ export default function Header() {
                         <div className="flex-auto">
                           <Link
                             href={item.href}
-                            className="block small-blue"
+                            className="block h6"
                             onClick={() => setPopoverOpen(false)}
                           >
                             {item.name}

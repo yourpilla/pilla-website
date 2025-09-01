@@ -17,9 +17,14 @@ export default function BlogPage() {
   return (
     <div className="bg-main py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="mx-auto max-w-2xl lg:mx-0">
-          <h2 className="h2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl">Hospitality Resources & Insights</h2>
-          <p className="mt-2 lead">Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations.</p>
+        <div className="mx-auto max-w-2xl text-center">
+          <h2 className="eyebrow brand">Resources</h2>
+          <p className="mt-2 display-1 tracking-tight text-balance text-gray-900">
+            Hospitality Resources & Insights
+          </p>
+          <p className="mt-6 lead text-muted">
+            Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations.
+          </p>
         </div>
 
         <BlogFilter posts={sortedPosts} />
