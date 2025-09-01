@@ -37,9 +37,13 @@ export default function BlogFilter({ posts }: BlogFilterProps) {
               onClick={() => setSelectedCategory(category.name)}
               className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
                 selectedCategory === category.name
-                  ? 'bg-indigo-600 text-white'
+                  ? 'border border-orange-600 text-gray-900'
                   : 'bg-white text-gray-700 hover:bg-gray-100 border border-gray-300'
               }`}
+              style={selectedCategory === category.name ? {
+                backgroundColor: '#FFDCB4',
+                borderColor: '#FF7B00'
+              } : {}}
             >
               {category.name}
             </button>
@@ -64,7 +68,7 @@ export default function BlogFilter({ posts }: BlogFilterProps) {
                   {post.title}
                 </Link>
               </h3>
-              <p className="mt-5 line-clamp-3 text-sm/6 text-muted">{post.meta || ''}</p>
+              <p className="mt-5 line-clamp-3 small-blue">{post.meta || ''}</p>
             </div>
           </article>
         ))}
