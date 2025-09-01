@@ -36,15 +36,24 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
+        // Find the entry that's most visible
+        let mostVisibleEntry = null;
+        let maxIntersectionRatio = 0;
+        
         entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            setActiveSection(entry.target.id);
+          if (entry.isIntersecting && entry.intersectionRatio > maxIntersectionRatio) {
+            maxIntersectionRatio = entry.intersectionRatio;
+            mostVisibleEntry = entry;
           }
         });
+        
+        if (mostVisibleEntry) {
+          setActiveSection(mostVisibleEntry.target.id);
+        }
       },
       {
-        rootMargin: '-20% 0px -70% 0px', // Trigger when section is in the top portion of viewport
-        threshold: 0.1
+        rootMargin: '-10% 0px -50% 0px', // More generous margins
+        threshold: [0, 0.1, 0.25, 0.5, 0.75, 1] // Multiple thresholds for better detection
       }
     );
 
