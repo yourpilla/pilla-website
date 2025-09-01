@@ -52,7 +52,7 @@ export default function DocsPage() {
   return (
     <div className="bg-main">
       {/* Documentation Sections */}
-      <div className="mx-auto max-w-4xl px-6 py-8 lg:px-8">
+      <div className="mx-auto max-w-7xl px-6 py-8 lg:px-8">
         <h2 className="text-2xl font-bold text-gray-900 mb-8">
           Documentation Sections
         </h2>
