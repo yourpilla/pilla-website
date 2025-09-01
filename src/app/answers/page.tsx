@@ -1,4 +1,5 @@
 import { getContentByCategory } from '@/lib/content';
+import Link from 'next/link';
 
 const faqs = getContentByCategory('answers');
 
@@ -15,23 +16,20 @@ export default function AnswersPage() {
         </div>
         <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {faqs.map((faq) => (
-            <article key={faq.slug} className="flex max-w-xl flex-col items-start justify-between relative white-card p-6">
+            <Link key={faq.slug} href={`/answers/${faq.slug}`} className="flex max-w-xl flex-col items-start justify-between relative white-card p-6 group hover:shadow-sm transition-shadow">
               {faq.featured && (
                 <div className="absolute top-2 right-2 z-10">
                   <span className="small-blue green-card px-2 py-1">Featured</span>
                 </div>
               )}
               <div className="mt-6"></div>
-              <div className="group relative grow">
+              <div className="relative grow">
                 <h3 className="mt-3 h4 group-hover:text-gray-600">
-                  <a href={`/answers/${faq.slug}`}>
-                    <span className="absolute inset-0" />
-                    {faq.title}
-                  </a>
+                  {faq.title}
                 </h3>
                 <p className="mt-5 line-clamp-3 small-blue">{faq.meta || faq.content.slice(0, 160)}</p>
               </div>
-            </article>
+            </Link>
           ))}
         </div>
       </div>
