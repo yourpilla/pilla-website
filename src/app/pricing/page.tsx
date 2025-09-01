@@ -182,10 +182,10 @@ export default function PricingPage() {
               </p>
               <ul
                 role="list"
-                className="mt-8 space-y-3 text-sm/6 sm:mt-10"
+                className="mt-8 space-y-3 sm:mt-10"
               >
                 {tier.features.map((feature) => (
-                  <li key={feature} className="flex gap-x-3">
+                  <li key={feature} className="flex gap-x-3 small-blue">
                     <CheckIcon
                       aria-hidden="true"
                       className="h-6 w-5 flex-none text-indigo-600"

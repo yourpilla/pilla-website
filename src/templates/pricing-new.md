@@ -51,7 +51,7 @@
 - **plan_1_price**: "£65" | **typography**: `.h4` *[Options: h1, h2, display-1]*
 - **plan_1_period**: "/month" | **typography**: `.small-blue` *[Options: text-sm, text-base]*
 - **plan_1_description**: "The perfect plan if you're just getting started with our product." | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
-- **plan_1_features**: | *One feature per line*
+- **plan_1_features**: | *One feature per line* **typography**: `.small-blue`
 ```
 25 products
 Up to 10,000 subscribers
@@ -61,21 +61,14 @@ Advanced analytics
 - **plan_1_button_text**: "7-Day Free Trial" | **typography**: `.h3`
 - **plan_1_button_link**: "#" 
 - **plan_1_featured**: false
-- **plan_1_colors**: | *Featured styling colors*
-  - **text_color**: `text-indigo-600` *[when not featured]*
-  - **price_color**: `text-gray-900` *[when not featured]*
-  - **period_color**: `text-gray-500` *[when not featured]*
-  - **description_color**: `text-gray-600` *[when not featured]*
-  - **features_color**: `text-gray-600` *[when not featured]*
-  - **check_icon_color**: `text-indigo-600` *[when not featured]*
-  - **button_style**: `text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300` *[when not featured]*
+
 
 #### Plan 2 (Right Column)
 - **plan_2_name**: "Plus" | **typography**: `.h2` *[Options: h2, h3, subtitle]*
 - **plan_2_price**: "£95" | **typography**: `.h4` *[Options: h1, h2, display-1]*
 - **plan_2_period**: "/month" | **typography**: `.small-blue` *[Options: text-sm, text-base]*
 - **plan_2_description**: "Dedicated support and infrastructure for your company." | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
-- **plan_2_features**: | *One feature per line*
+- **plan_2_features**: | *One feature per line* **typography**: `.small-blue`
 ```
 Unlimited products
 Unlimited subscribers
@@ -87,15 +80,6 @@ Custom integrations
 - **plan_2_button_text**: "7-Day Free Trial" | **typography**: `text-sm font-semibold`
 - **plan_2_button_link**: "#"
 - **plan_2_featured**: true
-- **plan_2_colors**: | *Featured styling colors*
-  - **background**: `bg-gray-900` *[when featured]*
-  - **text_color**: `text-indigo-400` *[when featured]*
-  - **price_color**: `text-white` *[when featured]*
-  - **period_color**: `text-gray-400` *[when featured]*
-  - **description_color**: `text-gray-300` *[when featured]*
-  - **features_color**: `text-gray-300` *[when featured]*
-  - **check_icon_color**: `text-indigo-400` *[when featured]*
-  - **button_style**: `bg-indigo-500 text-white shadow-sm hover:bg-indigo-400` *[when featured]*
 
 ### Feature Comparison Table
 
