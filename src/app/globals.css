@@ -546,3 +546,11 @@ p {
   border: 1px solid #00B36E;
   border-radius: 50px;
 }
+
+/* Pricing Card Responsive Styles */
+@media (min-width: 1024px) {
+  .tier-1-card {
+    border-radius: 40px 0 0 40px !important;
+    border-right: none !important;
+  }
+}
