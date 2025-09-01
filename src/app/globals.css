@@ -500,21 +500,24 @@ p {
 /* Card Classes */
 .white-card {
   background-color: #ffffff;
-  border: 1px solid #D0D5DD;
+  border: 1px solid #374151;
+  border-radius: 5px;
 }
 
 .red-card {
   background-color: #FEC6D4;
   border: 1px solid #FB0071;
+  border-radius: 5px;
 }
 
 .orange-card {
   background-color: #FFDCB4;
   border: 1px solid #FF7B00;
+  border-radius: 5px;
 }
 
 .green-card {
   background-color: #BAEED9;
   border: 1px solid #00B36E;
-  border-radius: 0.375rem; /* 6px - rounded-md */
+  border-radius: 5px;
 }
