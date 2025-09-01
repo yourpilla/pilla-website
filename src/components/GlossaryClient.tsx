@@ -48,7 +48,7 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
         });
         
         if (mostVisibleEntry) {
-          setActiveSection(mostVisibleEntry.target.id);
+          setActiveSection((mostVisibleEntry.target as HTMLElement).id);
         }
       },
       {
