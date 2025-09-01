@@ -69,25 +69,22 @@ export default function DocsPage() {
               <Link
                 key={section}
                 href={`/docs/${section}`}
-                className="block group"
+                className="white-card p-6 group hover:shadow-sm transition-shadow"
               >
-                <div className="white-card rounded-lg p-4 hover:shadow-lg hover:border-blue-300 transition-all duration-200">
-                  <div className="flex items-center gap-x-6">
-                    <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
-                      <sectionInfo.icon aria-hidden="true" className="big-blue-icon" />
-                    </div>
-                    <div className="flex-auto">
-                      <h3 className="small-blue group-hover:text-blue-600 transition-colors">
-                        {sectionInfo.title}
-                      </h3>
-                      <p className="mt-1 small-grey">
-                        {sectionInfo.description}
-                      </p>
-                      <span className="text-xs text-gray-500 mt-2 block">
-                        {docs.length} {docs.length === 1 ? 'guide' : 'guides'}
-                      </span>
-                    </div>
-                    <ArrowRightIcon className="h-5 w-5 text-gray-400 group-hover:text-blue-600 transition-colors flex-shrink-0" />
+                <div className="flex items-center gap-x-6">
+                  <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50">
+                    <sectionInfo.icon aria-hidden="true" className="big-blue-icon" />
+                  </div>
+                  <div className="flex-auto">
+                    <h3 className="h4">
+                      {sectionInfo.title}
+                    </h3>
+                    <p className="mt-1 small-blue">
+                      {sectionInfo.description}
+                    </p>
+                    <span className="text-xs text-gray-500 mt-2 block">
+                      {docs.length} {docs.length === 1 ? 'guide' : 'guides'}
+                    </span>
                   </div>
                 </div>
               </Link>
