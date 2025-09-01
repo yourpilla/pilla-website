@@ -57,10 +57,15 @@ export async function POST(request: NextRequest) {
     });
 
     const invoice = subscription.latest_invoice as Stripe.Invoice;
-    const paymentIntent = invoice.payment_intent as Stripe.PaymentIntent;
+    let clientSecret: string | null = null;
+
+    if (invoice.payment_intent) {
+      const paymentIntent = invoice.payment_intent as Stripe.PaymentIntent;
+      clientSecret = paymentIntent.client_secret;
+    }
 
     return NextResponse.json({
-      clientSecret: paymentIntent.client_secret,
+      clientSecret,
       customerId: customer.id,
       subscriptionId: subscription.id,
     });
