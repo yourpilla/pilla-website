@@ -59,9 +59,10 @@ export async function POST(request: NextRequest) {
     const invoice = subscription.latest_invoice as Stripe.Invoice;
     let clientSecret: string | null = null;
 
-    if (invoice.payment_intent) {
-      const paymentIntent = invoice.payment_intent as Stripe.PaymentIntent;
-      clientSecret = paymentIntent.client_secret;
+    // Handle payment intent which may exist on invoice
+    const invoiceWithPaymentIntent = invoice as Stripe.Invoice & { payment_intent?: Stripe.PaymentIntent };
+    if (invoiceWithPaymentIntent.payment_intent) {
+      clientSecret = invoiceWithPaymentIntent.payment_intent.client_secret;
     }
 
     return NextResponse.json({
