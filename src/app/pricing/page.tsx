@@ -159,47 +159,34 @@ export default function PricingPage() {
             <div
               key={tier.id}
               className={classNames(
-                tier.featured ? 'relative bg-gray-900 shadow-2xl' : 'bg-white/60 sm:mx-8 lg:mx-0',
-                tier.featured
-                  ? ''
-                  : tierIdx === 0
-                    ? 'rounded-t-3xl sm:rounded-b-none lg:rounded-tr-none lg:rounded-bl-3xl'
-                    : 'sm:rounded-t-none lg:rounded-tr-3xl lg:rounded-bl-none',
-                'rounded-3xl p-8 ring-1 ring-gray-900/10 sm:p-10',
+                tierIdx === 0 ? 'red-card' : 'green-card',
+                'p-8 sm:p-10',
               )}
             >
               <h3
                 id={tier.id}
-                className={classNames(tier.featured ? 'text-indigo-400' : 'text-indigo-600', 'h3')}
+                className="h2"
               >
                 {tier.name}
               </h3>
               <p className="mt-4 flex items-baseline gap-x-2">
-                <span
-                  className={classNames(
-                    tier.featured ? 'text-white' : 'text-gray-900',
-                    'h4',
-                  )}
-                >
+                <span className="h4">
                   {tier.priceMonthly}
                 </span>
-                <span className={classNames(tier.featured ? 'text-gray-400' : 'text-gray-500', 'small-blue')}>/month</span>
+                <span className="small-blue">/month</span>
               </p>
-              <p className={classNames(tier.featured ? 'text-gray-300' : 'text-gray-600', 'mt-6 small-blue')}>
+              <p className="mt-6 small-blue">
                 {tier.description}
               </p>
               <ul
                 role="list"
-                className={classNames(
-                  tier.featured ? 'text-gray-300' : 'text-gray-600',
-                  'mt-8 space-y-3 text-sm/6 sm:mt-10',
-                )}
+                className="mt-8 space-y-3 text-sm/6 sm:mt-10"
               >
                 {tier.features.map((feature) => (
                   <li key={feature} className="flex gap-x-3">
                     <CheckIcon
                       aria-hidden="true"
-                      className={classNames(tier.featured ? 'text-indigo-400' : 'text-indigo-600', 'h-6 w-5 flex-none')}
+                      className="h-6 w-5 flex-none text-indigo-600"
                     />
                     {feature}
                   </li>
@@ -208,12 +195,7 @@ export default function PricingPage() {
               <a
                 href={tier.href}
                 aria-describedby={tier.id}
-                className={classNames(
-                  tier.featured
-                    ? 'bg-indigo-500 text-white shadow-sm hover:bg-indigo-400 focus-visible:outline-indigo-500'
-                    : 'text-indigo-600 ring-1 ring-inset ring-indigo-200 hover:ring-indigo-300 focus-visible:outline-indigo-600',
-                  'mt-8 block rounded-md px-3.5 py-2.5 text-center h5 focus-visible:outline-2 focus-visible:outline-offset-2 sm:mt-10',
-                )}
+                className="btn mt-8 block text-center sm:mt-10"
               >
                 7-Day Free Trial
               </a>
