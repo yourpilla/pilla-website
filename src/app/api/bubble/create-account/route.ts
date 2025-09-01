@@ -75,7 +75,7 @@ export async function POST(request: NextRequest) {
       success: true,
       user_id: bubbleResult.user_id,
     });
-  } catch (error: any) {
+  } catch (error: unknown) {
     console.error('Bubble account creation failed:', error);
     
     return NextResponse.json(

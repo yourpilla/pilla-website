@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useStripe, useElements, CardElement } from '@stripe/react-stripe-js';
-import { signupSchema, type SignupFormData, type SignupFormState } from '@/types/signup';
+import { type SignupFormData, type SignupFormState } from '@/types/signup';
 import { parseStripeError, parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
 import { ShieldCheckIcon, CheckCircleIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
 
@@ -71,7 +71,7 @@ export default function SignupForm() {
     let hasErrors = false;
     
     Object.keys(formData).forEach(key => {
-      const error = validateFormField(key, (formData as any)[key]);
+      const error = validateFormField(key, (formData as Record<string, string>)[key]);
       if (error) {
         errors[key] = error;
         hasErrors = true;
@@ -156,7 +156,7 @@ export default function SignupForm() {
       } else {
         throw new Error('Payment was not completed successfully. Please try again.');
       }
-    } catch (error: any) {
+    } catch (error: unknown) {
       console.error('Signup error:', error);
       setFormState({
         isLoading: false,
@@ -334,7 +334,7 @@ export default function SignupForm() {
           <div>
             <h3 className="small-blue mb-4">Payment Information</h3>
             <p className="text-sm text-gray-600 mb-4">
-              Your trial is free for 7 days. You'll only be charged if you continue after the trial period.
+              Your trial is free for 7 days. You&apos;ll only be charged if you continue after the trial period.
             </p>
             
             <div className="p-4 border border-gray-300 rounded-lg bg-white">

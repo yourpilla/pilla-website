@@ -37,10 +37,10 @@ export const ERROR_MESSAGES = {
 } as const;
 
 // Parse Stripe errors into user-friendly messages
-export function parseStripeError(error: any): string {
+export function parseStripeError(error: unknown): string {
   if (!error) return ERROR_MESSAGES.PAYMENT_FAILED;
   
-  const code = error.code || error.type;
+  const code = (error as { code?: string; type?: string }).code || (error as { code?: string; type?: string }).type;
   
   switch (code) {
     case 'card_declined':
@@ -58,26 +58,28 @@ export function parseStripeError(error: any): string {
     case 'rate_limit':
       return ERROR_MESSAGES.RATE_LIMITED;
     default:
-      return error.message || ERROR_MESSAGES.PAYMENT_FAILED;
+      return (error as { message?: string }).message || ERROR_MESSAGES.PAYMENT_FAILED;
   }
 }
 
 // Parse API errors into user-friendly messages
-export function parseApiError(error: any, defaultMessage: string = ERROR_MESSAGES.API_ERROR): string {
+export function parseApiError(error: unknown, defaultMessage: string = ERROR_MESSAGES.API_ERROR): string {
   if (!error) return defaultMessage;
   
+  const errorObj = error as { name?: string; message?: string; error?: string };
+  
   // Handle fetch errors
-  if (error.name === 'TypeError' && error.message.includes('fetch')) {
+  if (errorObj.name === 'TypeError' && errorObj.message?.includes('fetch')) {
     return ERROR_MESSAGES.NETWORK_ERROR;
   }
   
   // Handle timeout errors
-  if (error.name === 'AbortError' || error.message.includes('timeout')) {
+  if (errorObj.name === 'AbortError' || errorObj.message?.includes('timeout')) {
     return ERROR_MESSAGES.TIMEOUT_ERROR;
   }
   
   // Handle specific API error messages
-  const message = error.message || error.error || defaultMessage;
+  const message = errorObj.message || errorObj.error || defaultMessage;
   
   if (message.includes('email already exists') || message.includes('account exists')) {
     return ERROR_MESSAGES.ACCOUNT_EXISTS;
@@ -104,16 +106,17 @@ export async function retryApiCall<T>(
   maxRetries: number = 3, 
   delayMs: number = 1000
 ): Promise<T> {
-  let lastError: Error;
+  let lastError: unknown;
   
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
       return await fn();
-    } catch (error: any) {
+    } catch (error: unknown) {
       lastError = error;
       
       // Don't retry for certain errors
-      if (error.status === 400 || error.status === 401 || error.status === 403 || error.status === 409) {
+      const errorObj = error as { status?: number };
+      if (errorObj.status === 400 || errorObj.status === 401 || errorObj.status === 403 || errorObj.status === 409) {
         throw error;
       }
       
@@ -126,49 +129,51 @@ export async function retryApiCall<T>(
     }
   }
   
-  throw lastError!;
+  throw lastError;
 }
 
 // Validate form data with better error messages
-export function validateFormField(field: string, value: any): string | null {
+export function validateFormField(field: string, value: unknown): string | null {
+  const strValue = String(value || '');
+  
   switch (field) {
     case 'fullName':
-      if (!value || value.trim().length < 2) {
+      if (!strValue || strValue.trim().length < 2) {
         return 'Full name must be at least 2 characters';
       }
-      if (value.trim().length > 100) {
+      if (strValue.trim().length > 100) {
         return 'Full name must be less than 100 characters';
       }
       break;
       
     case 'email':
-      if (!value) {
+      if (!strValue) {
         return ERROR_MESSAGES.REQUIRED_FIELD;
       }
       const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-      if (!emailRegex.test(value)) {
+      if (!emailRegex.test(strValue)) {
         return ERROR_MESSAGES.INVALID_EMAIL;
       }
       break;
       
     case 'password':
-      if (!value) {
+      if (!strValue) {
         return ERROR_MESSAGES.REQUIRED_FIELD;
       }
-      if (value.length < 8) {
+      if (strValue.length < 8) {
         return 'Password must be at least 8 characters';
       }
-      if (!/(?=.*[a-zA-Z])(?=.*\d)/.test(value)) {
+      if (!/(?=.*[a-zA-Z])(?=.*\d)/.test(strValue)) {
         return 'Password must contain both letters and numbers';
       }
       break;
       
     case 'firstLocationName':
     case 'firstTeamName':
-      if (!value || value.trim().length === 0) {
+      if (!strValue || strValue.trim().length === 0) {
         return ERROR_MESSAGES.REQUIRED_FIELD;
       }
-      if (value.trim().length > 50) {
+      if (strValue.trim().length > 50) {
         return 'Name must be less than 50 characters';
       }
       break;

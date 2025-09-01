@@ -64,7 +64,7 @@ export async function POST(request: NextRequest) {
       customerId: customer.id,
       subscriptionId: subscription.id,
     });
-  } catch (error: any) {
+  } catch (error: unknown) {
     console.error('Payment intent creation failed:', error);
     
     return NextResponse.json(
