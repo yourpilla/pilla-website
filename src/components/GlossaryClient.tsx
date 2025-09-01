@@ -35,19 +35,19 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
   // Intersection Observer for scroll tracking
   useEffect(() => {
     const observer = new IntersectionObserver(
-      (entries) => {
+      (entries: IntersectionObserverEntry[]) => {
         // Find the entry that's most visible
         let mostVisibleEntry: IntersectionObserverEntry | null = null;
         let maxIntersectionRatio = 0;
         
-        entries.forEach((entry) => {
+        entries.forEach((entry: IntersectionObserverEntry) => {
           if (entry.isIntersecting && entry.intersectionRatio > maxIntersectionRatio) {
             maxIntersectionRatio = entry.intersectionRatio;
             mostVisibleEntry = entry;
           }
         });
         
-        if (mostVisibleEntry) {
+        if (mostVisibleEntry && mostVisibleEntry.target && 'id' in mostVisibleEntry.target) {
           setActiveSection((mostVisibleEntry.target as HTMLElement).id);
         }
       },
