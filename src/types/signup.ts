@@ -30,12 +30,7 @@ export interface SignupApiResponse {
 }
 
 // Bubble.io API types
-export interface BubbleCreateAccountRequest {
-  name: string;
-  email: string;
-  password: string;
-  first_location_name: string;
-  first_team_name: string;
+export interface BubbleCreateAccountRequest extends SignupFormData {
   stripe_customer_id: string;
   subscription_id: string;
 }
