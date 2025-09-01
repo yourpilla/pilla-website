@@ -160,11 +160,11 @@ export default function PricingPage() {
               key={tier.id}
               className={classNames(
                 tierIdx === 0 ? 'orange-card' : 'green-card',
-                'p-8 sm:p-10'
+                'p-8 sm:p-10',
+                tierIdx === 0 ? 'lg:rounded-r-none lg:border-r-0' : ''
               )}
               style={{
-                borderRadius: tierIdx === 0 ? '40px 0 0 40px' : '40px',
-                ...(tierIdx === 0 && { borderRight: 'none' })
+                borderRadius: tierIdx === 0 ? '40px' : '40px'
               }}
             >
               <h3
