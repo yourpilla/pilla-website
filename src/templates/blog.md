@@ -523,7 +523,7 @@ export default function Example() {
 
 ### Header Section (Left Aligned)
 - **main_title**: "Hospitality Templates and Guides" | **typography**: `.h1` and `<h1>` *[Options: h2 + text-4xl, h2 + display-2, h1]*
-- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `.big.blue` *[Options: lead, subtitle, subtitle-lg]*
+- **subtitle**: "Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations." | **typography**: `.big-blue` *[Options: lead, subtitle, subtitle-lg]*
 
 ### Blog Posts Array (3 posts for now)
 #### Post 1

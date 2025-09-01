@@ -9,6 +9,7 @@ Next.js 15 marketing website for Your Pilla hospitality management platform with
 - **Glossary** (240 pages): Hospitality terminology at `/glossary/[slug]`
 - **Tools** (9 pages): Calculators at `/tools/[slug]`
 - **Legal** (3 pages): Compliance documents at `/legal/[slug]`
+- **Documentation** (50+ pages): Platform documentation at `/docs/[section]/[slug]`
 
 ### Blog Categories
 Blog posts are organized by `secondary tag` field with dedicated category pages:
@@ -18,6 +19,14 @@ Blog posts are organized by `secondary tag` field with dedicated category pages:
 - **Food Hygiene**: `/blog/food-safety-management-system`
 - **Health and Safety**: `/blog/hospitality-risks`
 - **Operations**: `/blog/operations`
+
+### Documentation Structure
+Documentation is organized by section with hierarchical navigation:
+- **Getting Started**: `/docs/getting-started` - Account setup and platform basics
+- **User Management**: `/docs/user-management` - Team members, roles, permissions
+- **Training**: `/docs/training` - Training programs and development
+- **Operations**: `/docs/operations` - Daily operations and workflow management  
+- **Integrations**: `/docs/integrations` - API connections and third-party tools
 
 ## Recent Enhancements
 
@@ -38,6 +47,15 @@ Blog posts are organized by `secondary tag` field with dedicated category pages:
 - **Processing**: Successfully processed 483/484 FAQ files with schema-based summaries
 - **Display**: Truncated summaries on blog pages with links to full FAQ pages
 - **Masonry Layout**: CSS columns for natural flow of FAQ items
+
+### Documentation System Implementation
+- **Three-tier Routing**: `/docs` → `/docs/[section]` → `/docs/[section]/[slug]` structure
+- **Static Generation**: Uses `generateStaticParams` for all documentation routes
+- **Navigation Components**: `DocsSidebar.tsx` with expandable sections and active states
+- **Table of Contents**: `TableOfContents.tsx` with intersection observer for active headings
+- **Consistent Styling**: Cards match resources popover format with hero icons and global CSS classes
+- **Sticky Navigation**: Aligned left sidebar and right TOC using `sticky top-8`
+- **Content Rendering**: Uses `MarkdownContent.tsx` with custom heading ID generation for anchor links
 
 ### SEO Automation
 - **Dynamic Sitemap**: `/src/app/sitemap.ts` generates sitemap.xml with all 785+ pages
@@ -517,3 +535,203 @@ POST /api/admin/internal-links
 - **Page load impact**: <50ms additional processing time
 - **Memory usage**: <10MB Redis storage for complete phrase index
 - **Update speed**: New content linked within 5 seconds of file save
+
+## Documentation System Architecture
+
+### Overview
+Comprehensive documentation system with three-tier routing structure, sticky navigation, and consistent design patterns matching the resources popover format.
+
+### Routing Structure
+```
+/docs                           # Main documentation overview
+/docs/[section]                 # Section overview with guides list
+/docs/[section]/[slug]          # Individual documentation pages
+```
+
+### File Structure
+```
+src/app/docs/
+├── layout.tsx                  # Docs-specific layout with sidebar
+├── page.tsx                    # Main docs overview page
+├── [section]/
+│   ├── page.tsx               # Section overview page
+│   └── [slug]/
+│       └── page.tsx           # Individual doc page
+```
+
+### Key Components
+
+#### DocsSidebar (`src/components/DocsSidebar.tsx`)
+- **Expandable Navigation**: Collapsible sections with active state detection
+- **Auto-expand Logic**: Opens section containing current page
+- **Consistent Styling**: Matches `TableOfContents` format with `.white-card` and global CSS classes
+- **Sticky Positioning**: Uses `sticky top-8` for alignment with right TOC
+
+#### TableOfContents (`src/components/TableOfContents.tsx`)
+- **Dynamic Generation**: Extracts h1-h3 headings from markdown content
+- **Active Tracking**: Intersection Observer highlights current section
+- **Smooth Scrolling**: Clickable navigation to heading anchors
+- **ID Matching**: Uses same ID generation as `MarkdownContent` for compatibility
+
+#### MarkdownContent (`src/components/MarkdownContent.tsx`)
+- **Custom Rendering**: ReactMarkdown with heading ID generation for anchor links
+- **Typography System**: Uses global CSS classes (`.h1`, `.h2`, `.small-blue`, etc.)
+- **Consistent Styling**: Applies uniform formatting across all documentation
+
+### Content Management
+
+#### Content Storage
+```
+content/docs/
+├── getting-started/
+│   ├── introduction.md
+│   └── account-setup.md
+├── user-management/
+│   ├── adding-users.md
+│   └── roles-permissions.md
+└── [other-sections]/
+```
+
+#### Frontmatter Structure
+```yaml
+---
+title: "Page Title"
+meta: "Page description for SEO and cards"
+order: 1
+---
+```
+
+### Static Generation
+- **`generateStaticParams`**: All routes pre-generated at build time
+- **Section Detection**: Automatic discovery of documentation sections
+- **SEO Optimization**: Dynamic metadata generation per page
+
+### Navigation Features
+
+#### Left Sidebar Navigation
+- **Section Grouping**: Organized by documentation categories
+- **Active States**: Highlights current page and expands containing section
+- **Collapsible Sections**: Click to expand/collapse document groups
+- **Icon Integration**: Uses hero icons matching resources popover format
+
+#### Right Table of Contents
+- **Heading Extraction**: Automatically generates from markdown headings (h1-h3)
+- **Visual Hierarchy**: Indented levels for h2 and h3 headings
+- **Active Highlighting**: Shows current section using Intersection Observer
+- **Anchor Links**: Direct navigation to specific content sections
+
+### Design System Integration
+
+#### Card Formatting
+Both `/docs` and `/docs/[section]` pages use consistent card format:
+```tsx
+<div className="white-card rounded-lg p-4">
+  <div className="flex items-center gap-x-6">
+    <div className="flex size-11 flex-none items-center justify-center rounded-lg bg-gray-50">
+      <HeroIcon className="big-blue-icon" />
+    </div>
+    <div className="flex-auto">
+      <h3 className="small-blue">{title}</h3>
+      <p className="mt-1 small-grey">{description}</p>
+    </div>
+  </div>
+</div>
+```
+
+#### Typography Classes
+- **Headings**: `.h1`, `.h2`, `.h3`, `.h4`, `.h5`, `.h6`
+- **Body Text**: `.small-blue` for titles, `.small-grey` for descriptions
+- **Icons**: `.big-blue-icon` (24px, consistent with resources popover)
+
+#### Global Styling
+- **Background**: `bg-main` for consistent site-wide appearance
+- **Cards**: `.white-card` class for uniform card styling
+- **Spacing**: 8px grid system with Tailwind utilities
+
+### Header Integration
+- **Resources Popover**: Docs moved from main navigation to resources dropdown
+- **Consistent Icons**: BookOpenIcon matches documentation section icons
+- **Template Documentation**: Updated `src/templates/header.md` with new resource item
+
+### SEO & Performance
+- **Static Generation**: All pages pre-built for fast loading
+- **ISR (Incremental Static Regeneration)**: 6-hour revalidation for automatic content updates
+- **Webhook Integration**: Compatible with `/api/revalidate` endpoint for instant updates
+- **Structured Metadata**: Dynamic title/description generation
+- **Anchor Navigation**: Heading IDs enable direct section linking
+- **Breadcrumb Integration**: Automatic breadcrumb generation via global header
+
+### Accessibility Features
+- **Semantic HTML**: Proper heading hierarchy and nav structures
+- **Keyboard Navigation**: Full keyboard support for all interactive elements
+- **Screen Reader Support**: ARIA labels and semantic markup
+- **Focus Management**: Visible focus indicators and logical tab order
+
+
+## Work Templates (Section in Progress)
+
+Each blog needs to have it's own work template which can be used by users of our app to achieve a specific job to be done in hospitality. 
+
+Each work template must be made using a combination of pre-made elements that are available in our bubble.io app. 
+
+The structure of the work templates in the bubble.io app is:
+- Template
+--Work Elements
+
+Templates and work elements will be created via dedicated endpoints. 
+1. An endpoint to create a new template will be used first to create the template.
+2. Then several different endpoints will be used to create the combination of work elements and attach them to the template.
+
+### Available work elements
+
+**Text Guidance**
+The objective of this element is to provide a written description of some sort for the user carrying out the task.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/text-guidance
+"template":"{template that was created}"
+"instruction":"{the text being used as guidance}
+
+**Image Guidance**
+The objective of this element is to provide a visual description of some sort for the user carrying out the task.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/image-guidance
+"template":"{template that was created}"
+"instruction":"{the url of the image being used as guidance}
+
+**Text Input**
+The objective of this element is to collect a text answer from the user.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/text-input
+"template":"{template that was created}"
+
+**Number Input**
+The objective of this element is to collect a number answer from the user.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/number-input
+"template":"{template that was created}"
+
+**Single Choice**
+The objective of this element is to collect a single answer from a list of options from the user.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/single-choice
+"template":"{template that was created}"
+
+**Multiple Choice**
+The objective of this element is to collect a single or multiple answers from a list of options from the user.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/multiple-choice
+"template":"{template that was created}"
+
+**Photo Input**
+The objective of this element is to collect a photo answer from the user.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/photo-input
+"template":"{template that was created}"
+
+**Checklist**
+The objective of this element is to get the user to tick off a series of checks.
+
+Endpoint is https://yourpilla.com/version-test/api/1.1/wf/checklist
+"template":"{template that was created}"
+
+

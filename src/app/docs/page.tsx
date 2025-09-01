@@ -15,6 +15,8 @@ export const metadata: Metadata = {
   description: 'Complete documentation for the Pilla hospitality management platform. Learn how to streamline your operations, train your team, and ensure compliance.',
 };
 
+export const revalidate = 21600; // 6 hours
+
 // Section metadata
 const SECTION_INFO = {
   'getting-started': {

@@ -23,6 +23,8 @@ export async function generateStaticParams() {
   }));
 }
 
+export const revalidate = 21600; // 6 hours
+
 export async function generateMetadata({ params }: DocsPageProps): Promise<Metadata> {
   const { section, slug } = await params;
   const doc = getContentBySlug('docs', `${section}/${slug}`);

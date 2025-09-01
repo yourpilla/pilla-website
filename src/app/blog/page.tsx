@@ -19,7 +19,7 @@ export default function BlogPage() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0">
           <h1 className="h1">Hospitality Templates and Guides</h1>
-          <p className="mt-2 big blue">Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations.</p>
+          <p className="mt-2 big-blue">Expert guides, practical tips, and industry knowledge to help you excel in hospitality management and operations.</p>
         </div>
 
         <BlogFilter posts={sortedPosts} />

@@ -67,6 +67,8 @@ export async function generateStaticParams() {
   }));
 }
 
+export const revalidate = 21600; // 6 hours
+
 export default async function DocsSectionPage({ params }: DocsSectionPageProps) {
   const { section } = await params;
   const docs = getDocsBySection(section);
