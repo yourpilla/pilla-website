@@ -76,10 +76,19 @@ export async function POST(request: NextRequest) {
 async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
   console.log('Payment succeeded for invoice:', invoice.id);
   
+  // Cast invoice to include subscription and billing_reason properties
+  const invoiceWithSub = invoice as Stripe.Invoice & { 
+    subscription?: string | Stripe.Subscription;
+    billing_reason?: string;
+  };
+  
   // If this is the first payment after trial, update user status in Bubble
-  if (invoice.subscription && invoice.billing_reason === 'subscription_cycle') {
+  if (invoiceWithSub.subscription && invoiceWithSub.billing_reason === 'subscription_cycle') {
     try {
-      const subscription = await stripe.subscriptions.retrieve(invoice.subscription as string);
+      const subscriptionId = typeof invoiceWithSub.subscription === 'string' 
+        ? invoiceWithSub.subscription 
+        : invoiceWithSub.subscription.id;
+      const subscription = await stripe.subscriptions.retrieve(subscriptionId);
       
       // Update user subscription status in Bubble.io
       await fetch(`${process.env.BUBBLE_API_ENDPOINT}/wf/update-subscription-status`, {
@@ -104,25 +113,35 @@ async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
 async function handlePaymentFailed(invoice: Stripe.Invoice) {
   console.log('Payment failed for invoice:', invoice.id);
   
-  try {
-    const subscription = await stripe.subscriptions.retrieve(invoice.subscription as string);
-    
-    // Update user subscription status in Bubble.io
-    await fetch(`${process.env.BUBBLE_API_ENDPOINT}/wf/update-subscription-status`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${process.env.BUBBLE_API_KEY}`,
-      },
-      body: JSON.stringify({
-        stripe_customer_id: subscription.customer,
-        subscription_id: subscription.id,
-        status: 'payment_failed',
-        retry_date: invoice.next_payment_attempt,
+  // Cast invoice to include subscription property
+  const invoiceWithSub = invoice as Stripe.Invoice & { 
+    subscription?: string | Stripe.Subscription;
+  };
+  
+  if (invoiceWithSub.subscription) {
+    try {
+      const subscriptionId = typeof invoiceWithSub.subscription === 'string' 
+        ? invoiceWithSub.subscription 
+        : invoiceWithSub.subscription.id;
+      const subscription = await stripe.subscriptions.retrieve(subscriptionId);
+      
+      // Update user subscription status in Bubble.io
+      await fetch(`${process.env.BUBBLE_API_ENDPOINT}/wf/update-subscription-status`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${process.env.BUBBLE_API_KEY}`,
+        },
+        body: JSON.stringify({
+          stripe_customer_id: subscription.customer,
+          subscription_id: subscription.id,
+          status: 'payment_failed',
+          retry_date: (invoice as { next_payment_attempt?: number }).next_payment_attempt,
       }),
     });
-  } catch (error) {
-    console.error('Failed to update payment failure status in Bubble:', error);
+    } catch (error) {
+      console.error('Failed to update payment failure status in Bubble:', error);
+    }
   }
 }
 
