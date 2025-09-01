@@ -14,7 +14,9 @@ export default function DocsLayout({
         <div className="flex gap-8">
           {/* Sidebar */}
           <aside className="hidden lg:block w-64 flex-shrink-0">
-            <DocsSidebar sections={sections} />
+            <div className="pt-8">
+              <DocsSidebar sections={sections} />
+            </div>
           </aside>
           
           {/* Main content */}

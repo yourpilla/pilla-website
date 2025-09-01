@@ -75,7 +75,7 @@ export default async function DocPage({ params }: DocsPageProps) {
   return (
     <>
       <div className="bg-main">
-        <div className="mx-auto max-w-7xl px-6 py-8 pb-24 lg:px-8">
+        <div className="mx-auto max-w-7xl px-6 pt-8 pb-24 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
             {/* Main Content */}
             <div className="lg:col-span-3">
