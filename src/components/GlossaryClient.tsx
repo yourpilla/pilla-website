@@ -35,42 +35,36 @@ export default function GlossaryClient({ terms }: GlossaryClientProps) {
   // Intersection Observer for scroll tracking
   useEffect(() => {
     const observer = new IntersectionObserver(
-      (entries: IntersectionObserverEntry[]) => {
-        // Find the entry that's most visible
-        let mostVisibleEntry: IntersectionObserverEntry | null = null;
-        let maxIntersectionRatio = 0;
-        
-        entries.forEach((entry: IntersectionObserverEntry) => {
-          if (entry.isIntersecting && entry.intersectionRatio > maxIntersectionRatio) {
-            maxIntersectionRatio = entry.intersectionRatio;
-            mostVisibleEntry = entry;
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            const targetElement = entry.target as Element;
+            if (targetElement && targetElement.id) {
+              setActiveSection(targetElement.id);
+              break;
+            }
           }
-        });
-        
-        if (mostVisibleEntry && mostVisibleEntry.target && 'id' in mostVisibleEntry.target) {
-          setActiveSection((mostVisibleEntry.target as HTMLElement).id);
         }
       },
       {
-        rootMargin: '-10% 0px -50% 0px', // More generous margins
-        threshold: [0, 0.1, 0.25, 0.5, 0.75, 1] // Multiple thresholds for better detection
+        rootMargin: '-10% 0px -50% 0px',
+        threshold: 0.1
       }
     );
 
     // Observe all letter sections
+    const elements: Element[] = [];
     letters.forEach((letter) => {
       const element = document.getElementById(letter);
       if (element) {
         observer.observe(element);
+        elements.push(element);
       }
     });
 
     return () => {
-      letters.forEach((letter) => {
-        const element = document.getElementById(letter);
-        if (element) {
-          observer.unobserve(element);
-        }
+      elements.forEach((element) => {
+        observer.unobserve(element);
       });
     };
   }, [letters]);
