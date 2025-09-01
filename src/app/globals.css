@@ -452,6 +452,12 @@ p {
   letter-spacing: -0.01em;
 }
 
+@media (max-width: 768px) {
+  .big-blue {
+    font-size: 1.125rem; /* 18px */
+  }
+}
+
 .small-blue {
   font-size: 1.125rem; /* 18px */
   font-weight: 400;
