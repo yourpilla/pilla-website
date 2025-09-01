@@ -62,7 +62,7 @@ export default function BlogFilter({ posts }: BlogFilterProps) {
             )}
             <div className="mt-6"></div>
             <div className="group relative grow">
-              <h3 className="mt-3 text-lg/6 font-semibold text-gray-900 group-hover:text-gray-600">
+              <h3 className="mt-3 h6 group-hover:text-gray-600">
                 <Link href={`/blog/${post.slug}`}>
                   <span className="absolute inset-0" />
                   {post.title}
