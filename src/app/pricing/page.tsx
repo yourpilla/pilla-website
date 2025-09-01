@@ -164,7 +164,7 @@ export default function PricingPage() {
                 tierIdx === 0 ? 'border-r-0' : ''
               )}
               style={{
-                borderRadius: tierIdx === 0 ? '0 40px 40px 0' : '40px'
+                borderRadius: tierIdx === 0 ? '40px 0 0 40px' : '40px'
               }}
             >
               <h3
