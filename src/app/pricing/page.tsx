@@ -216,10 +216,9 @@ export default function PricingPage() {
               <thead>
                 <tr>
                   <th scope="col" className="py-4 pr-8 text-sm font-semibold text-gray-900">
-                    Features
                   </th>
                   {comparisonData.planNames.map((planName) => (
-                    <th key={planName} scope="col" className="px-6 py-4 text-center text-sm font-semibold text-gray-900">
+                    <th key={planName} scope="col" className="px-6 py-4 text-center h6">
                       {planName}
                     </th>
                   ))}
@@ -230,13 +229,13 @@ export default function PricingPage() {
                   <>
                     <tr key={section.name}>
                       <td colSpan={3} className="py-4">
-                        <div className="text-sm font-semibold text-gray-900">{section.name}</div>
+                        <div className="h6">{section.name}</div>
                         <div className="mt-2 h-px bg-gray-200" />
                       </td>
                     </tr>
                     {section.features.map((feature) => (
                       <tr key={feature.name} className="border-t border-gray-200">
-                        <td className="py-4 pr-8 text-sm text-gray-600">
+                        <td className="py-4 pr-8 small-blue">
                           {feature.name}
                         </td>
                         {feature.values.map((value, valueIdx) => (

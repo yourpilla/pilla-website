@@ -84,65 +84,65 @@ Custom integrations
 ### Feature Comparison Table
 
 #### Comparison Headers
-- **comparison_plan_1_name**: "Basic" | **typography**: `text-sm font-semibold text-gray-900`
-- **comparison_plan_2_name**: "Pro" | **typography**: `text-sm font-semibold text-gray-900`
-- **features_header**: "Features" | **typography**: `text-sm font-semibold text-gray-900`
+- **comparison_plan_1_name**: "Basic" | **typography**: `.h6`
+- **comparison_plan_2_name**: "Pro" | **typography**: `.h6`
+
 - **comparison_background**: `bg-gray-50` *[Options: bg-gray-50, bg-white, bg-main]*
 
 #### Features Category
-- **features_category_name**: "Features" | **typography**: `text-sm font-semibold text-gray-900`
+- **features_category_name**: "Features" | **typography**: `.h6`
 
-- **feature_1_name**: "Edge content delivery" | **typography**: `text-sm text-gray-600`
+- **feature_1_name**: "Edge content delivery" | **typography**: `.small-blue`
 - **feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 - **feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **feature_2_name**: "Custom domains" | **typography**: `text-sm text-gray-600`
+- **feature_2_name**: "Custom domains" | **typography**: `.small-blue`
 - **feature_2_plan_1_value**: "1" | *[Options: ✓, ✗, text/numbers]*
 - **feature_2_plan_2_value**: "Unlimited" | *[Options: ✓, ✗, text/numbers]*
 
-- **feature_3_name**: "Team members" | **typography**: `text-sm text-gray-600`
+- **feature_3_name**: "Team members" | **typography**: `.small-blue`
 - **feature_3_plan_1_value**: "3" | *[Options: ✓, ✗, text/numbers]*
 - **feature_3_plan_2_value**: "Unlimited" | *[Options: ✓, ✗, text/numbers]*
 
-- **feature_4_name**: "Single sign-on (SSO)" | **typography**: `text-sm text-gray-600`
+- **feature_4_name**: "Single sign-on (SSO)" | **typography**: `.small-blue`
 - **feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
 #### Reporting Category
-- **reporting_category_name**: "Reporting" | **typography**: `text-sm font-semibold text-gray-900`
+- **reporting_category_name**: "Reporting" | **typography**: `.h6`
 
-- **reporting_feature_1_name**: "Advanced analytics" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_1_name**: "Advanced analytics" | **typography**: `.small-blue`
 - **reporting_feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 - **reporting_feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **reporting_feature_2_name**: "Basic reports" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_2_name**: "Basic reports" | **typography**: `.small-blue`
 - **reporting_feature_2_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **reporting_feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **reporting_feature_3_name**: "Professional reports" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_3_name**: "Professional reports" | **typography**: `.small-blue`
 - **reporting_feature_3_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **reporting_feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **reporting_feature_4_name**: "Custom report builder" | **typography**: `text-sm text-gray-600`
+- **reporting_feature_4_name**: "Custom report builder" | **typography**: `.small-blue`
 - **reporting_feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **reporting_feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
 #### Support Category
-- **support_category_name**: "Support" | **typography**: `text-sm font-semibold text-gray-900`
+- **support_category_name**: "Support" | **typography**: `.h6`
 
-- **support_feature_1_name**: "24/7 online support" | **typography**: `text-sm text-gray-600`
+- **support_feature_1_name**: "24/7 online support" | **typography**: `.small-blue`
 - **support_feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 - **support_feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **support_feature_2_name**: "Quarterly workshops" | **typography**: `text-sm text-gray-600`
+- **support_feature_2_name**: "Quarterly workshops" | **typography**: `.small-blue`
 - **support_feature_2_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **support_feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **support_feature_3_name**: "Priority phone support" | **typography**: `text-sm text-gray-600`
+- **support_feature_3_name**: "Priority phone support" | **typography**: `.small-blue`
 - **support_feature_3_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **support_feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **support_feature_4_name**: "1:1 onboarding tour" | **typography**: `text-sm text-gray-600`
+- **support_feature_4_name**: "1:1 onboarding tour" | **typography**: `.small-blue`
 - **support_feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **support_feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
