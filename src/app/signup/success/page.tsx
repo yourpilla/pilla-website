@@ -1,14 +1,81 @@
-import { Metadata } from 'next';
-import Link from 'next/link';
-import { CheckCircleIcon, DevicePhoneMobileIcon, ComputerDesktopIcon } from '@heroicons/react/24/outline';
+'use client';
 
-export const metadata: Metadata = {
-  title: 'Welcome to Pilla - Account Created Successfully',
-  description: 'Your Pilla account has been created successfully. Download our mobile app to start managing your hospitality operations.',
-  robots: 'noindex, nofollow', // Don't index success pages
-};
+import { useState, useEffect } from 'react';
+import { useSearchParams } from 'next/navigation';
+import Link from 'next/link';
+import { CheckCircleIcon, DevicePhoneMobileIcon, ComputerDesktopIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
 
 export default function SignupSuccessPage() {
+  const searchParams = useSearchParams();
+  const sessionId = searchParams.get('session_id');
+  const [completionStatus, setCompletionStatus] = useState<'loading' | 'success' | 'error'>('loading');
+  const [error, setError] = useState<string | null>(null);
+  const [accountData, setAccountData] = useState<any>(null);
+
+  useEffect(() => {
+    async function completeSignup() {
+      if (!sessionId) {
+        setError('No session ID provided');
+        setCompletionStatus('error');
+        return;
+      }
+
+      try {
+        const response = await fetch('/api/complete-checkout', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ sessionId }),
+        });
+
+        if (!response.ok) {
+          const errorData = await response.json().catch(() => ({}));
+          throw new Error(errorData.error || 'Failed to complete signup');
+        }
+
+        const data = await response.json();
+        setAccountData(data);
+        setCompletionStatus('success');
+      } catch (err: unknown) {
+        console.error('Signup completion error:', err);
+        setError(err instanceof Error ? err.message : 'Something went wrong');
+        setCompletionStatus('error');
+      }
+    }
+
+    completeSignup();
+  }, [sessionId]);
+
+  if (completionStatus === 'loading') {
+    return (
+      <div className="min-h-screen bg-main flex items-center justify-center px-4">
+        <div className="white-card max-w-md w-full p-8 text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-6"></div>
+          <h2 className="h2 mb-4">Completing your signup...</h2>
+          <p className="small-grey">
+            Please wait while we finalize your account setup.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (completionStatus === 'error') {
+    return (
+      <div className="min-h-screen bg-main flex items-center justify-center px-4">
+        <div className="white-card max-w-md w-full p-8 text-center">
+          <ExclamationCircleIcon className="w-12 h-12 text-red-600 mx-auto mb-6" />
+          <h2 className="h2 mb-4">Signup Error</h2>
+          <p className="small-grey mb-6">{error}</p>
+          <a
+            href="/signup"
+            className="inline-block bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700"
+          >
+            Try Again
+          </a>
+        </div>
+      </div>
+    );
+  }
   return (
     <div className="min-h-screen bg-main py-6 sm:py-12 px-4">
       <div className="max-w-2xl mx-auto text-center">

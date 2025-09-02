@@ -2,37 +2,13 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { useStripe, useElements, CardElement } from '@stripe/react-stripe-js';
 import { type SignupFormData, type SignupFormState } from '@/types/signup';
-import { parseStripeError, parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
+import { parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
 import { ShieldCheckIcon, CheckCircleIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
 
-const cardElementOptions = {
-  style: {
-    base: {
-      fontSize: '16px',
-      color: '#424770',
-      '::placeholder': {
-        color: '#aab7c4',
-      },
-    },
-    invalid: {
-      color: '#9e2146',
-    },
-  },
-};
-
 export default function SignupForm() {
-  const stripe = useStripe();
-  const elements = useElements();
   const router = useRouter();
   
-  // Debug Stripe initialization
-  console.log('SignupForm render - Stripe status:', {
-    stripe: !!stripe,
-    elements: !!elements,
-    timestamp: new Date().toISOString()
-  });
   
   const [formData, setFormData] = useState<SignupFormData>({
     fullName: '',
@@ -49,7 +25,6 @@ export default function SignupForm() {
   });
   
   const [validationErrors, setValidationErrors] = useState<Record<string, string>>({});
-  const [cardElementReady, setCardElementReady] = useState(false);
 
   const validateField = (name: string, value: string) => {
     const error = validateFormField(name, value);
@@ -68,29 +43,8 @@ export default function SignupForm() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    
-    if (!stripe || !elements) {
-      console.error('Stripe not loaded:', { stripe: !!stripe, elements: !!elements });
-      setFormState(prev => ({ 
-        ...prev, 
-        error: 'Payment system not loaded. Please check your connection and refresh the page.', 
-        errorList: undefined 
-      }));
-      return;
-    }
 
-    // Check if CardElement is ready before proceeding
-    if (!cardElementReady) {
-      console.error('CardElement not ready yet');
-      setFormState(prev => ({ 
-        ...prev, 
-        error: 'Payment form is still loading. Please wait a moment and try again.', 
-        errorList: undefined 
-      }));
-      return;
-    }
-
-    console.log('Form submission started with Stripe loaded successfully');
+    console.log('Form submission started');
 
     // Validate all form fields
     const errors: Record<string, string> = {};
@@ -124,102 +78,25 @@ export default function SignupForm() {
     setFormState({ isLoading: true, error: null, errorList: undefined, step: 'processing' });
 
     try {
-      // Step 1: Create setup intent and customer
-      const { clientSecret, customerId } = await retryApiCall(async () => {
-        const response = await fetch('/api/create-setup-intent', {
+      // Create Stripe Checkout session
+      const { sessionId, url } = await retryApiCall(async () => {
+        const response = await fetch('/api/create-checkout-session', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            email: formData.email,
-            fullName: formData.fullName,
-          }),
+          body: JSON.stringify(formData),
         });
 
         if (!response.ok) {
           const errorData = await response.json().catch(() => ({}));
-          throw new Error(errorData.error || 'Failed to initialize payment');
+          throw new Error(errorData.error || 'Failed to create checkout session');
         }
 
         return response.json();
       });
 
-      // Step 2: Confirm setup intent with CardElement
-      console.log('Confirming setup intent with CardElement...');
-      
-      const cardElement = elements.getElement(CardElement);
-      if (!cardElement) {
-        throw new Error('Payment form not loaded properly. Please refresh and try again.');
-      }
-
-      const { error: confirmError, setupIntent } = await stripe.confirmCardSetup(clientSecret, {
-        payment_method: {
-          card: cardElement,
-          billing_details: {
-            name: formData.fullName,
-            email: formData.email,
-          },
-        },
-      });
-
-      if (confirmError) {
-        console.error('Setup confirmation error:', confirmError);
-        throw new Error(parseStripeError(confirmError));
-      }
-
-      if (setupIntent?.status !== 'succeeded') {
-        console.error('Setup intent not succeeded:', setupIntent?.status);
-        throw new Error('Failed to save payment method. Please try again.');
-      }
-
-      console.log('Setup intent succeeded, payment method saved:', setupIntent.payment_method);
-
-      // Step 3: Create trial subscription with saved payment method
-      const paymentMethodId = typeof setupIntent.payment_method === 'string' 
-        ? setupIntent.payment_method 
-        : setupIntent.payment_method?.id;
-
-      const { subscriptionId } = await retryApiCall(async () => {
-        const subscriptionResponse = await fetch('/api/create-subscription', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            paymentMethodId: paymentMethodId,
-            email: formData.email,
-            fullName: formData.fullName,
-          }),
-        });
-
-        if (!subscriptionResponse.ok) {
-          const errorData = await subscriptionResponse.json().catch(() => ({}));
-          throw new Error(errorData.error || 'Failed to create subscription');
-        }
-
-        return subscriptionResponse.json();
-      });
-
-      // Step 3: Create Bubble account with retry logic
-        await retryApiCall(async () => {
-          const bubbleResponse = await fetch('/api/bubble/create-account', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-              ...formData,
-              stripe_customer_id: customerId,
-              subscription_id: subscriptionId,
-            }),
-          });
-
-          if (!bubbleResponse.ok) {
-            const errorData = await bubbleResponse.json().catch(() => ({}));
-            throw new Error(parseApiError(errorData, 'Failed to create account. Please contact support.'));
-          }
-
-          return bubbleResponse.json();
-        });
-
-        // Success - redirect to success page
-        setFormState({ isLoading: false, error: null, errorList: undefined, step: 'success' });
-        router.push('/signup/success');
+      // Redirect to Stripe Checkout
+      console.log('Redirecting to Stripe Checkout:', url);
+      window.location.href = url;
     } catch (error: unknown) {
       console.error('Signup error:', error);
       setFormState({
@@ -409,36 +286,17 @@ export default function SignupForm() {
           <div>
             <h3 className="small-blue mb-4">Payment Information</h3>
             <p className="text-sm text-gray-600 mb-4">
-              Your trial is free for 7 days. You&apos;ll only be charged if you continue after the trial period.
+              Your trial is free for 7 days. You&apos;ll securely enter your payment details on the next page.
             </p>
-            
-            <div className="p-4 border border-gray-300 rounded-lg bg-white">
-              <CardElement 
-                options={cardElementOptions}
-                onReady={() => {
-                  console.log('CardElement mounted and ready');
-                  setCardElementReady(true);
-                }}
-                onChange={(event) => {
-                  console.log('CardElement changed:', {
-                    complete: event.complete,
-                    empty: event.empty,
-                    error: event.error?.message
-                  });
-                }}
-                onFocus={() => console.log('CardElement focused')}
-                onBlur={() => console.log('CardElement blurred')}
-              />
-            </div>
           </div>
 
           {/* Submit Button */}
           <button
             type="submit"
-            disabled={!stripe || !elements || !cardElementReady || formState.isLoading}
+            disabled={formState.isLoading}
             className="w-full bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            {!stripe || !elements || !cardElementReady ? 'Loading payment form...' : formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
+            {formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
           </button>
 
           <p className="text-xs text-gray-500 text-center">
