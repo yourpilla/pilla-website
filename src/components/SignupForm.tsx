@@ -3,6 +3,7 @@
 import { useState, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { useStripe, useElements, CardElement } from '@stripe/react-stripe-js';
+import type { StripeCardElement } from '@stripe/stripe-js';
 import { type SignupFormData, type SignupFormState } from '@/types/signup';
 import { parseStripeError, parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
 import { ShieldCheckIcon, CheckCircleIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
@@ -50,7 +51,7 @@ export default function SignupForm() {
   
   const [validationErrors, setValidationErrors] = useState<Record<string, string>>({});
   const [cardElementReady, setCardElementReady] = useState(false);
-  const cardElementRef = useRef<any>(null);
+  const cardElementRef = useRef<StripeCardElement | null>(null);
 
   const validateField = (name: string, value: string) => {
     const error = validateFormField(name, value);
