@@ -27,6 +27,13 @@ export default function SignupForm() {
   const elements = useElements();
   const router = useRouter();
   
+  // Debug Stripe initialization
+  console.log('SignupForm render - Stripe status:', {
+    stripe: !!stripe,
+    elements: !!elements,
+    timestamp: new Date().toISOString()
+  });
+  
   const [formData, setFormData] = useState<SignupFormData>({
     fullName: '',
     email: '',
@@ -123,8 +130,15 @@ export default function SignupForm() {
 
       // Step 2: Collect payment method (required for both trials and immediate payments)
       const cardElement = elements.getElement(CardElement);
+      console.log('Stripe Elements debug:', {
+        stripe: !!stripe,
+        elements: !!elements,
+        cardElement: !!cardElement,
+        publishableKey: process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY?.slice(0, 10) + '...'
+      });
+      
       if (!cardElement) {
-        throw new Error('Payment form not loaded');
+        throw new Error('Payment form not loaded. Please refresh the page and try again.');
       }
 
       if (clientSecret) {
@@ -397,10 +411,10 @@ export default function SignupForm() {
           {/* Submit Button */}
           <button
             type="submit"
-            disabled={!stripe || formState.isLoading}
+            disabled={!stripe || !elements || formState.isLoading}
             className="w-full bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            {formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
+            {!stripe || !elements ? 'Loading payment form...' : formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
           </button>
 
           <p className="text-xs text-gray-500 text-center">
