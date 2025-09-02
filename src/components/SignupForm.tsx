@@ -125,7 +125,7 @@ export default function SignupForm() {
 
     try {
       // Step 1: Create customer and trial subscription with retry logic
-      const { customerId, subscriptionId, trialEndsAt } = await retryApiCall(async () => {
+      const { customerId, subscriptionId } = await retryApiCall(async () => {
         const paymentResponse = await fetch('/api/create-payment-intent', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },

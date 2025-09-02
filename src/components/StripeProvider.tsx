@@ -1,7 +1,7 @@
 'use client';
 
 import { Elements } from '@stripe/react-stripe-js';
-import { loadStripe } from '@stripe/stripe-js';
+import { loadStripe, type StripeElementsOptions } from '@stripe/stripe-js';
 
 const publishableKey = process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY;
 
@@ -23,20 +23,36 @@ interface StripeProviderProps {
 }
 
 export default function StripeProvider({ children, clientSecret }: StripeProviderProps) {
-  const options: any = {
-    ...(clientSecret && { clientSecret }),
-    appearance: {
-      theme: 'stripe' as const,
-      variables: {
-        colorPrimary: '#2563eb',
-        colorBackground: '#ffffff',
-        colorText: '#1f2937',
-        colorDanger: '#dc2626',
-        fontFamily: 'system-ui, sans-serif',
-      },
-    },
-    loader: 'auto',
-  };
+  const options: StripeElementsOptions = clientSecret 
+    ? {
+        clientSecret,
+        appearance: {
+          theme: 'stripe',
+          variables: {
+            colorPrimary: '#2563eb',
+            colorBackground: '#ffffff',
+            colorText: '#1f2937',
+            colorDanger: '#dc2626',
+            fontFamily: 'system-ui, sans-serif',
+          },
+        },
+        loader: 'auto',
+      }
+    : {
+        mode: 'setup',
+        currency: 'gbp',
+        appearance: {
+          theme: 'stripe',
+          variables: {
+            colorPrimary: '#2563eb',
+            colorBackground: '#ffffff',
+            colorText: '#1f2937',
+            colorDanger: '#dc2626',
+            fontFamily: 'system-ui, sans-serif',
+          },
+        },
+        loader: 'auto',
+      };
 
   if (!stripePromise) {
     return (
@@ -54,7 +70,6 @@ export default function StripeProvider({ children, clientSecret }: StripeProvide
     <Elements 
       stripe={stripePromise} 
       options={options}
-      onReady={() => console.log('Stripe Elements ready')}
     >
       {children}
     </Elements>
