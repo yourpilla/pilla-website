@@ -131,33 +131,18 @@ export default function SignupForm() {
         return paymentResponse.json();
       });
 
-      // Step 2: Collect payment method (required for both trials and immediate payments)
-      // Wait for CardElement to be ready with retry logic
-      let cardElement = elements.getElement(CardElement);
-      let retryCount = 0;
-      const maxRetries = 5;
-      
-      while (!cardElement && retryCount < maxRetries) {
-        console.log(`Waiting for CardElement to mount, attempt ${retryCount + 1}`);
-        await new Promise(resolve => setTimeout(resolve, 200)); // Wait 200ms
-        cardElement = elements.getElement(CardElement);
-        retryCount++;
-      }
-      
-      console.log('Stripe Elements debug:', {
-        stripe: !!stripe,
-        elements: !!elements,
-        cardElement: !!cardElement,
-        retryCount,
-        publishableKey: process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY?.slice(0, 10) + '...'
-      });
-      
-      if (!cardElement) {
-        throw new Error('Payment form failed to load. Please refresh the page and try again.');
-      }
-
+      // Step 2: Handle payment/payment method collection based on subscription type
       if (clientSecret) {
         // For subscriptions requiring immediate payment
+        console.log('Attempting to get CardElement for immediate payment...');
+        console.log('Elements object:', elements);
+        console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
+        const cardElement = elements.getElement(CardElement);
+        console.log('Retrieved CardElement:', cardElement);
+        if (!cardElement) {
+          throw new Error('Payment form not loaded');
+        }
+
         const { error: stripeError, paymentIntent } = await stripe.confirmCardPayment(clientSecret, {
           payment_method: {
             card: cardElement,
@@ -176,7 +161,16 @@ export default function SignupForm() {
           throw new Error('Payment was not completed successfully. Please try again.');
         }
       } else {
-        // For trial subscriptions - still need to save payment method
+        // For trial subscriptions - collect and save payment method without charging
+        console.log('Attempting to get CardElement for trial...');
+        console.log('Elements object:', elements);
+        console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
+        const cardElement = elements.getElement(CardElement);
+        console.log('Retrieved CardElement:', cardElement);
+        if (!cardElement) {
+          throw new Error('Payment form not loaded');
+        }
+
         const { error: stripeError, paymentMethod } = await stripe.createPaymentMethod({
           type: 'card',
           card: cardElement,
@@ -192,14 +186,19 @@ export default function SignupForm() {
 
         // Attach payment method to customer for future billing
         if (paymentMethod) {
-          await fetch('/api/attach-payment-method', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-              customerId: customerId,
-              paymentMethodId: paymentMethod.id,
-            }),
-          });
+          try {
+            await fetch('/api/attach-payment-method', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                customerId: customerId,
+                paymentMethodId: paymentMethod.id,
+              }),
+            });
+          } catch (error) {
+            console.error('Failed to attach payment method:', error);
+            // Don't fail the entire signup if payment method attachment fails
+          }
         }
       }
 
@@ -419,7 +418,11 @@ export default function SignupForm() {
             </p>
             
             <div className="p-4 border border-gray-300 rounded-lg bg-white">
-              <CardElement options={cardElementOptions} />
+              <CardElement 
+                options={cardElementOptions}
+                onReady={() => console.log('CardElement mounted and ready')}
+                onChange={(event) => console.log('CardElement changed:', event.complete)}
+              />
             </div>
           </div>
 
