@@ -145,9 +145,23 @@ export default function SignupForm() {
 
       // Step 2: Collect payment method for trial subscription
       console.log('Collecting payment method for trial subscription...');
+      console.log('Elements object state:', {
+        elements: !!elements,
+        elementsType: typeof elements
+      });
       
       const cardElement = elements.getElement(CardElement);
+      console.log('CardElement retrieval:', {
+        cardElement: !!cardElement,
+        cardElementType: typeof cardElement,
+        cardElementReady
+      });
+      
       if (!cardElement) {
+        console.error('CardElement is null - debugging Elements object:', elements);
+        if (elements) {
+          console.log('Available methods on elements:', Object.getOwnPropertyNames(elements));
+        }
         throw new Error('Payment form not loaded properly. Please refresh and try again.');
       }
 
@@ -406,7 +420,15 @@ export default function SignupForm() {
                   console.log('CardElement mounted and ready');
                   setCardElementReady(true);
                 }}
-                onChange={(event) => console.log('CardElement changed:', event.complete)}
+                onChange={(event) => {
+                  console.log('CardElement changed:', {
+                    complete: event.complete,
+                    empty: event.empty,
+                    error: event.error?.message
+                  });
+                }}
+                onFocus={() => console.log('CardElement focused')}
+                onBlur={() => console.log('CardElement blurred')}
               />
             </div>
           </div>

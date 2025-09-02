@@ -23,7 +23,20 @@ interface StripeProviderProps {
 }
 
 export default function StripeProvider({ children, clientSecret }: StripeProviderProps) {
-  const options = clientSecret ? { clientSecret } : {};
+  const options: any = {
+    ...(clientSecret && { clientSecret }),
+    appearance: {
+      theme: 'stripe' as const,
+      variables: {
+        colorPrimary: '#2563eb',
+        colorBackground: '#ffffff',
+        colorText: '#1f2937',
+        colorDanger: '#dc2626',
+        fontFamily: 'system-ui, sans-serif',
+      },
+    },
+    loader: 'auto',
+  };
 
   if (!stripePromise) {
     return (
@@ -35,8 +48,14 @@ export default function StripeProvider({ children, clientSecret }: StripeProvide
     );
   }
 
+  console.log('StripeProvider rendering with options:', options);
+
   return (
-    <Elements stripe={stripePromise} options={options}>
+    <Elements 
+      stripe={stripePromise} 
+      options={options}
+      onReady={() => console.log('Stripe Elements ready')}
+    >
       {children}
     </Elements>
   );
