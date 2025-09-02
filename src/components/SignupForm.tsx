@@ -49,6 +49,7 @@ export default function SignupForm() {
   });
   
   const [validationErrors, setValidationErrors] = useState<Record<string, string>>({});
+  const [cardElementReady, setCardElementReady] = useState(false);
 
   const validateField = (name: string, value: string) => {
     const error = validateFormField(name, value);
@@ -73,6 +74,17 @@ export default function SignupForm() {
       setFormState(prev => ({ 
         ...prev, 
         error: 'Payment system not loaded. Please check your connection and refresh the page.', 
+        errorList: undefined 
+      }));
+      return;
+    }
+
+    // Check if CardElement is ready before proceeding
+    if (!cardElementReady) {
+      console.error('CardElement not ready yet');
+      setFormState(prev => ({ 
+        ...prev, 
+        error: 'Payment form is still loading. Please wait a moment and try again.', 
         errorList: undefined 
       }));
       return;
@@ -137,15 +149,26 @@ export default function SignupForm() {
         console.log('Attempting to get CardElement for immediate payment...');
         console.log('Elements object:', elements);
         console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
-        // Try to get all possible element types
-        const possibleTypes = ['card', 'cardNumber', 'cardExpiry', 'cardCvc', 'iban'];
-        possibleTypes.forEach(type => {
-          const element = elements.getElement(type);
-          console.log(`getElement('${type}'):`, element);
-        });
-        const cardElement = elements.getElement('card');
-        console.log('Retrieved CardElement:', cardElement);
+        
+        // Try to get CardElement with retry logic for timing issues
+        let cardElement = elements.getElement(CardElement);
+        console.log('First CardElement attempt:', cardElement);
+        
+        // If null, try waiting and retrying (timing issue fix)
         if (!cardElement) {
+          console.log('CardElement is null, waiting 100ms and retrying...');
+          await new Promise(resolve => setTimeout(resolve, 100));
+          cardElement = elements.getElement(CardElement);
+          console.log('Second CardElement attempt:', cardElement);
+        }
+        
+        // Last resort - try different access methods
+        if (!cardElement) {
+          console.log('Trying alternative access methods...');
+          // Log all available methods/properties on elements
+          console.log('Elements object methods:', Object.getOwnPropertyNames(elements));
+          console.log('Elements object prototype:', Object.getOwnPropertyNames(Object.getPrototypeOf(elements || {})));
+          
           throw new Error('Payment form not loaded');
         }
 
@@ -171,15 +194,26 @@ export default function SignupForm() {
         console.log('Attempting to get CardElement for trial...');
         console.log('Elements object:', elements);
         console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
-        // Try to get all possible element types
-        const possibleTypes = ['card', 'cardNumber', 'cardExpiry', 'cardCvc', 'iban'];
-        possibleTypes.forEach(type => {
-          const element = elements.getElement(type);
-          console.log(`getElement('${type}'):`, element);
-        });
-        const cardElement = elements.getElement('card');
-        console.log('Retrieved CardElement:', cardElement);
+        
+        // Try to get CardElement with retry logic for timing issues
+        let cardElement = elements.getElement(CardElement);
+        console.log('First CardElement attempt:', cardElement);
+        
+        // If null, try waiting and retrying (timing issue fix)
         if (!cardElement) {
+          console.log('CardElement is null, waiting 100ms and retrying...');
+          await new Promise(resolve => setTimeout(resolve, 100));
+          cardElement = elements.getElement(CardElement);
+          console.log('Second CardElement attempt:', cardElement);
+        }
+        
+        // Last resort - try different access methods
+        if (!cardElement) {
+          console.log('Trying alternative access methods...');
+          // Log all available methods/properties on elements
+          console.log('Elements object methods:', Object.getOwnPropertyNames(elements));
+          console.log('Elements object prototype:', Object.getOwnPropertyNames(Object.getPrototypeOf(elements || {})));
+          
           throw new Error('Payment form not loaded');
         }
 
@@ -432,7 +466,10 @@ export default function SignupForm() {
             <div className="p-4 border border-gray-300 rounded-lg bg-white">
               <CardElement 
                 options={cardElementOptions}
-                onReady={() => console.log('CardElement mounted and ready')}
+                onReady={() => {
+                  console.log('CardElement mounted and ready');
+                  setCardElementReady(true);
+                }}
                 onChange={(event) => console.log('CardElement changed:', event.complete)}
               />
             </div>
@@ -441,10 +478,10 @@ export default function SignupForm() {
           {/* Submit Button */}
           <button
             type="submit"
-            disabled={!stripe || !elements || formState.isLoading}
+            disabled={!stripe || !elements || !cardElementReady || formState.isLoading}
             className="w-full bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            {!stripe || !elements ? 'Loading payment form...' : formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
+            {!stripe || !elements || !cardElementReady ? 'Loading payment form...' : formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
           </button>
 
           <p className="text-xs text-gray-500 text-center">

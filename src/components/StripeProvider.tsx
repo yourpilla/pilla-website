@@ -36,7 +36,11 @@ export default function StripeProvider({ children, clientSecret }: StripeProvide
   }
 
   return (
-    <Elements stripe={stripePromise} options={options}>
+    <Elements 
+      stripe={stripePromise} 
+      options={options}
+      onReady={() => console.log('Elements provider ready')}
+    >
       {children}
     </Elements>
   );
