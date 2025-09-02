@@ -137,7 +137,7 @@ export default function SignupForm() {
         console.log('Attempting to get CardElement for immediate payment...');
         console.log('Elements object:', elements);
         console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
-        const cardElement = elements.getElement(CardElement);
+        const cardElement = elements.getElement('card');
         console.log('Retrieved CardElement:', cardElement);
         if (!cardElement) {
           throw new Error('Payment form not loaded');
@@ -165,7 +165,7 @@ export default function SignupForm() {
         console.log('Attempting to get CardElement for trial...');
         console.log('Elements object:', elements);
         console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
-        const cardElement = elements.getElement(CardElement);
+        const cardElement = elements.getElement('card');
         console.log('Retrieved CardElement:', cardElement);
         if (!cardElement) {
           throw new Error('Payment form not loaded');
