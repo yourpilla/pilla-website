@@ -46,5 +46,6 @@ export interface StripeWebhookData {
 export interface SignupFormState {
   isLoading: boolean;
   error: string | null;
+  errorList?: string[];
   step: 'form' | 'processing' | 'success' | 'error';
 }

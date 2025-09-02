@@ -62,7 +62,7 @@ export default function SignupForm() {
     e.preventDefault();
     
     if (!stripe || !elements) {
-      setFormState(prev => ({ ...prev, error: 'Payment system not loaded. Please refresh the page.' }));
+      setFormState(prev => ({ ...prev, error: 'Payment system not loaded. Please refresh the page.', errorList: undefined }));
       return;
     }
 
@@ -80,14 +80,22 @@ export default function SignupForm() {
     
     if (hasErrors) {
       setValidationErrors(errors);
+      
+      // Create a helpful error message with specific issues
+      const errorList = Object.values(errors).filter(Boolean);
+      const errorMessage = errorList.length === 1 
+        ? errorList[0] 
+        : 'Please fix these validation errors:';
+      
       setFormState(prev => ({ 
         ...prev, 
-        error: 'Please fix the errors above and try again.' 
+        error: errorMessage,
+        errorList: errorList.length > 1 ? errorList : undefined
       }));
       return;
     }
 
-    setFormState({ isLoading: true, error: null, step: 'processing' });
+    setFormState({ isLoading: true, error: null, errorList: undefined, step: 'processing' });
 
     try {
       // Step 1: Create payment intent with retry logic
@@ -151,7 +159,7 @@ export default function SignupForm() {
         });
 
         // Success - redirect to success page
-        setFormState({ isLoading: false, error: null, step: 'success' });
+        setFormState({ isLoading: false, error: null, errorList: undefined, step: 'success' });
         router.push('/signup/success');
       } else {
         throw new Error('Payment was not completed successfully. Please try again.');
@@ -161,6 +169,7 @@ export default function SignupForm() {
       setFormState({
         isLoading: false,
         error: parseApiError(error, 'Something went wrong. Please try again.'),
+        errorList: undefined,
         step: 'error',
       });
     }
@@ -212,10 +221,20 @@ export default function SignupForm() {
                 <div>
                   <p className="text-red-800 text-sm font-medium">Error</p>
                   <p className="text-red-700 text-sm mt-1">{formState.error}</p>
+                  {formState.errorList && (
+                    <ul className="text-red-700 text-sm mt-2 ml-2 space-y-1">
+                      {formState.errorList.map((error, index) => (
+                        <li key={index} className="flex items-start gap-1">
+                          <span className="text-red-500">•</span>
+                          <span>{error}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
                   {formState.step === 'error' && (
                     <button
                       type="button"
-                      onClick={() => setFormState(prev => ({ ...prev, error: null, step: 'form' }))}
+                      onClick={() => setFormState(prev => ({ ...prev, error: null, errorList: undefined, step: 'form' }))}
                       className="mt-2 text-red-600 text-sm underline hover:no-underline"
                     >
                       Try again
