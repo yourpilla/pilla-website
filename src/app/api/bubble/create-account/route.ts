@@ -33,7 +33,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Create user account in Bubble.io
-    const bubbleResponse = await fetch(`${BUBBLE_API_ENDPOINT}/wf/create-user-account`, {
+    const bubbleResponse = await fetch(`${BUBBLE_API_ENDPOINT}/wf/signup`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
