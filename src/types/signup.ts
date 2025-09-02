@@ -13,8 +13,9 @@ export type SignupFormData = z.infer<typeof signupSchema>;
 
 // API response types
 export interface PaymentIntentResponse {
-  clientSecret: string;
   customerId: string;
+  subscriptionId: string;
+  trialEndsAt?: number;
 }
 
 export interface BubbleAccountResponse {

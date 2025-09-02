@@ -35,40 +35,32 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    // Create subscription with 7-day trial
+    // Create subscription with 7-day trial (no immediate payment required)
     const subscription = await stripe.subscriptions.create({
       customer: customer.id,
       items: [
         {
-          price: 'price_1S2eoUDI83xAbaeVIzNRxn5v', // TODO: Replace with your actual Stripe price ID
+          price: process.env.STRIPE_PRICE_ID || 'price_1S2eoUDI83xAbaeVIzNRxn5v',
         },
       ],
       trial_period_days: 7,
-      payment_behavior: 'default_incomplete',
+      payment_behavior: 'allow_incomplete',
       payment_settings: {
         save_default_payment_method: 'on_subscription',
         payment_method_types: ['card'],
       },
-      expand: ['latest_invoice.payment_intent'],
       metadata: {
         source: 'website_signup',
         full_name: fullName,
       },
     });
 
-    const invoice = subscription.latest_invoice as Stripe.Invoice;
-    let clientSecret: string | null = null;
-
-    // Handle payment intent which may exist on invoice
-    const invoiceWithPaymentIntent = invoice as Stripe.Invoice & { payment_intent?: Stripe.PaymentIntent };
-    if (invoiceWithPaymentIntent.payment_intent) {
-      clientSecret = invoiceWithPaymentIntent.payment_intent.client_secret;
-    }
-
+    // For trial subscriptions, we don't need a payment intent
+    // Payment method will be collected and saved separately
     return NextResponse.json({
-      clientSecret,
       customerId: customer.id,
       subscriptionId: subscription.id,
+      trialEndsAt: subscription.trial_end,
     });
   } catch (error: unknown) {
     console.error('Payment intent creation failed:', error);

@@ -124,8 +124,8 @@ export default function SignupForm() {
     setFormState({ isLoading: true, error: null, errorList: undefined, step: 'processing' });
 
     try {
-      // Step 1: Create payment intent with retry logic
-      const { clientSecret, customerId, subscriptionId } = await retryApiCall(async () => {
+      // Step 1: Create customer and trial subscription with retry logic
+      const { customerId, subscriptionId, trialEndsAt } = await retryApiCall(async () => {
         const paymentResponse = await fetch('/api/create-payment-intent', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -143,109 +143,45 @@ export default function SignupForm() {
         return paymentResponse.json();
       });
 
-      // Step 2: Handle payment/payment method collection based on subscription type
-      if (clientSecret) {
-        // For subscriptions requiring immediate payment
-        console.log('Attempting to get CardElement for immediate payment...');
-        console.log('Elements object:', elements);
-        console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
-        
-        // Try to get CardElement with retry logic for timing issues
-        let cardElement = elements.getElement(CardElement);
-        console.log('First CardElement attempt:', cardElement);
-        
-        // If null, try waiting and retrying (timing issue fix)
-        if (!cardElement) {
-          console.log('CardElement is null, waiting 100ms and retrying...');
-          await new Promise(resolve => setTimeout(resolve, 100));
-          cardElement = elements.getElement(CardElement);
-          console.log('Second CardElement attempt:', cardElement);
-        }
-        
-        // Last resort - try different access methods
-        if (!cardElement) {
-          console.log('Trying alternative access methods...');
-          // Log all available methods/properties on elements
-          console.log('Elements object methods:', Object.getOwnPropertyNames(elements));
-          console.log('Elements object prototype:', Object.getOwnPropertyNames(Object.getPrototypeOf(elements || {})));
-          
-          throw new Error('Payment form not loaded');
-        }
+      // Step 2: Collect payment method for trial subscription
+      console.log('Collecting payment method for trial subscription...');
+      
+      const cardElement = elements.getElement(CardElement);
+      if (!cardElement) {
+        throw new Error('Payment form not loaded properly. Please refresh and try again.');
+      }
 
-        const { error: stripeError, paymentIntent } = await stripe.confirmCardPayment(clientSecret, {
-          payment_method: {
-            card: cardElement,
-            billing_details: {
-              name: formData.fullName,
-              email: formData.email,
-            },
-          },
-        });
+      // Create payment method without charging (for trial)
+      const { error: stripeError, paymentMethod } = await stripe.createPaymentMethod({
+        type: 'card',
+        card: cardElement,
+        billing_details: {
+          name: formData.fullName,
+          email: formData.email,
+        },
+      });
 
-        if (stripeError) {
-          throw new Error(parseStripeError(stripeError));
-        }
+      if (stripeError) {
+        throw new Error(parseStripeError(stripeError));
+      }
 
-        if (paymentIntent?.status !== 'succeeded') {
-          throw new Error('Payment was not completed successfully. Please try again.');
-        }
-      } else {
-        // For trial subscriptions - collect and save payment method without charging
-        console.log('Attempting to get CardElement for trial...');
-        console.log('Elements object:', elements);
-        console.log('Available element types:', elements ? Object.getOwnPropertyNames(elements) : 'elements is null');
-        
-        // Try to get CardElement with retry logic for timing issues
-        let cardElement = elements.getElement(CardElement);
-        console.log('First CardElement attempt:', cardElement);
-        
-        // If null, try waiting and retrying (timing issue fix)
-        if (!cardElement) {
-          console.log('CardElement is null, waiting 100ms and retrying...');
-          await new Promise(resolve => setTimeout(resolve, 100));
-          cardElement = elements.getElement(CardElement);
-          console.log('Second CardElement attempt:', cardElement);
-        }
-        
-        // Last resort - try different access methods
-        if (!cardElement) {
-          console.log('Trying alternative access methods...');
-          // Log all available methods/properties on elements
-          console.log('Elements object methods:', Object.getOwnPropertyNames(elements));
-          console.log('Elements object prototype:', Object.getOwnPropertyNames(Object.getPrototypeOf(elements || {})));
-          
-          throw new Error('Payment form not loaded');
-        }
+      if (!paymentMethod) {
+        throw new Error('Failed to create payment method. Please try again.');
+      }
 
-        const { error: stripeError, paymentMethod } = await stripe.createPaymentMethod({
-          type: 'card',
-          card: cardElement,
-          billing_details: {
-            name: formData.fullName,
-            email: formData.email,
-          },
-        });
+      // Attach payment method to customer for future billing
+      const attachResponse = await fetch('/api/attach-payment-method', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          customerId: customerId,
+          paymentMethodId: paymentMethod.id,
+        }),
+      });
 
-        if (stripeError) {
-          throw new Error(parseStripeError(stripeError));
-        }
-
-        // Attach payment method to customer for future billing
-        if (paymentMethod) {
-          try {
-            await fetch('/api/attach-payment-method', {
-              method: 'POST',
-              headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({
-                customerId: customerId,
-                paymentMethodId: paymentMethod.id,
-              }),
-            });
-          } catch (error) {
-            console.error('Failed to attach payment method:', error);
-            // Don't fail the entire signup if payment method attachment fails
-          }
-        }
+      if (!attachResponse.ok) {
+        const errorData = await attachResponse.json().catch(() => ({}));
+        throw new Error(errorData.error || 'Failed to save payment method');
       }
 
       // Step 3: Create Bubble account with retry logic
