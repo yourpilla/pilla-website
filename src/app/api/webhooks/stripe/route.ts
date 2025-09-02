@@ -99,7 +99,7 @@ async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
           stripe_customer_id: subscription.customer as string,
           subscription_id: subscription.id,
           status: 'active',
-          billing_cycle_anchor: (subscription as unknown as Stripe.Subscription).current_period_end,
+          billing_cycle_anchor: subscription.current_period_end,
         }),
       });
     } catch (error) {
@@ -165,9 +165,9 @@ async function handleSubscriptionUpdated(subscription: Stripe.Subscription) {
       body: JSON.stringify({
         stripe_customer_id: subscription.customer,
         subscription_id: subscription.id,
-        status: (subscription as unknown as Stripe.Subscription).status,
-        current_period_end: (subscription as unknown as Stripe.Subscription).current_period_end,
-        trial_end: (subscription as unknown as Stripe.Subscription).trial_end,
+        status: subscription.status,
+        current_period_end: subscription.current_period_end,
+        trial_end: subscription.trial_end,
       }),
     });
   } catch (error) {
@@ -190,7 +190,7 @@ async function handleSubscriptionDeleted(subscription: Stripe.Subscription) {
         stripe_customer_id: subscription.customer,
         subscription_id: subscription.id,
         status: 'cancelled',
-        cancelled_at: (subscription as unknown as Stripe.Subscription).canceled_at,
+        cancelled_at: subscription.canceled_at,
       }),
     });
   } catch (error) {
