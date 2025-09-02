@@ -85,7 +85,7 @@ async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
     try {
       const subscriptionId = typeof invoice.subscription === 'string' 
         ? invoice.subscription 
-        : invoice.subscription!.id;
+        : (invoice.subscription as Stripe.Subscription).id;
       const subscription = await stripe.subscriptions.retrieve(subscriptionId);
       
       // Update user subscription status in Bubble.io
@@ -117,7 +117,7 @@ async function handlePaymentFailed(invoice: Stripe.Invoice) {
     try {
       const subscriptionId = typeof invoice.subscription === 'string' 
         ? invoice.subscription 
-        : invoice.subscription!.id;
+        : (invoice.subscription as Stripe.Subscription).id;
       const subscription = await stripe.subscriptions.retrieve(subscriptionId);
       
       // Type-safe access to next_payment_attempt
