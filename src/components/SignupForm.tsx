@@ -2,23 +2,15 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { useStripe, useElements, CardElement } from '@stripe/react-stripe-js';
+import { useStripe, useElements, PaymentElement } from '@stripe/react-stripe-js';
 import { type SignupFormData, type SignupFormState } from '@/types/signup';
 import { parseStripeError, parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
 import { ShieldCheckIcon, CheckCircleIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
 
-const cardElementOptions = {
-  style: {
-    base: {
-      fontSize: '16px',
-      color: '#424770',
-      '::placeholder': {
-        color: '#aab7c4',
-      },
-    },
-    invalid: {
-      color: '#9e2146',
-    },
+const paymentElementOptions = {
+  layout: {
+    type: 'tabs' as const,
+    defaultCollapsed: false,
   },
 };
 
@@ -49,7 +41,7 @@ export default function SignupForm() {
   });
   
   const [validationErrors, setValidationErrors] = useState<Record<string, string>>({});
-  const [cardElementReady, setCardElementReady] = useState(false);
+  const [paymentElementReady, setPaymentElementReady] = useState(false);
 
   const validateField = (name: string, value: string) => {
     const error = validateFormField(name, value);
@@ -79,9 +71,9 @@ export default function SignupForm() {
       return;
     }
 
-    // Check if CardElement is ready before proceeding
-    if (!cardElementReady) {
-      console.error('CardElement not ready yet');
+    // Check if PaymentElement is ready before proceeding
+    if (!paymentElementReady) {
+      console.error('PaymentElement not ready yet');
       setFormState(prev => ({ 
         ...prev, 
         error: 'Payment form is still loading. Please wait a moment and try again.', 
@@ -124,8 +116,8 @@ export default function SignupForm() {
     setFormState({ isLoading: true, error: null, errorList: undefined, step: 'processing' });
 
     try {
-      // Step 1: Create customer and trial subscription with retry logic
-      const { customerId, subscriptionId } = await retryApiCall(async () => {
+      // Step 1: Create setup intent and trial subscription with retry logic
+      const { clientSecret, customerId, subscriptionId } = await retryApiCall(async () => {
         const paymentResponse = await fetch('/api/create-payment-intent', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
@@ -143,60 +135,29 @@ export default function SignupForm() {
         return paymentResponse.json();
       });
 
-      // Step 2: Collect payment method for trial subscription
-      console.log('Collecting payment method for trial subscription...');
-      console.log('Elements state:', {
-        elements: !!elements,
-        cardElementReady
-      });
+      // Step 2: Confirm setup intent to collect and save payment method
+      console.log('Confirming setup intent for trial subscription...');
+      console.log('Setup intent client secret:', clientSecret);
       
-      const cardElement = elements.getElement(CardElement);
-      console.log('CardElement retrieval via getElement:', {
-        cardElement: !!cardElement,
-        cardElementReady
-      });
-      
-      if (!cardElement) {
-        console.error('CardElement not found via getElement - debugging:', {
-          elements: !!elements,
-          cardElementReady,
-          elementsObject: elements
-        });
-        throw new Error('Payment form not loaded properly. Please refresh and try again.');
-      }
-
-      // Create payment method without charging (for trial)
-      const { error: stripeError, paymentMethod } = await stripe.createPaymentMethod({
-        type: 'card',
-        card: cardElement,
-        billing_details: {
-          name: formData.fullName,
-          email: formData.email,
+      const { error: confirmError, setupIntent } = await stripe.confirmSetup({
+        elements,
+        confirmParams: {
+          return_url: `${window.location.origin}/signup/success`,
         },
+        redirect: 'if_required',
       });
 
-      if (stripeError) {
-        throw new Error(parseStripeError(stripeError));
+      if (confirmError) {
+        console.error('Setup confirmation error:', confirmError);
+        throw new Error(parseStripeError(confirmError));
       }
 
-      if (!paymentMethod) {
-        throw new Error('Failed to create payment method. Please try again.');
+      if (setupIntent?.status !== 'succeeded') {
+        console.error('Setup intent not succeeded:', setupIntent?.status);
+        throw new Error('Failed to save payment method. Please try again.');
       }
 
-      // Attach payment method to customer for future billing
-      const attachResponse = await fetch('/api/attach-payment-method', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          customerId: customerId,
-          paymentMethodId: paymentMethod.id,
-        }),
-      });
-
-      if (!attachResponse.ok) {
-        const errorData = await attachResponse.json().catch(() => ({}));
-        throw new Error(errorData.error || 'Failed to save payment method');
-      }
+      console.log('Setup intent succeeded, payment method saved:', setupIntent.payment_method);
 
       // Step 3: Create Bubble account with retry logic
         await retryApiCall(async () => {
@@ -414,21 +375,20 @@ export default function SignupForm() {
             </p>
             
             <div className="p-4 border border-gray-300 rounded-lg bg-white">
-              <CardElement 
-                options={cardElementOptions}
+              <PaymentElement 
+                options={paymentElementOptions}
                 onReady={() => {
-                  console.log('CardElement mounted and ready');
-                  setCardElementReady(true);
+                  console.log('PaymentElement mounted and ready');
+                  setPaymentElementReady(true);
                 }}
                 onChange={(event) => {
-                  console.log('CardElement changed:', {
+                  console.log('PaymentElement changed:', {
                     complete: event.complete,
-                    empty: event.empty,
-                    error: event.error?.message
+                    empty: event.empty
                   });
                 }}
-                onFocus={() => console.log('CardElement focused')}
-                onBlur={() => console.log('CardElement blurred')}
+                onFocus={() => console.log('PaymentElement focused')}
+                onBlur={() => console.log('PaymentElement blurred')}
               />
             </div>
           </div>
@@ -436,10 +396,10 @@ export default function SignupForm() {
           {/* Submit Button */}
           <button
             type="submit"
-            disabled={!stripe || !elements || !cardElementReady || formState.isLoading}
+            disabled={!stripe || !elements || !paymentElementReady || formState.isLoading}
             className="w-full bg-blue-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            {!stripe || !elements || !cardElementReady ? 'Loading payment form...' : formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
+            {!stripe || !elements || !paymentElementReady ? 'Loading payment form...' : formState.isLoading ? 'Processing...' : 'Start 7-Day Free Trial'}
           </button>
 
           <p className="text-xs text-gray-500 text-center">

@@ -35,7 +35,18 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    // Create subscription with 7-day trial (no immediate payment required)
+    // Create setup intent to collect payment method for future use
+    const setupIntent = await stripe.setupIntents.create({
+      customer: customer.id,
+      usage: 'off_session',
+      payment_method_types: ['card'],
+      metadata: {
+        source: 'website_signup',
+        full_name: fullName,
+      },
+    });
+
+    // Create subscription with 7-day trial after payment method collection
     const subscription = await stripe.subscriptions.create({
       customer: customer.id,
       items: [
@@ -44,7 +55,7 @@ export async function POST(request: NextRequest) {
         },
       ],
       trial_period_days: 7,
-      payment_behavior: 'allow_incomplete',
+      payment_behavior: 'default_incomplete',
       payment_settings: {
         save_default_payment_method: 'on_subscription',
         payment_method_types: ['card'],
@@ -55,9 +66,8 @@ export async function POST(request: NextRequest) {
       },
     });
 
-    // For trial subscriptions, we don't need a payment intent
-    // Payment method will be collected and saved separately
     return NextResponse.json({
+      clientSecret: setupIntent.client_secret,
       customerId: customer.id,
       subscriptionId: subscription.id,
       trialEndsAt: subscription.trial_end,
