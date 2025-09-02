@@ -78,7 +78,7 @@ async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
   
   // Type-safe property access using 'in' operator and casting
   const hasSubscription = 'subscription' in invoice && invoice.subscription;
-  const hasBillingReason = 'billing_reason' in invoice && (invoice as Record<string, unknown>).billing_reason;
+  const hasBillingReason = 'billing_reason' in invoice && (invoice as unknown as Record<string, unknown>).billing_reason;
   
   // If this is the first payment after trial, update user status in Bubble
   if (hasSubscription && hasBillingReason === 'subscription_cycle') {
@@ -122,7 +122,7 @@ async function handlePaymentFailed(invoice: Stripe.Invoice) {
       
       // Type-safe access to next_payment_attempt
       const nextPaymentAttempt = 'next_payment_attempt' in invoice 
-        ? (invoice as Record<string, unknown>).next_payment_attempt 
+        ? (invoice as unknown as Record<string, unknown>).next_payment_attempt 
         : null;
       
       // Update user subscription status in Bubble.io
