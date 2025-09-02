@@ -28,6 +28,217 @@ Documentation is organized by section with hierarchical navigation:
 - **Operations**: `/docs/operations` - Daily operations and workflow management  
 - **Integrations**: `/docs/integrations` - API connections and third-party tools
 
+## B2B SaaS Signup System
+
+### Overview
+Complete B2B SaaS signup system with Stripe payments integration and Bubble.io backend for user account management. Features 7-day free trials, comprehensive error handling, and production-ready TypeScript implementation.
+
+### System Architecture
+- **Frontend**: Next.js 15 React components with Stripe Elements integration
+- **Payment Processing**: Stripe subscriptions with trial periods and webhook handling
+- **User Management**: Bubble.io API integration for account creation and management
+- **Validation**: Real-time form validation with Zod schemas and user-friendly error messages
+
+### Key Components
+
+#### Signup Form (`/src/components/SignupForm.tsx`)
+- **Stripe Integration**: Uses `@stripe/react-stripe-js` with Elements provider
+- **Form Validation**: Real-time validation with specific error messages
+- **Payment Flow**: Handles trial subscriptions without immediate payment confirmation
+- **Bubble Integration**: Creates user accounts via API after successful subscription setup
+- **Error Handling**: Comprehensive error states with retry logic and user-friendly messaging
+
+#### API Endpoints
+- **`/api/create-payment-intent`**: Creates Stripe customers and trial subscriptions
+- **`/api/bubble/create-account`**: Integrates with Bubble.io for user account creation
+- **`/api/webhooks/stripe`**: Handles payment events and subscription status updates
+
+#### Pages
+- **`/signup`**: Main signup form with Stripe Elements and validation
+- **`/signup/success`**: Success page with app download links and next steps
+
+### Stripe Integration Details
+
+#### Subscription Setup
+```typescript
+trial_period_days: 7
+payment_behavior: 'default_incomplete'
+payment_settings: {
+  save_default_payment_method: 'on_subscription',
+  payment_method_types: ['card']
+}
+```
+
+#### Webhook Events Handled
+- `invoice.payment_succeeded` - Updates user billing status in Bubble.io
+- `invoice.payment_failed` - Handles failed payments with retry logic
+- `customer.subscription.created/updated/deleted` - Syncs subscription status
+
+#### Trial Flow Logic
+- **No immediate payment** required during 7-day trial period
+- **Payment method collection** for post-trial billing
+- **Webhook processing** handles trial-to-paid transitions
+
+### Bubble.io Integration
+
+#### API Endpoint
+```
+POST https://yourpilla.com/version-test/api/1.1/wf/signup
+```
+
+#### Data Sent to Bubble.io
+```json
+{
+  "name": "User Full Name",
+  "email": "user@example.com",
+  "password": "secure_password",
+  "first_location_name": "Business Location",
+  "first_team_name": "Team Name",
+  "stripe_customer_id": "cus_xxxxx",
+  "subscription_id": "sub_xxxxx",
+  "signup_source": "website"
+}
+```
+
+#### Expected Response Format
+```json
+{
+  "status": "success",
+  "response": {
+    "user_id": "unique_user_id"
+  }
+}
+```
+
+### Environment Variables Required
+
+#### Production Environment
+```bash
+# Stripe Configuration
+STRIPE_SECRET_KEY=sk_live_...
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_live_...
+STRIPE_WEBHOOK_SECRET=whsec_...
+
+# Bubble.io Configuration
+BUBBLE_API_ENDPOINT=https://yourpilla.com/version-test/api/1.1
+BUBBLE_API_KEY=your_bubble_api_key
+
+# Stripe Price ID (update for production)
+STRIPE_PRICE_ID=price_xxxxx
+```
+
+### Form Fields and Validation
+
+#### Required Fields
+- **Full Name**: Minimum 2 characters, maximum 100 characters
+- **Email**: Valid email format required
+- **Password**: Minimum 8 characters, must contain letters and numbers
+- **Location Name**: Business location identifier (1-50 characters)
+- **Team Name**: Initial team identifier (1-50 characters)
+
+#### Payment Information
+- **Card Details**: Handled securely by Stripe Elements
+- **Trial Period**: 7 days free, automatic billing after trial
+- **Payment Method**: Saved for post-trial billing
+
+### Error Handling System
+
+#### Validation Errors
+- **Real-time validation** as user types
+- **Specific error messages** for each validation rule
+- **Aggregated error display** showing all issues at once
+- **Field-level highlighting** with red borders and messages
+
+#### API Error Handling
+- **Network errors**: Connection and timeout handling
+- **Stripe errors**: Payment-specific error messages
+- **Bubble.io errors**: Account creation failure handling
+- **Retry logic**: Automatic retries for transient failures
+
+#### User-Friendly Messages
+```typescript
+// Example error messages
+"Password must contain both letters and numbers"
+"Please fix these validation errors:"
+"Payment system not loaded. Please refresh the page."
+"Failed to create account. Please contact support."
+```
+
+### TypeScript Implementation
+
+#### Type Safety
+- **Strict TypeScript** compilation with proper type casting
+- **Zod validation schemas** for runtime type checking
+- **Stripe type compatibility** with proper interface handling
+- **Form state management** with typed interfaces
+
+#### Key Types
+```typescript
+interface SignupFormData {
+  fullName: string;
+  email: string;
+  password: string;
+  firstLocationName: string;
+  firstTeamName: string;
+}
+
+interface SignupFormState {
+  isLoading: boolean;
+  error: string | null;
+  errorList?: string[];
+  step: 'form' | 'processing' | 'success' | 'error';
+}
+```
+
+### Production Deployment Considerations
+
+#### Security
+- **Environment variables** properly configured in Vercel
+- **Webhook signature verification** for Stripe events
+- **API key security** for Bubble.io integration
+- **Client-side validation** combined with server-side checks
+
+#### Performance
+- **TypeScript compilation** optimized for production builds
+- **Error boundary handling** for graceful failure recovery
+- **Loading states** and user feedback during processing
+- **Mobile responsiveness** with Tailwind CSS
+
+#### Monitoring
+- **Console logging** for debugging webhook events
+- **Error tracking** for failed API calls
+- **User journey tracking** through signup flow states
+- **Conversion analytics** for trial-to-paid transitions
+
+### Testing and Development
+
+#### Test Cards (Stripe Test Mode)
+```bash
+# Successful payment
+4242 4242 4242 4242
+
+# Declined payment  
+4000 0000 0000 0002
+
+# Any future expiry date, any 3-digit CVC, any 5-digit ZIP
+```
+
+#### Development Workflow
+1. **Local TypeScript compilation**: `npx tsc --noEmit --skipLibCheck`
+2. **ESLint checking**: `npm run lint --quiet`
+3. **Local testing** with Stripe test keys and Bubble.io dev environment
+4. **Vercel deployment** with environment variables configured
+
+### Template Documentation
+- **`/src/templates/signup-stripe.md`**: Complete signup form configuration and customization guide
+- **`/src/templates/signup-success.md`**: Success page content and styling documentation
+
+### Future Enhancements
+- **Plan selection**: Option to choose subscription tier during signup
+- **A/B testing**: Compare single premium trial vs plan selection approaches
+- **Email integration**: Welcome sequences and trial reminders
+- **Analytics integration**: Detailed conversion tracking and user behavior analysis
+
 ## Recent Enhancements
 
 ### Blog System Improvements

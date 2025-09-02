@@ -117,13 +117,14 @@ export default function SignupForm() {
         return paymentResponse.json();
       });
 
-      // Step 2: Confirm payment (only if clientSecret exists - trial subscriptions may not have one)
-      if (clientSecret) {
-        const cardElement = elements.getElement(CardElement);
-        if (!cardElement) {
-          throw new Error('Payment form not loaded');
-        }
+      // Step 2: Collect payment method (required for both trials and immediate payments)
+      const cardElement = elements.getElement(CardElement);
+      if (!cardElement) {
+        throw new Error('Payment form not loaded');
+      }
 
+      if (clientSecret) {
+        // For subscriptions requiring immediate payment
         const { error: stripeError, paymentIntent } = await stripe.confirmCardPayment(clientSecret, {
           payment_method: {
             card: cardElement,
@@ -142,8 +143,31 @@ export default function SignupForm() {
           throw new Error('Payment was not completed successfully. Please try again.');
         }
       } else {
-        // No immediate payment required for trial subscription
-        console.log('No payment required for trial subscription');
+        // For trial subscriptions - still need to save payment method
+        const { error: stripeError, paymentMethod } = await stripe.createPaymentMethod({
+          type: 'card',
+          card: cardElement,
+          billing_details: {
+            name: formData.fullName,
+            email: formData.email,
+          },
+        });
+
+        if (stripeError) {
+          throw new Error(parseStripeError(stripeError));
+        }
+
+        // Attach payment method to customer for future billing
+        if (paymentMethod) {
+          await fetch('/api/attach-payment-method', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              customerId: customerId,
+              paymentMethodId: paymentMethod.id,
+            }),
+          });
+        }
       }
 
       // Step 3: Create Bubble account with retry logic
