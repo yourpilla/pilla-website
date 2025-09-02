@@ -18,7 +18,7 @@ export async function POST(request: NextRequest) {
 
     // Retrieve the checkout session with all data
     const session = await stripe.checkout.sessions.retrieve(sessionId, {
-      expand: ['subscription', 'customer', 'custom_fields'],
+      expand: ['subscription', 'customer'],
     });
 
     if (!session.subscription) {
@@ -35,6 +35,7 @@ export async function POST(request: NextRequest) {
       password,
       firstLocationName,
       firstTeamName,
+      customerId,
     } = session.metadata || {};
 
     if (!fullName || !email || !password || !firstLocationName || !firstTeamName) {
@@ -57,9 +58,9 @@ export async function POST(request: NextRequest) {
         password: password,
         first_location_name: firstLocationName,
         first_team_name: firstTeamName,
-        stripe_customer_id: typeof session.customer === 'string' 
+        stripe_customer_id: customerId || (typeof session.customer === 'string' 
           ? session.customer 
-          : session.customer?.id,
+          : session.customer?.id),
         subscription_id: typeof session.subscription === 'string' 
           ? session.subscription 
           : session.subscription?.id,
@@ -81,9 +82,9 @@ export async function POST(request: NextRequest) {
 
     return NextResponse.json({
       success: true,
-      customerId: typeof session.customer === 'string' 
+      customerId: customerId || (typeof session.customer === 'string' 
         ? session.customer 
-        : session.customer?.id,
+        : session.customer?.id),
       subscriptionId: typeof session.subscription === 'string' 
         ? session.subscription 
         : session.subscription?.id,

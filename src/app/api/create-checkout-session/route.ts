@@ -43,7 +43,7 @@ export async function POST(request: NextRequest) {
 
     // Create Checkout Session with trial
     const session = await stripe.checkout.sessions.create({
-      customer: customer.id,
+      customer_email: email,
       payment_method_types: ['card'],
       mode: 'subscription',
       line_items: [{
@@ -59,32 +59,13 @@ export async function POST(request: NextRequest) {
       },
       success_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup/success?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup?cancelled=true`,
-      custom_fields: [
-        {
-          key: 'password',
-          label: { type: 'text', custom: 'Account Password' },
-          type: 'text',
-          text: { maximum_length: 100, minimum_length: 8 },
-        },
-        {
-          key: 'location_name',
-          label: { type: 'text', custom: 'Location Name' },
-          type: 'text',
-          text: { maximum_length: 50, minimum_length: 1 },
-        },
-        {
-          key: 'team_name',
-          label: { type: 'text', custom: 'Team Name' },
-          type: 'text',
-          text: { maximum_length: 50, minimum_length: 1 },
-        }
-      ],
       metadata: {
         fullName,
         email,
         password,
         firstLocationName,
         firstTeamName,
+        customerId: customer.id,
       },
     });
 

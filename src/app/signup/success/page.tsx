@@ -40,7 +40,6 @@ export default function SignupSuccessPage() {
         const data = await response.json();
         setAccountData(data);
         setCompletionStatus('success');
-        console.log('Account created successfully:', data);
       } catch (err: unknown) {
         console.error('Signup completion error:', err);
         setError(err instanceof Error ? err.message : 'Something went wrong');
@@ -97,6 +96,11 @@ export default function SignupSuccessPage() {
           <h1 className="h1 mb-4 text-green-800">Welcome to Pilla! 🎉</h1>
           <p className="text-lg text-gray-700 mb-6">
             Your account has been created successfully and your 7-day free trial has started.
+            {accountData && (
+              <span className="block text-sm text-gray-500 mt-2">
+                Account ID: {accountData.bubbleUserId}
+              </span>
+            )}
           </p>
           <div className="white-card p-6 mb-8">
             <h2 className="small-blue mb-2">What happens next?</h2>
