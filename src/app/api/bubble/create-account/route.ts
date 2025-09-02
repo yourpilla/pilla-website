@@ -71,9 +71,12 @@ export async function POST(request: NextRequest) {
 
     const bubbleResult = await bubbleResponse.json();
     
+    // Handle Bubble.io response format: { status: "success", response: { user_id: "123" } }
+    const userId = bubbleResult.response?.user_id || bubbleResult.user_id;
+    
     return NextResponse.json({
       success: true,
-      user_id: bubbleResult.user_id,
+      user_id: userId,
     });
   } catch (error: unknown) {
     console.error('Bubble account creation failed:', error);
