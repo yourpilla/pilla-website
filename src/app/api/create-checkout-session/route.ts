@@ -22,26 +22,7 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Create or retrieve Stripe customer
-    let customer;
-    const existingCustomers = await stripe.customers.list({
-      email: email,
-      limit: 1,
-    });
-
-    if (existingCustomers.data.length > 0) {
-      customer = existingCustomers.data[0];
-    } else {
-      customer = await stripe.customers.create({
-        email: email,
-        name: fullName,
-        metadata: {
-          source: 'website_signup',
-        },
-      });
-    }
-
-    // Create Checkout Session with trial
+    // Create Checkout Session with trial (let Stripe create the customer)
     const session = await stripe.checkout.sessions.create({
       customer_email: email,
       payment_method_types: ['card'],
@@ -57,15 +38,14 @@ export async function POST(request: NextRequest) {
           full_name: fullName,
         },
       },
-      success_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup/success?session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup?cancelled=true`,
+      success_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup/success?session_id={CHECKOUT_SESSION_ID}`,
+      cancel_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup?cancelled=true`,
       metadata: {
         fullName,
         email,
         password,
         firstLocationName,
         firstTeamName,
-        customerId: customer.id,
       },
     });
 
