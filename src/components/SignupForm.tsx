@@ -62,7 +62,11 @@ export default function SignupForm() {
     e.preventDefault();
     
     if (!stripe || !elements) {
-      setFormState(prev => ({ ...prev, error: 'Payment system not loaded. Please refresh the page.', errorList: undefined }));
+      setFormState(prev => ({ 
+        ...prev, 
+        error: 'Payment system not loaded. Please check your connection and refresh the page.', 
+        errorList: undefined 
+      }));
       return;
     }
 
