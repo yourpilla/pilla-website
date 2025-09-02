@@ -7,12 +7,6 @@ import { type SignupFormData, type SignupFormState } from '@/types/signup';
 import { parseStripeError, parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
 import { ShieldCheckIcon, CheckCircleIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
 
-const paymentElementOptions = {
-  layout: {
-    type: 'tabs' as const,
-    defaultCollapsed: false,
-  },
-};
 
 export default function SignupForm() {
   const stripe = useStripe();
@@ -116,28 +110,8 @@ export default function SignupForm() {
     setFormState({ isLoading: true, error: null, errorList: undefined, step: 'processing' });
 
     try {
-      // Step 1: Create setup intent and trial subscription with retry logic
-      const { clientSecret, customerId, subscriptionId } = await retryApiCall(async () => {
-        const paymentResponse = await fetch('/api/create-payment-intent', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            email: formData.email,
-            fullName: formData.fullName,
-          }),
-        });
-
-        if (!paymentResponse.ok) {
-          const errorData = await paymentResponse.json().catch(() => ({}));
-          throw new Error(errorData.error || 'Failed to create payment intent');
-        }
-
-        return paymentResponse.json();
-      });
-
-      // Step 2: Confirm setup intent to collect and save payment method
+      // Step 1: Confirm setup intent to collect and save payment method
       console.log('Confirming setup intent for trial subscription...');
-      console.log('Setup intent client secret:', clientSecret);
       
       const { error: confirmError, setupIntent } = await stripe.confirmSetup({
         elements,
@@ -158,6 +132,31 @@ export default function SignupForm() {
       }
 
       console.log('Setup intent succeeded, payment method saved:', setupIntent.payment_method);
+
+      // Step 2: Create trial subscription with saved payment method
+      // Get customer ID from setup intent metadata or create new subscription API call
+      const paymentMethodId = typeof setupIntent.payment_method === 'string' 
+        ? setupIntent.payment_method 
+        : setupIntent.payment_method?.id;
+
+      const { customerId, subscriptionId } = await retryApiCall(async () => {
+        const subscriptionResponse = await fetch('/api/create-subscription', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            paymentMethodId: paymentMethodId,
+            email: formData.email,
+            fullName: formData.fullName,
+          }),
+        });
+
+        if (!subscriptionResponse.ok) {
+          const errorData = await subscriptionResponse.json().catch(() => ({}));
+          throw new Error(errorData.error || 'Failed to create subscription');
+        }
+
+        return subscriptionResponse.json();
+      });
 
       // Step 3: Create Bubble account with retry logic
         await retryApiCall(async () => {
@@ -376,7 +375,6 @@ export default function SignupForm() {
             
             <div className="p-4 border border-gray-300 rounded-lg bg-white">
               <PaymentElement 
-                options={paymentElementOptions}
                 onReady={() => {
                   console.log('PaymentElement mounted and ready');
                   setPaymentElementReady(true);

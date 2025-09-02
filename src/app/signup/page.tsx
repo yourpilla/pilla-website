@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
-import StripeProvider from '@/components/StripeProvider';
-import SignupForm from '@/components/SignupForm';
+import SignupWithPayment from '@/components/SignupWithPayment';
 
 export const metadata: Metadata = {
   title: 'Sign Up - Start Your 7-Day Free Trial | Pilla',
@@ -14,9 +13,5 @@ export const metadata: Metadata = {
 };
 
 export default function SignupPage() {
-  return (
-    <StripeProvider>
-      <SignupForm />
-    </StripeProvider>
-  );
+  return <SignupWithPayment />;
 }
