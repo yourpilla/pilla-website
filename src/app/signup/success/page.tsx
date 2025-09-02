@@ -10,7 +10,12 @@ export default function SignupSuccessPage() {
   const sessionId = searchParams.get('session_id');
   const [completionStatus, setCompletionStatus] = useState<'loading' | 'success' | 'error'>('loading');
   const [error, setError] = useState<string | null>(null);
-  const [accountData, setAccountData] = useState<any>(null);
+  const [accountData, setAccountData] = useState<{
+    customerId: string;
+    subscriptionId: string;
+    bubbleUserId: string;
+    trialEndsAt: number | null;
+  } | null>(null);
 
   useEffect(() => {
     async function completeSignup() {
@@ -35,6 +40,7 @@ export default function SignupSuccessPage() {
         const data = await response.json();
         setAccountData(data);
         setCompletionStatus('success');
+        console.log('Account created successfully:', data);
       } catch (err: unknown) {
         console.error('Signup completion error:', err);
         setError(err instanceof Error ? err.message : 'Something went wrong');

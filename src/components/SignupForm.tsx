@@ -1,13 +1,11 @@
 'use client';
 
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
 import { type SignupFormData, type SignupFormState } from '@/types/signup';
 import { parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
 import { ShieldCheckIcon, CheckCircleIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
 
 export default function SignupForm() {
-  const router = useRouter();
   
   
   const [formData, setFormData] = useState<SignupFormData>({
@@ -79,7 +77,7 @@ export default function SignupForm() {
 
     try {
       // Create Stripe Checkout session
-      const { sessionId, url } = await retryApiCall(async () => {
+      const { url } = await retryApiCall(async () => {
         const response = await fetch('/api/create-checkout-session', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
