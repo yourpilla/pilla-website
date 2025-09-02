@@ -1,9 +1,8 @@
 'use client';
 
-import { useState, useRef } from 'react';
+import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useStripe, useElements, CardElement } from '@stripe/react-stripe-js';
-import type { StripeCardElement } from '@stripe/stripe-js';
 import { type SignupFormData, type SignupFormState } from '@/types/signup';
 import { parseStripeError, parseApiError, retryApiCall, validateFormField } from '@/lib/error-utils';
 import { ShieldCheckIcon, CheckCircleIcon, ExclamationCircleIcon } from '@heroicons/react/24/outline';
@@ -51,7 +50,6 @@ export default function SignupForm() {
   
   const [validationErrors, setValidationErrors] = useState<Record<string, string>>({});
   const [cardElementReady, setCardElementReady] = useState(false);
-  const cardElementRef = useRef<StripeCardElement | null>(null);
 
   const validateField = (name: string, value: string) => {
     const error = validateFormField(name, value);
@@ -147,18 +145,22 @@ export default function SignupForm() {
 
       // Step 2: Collect payment method for trial subscription
       console.log('Collecting payment method for trial subscription...');
-      console.log('CardElement ref state:', {
-        cardElementRef: !!cardElementRef.current,
+      console.log('Elements state:', {
+        elements: !!elements,
         cardElementReady
       });
       
-      const cardElement = cardElementRef.current;
+      const cardElement = elements.getElement(CardElement);
+      console.log('CardElement retrieval via getElement:', {
+        cardElement: !!cardElement,
+        cardElementReady
+      });
       
       if (!cardElement) {
-        console.error('CardElement ref is null - debugging:', {
-          cardElementRef: cardElementRef.current,
+        console.error('CardElement not found via getElement - debugging:', {
+          elements: !!elements,
           cardElementReady,
-          elements: !!elements
+          elementsObject: elements
         });
         throw new Error('Payment form not loaded properly. Please refresh and try again.');
       }
@@ -414,9 +416,8 @@ export default function SignupForm() {
             <div className="p-4 border border-gray-300 rounded-lg bg-white">
               <CardElement 
                 options={cardElementOptions}
-                onReady={(element) => {
-                  console.log('CardElement mounted and ready, saving ref');
-                  cardElementRef.current = element;
+                onReady={() => {
+                  console.log('CardElement mounted and ready');
                   setCardElementReady(true);
                 }}
                 onChange={(event) => {

@@ -27,9 +27,9 @@ const nextConfig: NextConfig = {
               "style-src 'self' 'unsafe-inline'",
               "img-src 'self' data: blob: https:",
               "font-src 'self' data:",
-              "connect-src 'self' https://api.stripe.com https://*.stripe.com",
-              "frame-src 'self' https://js.stripe.com https://*.stripe.com",
-              "child-src 'self' https://js.stripe.com https://*.stripe.com"
+              "connect-src 'self' https://api.stripe.com https://*.stripe.com https://m.stripe.network",
+              "frame-src 'self' https://js.stripe.com https://*.stripe.com https://hooks.stripe.com https://m.stripe.network",
+              "child-src 'self' https://js.stripe.com https://*.stripe.com https://hooks.stripe.com https://m.stripe.network"
             ].join('; ')
           }
         ]
