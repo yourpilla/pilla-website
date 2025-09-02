@@ -7,19 +7,6 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
 
 const webhookSecret = process.env.STRIPE_WEBHOOK_SECRET!;
 
-// Extended interfaces for Stripe objects with additional properties
-interface ExtendedInvoice extends Stripe.Invoice {
-  subscription?: string | Stripe.Subscription;
-  billing_reason?: string;
-  next_payment_attempt?: number;
-}
-
-interface ExtendedSubscription extends Stripe.Subscription {
-  current_period_end?: number;
-  trial_end?: number | null;
-  canceled_at?: number | null;
-}
-
 export async function POST(request: NextRequest) {
   try {
     const body = await request.text();
@@ -48,27 +35,27 @@ export async function POST(request: NextRequest) {
     // Handle the event
     switch (event.type) {
       case 'invoice.payment_succeeded':
-        const invoice = event.data.object as ExtendedInvoice;
+        const invoice = event.data.object as Stripe.Invoice;
         await handlePaymentSucceeded(invoice);
         break;
 
       case 'invoice.payment_failed':
-        const failedInvoice = event.data.object as ExtendedInvoice;
+        const failedInvoice = event.data.object as Stripe.Invoice;
         await handlePaymentFailed(failedInvoice);
         break;
 
       case 'customer.subscription.created':
-        const subscription = event.data.object as ExtendedSubscription;
+        const subscription = event.data.object as Stripe.Subscription;
         await handleSubscriptionCreated(subscription);
         break;
 
       case 'customer.subscription.updated':
-        const updatedSubscription = event.data.object as ExtendedSubscription;
+        const updatedSubscription = event.data.object as Stripe.Subscription;
         await handleSubscriptionUpdated(updatedSubscription);
         break;
 
       case 'customer.subscription.deleted':
-        const deletedSubscription = event.data.object as ExtendedSubscription;
+        const deletedSubscription = event.data.object as Stripe.Subscription;
         await handleSubscriptionDeleted(deletedSubscription);
         break;
 
@@ -86,16 +73,20 @@ export async function POST(request: NextRequest) {
   }
 }
 
-async function handlePaymentSucceeded(invoice: ExtendedInvoice) {
+async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
   console.log('Payment succeeded for invoice:', invoice.id);
   
+  // Type-safe property access using 'in' operator and casting
+  const hasSubscription = 'subscription' in invoice && invoice.subscription;
+  const hasBillingReason = 'billing_reason' in invoice && (invoice as Record<string, unknown>).billing_reason;
+  
   // If this is the first payment after trial, update user status in Bubble
-  if (invoice.subscription && invoice.billing_reason === 'subscription_cycle') {
+  if (hasSubscription && hasBillingReason === 'subscription_cycle') {
     try {
       const subscriptionId = typeof invoice.subscription === 'string' 
         ? invoice.subscription 
-        : invoice.subscription.id;
-      const subscription = await stripe.subscriptions.retrieve(subscriptionId) as ExtendedSubscription;
+        : invoice.subscription!.id;
+      const subscription = await stripe.subscriptions.retrieve(subscriptionId);
       
       // Update user subscription status in Bubble.io
       await fetch(`${process.env.BUBBLE_API_ENDPOINT}/wf/update-subscription-status`, {
@@ -117,15 +108,22 @@ async function handlePaymentSucceeded(invoice: ExtendedInvoice) {
   }
 }
 
-async function handlePaymentFailed(invoice: ExtendedInvoice) {
+async function handlePaymentFailed(invoice: Stripe.Invoice) {
   console.log('Payment failed for invoice:', invoice.id);
   
-  if (invoice.subscription) {
+  const hasSubscription = 'subscription' in invoice && invoice.subscription;
+  
+  if (hasSubscription) {
     try {
       const subscriptionId = typeof invoice.subscription === 'string' 
         ? invoice.subscription 
-        : invoice.subscription.id;
-      const subscription = await stripe.subscriptions.retrieve(subscriptionId) as ExtendedSubscription;
+        : invoice.subscription!.id;
+      const subscription = await stripe.subscriptions.retrieve(subscriptionId);
+      
+      // Type-safe access to next_payment_attempt
+      const nextPaymentAttempt = 'next_payment_attempt' in invoice 
+        ? (invoice as Record<string, unknown>).next_payment_attempt 
+        : null;
       
       // Update user subscription status in Bubble.io
       await fetch(`${process.env.BUBBLE_API_ENDPOINT}/wf/update-subscription-status`, {
@@ -138,7 +136,7 @@ async function handlePaymentFailed(invoice: ExtendedInvoice) {
           stripe_customer_id: subscription.customer,
           subscription_id: subscription.id,
           status: 'payment_failed',
-          retry_date: invoice.next_payment_attempt,
+          retry_date: nextPaymentAttempt,
         }),
       });
     } catch (error) {
@@ -147,13 +145,13 @@ async function handlePaymentFailed(invoice: ExtendedInvoice) {
   }
 }
 
-async function handleSubscriptionCreated(subscription: ExtendedSubscription) {
+async function handleSubscriptionCreated(subscription: Stripe.Subscription) {
   console.log('Subscription created:', subscription.id);
   
   // This is handled in the signup flow, but we can log it for tracking
 }
 
-async function handleSubscriptionUpdated(subscription: ExtendedSubscription) {
+async function handleSubscriptionUpdated(subscription: Stripe.Subscription) {
   console.log('Subscription updated:', subscription.id);
   
   try {
@@ -177,7 +175,7 @@ async function handleSubscriptionUpdated(subscription: ExtendedSubscription) {
   }
 }
 
-async function handleSubscriptionDeleted(subscription: ExtendedSubscription) {
+async function handleSubscriptionDeleted(subscription: Stripe.Subscription) {
   console.log('Subscription cancelled:', subscription.id);
   
   try {
