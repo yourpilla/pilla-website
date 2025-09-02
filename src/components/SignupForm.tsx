@@ -117,28 +117,36 @@ export default function SignupForm() {
         return paymentResponse.json();
       });
 
-      // Step 2: Confirm payment
-      const cardElement = elements.getElement(CardElement);
-      if (!cardElement) {
-        throw new Error('Payment form not loaded');
-      }
+      // Step 2: Confirm payment (only if clientSecret exists - trial subscriptions may not have one)
+      if (clientSecret) {
+        const cardElement = elements.getElement(CardElement);
+        if (!cardElement) {
+          throw new Error('Payment form not loaded');
+        }
 
-      const { error: stripeError, paymentIntent } = await stripe.confirmCardPayment(clientSecret, {
-        payment_method: {
-          card: cardElement,
-          billing_details: {
-            name: formData.fullName,
-            email: formData.email,
+        const { error: stripeError, paymentIntent } = await stripe.confirmCardPayment(clientSecret, {
+          payment_method: {
+            card: cardElement,
+            billing_details: {
+              name: formData.fullName,
+              email: formData.email,
+            },
           },
-        },
-      });
+        });
 
-      if (stripeError) {
-        throw new Error(parseStripeError(stripeError));
+        if (stripeError) {
+          throw new Error(parseStripeError(stripeError));
+        }
+
+        if (paymentIntent?.status !== 'succeeded') {
+          throw new Error('Payment was not completed successfully. Please try again.');
+        }
+      } else {
+        // No immediate payment required for trial subscription
+        console.log('No payment required for trial subscription');
       }
 
-      if (paymentIntent?.status === 'succeeded') {
-        // Step 3: Create Bubble account with retry logic
+      // Step 3: Create Bubble account with retry logic
         await retryApiCall(async () => {
           const bubbleResponse = await fetch('/api/bubble/create-account', {
             method: 'POST',
@@ -161,9 +169,6 @@ export default function SignupForm() {
         // Success - redirect to success page
         setFormState({ isLoading: false, error: null, errorList: undefined, step: 'success' });
         router.push('/signup/success');
-      } else {
-        throw new Error('Payment was not completed successfully. Please try again.');
-      }
     } catch (error: unknown) {
       console.error('Signup error:', error);
       setFormState({
