@@ -69,6 +69,7 @@ export default function SignupForm() {
     e.preventDefault();
     
     if (!stripe || !elements) {
+      console.error('Stripe not loaded:', { stripe: !!stripe, elements: !!elements });
       setFormState(prev => ({ 
         ...prev, 
         error: 'Payment system not loaded. Please check your connection and refresh the page.', 
@@ -76,6 +77,8 @@ export default function SignupForm() {
       }));
       return;
     }
+
+    console.log('Form submission started with Stripe loaded successfully');
 
     // Validate all form fields
     const errors: Record<string, string> = {};
@@ -129,16 +132,28 @@ export default function SignupForm() {
       });
 
       // Step 2: Collect payment method (required for both trials and immediate payments)
-      const cardElement = elements.getElement(CardElement);
+      // Wait for CardElement to be ready with retry logic
+      let cardElement = elements.getElement(CardElement);
+      let retryCount = 0;
+      const maxRetries = 5;
+      
+      while (!cardElement && retryCount < maxRetries) {
+        console.log(`Waiting for CardElement to mount, attempt ${retryCount + 1}`);
+        await new Promise(resolve => setTimeout(resolve, 200)); // Wait 200ms
+        cardElement = elements.getElement(CardElement);
+        retryCount++;
+      }
+      
       console.log('Stripe Elements debug:', {
         stripe: !!stripe,
         elements: !!elements,
         cardElement: !!cardElement,
+        retryCount,
         publishableKey: process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY?.slice(0, 10) + '...'
       });
       
       if (!cardElement) {
-        throw new Error('Payment form not loaded. Please refresh the page and try again.');
+        throw new Error('Payment form failed to load. Please refresh the page and try again.');
       }
 
       if (clientSecret) {
