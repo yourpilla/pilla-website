@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { useStripe, useElements, CardElement } from '@stripe/react-stripe-js';
 import { type SignupFormData, type SignupFormState } from '@/types/signup';
@@ -50,6 +50,7 @@ export default function SignupForm() {
   
   const [validationErrors, setValidationErrors] = useState<Record<string, string>>({});
   const [cardElementReady, setCardElementReady] = useState(false);
+  const cardElementRef = useRef<any>(null);
 
   const validateField = (name: string, value: string) => {
     const error = validateFormField(name, value);
@@ -145,23 +146,19 @@ export default function SignupForm() {
 
       // Step 2: Collect payment method for trial subscription
       console.log('Collecting payment method for trial subscription...');
-      console.log('Elements object state:', {
-        elements: !!elements,
-        elementsType: typeof elements
-      });
-      
-      const cardElement = elements.getElement(CardElement);
-      console.log('CardElement retrieval:', {
-        cardElement: !!cardElement,
-        cardElementType: typeof cardElement,
+      console.log('CardElement ref state:', {
+        cardElementRef: !!cardElementRef.current,
         cardElementReady
       });
       
+      const cardElement = cardElementRef.current;
+      
       if (!cardElement) {
-        console.error('CardElement is null - debugging Elements object:', elements);
-        if (elements) {
-          console.log('Available methods on elements:', Object.getOwnPropertyNames(elements));
-        }
+        console.error('CardElement ref is null - debugging:', {
+          cardElementRef: cardElementRef.current,
+          cardElementReady,
+          elements: !!elements
+        });
         throw new Error('Payment form not loaded properly. Please refresh and try again.');
       }
 
@@ -416,8 +413,9 @@ export default function SignupForm() {
             <div className="p-4 border border-gray-300 rounded-lg bg-white">
               <CardElement 
                 options={cardElementOptions}
-                onReady={() => {
-                  console.log('CardElement mounted and ready');
+                onReady={(element) => {
+                  console.log('CardElement mounted and ready, saving ref');
+                  cardElementRef.current = element;
                   setCardElementReady(true);
                 }}
                 onChange={(event) => {

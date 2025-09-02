@@ -23,36 +23,21 @@ interface StripeProviderProps {
 }
 
 export default function StripeProvider({ children, clientSecret }: StripeProviderProps) {
-  const options: StripeElementsOptions = clientSecret 
-    ? {
-        clientSecret,
-        appearance: {
-          theme: 'stripe',
-          variables: {
-            colorPrimary: '#2563eb',
-            colorBackground: '#ffffff',
-            colorText: '#1f2937',
-            colorDanger: '#dc2626',
-            fontFamily: 'system-ui, sans-serif',
-          },
-        },
-        loader: 'auto',
-      }
-    : {
-        mode: 'setup',
-        currency: 'gbp',
-        appearance: {
-          theme: 'stripe',
-          variables: {
-            colorPrimary: '#2563eb',
-            colorBackground: '#ffffff',
-            colorText: '#1f2937',
-            colorDanger: '#dc2626',
-            fontFamily: 'system-ui, sans-serif',
-          },
-        },
-        loader: 'auto',
-      };
+  // Keep options stable - don't switch between different structures
+  const options: StripeElementsOptions = {
+    clientSecret: clientSecret ?? undefined,
+    appearance: {
+      theme: 'stripe',
+      variables: {
+        colorPrimary: '#2563eb',
+        colorBackground: '#ffffff',
+        colorText: '#1f2937',
+        colorDanger: '#dc2626',
+        fontFamily: 'system-ui, sans-serif',
+      },
+    },
+    loader: 'auto',
+  };
 
   if (!stripePromise) {
     return (
