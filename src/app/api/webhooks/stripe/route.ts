@@ -86,7 +86,7 @@ async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
       const subscriptionId = typeof invoice.subscription === 'string' 
         ? invoice.subscription 
         : (invoice.subscription as Stripe.Subscription).id;
-      const subscription = await stripe.subscriptions.retrieve(subscriptionId);
+      const subscription = await stripe.subscriptions.retrieve(subscriptionId) as Stripe.Subscription;
       
       // Update user subscription status in Bubble.io
       await fetch(`${process.env.BUBBLE_API_ENDPOINT}/wf/update-subscription-status`, {
@@ -99,7 +99,7 @@ async function handlePaymentSucceeded(invoice: Stripe.Invoice) {
           stripe_customer_id: subscription.customer as string,
           subscription_id: subscription.id,
           status: 'active',
-          billing_cycle_anchor: subscription.current_period_end,
+          billing_cycle_anchor: subscription.billing_cycle_anchor,
         }),
       });
     } catch (error) {
@@ -118,7 +118,7 @@ async function handlePaymentFailed(invoice: Stripe.Invoice) {
       const subscriptionId = typeof invoice.subscription === 'string' 
         ? invoice.subscription 
         : (invoice.subscription as Stripe.Subscription).id;
-      const subscription = await stripe.subscriptions.retrieve(subscriptionId);
+      const subscription = await stripe.subscriptions.retrieve(subscriptionId) as Stripe.Subscription;
       
       // Type-safe access to next_payment_attempt
       const nextPaymentAttempt = 'next_payment_attempt' in invoice 
@@ -166,7 +166,7 @@ async function handleSubscriptionUpdated(subscription: Stripe.Subscription) {
         stripe_customer_id: subscription.customer,
         subscription_id: subscription.id,
         status: subscription.status,
-        current_period_end: subscription.current_period_end,
+        billing_cycle_anchor: subscription.billing_cycle_anchor,
         trial_end: subscription.trial_end,
       }),
     });
