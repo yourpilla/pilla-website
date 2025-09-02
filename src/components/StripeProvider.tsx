@@ -5,6 +5,12 @@ import { loadStripe } from '@stripe/stripe-js';
 
 const publishableKey = process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY;
 
+console.log('Stripe publishable key status:', {
+  exists: !!publishableKey,
+  keyStart: publishableKey?.slice(0, 10),
+  keyType: publishableKey?.startsWith('pk_test_') ? 'test' : publishableKey?.startsWith('pk_live_') ? 'live' : 'unknown'
+});
+
 if (!publishableKey) {
   console.error('Missing NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY environment variable');
 }
