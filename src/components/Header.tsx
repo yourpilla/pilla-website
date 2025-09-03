@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
 import Breadcrumb from './Breadcrumb'
+import FreeTrialButton from './FreeTrialButton'
 import {
   Dialog,
   DialogPanel,
@@ -125,9 +126,11 @@ export default function Header() {
             </Link>
           </PopoverGroup>
           
-          <Link href="/demo" className="btn">
-            Book Demo
-          </Link>
+          <FreeTrialButton 
+            text="Start Free Trial" 
+            useCustomStyles={false}
+            className="btn"
+          />
         </div>
       </nav>
       <Dialog open={mobileMenuOpen} onClose={setMobileMenuOpen} className="lg:hidden">
@@ -186,12 +189,11 @@ export default function Header() {
                 </Link>
               </div>
               <div className="py-6">
-                <Link
-                  href="/demo"
+                <FreeTrialButton 
+                  text="Start Free Trial" 
+                  useCustomStyles={false}
                   className="btn"
-                >
-                  Book Demo
-                </Link>
+                />
               </div>
             </div>
           </div>

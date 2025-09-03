@@ -30,7 +30,7 @@ export async function POST() {
           key: 'location_name',
           label: {
             type: 'custom',
-            custom: 'Business Location Name',
+            custom: 'Your Site Name',
           },
           type: 'text',
           text: {
@@ -43,7 +43,7 @@ export async function POST() {
           key: 'team_name',
           label: {
             type: 'custom',
-            custom: 'First Team Name',
+            custom: 'Your Team Name (eg FOH)',
           },
           type: 'text',
           text: {
