@@ -30,7 +30,46 @@ export async function POST() {
           key: 'user_name',
           label: {
             type: 'custom',
-            custom: 'Name',
+            custom: 'Your Name',
+          },
+          type: 'text',
+          text: {
+            maximum_length: 50,
+            minimum_length: 1,
+          },
+          optional: false,
+        },
+        {
+          key: 'location_name',
+          label: {
+            type: 'custom',
+            custom: 'Your Site Name',
+          },
+          type: 'text',
+          text: {
+            maximum_length: 50,
+            minimum_length: 1,
+          },
+          optional: false,
+        },
+        {
+          key: 'location_address',
+          label: {
+            type: 'custom',
+            custom: 'Your Site Address',
+          },
+          type: 'text',
+          text: {
+            maximum_length: 100,
+            minimum_length: 1,
+          },
+          optional: false,
+        },
+        {
+          key: 'team_name',
+          label: {
+            type: 'custom',
+            custom: 'Your Team Name (eg FOH)',
           },
           type: 'text',
           text: {
