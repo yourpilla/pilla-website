@@ -167,8 +167,12 @@ export default function SingleStageSignupSuccess() {
           <div className="grid md:grid-cols-2 gap-6 mb-8">
             {/* iOS App */}
             <div className="white-card">
-              <div className="flex items-center justify-center w-16 h-16 bg-gray-100 rounded-full mx-auto mb-4">
-                <DevicePhoneMobileIcon className="w-8 h-8 text-gray-600" />
+              <div className="flex items-center justify-center mx-auto mb-4">
+                <img 
+                  src="/platform-logos/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"
+                  alt="Download on the App Store"
+                  className="h-12 w-auto"
+                />
               </div>
               <h3 className="small-blue mb-2">iOS App</h3>
               <p className="text-sm text-gray-600 mb-4">
@@ -186,8 +190,12 @@ export default function SingleStageSignupSuccess() {
 
             {/* Android App */}
             <div className="white-card">
-              <div className="flex items-center justify-center w-16 h-16 bg-gray-100 rounded-full mx-auto mb-4">
-                <DevicePhoneMobileIcon className="w-8 h-8 text-gray-600" />
+              <div className="flex items-center justify-center mx-auto mb-4">
+                <img 
+                  src="/platform-logos/GetItOnGooglePlay_Badge_Web_color_English.png"
+                  alt="Get it on Google Play"
+                  className="h-12 w-auto"
+                />
               </div>
               <h3 className="small-blue mb-2">Android App</h3>
               <p className="text-sm text-gray-600 mb-4">
