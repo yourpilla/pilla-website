@@ -170,7 +170,7 @@ export default function SingleStageSignupForm() {
               <p>1. Click the button below to go to our secure checkout</p>
               <p>2. Enter your business details and payment information</p>
               <p>3. Get your account details and start your free trial</p>
-              <p>4. We'll generate a secure password for you automatically</p>
+              <p>4. We&apos;ll generate a secure password for you automatically</p>
             </div>
           </div>
 
