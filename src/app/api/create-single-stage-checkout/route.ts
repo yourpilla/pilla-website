@@ -27,6 +27,19 @@ export async function POST() {
       cancel_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/`,
       custom_fields: [
         {
+          key: 'user_name',
+          label: {
+            type: 'custom',
+            custom: 'Name',
+          },
+          type: 'text',
+          text: {
+            maximum_length: 50,
+            minimum_length: 1,
+          },
+          optional: false,
+        },
+        {
           key: 'location_name',
           label: {
             type: 'custom',

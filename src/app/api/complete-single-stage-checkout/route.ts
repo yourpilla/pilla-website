@@ -31,22 +31,22 @@ export async function POST(request: NextRequest) {
 
     // Extract email from customer details (Stripe collected it)
     const email = session.customer_details?.email;
-    const fullName = session.customer_details?.name;
 
-    if (!email || !fullName) {
+    if (!email) {
       return NextResponse.json(
-        { error: 'Required customer data missing from session' },
+        { error: 'Email missing from session' },
         { status: 400 }
       );
     }
 
     // Extract custom fields
     const customFields = session.custom_fields || [];
+    const userName = customFields.find(field => field.key === 'user_name')?.text?.value;
     const locationName = customFields.find(field => field.key === 'location_name')?.text?.value;
     const locationAddress = customFields.find(field => field.key === 'location_address')?.text?.value;
     const teamName = customFields.find(field => field.key === 'team_name')?.text?.value;
 
-    if (!locationName || !locationAddress || !teamName) {
+    if (!userName || !locationName || !locationAddress || !teamName) {
       return NextResponse.json(
         { error: 'Required custom fields missing from session' },
         { status: 400 }
@@ -73,7 +73,7 @@ export async function POST(request: NextRequest) {
         'Authorization': `Bearer ${process.env.BUBBLE_API_KEY}`,
       },
       body: JSON.stringify({
-        name: fullName,
+        name: userName,
         email: email,
         password: generatedPassword,
         first_location_name: locationName,
@@ -111,7 +111,7 @@ export async function POST(request: NextRequest) {
       trialEndsAt: subscription?.trial_end || null,
       generatedPassword: generatedPassword,
       email: email,
-      fullName: fullName,
+      fullName: userName,
       locationName: locationName,
       locationAddress: locationAddress,
       teamName: teamName,
