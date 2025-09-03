@@ -7,8 +7,8 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
 
 export async function POST() {
   try {
-    // Create Checkout Session - let Stripe collect everything
-    const session = await stripe.checkout.sessions.create({
+    // Create Checkout Session - let Stripe collect everything  
+    const sessionParams: Stripe.Checkout.SessionCreateParams = {
       payment_method_types: ['card'],
       mode: 'subscription',
       line_items: [
@@ -29,7 +29,7 @@ export async function POST() {
         {
           key: 'location_name',
           label: {
-            type: 'text',
+            type: 'custom',
             custom: 'Business Location Name',
           },
           type: 'text',
@@ -42,7 +42,7 @@ export async function POST() {
         {
           key: 'team_name',
           label: {
-            type: 'text', 
+            type: 'custom',
             custom: 'First Team Name',
           },
           type: 'text',
@@ -56,7 +56,9 @@ export async function POST() {
       metadata: {
         signup_type: 'single_stage',
       },
-    });
+    };
+
+    const session = await stripe.checkout.sessions.create(sessionParams);
 
     return NextResponse.json({
       sessionId: session.id,
