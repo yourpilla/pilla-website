@@ -18,7 +18,7 @@ export async function POST(request: NextRequest) {
 
     // Retrieve the checkout session with all data
     const session = await stripe.checkout.sessions.retrieve(sessionId, {
-      expand: ['subscription', 'customer'],
+      expand: ['subscription', 'subscription.items', 'customer'],
     });
 
     if (!session.subscription) {
@@ -44,6 +44,15 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    // Extract subscription details
+    const subscription = typeof session.subscription === 'object' ? session.subscription : null;
+    const subscriptionId = typeof session.subscription === 'string' 
+      ? session.subscription 
+      : session.subscription?.id;
+    
+    // Get the first subscription item (there should only be one for our use case)
+    const subscriptionItemId = subscription?.items?.data?.[0]?.id;
+
     // Create Bubble.io account with session data
     const bubbleResponse = await fetch(`${process.env.BUBBLE_API_ENDPOINT}/wf/signup`, {
       method: 'POST',
@@ -60,9 +69,8 @@ export async function POST(request: NextRequest) {
         stripe_customer_id: typeof session.customer === 'string' 
           ? session.customer 
           : session.customer?.id,
-        subscription_id: typeof session.subscription === 'string' 
-          ? session.subscription 
-          : session.subscription?.id,
+        subscription_id: subscriptionId,
+        subscription_item_id: subscriptionItemId,
         signup_source: 'website',
       }),
     });
@@ -84,13 +92,10 @@ export async function POST(request: NextRequest) {
       customerId: typeof session.customer === 'string' 
         ? session.customer 
         : session.customer?.id,
-      subscriptionId: typeof session.subscription === 'string' 
-        ? session.subscription 
-        : session.subscription?.id,
+      subscriptionId: subscriptionId,
+      subscriptionItemId: subscriptionItemId,
       bubbleUserId: bubbleData.response?.user_id,
-      trialEndsAt: typeof session.subscription === 'object' 
-        ? session.subscription.trial_end 
-        : null,
+      trialEndsAt: subscription?.trial_end || null,
     });
   } catch (error: unknown) {
     console.error('Checkout completion failed:', error);

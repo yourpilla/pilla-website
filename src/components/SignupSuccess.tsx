@@ -13,6 +13,7 @@ export default function SignupSuccess() {
   const [accountData, setAccountData] = useState<{
     customerId: string;
     subscriptionId: string;
+    subscriptionItemId: string;
     bubbleUserId: string;
     trialEndsAt: number | null;
   } | null>(null);
