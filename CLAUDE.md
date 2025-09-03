@@ -28,56 +28,85 @@ Documentation is organized by section with hierarchical navigation:
 - **Operations**: `/docs/operations` - Daily operations and workflow management  
 - **Integrations**: `/docs/integrations` - API connections and third-party tools
 
-## B2B SaaS Signup System
+## B2B SaaS Direct Signup System
 
 ### Overview
-Complete B2B SaaS signup system with Stripe payments integration and Bubble.io backend for user account management. Features 7-day free trials, comprehensive error handling, and production-ready TypeScript implementation.
+Streamlined direct signup system that sends users straight to Stripe checkout without intermediate forms. Features one-click signup flow, 7-day free trials, automatic account creation, and generated password management.
 
 ### System Architecture
-- **Frontend**: Next.js 15 React components with Stripe Elements integration
-- **Payment Processing**: Stripe subscriptions with trial periods and webhook handling
-- **User Management**: Bubble.io API integration for account creation and management
-- **Validation**: Real-time form validation with Zod schemas and user-friendly error messages
+- **Frontend**: Direct signup buttons and success page components
+- **Payment Processing**: Stripe checkout sessions with custom fields for business data
+- **User Management**: Bubble.io API integration for automatic account creation
+- **Password Generation**: Secure temporary passwords with user-friendly management
 
 ### Key Components
 
-#### Signup Form (`/src/components/SignupForm.tsx`)
-- **Stripe Integration**: Uses `@stripe/react-stripe-js` with Elements provider
-- **Form Validation**: Real-time validation with specific error messages
-- **Payment Flow**: Handles trial subscriptions without immediate payment confirmation
-- **Bubble Integration**: Creates user accounts via API after successful subscription setup
-- **Error Handling**: Comprehensive error states with retry logic and user-friendly messaging
+#### FreeTrialButton Component (`/src/components/FreeTrialButton.tsx`)
+- **Direct Integration**: One-click button that goes straight to Stripe checkout
+- **Reusable**: Can be placed anywhere in the app (header, landing pages, content)
+- **Flexible Styling**: Supports both custom styles and external CSS classes (like `.btn`)
+- **Loading States**: Shows spinner and "Starting..." text during redirect
+- **Error Handling**: Graceful error handling with user feedback
+
+#### Direct Signup Success (`/src/components/SingleStageSignupSuccess.tsx`)
+- **Account Display**: Shows user's name, email, location, and team information
+- **Password Management**: Generated password with show/hide toggle and clipboard copy
+- **Loading States**: Handles account completion API calls with proper feedback
+- **Onboarding**: 4-step numbered process to guide users to the mobile app
+- **Error Recovery**: Comprehensive error handling with retry mechanisms
 
 #### API Endpoints
-- **`/api/create-payment-intent`**: Creates Stripe customers and trial subscriptions
-- **`/api/bubble/create-account`**: Integrates with Bubble.io for user account creation
+- **`/api/create-single-stage-checkout`**: Creates Stripe checkout sessions with custom fields
+- **`/api/complete-single-stage-checkout`**: Processes successful payments and creates accounts
 - **`/api/webhooks/stripe`**: Handles payment events and subscription status updates
 
-#### Pages
-- **`/signup`**: Main signup form with Stripe Elements and validation
-- **`/signup/success`**: Success page with app download links and next steps
+#### Pages and Routes
+- **`/signup/direct`**: One-click signup landing page (legacy, can redirect to button)
+- **`/signup/single-stage-success`**: Success page with account details and next steps
+- **Global Header**: FreeTrialButton integrated for site-wide access
 
 ### Stripe Integration Details
 
-#### Subscription Setup
+#### Checkout Session Configuration
 ```typescript
-trial_period_days: 7
-payment_behavior: 'default_incomplete'
-payment_settings: {
-  save_default_payment_method: 'on_subscription',
-  payment_method_types: ['card']
+// Direct signup checkout session
+{
+  payment_method_types: ['card'],
+  mode: 'subscription',
+  subscription_data: {
+    trial_period_days: 7,
+    metadata: { source: 'website_signup_single_stage' }
+  },
+  custom_fields: [
+    {
+      key: 'location_name',
+      label: { type: 'custom', custom: 'Your Site Name' },
+      type: 'text',
+      optional: false
+    },
+    {
+      key: 'team_name', 
+      label: { type: 'custom', custom: 'Your Team Name (eg FOH)' },
+      type: 'text',
+      optional: false
+    }
+  ],
+  success_url: '/signup/single-stage-success?session_id={CHECKOUT_SESSION_ID}',
+  cancel_url: '/'
 }
 ```
 
-#### Webhook Events Handled
-- `invoice.payment_succeeded` - Updates user billing status in Bubble.io
-- `invoice.payment_failed` - Handles failed payments with retry logic
-- `customer.subscription.created/updated/deleted` - Syncs subscription status
+#### Custom Fields Collection
+- **Your Site Name**: Business location identifier (replaces "Business Location Name")
+- **Your Team Name (eg FOH)**: Initial team name with helpful example
+- **Email & Payment**: Collected automatically by Stripe checkout
+- **Name**: Customer name collected by Stripe
 
 #### Trial Flow Logic
-- **No immediate payment** required during 7-day trial period
-- **Payment method collection** for post-trial billing
-- **Webhook processing** handles trial-to-paid transitions
+- **One-click signup**: No forms before Stripe checkout
+- **7-day free trial**: Full feature access without immediate payment
+- **Custom fields**: Business data collected during checkout
+- **Auto account creation**: Account created after successful checkout session
 
 ### Bubble.io Integration
 
@@ -86,17 +115,17 @@ payment_settings: {
 POST https://yourpilla.com/version-test/api/1.1/wf/signup
 ```
 
-#### Data Sent to Bubble.io
+#### Data Sent to Bubble.io (Direct Signup)
 ```json
 {
   "name": "User Full Name",
-  "email": "user@example.com",
-  "password": "secure_password",
-  "first_location_name": "Business Location",
-  "first_team_name": "Team Name",
+  "email": "user@example.com", 
+  "password": "TempPass123!",  // Auto-generated secure password
+  "first_location_name": "Your Site Name",
+  "first_team_name": "Your Team Name (eg FOH)",
   "stripe_customer_id": "cus_xxxxx",
   "subscription_id": "sub_xxxxx",
-  "signup_source": "website"
+  "signup_source": "website_direct"
 }
 ```
 
@@ -127,88 +156,156 @@ BUBBLE_API_KEY=your_bubble_api_key
 STRIPE_PRICE_ID=price_xxxxx
 ```
 
-### Form Fields and Validation
+### Direct Signup Flow
 
-#### Required Fields
-- **Full Name**: Minimum 2 characters, maximum 100 characters
-- **Email**: Valid email format required
-- **Password**: Minimum 8 characters, must contain letters and numbers
-- **Location Name**: Business location identifier (1-50 characters)
-- **Team Name**: Initial team identifier (1-50 characters)
+#### User Experience
+1. **One-Click Start**: User clicks FreeTrialButton anywhere on the site
+2. **Direct to Stripe**: Immediately redirected to Stripe checkout (no forms)
+3. **Stripe Collects Data**: Email, name, payment method, and custom business fields
+4. **Auto Account Creation**: Account created automatically after successful payment setup
+5. **Success Page**: Shows account details, generated password, and next steps
 
-#### Payment Information
-- **Card Details**: Handled securely by Stripe Elements
-- **Trial Period**: 7 days free, automatic billing after trial
+#### Data Collection (via Stripe)
+- **Email**: Collected by Stripe checkout
+- **Full Name**: Collected by Stripe checkout  
+- **Your Site Name**: Custom field (1-50 characters)
+- **Your Team Name (eg FOH)**: Custom field with helpful example (1-50 characters)
 - **Payment Method**: Saved for post-trial billing
+
+#### Generated Password System
+- **Secure Generation**: Auto-generated passwords with letters, numbers, and symbols
+- **User-Friendly Display**: Show/hide toggle and copy to clipboard functionality
+- **Security Warning**: Clear messaging to save password and change after login
+- **Temporary Nature**: Users encouraged to change password in app settings
 
 ### Error Handling System
 
-#### Validation Errors
-- **Real-time validation** as user types
-- **Specific error messages** for each validation rule
-- **Aggregated error display** showing all issues at once
-- **Field-level highlighting** with red borders and messages
+#### FreeTrialButton Error Handling
+- **Network errors**: Connection failures with user-friendly alerts
+- **Stripe API errors**: Graceful handling of checkout session creation failures
+- **Loading states**: Prevents double-clicks and shows progress feedback
+- **User feedback**: Alert messages for failed signup attempts
 
-#### API Error Handling
-- **Network errors**: Connection and timeout handling
-- **Stripe errors**: Payment-specific error messages
-- **Bubble.io errors**: Account creation failure handling
-- **Retry logic**: Automatic retries for transient failures
+#### Success Page Error Handling
+- **Session validation**: Handles missing or invalid session IDs
+- **API failures**: Graceful error display with retry options
+- **Account creation errors**: Clear error messages with support contact information
+- **Loading states**: Proper feedback during account completion process
 
 #### User-Friendly Messages
 ```typescript
-// Example error messages
-"Password must contain both letters and numbers"
-"Please fix these validation errors:"
-"Payment system not loaded. Please refresh the page."
-"Failed to create account. Please contact support."
+// Example error messages for direct signup
+"Failed to start trial. Please try again."
+"No session ID provided"
+"Failed to complete signup"
+"Signup Error - Try Again"
 ```
 
 ### TypeScript Implementation
 
 #### Type Safety
 - **Strict TypeScript** compilation with proper type casting
-- **Zod validation schemas** for runtime type checking
-- **Stripe type compatibility** with proper interface handling
-- **Form state management** with typed interfaces
+- **Stripe type compatibility** with `Stripe.Checkout.SessionCreateParams`
+- **Component prop typing** for reusable button and success page components
+- **API response typing** for account data and error handling
 
 #### Key Types
 ```typescript
-interface SignupFormData {
-  fullName: string;
-  email: string;
-  password: string;
-  firstLocationName: string;
-  firstTeamName: string;
+// FreeTrialButton props
+interface FreeTrialButtonProps {
+  text?: string;
+  size?: 'sm' | 'md' | 'lg';
+  variant?: 'primary' | 'secondary' | 'outline';
+  className?: string;
+  disabled?: boolean;
+  showLoadingState?: boolean;
+  useCustomStyles?: boolean;
 }
 
-interface SignupFormState {
-  isLoading: boolean;
-  error: string | null;
-  errorList?: string[];
-  step: 'form' | 'processing' | 'success' | 'error';
+// Account data from success page
+interface AccountData {
+  customerId: string;
+  subscriptionId: string;
+  subscriptionItemId: string;
+  bubbleUserId: string;
+  trialEndsAt: number | null;
+  generatedPassword: string;
+  email: string;
+  fullName: string;
+  locationName: string;
+  teamName: string;
 }
+```
+
+### Usage Examples
+
+#### Basic FreeTrialButton Usage
+```tsx
+import FreeTrialButton from '@/components/FreeTrialButton';
+
+// Basic usage with default styling
+<FreeTrialButton />
+
+// Custom text and size
+<FreeTrialButton text="Try Pilla Free" size="lg" />
+
+// Use external CSS class (like .btn)
+<FreeTrialButton 
+  text="Start Free Trial"
+  useCustomStyles={false}
+  className="btn"
+/>
+
+// Custom variant styling
+<FreeTrialButton 
+  text="Get Started"
+  variant="outline"
+  size="sm"
+/>
+```
+
+#### Integration Examples
+```tsx
+// In header navigation
+<FreeTrialButton 
+  text="Start Free Trial"
+  useCustomStyles={false}
+  className="btn"
+/>
+
+// In blog posts or content
+<FreeTrialButton 
+  text="Try This Feature Now"
+  variant="primary"
+  size="md"
+/>
+
+// In landing page hero
+<FreeTrialButton 
+  text="Start Your 7-Day Trial"
+  size="lg"
+  className="mx-auto"
+/>
 ```
 
 ### Production Deployment Considerations
 
 #### Security
 - **Environment variables** properly configured in Vercel
+- **Generated passwords** with secure randomization
+- **Session validation** on server-side API routes
 - **Webhook signature verification** for Stripe events
-- **API key security** for Bubble.io integration
-- **Client-side validation** combined with server-side checks
 
 #### Performance
-- **TypeScript compilation** optimized for production builds
-- **Error boundary handling** for graceful failure recovery
-- **Loading states** and user feedback during processing
-- **Mobile responsiveness** with Tailwind CSS
+- **One-click signup** reduces conversion friction
+- **Direct Stripe redirect** minimizes page load times
+- **Loading states** provide immediate user feedback
+- **Mobile-optimized** responsive design
 
 #### Monitoring
-- **Console logging** for debugging webhook events
-- **Error tracking** for failed API calls
-- **User journey tracking** through signup flow states
-- **Conversion analytics** for trial-to-paid transitions
+- **Signup conversion tracking** from button clicks to completed accounts
+- **Error monitoring** for failed checkout sessions and account creation
+- **Password security** monitoring for successful generation and delivery
 
 ### Testing and Development
 
@@ -224,20 +321,30 @@ interface SignupFormState {
 ```
 
 #### Development Workflow
-1. **Local TypeScript compilation**: `npx tsc --noEmit --skipLibCheck`
-2. **ESLint checking**: `npm run lint --quiet`
-3. **Local testing** with Stripe test keys and Bubble.io dev environment
-4. **Vercel deployment** with environment variables configured
+1. **Component testing**: Test FreeTrialButton in different locations and with different props
+2. **Stripe integration**: Test checkout flow with test cards and custom field collection
+3. **Account creation**: Verify Bubble.io integration and password generation
+4. **Success page**: Test loading states, error handling, and password management
+5. **Mobile responsiveness**: Test across device sizes and orientations
+
+#### Testing Checklist
+- [ ] FreeTrialButton redirects to Stripe checkout
+- [ ] Custom fields display correctly ("Your Site Name", "Your Team Name (eg FOH)")
+- [ ] Successful checkout redirects to success page
+- [ ] Account details display correctly on success page
+- [ ] Generated password show/hide and copy functionality works
+- [ ] Error states handle failures gracefully
+- [ ] Mobile layout works on small screens
 
 ### Template Documentation
-- **`/src/templates/signup-stripe.md`**: Complete signup form configuration and customization guide
-- **`/src/templates/signup-success.md`**: Success page content and styling documentation
+- **`/src/templates/signup-success.md`**: Direct signup success page configuration and customization guide
 
 ### Future Enhancements
-- **Plan selection**: Option to choose subscription tier during signup
-- **A/B testing**: Compare single premium trial vs plan selection approaches
-- **Email integration**: Welcome sequences and trial reminders
-- **Analytics integration**: Detailed conversion tracking and user behavior analysis
+- **Multiple button variants**: Different styling options for different contexts
+- **Analytics integration**: Track button clicks and conversion rates
+- **A/B testing**: Test different button text and placement strategies
+- **Plan selection**: Option to choose subscription tier during checkout
+- **Email integration**: Welcome sequences and onboarding automation
 
 ## Recent Enhancements
 

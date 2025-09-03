@@ -40,6 +40,19 @@ export async function POST() {
           optional: false,
         },
         {
+          key: 'location_address',
+          label: {
+            type: 'custom',
+            custom: 'Your Site Address',
+          },
+          type: 'text',
+          text: {
+            maximum_length: 100,
+            minimum_length: 1,
+          },
+          optional: false,
+        },
+        {
           key: 'team_name',
           label: {
             type: 'custom',

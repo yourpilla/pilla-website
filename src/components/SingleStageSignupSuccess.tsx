@@ -15,6 +15,7 @@ interface AccountData {
   email: string;
   fullName: string;
   locationName: string;
+  locationAddress: string;
   teamName: string;
 }
 
@@ -136,8 +137,12 @@ export default function SingleStageSignupSuccess() {
                     <p className="text-gray-600">{accountData.email}</p>
                   </div>
                   <div>
-                    <strong className="text-gray-900">Location:</strong>
+                    <strong className="text-gray-900">Site Name:</strong>
                     <p className="text-gray-600">{accountData.locationName}</p>
+                  </div>
+                  <div>
+                    <strong className="text-gray-900">Site Address:</strong>
+                    <p className="text-gray-600">{accountData.locationAddress}</p>
                   </div>
                   <div>
                     <strong className="text-gray-900">Team:</strong>

@@ -24,12 +24,18 @@ export function generateSecurePassword(length: number = 12): string {
 }
 
 export function generateUserFriendlyPassword(): string {
-  // More user-friendly format: 3 words + numbers
-  const words = ['Sky', 'River', 'Moon', 'Star', 'Fire', 'Ocean', 'Wind', 'Rain', 'Sun', 'Cloud'];
-  const word1 = words[Math.floor(Math.random() * words.length)];
-  const word2 = words[Math.floor(Math.random() * words.length)];
-  const word3 = words[Math.floor(Math.random() * words.length)];
-  const numbers = Math.floor(Math.random() * 99) + 10;
+  // Hospitality-themed password: 2-3 industry terms + numbers
+  const hospitalityTerms = [
+    'Bistro', 'Server', 'Chef', 'Menu', 'Wine', 'Dish', 'Sauce', 'Grill', 
+    'Table', 'Check', 'Cover', 'Chit', 'Tapas', 'Bar', 'Cafe', 'Host', 
+    'Guest', 'Order', 'Cook', 'Meal', 'Food', 'Drink', 'Tip', 'Bill',
+    'Room', 'Suite', 'Desk', 'Lobby', 'Dine', 'Serve', 'Taste', 'Buffet',
+    'Entree', 'Valet', 'Key', 'Bath'
+  ];
   
-  return `${word1}${word2}${word3}${numbers}`;
+  const term1 = hospitalityTerms[Math.floor(Math.random() * hospitalityTerms.length)];
+  const term2 = hospitalityTerms[Math.floor(Math.random() * hospitalityTerms.length)];
+  const numbers = Math.floor(Math.random() * 999) + 100; // 3-digit number for better security
+  
+  return `${term1}${term2}${numbers}`;
 }

@@ -43,9 +43,10 @@ export async function POST(request: NextRequest) {
     // Extract custom fields
     const customFields = session.custom_fields || [];
     const locationName = customFields.find(field => field.key === 'location_name')?.text?.value;
+    const locationAddress = customFields.find(field => field.key === 'location_address')?.text?.value;
     const teamName = customFields.find(field => field.key === 'team_name')?.text?.value;
 
-    if (!locationName || !teamName) {
+    if (!locationName || !locationAddress || !teamName) {
       return NextResponse.json(
         { error: 'Required custom fields missing from session' },
         { status: 400 }
@@ -76,6 +77,7 @@ export async function POST(request: NextRequest) {
         email: email,
         password: generatedPassword,
         first_location_name: locationName,
+        first_location_address: locationAddress,
         first_team_name: teamName,
         stripe_customer_id: typeof session.customer === 'string' 
           ? session.customer 
@@ -111,6 +113,7 @@ export async function POST(request: NextRequest) {
       email: email,
       fullName: fullName,
       locationName: locationName,
+      locationAddress: locationAddress,
       teamName: teamName,
     });
   } catch (error: unknown) {
