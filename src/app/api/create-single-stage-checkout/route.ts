@@ -23,7 +23,7 @@ export async function POST() {
           source: 'website_signup_single_stage',
         },
       },
-      success_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup/single-stage-success?session_id={CHECKOUT_SESSION_ID}`,
+      success_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/welcome?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/`,
       custom_fields: [
         {

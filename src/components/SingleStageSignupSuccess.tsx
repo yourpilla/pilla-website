@@ -108,12 +108,6 @@ export default function SingleStageSignupSuccess() {
   return (
     <div className="min-h-screen bg-main py-6 sm:py-12 px-4">
       <div className="max-w-2xl mx-auto text-center">
-        {/* Success Icon */}
-        <div className="mb-8">
-          <div className="mx-auto flex items-center justify-center w-16 h-16 bg-green-100 rounded-full">
-            <CheckCircleIcon className="w-8 h-8 text-green-600" />
-          </div>
-        </div>
 
         {/* Header */}
         <div className="mb-12">
@@ -124,88 +118,46 @@ export default function SingleStageSignupSuccess() {
 
           {/* Account Details */}
           {accountData && (
-            <div className="white-card p-6 mb-8 text-left">
-              <h3 className="small-blue mb-4 text-center">Your Account Details</h3>
-              <div className="space-y-3 text-sm">
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                  <div>
-                    <strong className="text-gray-900">Name:</strong>
-                    <p className="text-gray-600">{accountData.fullName}</p>
-                  </div>
-                  <div>
-                    <strong className="text-gray-900">Email:</strong>
-                    <p className="text-gray-600">{accountData.email}</p>
-                  </div>
-                  <div>
-                    <strong className="text-gray-900">Site Name:</strong>
-                    <p className="text-gray-600">{accountData.locationName}</p>
-                  </div>
-                  <div>
-                    <strong className="text-gray-900">Site Address:</strong>
-                    <p className="text-gray-600">{accountData.locationAddress}</p>
-                  </div>
-                  <div>
-                    <strong className="text-gray-900">Team:</strong>
-                    <p className="text-gray-600">{accountData.teamName}</p>
-                  </div>
+            <div className="white-card">
+              <div className="space-y-4 text-sm">
+                <div>
+                  <strong className="text-gray-900">Email:</strong>
+                  <p className="text-gray-600">{accountData.email}</p>
                 </div>
                 
                 {/* Generated Password */}
-                <div className="border-t pt-4 mt-4">
-                  <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
-                    <strong className="text-gray-900 block mb-2">Your Generated Password:</strong>
-                    <div className="flex items-center gap-2 mb-2">
-                      <code className="bg-white px-3 py-2 rounded border text-lg font-mono flex-1">
-                        {showPassword ? accountData.generatedPassword : '••••••••••••'}
-                      </code>
-                      <button
-                        onClick={() => setShowPassword(!showPassword)}
-                        className="p-2 text-gray-500 hover:text-gray-700"
-                        title={showPassword ? 'Hide password' : 'Show password'}
-                      >
-                        {showPassword ? <EyeSlashIcon className="w-5 h-5" /> : <EyeIcon className="w-5 h-5" />}
-                      </button>
-                      <button
-                        onClick={copyPassword}
-                        className="p-2 text-gray-500 hover:text-gray-700"
-                        title="Copy password"
-                      >
-                        <ClipboardDocumentIcon className="w-5 h-5" />
-                      </button>
-                    </div>
-                    {passwordCopied && (
-                      <p className="text-green-600 text-xs">Password copied to clipboard!</p>
-                    )}
-                    <p className="text-yellow-800 text-xs mt-2">
-                      <strong>Important:</strong> Save this password now! You can change it after logging in.
-                    </p>
+                <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
+                  <strong className="text-gray-900 block mb-2">Your Generated Password:</strong>
+                  <div className="flex items-center gap-2 mb-2">
+                    <code className="bg-white px-3 py-2 rounded border text-lg font-mono flex-1">
+                      {showPassword ? accountData.generatedPassword : '••••••••••••'}
+                    </code>
+                    <button
+                      onClick={() => setShowPassword(!showPassword)}
+                      className="p-2 text-gray-500 hover:text-gray-700"
+                      title={showPassword ? 'Hide password' : 'Show password'}
+                    >
+                      {showPassword ? <EyeSlashIcon className="w-5 h-5" /> : <EyeIcon className="w-5 h-5" />}
+                    </button>
+                    <button
+                      onClick={copyPassword}
+                      className="p-2 text-gray-500 hover:text-gray-700"
+                      title="Copy password"
+                    >
+                      <ClipboardDocumentIcon className="w-5 h-5" />
+                    </button>
                   </div>
+                  {passwordCopied && (
+                    <p className="text-green-600 text-xs">Password copied to clipboard!</p>
+                  )}
+                  <p className="text-yellow-800 text-xs mt-2">
+                    <strong>Important:</strong> Save this password now! You can change it after logging in.
+                  </p>
                 </div>
               </div>
             </div>
           )}
 
-          <div className="white-card p-6 mb-8">
-            <h2 className="small-blue mb-2">What happens next?</h2>
-            <div className="text-left space-y-3 text-gray-600">
-              <div className="flex items-center gap-3">
-                <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center text-xs font-semibold text-blue-600">1</div>
-                <span>Download the Pilla mobile app using the links below</span>
-              </div>
-              <div className="flex items-center gap-3">
-                <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center text-xs font-semibold text-blue-600">2</div>
-                <span>Log in with your email and the generated password above</span>
-              </div>
-              <div className="flex items-center gap-3">
-                <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center text-xs font-semibold text-blue-600">3</div>
-                <span>Change your password to something memorable in app settings</span>
-              </div>
-              <div className="flex items-center gap-3">
-                <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center text-xs font-semibold text-blue-600">4</div>
-                <span>Enjoy your 7-day free trial - no charges until day 8</span>
-              </div>
-            </div>
-          </div>
         </div>
 
         {/* App Download Section */}
@@ -214,7 +166,7 @@ export default function SingleStageSignupSuccess() {
           
           <div className="grid md:grid-cols-2 gap-6 mb-8">
             {/* iOS App */}
-            <div className="white-card p-6">
+            <div className="white-card">
               <div className="flex items-center justify-center w-16 h-16 bg-gray-100 rounded-full mx-auto mb-4">
                 <DevicePhoneMobileIcon className="w-8 h-8 text-gray-600" />
               </div>
@@ -224,7 +176,7 @@ export default function SingleStageSignupSuccess() {
               </p>
               <a 
                 href="https://apps.apple.com/app/pilla-hospitality/id123456789" 
-                className="inline-flex items-center justify-center w-full bg-black text-white py-3 px-6 rounded-lg font-semibold hover:bg-gray-800 transition-colors"
+                className="btn w-full"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -233,7 +185,7 @@ export default function SingleStageSignupSuccess() {
             </div>
 
             {/* Android App */}
-            <div className="white-card p-6">
+            <div className="white-card">
               <div className="flex items-center justify-center w-16 h-16 bg-gray-100 rounded-full mx-auto mb-4">
                 <DevicePhoneMobileIcon className="w-8 h-8 text-gray-600" />
               </div>
@@ -243,7 +195,7 @@ export default function SingleStageSignupSuccess() {
               </p>
               <a 
                 href="https://play.google.com/store/apps/details?id=com.pilla.hospitality" 
-                className="inline-flex items-center justify-center w-full bg-green-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+                className="btn w-full"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -253,7 +205,7 @@ export default function SingleStageSignupSuccess() {
           </div>
 
           {/* Web App Alternative */}
-          <div className="white-card p-6 mb-8">
+          <div className="white-card">
             <div className="flex items-center justify-center w-16 h-16 bg-blue-100 rounded-full mx-auto mb-4">
               <ComputerDesktopIcon className="w-8 h-8 text-blue-600" />
             </div>
@@ -263,7 +215,7 @@ export default function SingleStageSignupSuccess() {
             </p>
             <a 
               href="https://yourpilla.com/login" 
-              className="inline-flex items-center justify-center bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+              className="btn"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -273,7 +225,7 @@ export default function SingleStageSignupSuccess() {
         </div>
 
         {/* Support Information */}
-        <div className="white-card p-6 mb-8">
+        <div className="white-card">
           <h3 className="small-blue mb-4">Need Help Getting Started?</h3>
           <div className="space-y-4 text-sm">
             <div>
@@ -312,13 +264,13 @@ export default function SingleStageSignupSuccess() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link 
             href="/"
-            className="inline-flex items-center justify-center bg-gray-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-gray-700 transition-colors"
+            className="btn"
           >
             Back to Homepage
           </Link>
           <Link 
             href="/blog"
-            className="inline-flex items-center justify-center border border-gray-300 text-gray-700 py-3 px-6 rounded-lg font-semibold hover:bg-gray-50 transition-colors"
+            className="btn"
           >
             Read Our Blog
           </Link>
