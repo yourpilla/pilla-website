@@ -7,18 +7,8 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
 
 export async function POST(request: NextRequest) {
   try {
-    const { email } = await request.json();
-
-    if (!email) {
-      return NextResponse.json(
-        { error: 'Email is required' },
-        { status: 400 }
-      );
-    }
-
-    // Create Checkout Session with custom fields for all user data
+    // Create Checkout Session - let Stripe collect email too
     const session = await stripe.checkout.sessions.create({
-      customer_email: email,
       payment_method_types: ['card'],
       mode: 'subscription',
       line_items: [{
@@ -32,7 +22,7 @@ export async function POST(request: NextRequest) {
         },
       },
       success_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup/single-stage-success?session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/signup/single-stage?cancelled=true`,
+      cancel_url: `${process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/`,
       custom_fields: [
         {
           key: 'location_name',
@@ -56,7 +46,6 @@ export async function POST(request: NextRequest) {
         }
       ],
       metadata: {
-        email: email,
         signup_type: 'single_stage',
       },
     });

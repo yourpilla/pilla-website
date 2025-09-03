@@ -29,8 +29,8 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Extract email from metadata
-    const email = session.metadata?.email || session.customer_details?.email;
+    // Extract email from customer details (Stripe collected it)
+    const email = session.customer_details?.email;
     const fullName = session.customer_details?.name;
 
     if (!email || !fullName) {
