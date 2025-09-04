@@ -120,8 +120,8 @@ class BubbleClient {
     
     // Build Bubble Data API constraints
     const constraints = [
-      {"key": "start_time", "constraint_type": "gte", "value": weekStartISO},
-      {"key": "start_time", "constraint_type": "lt", "value": weekEndISO},
+      {"key": "start time", "constraint_type": "gte", "value": weekStartISO},
+      {"key": "start time", "constraint_type": "lt", "value": weekEndISO},
       {"key": "team", "constraint_type": "in", "value": params.teams}
     ];
 
@@ -135,16 +135,16 @@ class BubbleClient {
     return {
       shifts: response.response.results.map((shift) => ({
         shift_id: shift._id as string,
-        user_id: shift.user_id as string | undefined,
-        user_name: shift.user_name as string | undefined,
+        user_id: shift.user as string | undefined,
+        user_name: shift.user as string | undefined, // We'll need to resolve this from user ID
         team_id: shift.team as string | undefined,
-        scheduled_start: shift.scheduled_start as string | undefined,
-        scheduled_end: shift.scheduled_end as string | undefined,
-        actual_clock_in: shift.actual_clock_in as string | null | undefined,
-        actual_clock_out: shift.actual_clock_out as string | null | undefined,
-        pay_amount: (shift.pay_amount as number) || 0,
-        location_id: shift.location_id as string | undefined,
-        date: (shift.start_time as string)?.split('T')[0] || '' // Extract date from ISO timestamp
+        scheduled_start: shift["start time"] as string | undefined,
+        scheduled_end: shift["end time"] as string | undefined,
+        actual_clock_in: shift["start time"] as string | null | undefined, // Assuming no separate clock-in tracking
+        actual_clock_out: shift["end time"] as string | null | undefined,
+        pay_amount: (shift["total paid hours"] as number) || 0,
+        location_id: shift.site as string | undefined,
+        date: (shift["start time"] as string)?.split('T')[0] || '' // Extract date from ISO timestamp
       }))
     };
   }
