@@ -35,6 +35,14 @@ export default function Footer() {
   const [isLoading, setIsLoading] = useState(false)
   const [message, setMessage] = useState('')
 
+  // Email validation helper
+  const isValidEmail = (email: string) => {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+    return emailRegex.test(email)
+  }
+
+  const isButtonDisabled = isLoading || !email.trim() || !isValidEmail(email)
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     
@@ -180,8 +188,8 @@ export default function Footer() {
             <div className="mt-4 sm:mt-0 sm:ml-4 sm:shrink-0">
               <button
                 type="submit"
-                className="btn w-full"
-                disabled={isLoading}
+                className="btn w-full disabled:opacity-50 disabled:cursor-not-allowed"
+                disabled={isButtonDisabled}
               >
                 {isLoading ? 'Subscribing...' : 'Subscribe'}
               </button>
