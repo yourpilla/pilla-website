@@ -125,7 +125,7 @@ export default function SingleStageSignupSuccess() {
                   <strong>Password:</strong> {accountData.generatedPassword}
                 </div>
               </div>
-              <p className="mt-4 text-sm">
+              <p className="mt-4 small-blue">
                 Save these details now! You can change your password after logging in.
               </p>
             </SpeechBubble>
@@ -139,7 +139,7 @@ export default function SingleStageSignupSuccess() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-8">
             {/* iOS App */}
             <a 
-              href="https://apps.apple.com/app/pilla-hospitality/id123456789" 
+              href="https://apps.apple.com/gb/app/pilla/id6748623269" 
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -152,7 +152,7 @@ export default function SingleStageSignupSuccess() {
 
             {/* Android App */}
             <a 
-              href="https://play.google.com/store/apps/details?id=com.pilla.hospitality" 
+              href="https://play.google.com/store/apps/details?id=com.yourpilla.pillaapp" 
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -166,15 +166,6 @@ export default function SingleStageSignupSuccess() {
 
         </div>
 
-        {/* Navigation */}
-        <div className="flex justify-center mt-8">
-          <Link 
-            href="/blog"
-            className="btn"
-          >
-            Check out our Guides
-          </Link>
-        </div>
       </div>
     </div>
   );

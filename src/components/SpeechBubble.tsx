@@ -12,7 +12,7 @@ export default function SpeechBubble({ title, children, className = "" }: Speech
       {/* Profile Image */}
       <div className="flex-shrink-0">
         <Image
-          src="/liam-profile.jpg"
+          src="/liam circle small.png"
           alt="Liam, Pilla Founder"
           width={100}
           height={100}
@@ -22,7 +22,7 @@ export default function SpeechBubble({ title, children, className = "" }: Speech
       
       {/* Speech Bubble */}
       <div 
-        className="flex-1 p-6 rounded-3xl"
+        className="flex-1 p-6 rounded-3xl text-left"
         style={{ 
           backgroundColor: '#C2E0FF',
           borderBottomLeftRadius: '0px'
