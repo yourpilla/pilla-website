@@ -44,13 +44,13 @@ class AIAnalyzer {
     if (shifts.length > 0) {
       analysis += `SHIFTS DATA:\n`;
       shifts.forEach(shift => {
-        const scheduledStart = new Date(shift.scheduled_start);
+        const scheduledStart = shift.scheduled_start ? new Date(shift.scheduled_start) : null;
         const actualClockIn = shift.actual_clock_in ? new Date(shift.actual_clock_in) : null;
         const lateness = actualClockIn && scheduledStart ? 
           Math.max(0, (actualClockIn.getTime() - scheduledStart.getTime()) / (1000 * 60)) : 0;
 
-        analysis += `- ${shift.user_name} (${shift.date}): `;
-        analysis += `Scheduled ${scheduledStart.toLocaleTimeString()}, `;
+        analysis += `- ${shift.user_name || 'Unknown User'} (${shift.date}): `;
+        analysis += scheduledStart ? `Scheduled ${scheduledStart.toLocaleTimeString()}, ` : 'No schedule time, ';
         analysis += actualClockIn ? 
           `Clocked in ${actualClockIn.toLocaleTimeString()}` : 'No clock-in recorded';
         if (lateness > 0) analysis += ` (${Math.round(lateness)} min late)`;
@@ -62,13 +62,13 @@ class AIAnalyzer {
     if (workItems.length > 0) {
       analysis += `\nWORK ITEMS DATA:\n`;
       workItems.forEach(item => {
-        const started = new Date(item.started_at);
+        const started = item.started_at ? new Date(item.started_at) : null;
         const completed = item.completed_at ? new Date(item.completed_at) : null;
         const duration = completed && started ? 
           Math.round((completed.getTime() - started.getTime()) / (1000 * 60)) : null;
 
-        analysis += `- ${item.user_name} (${item.date}): `;
-        analysis += `${item.work_type} - Status: ${item.status}`;
+        analysis += `- ${item.user_name || 'Unknown User'} (${item.date}): `;
+        analysis += `${item.work_type || 'Unknown Task'} - Status: ${item.status}`;
         if (duration) analysis += ` (${duration} min)`;
         analysis += `\n`;
       });
