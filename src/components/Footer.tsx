@@ -85,14 +85,14 @@ export default function Footer() {
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           {testimonial && (
             <div className="space-y-4">
-              <blockquote className="text-gray-900">
+              <blockquote className="small-blue">
                 <p>&ldquo;{testimonial.content}&rdquo;</p>
               </blockquote>
               <figcaption className="flex items-center gap-x-4">
                 <div>
-                  <div className="font-semibold text-gray-900">{testimonial.name}</div>
+                  <div className="font-semibold small-blue">{testimonial.name}</div>
                   {testimonial.role && testimonial.company && (
-                    <div className="text-gray-600 text-sm">{testimonial.role} at {testimonial.company}</div>
+                    <div className="small-blue opacity-75">{testimonial.role} at {testimonial.company}</div>
                   )}
                 </div>
                 <a href={testimonial.platformUrl} target="_blank" rel="noopener noreferrer" className="flex-shrink-0">
