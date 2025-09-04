@@ -1118,8 +1118,8 @@ Complete AI-powered workforce analytics system that processes shift and work dat
 #### Data API Constraints (Shift Data)
 ```json
 [
-  {"key": "start time", "constraint_type": "gte", "value": "2024-01-15T00:00:00.000Z"},
-  {"key": "start time", "constraint_type": "lt", "value": "2024-01-21T00:00:00.000Z"},
+  {"key": "start time", "constraint_type": "greater than", "value": "2024-01-15T00:00:00.000Z"},
+  {"key": "start time", "constraint_type": "less than", "value": "2024-01-21T00:00:00.000Z"},
   {"key": "team", "constraint_type": "in", "value": ["team_id_1", "team_id_2"]}
 ]
 ```

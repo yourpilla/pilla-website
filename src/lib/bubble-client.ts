@@ -120,8 +120,8 @@ class BubbleClient {
     
     // Build Bubble Data API constraints
     const constraints = [
-      {"key": "start time", "constraint_type": "gte", "value": weekStartISO},
-      {"key": "start time", "constraint_type": "lt", "value": weekEndISO},
+      {"key": "start time", "constraint_type": "greater than", "value": weekStartISO},
+      {"key": "start time", "constraint_type": "less than", "value": weekEndISO},
       {"key": "team", "constraint_type": "in", "value": params.teams}
     ];
 
@@ -156,8 +156,8 @@ class BubbleClient {
     
     // Build Bubble Data API constraints
     const constraints = [
-      {"key": "start", "constraint_type": "gte", "value": weekStartISO},
-      {"key": "start", "constraint_type": "lt", "value": weekEndISO},
+      {"key": "start", "constraint_type": "greater than", "value": weekStartISO},
+      {"key": "start", "constraint_type": "less than", "value": weekEndISO},
       {"key": "team", "constraint_type": "in", "value": params.teams}
     ];
 
