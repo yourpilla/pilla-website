@@ -152,6 +152,9 @@ STRIPE_WEBHOOK_SECRET=whsec_...
 BUBBLE_API_ENDPOINT=https://yourpilla.com/version-test/api/1.1
 BUBBLE_API_KEY=your_bubble_api_key
 
+# Loops.so Configuration (transactional emails and mailing list)
+LOOPS_API_KEY=f044e00af4f2eb2050f16418fa2eea11
+
 # Stripe Price ID (update for production)
 STRIPE_PRICE_ID=price_xxxxx
 ```

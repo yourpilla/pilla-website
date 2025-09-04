@@ -100,6 +100,35 @@ export async function POST(request: NextRequest) {
 
     const bubbleData = await bubbleResponse.json();
 
+    // Send transactional welcome email via Loops.so
+    try {
+      const loopsResponse = await fetch('https://app.loops.so/api/v1/transactional', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${process.env.LOOPS_API_KEY}`,
+        },
+        body: JSON.stringify({
+          transactionalId: 'clv2nh8kl00b947lgl0p2djdi',
+          email: email,
+          dataVariables: {
+            password: generatedPassword,
+          },
+        }),
+      });
+
+      if (!loopsResponse.ok) {
+        const loopsError = await loopsResponse.json().catch(() => ({}));
+        console.error('Loops.so transactional email failed:', loopsError);
+        // Don't fail the entire signup if email fails - account was created successfully
+      } else {
+        console.log('Welcome email sent successfully via Loops.so');
+      }
+    } catch (emailError) {
+      console.error('Failed to send welcome email:', emailError);
+      // Don't fail the entire signup if email fails
+    }
+
     return NextResponse.json({
       success: true,
       customerId: typeof session.customer === 'string' 
