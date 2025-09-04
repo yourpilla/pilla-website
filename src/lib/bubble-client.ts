@@ -156,8 +156,8 @@ class BubbleClient {
     
     // Build Bubble Data API constraints
     const constraints = [
-      {"key": "started_at", "constraint_type": "gte", "value": weekStartISO},
-      {"key": "started_at", "constraint_type": "lt", "value": weekEndISO},
+      {"key": "start", "constraint_type": "gte", "value": weekStartISO},
+      {"key": "start", "constraint_type": "lt", "value": weekEndISO},
       {"key": "team", "constraint_type": "in", "value": params.teams}
     ];
 
@@ -171,14 +171,14 @@ class BubbleClient {
     return {
       work_items: response.response.results.map((work) => ({
         work_id: work._id as string,
-        user_id: work.user_id as string | undefined,
-        user_name: work.user_name as string | undefined,
+        user_id: work["Created By"] as string | undefined, // Using Created By as user reference
+        user_name: work.Name as string | undefined, // Work item name, not user name
         team_id: work.team as string | undefined,
-        work_type: work.work_type as string | undefined,
-        started_at: work.started_at as string | undefined,
-        completed_at: work.completed_at as string | null | undefined,
-        status: (work.status as string) || 'unknown',
-        date: (work.started_at as string)?.split('T')[0] || '' // Extract date from ISO timestamp
+        work_type: work.template as string | undefined, // Template defines work type
+        started_at: work.start as string | undefined,
+        completed_at: work["finished time actual"] as string | null | undefined,
+        status: (work.Status as string) || 'unknown',
+        date: (work.start as string)?.split('T')[0] || '' // Extract date from ISO timestamp
       }))
     };
   }

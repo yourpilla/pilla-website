@@ -1157,6 +1157,43 @@ Based on production data from shift ID `1756634037997x979353332816805900`:
 - `site` → `location_id`
 - `start time` → `date` (extracted date portion)
 
+#### Bubble Work Database Schema
+Based on production data from work ID `1756683154011x498978082599731200`:
+
+**Available Fields:**
+- **`_id`**: Unique work item identifier (string)
+- **`Created Date`**: Work item creation timestamp (string, ISO format)
+- **`Modified Date`**: Last modification timestamp (string, ISO format)
+- **`start`**: Scheduled work start time (string, ISO format)
+- **`end`**: Scheduled work end time (string, ISO format)
+- **`finished time actual`**: Actual completion timestamp (string, ISO format)
+- **`Name`**: Work item name/title (string, e.g., "Test 2")
+- **`Status`**: Completion status (string, e.g., "Complete")
+- **`template`**: Template ID reference (string, Bubble Thing reference)
+- **`team`**: Team ID reference (string, Bubble Thing reference)
+- **`Site`**: Site/location ID reference (string, Bubble Thing reference)
+- **`SaaS Account`**: Account ID reference (string, Bubble Thing reference)
+- **`Created By`**: User who created work item (string, Bubble Thing reference)
+- **`minutes difference`**: Work duration in minutes (number)
+- **`points earned`**: Points awarded for completion (number)
+- **`points multiplier`**: Point calculation multiplier (number)
+- **`finished on time`**: Whether completed on schedule (boolean)
+- **`element`**: Array of work element IDs (object/array)
+- **`api add elements`**: API-added elements (object/array)
+- **`threader`**: Threading/sequence data (object/array)
+
+**Field Mappings (Bubble → Next.js Interface):**
+- `_id` → `work_id`
+- `Created By` → `user_id` (Note: contains Bubble Thing ID for creator)
+- `Name` → `user_name` (Note: work item name, not user name)
+- `team` → `team_id`
+- `start` → `started_at`
+- `finished time actual` → `completed_at`
+- `template` → `work_type` (template defines work type)
+- `Status` → `status`
+- `Site` → `location_id`
+- `start` → `date` (extracted date portion)
+
 ### AI Analysis Capabilities
 
 #### Pattern Recognition
