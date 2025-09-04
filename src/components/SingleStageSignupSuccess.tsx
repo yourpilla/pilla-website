@@ -126,7 +126,7 @@ export default function SingleStageSignupSuccess() {
                 </div>
                 
                 {/* Generated Password */}
-                <div className="border border-gray-200 rounded-lg p-4">
+                <div>
                   <strong className="text-gray-900 block mb-2">Your Generated Password:</strong>
                   <div className="flex items-center gap-2 mb-2">
                     <code className="bg-white px-3 py-2 rounded border text-lg font-mono flex-1">
@@ -222,18 +222,12 @@ export default function SingleStageSignupSuccess() {
 
 
         {/* Navigation */}
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Link 
-            href="/"
-            className="btn"
-          >
-            Back to Homepage
-          </Link>
+        <div className="flex justify-center mt-8">
           <Link 
             href="/blog"
             className="btn"
           >
-            Read Our Blog
+            Check out our Guides
           </Link>
         </div>
       </div>
