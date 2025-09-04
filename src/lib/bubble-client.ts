@@ -43,7 +43,7 @@ class BubbleClient {
   private apiKey: string;
 
   constructor() {
-    this.baseUrl = process.env.BUBBLE_API_URL || 'https://yourpilla.com/version-test/api/1.1';
+    this.baseUrl = process.env.BUBBLE_API_ENDPOINT || 'https://yourpilla.com/version-test/api/1.1';
     this.apiKey = process.env.BUBBLE_API_KEY || '';
     
     if (!this.apiKey) {
