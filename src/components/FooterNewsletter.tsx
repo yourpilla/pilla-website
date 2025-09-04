@@ -78,7 +78,7 @@ export default function FooterNewsletter() {
         <div className="mt-4 sm:mt-0 sm:ml-4 sm:shrink-0">
           <button
             type="submit"
-            className="btn w-full disabled:opacity-50 disabled:cursor-not-allowed"
+            className="btn w-full disabled:cursor-not-allowed"
             disabled={isButtonDisabled}
           >
             {isLoading ? 'Subscribing...' : 'Subscribe'}

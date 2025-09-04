@@ -41,11 +41,11 @@ export default function Footer() {
               <blockquote className="small-blue">
                 <p>&ldquo;{testimonial.content}&rdquo;</p>
               </blockquote>
-              <figcaption className="flex items-center gap-x-4">
+              <figcaption className="small-blue">
                 <div>
-                  <div className="font-semibold small-blue">{testimonial.name}</div>
+                  <div className="font-semibold">{testimonial.name}</div>
                   {testimonial.role && testimonial.company && (
-                    <div className="small-blue opacity-75">{testimonial.role} at {testimonial.company}</div>
+                    <div className="opacity-75">{testimonial.role} at {testimonial.company}</div>
                   )}
                 </div>
                 <a href={testimonial.platformUrl} target="_blank" rel="noopener noreferrer" className="flex-shrink-0">
