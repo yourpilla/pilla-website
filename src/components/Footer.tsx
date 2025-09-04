@@ -37,11 +37,11 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-6 pt-16 pb-8 sm:pt-24 lg:px-8 lg:pt-32">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           {testimonial && (
-            <div className="space-y-4">
-              <blockquote className="small-blue">
+            <div className="space-y-4 small-blue">
+              <blockquote>
                 <p>&ldquo;{testimonial.content}&rdquo;</p>
               </blockquote>
-              <figcaption className="small-blue">
+              <figcaption className="flex items-center gap-x-4">
                 <div>
                   <div className="font-semibold">{testimonial.name}</div>
                   {testimonial.role && testimonial.company && (

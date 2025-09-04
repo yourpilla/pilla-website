@@ -50,13 +50,13 @@
 - **plan_1_name**: "Basic" | **typography**: `.h2` *[Options: h2, h3, subtitle]*
 - **plan_1_price**: "£65" | **typography**: `.h4` *[Options: h1, h2, display-1]*
 - **plan_1_period**: "/month" | **typography**: `.small-blue` *[Options: text-sm, text-base]*
-- **plan_1_description**: "The perfect plan if you're just getting started with our product." | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
+- **plan_1_description**: "All the features you need to run your hospitality teams" | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
 - **plan_1_features**: | *One feature per line* **typography**: `.small-blue`
 ```
-25 products
-Up to 10,000 subscribers
-Advanced analytics
-24-hour support response time
+Shift Scheduling, holidays and payroll
+Operations and compliance work activities
+Communication threads and messages on everything
+Company leaderboard to promote consistency
 ```
 - **plan_1_button_text**: "7-Day Free Trial" | **typography**: `.h3`
 - **plan_1_button_link**: "#" 
@@ -67,13 +67,17 @@ Advanced analytics
 - **plan_2_name**: "Pro" | **typography**: `.h2` *[Options: h2, h3, subtitle]*
 - **plan_2_price**: "£95" | **typography**: `.h4` *[Options: h1, h2, display-1]*
 - **plan_2_period**: "/month" | **typography**: `.small-blue` *[Options: text-sm, text-base]*
-- **plan_2_description**: "Dedicated support and infrastructure for your company." | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
+- **plan_2_description**: "Extra features which you control to run the most effective teams" | **typography**: `.small-blue` *[Options: lead, subtitle, text-sm]*
 - **plan_2_features**: | *One feature per line* **typography**: `.small-blue`
 ```
-Unlimited products
-Unlimited subscribers
-Advanced analytics
-Dedicated support representative
+Custom onboarding emails for new staff
+Custom push notification reminders for staff
+Custom leaderboard updates for staff 
+Custom insights on team trends for managers
+Custom reporting on company performance for admins
+ 
+
+ 
 Marketing automations
 Custom integrations
 ```
@@ -89,62 +93,115 @@ Custom integrations
 
 - **comparison_background**: `bg-gray-50` *[Options: bg-gray-50, bg-white, bg-main]*
 
-#### Features Category
-- **features_category_name**: "Features" | **typography**: `.h6`
+#### Shifts Category
+- **features_category_name**: "Shifts" | **typography**: `.h6`
 
-- **feature_1_name**: "Edge content delivery" | **typography**: `.small-blue`
+- **feature_1_name**: "Automated shift scheduling" | **typography**: `.small-blue`
 - **feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 - **feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **feature_2_name**: "Custom domains" | **typography**: `.small-blue`
-- **feature_2_plan_1_value**: "1" | *[Options: ✓, ✗, text/numbers]*
-- **feature_2_plan_2_value**: "Unlimited" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_name**: "Location-based clock-in and out" | **typography**: `.small-blue`
+- **feature_2_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **feature_3_name**: "Team members" | **typography**: `.small-blue`
-- **feature_3_plan_1_value**: "3" | *[Options: ✓, ✗, text/numbers]*
-- **feature_3_plan_2_value**: "Unlimited" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_name**: "Holiday and Leave booking" | **typography**: `.small-blue`
+- **feature_3_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **feature_4_name**: "Single sign-on (SSO)" | **typography**: `.small-blue`
+- **feature_4_name**: "Leave and accrual calculations" | **typography**: `.small-blue`
+- **feature_4_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_5_name**: "Payroll calculations and export" | **typography**: `.small-blue`
+- **feature_5_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_5_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_6_name**: "Message thread on every shift" | **typography**: `.small-blue`
+- **feature_6_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_6_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_7_name**: "Custom push notification reminders" | **typography**: `.small-blue`
+- **feature_7_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **feature_7_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_8_name**: "Custom shift trends and insights" | **typography**: `.small-blue`
+- **feature_8_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **feature_8_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_9_name**: "Custom shift performance reporting" | **typography**: `.small-blue`
+- **feature_9_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **feature_9_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+#### Work Category
+- **reporting_category_name**: "Work" | **typography**: `.h6`
+
+- **feature_1_name**: "9 work element types" | **typography**: `.small-blue`
+- **feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_2_name**: "Repeating work activies" | **typography**: `.small-blue`
+- **feature_2_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_3_name**: "Issuse highlighting" | **typography**: `.small-blue`
+- **feature_3_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_3_name**: "Full search history" | **typography**: `.small-blue`
+- **feature_3_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_4_name**: "Custom push notification reminders" | **typography**: `.small-blue`
 - **feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
 - **feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-#### Reporting Category
-- **reporting_category_name**: "Reporting" | **typography**: `.h6`
+- **feature_5_name**: "Custom shift trends and insights" | **typography**: `.small-blue`
+- **feature_5_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **feature_5_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **reporting_feature_1_name**: "Advanced analytics" | **typography**: `.small-blue`
-- **reporting_feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
-- **reporting_feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_6_name**: "Custom shift performance reporting" | **typography**: `.small-blue`
+- **feature_6_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
+- **feature_6_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **reporting_feature_2_name**: "Basic reports" | **typography**: `.small-blue`
-- **reporting_feature_2_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
-- **reporting_feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+#### Communication Category
+- **support_category_name**: "Communication" | **typography**: `.h6`
 
-- **reporting_feature_3_name**: "Professional reports" | **typography**: `.small-blue`
-- **reporting_feature_3_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
-- **reporting_feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_1_name**: "Shift threads" | **typography**: `.small-blue`
+- **feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **reporting_feature_4_name**: "Custom report builder" | **typography**: `.small-blue`
-- **reporting_feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
-- **reporting_feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_name**: "Work threads" | **typography**: `.small-blue`
+- **feature_2_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-#### Support Category
-- **support_category_name**: "Support" | **typography**: `.h6`
+- **feature_3_name**: "1on1 Chat" | **typography**: `.small-blue`
+- **feature_3_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **support_feature_1_name**: "24/7 online support" | **typography**: `.small-blue`
-- **support_feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
-- **support_feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_name**: "Group Chat" | **typography**: `.small-blue`
+- **feature_3_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **support_feature_2_name**: "Quarterly workshops" | **typography**: `.small-blue`
-- **support_feature_2_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
-- **support_feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+#### Leaderboard Category
+- **support_category_name**: "Leaderboards" | **typography**: `.h6`
 
-- **support_feature_3_name**: "Priority phone support" | **typography**: `.small-blue`
-- **support_feature_3_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
-- **support_feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_1_name**: "Shift threads" | **typography**: `.small-blue`
+- **feature_1_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_1_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
 
-- **support_feature_4_name**: "1:1 onboarding tour" | **typography**: `.small-blue`
-- **support_feature_4_plan_1_value**: "✗" | *[Options: ✓, ✗, text/numbers]*
-- **support_feature_4_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_name**: "Work threads" | **typography**: `.small-blue`
+- **feature_2_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_2_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_3_name**: "1on1 Chat" | **typography**: `.small-blue`
+- **feature_3_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+- **feature_3_name**: "Group Chat" | **typography**: `.small-blue`
+- **feature_3_plan_1_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+- **feature_3_plan_2_value**: "✓" | *[Options: ✓, ✗, text/numbers]*
+
+
 
 ### Styling Options
 - **main_background**: `bg-main` *[Options: bg-main, bg-white, bg-gray-50]*
