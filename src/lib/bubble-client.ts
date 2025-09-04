@@ -1,25 +1,25 @@
 interface BubbleShift {
   shift_id: string;
-  user_id: string;
-  user_name: string;
-  team_id: string;
-  scheduled_start: string;
-  scheduled_end: string;
-  actual_clock_in: string | null;
-  actual_clock_out: string | null;
+  user_id: string | undefined;
+  user_name: string | undefined;
+  team_id: string | undefined;
+  scheduled_start: string | undefined;
+  scheduled_end: string | undefined;
+  actual_clock_in: string | null | undefined;
+  actual_clock_out: string | null | undefined;
   pay_amount: number;
-  location_id: string;
+  location_id: string | undefined;
   date: string;
 }
 
 interface BubbleWork {
   work_id: string;
-  user_id: string;
-  user_name: string;
-  team_id: string;
-  work_type: string;
-  started_at: string;
-  completed_at: string | null;
+  user_id: string | undefined;
+  user_name: string | undefined;
+  team_id: string | undefined;
+  work_type: string | undefined;
+  started_at: string | undefined;
+  completed_at: string | null | undefined;
   status: string;
   date: string;
 }

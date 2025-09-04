@@ -90,7 +90,8 @@ export async function generateManagerReport(params: ReportParams): Promise<Repor
 }
 
 // Optional: Add function for company-wide reports
-export async function generateCompanyReport(_params: {
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+export async function generateCompanyReport(params: {
   startDate: string;
   endDate: string;
   locations: string[];
