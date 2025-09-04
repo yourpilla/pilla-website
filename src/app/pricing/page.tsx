@@ -252,7 +252,7 @@ export default function PricingPage() {
                           {feature.name}
                         </td>
                         {feature.values.map((value, valueIdx) => (
-                          <td key={valueIdx} className="px-6 py-4 text-center text-sm">
+                          <td key={valueIdx} className="px-6 py-4 text-center small-blue">
                             {value === '✓' ? (
                               <CheckCircleIcon className="mx-auto h-5 w-5" style={{ color: '#374151' }} />
                             ) : value === '✗' ? (
