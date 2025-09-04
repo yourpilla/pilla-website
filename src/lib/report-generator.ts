@@ -56,7 +56,7 @@ export async function generateManagerReport(params: ReportParams): Promise<Repor
 
     // Step 3: Send email via Loops
     console.log('Step 3: Sending email via Loops...');
-    const emailResult = await emailSender.sendSimpleManagerReport({
+    const emailResult = await emailSender.sendManagerReport({
       managerName: params.managerName,
       managerEmail: params.managerEmail,
       analysis: analysis,

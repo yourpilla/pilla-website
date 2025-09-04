@@ -157,9 +157,24 @@ Questions? Reply to this email or contact support.
         throw new Error('LOOPS_API_KEY not configured');
       }
 
-      const { subject, htmlBody, textBody } = this.buildEmailContent(params);
+      console.log(`Sending email to ${params.managerEmail} via Loops transactional template`);
 
-      console.log(`Sending email to ${params.managerEmail} - Subject: ${subject}`);
+      // Format data for Loops template variables
+      const keyInsightsText = params.analysis.keyInsights.length > 0 
+        ? params.analysis.keyInsights.map(insight => `• ${insight}`).join('\n')
+        : '• No specific insights identified for this period';
+
+      const trendsText = params.analysis.trends.length > 0
+        ? params.analysis.trends.map(trend => `• ${trend}`).join('\n')
+        : '• No significant trends identified for this period';
+
+      const concernsText = params.analysis.concerns.length > 0
+        ? params.analysis.concerns.map(concern => `• ${concern}`).join('\n')
+        : 'No areas requiring immediate attention identified';
+
+      const recommendationsText = params.analysis.recommendations.length > 0
+        ? params.analysis.recommendations.map(rec => `• ${rec}`).join('\n')
+        : '• Continue current operational practices';
 
       const response = await fetch(this.apiUrl, {
         method: 'POST',
@@ -168,15 +183,17 @@ Questions? Reply to this email or contact support.
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          transactionalId: 'manager-weekly-report', // You'll need to create this template in Loops
+          transactionalId: 'cmf5n97qo05vezd0itgb42j1z',
           email: params.managerEmail,
           dataVariables: {
             managerName: params.managerName,
-            subject: subject,
-            htmlContent: htmlBody,
-            textContent: textBody,
             dateRange: this.formatDateRange(params.dateRange.start, params.dateRange.end),
-            teams: params.teams.join(', ')
+            teams: params.teams.join(', '),
+            summary: params.analysis.summary,
+            keyInsights: keyInsightsText,
+            trends: trendsText,
+            concerns: concernsText,
+            recommendations: recommendationsText
           }
         }),
       });
