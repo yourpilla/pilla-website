@@ -224,7 +224,7 @@ export default function PricingPage() {
       {/* Section 2: Feature Comparison Table */}
       <div className="bg-gray-50 py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="mx-auto max-w-4xl white-card">
+          <div className="mx-auto max-w-4xl white-card px-6">
             <table className="w-full border-separate border-spacing-0 text-left">
               <thead>
                 <tr>

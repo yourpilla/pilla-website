@@ -39,7 +39,8 @@ export default function SpeechBubble({ title, children, className = "" }: Speech
         
         {/* Footer */}
         <div style={{ fontSize: '18px' }}>
-          Liam, Pilla Founder. <a 
+          <span style={{ fontSize: '18px' }}>Liam, Pilla Founder. </span>
+          <a 
             href="mailto:liam@yourpilla.com" 
             className="text-blue-600 hover:underline"
             style={{ fontSize: '18px' }}
