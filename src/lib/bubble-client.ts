@@ -78,23 +78,73 @@ class BubbleClient {
   }
 
   async fetchShifts(params: FetchDataParams): Promise<BubbleShiftsResponse> {
+    // Convert date to ISO format for Bubble constraints
+    const weekStartISO = `${params.startDate}T00:00:00Z`;
+    const weekEndISO = `${params.endDate}T00:00:00Z`;
+    
+    // Build Bubble Data API constraints
+    const constraints = [
+      {"key": "start_time", "constraint_type": "gte", "value": weekStartISO},
+      {"key": "start_time", "constraint_type": "lt", "value": weekEndISO},
+      {"key": "team", "constraint_type": "in", "value": params.teams}
+    ];
+
     const queryParams = {
-      start_date: params.startDate,
-      end_date: params.endDate,
-      team_ids: params.teams.join(','), // Convert array to comma-separated string
+      constraints: JSON.stringify(constraints)
     };
 
-    return this.makeRequest<BubbleShiftsResponse>('/api/data/shifts', queryParams);
+    const response = await this.makeRequest<any>('/api/1.1/obj/shift', queryParams);
+    
+    // Transform Bubble Data API response to our expected format
+    return {
+      shifts: response.response.results.map((shift: any) => ({
+        shift_id: shift._id,
+        user_id: shift.user_id,
+        user_name: shift.user_name,
+        team_id: shift.team,
+        scheduled_start: shift.scheduled_start,
+        scheduled_end: shift.scheduled_end,
+        actual_clock_in: shift.actual_clock_in,
+        actual_clock_out: shift.actual_clock_out,
+        pay_amount: shift.pay_amount,
+        location_id: shift.location_id,
+        date: shift.start_time.split('T')[0] // Extract date from ISO timestamp
+      }))
+    };
   }
 
   async fetchWork(params: FetchDataParams): Promise<BubbleWorkResponse> {
+    // Convert date to ISO format for Bubble constraints
+    const weekStartISO = `${params.startDate}T00:00:00Z`;
+    const weekEndISO = `${params.endDate}T00:00:00Z`;
+    
+    // Build Bubble Data API constraints
+    const constraints = [
+      {"key": "started_at", "constraint_type": "gte", "value": weekStartISO},
+      {"key": "started_at", "constraint_type": "lt", "value": weekEndISO},
+      {"key": "team", "constraint_type": "in", "value": params.teams}
+    ];
+
     const queryParams = {
-      start_date: params.startDate,
-      end_date: params.endDate,
-      team_ids: params.teams.join(','), // Convert array to comma-separated string
+      constraints: JSON.stringify(constraints)
     };
 
-    return this.makeRequest<BubbleWorkResponse>('/api/data/work', queryParams);
+    const response = await this.makeRequest<any>('/api/1.1/obj/work', queryParams);
+    
+    // Transform Bubble Data API response to our expected format
+    return {
+      work_items: response.response.results.map((work: any) => ({
+        work_id: work._id,
+        user_id: work.user_id,
+        user_name: work.user_name,
+        team_id: work.team,
+        work_type: work.work_type,
+        started_at: work.started_at,
+        completed_at: work.completed_at,
+        status: work.status,
+        date: work.started_at.split('T')[0] // Extract date from ISO timestamp
+      }))
+    };
   }
 
   async fetchAllData(params: FetchDataParams): Promise<{
