@@ -129,6 +129,34 @@ export async function POST(request: NextRequest) {
       // Don't fail the entire signup if email fails
     }
 
+    // Add user to mailing list via Loops.so
+    try {
+      const mailingListResponse = await fetch('https://app.loops.so/api/v1/contacts/update', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${process.env.LOOPS_API_KEY}`,
+        },
+        body: JSON.stringify({
+          email: email,
+          mailingLists: {
+            "cmey4x0l55x8j0iw3eyu97hp0": true
+          },
+        }),
+      });
+
+      if (!mailingListResponse.ok) {
+        const mailingListError = await mailingListResponse.json().catch(() => ({}));
+        console.error('Loops.so mailing list addition failed:', mailingListError);
+        // Don't fail the entire signup if mailing list fails - account was created successfully
+      } else {
+        console.log('User added to mailing list successfully via Loops.so');
+      }
+    } catch (mailingListError) {
+      console.error('Failed to add user to mailing list:', mailingListError);
+      // Don't fail the entire signup if mailing list fails
+    }
+
     return NextResponse.json({
       success: true,
       customerId: typeof session.customer === 'string' 
