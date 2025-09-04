@@ -20,7 +20,7 @@ export async function GET(request: NextRequest) {
     console.log(`Using Bubble API: ${baseUrl}`);
 
     // Fetch single shift by ID using Bubble Data API
-    const url = `${baseUrl}/api/1.1/obj/shift/${shiftId}`;
+    const url = `${baseUrl}/obj/shift/${shiftId}`;
     
     const response = await fetch(url, {
       method: 'GET',

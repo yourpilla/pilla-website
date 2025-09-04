@@ -129,7 +129,7 @@ class BubbleClient {
       constraints: JSON.stringify(constraints)
     };
 
-    const response = await this.makeRequest<BubbleApiResponse>('/api/1.1/obj/shift', queryParams);
+    const response = await this.makeRequest<BubbleApiResponse>('/obj/shift', queryParams);
     
     // Transform Bubble Data API response to our expected format
     return {
@@ -165,7 +165,7 @@ class BubbleClient {
       constraints: JSON.stringify(constraints)
     };
 
-    const response = await this.makeRequest<BubbleApiResponse>('/api/1.1/obj/work', queryParams);
+    const response = await this.makeRequest<BubbleApiResponse>('/obj/work', queryParams);
     
     // Transform Bubble Data API response to our expected format
     return {
