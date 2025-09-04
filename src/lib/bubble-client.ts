@@ -114,9 +114,9 @@ class BubbleClient {
   }
 
   async fetchShifts(params: FetchDataParams): Promise<BubbleShiftsResponse> {
-    // Convert date to ISO format for Bubble constraints
-    const weekStartISO = `${params.startDate}T00:00:00Z`;
-    const weekEndISO = `${params.endDate}T00:00:00Z`;
+    // Convert date to proper ISO 8601 format with UTC timezone for Bubble Data API
+    const weekStartISO = new Date(`${params.startDate}T00:00:00`).toISOString();
+    const weekEndISO = new Date(`${params.endDate}T00:00:00`).toISOString();
     
     // Build Bubble Data API constraints
     const constraints = [
@@ -150,9 +150,9 @@ class BubbleClient {
   }
 
   async fetchWork(params: FetchDataParams): Promise<BubbleWorkResponse> {
-    // Convert date to ISO format for Bubble constraints
-    const weekStartISO = `${params.startDate}T00:00:00Z`;
-    const weekEndISO = `${params.endDate}T00:00:00Z`;
+    // Convert date to proper ISO 8601 format with UTC timezone for Bubble Data API
+    const weekStartISO = new Date(`${params.startDate}T00:00:00`).toISOString();
+    const weekEndISO = new Date(`${params.endDate}T00:00:00`).toISOString();
     
     // Build Bubble Data API constraints
     const constraints = [

@@ -1118,11 +1118,13 @@ Complete AI-powered workforce analytics system that processes shift and work dat
 #### Data API Constraints (Shift Data)
 ```json
 [
-  {"key": "start time", "constraint_type": "gte", "value": "2024-01-15T00:00:00Z"},
-  {"key": "start time", "constraint_type": "lt", "value": "2024-01-21T00:00:00Z"},
+  {"key": "start time", "constraint_type": "gte", "value": "2024-01-15T00:00:00.000Z"},
+  {"key": "start time", "constraint_type": "lt", "value": "2024-01-21T00:00:00.000Z"},
   {"key": "team", "constraint_type": "in", "value": ["team_id_1", "team_id_2"]}
 ]
 ```
+
+**Important**: Dates are automatically normalized to UTC using JavaScript's `toISOString()` method to ensure proper Bubble Data API compatibility. Input format `YYYY-MM-DD` is converted to full ISO 8601 format with timezone.
 
 #### Bubble Shift Database Schema
 Based on production data from shift ID `1756634037997x979353332816805900`:
