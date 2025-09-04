@@ -2,8 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
-import Link from 'next/link';
-import { CheckCircleIcon, DevicePhoneMobileIcon, ComputerDesktopIcon, ExclamationCircleIcon, EyeIcon, EyeSlashIcon, ClipboardDocumentIcon } from '@heroicons/react/24/outline';
+import { ExclamationCircleIcon } from '@heroicons/react/24/outline';
 import SpeechBubble from './SpeechBubble';
 
 interface AccountData {
@@ -26,8 +25,6 @@ export default function SingleStageSignupSuccess() {
   const [completionStatus, setCompletionStatus] = useState<'loading' | 'success' | 'error'>('loading');
   const [error, setError] = useState<string | null>(null);
   const [accountData, setAccountData] = useState<AccountData | null>(null);
-  const [showPassword, setShowPassword] = useState(false);
-  const [passwordCopied, setPasswordCopied] = useState(false);
 
   useEffect(() => {
     async function completeSignup() {
@@ -61,18 +58,6 @@ export default function SingleStageSignupSuccess() {
 
     completeSignup();
   }, [sessionId]);
-
-  const copyPassword = async () => {
-    if (accountData?.generatedPassword) {
-      try {
-        await navigator.clipboard.writeText(accountData.generatedPassword);
-        setPasswordCopied(true);
-        setTimeout(() => setPasswordCopied(false), 2000);
-      } catch (err) {
-        console.error('Failed to copy password:', err);
-      }
-    }
-  };
 
   if (completionStatus === 'loading') {
     return (

@@ -213,10 +213,10 @@ export default function PricingPage() {
       <div className="mx-auto max-w-4xl px-6 py-16">
         <SpeechBubble title="Questions about pricing?">
           <p className="mb-4">
-            I'm here to help you choose the right plan for your business. Pilla is designed to save you time and money while keeping your team compliant.
+            I&apos;m here to help you choose the right plan for your business. Pilla is designed to save you time and money while keeping your team compliant.
           </p>
           <p>
-            Have specific questions about features, team sizes, or implementation? I'd love to chat about how Pilla can work for your hospitality business.
+            Have specific questions about features, team sizes, or implementation? I&apos;d love to chat about how Pilla can work for your hospitality business.
           </p>
         </SpeechBubble>
       </div>
