@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { CheckCircleIcon, DevicePhoneMobileIcon, ComputerDesktopIcon, ExclamationCircleIcon, EyeIcon, EyeSlashIcon, ClipboardDocumentIcon } from '@heroicons/react/24/outline';
+import SpeechBubble from './SpeechBubble';
 
 interface AccountData {
   customerId: string;
@@ -109,55 +110,26 @@ export default function SingleStageSignupSuccess() {
     <div className="min-h-screen bg-main py-6 sm:py-12 px-4">
       <div className="max-w-2xl mx-auto text-center">
 
-        {/* Header */}
+        {/* Speech Bubble from Liam */}
         <div className="mb-12">
-          <h1 className="h1 mb-4 text-green-800">Welcome to Pilla! 🎉</h1>
-          <p className="text-lg text-gray-700 mb-6">
-            Your account has been created successfully and your 7-day free trial has started.
-          </p>
-
-          {/* Account Details */}
           {accountData && (
-            <div className="white-card pt-8">
-              <div className="space-y-4 text-sm">
+            <SpeechBubble title="Welcome to Pilla! 🎉">
+              <p className="mb-4">
+                Your account has been created successfully and your 7-day free trial has started.
+              </p>
+              <div className="space-y-2">
                 <div>
-                  <strong className="text-gray-900">Email:</strong>
-                  <p className="text-gray-600">{accountData.email}</p>
+                  <strong>Email:</strong> {accountData.email}
                 </div>
-                
-                {/* Generated Password */}
                 <div>
-                  <strong className="text-gray-900 block mb-2">Your Generated Password:</strong>
-                  <div className="flex items-center gap-2 mb-2">
-                    <code className="bg-white px-3 py-2 rounded border text-lg font-mono flex-1">
-                      {showPassword ? accountData.generatedPassword : '••••••••••••'}
-                    </code>
-                    <button
-                      onClick={() => setShowPassword(!showPassword)}
-                      className="p-2 text-gray-500 hover:text-gray-700"
-                      title={showPassword ? 'Hide password' : 'Show password'}
-                    >
-                      {showPassword ? <EyeSlashIcon className="w-5 h-5" /> : <EyeIcon className="w-5 h-5" />}
-                    </button>
-                    <button
-                      onClick={copyPassword}
-                      className="p-2 text-gray-500 hover:text-gray-700"
-                      title="Copy password"
-                    >
-                      <ClipboardDocumentIcon className="w-5 h-5" />
-                    </button>
-                  </div>
-                  {passwordCopied && (
-                    <p className="text-green-600 text-xs">Password copied to clipboard!</p>
-                  )}
-                  <p className="text-gray-600 text-xs mt-2">
-                    <strong>Important:</strong> Save this password now! You can change it after logging in.
-                  </p>
+                  <strong>Password:</strong> {accountData.generatedPassword}
                 </div>
               </div>
-            </div>
+              <p className="mt-4 text-sm">
+                Save these details now! You can change your password after logging in.
+              </p>
+            </SpeechBubble>
           )}
-
         </div>
 
         {/* App Download Section */}
@@ -193,33 +165,6 @@ export default function SingleStageSignupSuccess() {
           </div>
 
         </div>
-
-        {/* Support Information */}
-        <div className="white-card py-8">
-          <h3 className="small-blue mb-4">Need Help Getting Started?</h3>
-          <div className="space-y-4 text-sm">
-            <div>
-              <strong className="text-gray-900">Email Support:</strong>
-              <br />
-              <a href="mailto:support@yourpilla.com" className="text-blue-600 hover:underline">
-                support@yourpilla.com
-              </a>
-            </div>
-            <div>
-              <strong className="text-gray-900">Phone Support:</strong>
-              <br />
-              <a href="tel:+1234567890" className="text-blue-600 hover:underline">
-                +1 (234) 567-890
-              </a>
-            </div>
-            <div>
-              <strong className="text-gray-900">Live Chat:</strong>
-              <br />
-              Available in the mobile app and web platform
-            </div>
-          </div>
-        </div>
-
 
         {/* Navigation */}
         <div className="flex justify-center mt-8">

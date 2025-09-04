@@ -21,20 +21,20 @@ Your account has been created successfully and your 7-day free trial has started
 
 ### 2. Account Details Card
 **Current Elements:**
-- Email display (dynamic from account data)
-- Password section with show/hide and copy functionality
+- Email display (dynamic from account data) `.h6`
+- Password section with show/hide and copy functionality `.small-blue`
 
 **Form to Update:**
 - **Card Padding Top:** [    ] (current: pt-8)
 - **Show Email:** [ ] Yes [ ] No
 - **Password Label:** [                                    ]
-- **Important Message:** [                                                           ]
+- **Important Message:** [                                                           ] `.small-grey`
 
 ### 3. App Download Section
 **Current Elements:**
 - Section title: "Download the Pilla App"
-- Apple App Store logo/link
-- Google Play Store logo/link
+- Apple App Store logo/link https://apps.apple.com/gb/app/pilla/id6748623269
+- Google Play Store logo/link https://play.google.com/store/apps/details?id=com.yourpilla.pillaapp
 
 **Form to Update:**
 - **Section Title:** [                                    ]
