@@ -90,7 +90,7 @@ export async function generateManagerReport(params: ReportParams): Promise<Repor
 }
 
 // Optional: Add function for company-wide reports
-export async function generateCompanyReport(params: {
+export async function generateCompanyReport(_params: {
   startDate: string;
   endDate: string;
   locations: string[];

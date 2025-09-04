@@ -32,6 +32,42 @@ interface BubbleWorkResponse {
   work_items: BubbleWork[];
 }
 
+interface BubbleApiResponse {
+  response: {
+    results: Record<string, unknown>[];
+    count: number;
+    remaining: number;
+    cursor: number;
+  };
+}
+
+interface BubbleShiftRaw {
+  _id: string;
+  user_id?: string;
+  user_name?: string;
+  team?: string;
+  start_time?: string;
+  scheduled_start?: string;
+  scheduled_end?: string;
+  actual_clock_in?: string;
+  actual_clock_out?: string;
+  pay_amount?: number;
+  location_id?: string;
+  [key: string]: unknown;
+}
+
+interface BubbleWorkRaw {
+  _id: string;
+  user_id?: string;
+  user_name?: string;
+  team?: string;
+  started_at?: string;
+  completed_at?: string;
+  work_type?: string;
+  status?: string;
+  [key: string]: unknown;
+}
+
 interface FetchDataParams {
   startDate: string;
   endDate: string;
@@ -93,11 +129,11 @@ class BubbleClient {
       constraints: JSON.stringify(constraints)
     };
 
-    const response = await this.makeRequest<any>('/api/1.1/obj/shift', queryParams);
+    const response = await this.makeRequest<BubbleApiResponse>('/api/1.1/obj/shift', queryParams);
     
     // Transform Bubble Data API response to our expected format
     return {
-      shifts: response.response.results.map((shift: any) => ({
+      shifts: response.response.results.map((shift: BubbleShiftRaw) => ({
         shift_id: shift._id,
         user_id: shift.user_id,
         user_name: shift.user_name,
@@ -106,9 +142,9 @@ class BubbleClient {
         scheduled_end: shift.scheduled_end,
         actual_clock_in: shift.actual_clock_in,
         actual_clock_out: shift.actual_clock_out,
-        pay_amount: shift.pay_amount,
+        pay_amount: shift.pay_amount || 0,
         location_id: shift.location_id,
-        date: shift.start_time.split('T')[0] // Extract date from ISO timestamp
+        date: shift.start_time?.split('T')[0] || '' // Extract date from ISO timestamp
       }))
     };
   }
@@ -129,11 +165,11 @@ class BubbleClient {
       constraints: JSON.stringify(constraints)
     };
 
-    const response = await this.makeRequest<any>('/api/1.1/obj/work', queryParams);
+    const response = await this.makeRequest<BubbleApiResponse>('/api/1.1/obj/work', queryParams);
     
     // Transform Bubble Data API response to our expected format
     return {
-      work_items: response.response.results.map((work: any) => ({
+      work_items: response.response.results.map((work: BubbleWorkRaw) => ({
         work_id: work._id,
         user_id: work.user_id,
         user_name: work.user_name,
@@ -141,8 +177,8 @@ class BubbleClient {
         work_type: work.work_type,
         started_at: work.started_at,
         completed_at: work.completed_at,
-        status: work.status,
-        date: work.started_at.split('T')[0] // Extract date from ISO timestamp
+        status: work.status || 'unknown',
+        date: work.started_at?.split('T')[0] || '' // Extract date from ISO timestamp
       }))
     };
   }
