@@ -93,7 +93,13 @@ Please provide a comprehensive analysis following this structure:
 2. TRENDS (patterns you notice in the data - punctuality, work completion, performance over time)
 3. CONCERNS (any issues that need attention - repeated lateness, incomplete work, etc.)
 4. RECOMMENDATIONS (actionable suggestions for the manager)
-5. SUMMARY (2-3 sentence overview for busy managers)
+5. SUMMARY (2-3 sentence executive overview for busy managers)
+
+CRITICAL REQUIREMENTS:
+- EVERY SECTION MUST HAVE A RESPONSE - never leave any section blank
+- If there are no meaningful insights for a section, explicitly state this (e.g., "No significant concerns identified during this period")
+- Each section must contain at least one bullet point or sentence
+- All sections are REQUIRED and must be present in your response
 
 ANALYSIS GUIDELINES:
 - Focus on actionable insights the manager can use
@@ -106,7 +112,11 @@ ANALYSIS GUIDELINES:
 If any employee shows concerning patterns (like being late multiple times), specifically mention this.
 If someone is performing exceptionally well, highlight this too.
 
-Respond in clear, structured format that's easy for a busy manager to scan quickly.`;
+FORMAT REQUIREMENTS:
+- Use clear headings for each section (KEY INSIGHTS, TRENDS, CONCERNS, RECOMMENDATIONS, SUMMARY)
+- Use bullet points for the first 4 sections
+- Write the SUMMARY as 2-3 complete sentences (not bullet points)
+- Respond in clear, structured format that's easy for a busy manager to scan quickly.`;
   }
 
   async analyzeData(params: AnalyzeDataParams): Promise<AnalysisResult> {
@@ -166,7 +176,7 @@ Respond in clear, structured format that's easy for a busy manager to scan quick
     recommendations: string[];
     summary: string;
   } {
-    // Simple parsing - looks for numbered/bulleted sections
+    // Improved parsing with better section detection and debugging
     const sections = {
       keyInsights: [] as string[],
       trends: [] as string[],
@@ -175,32 +185,74 @@ Respond in clear, structured format that's easy for a busy manager to scan quick
       summary: ''
     };
 
+    console.log('Parsing AI response:', response.substring(0, 200) + '...');
+
     const lines = response.split('\n').filter(line => line.trim());
     let currentSection = '';
 
     for (const line of lines) {
       const trimmed = line.trim();
       
-      if (trimmed.toLowerCase().includes('key insights')) {
+      // More flexible section header detection
+      if (trimmed.toLowerCase().includes('key insights') || trimmed.toLowerCase().includes('insights')) {
         currentSection = 'keyInsights';
+        console.log('Found KEY INSIGHTS section');
       } else if (trimmed.toLowerCase().includes('trends')) {
         currentSection = 'trends';
-      } else if (trimmed.toLowerCase().includes('concerns')) {
+        console.log('Found TRENDS section');
+      } else if (trimmed.toLowerCase().includes('concerns') || trimmed.toLowerCase().includes('attention')) {
         currentSection = 'concerns';
+        console.log('Found CONCERNS section');
       } else if (trimmed.toLowerCase().includes('recommendations')) {
         currentSection = 'recommendations';
-      } else if (trimmed.toLowerCase().includes('summary')) {
+        console.log('Found RECOMMENDATIONS section');
+      } else if (trimmed.toLowerCase().includes('summary') || trimmed.toLowerCase().includes('executive')) {
         currentSection = 'summary';
-      } else if (trimmed.startsWith('- ') || trimmed.match(/^\d+\./)) {
+        console.log('Found SUMMARY section');
+        // Check if summary content is on the same line as the header
+        const afterColon = trimmed.split(':')[1]?.trim();
+        if (afterColon && afterColon.length > 10) {
+          sections.summary = afterColon;
+        }
+      } else if (trimmed.startsWith('- ') || trimmed.match(/^\d+\./) || trimmed.startsWith('•')) {
         // This is a bullet point or numbered item
         const text = trimmed.replace(/^[-•]\s*/, '').replace(/^\d+\.\s*/, '');
-        if (currentSection && currentSection !== 'summary') {
+        if (currentSection && currentSection !== 'summary' && text.length > 0) {
           (sections[currentSection as keyof typeof sections] as string[]).push(text);
         }
-      } else if (currentSection === 'summary' && trimmed.length > 10) {
-        sections.summary += (sections.summary ? ' ' : '') + trimmed;
+      } else if (currentSection === 'summary' && trimmed.length > 10 && !trimmed.toLowerCase().includes('summary')) {
+        // Include substantial text in summary section (but skip repeated headers)
+        if (sections.summary && !sections.summary.endsWith('.')) {
+          sections.summary += '. ';
+        }
+        sections.summary += (sections.summary ? '' : '') + trimmed;
       }
     }
+
+    // Add fallback content for empty sections to ensure all fields are populated
+    if (sections.keyInsights.length === 0) {
+      sections.keyInsights.push('No specific key insights identified for this reporting period.');
+    }
+    if (sections.trends.length === 0) {
+      sections.trends.push('No significant trends detected in the analyzed data.');
+    }
+    if (sections.concerns.length === 0) {
+      sections.concerns.push('No areas requiring immediate attention identified.');
+    }
+    if (sections.recommendations.length === 0) {
+      sections.recommendations.push('Continue monitoring team performance and maintain current operational practices.');
+    }
+    if (!sections.summary || sections.summary.trim().length < 10) {
+      sections.summary = 'Team performance analysis completed for the specified reporting period. Continue monitoring metrics and team engagement.';
+    }
+
+    console.log('Parsed sections:', {
+      keyInsights: sections.keyInsights.length,
+      trends: sections.trends.length,
+      concerns: sections.concerns.length,
+      recommendations: sections.recommendations.length,
+      summaryLength: sections.summary.length
+    });
 
     return sections;
   }

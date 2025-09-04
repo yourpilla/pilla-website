@@ -189,7 +189,7 @@ Questions? Reply to this email or contact support.
             managerName: params.managerName,
             dateRange: this.formatDateRange(params.dateRange.start, params.dateRange.end),
             teams: params.teams.join(', '),
-            summary: params.analysis.summary,
+            summary: params.analysis.summary || 'Team performance analysis completed for the specified period.',
             keyInsights: keyInsightsText,
             trends: trendsText,
             concerns: concernsText,
