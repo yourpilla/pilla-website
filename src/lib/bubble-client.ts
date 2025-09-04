@@ -133,18 +133,18 @@ class BubbleClient {
     
     // Transform Bubble Data API response to our expected format
     return {
-      shifts: response.response.results.map((shift: BubbleShiftRaw) => ({
-        shift_id: shift._id,
-        user_id: shift.user_id,
-        user_name: shift.user_name,
-        team_id: shift.team,
-        scheduled_start: shift.scheduled_start,
-        scheduled_end: shift.scheduled_end,
-        actual_clock_in: shift.actual_clock_in,
-        actual_clock_out: shift.actual_clock_out,
-        pay_amount: shift.pay_amount || 0,
-        location_id: shift.location_id,
-        date: shift.start_time?.split('T')[0] || '' // Extract date from ISO timestamp
+      shifts: response.response.results.map((shift) => ({
+        shift_id: shift._id as string,
+        user_id: shift.user_id as string | undefined,
+        user_name: shift.user_name as string | undefined,
+        team_id: shift.team as string | undefined,
+        scheduled_start: shift.scheduled_start as string | undefined,
+        scheduled_end: shift.scheduled_end as string | undefined,
+        actual_clock_in: shift.actual_clock_in as string | null | undefined,
+        actual_clock_out: shift.actual_clock_out as string | null | undefined,
+        pay_amount: (shift.pay_amount as number) || 0,
+        location_id: shift.location_id as string | undefined,
+        date: (shift.start_time as string)?.split('T')[0] || '' // Extract date from ISO timestamp
       }))
     };
   }
@@ -169,16 +169,16 @@ class BubbleClient {
     
     // Transform Bubble Data API response to our expected format
     return {
-      work_items: response.response.results.map((work: BubbleWorkRaw) => ({
-        work_id: work._id,
-        user_id: work.user_id,
-        user_name: work.user_name,
-        team_id: work.team,
-        work_type: work.work_type,
-        started_at: work.started_at,
-        completed_at: work.completed_at,
-        status: work.status || 'unknown',
-        date: work.started_at?.split('T')[0] || '' // Extract date from ISO timestamp
+      work_items: response.response.results.map((work) => ({
+        work_id: work._id as string,
+        user_id: work.user_id as string | undefined,
+        user_name: work.user_name as string | undefined,
+        team_id: work.team as string | undefined,
+        work_type: work.work_type as string | undefined,
+        started_at: work.started_at as string | undefined,
+        completed_at: work.completed_at as string | null | undefined,
+        status: (work.status as string) || 'unknown',
+        date: (work.started_at as string)?.split('T')[0] || '' // Extract date from ISO timestamp
       }))
     };
   }
