@@ -1,410 +1,220 @@
-# Signup Success Page Template (Direct/Single-Stage Signup)
+# Single Stage Signup Success Page Template
 
-## Page Content & Wording Configuration
+## Component: SingleStageSignupSuccess
+**File:** `/src/components/SingleStageSignupSuccess.tsx`
+**Route:** `/welcome` (via `/src/app/welcome/page.tsx`)
 
-### Main Content
-```yaml
-main_headline: "Welcome to Pilla! 🎉"
-subtitle: "Your account has been created successfully and your 7-day free trial has started."
-loading_message: "Completing your signup..."
-loading_description: "Please wait while we finalize your account setup."
+## Current Elements
+
+### 1. Welcome Header
+**Current Text:**
+```
+Welcome to Pilla! 🎉
+Your account has been created successfully and your 7-day free trial has started.
 ```
 
-### Account Details Section
-```yaml
-account_details:
-  section_title: "Your Account Details"
-  show_account_info: true
-  fields:
-    name_label: "Name:"
-    email_label: "Email:"
-    location_label: "Location:"
-    team_label: "Team:"
+**Form to Update:**
+- **Main Title:** [                                    ]
+- **Subtitle:** [                                           ]
+- **Include Emoji:** [ ] Yes [ ] No
+- **Show Trial Text:** [ ] Yes [ ] No
 
-# Generated Password Management
-password_management:
-  section_title: "Your Generated Password:"
-  show_password_toggle: true
-  copy_to_clipboard: true
-  show_button_title: "Show password"
-  hide_button_title: "Hide password"
-  copy_button_title: "Copy password"
-  copy_success_message: "Password copied to clipboard!"
-  security_warning: "Important: Save this password now! You can change it after logging in."
-  password_placeholder: "••••••••••••"
-```
+### 2. Account Details Card
+**Current Elements:**
+- Email display (dynamic from account data)
+- Password section with show/hide and copy functionality
 
-### Onboarding Steps Section
-```yaml
-onboarding_steps:
-  section_title: "What happens next?"
-  steps:
-    step_1: "Download the Pilla mobile app using the links below"
-    step_2: "Log in with your email and the generated password above"
-    step_3: "Change your password to something memorable in app settings"
-    step_4: "Enjoy your 7-day free trial - no charges until day 8"
-```
+**Form to Update:**
+- **Card Padding Top:** [    ] (current: pt-8)
+- **Show Email:** [ ] Yes [ ] No
+- **Password Label:** [                                    ]
+- **Important Message:** [                                                           ]
 
-### App Download Section
-```yaml
-section_title: "Download the Pilla App"
-layout: "Two-column grid on desktop, stacked on mobile"
+### 3. App Download Section
+**Current Elements:**
+- Section title: "Download the Pilla App"
+- Apple App Store logo/link
+- Google Play Store logo/link
 
-ios_app:
-  title: "iOS App"
-  description: "Available on the App Store for iPhone and iPad"
-  button_text: "Download for iOS"
-  button_style: "bg-black hover:bg-gray-800"
-  app_store_url: "https://apps.apple.com/app/pilla-hospitality/id123456789"
-  icon: "DevicePhoneMobileIcon"
-  
-android_app:
-  title: "Android App" 
-  description: "Available on Google Play Store for Android devices"
-  button_text: "Download for Android"
-  button_style: "bg-green-600 hover:bg-green-700"
-  play_store_url: "https://play.google.com/store/apps/details?id=com.pilla.hospitality"
-  icon: "DevicePhoneMobileIcon"
+**Form to Update:**
+- **Section Title:** [                                    ]
+- **Show Section:** [ ] Yes [ ] No
+- **iOS App URL:** [                                                           ]
+- **Android App URL:** [                                                           ]
+- **Logo Size:** [    ] (current: h-16)
 
-web_app:
-  title: "Prefer to use the web?"
-  description: "You can also access Pilla directly in your browser"
-  button_text: "Open Web App"
-  button_style: "bg-blue-600 hover:bg-blue-700"
-  web_app_url: "https://yourpilla.com/login"
-  icon: "ComputerDesktopIcon"
-```
+### 4. Support Card
+**Current Elements:**
+- Title: "Need Help Getting Started?"
+- Email support: support@yourpilla.com
+- Phone support: +1 (234) 567-890
+- Live chat description
 
-### Support Section
-```yaml
-support_title: "Need Help Getting Started?"
-support_description: "Our team is here to help you make the most of Pilla."
-support_options:
-  email_support:
-    title: "Email Support:"
-    contact: "support@yourpilla.com"
-    link: "mailto:support@yourpilla.com"
-    
-  phone_support:
-    title: "Phone Support:"
-    contact: "+1 (234) 567-890"
-    link: "tel:+1234567890"
-    
-  live_chat:
-    title: "Live Chat:"
-    description: "Available in the mobile app and web platform"
-```
+**Form to Update:**
+- **Card Title:** [                                    ]
+- **Show Card:** [ ] Yes [ ] No
+- **Support Email:** [                                    ]
+- **Support Phone:** [                                    ]
+- **Live Chat Text:** [                                                           ]
+- **Card Padding:** [    ] (current: py-8)
 
-### Trial Information
-```yaml
-trial_info:
-  title: "Your 7-Day Free Trial"
-  description: "You have full access to all Pilla features for the next 7 days. Your trial will automatically convert to a paid subscription on day 8 unless you cancel. You can manage your subscription anytime in the app settings."
-  background_style: "bg-blue-50 border border-blue-200"
-  title_style: "text-lg font-semibold text-blue-900"
-  description_style: "text-blue-800 text-sm"
-```
+### 5. Navigation Section
+**Current Elements:**
+- Single button: "Check out our Guides" → /blog
 
-### Navigation Section
-```yaml
-navigation:
-  buttons:
-    homepage:
-      text: "Back to Homepage"
-      url: "/"
-      style: "bg-gray-600 hover:bg-gray-700 text-white"
-      
-    blog:
-      text: "Read Our Blog"
-      url: "/blog"
-      style: "border border-gray-300 text-gray-700 hover:bg-gray-50"
-```
+**Form to Update:**
+- **Button Text:** [                                    ]
+- **Button URL:** [                                    ]
+- **Show Button:** [ ] Yes [ ] No
+- **Top Margin:** [    ] (current: mt-8)
+- **Add Second Button:** [ ] Yes [ ] No
+  - **Second Button Text:** [                                    ]
+  - **Second Button URL:** [                                    ]
 
-### Error States
-```yaml
-error_states:
-  signup_error:
-    title: "Signup Error"
-    icon: "ExclamationCircleIcon"
-    icon_style: "w-12 h-12 text-red-600"
-    retry_button_text: "Try Again"
-    retry_url: "/signup/direct"
-    
-  loading_state:
-    spinner_style: "animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"
-    title: "Completing your signup..."
-    description: "Please wait while we finalize your account setup."
-```
+## Layout Settings
 
----
+### Page Structure
+**Form to Update:**
+- **Background:** [                ] (current: bg-main)
+- **Container Width:** [                ] (current: max-w-2xl)
+- **Page Padding Y:** [    ] (current: py-6 sm:py-12)
+- **Page Padding X:** [    ] (current: px-4)
 
-## CSS Classes Used
+### Section Spacing
+**Form to Update:**
+- **Header Bottom Margin:** [    ] (current: mb-12)
+- **App Section Bottom Margin:** [    ] (current: mb-12)
+- **Between Sections Gap:** [    ]
 
-### Layout Classes
-- `min-h-screen` - Full height container
-- `bg-main` - Main background color from design system
-- `white-card` - Card component styling
-- `max-w-2xl mx-auto` - Centered content container (narrower for direct signup)
-- `py-6 sm:py-12 px-4` - Responsive padding
+## Header Configuration
 
-### Typography Classes
-- `h1` - Main headline with green accent (`text-green-800`)
-- `h2` - Section headings
-- `small-blue` - Section subtitles
-- `small-grey` - Descriptions and body text
-- `text-center` - Centered text alignment
-- `text-left` - Left-aligned text for account details
+### Conditional Header
+**Current Setup:**
+- Uses `HeaderNoBreadcrumbs` on `/welcome` route
+- Regular `Header` on all other routes
 
-### Success States & Icons
-- `w-16 h-16 bg-green-100 rounded-full` - Success icon container
-- `CheckCircleIcon w-8 h-8 text-green-600` - Success checkmark
-- `DevicePhoneMobileIcon w-8 h-8` - Phone icons for apps
-- `ComputerDesktopIcon w-8 h-8` - Desktop icon for web app
+**Form to Update:**
+- **Show Header:** [ ] Yes [ ] No
+- **Header Type:** [ ] With Breadcrumbs [ ] Without Breadcrumbs
+- **Custom Header:** [ ] Yes [ ] No
 
-### Account Details & Password Management
-- `grid grid-cols-1 sm:grid-cols-2 gap-3` - Account info grid
-- `bg-yellow-50 border border-yellow-200` - Password section background
-- `bg-white px-3 py-2 rounded border text-lg font-mono` - Password display
-- `EyeIcon/EyeSlashIcon w-5 h-5` - Show/hide password icons
-- `ClipboardDocumentIcon w-5 h-5` - Copy password icon
+## SEO Settings
 
-### Onboarding Steps
-- `w-6 h-6 bg-blue-100 rounded-full` - Step number circles
-- `text-xs font-semibold text-blue-600` - Step numbers
-- `flex items-center gap-3` - Step layout
+### Page Metadata
+**Current Setup:**
+- Robots: noindex, nofollow, noarchive, nosnippet, noimageindex, nocache
+- URL: `/welcome`
 
-### Button Styles
-- `bg-black hover:bg-gray-800` - iOS app button
-- `bg-green-600 hover:bg-green-700` - Android app button  
-- `bg-blue-600 hover:bg-blue-700` - Web app & primary buttons
-- `bg-gray-600 hover:bg-gray-700` - Secondary buttons
-- `border border-gray-300 hover:bg-gray-50` - Outline buttons
+**Form to Update:**
+- **Page Title:** [                                                           ]
+- **Meta Description:** [                                                           ]
+- **Allow Indexing:** [ ] Yes [ ] No
+- **Allow Following:** [ ] Yes [ ] No
+- **Allow Archiving:** [ ] Yes [ ] No
+- **Allow Snippets:** [ ] Yes [ ] No
 
-### Loading & Error States
-- `animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600` - Loading spinner
-- `ExclamationCircleIcon w-12 h-12 text-red-600` - Error icon
-- `bg-blue-50 border border-blue-200` - Trial info background
+## Dynamic Content
 
----
+### Account Data Display
+**Available Fields:**
+- `accountData.email`
+- `accountData.generatedPassword`
+- `accountData.fullName`
+- `accountData.locationName`
+- `accountData.teamName`
+- `accountData.customerId`
+- `accountData.subscriptionId`
+- `accountData.bubbleUserId`
+- `accountData.trialEndsAt`
 
-## Page Structure
+**Form to Update - Additional Fields to Show:**
+- [ ] Full Name
+- [ ] Location Name  
+- [ ] Team Name
+- [ ] Customer ID
+- [ ] Subscription ID
+- [ ] Trial End Date
 
-### Loading State (Initial)
-```yaml
-layout: "Full-screen centered modal"
-background: "Main background with white card"
-content: "Loading spinner and completion message"
-styling: "Animated spinner with progress text"
-```
+## Loading States
 
-### Error State (If Applicable)
-```yaml
-layout: "Full-screen centered modal"
-background: "Main background with white card"
-content: "Error icon, message, and retry button"
-styling: "Red error icon with clear error messaging"
-```
+### Loading Screen
+**Current Elements:**
+- Spinner animation
+- "Completing your signup..." title
+- "Please wait while we finalize your account setup." description
 
-### Success Hero Section
-```yaml
-layout: "Centered content with success icon"
-background: "Main background color"
-content: "Success icon, welcome message, and account confirmation"
-styling: "Green success theme with celebration emoji"
-```
+**Form to Update:**
+- **Loading Title:** [                                    ]
+- **Loading Description:** [                                                           ]
+- **Spinner Color:** [            ] (current: border-blue-600)
 
-### Account Details Card
-```yaml
-layout: "Centered white card with account information"
-content: "User details (name, email, location, team) and generated password"
-styling: "Grid layout for account info, special yellow section for password"
-features: "Password show/hide toggle, copy to clipboard functionality"
-```
+### Error Screen
+**Current Elements:**
+- Red exclamation icon
+- "Signup Error" title
+- Error message display
+- "Try Again" button → /signup/single-stage
 
-### Onboarding Steps Card
-```yaml
-layout: "Centered white card with numbered steps"
-content: "4-step onboarding process with clear instructions"
-styling: "Numbered circles with descriptive text for each step"
-```
+**Form to Update:**
+- **Error Title:** [                                    ]
+- **Try Again Button Text:** [                                    ]
+- **Try Again URL:** [                                    ]
+- **Show Error Icon:** [ ] Yes [ ] No
 
-### App Downloads Section  
-```yaml
-layout: "Two-column grid plus web app section"
-content: "iOS app, Android app, and web app options"
-styling: "Individual cards with app-specific button colors"
-buttons: "Black (iOS), Green (Android), Blue (Web)"
-```
+## App Store Integration
 
-### Support Information Card
-```yaml
-layout: "Single card with contact options"
-content: "Email, phone, and live chat support details"
-styling: "Simple text-based contact information"
-```
+### Platform Logos
+**Current Files:**
+- `/public/platform-logos/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg`
+- `/public/platform-logos/GetItOnGooglePlay_Badge_Web_color_English.png`
 
-### Trial Information Banner
-```yaml
-layout: "Blue-themed informational banner"
-content: "7-day trial details and billing information"
-styling: "Blue background with trial-specific messaging"
-```
+**Form to Update:**
+- **Custom iOS Logo:** [                                                           ]
+- **Custom Android Logo:** [                                                           ]
+- **Logo Hover Effect:** [ ] Yes [ ] No (current: scale-105)
 
-### Navigation Footer
-```yaml
-layout: "Centered button group"
-content: "Homepage and blog navigation links"
-styling: "Gray primary button and outline secondary button"
-```
+## Password Management
 
----
+### Security Features
+**Current Features:**
+- Show/hide toggle with eye icons
+- Copy to clipboard with success message
+- Security warning message
 
-## Customization Options
+**Form to Update:**
+- **Show Toggle Buttons:** [ ] Yes [ ] No
+- **Copy Success Message:** [                                                           ]
+- **Copy Success Duration:** [    ] seconds (current: 2)
+- **Security Warning:** [                                                           ]
 
-### Content Changes
-```yaml
-# Easy text modifications in YAML format above
-headline: "Change welcome message and emoji"
-account_labels: "Modify field labels (Name, Email, Location, Team)"
-password_messaging: "Update security warnings and copy success messages"
-onboarding_steps: "Customize the 4-step process instructions"
-app_descriptions: "Modify iOS/Android/Web app descriptions"
-support_contacts: "Update email, phone, and chat information"
-trial_messaging: "Adjust trial duration and billing information"
-```
+## Styling System
 
-### Styling Changes
-```yaml
-success_theme: "Change green-600/green-800 success colors"
-password_warning: "Modify yellow-50/yellow-200 password section colors"
-app_buttons: "Update iOS (black), Android (green), Web (blue) button colors"
-trial_banner: "Modify blue-50/blue-200 trial information styling"
-layout_width: "Adjust max-w-2xl container width"
-card_spacing: "Modify gap-6 and padding values"
-```
+### CSS Classes Used
+- **Cards:** `.white-card`
+- **Typography:** `.h1`, `.h2`, `.small-blue`, `.small-grey`
+- **Buttons:** `.btn`
+- **Background:** `.bg-main`
+- **Icons:** `.w-5 h-5`, `.h-16 w-auto`
 
-### Feature Toggles
-```yaml
-show_account_details: true
-show_generated_password: true
-show_password_toggle: true
-show_copy_clipboard: true
-show_onboarding_steps: true
-show_app_downloads: true
-show_web_app_option: true
-show_support_section: true
-show_trial_info: true
-show_navigation_footer: true
-```
+**Form to Update - Custom Classes:**
+- **Custom Card Class:** [                                    ]
+- **Custom Button Class:** [                                    ]
+- **Custom Typography Class:** [                                    ]
 
-### Functional Components
-```yaml
-# Password Management Features
-password_visibility_toggle: "EyeIcon/EyeSlashIcon buttons"
-clipboard_functionality: "Copy password to clipboard with feedback"
-password_security_warning: "Yellow highlighted security message"
+## Integration Points
 
-# Dynamic Account Data
-account_completion_api: "/api/complete-single-stage-checkout"
-session_id_handling: "URL parameter extraction and API calls"
-loading_states: "Spinner and progress messaging"
-error_handling: "Error display with retry functionality"
+### API Endpoints
+- **Completion API:** `/api/complete-single-stage-checkout`
+- **Stripe Session:** Uses `session_id` URL parameter
 
-# App Integration
-app_store_urls: "iOS and Android app store deep links"
-web_app_login: "Direct login URL for web application"
-```
+### External Services
+- **Bubble.io:** Account creation
+- **Stripe:** Payment processing
+- **Clipboard API:** Password copying
 
-### API Integration Points
-```yaml
-# Required for direct signup success page
-session_completion: "/api/complete-single-stage-checkout"
-account_data_fields: "customerId, subscriptionId, bubbleUserId, generatedPassword, etc."
-error_handling: "Network errors, API failures, missing session ID"
-retry_mechanisms: "Try Again button redirects to /signup/direct"
-```
-
----
-
-## Mobile Responsiveness
-
-### Breakpoint Behavior
-- **Mobile**: Single column layout, stacked cards
-- **Tablet**: Two-column grids, larger cards  
-- **Desktop**: Three-column grids, full layout
-
-### Mobile-Specific Classes
-- `grid-cols-1 md:grid-cols-2 lg:grid-cols-3` - Responsive grids
-- `px-4 sm:px-6` - Responsive padding
-- `text-center sm:text-left` - Text alignment changes
-
----
-
-## SEO & Analytics
-
-### Metadata
-```yaml
-page_title: "Welcome to Pilla - Account Created Successfully"
-meta_description: "Your Pilla account is ready! Download our apps and start your 7-day free trial."
-canonical_url: "/signup/success"
-```
-
-### Structured Data
-```yaml
-schema_type: "WebPage"
-action_type: "Account creation confirmation"
-trial_offer: "7-day free trial"
-```
-
----
-
-## Implementation Notes
-
-### Direct Signup Success Page Components
-
-1. **Main Component**: `src/components/SingleStageSignupSuccess.tsx`
-   - Client-side React component with state management
-   - API integration for account completion
-   - Dynamic password management and clipboard functionality
-
-2. **Page Route**: `src/app/signup/single-stage-success/page.tsx`
-   - Uses SingleStageSignupSuccess component
-   - Handles URL parameters (session_id)
-
-3. **API Completion**: `src/app/api/complete-single-stage-checkout/route.ts`
-   - Processes successful Stripe checkout sessions
-   - Generates user-friendly passwords
-   - Creates accounts in Bubble.io system
-
-### Key Technical Features
-
-1. **Dynamic Account Data**: Real-time API calls to retrieve account information
-2. **Password Security**: Generated passwords with show/hide and copy functionality
-3. **Loading States**: Proper loading, success, and error state management
-4. **Mobile Responsive**: Optimized for mobile and desktop experiences
-5. **Error Handling**: Comprehensive error states with retry mechanisms
-
-### Critical Configuration Points
-
-1. **App Store Links**: Update iOS/Android URLs in component
-2. **Bubble.io Integration**: Ensure API endpoints match your backend
-3. **Stripe Configuration**: Sync trial duration with checkout settings
-4. **Support Contacts**: Update email, phone, and chat information
-5. **Web App URL**: Configure login URL for web application access
-
-### Security Considerations
-
-1. **Generated Passwords**: Temporary passwords with security warnings
-2. **Session Validation**: Proper session ID validation on server
-3. **Account Creation**: Secure integration with Bubble.io user system
-4. **Error Messages**: User-friendly error messages without exposing system details
-
-### Testing Considerations
-
-1. **Happy Path**: Successful signup completion flow
-2. **Error Scenarios**: Network failures, invalid sessions, API errors
-3. **Password Functionality**: Show/hide toggle and clipboard operations
-4. **Mobile Testing**: Responsive design across device sizes
-5. **App Links**: Test actual app store and web app redirects
-
-The direct signup success page provides a complete post-signup experience with account details, password management, and clear next steps for user onboarding.
+## Notes
+- All form fields above should be implemented as editable components
+- Changes should update the actual component file
+- Consider adding a preview mode to see changes in real-time
+- Include reset/default buttons for each section
+- Add validation for required fields (URLs, email formats, etc.)
