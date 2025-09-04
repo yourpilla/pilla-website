@@ -38,12 +38,12 @@ export default function SpeechBubble({ title, children, className = "" }: Speech
         </div>
         
         {/* Footer */}
-        <div style={{ fontSize: '18px' }}>
-          <span style={{ fontSize: '18px' }}>Liam, Pilla Founder. </span>
+        <div className="mb-0" style={{ fontSize: '18px', fontWeight: 'normal', lineHeight: 'inherit' }}>
+          <span style={{ fontSize: '18px', fontWeight: 'inherit', lineHeight: 'inherit' }}>Liam, Pilla Founder. </span>
           <a 
             href="mailto:liam@yourpilla.com" 
             className="text-blue-600 hover:underline"
-            style={{ fontSize: '18px' }}
+            style={{ fontSize: '18px', fontWeight: 'inherit', lineHeight: 'inherit' }}
           >
             Email me
           </a>
