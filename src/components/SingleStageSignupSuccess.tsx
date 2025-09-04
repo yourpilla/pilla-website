@@ -118,7 +118,7 @@ export default function SingleStageSignupSuccess() {
 
           {/* Account Details */}
           {accountData && (
-            <div className="white-card">
+            <div className="white-card pt-8">
               <div className="space-y-4 text-sm">
                 <div>
                   <strong className="text-gray-900">Email:</strong>
@@ -126,7 +126,7 @@ export default function SingleStageSignupSuccess() {
                 </div>
                 
                 {/* Generated Password */}
-                <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
+                <div className="border border-gray-200 rounded-lg p-4">
                   <strong className="text-gray-900 block mb-2">Your Generated Password:</strong>
                   <div className="flex items-center gap-2 mb-2">
                     <code className="bg-white px-3 py-2 rounded border text-lg font-mono flex-1">
@@ -150,7 +150,7 @@ export default function SingleStageSignupSuccess() {
                   {passwordCopied && (
                     <p className="text-green-600 text-xs">Password copied to clipboard!</p>
                   )}
-                  <p className="text-yellow-800 text-xs mt-2">
+                  <p className="text-gray-600 text-xs mt-2">
                     <strong>Important:</strong> Save this password now! You can change it after logging in.
                   </p>
                 </div>
@@ -164,76 +164,38 @@ export default function SingleStageSignupSuccess() {
         <div className="mb-12">
           <h2 className="h2 mb-8">Download the Pilla App</h2>
           
-          <div className="grid md:grid-cols-2 gap-6 mb-8">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-8">
             {/* iOS App */}
-            <div className="white-card">
-              <div className="flex items-center justify-center mx-auto mb-4">
-                <img 
-                  src="/platform-logos/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"
-                  alt="Download on the App Store"
-                  className="h-12 w-auto"
-                />
-              </div>
-              <h3 className="small-blue mb-2">iOS App</h3>
-              <p className="text-sm text-gray-600 mb-4">
-                Available on the App Store for iPhone and iPad
-              </p>
-              <a 
-                href="https://apps.apple.com/app/pilla-hospitality/id123456789" 
-                className="btn w-full"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Download for iOS
-              </a>
-            </div>
-
-            {/* Android App */}
-            <div className="white-card">
-              <div className="flex items-center justify-center mx-auto mb-4">
-                <img 
-                  src="/platform-logos/GetItOnGooglePlay_Badge_Web_color_English.png"
-                  alt="Get it on Google Play"
-                  className="h-12 w-auto"
-                />
-              </div>
-              <h3 className="small-blue mb-2">Android App</h3>
-              <p className="text-sm text-gray-600 mb-4">
-                Available on Google Play Store for Android devices
-              </p>
-              <a 
-                href="https://play.google.com/store/apps/details?id=com.pilla.hospitality" 
-                className="btn w-full"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Download for Android
-              </a>
-            </div>
-          </div>
-
-          {/* Web App Alternative */}
-          <div className="white-card">
-            <div className="flex items-center justify-center w-16 h-16 bg-blue-100 rounded-full mx-auto mb-4">
-              <ComputerDesktopIcon className="w-8 h-8 text-blue-600" />
-            </div>
-            <h3 className="small-blue mb-2">Prefer to use the web?</h3>
-            <p className="text-sm text-gray-600 mb-4">
-              You can also access Pilla directly in your browser
-            </p>
             <a 
-              href="https://yourpilla.com/login" 
-              className="btn"
+              href="https://apps.apple.com/app/pilla-hospitality/id123456789" 
               target="_blank"
               rel="noopener noreferrer"
             >
-              Open Web App
+              <img 
+                src="/platform-logos/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"
+                alt="Download on the App Store"
+                className="h-16 w-auto hover:scale-105 transition-transform"
+              />
+            </a>
+
+            {/* Android App */}
+            <a 
+              href="https://play.google.com/store/apps/details?id=com.pilla.hospitality" 
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img 
+                src="/platform-logos/GetItOnGooglePlay_Badge_Web_color_English.png"
+                alt="Get it on Google Play"
+                className="h-16 w-auto hover:scale-105 transition-transform"
+              />
             </a>
           </div>
+
         </div>
 
         {/* Support Information */}
-        <div className="white-card">
+        <div className="white-card py-8">
           <h3 className="small-blue mb-4">Need Help Getting Started?</h3>
           <div className="space-y-4 text-sm">
             <div>
@@ -258,15 +220,6 @@ export default function SingleStageSignupSuccess() {
           </div>
         </div>
 
-        {/* Trial Information */}
-        <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-8">
-          <h3 className="text-lg font-semibold text-blue-900 mb-2">Your 7-Day Free Trial</h3>
-          <p className="text-blue-800 text-sm">
-            You have full access to all Pilla features for the next 7 days. 
-            Your trial will automatically convert to a paid subscription on day 8 unless you cancel. 
-            You can manage your subscription anytime in the app settings.
-          </p>
-        </div>
 
         {/* Navigation */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
