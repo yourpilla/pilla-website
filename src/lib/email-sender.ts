@@ -174,23 +174,6 @@ Questions? Reply to this email or contact support.
 
       console.log(`Sending email to ${params.managerEmail} via Loops transactional template`);
 
-      // Format data for Loops template variables
-      const keyInsightsText = params.analysis.keyInsights.length > 0 
-        ? params.analysis.keyInsights.map(insight => `• ${insight}`).join('\n')
-        : '• No specific insights identified for this period';
-
-      const trendsText = params.analysis.trends.length > 0
-        ? params.analysis.trends.map(trend => `• ${trend}`).join('\n')
-        : '• No significant trends identified for this period';
-
-      const concernsText = params.analysis.concerns.length > 0
-        ? params.analysis.concerns.map(concern => `• ${concern}`).join('\n')
-        : 'No areas requiring immediate attention identified';
-
-      const recommendationsText = params.analysis.recommendations.length > 0
-        ? params.analysis.recommendations.map(rec => `• ${rec}`).join('\n')
-        : '• Continue current operational practices';
-
       const response = await fetch(this.apiUrl, {
         method: 'POST',
         headers: {
@@ -201,14 +184,9 @@ Questions? Reply to this email or contact support.
           transactionalId: 'cmf5n97qo05vezd0itgb42j1z',
           email: params.managerEmail,
           dataVariables: {
-            managerName: params.managerName,
-            dateRange: this.formatDateRange(params.dateRange.start, params.dateRange.end),
-            teams: params.teams.join(', '),
-            summary: params.analysis.summary || 'Team performance analysis completed for the specified period.',
-            keyInsights: keyInsightsText,
-            trends: trendsText,
-            concerns: concernsText,
-            recommendations: recommendationsText
+            body: params.analysis.rawAnalysis,
+            content: params.analysis.rawAnalysis,
+            message: params.analysis.rawAnalysis
           }
         }),
       });
@@ -298,29 +276,6 @@ Questions? Reply to this email or contact support.
 
     console.log(`Sending admin report to ${params.adminContacts.length} administrator(s) via Loops transactional template`);
 
-    // Format date range for display
-    const dateRange = this.formatDateRange(params.dateRange.start, params.dateRange.end);
-    const sitesList = params.sites.length > 10 
-      ? `${params.sites.slice(0, 10).join(', ')} and ${params.sites.length - 10} more sites`
-      : params.sites.join(', ');
-
-    // Format analysis data for template
-    const keyInsightsText = params.analysis.keyInsights.length > 0 
-      ? params.analysis.keyInsights.map(insight => `• ${insight}`).join('\n')
-      : '• No specific insights identified for this period';
-
-    const trendsText = params.analysis.trends.length > 0
-      ? params.analysis.trends.map(trend => `• ${trend}`).join('\n')
-      : '• No significant trends identified for this period';
-
-    const concernsText = params.analysis.concerns.length > 0
-      ? params.analysis.concerns.map(concern => `• ${concern}`).join('\n')
-      : 'No areas requiring immediate attention identified';
-
-    const recommendationsText = params.analysis.recommendations.length > 0
-      ? params.analysis.recommendations.map(rec => `• ${rec}`).join('\n')
-      : '• Continue current operational practices';
-
     // Send email to each admin contact
     for (const admin of params.adminContacts) {
       try {
@@ -336,14 +291,7 @@ Questions? Reply to this email or contact support.
             transactionalId: 'cmf5n97qo05vezd0itgb42j1z', // Same template for now, could create admin-specific template later
             email: admin.admin_email,
             dataVariables: {
-              managerName: admin.admin_name, // Using admin name as recipient name
-              dateRange: dateRange,
-              teams: sitesList, // Using sites instead of teams for admin reports
-              summary: params.analysis.summary || 'Company-wide performance analysis completed for the specified period.',
-              keyInsights: keyInsightsText,
-              trends: trendsText,
-              concerns: concernsText,
-              recommendations: recommendationsText
+              body: params.analysis.rawAnalysis.replace('[ADMIN_NAME]', admin.admin_name)
             }
           }),
         });

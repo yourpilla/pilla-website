@@ -24,18 +24,16 @@ interface AdminReportParams {
   endDate: string;
   sites: string[];
   customInstructions: string;
-  adminContacts: Array<{
-    admin_id: string;
-    admin_email: string;
-    admin_name: string;
-  }>;
+  adminId: string;
+  adminEmail: string;
+  adminName: string;
   companyName: string;
 }
 
 interface AdminReportResult {
   reportId: string;
   emailSent: boolean;
-  emailResults?: Array<{ email: string; success: boolean; emailId?: string; error?: string }>;
+  emailId?: string;
   error?: string;
 }
 
@@ -113,8 +111,8 @@ export async function generateAdminReport(params: AdminReportParams): Promise<Ad
   const reportId = randomUUID();
   
   try {
-    console.log(`Starting admin report generation [${reportId}] for ${params.companyName}`);
-    console.log(`Admin contacts: ${params.adminContacts.length}, Sites: ${params.sites.length}`);
+    console.log(`Starting admin report generation [${reportId}] for ${params.adminName}`);
+    console.log(`Company: ${params.companyName}, Sites: ${params.sites.length}`);
     
     // Step 1: Fetch company-wide data from Bubble
     console.log('Step 1: Fetching company-wide data from Bubble...');
@@ -130,13 +128,14 @@ export async function generateAdminReport(params: AdminReportParams): Promise<Ad
 
     console.log(`Fetched ${data.shifts.length} shifts and ${data.workItems.length} work items across ${params.sites.length} sites`);
 
-    // Step 2: Analyze data with AI for company-wide insights
+    // Step 2: Analyze data with AI for company-wide insights (personalized for this admin)
     console.log('Step 2: Analyzing company-wide data with AI...');
     const analysis = await aiAnalyzer.analyzeCompanyData({
       shifts: data.shifts,
       workItems: data.workItems,
       customInstructions: params.customInstructions,
       companyName: params.companyName,
+      adminName: params.adminName,
       sites: params.sites,
       dateRange: {
         start: params.startDate,
@@ -146,31 +145,29 @@ export async function generateAdminReport(params: AdminReportParams): Promise<Ad
 
     console.log('Company AI analysis completed successfully');
 
-    // Step 3: Send emails to all admin contacts via Loops
-    console.log('Step 3: Sending emails to admin contacts via Loops...');
-    const emailResult = await emailSender.sendAdminReport({
-      adminContacts: params.adminContacts,
+    // Step 3: Send email to this admin via Loops (using same method as manager reports)
+    console.log('Step 3: Sending email to admin via Loops...');
+    const emailResult = await emailSender.sendManagerReport({
+      managerName: params.adminName,
+      managerEmail: params.adminEmail,
       analysis: analysis,
       dateRange: {
         start: params.startDate,
         end: params.endDate
       },
-      companyName: params.companyName,
-      sites: params.sites
+      teams: [] // Empty for admin reports, they focus on sites instead
     });
 
     if (!emailResult.success) {
-      console.error('All admin emails failed to send');
-      // Don't throw error if some emails succeeded
+      throw new Error(`Email sending failed: ${emailResult.error}`);
     }
 
-    const successfulEmails = emailResult.emailResults.filter(result => result.success).length;
-    console.log(`Admin report [${reportId}] completed - ${successfulEmails}/${params.adminContacts.length} emails sent successfully`);
+    console.log(`Admin report [${reportId}] completed successfully - Email sent to ${params.adminEmail}`);
 
     return {
       reportId,
-      emailSent: emailResult.success,
-      emailResults: emailResult.emailResults
+      emailSent: true,
+      emailId: emailResult.emailId
     };
 
   } catch (error) {
@@ -192,19 +189,15 @@ export async function generateCompanyReport(params: {
   adminEmail: string;
   adminName: string;
 }): Promise<ReportResult> {
-  // Redirect to new admin report function with single admin contact
-  const adminContacts = [{
-    admin_id: 'legacy_admin',
-    admin_email: params.adminEmail,
-    admin_name: params.adminName
-  }];
-
+  // Redirect to new admin report function with single admin
   const result = await generateAdminReport({
     startDate: params.startDate,
     endDate: params.endDate,
     sites: params.locations,
     customInstructions: 'Focus on company-wide performance and operational efficiency.',
-    adminContacts: adminContacts,
+    adminId: 'legacy_admin',
+    adminEmail: params.adminEmail,
+    adminName: params.adminName,
     companyName: 'Company'
   });
 

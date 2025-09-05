@@ -7,11 +7,9 @@ interface AdminReportRequest {
   week_end_date: string;
   sites: string[]; // All company sites instead of specific teams
   custom_instructions: string;
-  admin_contacts: Array<{
-    admin_id: string;
-    admin_email: string;
-    admin_name: string;
-  }>;
+  admin_id: string;
+  admin_email: string;
+  admin_name: string;
   company_name: string;
 }
 
@@ -36,24 +34,14 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    if (!body.admin_contacts || body.admin_contacts.length === 0) {
+    if (!body.admin_email || !body.admin_name) {
       return NextResponse.json(
-        { error: 'At least one admin contact must be provided' },
+        { error: 'Admin email and name are required' },
         { status: 400 }
       );
     }
 
-    // Validate admin contact format
-    for (const contact of body.admin_contacts) {
-      if (!contact.admin_email || !contact.admin_name) {
-        return NextResponse.json(
-          { error: 'Each admin contact must have email and name' },
-          { status: 400 }
-        );
-      }
-    }
-
-    console.log(`Processing admin report for ${body.admin_contacts.length} admin(s) across ${body.sites.length} sites`);
+    console.log(`Processing admin report for ${body.admin_name} across ${body.sites.length} sites`);
     console.log(`Date range: ${body.week_start_date} to ${body.week_end_date}`);
 
     // Generate the admin report
@@ -62,7 +50,9 @@ export async function POST(request: NextRequest) {
       endDate: body.week_end_date,
       sites: body.sites,
       customInstructions: body.custom_instructions || 'Focus on company-wide performance, site comparisons, and operational efficiency.',
-      adminContacts: body.admin_contacts,
+      adminId: body.admin_id,
+      adminEmail: body.admin_email,
+      adminName: body.admin_name,
       companyName: body.company_name || 'Your Company'
     });
 
@@ -82,7 +72,8 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({
       success: true,
       report_id: result.reportId,
-      message: `Admin report sent to ${body.admin_contacts.length} administrator(s)`
+      email_id: result.emailId,
+      message: `Admin report sent to ${body.admin_name}`
     });
 
   } catch (error) {

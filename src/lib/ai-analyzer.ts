@@ -26,6 +26,7 @@ interface AdminAnalyzeDataParams {
   workItems: BubbleWork[];
   customInstructions: string;
   companyName: string;
+  adminName: string;
   sites: string[];
   dateRange: {
     start: string;
@@ -80,13 +81,13 @@ class AIAnalyzer {
   }
 
   private formatDataForAnalysis(shifts: BubbleShift[], workItems: BubbleWork[]): string {
-    let analysis = `DATA SUMMARY:\n`;
+    let analysis = `TEAM DATA SUMMARY:\n`;
     analysis += `- Total Shifts: ${shifts.length}\n`;
     analysis += `- Total Work Items: ${workItems.length}\n\n`;
 
-    // Shifts analysis
+    // Shifts analysis - FOCUS ON TEAM PERFORMANCE (exclude site information)
     if (shifts.length > 0) {
-      analysis += `SHIFTS DATA:\n`;
+      analysis += `TEAM SHIFTS DATA:\n`;
       shifts.forEach(shift => {
         const scheduledStart = shift.scheduled_start ? new Date(shift.scheduled_start) : null;
         const actualClockIn = shift.actual_clock_in ? new Date(shift.actual_clock_in) : null;
@@ -98,13 +99,14 @@ class AIAnalyzer {
         analysis += actualClockIn ? 
           `Clocked in ${actualClockIn.toLocaleTimeString()}` : 'No clock-in recorded';
         if (lateness > 0) analysis += ` (${Math.round(lateness)} min late)`;
-        analysis += ` - Pay: $${shift.pay_amount}\n`;
+        analysis += ` - Duration: ${shift.minutes_difference || 0} minutes\n`;
+        // NOTE: Intentionally excluding location_id/site to focus AI on team performance
       });
     }
 
-    // Work items analysis
+    // Work items analysis - FOCUS ON TEAM PERFORMANCE (exclude site information)
     if (workItems.length > 0) {
-      analysis += `\nWORK ITEMS DATA:\n`;
+      analysis += `\nTEAM WORK ITEMS DATA:\n`;
       workItems.forEach(item => {
         const started = item.started_at ? new Date(item.started_at) : null;
         const completed = item.completed_at ? new Date(item.completed_at) : null;
@@ -114,7 +116,9 @@ class AIAnalyzer {
         analysis += `- ${item.user_name || 'Unknown User'} (${item.date}): `;
         analysis += `${item.work_type || 'Unknown Task'} - Status: ${item.status}`;
         if (duration) analysis += ` (${duration} min)`;
+        if (item.issue_raised_time) analysis += ` - Issue raised`;
         analysis += `\n`;
+        // NOTE: Intentionally excluding location_id/site to focus AI on team performance
       });
     }
 
@@ -122,45 +126,53 @@ class AIAnalyzer {
   }
 
   private buildPrompt(data: string, customInstructions: string, managerName: string, dateRange: { start: string; end: string }): string {
-    return `You are an AI assistant analyzing hospitality workforce data for ${managerName}, a restaurant manager.
+    return `You are an assistant that analyses weekly hospitality workforce data and produces clear, structured insights for hospitality managers.
 
-ANALYSIS PERIOD: ${dateRange.start} to ${dateRange.end}
+You will always be given input data in JSON format which could include the below:
 
-CUSTOM MANAGER INSTRUCTIONS: ${customInstructions || 'Focus on overall performance, punctuality, and work completion patterns.'}
+Shift Fields:
 
-DATA TO ANALYZE:
-${data}
+start time = the start date/time of the shift
+end time = the end date/time of the shift
+user = the name of the employee working the shift
+team = the team the user worked in during the shift
+minutes difference = the total length of the shift in minutes, including breaks
+category = the category of the shift
+clock in = the clock in date/time of the shift. If this field is missing then the user didn't clock in
 
-Please provide a comprehensive analysis following this structure:
+Work Fields:
 
-1. KEY INSIGHTS (3-5 bullet points of the most important findings)
-2. TRENDS (patterns you notice in the data - punctuality, work completion, performance over time)
-3. CONCERNS (any issues that need attention - repeated lateness, incomplete work, etc.)
-4. RECOMMENDATIONS (actionable suggestions for the manager)
-5. SUMMARY (2-3 sentence executive overview for busy managers)
+start = the start date/time of the work
+end = the end date/time of the work
+finished time actual = the finished date/time of the work. If this field is missing then the work hasn't been finished
+Name = The name of the work
+team = the team the work is assigned to
+minutes difference = the length of time assigned to finish the work
+issue raised time = the date/time that the work was highlighted as an issue. If this field is missing then the work hasn't been highlighted as an issue
 
-CRITICAL REQUIREMENTS:
-- EVERY SECTION MUST HAVE A RESPONSE - never leave any section blank
-- If there are no meaningful insights for a section, explicitly state this (e.g., "No significant concerns identified during this period")
-- Each section must contain at least one bullet point or sentence
-- All sections are REQUIRED and must be present in your response
-
-ANALYSIS GUIDELINES:
-- Focus on actionable insights the manager can use
-- Identify patterns across multiple days/employees
-- Highlight both positive performance and areas for improvement  
-- Be specific with names and dates when relevant
-- Keep recommendations practical and implementable
-- Use a professional but friendly tone
-
-If any employee shows concerning patterns (like being late multiple times), specifically mention this.
-If someone is performing exceptionally well, highlight this too.
+IMPORTANT DATA ANALYSIS GUIDELINES:
+- Calculate lateness by comparing clock in with start time
+- Available shift categories are shift, overtime, absence, holiday and other leave
+- Always structure your response clearly for email delivery. Your response will be going straight into the body of the email
+- Base all insights on the actual data provided - never make assumptions
+- If data is missing or unclear, acknowledge this rather than guessing
+- Keep insights practical and implementable for busy hospitality managers
 
 FORMAT REQUIREMENTS:
-- Use clear headings for each section (KEY INSIGHTS, TRENDS, CONCERNS, RECOMMENDATIONS, SUMMARY)
-- Use bullet points for the first 4 sections
-- Write the SUMMARY as 2-3 complete sentences (not bullet points)
-- Respond in clear, structured format that's easy for a busy manager to scan quickly.`;
+- Use clear headings for each section
+- Use bullet points where possible to add clarity
+- Your response will be used as the intro and body for the email so start your response with "Hi ${managerName}"
+- You don't need to add a signature to the email because there is already a hardcoded one
+
+Below are the hospitality manager's custom instructions for this report:
+
+${customInstructions || 'Focus on overall performance, punctuality, and work completion patterns.'}
+
+ANALYSIS PERIOD: ${dateRange.start} to ${dateRange.end}
+MANAGER: ${managerName}
+
+DATA TO ANALYZE:
+${data}`;
   }
 
   async analyzeData(params: AnalyzeDataParams): Promise<AnalysisResult> {
@@ -301,14 +313,85 @@ FORMAT REQUIREMENTS:
     return sections;
   }
 
-  private formatDataForCompanyAnalysis(shifts: BubbleShift[], workItems: BubbleWork[], sites: string[]): string {
+  private async formatDataForCompanyAnalysis(shifts: BubbleShift[], workItems: BubbleWork[], sites: string[], customInstructions: string): Promise<string> {
+    try {
+      // Check if this looks like a dynamic request (more than just generic instructions)
+      const isDynamicRequest = this.isDynamicRequest(customInstructions);
+      
+      if (isDynamicRequest) {
+        console.log('Using dynamic aggregation system for admin analysis');
+        return await this.processDynamicAnalysis(shifts, workItems, customInstructions);
+      } else {
+        console.log('Using legacy aggregation for admin analysis');
+        return this.processLegacyAnalysis(shifts, workItems, sites);
+      }
+    } catch (error) {
+      console.error('Dynamic analysis failed, falling back to legacy:', error);
+      return this.processLegacyAnalysis(shifts, workItems, sites);
+    }
+  }
+
+  private isDynamicRequest(customInstructions: string): boolean {
+    const dynamicKeywords = [
+      'show me', 'analyze', 'compare', 'breakdown', 'patterns', 
+      'across sites', 'by day', 'by time', 'performance', 'issues',
+      'clock-in', 'absence', 'completion', 'trends'
+    ];
+    
+    const lowerInstructions = customInstructions.toLowerCase();
+    return dynamicKeywords.some(keyword => lowerInstructions.includes(keyword)) &&
+           customInstructions.length > 50; // More than generic instructions
+  }
+
+  private async processDynamicAnalysis(shifts: BubbleShift[], workItems: BubbleWork[], customInstructions: string): Promise<string> {
+    // Dynamic import to avoid circular dependencies
+    const { dynamicAggregationParser } = await import('./dynamic-aggregation-parser');
+    const { dynamicDataProcessor } = await import('./dynamic-data-processor');
+    const { dynamicAnalysisFormatter } = await import('./dynamic-analysis-formatter');
+
+    // Parse the admin request into aggregation plans
+    const parsedRequest = await dynamicAggregationParser.parseAdminRequest(customInstructions);
+    console.log(`Generated ${parsedRequest.plans.length} aggregation plans`);
+
+    // Filter out team information for admin reports
+    const shiftsWithoutTeams = shifts.map(shift => ({
+      ...shift,
+      team_id: undefined
+    }));
+    
+    const workItemsWithoutTeams = workItems.map(work => ({
+      ...work,
+      team_id: undefined
+    }));
+
+    // Process each plan
+    const processedResults = parsedRequest.plans.map(plan => {
+      return dynamicDataProcessor.processData(shiftsWithoutTeams, workItemsWithoutTeams, plan);
+    });
+
+    // Format results for AI analysis
+    return dynamicAnalysisFormatter.formatForAI(parsedRequest, processedResults);
+  }
+
+  private processLegacyAnalysis(shifts: BubbleShift[], workItems: BubbleWork[], sites: string[]): string {
     let analysis = `COMPANY DATA SUMMARY:\n`;
     analysis += `- Total Sites Analyzed: ${sites.length}\n`;
     analysis += `- Total Shifts: ${shifts.length}\n`;
     analysis += `- Total Work Items: ${workItems.length}\n\n`;
 
-    // Site-level aggregation
-    const siteStats = this.aggregateDataBySite(shifts, workItems);
+    // Filter out team information for admin reports - focus on site-level analysis only
+    const shiftsWithoutTeams = shifts.map(shift => ({
+      ...shift,
+      team_id: undefined // Remove team info to focus AI on site comparisons
+    }));
+    
+    const workItemsWithoutTeams = workItems.map(work => ({
+      ...work,
+      team_id: undefined // Remove team info to focus AI on site comparisons  
+    }));
+
+    // Site-level aggregation using filtered data
+    const siteStats = this.aggregateDataBySite(shiftsWithoutTeams, workItemsWithoutTeams);
     
     analysis += `SITE-LEVEL PERFORMANCE:\n`;
     Object.entries(siteStats).forEach(([siteId, stats]) => {
@@ -433,49 +516,44 @@ FORMAT REQUIREMENTS:
     return result;
   }
 
-  private buildAdminPrompt(data: string, customInstructions: string, companyName: string, dateRange: { start: string; end: string }): string {
-    return `You are an AI assistant analyzing hospitality workforce data for ${companyName} company administrators.
+  private buildAdminPrompt(data: string, customInstructions: string, companyName: string, adminName: string, dateRange: { start: string; end: string }): string {
+    return `You are an assistant that analyses hospitality workforce data and produces clear, structured insights for company administrators and executives.
 
-ANALYSIS PERIOD: ${dateRange.start} to ${dateRange.end}
+You will be given processed data analysis results that may include multiple dimensions of analysis based on the administrator's specific requests.
 
-CUSTOM ADMIN INSTRUCTIONS: ${customInstructions || 'Focus on company-wide performance, site comparisons, operational efficiency, and strategic insights.'}
+The data will be organized into different analysis sections, each focusing on specific aspects like:
+- Site-level performance comparisons
+- Time-based patterns (day of week, time of day)
+- Issue tracking and trends
+- Absence and attendance patterns
+- Work completion and efficiency metrics
 
-COMPANY DATA TO ANALYZE:
-${data}
-
-Please provide a comprehensive executive analysis following this structure:
-
-1. KEY INSIGHTS (3-5 bullet points of the most important company-wide findings)
-2. TRENDS (patterns across sites - performance differences, operational efficiency, workforce patterns)
-3. CONCERNS (any company-wide issues that need executive attention - underperforming sites, operational risks)
-4. RECOMMENDATIONS (strategic recommendations for company leadership)
-5. SUMMARY (2-3 sentence executive overview for busy executives)
-
-CRITICAL REQUIREMENTS:
-- EVERY SECTION MUST HAVE A RESPONSE - never leave any section blank
-- If there are no meaningful insights for a section, explicitly state this (e.g., "No significant company-wide concerns identified during this period")
-- Each section must contain at least one bullet point or sentence
-- All sections are REQUIRED and must be present in your response
-
-ANALYSIS GUIDELINES:
-- Focus on strategic, company-level insights executives can act on
-- Compare performance across different sites and identify best practices
-- Highlight both high-performing locations and areas needing improvement
-- Be specific with site names and performance metrics when relevant
-- Keep recommendations strategic and implementable at the company level
-- Use a professional executive tone
-
-Look for patterns like:
-- Which sites are performing above/below company average
-- Operational inefficiencies that appear across multiple locations
-- Staffing or performance trends that could impact company goals
-- Opportunities to share best practices between high and low performing sites
+IMPORTANT DATA ANALYSIS GUIDELINES:
+- Base all insights on the processed data provided - the analysis has already been customized based on the administrator's request
+- Each analysis section represents a different dimension requested by the administrator
+- Focus on cross-site comparisons and company-wide patterns
+- Identify actionable insights executives can implement
+- Compare performance across different locations to identify best practices
+- Highlight both high-performing sites and areas needing improvement
+- Always structure your response clearly for email delivery. Your response will be going straight into the body of the email
+- If data is missing or unclear, acknowledge this rather than guessing
+- Keep insights strategic and implementable for busy executives
 
 FORMAT REQUIREMENTS:
-- Use clear headings for each section (KEY INSIGHTS, TRENDS, CONCERNS, RECOMMENDATIONS, SUMMARY)
-- Use bullet points for the first 4 sections
-- Write the SUMMARY as 2-3 complete sentences (not bullet points)
-- Respond in clear, structured format that's easy for executives to scan quickly.`;
+- Use clear headings for each section
+- Use bullet points where possible to add clarity
+- Your response will be used as the intro and body for the email so start your response with "Hi ${adminName}"
+- You don't need to add a signature to the email because there is already a hardcoded one
+
+Below are the company administrator's custom analysis instructions:
+
+${customInstructions || 'Focus on company-wide performance, site comparisons, operational efficiency, and strategic insights.'}
+
+ANALYSIS PERIOD: ${dateRange.start} to ${dateRange.end}
+COMPANY: ${companyName}
+
+PROCESSED DATA TO ANALYZE:
+${data}`;
   }
 
   async analyzeCompanyData(params: AdminAnalyzeDataParams): Promise<AnalysisResult> {
@@ -483,8 +561,8 @@ FORMAT REQUIREMENTS:
       console.log(`Starting AI analysis for ${params.companyName} company report`);
       console.log(`Analyzing ${params.shifts.length} shifts and ${params.workItems.length} work items across ${params.sites.length} sites`);
 
-      const formattedData = this.formatDataForCompanyAnalysis(params.shifts, params.workItems, params.sites);
-      const prompt = this.buildAdminPrompt(formattedData, params.customInstructions, params.companyName, params.dateRange);
+      const formattedData = await this.formatDataForCompanyAnalysis(params.shifts, params.workItems, params.sites, params.customInstructions);
+      const prompt = this.buildAdminPrompt(formattedData, params.customInstructions, params.companyName, params.adminName, params.dateRange);
 
       const completion = await this.openai.chat.completions.create({
         model: 'gpt-4o-mini',
