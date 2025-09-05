@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-embeddings": "node scripts/generate-faq-embeddings.js"
+    "generate-embeddings": "node scripts/generate-faq-embeddings.js",
+    "import-uid-mappings": "node scripts/import-uid-mappings.js"
   },
   "dependencies": {
     "@ai-sdk/openai": "^2.0.22",

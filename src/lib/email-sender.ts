@@ -11,6 +11,21 @@ interface EmailParams {
   teams: string[];
 }
 
+interface AdminEmailParams {
+  adminContacts: Array<{
+    admin_id: string;
+    admin_email: string;
+    admin_name: string;
+  }>;
+  analysis: AnalysisResult;
+  dateRange: {
+    start: string;
+    end: string;
+  };
+  companyName: string;
+  sites: string[];
+}
+
 interface LoopsResponse {
   success: boolean;
   id?: string;
@@ -265,8 +280,121 @@ Questions? Reply to this email or contact support.
       };
     }
   }
+
+  async sendAdminReport(params: AdminEmailParams): Promise<{ success: boolean; emailResults: Array<{ email: string; success: boolean; emailId?: string; error?: string }> }> {
+    const emailResults: Array<{ email: string; success: boolean; emailId?: string; error?: string }> = [];
+
+    if (!this.apiKey) {
+      const error = 'LOOPS_API_KEY not configured';
+      return {
+        success: false,
+        emailResults: params.adminContacts.map(contact => ({
+          email: contact.admin_email,
+          success: false,
+          error: error
+        }))
+      };
+    }
+
+    console.log(`Sending admin report to ${params.adminContacts.length} administrator(s) via Loops transactional template`);
+
+    // Format date range for display
+    const dateRange = this.formatDateRange(params.dateRange.start, params.dateRange.end);
+    const sitesList = params.sites.length > 10 
+      ? `${params.sites.slice(0, 10).join(', ')} and ${params.sites.length - 10} more sites`
+      : params.sites.join(', ');
+
+    // Format analysis data for template
+    const keyInsightsText = params.analysis.keyInsights.length > 0 
+      ? params.analysis.keyInsights.map(insight => `• ${insight}`).join('\n')
+      : '• No specific insights identified for this period';
+
+    const trendsText = params.analysis.trends.length > 0
+      ? params.analysis.trends.map(trend => `• ${trend}`).join('\n')
+      : '• No significant trends identified for this period';
+
+    const concernsText = params.analysis.concerns.length > 0
+      ? params.analysis.concerns.map(concern => `• ${concern}`).join('\n')
+      : 'No areas requiring immediate attention identified';
+
+    const recommendationsText = params.analysis.recommendations.length > 0
+      ? params.analysis.recommendations.map(rec => `• ${rec}`).join('\n')
+      : '• Continue current operational practices';
+
+    // Send email to each admin contact
+    for (const admin of params.adminContacts) {
+      try {
+        console.log(`Sending email to admin: ${admin.admin_email}`);
+
+        const response = await fetch(this.apiUrl, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${this.apiKey}`,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            transactionalId: 'cmf5n97qo05vezd0itgb42j1z', // Same template for now, could create admin-specific template later
+            email: admin.admin_email,
+            dataVariables: {
+              managerName: admin.admin_name, // Using admin name as recipient name
+              dateRange: dateRange,
+              teams: sitesList, // Using sites instead of teams for admin reports
+              summary: params.analysis.summary || 'Company-wide performance analysis completed for the specified period.',
+              keyInsights: keyInsightsText,
+              trends: trendsText,
+              concerns: concernsText,
+              recommendations: recommendationsText
+            }
+          }),
+        });
+
+        if (!response.ok) {
+          const errorText = await response.text();
+          const errorMsg = `Loops API error: ${response.status} - ${errorText}`;
+          console.error(`Failed to send to ${admin.admin_email}:`, errorMsg);
+          
+          emailResults.push({
+            email: admin.admin_email,
+            success: false,
+            error: errorMsg
+          });
+          continue;
+        }
+
+        const result: LoopsResponse = await response.json();
+        console.log(`Email sent successfully to ${admin.admin_email}`, result);
+
+        emailResults.push({
+          email: admin.admin_email,
+          success: true,
+          emailId: result.id
+        });
+
+      } catch (error) {
+        const errorMsg = error instanceof Error ? error.message : 'Unknown error';
+        console.error(`Error sending email to ${admin.admin_email}:`, error);
+        
+        emailResults.push({
+          email: admin.admin_email,
+          success: false,
+          error: errorMsg
+        });
+      }
+    }
+
+    // Calculate overall success
+    const successfulEmails = emailResults.filter(result => result.success).length;
+    const overallSuccess = successfulEmails > 0; // At least one email sent successfully
+
+    console.log(`Admin report email results: ${successfulEmails}/${params.adminContacts.length} emails sent successfully`);
+
+    return {
+      success: overallSuccess,
+      emailResults: emailResults
+    };
+  }
 }
 
 // Export singleton instance
 export const emailSender = new EmailSender();
-export type { EmailParams };
+export type { EmailParams, AdminEmailParams };

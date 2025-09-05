@@ -21,6 +21,18 @@ interface AnalyzeDataParams {
   };
 }
 
+interface AdminAnalyzeDataParams {
+  shifts: BubbleShift[];
+  workItems: BubbleWork[];
+  customInstructions: string;
+  companyName: string;
+  sites: string[];
+  dateRange: {
+    start: string;
+    end: string;
+  };
+}
+
 class AIAnalyzer {
   private openai: OpenAI;
 
@@ -33,6 +45,17 @@ class AIAnalyzer {
     this.openai = new OpenAI({
       apiKey: apiKey,
     });
+  }
+
+  private async resolveUID(type: 'user' | 'team' | 'site', uid: string): Promise<string> {
+    // TODO: Implement Redis lookup for UID-to-name resolution
+    // For now, return the UID as fallback
+    // const redis = getRedisClient();
+    // const name = await redis.get(`${type}:${uid}`);
+    // return name || uid;
+    
+    console.log(`TODO: Resolve ${type} UID ${uid} to name via Redis`);
+    return uid; // Temporary fallback
   }
 
   private formatDataForAnalysis(shifts: BubbleShift[], workItems: BubbleWork[]): string {
@@ -256,8 +279,231 @@ FORMAT REQUIREMENTS:
 
     return sections;
   }
+
+  private formatDataForCompanyAnalysis(shifts: BubbleShift[], workItems: BubbleWork[], sites: string[]): string {
+    let analysis = `COMPANY DATA SUMMARY:\n`;
+    analysis += `- Total Sites Analyzed: ${sites.length}\n`;
+    analysis += `- Total Shifts: ${shifts.length}\n`;
+    analysis += `- Total Work Items: ${workItems.length}\n\n`;
+
+    // Site-level aggregation
+    const siteStats = this.aggregateDataBySite(shifts, workItems);
+    
+    analysis += `SITE-LEVEL PERFORMANCE:\n`;
+    Object.entries(siteStats).forEach(([siteId, stats]) => {
+      analysis += `- Site ${siteId}:\n`;
+      analysis += `  • Shifts: ${stats.shiftCount}\n`;
+      analysis += `  • Work Items: ${stats.workCount}\n`;
+      analysis += `  • Avg Lateness: ${stats.avgLateness.toFixed(1)} minutes\n`;
+      analysis += `  • On-time Rate: ${((stats.onTimeShifts / stats.shiftCount) * 100).toFixed(1)}%\n`;
+      analysis += `  • Work Completion Rate: ${((stats.completedWork / stats.workCount) * 100).toFixed(1)}%\n\n`;
+    });
+
+    // Company-wide trends
+    if (shifts.length > 0) {
+      analysis += `COMPANY-WIDE SHIFT TRENDS:\n`;
+      const overallLateness = shifts.reduce((total, shift) => {
+        const scheduledStart = shift.scheduled_start ? new Date(shift.scheduled_start) : null;
+        const actualClockIn = shift.actual_clock_in ? new Date(shift.actual_clock_in) : null;
+        const lateness = actualClockIn && scheduledStart ? 
+          Math.max(0, (actualClockIn.getTime() - scheduledStart.getTime()) / (1000 * 60)) : 0;
+        return total + lateness;
+      }, 0) / shifts.length;
+
+      const onTimePercentage = (shifts.filter(shift => {
+        const scheduledStart = shift.scheduled_start ? new Date(shift.scheduled_start) : null;
+        const actualClockIn = shift.actual_clock_in ? new Date(shift.actual_clock_in) : null;
+        if (!actualClockIn || !scheduledStart) return false;
+        return actualClockIn.getTime() <= scheduledStart.getTime() + (5 * 60 * 1000); // 5 min grace period
+      }).length / shifts.length) * 100;
+
+      analysis += `- Company Average Lateness: ${overallLateness.toFixed(1)} minutes\n`;
+      analysis += `- Company On-time Rate: ${onTimePercentage.toFixed(1)}%\n`;
+      analysis += `- Total Payroll Hours: ${shifts.reduce((total, shift) => total + (shift.pay_amount || 0), 0).toFixed(1)}\n\n`;
+    }
+
+    return analysis;
+  }
+
+  private aggregateDataBySite(shifts: BubbleShift[], workItems: BubbleWork[]): Record<string, {
+    shiftCount: number;
+    workCount: number;
+    avgLateness: number;
+    onTimeShifts: number;
+    completedWork: number;
+  }> {
+    const siteStats: Record<string, any> = {};
+
+    // Process shifts by site
+    shifts.forEach(shift => {
+      const siteId = shift.location_id || 'Unknown Site';
+      if (!siteStats[siteId]) {
+        siteStats[siteId] = {
+          shiftCount: 0,
+          workCount: 0,
+          totalLateness: 0,
+          onTimeShifts: 0,
+          completedWork: 0
+        };
+      }
+
+      siteStats[siteId].shiftCount++;
+
+      const scheduledStart = shift.scheduled_start ? new Date(shift.scheduled_start) : null;
+      const actualClockIn = shift.actual_clock_in ? new Date(shift.actual_clock_in) : null;
+      
+      if (actualClockIn && scheduledStart) {
+        const lateness = Math.max(0, (actualClockIn.getTime() - scheduledStart.getTime()) / (1000 * 60));
+        siteStats[siteId].totalLateness += lateness;
+        
+        if (lateness <= 5) { // 5 minute grace period
+          siteStats[siteId].onTimeShifts++;
+        }
+      }
+    });
+
+    // Process work items by site
+    workItems.forEach(workItem => {
+      const siteId = workItem.location_id || 'Unknown Site';
+      if (!siteStats[siteId]) {
+        siteStats[siteId] = {
+          shiftCount: 0,
+          workCount: 0,
+          totalLateness: 0,
+          onTimeShifts: 0,
+          completedWork: 0
+        };
+      }
+
+      siteStats[siteId].workCount++;
+      
+      if (workItem.status && workItem.status.toLowerCase().includes('complete')) {
+        siteStats[siteId].completedWork++;
+      }
+    });
+
+    // Calculate averages
+    Object.keys(siteStats).forEach(siteId => {
+      const stats = siteStats[siteId];
+      stats.avgLateness = stats.shiftCount > 0 ? stats.totalLateness / stats.shiftCount : 0;
+    });
+
+    return siteStats;
+  }
+
+  private buildAdminPrompt(data: string, customInstructions: string, companyName: string, dateRange: { start: string; end: string }): string {
+    return `You are an AI assistant analyzing hospitality workforce data for ${companyName} company administrators.
+
+ANALYSIS PERIOD: ${dateRange.start} to ${dateRange.end}
+
+CUSTOM ADMIN INSTRUCTIONS: ${customInstructions || 'Focus on company-wide performance, site comparisons, operational efficiency, and strategic insights.'}
+
+COMPANY DATA TO ANALYZE:
+${data}
+
+Please provide a comprehensive executive analysis following this structure:
+
+1. KEY INSIGHTS (3-5 bullet points of the most important company-wide findings)
+2. TRENDS (patterns across sites - performance differences, operational efficiency, workforce patterns)
+3. CONCERNS (any company-wide issues that need executive attention - underperforming sites, operational risks)
+4. RECOMMENDATIONS (strategic recommendations for company leadership)
+5. SUMMARY (2-3 sentence executive overview for busy executives)
+
+CRITICAL REQUIREMENTS:
+- EVERY SECTION MUST HAVE A RESPONSE - never leave any section blank
+- If there are no meaningful insights for a section, explicitly state this (e.g., "No significant company-wide concerns identified during this period")
+- Each section must contain at least one bullet point or sentence
+- All sections are REQUIRED and must be present in your response
+
+ANALYSIS GUIDELINES:
+- Focus on strategic, company-level insights executives can act on
+- Compare performance across different sites and identify best practices
+- Highlight both high-performing locations and areas needing improvement
+- Be specific with site names and performance metrics when relevant
+- Keep recommendations strategic and implementable at the company level
+- Use a professional executive tone
+
+Look for patterns like:
+- Which sites are performing above/below company average
+- Operational inefficiencies that appear across multiple locations
+- Staffing or performance trends that could impact company goals
+- Opportunities to share best practices between high and low performing sites
+
+FORMAT REQUIREMENTS:
+- Use clear headings for each section (KEY INSIGHTS, TRENDS, CONCERNS, RECOMMENDATIONS, SUMMARY)
+- Use bullet points for the first 4 sections
+- Write the SUMMARY as 2-3 complete sentences (not bullet points)
+- Respond in clear, structured format that's easy for executives to scan quickly.`;
+  }
+
+  async analyzeCompanyData(params: AdminAnalyzeDataParams): Promise<AnalysisResult> {
+    try {
+      console.log(`Starting AI analysis for ${params.companyName} company report`);
+      console.log(`Analyzing ${params.shifts.length} shifts and ${params.workItems.length} work items across ${params.sites.length} sites`);
+
+      const formattedData = this.formatDataForCompanyAnalysis(params.shifts, params.workItems, params.sites);
+      const prompt = this.buildAdminPrompt(formattedData, params.customInstructions, params.companyName, params.dateRange);
+
+      const completion = await this.openai.chat.completions.create({
+        model: 'gpt-4o-mini',
+        messages: [
+          {
+            role: 'system',
+            content: 'You are an expert hospitality operations analyst focused on company-wide strategic analysis. Provide clear, actionable insights for executive leadership based on multi-site workforce data.'
+          },
+          {
+            role: 'user',
+            content: prompt
+          }
+        ],
+        temperature: 0.3,
+        max_tokens: 2500, // Slightly more for company-wide analysis
+      });
+
+      const rawAnalysis = completion.choices[0]?.message?.content || '';
+      
+      if (!rawAnalysis) {
+        throw new Error('No analysis generated by AI');
+      }
+
+      console.log('Company AI analysis completed successfully');
+
+      // Parse the structured response (using same parsing logic)
+      const sections = this.parseAnalysisResponse(rawAnalysis);
+
+      // Update fallback content for company context
+      if (sections.keyInsights.length === 0) {
+        sections.keyInsights.push('Company-wide performance analysis completed for the specified reporting period.');
+      }
+      if (sections.trends.length === 0) {
+        sections.trends.push('No significant cross-site trends detected in the analyzed data.');
+      }
+      if (sections.concerns.length === 0) {
+        sections.concerns.push('No company-wide issues requiring immediate executive attention identified.');
+      }
+      if (sections.recommendations.length === 0) {
+        sections.recommendations.push('Continue monitoring site performance and operational metrics across all locations.');
+      }
+      if (!sections.summary || sections.summary.trim().length < 10) {
+        sections.summary = 'Company-wide performance analysis completed for the specified reporting period. Executive team should continue monitoring cross-site operational metrics.';
+      }
+
+      return {
+        keyInsights: sections.keyInsights,
+        trends: sections.trends,
+        concerns: sections.concerns,
+        recommendations: sections.recommendations,
+        summary: sections.summary,
+        rawAnalysis: rawAnalysis
+      };
+
+    } catch (error) {
+      console.error('Error in company AI analysis:', error);
+      throw new Error(`Company AI analysis failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
+    }
+  }
 }
 
 // Export singleton instance
 export const aiAnalyzer = new AIAnalyzer();
-export type { AnalysisResult, AnalyzeDataParams };
+export type { AnalysisResult, AnalyzeDataParams, AdminAnalyzeDataParams };
