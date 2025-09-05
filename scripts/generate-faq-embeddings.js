@@ -6,10 +6,10 @@ const { embed } = require('ai');
 const { Redis } = require('@upstash/redis');
 
 // Initialize Redis (will use env vars in production)
-const redis = process.env.UPSTASH_REDIS_REST_URL 
+const redis = process.env.KV_REST_API_URL 
   ? new Redis({
-      url: process.env.UPSTASH_REDIS_REST_URL,
-      token: process.env.UPSTASH_REDIS_REST_TOKEN,
+      url: process.env.KV_REST_API_URL,
+      token: process.env.KV_REST_API_TOKEN,
     })
   : null;
 
@@ -22,7 +22,7 @@ async function generateFAQEmbeddings() {
   }
 
   if (!redis) {
-    console.error('❌ Redis connection not available. Run in production or set UPSTASH_REDIS_REST_URL');
+    console.error('❌ Redis connection not available. Run in production or set KV_REST_API_URL');
     process.exit(1);
   }
 

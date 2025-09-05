@@ -48,14 +48,35 @@ class AIAnalyzer {
   }
 
   private async resolveUID(type: 'user' | 'team' | 'site', uid: string): Promise<string> {
-    // TODO: Implement Redis lookup for UID-to-name resolution
-    // For now, return the UID as fallback
-    // const redis = getRedisClient();
-    // const name = await redis.get(`${type}:${uid}`);
-    // return name || uid;
-    
-    console.log(`TODO: Resolve ${type} UID ${uid} to name via Redis`);
-    return uid; // Temporary fallback
+    try {
+      // Check for Redis credentials - use same variables as kv-store.ts
+      const redisUrl = process.env.KV_REST_API_URL;
+      const redisToken = process.env.KV_REST_API_TOKEN;
+      
+      if (!redisUrl || !redisToken) {
+        console.log(`No Redis credentials found, using UID fallback for ${type}:${uid}`);
+        return uid;
+      }
+
+      // Dynamic import to avoid issues in environments without Redis
+      const { Redis } = await import('@upstash/redis');
+      const redis = new Redis({
+        url: redisUrl,
+        token: redisToken,
+      });
+
+      const name = await redis.get(`${type}:${uid}`);
+      if (name) {
+        console.log(`Resolved ${type}:${uid} → "${name}"`);
+        return name as string;
+      } else {
+        console.log(`No mapping found for ${type}:${uid}, using UID`);
+        return uid;
+      }
+    } catch (error) {
+      console.error(`Error resolving ${type} UID ${uid}:`, error);
+      return uid; // Fallback to UID on error
+    }
   }
 
   private formatDataForAnalysis(shifts: BubbleShift[], workItems: BubbleWork[]): string {

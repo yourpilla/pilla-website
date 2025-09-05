@@ -7,14 +7,19 @@ export async function POST() {
   try {
     console.log('🚀 Starting UID-to-name mapping import to Redis...');
 
-    // Initialize Redis client
-    if (!process.env.UPSTASH_REDIS_REST_URL || !process.env.UPSTASH_REDIS_REST_TOKEN) {
-      throw new Error('Redis environment variables not configured');
+    // Initialize Redis client - use the same variables as kv-store.ts for consistency
+    const redisUrl = process.env.KV_REST_API_URL;
+    const redisToken = process.env.KV_REST_API_TOKEN;
+    
+    if (!redisUrl || !redisToken) {
+      throw new Error('Redis environment variables not configured. Need KV_REST_API_URL and KV_REST_API_TOKEN');
     }
 
+    console.log(`Using Redis URL: ${redisUrl.substring(0, 20)}...`);
+
     const redis = new Redis({
-      url: process.env.UPSTASH_REDIS_REST_URL,
-      token: process.env.UPSTASH_REDIS_REST_TOKEN,
+      url: redisUrl,
+      token: redisToken,
     });
 
     const files = [
