@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { Redis } from '@upstash/redis';
-import fs from 'fs';
-import path from 'path';
+import * as fs from 'fs';
+import * as path from 'path';
 
 export async function POST() {
   try {
@@ -24,7 +24,15 @@ export async function POST() {
     ];
 
     let totalMappings = 0;
-    const results: any[] = [];
+    const results: Array<{
+      filename: string;
+      type?: string;
+      status: string;
+      imported?: number;
+      errors?: number;
+      totalLines?: number;
+      count?: number;
+    }> = [];
 
     for (const { filename, type } of files) {
       const filePath = path.join(process.cwd(), 'data', filename);

@@ -48,32 +48,6 @@ interface BubbleApiResponse {
   };
 }
 
-interface BubbleShiftRaw {
-  _id: string;
-  user_id?: string;
-  user_name?: string;
-  team?: string;
-  start_time?: string;
-  scheduled_start?: string;
-  scheduled_end?: string;
-  actual_clock_in?: string;
-  actual_clock_out?: string;
-  pay_amount?: number;
-  location_id?: string;
-  [key: string]: unknown;
-}
-
-interface BubbleWorkRaw {
-  _id: string;
-  user_id?: string;
-  user_name?: string;
-  team?: string;
-  started_at?: string;
-  completed_at?: string;
-  work_type?: string;
-  status?: string;
-  [key: string]: unknown;
-}
 
 interface FetchDataParams {
   startDate: string;

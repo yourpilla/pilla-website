@@ -185,7 +185,6 @@ export async function generateAdminReport(params: AdminReportParams): Promise<Ad
 }
 
 // Legacy function for backward compatibility
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 export async function generateCompanyReport(params: {
   startDate: string;
   endDate: string;

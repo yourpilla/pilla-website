@@ -332,7 +332,14 @@ FORMAT REQUIREMENTS:
     onTimeShifts: number;
     completedWork: number;
   }> {
-    const siteStats: Record<string, any> = {};
+    const siteStats: Record<string, {
+      shiftCount: number;
+      workCount: number;
+      totalLateness: number;
+      onTimeShifts: number;
+      completedWork: number;
+      avgLateness?: number;
+    }> = {};
 
     // Process shifts by site
     shifts.forEach(shift => {
@@ -382,13 +389,27 @@ FORMAT REQUIREMENTS:
       }
     });
 
-    // Calculate averages
+    // Calculate averages and transform to return type
+    const result: Record<string, {
+      shiftCount: number;
+      workCount: number;
+      avgLateness: number;
+      onTimeShifts: number;
+      completedWork: number;
+    }> = {};
+
     Object.keys(siteStats).forEach(siteId => {
       const stats = siteStats[siteId];
-      stats.avgLateness = stats.shiftCount > 0 ? stats.totalLateness / stats.shiftCount : 0;
+      result[siteId] = {
+        shiftCount: stats.shiftCount,
+        workCount: stats.workCount,
+        avgLateness: stats.shiftCount > 0 ? stats.totalLateness / stats.shiftCount : 0,
+        onTimeShifts: stats.onTimeShifts,
+        completedWork: stats.completedWork
+      };
     });
 
-    return siteStats;
+    return result;
   }
 
   private buildAdminPrompt(data: string, customInstructions: string, companyName: string, dateRange: { start: string; end: string }): string {
