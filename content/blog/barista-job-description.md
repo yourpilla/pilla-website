@@ -32,7 +32,7 @@ breadcrumb schema: |-
     ]
   }
   </script>
-breadcrumb short: Barista Job Description
+  breadcrumb short: Barista Job Description
 meta: >-
   Learn how to write a barista job description. Step-by-step guide, tips, and
   requirements for how to write a barista job description.
@@ -127,8 +127,8 @@ schema: |
     "inLanguage": "en-GB"
   }
   </script>
-secondary tag: Job Descriptions
-template actual: Barista Job Description
+  secondary tag: Job Descriptions
+  template actual: Barista Job Description
 Title: 'How to write a barista job description: barista job description template included.'
 Slug: barista-job-description
 unique id: 1722850843774x877733980810702100
@@ -137,7 +137,8 @@ subtitle: >-
   Date modified: 17th July 2025 | This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 ## Step 1: Start with the Service Style and Write an Introduction to Your Business
 

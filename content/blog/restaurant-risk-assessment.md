@@ -1,6 +1,7 @@
 ---
-breadcrumb schema: "<script type="application/ld+json">
-{
+breadcrumb schema: |-
+  <script type="application/ld+json">
+  {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
@@ -29,37 +30,37 @@ breadcrumb schema: "<script type="application/ld+json">
       "item": "https://yourpilla.com/blog/restaurant-risk-assessment"
     }
   ]
-}
-</script>"
-breadcrumb short: "FOH Hazards"
+  }
+  </script>
+  breadcrumb short: "FOH Hazards"
 meta: "Learn how to complete a restaurant risk assessment step-by-step. Discover the 5 key stages, common hazards, and how to protect staff and customers."
 questions: "1744896519239x907897255878200300 , 1744896519240x793756218390371200 , 1744896519240x733363053796624600 , 1744896519240x145631689669596160 , 1744896519240x292106532504849100 , 1744896519240x906794690537488600 , 1744896519240x565938957540802500 , 1744896519240x895898534733455600 , 1744896519240x702940806814908200"
-schema: "<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Restaurant Risk Assessment",
-  "description": "Learn how to complete a restaurant risk assessment that protects staff and customers. This article explains the 5 key steps and how to apply them in a real hospitality environment.",
-  "author": {
-    "@type": "Person",
-    "name": "Liam Jones",
-    "url": "https://yourpilla.com/profile/liam-jones"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Your Pilla",
-    "url": "https://yourpilla.com"
-  },
-  "url": "https://yourpilla.com/blog/restaurant-risk-assessment",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://yourpilla.com/blog/restaurant-risk-assessment"
-  },
-  "inLanguage": "en-GB",
-  "dateModified": "2025-04-01T09:00:00+01:00"
-}
-</script>
-"
+schema: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Restaurant Risk Assessment",
+    "description": "Learn how to complete a restaurant risk assessment that protects staff and customers. This article explains the 5 key steps and how to apply them in a real hospitality environment.",
+    "author": {
+      "@type": "Person",
+      "name": "Liam Jones",
+      "url": "https://yourpilla.com/profile/liam-jones"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Pilla",
+      "url": "https://yourpilla.com"
+    },
+    "url": "https://yourpilla.com/blog/restaurant-risk-assessment",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://yourpilla.com/blog/restaurant-risk-assessment"
+    },
+    "inLanguage": "en-GB",
+    "dateModified": "2025-04-01T09:00:00+01:00"
+  }
+  </script>
 secondary tag: "Health and Safety"
 template actual: ""
 Title: "How to Do a Restaurant Risk Assessment"
@@ -70,7 +71,8 @@ subtitle: >-
   This article has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
  Date modified: 1st April 2025. This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.

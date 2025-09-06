@@ -1,6 +1,7 @@
 ---
-breadcrumb schema: "<script type="application/ld+json">
-{
+breadcrumb schema: |-
+  <script type="application/ld+json">
+  {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
@@ -29,94 +30,93 @@ breadcrumb schema: "<script type="application/ld+json">
       "item": "https://yourpilla.com/blog/kitchen-risk-assessment"
     }
   ]
-}
-</script>"
+  }
+  </script>
 breadcrumb short: "Kitchen Hazrds"
 meta: "Use this kitchen risk assessment template in the the Pilla app to do a compliant risk assessment of your kitchen and food prep areas."
 questions: "1744799372653x600777353914366000 , 1744799372654x902211204347639600 , 1744799372653x806956111805522800 , 1744799372654x904677169391059400 , 1744799372654x139294100003905400 , 1744799372654x372478131209774900 , 1744799372654x815001140341564400 , 1744799372654x942496062395041500"
-schema: "<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "HowTo",
-  "name": "How to Do a Kitchen Risk Assessment in Hospitality",
-  "description": "This guide walks hospitality professionals through how to complete a kitchen risk assessment, from identifying hazards to implementing controls and reviewing the assessment regularly.",
-  "url": "https://yourpilla.com/blog/kitchen-risk-assessment",
-  "inLanguage": "en-GB",
-  "author": {
-    "@type": "Person",
-    "name": "Liam Jones",
-    "url": "https://yourpilla.com/profile/liam-jones"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Your Pilla",
-    "url": "https://yourpilla.com"
-  },
-  "dateModified": "2025-04-01T09:00:00+01:00",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://yourpilla.com/blog/kitchen-risk-assessment"
-  },
-  "about": {
-    "@type": "Thing",
-    "name": "Kitchen Risk Assessments"
-  },
-  "step": [
-    {
-      "@type": "HowToStep",
-      "name": "Step 1: Identify the hazards",
-      "text": "Walk through the kitchen and list anything that could cause harm. Look during different times of day and observe staff tasks. Focus on common risks like slips, burns, cuts, and equipment faults."
+schema: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How to Do a Kitchen Risk Assessment in Hospitality",
+    "description": "This guide walks hospitality professionals through how to complete a kitchen risk assessment, from identifying hazards to implementing controls and reviewing the assessment regularly.",
+    "url": "https://yourpilla.com/blog/kitchen-risk-assessment",
+    "inLanguage": "en-GB",
+    "author": {
+      "@type": "Person",
+      "name": "Liam Jones",
+      "url": "https://yourpilla.com/profile/liam-jones"
     },
-    {
-      "@type": "HowToStep",
-      "name": "Step 2: Decide who might be harmed and how",
-      "text": "For each hazard, decide who could be harmed (chefs, KPs, delivery drivers, etc.) and how. Use job roles, not individual names, and be specific about the potential harm."
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Pilla",
+      "url": "https://yourpilla.com"
     },
-    {
-      "@type": "HowToStep",
-      "name": "Step 3: Evaluate the risks and decide on precautions",
-      "text": "Assess the likelihood and severity of each risk. Note what controls you already have and decide if more are needed. Add any additional control measures required."
+    "dateModified": "2025-04-01T09:00:00+01:00",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://yourpilla.com/blog/kitchen-risk-assessment"
     },
-    {
-      "@type": "HowToStep",
-      "name": "Step 4: Record your findings and implement them",
-      "text": "Use a structured format (spreadsheet or template) to document each hazard, who is at risk, existing controls, and further actions. Use Pilla's template or your own method, and ensure it’s actioned and shared."
+    "about": {
+      "@type": "Thing",
+      "name": "Kitchen Risk Assessments"
     },
-    {
-      "@type": "HowToStep",
-      "name": "Step 5: Review your risk assessment",
-      "text": "Review your kitchen risk assessment every 12 months or sooner if there are changes such as new equipment, accidents, or layout updates. Keep it relevant and up to date."
-    }
-  ]
-}
-</script>
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Step 1: Identify the hazards",
+        "text": "Walk through the kitchen and list anything that could cause harm. Look during different times of day and observe staff tasks. Focus on common risks like slips, burns, cuts, and equipment faults."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Step 2: Decide who might be harmed and how",
+        "text": "For each hazard, decide who could be harmed (chefs, KPs, delivery drivers, etc.) and how. Use job roles, not individual names, and be specific about the potential harm."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Step 3: Evaluate the risks and decide on precautions",
+        "text": "Assess the likelihood and severity of each risk. Note what controls you already have and decide if more are needed. Add any additional control measures required."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Step 4: Record your findings and implement them",
+        "text": "Use a structured format (spreadsheet or template) to document each hazard, who is at risk, existing controls, and further actions. Use Pilla's template or your own method, and ensure it's actioned and shared."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Step 5: Review your risk assessment",
+        "text": "Review your kitchen risk assessment every 12 months or sooner if there are changes such as new equipment, accidents, or layout updates. Keep it relevant and up to date."
+      }
+    ]
+  }
+  </script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "How to Do a Kitchen Risk Assessment in Hospitality",
-  "description": "A step-by-step guide explaining how to properly carry out a kitchen risk assessment in hospitality settings. Learn who should do it, what hazards to consider, and how to record and review your findings effectively.",
-  "author": {
-    "@type": "Person",
-    "name": "Liam Jones",
-    "url": "https://yourpilla.com/profile/liam-jones"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Your Pilla",
-    "url": "https://yourpilla.com"
-  },
-  "dateModified": "2025-04-01T09:00:00+01:00", 
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://yourpilla.com/blog/kitchen-risk-assessment"
-  },
-  "inLanguage": "en-GB"
-}
-</script>
-
-"
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "How to Do a Kitchen Risk Assessment in Hospitality",
+    "description": "A step-by-step guide explaining how to properly carry out a kitchen risk assessment in hospitality settings. Learn who should do it, what hazards to consider, and how to record and review your findings effectively.",
+    "author": {
+      "@type": "Person",
+      "name": "Liam Jones",
+      "url": "https://yourpilla.com/profile/liam-jones"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Pilla",
+      "url": "https://yourpilla.com"
+    },
+    "dateModified": "2025-04-01T09:00:00+01:00", 
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://yourpilla.com/blog/kitchen-risk-assessment"
+    },
+    "inLanguage": "en-GB"
+  }
+  </script>
 secondary tag: "Health and Safety"
 template actual: ""
 Title: "How to Do a Kitchen Risk Assessment in Hospitality"

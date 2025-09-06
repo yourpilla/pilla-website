@@ -32,7 +32,7 @@ breadcrumb schema: |-
     ]
   }
   </script>
-breadcrumb short: Hotel General Manager Job Description
+  breadcrumb short: Hotel General Manager Job Description
 meta: >-
   Learn how to write a hotel general manager job description. Step-by-step
   guide, tips, and requirements for how to write a hotel general manager job
@@ -128,8 +128,8 @@ schema: |
     "inLanguage": "en-GB"
   }
   </script>
-secondary tag: Job Descriptions
-template actual: Hotel General Manager Job Description
+  secondary tag: Job Descriptions
+  template actual: Hotel General Manager Job Description
 Title: 'How to write a hotel general manager job description: hotel general manager job description template included.'
 Slug: hotel-manager-duties
 unique id: 1736870735743x596686838569667100
@@ -138,7 +138,8 @@ subtitle: >-
   Date modified: 22nd July 2025 | This article has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 ## Step 1: Define Your Hotel Environment
 When writing a hotel general manager job description, start by clearly articulating your property's operational scope and strategic leadership requirements. The hotel general manager role varies dramatically between boutique inns, business hotels, and luxury resorts, so candidates must understand the specific management context they'll be entering.

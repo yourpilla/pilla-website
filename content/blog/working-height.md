@@ -14,7 +14,8 @@ subtitle: >-
   This article has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
  Date modified: 1st June 2025 | This article was written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). You can [email Liam directly](mailto:liam@yourpilla.com); he reads every email. Alternatively, [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage health and safety.

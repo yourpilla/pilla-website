@@ -32,7 +32,7 @@ breadcrumb schema: |-
     ]
   }
   </script>
-breadcrumb short: Chef De Partie Job Description
+  breadcrumb short: Chef De Partie Job Description
 meta: >-
   Learn how to write a chef de partie job description. Step-by-step guide, tips,
   and requirements for how to write a chef de partie job description.
@@ -126,8 +126,8 @@ schema: |
     "inLanguage": "en-GB"
   }
   </script>
-secondary tag: Job Descriptions
-template actual: Chef De Partie Job Description
+  secondary tag: Job Descriptions
+  template actual: Chef De Partie Job Description
 Title: 'How to write a chef de partie job description: chef de partie job description template included.'
 Slug: chef-de-partie-job-description
 unique id: 1684269158016x449693810353710900
@@ -136,7 +136,8 @@ subtitle: >-
   Date modified: 17th July 2025 | This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 ## Step 1: Describe Your Kitchen’s Style and Write an Introduction to Your Venue
 

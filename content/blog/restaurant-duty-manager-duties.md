@@ -14,7 +14,8 @@ subtitle: >-
   Date modified: 1st May 2025 | This article has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). You can [email Liam directly](mailto:liam@yourpilla.com); he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
 ## How to Define Restaurant Duty Manager Tasks, Skills and Responsibilities in a Job Description

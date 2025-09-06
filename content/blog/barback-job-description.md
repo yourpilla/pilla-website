@@ -32,7 +32,7 @@ breadcrumb schema: |-
     ]
   }
   </script>
-breadcrumb short: Barback Job Description
+  breadcrumb short: Barback Job Description
 meta: >-
   Learn how to write a barback job description. Step-by-step guide, tips, and
   requirements for how to write a barback job description.
@@ -127,8 +127,8 @@ schema: |
     "inLanguage": "en-GB"
   }
   </script>
-secondary tag: Job Descriptions
-template actual: Bar Back Job Description
+  secondary tag: Job Descriptions
+  template actual: Bar Back Job Description
 Title: 'How to write a barback job description: barback job description template included.'
 Slug: barback-job-description
 unique id: 1724162950030x483679135986200060
@@ -137,7 +137,8 @@ subtitle: >-
   Date modified: 17th July 2025 | This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 ## Step 1: Describe the Venue and Work Environment
 

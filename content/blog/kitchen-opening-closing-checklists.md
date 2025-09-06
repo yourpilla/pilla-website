@@ -14,7 +14,8 @@ subtitle: >-
   Date modified: 1st April 2025 | This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
    - Step 1: Walk your kitchen like a first-timer - Identify what really needs to be ready before prep and clean before close.

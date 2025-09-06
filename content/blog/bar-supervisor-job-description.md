@@ -32,7 +32,7 @@ breadcrumb schema: |-
     ]
   }
   </script>
-breadcrumb short: Bar Supervisor Job Description
+  breadcrumb short: Bar Supervisor Job Description
 meta: >-
   Learn how to write a bar supervisor job description. Step-by-step guide, tips,
   and requirements for how to write a bar supervisor job description.
@@ -127,8 +127,8 @@ schema: |
     "inLanguage": "en-GB"
   }
   </script>
-secondary tag: Job Descriptions
-template actual: Bar Supervisor Job Description
+  secondary tag: Job Descriptions
+  template actual: Bar Supervisor Job Description
 Title: 'How to write a bar supervisor job description: bar supervisor job description template included.'
 Slug: bar-supervisor-duties
 unique id: 1736870341610x152642730726363360
@@ -137,7 +137,8 @@ subtitle: >-
   Date modified: 22nd July 2025 | This article has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 ## Step 1: Define Your Bar Environment
 When writing a bar supervisor job description, start by painting a clear picture of your bar's service environment and supervisory expectations. The bar supervisor role varies dramatically between venues, so candidates must understand the specific leadership context they'll be entering.

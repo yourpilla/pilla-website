@@ -14,7 +14,8 @@ subtitle: >-
   Date modified: 1st June 2025 | This article has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones). Feel free to [email Liam directly](mailto:liam@yourpilla.com)—he reads every email. Or [book a demo](https://calendly.com/pilla/demo) to see how hospitality businesses use Pilla to manage health and safety.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
    - COSHH risk assessments focus on controlling exposure to hazardous substances, ensuring the safety of employees and customers.

@@ -32,7 +32,7 @@ breadcrumb schema: |-
     ]
   }
   </script>
-breadcrumb short: Catering Assistant Job Description
+  breadcrumb short: Catering Assistant Job Description
 meta: >-
   Learn how to write a catering assistant job description. Step-by-step guide,
   tips, and requirements for how to write a catering assistant job description.
@@ -129,8 +129,8 @@ schema: |
     "inLanguage": "en-GB"
   }
   </script>
-secondary tag: Job Descriptions
-template actual: Catering Assistant Job Description
+  secondary tag: Job Descriptions
+  template actual: Catering Assistant Job Description
 Title: 'How to write a catering assistant job description: catering assistant job description template included.'
 Slug: catering-assistant-job-description
 unique id: 1708361119139x925944326663997300
@@ -139,7 +139,8 @@ subtitle: >-
   Date modified: 17th July 2025 | This article has been penned by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 ## Step 1: Start with the Service Environment and Write an Introduction to Your Business
 

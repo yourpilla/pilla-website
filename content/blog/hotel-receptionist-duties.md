@@ -14,7 +14,8 @@ subtitle: >-
   Date modified: 1st May 2025 | This article has been written by Pilla Founder, [Liam Jones](https://yourpilla.com/profile/liam-jones), click to [email Liam directly](mailto:liam@yourpilla.com), he reads every email.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
    - Step 1: Start by Describing Your Hotel – Provide a brief insight into your hotel's atmosphere, size, and values so job seekers understand what to expect.

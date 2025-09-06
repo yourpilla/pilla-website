@@ -1,65 +1,66 @@
 ---
-breadcrumb schema: "<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://yourpilla.com"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "https://yourpilla.com/blog"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Health & Safety System",
-      "item": "https://yourpilla.com/blog/hospitality-risks"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Coffee Machine Risk Assessment",
-      "item": "https://yourpilla.com/blog/coffee-machine-risk-assessment"
-    }
-  ]
-}
-</script>"
+breadcrumb schema: |-
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://yourpilla.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://yourpilla.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Health & Safety System",
+        "item": "https://yourpilla.com/blog/hospitality-risks"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Coffee Machine Risk Assessment",
+        "item": "https://yourpilla.com/blog/coffee-machine-risk-assessment"
+      }
+    ]
+  }
+  </script>
 breadcrumb short: "Coffee Machine"
 meta: "Use this coffee machine risk assessment guide and associated template to carry out a risk assessment in your hospitality business."
 questions: "1745226754640x164622301956232060 , 1745226754640x299919890793163260 , 1745226754641x354553544418096960 , 1745226754641x644433002790528500 , 1745226754641x819695357803466900 , 1745226754641x272325406917240060 , 1745226754640x248159394973823230 , 1745226754640x793854548562066300 , 1745226754641x508462129203332030"
-schema: "<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Coffee Machine Risk Assessment",
-  "description": "Learn how to carry out a coffee machine risk assessment in hospitality. This guide explains how to evaluate safety risks, manage maintenance, and meet legal requirements such as the Pressure Systems Safety Regulations 2000.",
-  "url": "https://yourpilla.com/blog/coffee-machine-risk-assessment",
-  "dateModified": "2025-04-01T00:00:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Liam Jones",
-    "url": "https://yourpilla.com/profile/liam-jones"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Your Pilla",
-    "url": "https://yourpilla.com"
-  },
-  "inLanguage": "en-GB",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://yourpilla.com/blog/coffee-machine-risk-assessment"
+schema: |
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Coffee Machine Risk Assessment",
+    "description": "Learn how to carry out a coffee machine risk assessment in hospitality. This guide explains how to evaluate safety risks, manage maintenance, and meet legal requirements such as the Pressure Systems Safety Regulations 2000.",
+    "url": "https://yourpilla.com/blog/coffee-machine-risk-assessment",
+    "dateModified": "2025-04-01T00:00:00+00:00",
+    "author": {
+      "@type": "Person",
+      "name": "Liam Jones",
+      "url": "https://yourpilla.com/profile/liam-jones"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Pilla",
+      "url": "https://yourpilla.com"
+    },
+    "inLanguage": "en-GB",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://yourpilla.com/blog/coffee-machine-risk-assessment"
+    }
   }
-}
-</script>
-"
+  </script>
 secondary tag: "Health and Safety"
 template actual: ""
 Title: "How to Do a Coffee Machine Risk Assessment "
@@ -70,7 +71,8 @@ subtitle: >-
   Date modified: 1st June 2025 | This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email. Or&nbsp;[book a demo](https://calendly.com/pilla/demo)&nbsp;to see how hospitality businesses use Pilla to manage health and safety.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
    - Coffee machine risk assessments are a legal requirement because they are a significant risk. In the UK, two main regulations apply - The Pressure Systems Safety Regulations 2000 (PSSR) apply to machines that store steam or pressurised water (which includes most espresso machines) and The&nbsp;Provision and Use of Work Equipment Regulations 1998 (PUWER) – these cover general equipment safety, including training, inspection, and safe use.

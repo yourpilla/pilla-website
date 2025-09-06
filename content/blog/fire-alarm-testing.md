@@ -14,7 +14,8 @@ subtitle: >-
   Date modified: 1st June 2025 | This article has been written by Pilla Founder,&nbsp;[Liam Jones](https://yourpilla.com/profile/liam-jones), click to&nbsp;[email Liam directly](mailto:liam@yourpilla.com), he reads every email. Or&nbsp;[book a demo](https://calendly.com/pilla/demo)&nbsp;to see how hospitality businesses use Pilla to manage food safety.
 sidebar_image: ''
 sidebar_image_alt: ''
-tldr: ''intro: ''
+tldr: ''
+intro: ''
 ---
 
    - Fire alarms are a critical part of your health and safety system. They give early warning in the event of a fire, helping people evacuate quickly and saving lives. But like any safety equipment, they need to be tested regularly to make sure they’re working properly when you need them most.
