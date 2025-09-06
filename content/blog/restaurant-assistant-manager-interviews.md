@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Management Leadership Needs
-Focus on operational management, team leadership, and business coordination. Separate essential skills (staff management, operational oversight) from nice extras (financial analysis, marketing knowledge). If you need clarity, check our article on [restaurant assistant manager job descriptions.](https://yourpilla.com/blog/restaurant-assistant-manager-job-description)
+  Step 1: Define Management Leadership Needs
+  Focus on operational management, team leadership, and business coordination. Separate essential skills (staff management, operational oversight) from nice extras (financial analysis, marketing knowledge). If you need clarity, check our article on [restaurant assistant manager job descriptions.](https://yourpilla.com/blog/restaurant-assistant-manager-job-description)
 
-Step 2: Plan Management-Focused Interview Structure
-Choose format based on management complexity:
-- Standard: Leadership questions plus operational management simulation for daily management roles
-- Extended: Include team interaction and business scenarios for senior positions
-- Advanced: Add management trial and multi-department coordination for development-focused roles
+  Step 2: Plan Management-Focused Interview Structure
+  Choose format based on management complexity:
+  - Standard: Leadership questions plus operational management simulation for daily management roles
+  - Extended: Include team interaction and business scenarios for senior positions
+  - Advanced: Add management trial and multi-department coordination for development-focused roles
 
-Step 3: Develop Leadership and Business Questions
-Ask for specific examples: managing operational crises, leading cross-functional teams, handling business challenges. Focus on management capability and decision-making over technical knowledge.
+  Step 3: Develop Leadership and Business Questions
+  Ask for specific examples: managing operational crises, leading cross-functional teams, handling business challenges. Focus on management capability and decision-making over technical knowledge.
 
-Step 4: Plan Management Trial Activities
-Test operational leadership, team coordination, and business management. 90-120 minutes reveals management patterns and decision-making capability. Watch for natural authority, communication excellence, and business acumen.
+  Step 4: Plan Management Trial Activities
+  Test operational leadership, team coordination, and business management. 90-120 minutes reveals management patterns and decision-making capability. Watch for natural authority, communication excellence, and business acumen.
 
-Step 5: Use Consistent Scoring Methods
-Weight operational management (40%), team leadership (35%), and business coordination (25%). Avoid personality-based hiring. Document specific management examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  Weight operational management (40%), team leadership (35%), and business coordination (25%). Avoid personality-based hiring. Document specific management examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Management Leadership Needs

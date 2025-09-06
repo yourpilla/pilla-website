@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on physical stamina, reliability, and team cooperation over technical skills. Separate essential traits (punctuality, work ethic) from nice extras (previous kitchen experience). If you need clarity, check our article on [kitchen porter job descriptions.](https://yourpilla.com/blog/kitchen-porter-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on physical stamina, reliability, and team cooperation over technical skills. Separate essential traits (punctuality, work ethic) from nice extras (previous kitchen experience). If you need clarity, check our article on [kitchen porter job descriptions.](https://yourpilla.com/blog/kitchen-porter-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on your kitchen's needs:
-- Quick: Short chat plus 30-minute trial for immediate coverage
-- Standard: Behavioural questions plus practical assessment to test reliability 
-- Extended: Include team interaction for roles with growth potential
+  Step 2: Plan the Interview Structure
+  Choose format based on your kitchen's needs:
+  - Quick: Short chat plus 30-minute trial for immediate coverage
+  - Standard: Behavioural questions plus practical assessment to test reliability 
+  - Extended: Include team interaction for roles with growth potential
 
-Step 3: Develop Scenario-Based Questions
-Ask for specific examples: handling busy periods, working in teams, following cleaning protocols. Focus on attitude and reliability over technical knowledge.
+  Step 3: Develop Scenario-Based Questions
+  Ask for specific examples: handling busy periods, working in teams, following cleaning protocols. Focus on attitude and reliability over technical knowledge.
 
-Step 4: Plan Practical Trial Activities
-Test dishwashing speed, cleaning thoroughness, and instruction-following. 30-45 minutes reveals work patterns and stamina. Watch for organisation, safety awareness, and team cooperation.
+  Step 4: Plan Practical Trial Activities
+  Test dishwashing speed, cleaning thoroughness, and instruction-following. 30-45 minutes reveals work patterns and stamina. Watch for organisation, safety awareness, and team cooperation.
 
-Step 5: Use Consistent Scoring Methods
-Weight reliability (40%), work quality (30%), and team attitude (30%). Avoid gut-feel hiring. Document specific examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  Weight reliability (40%), work quality (30%), and team attitude (30%). Avoid gut-feel hiring. Document specific examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

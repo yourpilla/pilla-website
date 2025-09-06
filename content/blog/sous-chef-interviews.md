@@ -15,26 +15,26 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on leadership ability, kitchen management skills, and service pressure handling over just cooking ability. Separate essential traits (team management, operational thinking) from nice extras (menu development, cost control). If you need clarity, check our article on [sous chef job descriptions.](https://yourpilla.com/blog/sous-chef-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on leadership ability, kitchen management skills, and service pressure handling over just cooking ability. Separate essential traits (team management, operational thinking) from nice extras (menu development, cost control). If you need clarity, check our article on [sous chef job descriptions.](https://yourpilla.com/blog/sous-chef-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on kitchen size and responsibility level:
-- Standard: Behavioural questions plus scenario-based challenges for most sous chef roles
-- Extended: Include practical management tasks and team interaction for senior positions
-- Comprehensive: Add pre-interview assignments for head chef development track
+  Step 2: Plan the Interview Structure
+  Choose format based on kitchen size and responsibility level:
+  - Standard: Behavioural questions plus scenario-based challenges for most sous chef roles
+  - Extended: Include practical management tasks and team interaction for senior positions
+  - Comprehensive: Add pre-interview assignments for head chef development track
 
-Step 3: Develop Leadership and Scenario-Based Questions
-Ask for specific examples: managing service crises, training junior staff, improving kitchen systems. Focus on problem-solving approach and team development over technical perfection.
+  Step 3: Develop Leadership and Scenario-Based Questions
+  Ask for specific examples: managing service crises, training junior staff, improving kitchen systems. Focus on problem-solving approach and team development over technical perfection.
 
-Step 4: Plan Management Trial Activities
-Test decision-making, staff coordination, and pressure handling. 60-90 minutes reveals leadership style and operational thinking. Watch for calm authority, clear communication, and guest-focused solutions.
+  Step 4: Plan Management Trial Activities
+  Test decision-making, staff coordination, and pressure handling. 60-90 minutes reveals leadership style and operational thinking. Watch for calm authority, clear communication, and guest-focused solutions.
 
-Step 5: Use Consistent Scoring Methods
-- Leadership and team management (40%)
-- Service pressure handling (30%)
-- Organisation skills (30%). 
-Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  - Leadership and team management (40%)
+  - Service pressure handling (30%)
+  - Organisation skills (30%). 
+  Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

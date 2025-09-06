@@ -15,32 +15,32 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Focus on leadership excellence, financial management, and operational oversight. Separate essential management traits from nice extras like cocktail innovation or multi-venue experience. If you need to, check out our article on [writing Bar Manager job descriptions.](https://yourpilla.com/blog/bar-manager-job-description)
+  Step 1: Define What You're Looking For
+  Focus on leadership excellence, financial management, and operational oversight. Separate essential management traits from nice extras like cocktail innovation or multi-venue experience. If you need to, check out our article on [writing Bar Manager job descriptions.](https://yourpilla.com/blog/bar-manager-job-description)
 
-Step 2: Plan the Interview Structure
-Tailor the format based on your venue complexity and management requirements:
-- Quick: Short interview + financial scenarios for standard bar management roles.
-- Standard: Leadership deep-dive, business scenarios, and operational management assessment.
-- Extended: Required business task, full interview, plus team interaction observation.
+  Step 2: Plan the Interview Structure
+  Tailor the format based on your venue complexity and management requirements:
+  - Quick: Short interview + financial scenarios for standard bar management roles.
+  - Standard: Leadership deep-dive, business scenarios, and operational management assessment.
+  - Extended: Required business task, full interview, plus team interaction observation.
 
-Step 3: Use Behavioural and Scenario-Based Questions
-- Behavioural: Ask for examples of managing bar teams, controlling costs, or building service standards during challenging periods.
-- Scenario-based: Test how they'd handle management challenges like financial shortfalls, staff conflicts, or service quality issues.
+  Step 3: Use Behavioural and Scenario-Based Questions
+  - Behavioural: Ask for examples of managing bar teams, controlling costs, or building service standards during challenging periods.
+  - Scenario-based: Test how they'd handle management challenges like financial shortfalls, staff conflicts, or service quality issues.
 
-Step 4: Observe Leadership Presence, Business Acumen, and Strategic Thinking
-Watch for:
-- Natural authority and team development approach
-- Commercial awareness and profit protection instincts
-- Strategic thinking about bar operations and guest experience enhancement
+  Step 4: Observe Leadership Presence, Business Acumen, and Strategic Thinking
+  Watch for:
+  - Natural authority and team development approach
+  - Commercial awareness and profit protection instincts
+  - Strategic thinking about bar operations and guest experience enhancement
 
-Avoid candidates who lack financial awareness, struggle with team leadership, or show poor understanding of hospitality business fundamentals.
+  Avoid candidates who lack financial awareness, struggle with team leadership, or show poor understanding of hospitality business fundamentals.
 
-Step 5: Evaluate Using a Scorecard
-Apply a weighted system to compare candidates fairly:
-- Leadership and Team Management – 40%
-- Financial and Operational Excellence – 35%
-- Strategic Vision and Guest Focus – 25%
+  Step 5: Evaluate Using a Scorecard
+  Apply a weighted system to compare candidates fairly:
+  - Leadership and Team Management – 40%
+  - Financial and Operational Excellence – 35%
+  - Strategic Vision and Guest Focus – 25%
 intro: ''
 ---
 

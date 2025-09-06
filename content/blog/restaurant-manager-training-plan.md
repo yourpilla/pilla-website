@@ -15,15 +15,15 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Day 1: Business Orientation: Provide a thorough introduction to the brand, mission, and venue layout. Establish an understanding of team dynamics and operations.
+  Day 1: Business Orientation: Provide a thorough introduction to the brand, mission, and venue layout. Establish an understanding of team dynamics and operations.
 
-Day 2: Financial Overview: Dive into financial training, focusing on budgeting, reporting, and cost management to ensure profitability.
+  Day 2: Financial Overview: Dive into financial training, focusing on budgeting, reporting, and cost management to ensure profitability.
 
-Day 3: People Management: Explore leadership skills and HR essentials, covering recruitment, training, and team dynamics.
+  Day 3: People Management: Explore leadership skills and HR essentials, covering recruitment, training, and team dynamics.
 
-Day 4: Operations and Compliance: Focus on operational excellence, legal compliance, and efficient use of technology systems.
+  Day 4: Operations and Compliance: Focus on operational excellence, legal compliance, and efficient use of technology systems.
 
-Day 5: Leadership and Growth: Set the stage for strategic leadership, focusing on long-term objectives, brand standards, and performance improvement.
+  Day 5: Leadership and Growth: Set the stage for strategic leadership, focusing on long-term objectives, brand standards, and performance improvement.
 intro: ''
 ---
 

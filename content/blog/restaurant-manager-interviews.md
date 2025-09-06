@@ -15,26 +15,26 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Strategic Business Leadership Needs
-Focus on business vision, organizational leadership, and strategic development. Separate essential skills (strategic planning, P&L management) from nice extras (franchise experience, marketing expertise). If you need clarity, check our article on [restaurant manager job descriptions.](https://yourpilla.com/blog/restaurant-manager-job-description)
+  Step 1: Define Strategic Business Leadership Needs
+  Focus on business vision, organizational leadership, and strategic development. Separate essential skills (strategic planning, P&L management) from nice extras (franchise experience, marketing expertise). If you need clarity, check our article on [restaurant manager job descriptions.](https://yourpilla.com/blog/restaurant-manager-job-description)
 
-Step 2: Plan Strategic Leadership Interview Structure
-Choose format based on organizational complexity:
-- Standard: Strategic questions plus business leadership simulation for restaurant leadership roles
-- Extended: Include business planning and organizational scenarios for multi-location positions
-- Advanced: Add board presentation and strategic trial for executive-level roles
+  Step 2: Plan Strategic Leadership Interview Structure
+  Choose format based on organizational complexity:
+  - Standard: Strategic questions plus business leadership simulation for restaurant leadership roles
+  - Extended: Include business planning and organizational scenarios for multi-location positions
+  - Advanced: Add board presentation and strategic trial for executive-level roles
 
-Step 3: Develop Strategic and Vision Questions
-Ask for specific examples: leading business transformations, managing P&L responsibility, building organizational culture. Focus on strategic thinking and business leadership over operational management.
+  Step 3: Develop Strategic and Vision Questions
+  Ask for specific examples: leading business transformations, managing P&L responsibility, building organizational culture. Focus on strategic thinking and business leadership over operational management.
 
-Step 4: Plan Business Leadership Trial Activities
-Test strategic vision, organizational leadership, and business management. 120-180 minutes reveals strategic patterns and executive capability. Watch for visionary thinking, business acumen, and organizational development.
+  Step 4: Plan Business Leadership Trial Activities
+  Test strategic vision, organizational leadership, and business management. 120-180 minutes reveals strategic patterns and executive capability. Watch for visionary thinking, business acumen, and organizational development.
 
-Step 5: Assess Strategic Business Presentation
-Evaluate business planning, strategic vision, and organizational leadership through comprehensive presentation covering market analysis, financial planning, and business strategy.
+  Step 5: Assess Strategic Business Presentation
+  Evaluate business planning, strategic vision, and organizational leadership through comprehensive presentation covering market analysis, financial planning, and business strategy.
 
-Step 6: Use Comprehensive Scoring Methods
-Weight strategic leadership (35%), business management (30%), organizational development (20%), and operational excellence (15%). Avoid personality-based hiring. Document specific strategic examples for each score.
+  Step 6: Use Comprehensive Scoring Methods
+  Weight strategic leadership (35%), business management (30%), organizational development (20%), and operational excellence (15%). Avoid personality-based hiring. Document specific strategic examples for each score.
 intro: ''
 ---
 ## Step 1. Define Strategic Business Leadership Needs

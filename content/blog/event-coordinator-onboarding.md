@@ -15,15 +15,15 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Day 1: Role Fundamentals and Company Overview: Provide clarity on roles and expectations, cover event types, planning principles, and introduce team members.
+  Day 1: Role Fundamentals and Company Overview: Provide clarity on roles and expectations, cover event types, planning principles, and introduce team members.
 
-Day 2: Client and Proposal Development: Shine a light on client communication, uncover client needs, develop event briefs, and use tools for proposal follow-up.
+  Day 2: Client and Proposal Development: Shine a light on client communication, uncover client needs, develop event briefs, and use tools for proposal follow-up.
 
-Day 3: Venue and Vendor Management: Navigate venue selection, negotiate contracts, manage vendor relations, and track everything with work management solutions.
+  Day 3: Venue and Vendor Management: Navigate venue selection, negotiate contracts, manage vendor relations, and track everything with work management solutions.
 
-Day 4: Planning Events and Managing Timelines: Dive into event planning, timeline creation, logistics coordination, and risk management.
+  Day 4: Planning Events and Managing Timelines: Dive into event planning, timeline creation, logistics coordination, and risk management.
 
-Day 5: On-Site Coordination and Post-Event Wrap-Up: Master on-site setups, handle crises, conduct evaluations, collect feedback, and reconcile finances.
+  Day 5: On-Site Coordination and Post-Event Wrap-Up: Master on-site setups, handle crises, conduct evaluations, collect feedback, and reconcile finances.
 intro: ''
 ---
 

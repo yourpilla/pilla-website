@@ -15,15 +15,15 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Day 1: Set the Foundation: Make your expectations clear from the start. Cover hygiene, team culture, and basic coffee knowledge. This first day is about confidence, not caffeine.
+  Day 1: Set the Foundation: Make your expectations clear from the start. Cover hygiene, team culture, and basic coffee knowledge. This first day is about confidence, not caffeine.
 
-Day 2: Teach Espresso and Milk: Get hands-on with grind size, shot timing, and milk texture. Focus on habits, not speed — and explain why each step matters.
+  Day 2: Teach Espresso and Milk: Get hands-on with grind size, shot timing, and milk texture. Focus on habits, not speed — and explain why each step matters.
 
-Day 3: Expand Skills and Menu Knowledge: Introduce latte art, signature drinks, and alternative milks. Teach recipe flexibility and reinforce visual standards with drills and side-by-side comparisons.
+  Day 3: Expand Skills and Menu Knowledge: Introduce latte art, signature drinks, and alternative milks. Teach recipe flexibility and reinforce visual standards with drills and side-by-side comparisons.
 
-Day 4: Customer Service and POS: Train your team to handle guests, special requests, and the till under pressure. Prioritise multitasking, allergy responses, and consistent service tone.
+  Day 4: Customer Service and POS: Train your team to handle guests, special requests, and the till under pressure. Prioritise multitasking, allergy responses, and consistent service tone.
 
-Day 5: Safety, Quality Control, and Readiness Check: Wrap with practical health and safety, drink quality checks, deep cleaning, and a final review. Confirm they’re confident and consistent before going solo.
+  Day 5: Safety, Quality Control, and Readiness Check: Wrap with practical health and safety, drink quality checks, deep cleaning, and a final review. Confirm they’re confident and consistent before going solo.
 intro: ''
 ---
 ## Day 1. Foundations and Coffee Knowledge

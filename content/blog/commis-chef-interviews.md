@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on foundational skills, learning attitude, and team cooperation. Separate essential skills (knife basics, food safety) from desirable ones (specialty cuisine knowledge). If unclear about requirements, check our guide on [commis chef job descriptions.](https://yourpilla.com/blog/commis-chef-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on foundational skills, learning attitude, and team cooperation. Separate essential skills (knife basics, food safety) from desirable ones (specialty cuisine knowledge). If unclear about requirements, check our guide on [commis chef job descriptions.](https://yourpilla.com/blog/commis-chef-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on your kitchen's training capacity:
-- Quick: Basic skills assessment for structured training programmes
-- Standard: Behavioural questions plus practical trial for most kitchens
-- Extended: Include team shadowing for development-focused operations
+  Step 2: Plan the Interview Structure
+  Choose format based on your kitchen's training capacity:
+  - Quick: Basic skills assessment for structured training programmes
+  - Standard: Behavioural questions plus practical trial for most kitchens
+  - Extended: Include team shadowing for development-focused operations
 
-Step 3: Develop Scenario-Based Questions
-Ask for specific examples: handling pressure, learning from mistakes, working in teams. Focus on learning ability and resilience over advanced technical knowledge.
+  Step 3: Develop Scenario-Based Questions
+  Ask for specific examples: handling pressure, learning from mistakes, working in teams. Focus on learning ability and resilience over advanced technical knowledge.
 
-Step 4: Plan Practical Trial Activities
-Test basic prep skills, recipe following, and station organisation. 45-60 minutes reveals technical foundation, learning capacity, and hygiene standards. Watch for potential, not perfection.
+  Step 4: Plan Practical Trial Activities
+  Test basic prep skills, recipe following, and station organisation. 45-60 minutes reveals technical foundation, learning capacity, and hygiene standards. Watch for potential, not perfection.
 
-Step 5: Use Consistent Scoring Methods
-Weight technical foundation (40%), organisation and cleanliness (30%), and learning attitude (30%). Focus on development potential rather than current skill level.
+  Step 5: Use Consistent Scoring Methods
+  Weight technical foundation (40%), organisation and cleanliness (30%), and learning attitude (30%). Focus on development potential rather than current skill level.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

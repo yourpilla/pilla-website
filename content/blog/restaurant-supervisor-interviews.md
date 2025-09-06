@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Leadership Needs
-Focus on service leadership, team management, and guest experience protection. Separate essential skills (shift leadership, conflict resolution) from nice extras (revenue analysis, training expertise). If you need clarity, check our article on [restaurant supervisor job descriptions.](https://yourpilla.com/blog/restaurant-supervisor-job-description)
+  Step 1: Define Leadership Needs
+  Focus on service leadership, team management, and guest experience protection. Separate essential skills (shift leadership, conflict resolution) from nice extras (revenue analysis, training expertise). If you need clarity, check our article on [restaurant supervisor job descriptions.](https://yourpilla.com/blog/restaurant-supervisor-job-description)
 
-Step 2: Plan Management-Focused Interview Structure
-Choose format based on supervisory complexity:
-- Standard: Behavioural questions plus service simulation for daily leadership roles
-- Extended: Include team interaction and operational scenarios for senior positions
-- Advanced: Add pre-assignment and practical trial for development-focused roles
+  Step 2: Plan Management-Focused Interview Structure
+  Choose format based on supervisory complexity:
+  - Standard: Behavioural questions plus service simulation for daily leadership roles
+  - Extended: Include team interaction and operational scenarios for senior positions
+  - Advanced: Add pre-assignment and practical trial for development-focused roles
 
-Step 3: Develop Leadership and Scenario Questions
-Ask for specific examples: handling service pressures, coaching team members, resolving guest issues. Focus on leadership instincts and decision-making over theoretical knowledge.
+  Step 3: Develop Leadership and Scenario Questions
+  Ask for specific examples: handling service pressures, coaching team members, resolving guest issues. Focus on leadership instincts and decision-making over theoretical knowledge.
 
-Step 4: Plan Management Trial Activities
-Test shift leadership, team coordination, and crisis management. 60-90 minutes reveals leadership patterns and pressure response. Watch for natural authority, communication skills, and service protection instincts.
+  Step 4: Plan Management Trial Activities
+  Test shift leadership, team coordination, and crisis management. 60-90 minutes reveals leadership patterns and pressure response. Watch for natural authority, communication skills, and service protection instincts.
 
-Step 5: Use Consistent Scoring Methods
-Weight leadership ability (40%), operational management (35%), and guest service focus (25%). Avoid personality-based hiring. Document specific leadership examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  Weight leadership ability (40%), operational management (35%), and guest service focus (25%). Avoid personality-based hiring. Document specific leadership examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Leadership Needs

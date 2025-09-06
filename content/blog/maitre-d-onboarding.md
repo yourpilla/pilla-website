@@ -15,15 +15,15 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Day 1: Venue Orientation and Introduction: Tour the premises, meet the team, and introduce your service philosophy. Set expectations for leadership and appearance standards.
+  Day 1: Venue Orientation and Introduction: Tour the premises, meet the team, and introduce your service philosophy. Set expectations for leadership and appearance standards.
 
-Day 2: Reservation and Guest Flow Mastery: Train on the reservation system, guest seating strategies, and managing walk-ins while balancing kitchen flow.
+  Day 2: Reservation and Guest Flow Mastery: Train on the reservation system, guest seating strategies, and managing walk-ins while balancing kitchen flow.
 
-Day 3: Upholding Service Standards &amp; Leading the Team: Learn to conduct briefings, enforce SOPs, manage guest interactions, and lead by example on the floor.
+  Day 3: Upholding Service Standards &amp; Leading the Team: Learn to conduct briefings, enforce SOPs, manage guest interactions, and lead by example on the floor.
 
-Day 4: Mastering Communication &amp; Conflict Resolution: Enhance communication skills with team and guests, and develop strategies for resolving conflicts effectively.
+  Day 4: Mastering Communication &amp; Conflict Resolution: Enhance communication skills with team and guests, and develop strategies for resolving conflicts effectively.
 
-Day 5: Safety, Compliance &amp; Career Growth: Cover essential safety practices, guest dealing strategies, compliance issues, and discuss professional development goals.
+  Day 5: Safety, Compliance &amp; Career Growth: Cover essential safety practices, guest dealing strategies, compliance issues, and discuss professional development goals.
 intro: ''
 ---
 

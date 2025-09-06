@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Focus on analytical thinking, commercial instincts, and cross-functional collaboration over just technical skills. Separate essential traits (pricing strategy, forecasting ability) from nice extras (advanced certifications, multi-property experience). If you need clarity, check our article on [hotel revenue manager job descriptions.](https://yourpilla.com/blog/hotel-revenue-manager-job-description)
+  Step 1: Define What You're Looking For
+  Focus on analytical thinking, commercial instincts, and cross-functional collaboration over just technical skills. Separate essential traits (pricing strategy, forecasting ability) from nice extras (advanced certifications, multi-property experience). If you need clarity, check our article on [hotel revenue manager job descriptions.](https://yourpilla.com/blog/hotel-revenue-manager-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on hotel complexity and revenue challenges:
-- Standard: Commercial assessment plus scenario-based challenges for most roles
-- Extended: Include strategic planning and advanced analytics for senior positions
-- Comprehensive: Add multi-department collaboration for complex operations
+  Step 2: Plan the Interview Structure
+  Choose format based on hotel complexity and revenue challenges:
+  - Standard: Commercial assessment plus scenario-based challenges for most roles
+  - Extended: Include strategic planning and advanced analytics for senior positions
+  - Comprehensive: Add multi-department collaboration for complex operations
 
-Step 3: Develop Leadership and Scenario-Based Questions
-Ask for specific examples: optimising pricing during low demand, collaborating with sales teams, implementing revenue strategies. Focus on commercial thinking and adaptability over perfect technical knowledge.
+  Step 3: Develop Leadership and Scenario-Based Questions
+  Ask for specific examples: optimising pricing during low demand, collaborating with sales teams, implementing revenue strategies. Focus on commercial thinking and adaptability over perfect technical knowledge.
 
-Step 4: Plan Revenue Management Trial Activities
-Test analytical skills, pricing decisions, and strategic thinking. 90-120 minutes reveals commercial instincts and problem-solving approach. Watch for data interpretation, collaboration skills, and guest-focused solutions.
+  Step 4: Plan Revenue Management Trial Activities
+  Test analytical skills, pricing decisions, and strategic thinking. 90-120 minutes reveals commercial instincts and problem-solving approach. Watch for data interpretation, collaboration skills, and guest-focused solutions.
 
-Step 5: Evaluate Fairly and Consistently
-Weight commercial thinking (40%), analytical ability (35%), and collaboration skills (25%). Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
+  Step 5: Evaluate Fairly and Consistently
+  Weight commercial thinking (40%), analytical ability (35%), and collaboration skills (25%). Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define What You're Looking For

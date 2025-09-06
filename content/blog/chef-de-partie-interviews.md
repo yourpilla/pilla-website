@@ -15,32 +15,32 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Focus on section mastery, consistency under pressure, and ability to train junior staff. Separate essential skills from nice extras like menu development input. If you need to, check out our article on [writing Chef de Partie job descriptions.](https://yourpilla.com/blog/chef-de-partie-job-description)
+  Step 1: Define What You're Looking For
+  Focus on section mastery, consistency under pressure, and ability to train junior staff. Separate essential skills from nice extras like menu development input. If you need to, check out our article on [writing Chef de Partie job descriptions.](https://yourpilla.com/blog/chef-de-partie-job-description)
 
-Step 2: Plan the Interview Structure
-Tailor the format based on the seniority and section complexity:
-- Simple: Short interview + practical cooking task for standard section roles.
-- Full: Technical deep-dive, pressure scenarios, and section management assessment.
-- Extended: Required practical task, full interview, plus team interaction observation.
+  Step 2: Plan the Interview Structure
+  Tailor the format based on the seniority and section complexity:
+  - Simple: Short interview + practical cooking task for standard section roles.
+  - Full: Technical deep-dive, pressure scenarios, and section management assessment.
+  - Extended: Required practical task, full interview, plus team interaction observation.
 
-Step 3: Use Behavioural and Scenario-Based Questions
-- Behavioural: Ask for examples of managing sections, training commis chefs, or maintaining standards during busy service.
-- Scenario-based: Test how they'd handle section challenges like equipment failure, stock shortages, or quality issues.
+  Step 3: Use Behavioural and Scenario-Based Questions
+  - Behavioural: Ask for examples of managing sections, training commis chefs, or maintaining standards during busy service.
+  - Scenario-based: Test how they'd handle section challenges like equipment failure, stock shortages, or quality issues.
 
-Step 4: Observe Technical Skill, Leadership, and Section Thinking
-Watch for:
-- Methodical, organised approach to section management
-- Focus on consistency and quality standards
-- Willingness to guide junior staff and maintain team cohesion
+  Step 4: Observe Technical Skill, Leadership, and Section Thinking
+  Watch for:
+  - Methodical, organised approach to section management
+  - Focus on consistency and quality standards
+  - Willingness to guide junior staff and maintain team cohesion
 
-Avoid candidates who lack attention to detail, struggle with time management, or show poor communication with junior staff.
+  Avoid candidates who lack attention to detail, struggle with time management, or show poor communication with junior staff.
 
-Step 5: Evaluate Using a Scorecard
-Apply a weighted system to compare candidates fairly:
-- Technical Skill and Section Management – 40%
-- Consistency and Quality Standards – 30%
-- Team Leadership and Training Ability – 30%
+  Step 5: Evaluate Using a Scorecard
+  Apply a weighted system to compare candidates fairly:
+  - Technical Skill and Section Management – 40%
+  - Consistency and Quality Standards – 30%
+  - Team Leadership and Training Ability – 30%
 intro: ''
 ---
 ## Step 1. Define What You're Looking For

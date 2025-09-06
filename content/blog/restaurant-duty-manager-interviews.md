@@ -15,33 +15,33 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking ForPrioritise calm shift leadership, guest complaint handling, and operational control. Clarify which responsibilities are essential versus beneficial. If you need to do this, check out our article on [writing Restaurant Duty Manager job descriptions.](https://yourpilla.com/blog/restaurant-duty-manager-duties) 
+  Step 1: Define What You're Looking ForPrioritise calm shift leadership, guest complaint handling, and operational control. Clarify which responsibilities are essential versus beneficial. If you need to do this, check out our article on [writing Restaurant Duty Manager job descriptions.](https://yourpilla.com/blog/restaurant-duty-manager-duties) 
 
-Step 2: Plan the Interview Structure
-Adapt structure based on venue complexity: 
-- Simple: Quick interview and scenario questions for junior roles.
-- Full: Leadership deep dive, incident-based scenarios, and optional task review.
-- Extended: Complex case study and team interaction for senior or multi-site managers.
+  Step 2: Plan the Interview Structure
+  Adapt structure based on venue complexity: 
+  - Simple: Quick interview and scenario questions for junior roles.
+  - Full: Leadership deep dive, incident-based scenarios, and optional task review.
+  - Extended: Complex case study and team interaction for senior or multi-site managers.
 
-Step 3: Use Behavioural and Scenario-Based Questions
-- Behavioural: Ask for real examples of guest recovery, shift incidents, or team management.
-- Scenario-based: Test judgment under pressure (e.g., fire alarm, allergy complaint, missing cash).
+  Step 3: Use Behavioural and Scenario-Based Questions
+  - Behavioural: Ask for real examples of guest recovery, shift incidents, or team management.
+  - Scenario-based: Test judgment under pressure (e.g., fire alarm, allergy complaint, missing cash).
 
-Step 4: Observe How They Lead Under Pressure
-Watch for: 
-- Calm, structured thinking in emergency scenarios
-- Guest-first mindset across all responses
-- Clear, logical prioritisation of safety, service, and operations
-Leadership tone that supports 
-— not blames 
-— staff
-Avoid candidates who panic, deflect blame, or ignore guest impact.
+  Step 4: Observe How They Lead Under Pressure
+  Watch for: 
+  - Calm, structured thinking in emergency scenarios
+  - Guest-first mindset across all responses
+  - Clear, logical prioritisation of safety, service, and operations
+  Leadership tone that supports 
+  — not blames 
+  — staff
+  Avoid candidates who panic, deflect blame, or ignore guest impact.
 
-Step 5: Evaluate Using a Scorecard
-Use weighted scoring to balance decision-making, leadership, and service instincts: 
-- Shift Leadership and Incident Management – 40%
-- Operational Problem-Solving – 30%
-- Guest Service Focus – 30%
+  Step 5: Evaluate Using a Scorecard
+  Use weighted scoring to balance decision-making, leadership, and service instincts: 
+  - Shift Leadership and Incident Management – 40%
+  - Operational Problem-Solving – 30%
+  - Guest Service Focus – 30%
 intro: ''
 ---
 ## Step 1. Define What You're Looking For

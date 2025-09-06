@@ -15,17 +15,17 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define essential skills and characteristics for a successful Restaurant Host. Use a table to distinguish between must-haves (like exceptional interpersonal skills) and nice-to-haves (like knowledge of a reservation system). If you are unclear, check our article on [Restaurant Host duties and skills](https://yourpilla.com/blog/restaurant-host-job-description).
+  Step 1: Define essential skills and characteristics for a successful Restaurant Host. Use a table to distinguish between must-haves (like exceptional interpersonal skills) and nice-to-haves (like knowledge of a reservation system). If you are unclear, check our article on [Restaurant Host duties and skills](https://yourpilla.com/blog/restaurant-host-job-description).
 
-Step 2: Plan your interview structure. Tailor it to your restaurant style:- Concise for casual dining spots- Full structure for high-volume venues
-- Extended for senior or lead host roles
-- Decide what is more crucial for you—a warm personality or technical prowess.
+  Step 2: Plan your interview structure. Tailor it to your restaurant style:- Concise for casual dining spots- Full structure for high-volume venues
+  - Extended for senior or lead host roles
+  - Decide what is more crucial for you—a warm personality or technical prowess.
 
-Step 3: Create engaging interview questions. Use behavioural interview questions to get insights into their experience with guest interactions, multitasking, and handling pressure. Make the questions specific to your dining environment—be it fine dining, family-friendly, or luxury.
+  Step 3: Create engaging interview questions. Use behavioural interview questions to get insights into their experience with guest interactions, multitasking, and handling pressure. Make the questions specific to your dining environment—be it fine dining, family-friendly, or luxury.
 
-Step 4: Develop a practical trial. Observe their ability to greet guests, organise reservations, and maintain the front-of-house poise. A 20–30-minute trial will help you understand their attitude, service potential, and organisational skills. Use a straightforward scorecard for evaluation.
+  Step 4: Develop a practical trial. Observe their ability to greet guests, organise reservations, and maintain the front-of-house poise. A 20–30-minute trial will help you understand their attitude, service potential, and organisational skills. Use a straightforward scorecard for evaluation.
 
-Step 5: Ensure fair and consistent evaluation. Use a scoring system that considers guest service, communication, and attention to detail.
+  Step 5: Ensure fair and consistent evaluation. Use a scoring system that considers guest service, communication, and attention to detail.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

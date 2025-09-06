@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on customer service excellence, professional communication, and multi-tasking capability. Separate essential skills (guest relations, system proficiency) from desirable ones (language skills, hotel experience). If unclear about requirements, check our guide on [hotel receptionist job descriptions.](https://yourpilla.com/blog/hotel-receptionist-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on customer service excellence, professional communication, and multi-tasking capability. Separate essential skills (guest relations, system proficiency) from desirable ones (language skills, hotel experience). If unclear about requirements, check our guide on [hotel receptionist job descriptions.](https://yourpilla.com/blog/hotel-receptionist-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on your hotel's service level:
-- Quick: Basic customer service assessment for budget operations
-- Standard: Behavioural interview plus practical trial for most hotels
-- Extended: Include management potential assessment for senior roles
+  Step 2: Plan the Interview Structure
+  Choose format based on your hotel's service level:
+  - Quick: Basic customer service assessment for budget operations
+  - Standard: Behavioural interview plus practical trial for most hotels
+  - Extended: Include management potential assessment for senior roles
 
-Step 3: Develop Scenario-Based Questions
-Ask for specific examples: handling difficult guests, managing busy periods, working with teams. Focus on service attitude, problem-solving, and professionalism over technical knowledge.
+  Step 3: Develop Scenario-Based Questions
+  Ask for specific examples: handling difficult guests, managing busy periods, working with teams. Focus on service attitude, problem-solving, and professionalism over technical knowledge.
 
-Step 4: Plan Practical Trial Activities
-Test check-in procedures, guest service scenarios, and system navigation. 30-45 minutes reveals service instincts, technical aptitude, and professional presentation. Watch for guest-focused thinking.
+  Step 4: Plan Practical Trial Activities
+  Test check-in procedures, guest service scenarios, and system navigation. 30-45 minutes reveals service instincts, technical aptitude, and professional presentation. Watch for guest-focused thinking.
 
-Step 5: Use Consistent Scoring Methods
-Weight guest service and communication (45%), system skills and efficiency (30%), and interpersonal relationships (25%). Focus on service excellence and professional growth potential.
+  Step 5: Use Consistent Scoring Methods
+  Weight guest service and communication (45%), system skills and efficiency (30%), and interpersonal relationships (25%). Focus on service excellence and professional growth potential.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

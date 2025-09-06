@@ -15,32 +15,32 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Focus on customer service excellence, coffee craftsmanship, and team collaboration abilities. Separate essential barista traits from nice extras like advanced latte art or specialty brewing knowledge. If you need to, check out our article on [writing Barista job descriptions.](https://yourpilla.com/blog/barista-job-description)
+  Step 1: Define What You're Looking For
+  Focus on customer service excellence, coffee craftsmanship, and team collaboration abilities. Separate essential barista traits from nice extras like advanced latte art or specialty brewing knowledge. If you need to, check out our article on [writing Barista job descriptions.](https://yourpilla.com/blog/barista-job-description)
 
-Step 2: Plan the Interview Structure
-Tailor the format based on your café complexity and service requirements:
-- Quick: Short interview + practical trial for standard barista roles.
-- Standard: Customer service deep-dive, coffee knowledge assessment, and practical trial.
-- Extended: Required coffee challenge, full interview, plus team interaction observation.
+  Step 2: Plan the Interview Structure
+  Tailor the format based on your café complexity and service requirements:
+  - Quick: Short interview + practical trial for standard barista roles.
+  - Standard: Customer service deep-dive, coffee knowledge assessment, and practical trial.
+  - Extended: Required coffee challenge, full interview, plus team interaction observation.
 
-Step 3: Use Behavioural and Scenario-Based Questions
-- Behavioural: Ask for examples of handling difficult customers, managing rush periods, or maintaining quality under pressure.
-- Scenario-based: Test how they'd handle coffee challenges like equipment failures, customer complaints, or quality consistency issues.
+  Step 3: Use Behavioural and Scenario-Based Questions
+  - Behavioural: Ask for examples of handling difficult customers, managing rush periods, or maintaining quality under pressure.
+  - Scenario-based: Test how they'd handle coffee challenges like equipment failures, customer complaints, or quality consistency issues.
 
-Step 4: Observe Coffee Skills, Customer Focus, and Team Coordination
-Watch for:
-- Natural customer service instincts and communication warmth
-- Coffee quality awareness and attention to detail
-- Systematic thinking about workflow and team support
+  Step 4: Observe Coffee Skills, Customer Focus, and Team Coordination
+  Watch for:
+  - Natural customer service instincts and communication warmth
+  - Coffee quality awareness and attention to detail
+  - Systematic thinking about workflow and team support
 
-Avoid candidates who lack customer focus, struggle with pressure, or show poor understanding of coffee quality standards.
+  Avoid candidates who lack customer focus, struggle with pressure, or show poor understanding of coffee quality standards.
 
-Step 5: Evaluate Using a Scorecard
-Apply a weighted system to compare candidates fairly:
-- Customer Service and Communication – 40%
-- Coffee Skills and Quality Awareness – 35%
-- Teamwork and Adaptability – 25%
+  Step 5: Evaluate Using a Scorecard
+  Apply a weighted system to compare candidates fairly:
+  - Customer Service and Communication – 40%
+  - Coffee Skills and Quality Awareness – 35%
+  - Teamwork and Adaptability – 25%
 intro: ''
 ---
  ## Step 1. Define What You're Looking For

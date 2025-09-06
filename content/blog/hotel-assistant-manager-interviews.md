@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Core Competencies
-Pinpoint the essential and desirable skills, experience, and personal attributes you are looking for in a hotel assistant manager. If you need to do this, check out our article on [writing Hotel Assistant Manager job descriptions.](https://yourpilla.com/blog/hotel-assistant-manager-duties)
+  Step 1: Define Core Competencies
+  Pinpoint the essential and desirable skills, experience, and personal attributes you are looking for in a hotel assistant manager. If you need to do this, check out our article on [writing Hotel Assistant Manager job descriptions.](https://yourpilla.com/blog/hotel-assistant-manager-duties)
  
-Step 2: Establish a Two-Stage Interview Framework
-Structure your interviews to evaluate both operational efficiency and guest service philosophy, ensuring comprehensive assessment.
+  Step 2: Establish a Two-Stage Interview Framework
+  Structure your interviews to evaluate both operational efficiency and guest service philosophy, ensuring comprehensive assessment.
 
-Step 3: Formulate Realistic Scenario-Based Questions
-Develop questions that challenge candidates to demonstrate genuine issues-solving abilities crucial in hotel operations.
+  Step 3: Formulate Realistic Scenario-Based Questions
+  Develop questions that challenge candidates to demonstrate genuine issues-solving abilities crucial in hotel operations.
 
-Step 4: Evaluate Suitability for Stage 2
-Only advance candidates who show a strong blend of operational acumen and service-oriented approaches in Stage 1.
+  Step 4: Evaluate Suitability for Stage 2
+  Only advance candidates who show a strong blend of operational acumen and service-oriented approaches in Stage 1.
 
-Step 5: Assign a Practical Task for Stage 2
-Implement a task that showcases the candidate’s ability to apply theoretical knowledge to practical hotel management challenges.
+  Step 5: Assign a Practical Task for Stage 2
+  Implement a task that showcases the candidate’s ability to apply theoretical knowledge to practical hotel management challenges.
 
-Step 6: Assess Candidates and Reach a Thoughtful Decision
-Compare candidates through structured criteria, focusing on operational insights and cultural fit relative to your hotel’s atmosphere.
+  Step 6: Assess Candidates and Reach a Thoughtful Decision
+  Compare candidates through structured criteria, focusing on operational insights and cultural fit relative to your hotel’s atmosphere.
 intro: ''
 ---
 ## Step 1. Define Core Competencies

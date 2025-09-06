@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on basic cooking skills, speed under pressure, and teamwork over advanced culinary creativity. Separate essential traits (knife skills, cleanliness) from nice extras (specific cuisine experience, formal training). If you need clarity, check our article on [line cook job descriptions.](https://yourpilla.com/blog/line-cook-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on basic cooking skills, speed under pressure, and teamwork over advanced culinary creativity. Separate essential traits (knife skills, cleanliness) from nice extras (specific cuisine experience, formal training). If you need clarity, check our article on [line cook job descriptions.](https://yourpilla.com/blog/line-cook-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on your kitchen's pace and complexity:
-- Quick: Short chat plus cooking trial for high-volume operations
-- Standard: Behavioural questions plus practical assessment to test cooking skills and pressure response
-- Extended: Include team interaction for fine dining or senior line cook positions
+  Step 2: Plan the Interview Structure
+  Choose format based on your kitchen's pace and complexity:
+  - Quick: Short chat plus cooking trial for high-volume operations
+  - Standard: Behavioural questions plus practical assessment to test cooking skills and pressure response
+  - Extended: Include team interaction for fine dining or senior line cook positions
 
-Step 3: Develop Scenario-Based Questions
-Ask for specific examples: handling busy service, working under pressure, coordinating with other stations. Focus on teamwork and reliability over perfect technique knowledge.
+  Step 3: Develop Scenario-Based Questions
+  Ask for specific examples: handling busy service, working under pressure, coordinating with other stations. Focus on teamwork and reliability over perfect technique knowledge.
 
-Step 4: Plan Practical Trial Activities
-Test knife skills, cooking techniques, and station management. 30-45 minutes reveals cooking ability and work habits. Watch for speed, cleanliness, and communication with team members.
+  Step 4: Plan Practical Trial Activities
+  Test knife skills, cooking techniques, and station management. 30-45 minutes reveals cooking ability and work habits. Watch for speed, cleanliness, and communication with team members.
 
-Step 5: Use Consistent Scoring Methods
-Weight cooking skills (40%), cleanliness and organisation (30%), and teamwork (30%). Avoid technique-only hiring. Document specific examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  Weight cooking skills (40%), cleanliness and organisation (30%), and teamwork (30%). Avoid technique-only hiring. Document specific examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

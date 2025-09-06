@@ -15,32 +15,32 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Focus on team leadership, operational oversight, and service excellence. Separate essential supervisory traits from nice extras like advanced mixology or multi-venue experience. If you need to, check out our article on [writing Bar Supervisor job descriptions.](https://yourpilla.com/blog/bar-supervisor-job-description)
+  Step 1: Define What You're Looking For
+  Focus on team leadership, operational oversight, and service excellence. Separate essential supervisory traits from nice extras like advanced mixology or multi-venue experience. If you need to, check out our article on [writing Bar Supervisor job descriptions.](https://yourpilla.com/blog/bar-supervisor-job-description)
 
-Step 2: Plan the Interview Structure
-Tailor the format based on your venue complexity and supervisory requirements:
-- Quick: Short interview + leadership scenarios for standard supervisory roles.
-- Standard: Team leadership deep-dive, operational scenarios, and service management assessment.
-- Extended: Required leadership task, full interview, plus team interaction observation.
+  Step 2: Plan the Interview Structure
+  Tailor the format based on your venue complexity and supervisory requirements:
+  - Quick: Short interview + leadership scenarios for standard supervisory roles.
+  - Standard: Team leadership deep-dive, operational scenarios, and service management assessment.
+  - Extended: Required leadership task, full interview, plus team interaction observation.
 
-Step 3: Use Behavioural and Scenario-Based Questions
-- Behavioural: Ask for examples of leading bar teams, managing conflicts, or maintaining standards during challenging periods.
-- Scenario-based: Test how they'd handle supervisory challenges like staff shortages, service breakdowns, or quality issues.
+  Step 3: Use Behavioural and Scenario-Based Questions
+  - Behavioural: Ask for examples of leading bar teams, managing conflicts, or maintaining standards during challenging periods.
+  - Scenario-based: Test how they'd handle supervisory challenges like staff shortages, service breakdowns, or quality issues.
 
-Step 4: Observe Leadership Presence, Service Focus, and Team Management Skills
-Watch for:
-- Natural leadership authority and team motivation approach
-- Service quality focus and guest satisfaction awareness
-- Systematic thinking about bar operations and team coordination
+  Step 4: Observe Leadership Presence, Service Focus, and Team Management Skills
+  Watch for:
+  - Natural leadership authority and team motivation approach
+  - Service quality focus and guest satisfaction awareness
+  - Systematic thinking about bar operations and team coordination
 
-Avoid candidates who lack confidence in leadership situations, struggle with team focus, or show poor understanding of service standards.
+  Avoid candidates who lack confidence in leadership situations, struggle with team focus, or show poor understanding of service standards.
 
-Step 5: Evaluate Using a Scorecard
-Apply a weighted system to compare candidates fairly:
-- Team Leadership and Management – 40%
-- Operational Excellence and Problem-Solving – 35%
-- Service Standards and Guest Focus – 25%
+  Step 5: Evaluate Using a Scorecard
+  Apply a weighted system to compare candidates fairly:
+  - Team Leadership and Management – 40%
+  - Operational Excellence and Problem-Solving – 35%
+  - Service Standards and Guest Focus – 25%
 intro: ''
 ---
 

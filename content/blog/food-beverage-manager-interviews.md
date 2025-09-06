@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Identify the precise responsibilities, expertise, and personality traits needed for the role — prioritise essential skills versus desirable ones. If you need to do this, check out our article on [writing Food and Beverage job descriptions.](https://yourpilla.com/blog/food-beverage-manager-duties)
+  Step 1: Define What You're Looking For
+  Identify the precise responsibilities, expertise, and personality traits needed for the role — prioritise essential skills versus desirable ones. If you need to do this, check out our article on [writing Food and Beverage job descriptions.](https://yourpilla.com/blog/food-beverage-manager-duties)
 
-Step 2: Plan a Structured Two-Stage Interview
-Employ a two-tiered interview approach to examine both management style and operational acumen for a comprehensive assessment.
+  Step 2: Plan a Structured Two-Stage Interview
+  Employ a two-tiered interview approach to examine both management style and operational acumen for a comprehensive assessment.
 
-Step 3: Develop Behavioural and Scenario-Based Questions
-Pose questions that reveal candidates' real-world decision-making abilities and customer service perspectives under typical industry pressures.
+  Step 3: Develop Behavioural and Scenario-Based Questions
+  Pose questions that reveal candidates' real-world decision-making abilities and customer service perspectives under typical industry pressures.
 
- Step 4: Evaluate Candidates for Stage Two
-Advance candidates who demonstrate strong leadership, a service-oriented mindset, and operational insight in the initial interview.
+   Step 4: Evaluate Candidates for Stage Two
+  Advance candidates who demonstrate strong leadership, a service-oriented mindset, and operational insight in the initial interview.
 
-Step 5: Assign a Relevant Task for Interview 2
-Present a task that tests strategic planning, decision-making abilities, and operational knowledge pertinent to your establishment type.
+  Step 5: Assign a Relevant Task for Interview 2
+  Present a task that tests strategic planning, decision-making abilities, and operational knowledge pertinent to your establishment type.
 
-Step 6: Analyse Candidates and Decide
-Use a structured evaluation to compare candidates' performance across interviews and tasks, focusing on their leadership, service focus, and fit for your venue.
+  Step 6: Analyse Candidates and Decide
+  Use a structured evaluation to compare candidates' performance across interviews and tasks, focusing on their leadership, service focus, and fit for your venue.
 intro: ''
 ---
 

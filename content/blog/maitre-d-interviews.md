@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Hospitality Leadership Needs
-Focus on guest experience excellence, front-of-house leadership, and service coordination. Separate essential skills (team management, service recovery) from nice extras (sommelier knowledge, language skills). If you need clarity, check our article on [maitre d' job descriptions.](https://yourpilla.com/blog/maitre-d-job-description)
+  Step 1: Define Hospitality Leadership Needs
+  Focus on guest experience excellence, front-of-house leadership, and service coordination. Separate essential skills (team management, service recovery) from nice extras (sommelier knowledge, language skills). If you need clarity, check our article on [maitre d' job descriptions.](https://yourpilla.com/blog/maitre-d-job-description)
 
-Step 2: Plan Management-Focused Interview Structure
-Choose format based on establishment complexity:
-- Standard: Leadership questions plus service management simulation for dining coordination roles
-- Extended: Include team interaction and guest experience scenarios for senior positions
-- Advanced: Add service trial and floor management assessment for high-end establishments
+  Step 2: Plan Management-Focused Interview Structure
+  Choose format based on establishment complexity:
+  - Standard: Leadership questions plus service management simulation for dining coordination roles
+  - Extended: Include team interaction and guest experience scenarios for senior positions
+  - Advanced: Add service trial and floor management assessment for high-end establishments
 
-Step 3: Develop Leadership and Service Questions
-Ask for specific examples: managing service crises, leading front-of-house teams, handling VIP experiences. Focus on hospitality leadership and guest satisfaction over technical knowledge.
+  Step 3: Develop Leadership and Service Questions
+  Ask for specific examples: managing service crises, leading front-of-house teams, handling VIP experiences. Focus on hospitality leadership and guest satisfaction over technical knowledge.
 
-Step 4: Plan Service Leadership Trial Activities
-Test guest relations, team coordination, and service flow management. 90-120 minutes reveals leadership patterns and guest service instincts. Watch for natural authority, communication excellence, and operational coordination.
+  Step 4: Plan Service Leadership Trial Activities
+  Test guest relations, team coordination, and service flow management. 90-120 minutes reveals leadership patterns and guest service instincts. Watch for natural authority, communication excellence, and operational coordination.
 
-Step 5: Use Consistent Scoring Methods
-Weight guest experience management (40%), team leadership (35%), and operational excellence (25%). Avoid personality-based hiring. Document specific leadership examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  Weight guest experience management (40%), team leadership (35%), and operational excellence (25%). Avoid personality-based hiring. Document specific leadership examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Hospitality Leadership Needs

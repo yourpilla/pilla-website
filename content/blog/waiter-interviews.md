@@ -15,31 +15,31 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Focus on customer service excellence, multitasking ability, and communication skills. Separate essential traits from nice extras like wine knowledge or multilingual abilities. If you need to, check out our article on [writing Waiter job descriptions.](https://yourpilla.com/blog/waiter-job-description)
+  Step 1: Define What You're Looking For
+  Focus on customer service excellence, multitasking ability, and communication skills. Separate essential traits from nice extras like wine knowledge or multilingual abilities. If you need to, check out our article on [writing Waiter job descriptions.](https://yourpilla.com/blog/waiter-job-description)
 
-Step 2: Plan the Interview Structure
-Tailor the format based on your restaurant type and service complexity:
-- Quick: Short interview + basic service scenarios for casual dining roles.
-- Standard: Service deep-dive, pressure scenarios, and guest interaction assessment.
-- Extended: Required role-play, full interview, plus team interaction observation.
+  Step 2: Plan the Interview Structure
+  Tailor the format based on your restaurant type and service complexity:
+  - Quick: Short interview + basic service scenarios for casual dining roles.
+  - Standard: Service deep-dive, pressure scenarios, and guest interaction assessment.
+  - Extended: Required role-play, full interview, plus team interaction observation.
 
-Step 3: Use Behavioural and Scenario-Based Questions
-- Behavioural: Ask for examples of handling difficult customers, managing busy sections, or working under pressure.
-- Scenario-based: Test how they'd handle real service challenges like order mistakes, guest complaints, or equipment failures.
+  Step 3: Use Behavioural and Scenario-Based Questions
+  - Behavioural: Ask for examples of handling difficult customers, managing busy sections, or working under pressure.
+  - Scenario-based: Test how they'd handle real service challenges like order mistakes, guest complaints, or equipment failures.
 
-Step 4: Observe Communication, Grace Under Pressure, and Guest Focus
-Watch for:
-- Clear, professional communication style
-- Ability to remain calm and solution-focused during challenges
-- Natural customer service instincts and genuine hospitality approach
-Avoid candidates who lack attention to detail, struggle with multitasking, or show poor attitude towards guest service.
+  Step 4: Observe Communication, Grace Under Pressure, and Guest Focus
+  Watch for:
+  - Clear, professional communication style
+  - Ability to remain calm and solution-focused during challenges
+  - Natural customer service instincts and genuine hospitality approach
+  Avoid candidates who lack attention to detail, struggle with multitasking, or show poor attitude towards guest service.
 
-Step 5: Evaluate Using a Scorecard
-Apply a weighted system to compare candidates fairly:
-- Customer Service and Communication – 40%
-- Multitasking and Organisation – 30%
-- Professional Presentation and Teamwork – 30%
+  Step 5: Evaluate Using a Scorecard
+  Apply a weighted system to compare candidates fairly:
+  - Customer Service and Communication – 40%
+  - Multitasking and Organisation – 30%
+  - Professional Presentation and Teamwork – 30%
 intro: ''
 ---
 ## Step 1. Define What You're Looking For

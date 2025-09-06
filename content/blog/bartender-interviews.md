@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on customer service excellence, multitasking ability, and beverage knowledge over technical flair. Separate essential traits (speed under pressure, team cooperation) from nice extras (cocktail creativity, previous bar experience). If you need clarity, check our article on [bartender job descriptions.](https://yourpilla.com/blog/bartender-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on customer service excellence, multitasking ability, and beverage knowledge over technical flair. Separate essential traits (speed under pressure, team cooperation) from nice extras (cocktail creativity, previous bar experience). If you need clarity, check our article on [bartender job descriptions.](https://yourpilla.com/blog/bartender-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on your establishment's pace and service style:
-- Quick: Short chat plus drink-making trial for immediate coverage
-- Standard: Behavioural questions plus practical assessment to test service skills and drink quality
-- Extended: Include team interaction for craft cocktail bars or supervisory roles
+  Step 2: Plan the Interview Structure
+  Choose format based on your establishment's pace and service style:
+  - Quick: Short chat plus drink-making trial for immediate coverage
+  - Standard: Behavioural questions plus practical assessment to test service skills and drink quality
+  - Extended: Include team interaction for craft cocktail bars or supervisory roles
 
-Step 3: Develop Scenario-Based Questions
-Ask for specific examples: handling busy periods, managing difficult customers, working with kitchen staff. Focus on service attitude and pressure management over perfect drink knowledge.
+  Step 3: Develop Scenario-Based Questions
+  Ask for specific examples: handling busy periods, managing difficult customers, working with kitchen staff. Focus on service attitude and pressure management over perfect drink knowledge.
 
-Step 4: Plan Practical Trial Activities
-Test drink preparation, customer interaction, and station management. 30-45 minutes reveals service approach and technical capability. Watch for cleanliness, efficiency, and genuine hospitality.
+  Step 4: Plan Practical Trial Activities
+  Test drink preparation, customer interaction, and station management. 30-45 minutes reveals service approach and technical capability. Watch for cleanliness, efficiency, and genuine hospitality.
 
-Step 5: Use Consistent Scoring Methods
-Weight customer service (40%), drink quality and speed (35%), and teamwork (25%). Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  Weight customer service (40%), drink quality and speed (35%), and teamwork (25%). Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

@@ -15,26 +15,26 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define What You're Looking For
-Focus on wine expertise, guest engagement skills, and sales ability over just tasting credentials. Separate essential traits (pairing knowledge, guest education) from nice extras (advanced certifications, rare wine experience). If you need clarity, check our article on [sommelier job descriptions.](https://yourpilla.com/blog/sommelier-job-description)
+  Step 1: Define What You're Looking For
+  Focus on wine expertise, guest engagement skills, and sales ability over just tasting credentials. Separate essential traits (pairing knowledge, guest education) from nice extras (advanced certifications, rare wine experience). If you need clarity, check our article on [sommelier job descriptions.](https://yourpilla.com/blog/sommelier-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on establishment sophistication:
-- Standard: Wine knowledge assessment plus service scenarios for most roles
-- Extended: Include program development and staff training for senior positions
-- Comprehensive: Add strategic planning for wine director roles
+  Step 2: Plan the Interview Structure
+  Choose format based on establishment sophistication:
+  - Standard: Wine knowledge assessment plus service scenarios for most roles
+  - Extended: Include program development and staff training for senior positions
+  - Comprehensive: Add strategic planning for wine director roles
 
-Step 3: Develop Leadership and Scenario-Based Questions
-Ask for specific examples: educating hesitant guests, handling wine complaints, building wine sales. Focus on hospitality instincts and commercial awareness over technical perfection.
+  Step 3: Develop Leadership and Scenario-Based Questions
+  Ask for specific examples: educating hesitant guests, handling wine complaints, building wine sales. Focus on hospitality instincts and commercial awareness over technical perfection.
 
-Step 4: Plan Wine Service Trial Activities
-Test knowledge application, guest interaction, and sales skills. 90-120 minutes reveals expertise and service approach. Watch for confidence, adaptability, and genuine passion.
+  Step 4: Plan Wine Service Trial Activities
+  Test knowledge application, guest interaction, and sales skills. 90-120 minutes reveals expertise and service approach. Watch for confidence, adaptability, and genuine passion.
 
-Step 5: Evaluate Fairly and Consistently
-- Weight wine expertise (40%)
-- Guest service (35%), 
-- Sales capability (25%). 
-Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
+  Step 5: Evaluate Fairly and Consistently
+  - Weight wine expertise (40%)
+  - Guest service (35%), 
+  - Sales capability (25%). 
+  Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define What You're Looking For

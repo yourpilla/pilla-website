@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on teamwork, adaptability, and service attitude over technical expertise. Separate essential traits (communication, multi-tasking) from beneficial ones (catering experience). If unclear about requirements, check our guide on [catering assistant job descriptions.](https://yourpilla.com/blog/catering-assistant-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on teamwork, adaptability, and service attitude over technical expertise. Separate essential traits (communication, multi-tasking) from beneficial ones (catering experience). If unclear about requirements, check our guide on [catering assistant job descriptions.](https://yourpilla.com/blog/catering-assistant-job-description)
 
-Step 2: Plan the Interview Structure  
-Choose format based on your operation's needs:
-- Quick: Essential questions plus brief trial for volume hiring
-- Standard: Behavioural interview plus practical assessment to test service capability
-- Extended: Include team interaction for senior assistant roles
+  Step 2: Plan the Interview Structure  
+  Choose format based on your operation's needs:
+  - Quick: Essential questions plus brief trial for volume hiring
+  - Standard: Behavioural interview plus practical assessment to test service capability
+  - Extended: Include team interaction for senior assistant roles
 
-Step 3: Develop Scenario-Based Questions
-Ask for specific examples: handling busy events, working in teams, adapting to changes. Focus on service attitude, problem-solving, and reliability over advanced skills.
+  Step 3: Develop Scenario-Based Questions
+  Ask for specific examples: handling busy events, working in teams, adapting to changes. Focus on service attitude, problem-solving, and reliability over advanced skills.
 
-Step 4: Plan Practical Trial Activities
-Test station setup, guest service simulation, and teamwork support. 30-45 minutes reveals work patterns, organisation, and customer service instincts. Watch for initiative and adaptability.
+  Step 4: Plan Practical Trial Activities
+  Test station setup, guest service simulation, and teamwork support. 30-45 minutes reveals work patterns, organisation, and customer service instincts. Watch for initiative and adaptability.
 
-Step 5: Use Consistent Scoring Methods
-Weight teamwork and communication (40%), practical efficiency (30%), and initiative (30%). Focus on service attitude and reliability rather than perfect technical execution.
+  Step 5: Use Consistent Scoring Methods
+  Weight teamwork and communication (40%), practical efficiency (30%), and initiative (30%). Focus on service attitude and reliability rather than perfect technical execution.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For

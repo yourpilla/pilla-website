@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Exactly What Traits You Need
-Clearly outline the essential skills, experience in hotel operations, and leadership qualities, splitting them into must-haves and nice-to-haves. If you need to do this, check out our article on [writing Hotel General Manager job descriptions.&nbsp;](https://yourpilla.com/blog/hotel-manager-duties)
+  Step 1: Define Exactly What Traits You Need
+  Clearly outline the essential skills, experience in hotel operations, and leadership qualities, splitting them into must-haves and nice-to-haves. If you need to do this, check out our article on [writing Hotel General Manager job descriptions.&nbsp;](https://yourpilla.com/blog/hotel-manager-duties)
 
-Step 2: Plan a Two-Tier Interview Approach
-Design a structured two-tier interview process focusing on both leadership and strategic decision-making—avoid making snap judgments based on first impressions.
+  Step 2: Plan a Two-Tier Interview Approach
+  Design a structured two-tier interview process focusing on both leadership and strategic decision-making—avoid making snap judgments based on first impressions.
 
-Step 3: Develop Realistic Scenario-Driven Questions
-Formulate questions that probe candidates on their management style, critical thinking, and problem-solving skills in high-pressure real-world situations.
+  Step 3: Develop Realistic Scenario-Driven Questions
+  Formulate questions that probe candidates on their management style, critical thinking, and problem-solving skills in high-pressure real-world situations.
 
-Step 4: Determine Who Should Advance to the Second Interview
-Move candidates forward only if they demonstrate strong leadership, a guest-first mentality, and profound operational insight in the first round.
+  Step 4: Determine Who Should Advance to the Second Interview
+  Move candidates forward only if they demonstrate strong leadership, a guest-first mentality, and profound operational insight in the first round.
 
-Step 5: Assign a Thought-Provoking Task for Round Two
-Require candidates to tackle a focused task reflecting the strategic planning and operational challenges specific to your hotel.
+  Step 5: Assign a Thought-Provoking Task for Round Two
+  Require candidates to tackle a focused task reflecting the strategic planning and operational challenges specific to your hotel.
 
-Step 6: Evaluate Candidates and Make an Informed Decision
-Contrast performances across both interviews and tasks using well-defined criteria—emphasising leadership, guest service excellence, and cultural fit.
+  Step 6: Evaluate Candidates and Make an Informed Decision
+  Contrast performances across both interviews and tasks using well-defined criteria—emphasising leadership, guest service excellence, and cultural fit.
 intro: ''
 ---
 

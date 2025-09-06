@@ -15,23 +15,23 @@ subtitle: >-
 sidebar_image: ''
 sidebar_image_alt: ''
 tldr: >-
-Step 1: Define Who You're Looking For
-Focus on guest service excellence, local knowledge, and problem-solving abilities over technical skills. Separate essential traits (professional communication, service mindset) from nice extras (multiple languages, luxury experience). If you need clarity, check our article on [concierge job descriptions.](https://yourpilla.com/blog/concierge-job-description)
+  Step 1: Define Who You're Looking For
+  Focus on guest service excellence, local knowledge, and problem-solving abilities over technical skills. Separate essential traits (professional communication, service mindset) from nice extras (multiple languages, luxury experience). If you need clarity, check our article on [concierge job descriptions.](https://yourpilla.com/blog/concierge-job-description)
 
-Step 2: Plan the Interview Structure
-Choose format based on your property's service level:
-- Quick: Short chat plus role-play for immediate coverage
-- Standard: Behavioural questions plus guest scenario assessment to test guest service skills
-- Extended: Include team interaction for luxury properties or leadership roles
+  Step 2: Plan the Interview Structure
+  Choose format based on your property's service level:
+  - Quick: Short chat plus role-play for immediate coverage
+  - Standard: Behavioural questions plus guest scenario assessment to test guest service skills
+  - Extended: Include team interaction for luxury properties or leadership roles
 
-Step 3: Develop Scenario-Based Questions
-Ask for specific examples: handling difficult guests, coordinating special requests, managing multiple priorities. Focus on service attitude and problem-solving over perfect local knowledge.
+  Step 3: Develop Scenario-Based Questions
+  Ask for specific examples: handling difficult guests, coordinating special requests, managing multiple priorities. Focus on service attitude and problem-solving over perfect local knowledge.
 
-Step 4: Plan Practical Trial Activities
-Test guest interaction skills, request coordination, and problem resolution. 45-60 minutes reveals service approach and communication style. Watch for professionalism, initiative, and genuine guest care.
+  Step 4: Plan Practical Trial Activities
+  Test guest interaction skills, request coordination, and problem resolution. 45-60 minutes reveals service approach and communication style. Watch for professionalism, initiative, and genuine guest care.
 
-Step 5: Use Consistent Scoring Methods
-Weight guest service skills (40%), problem-solving ability (30%), and communication quality (30%). Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
+  Step 5: Use Consistent Scoring Methods
+  Weight guest service skills (40%), problem-solving ability (30%), and communication quality (30%). Avoid personality-based hiring. Document specific examples for each score to compare candidates fairly.
 intro: ''
 ---
 ## Step 1. Define Who You're Looking For
