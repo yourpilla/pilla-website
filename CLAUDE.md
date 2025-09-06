@@ -418,6 +418,25 @@ import FreeTrialButton from '@/components/FreeTrialButton';
 - **UID System**: Bubble-compatible format for FAQ referencing (`timestamp x randomNumber`)
 - **Schema Integration**: JSON-LD structured data stored as YAML pipe strings
 
+#### Blog Frontmatter Fields
+All blog posts require these YAML frontmatter fields:
+- **`breadcrumb schema`**: Breadcrumb structured data (string)
+- **`breadcrumb short`**: Short breadcrumb text (string)
+- **`meta`**: SEO meta description (string)
+- **`questions`**: Comma-separated FAQ UIDs for related content (string)
+- **`schema`**: JSON-LD structured data (string)
+- **`secondary tag`**: Blog category for filtering (string)
+- **`template actual`**: Associated work template UID (string)
+- **`Slug`**: URL slug for the blog post (string)
+- **`unique id`**: Bubble-compatible unique identifier (string)
+- **`featured`**: Featured post flag (boolean)
+- **`subtitle`**: Author info and modification date (string)
+- **`sidebar_image`**: Uploadcare image URL (string)
+- **`sidebar_image_alt`**: Image alt text for accessibility (string)
+- **`title`**: Blog post title (string)
+- **`tldr`**: Key takeaways summary (string)
+- **`intro`**: Introduction section content (string)
+
 ### FAQ Integration
 - **UID-based Referencing**: Blog posts reference FAQs via `questions` field
 - **Dynamic Content**: `getFAQsByUIDs()` resolves UIDs to full FAQ content  

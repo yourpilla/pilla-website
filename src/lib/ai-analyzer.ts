@@ -159,10 +159,13 @@ IMPORTANT DATA ANALYSIS GUIDELINES:
 - Keep insights practical and implementable for busy hospitality managers
 
 FORMAT REQUIREMENTS:
-- Use clear headings for each section
-- Use bullet points where possible to add clarity
+- Format your entire response in HTML for email display
+- Use HTML headings (<h2>, <h3>) for each section
+- Use HTML bullet points (<ul><li>) for lists
 - Your response will be used as the intro and body for the email so start your response with "Hi ${managerName}"
-- You don't need to add a signature to the email because there is already a hardcoded one
+- DO NOT include any signature, sign-off, or closing like "Best regards", "Sincerely", "[Your Name]", etc.
+- End your response with your final insight or recommendation - NO SIGNATURE WHATSOEVER
+- Use proper HTML formatting with <p> tags for paragraphs and <br> for line breaks
 
 Below are the hospitality manager's custom instructions for this report:
 
@@ -540,10 +543,13 @@ IMPORTANT DATA ANALYSIS GUIDELINES:
 - Keep insights strategic and implementable for busy executives
 
 FORMAT REQUIREMENTS:
-- Use clear headings for each section
-- Use bullet points where possible to add clarity
+- Format your entire response in HTML for email display
+- Use HTML headings (<h2>, <h3>) for each section
+- Use HTML bullet points (<ul><li>) for lists
 - Your response will be used as the intro and body for the email so start your response with "Hi ${adminName}"
-- You don't need to add a signature to the email because there is already a hardcoded one
+- DO NOT include any signature, sign-off, or closing like "Best regards", "Sincerely", "[Your Name]", etc.
+- End your response with your final insight or recommendation - NO SIGNATURE WHATSOEVER
+- Use proper HTML formatting with <p> tags for paragraphs and <br> for line breaks
 
 Below are the company administrator's custom analysis instructions:
 
